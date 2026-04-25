@@ -1,67 +1,225 @@
 {
   "outputDir": "pmi-ba-vietnamese",
-  "index": "pmi-ba-vietnamese/index.html",
-  "print": "pmi-ba-vietnamese/print.html",
-  "pageCount": 13,
-  "siteWordsApprox": 36294,
-  "printWordsApprox": 34618,
-  "estimatedWordPagesAt350Words": 104,
-  "files": [
+  "sourcePdfPath": "C:\\Users\\thiendd3\\Downloads\\1. The PMI Guide to Business Analysis (2017) English - Original.pdf",
+  "language": "Vietnamese",
+  "targetWordPages": 400,
+  "wordsPerStandardPage": 350,
+  "targetWordsApprox": 140000,
+  "bilingualTerminology": true,
+  "glossaryEntriesApprox": 157,
+  "quizPlacement": "end-of-page only; excluded from print.html",
+  "quizInteraction": "selectable answers with right/wrong feedback, per-option explanations, localStorage answer cache, per-level Retest and Retest Failed buttons",
+  "quizCoverage": [
     {
       "file": "pmi-ba-vietnamese/index.html",
-      "words": 777
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/01-ban-do-doc.html",
-      "words": 1617
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/02-nen-tang.html",
-      "words": 805
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/03-moi-truong-vai-tro.html",
-      "words": 726
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/04-danh-gia-nhu-cau.html",
-      "words": 6056
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/05-gan-ket-stakeholder.html",
-      "words": 5930
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/06-elicitation.html",
-      "words": 3436
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/07-phan-tich.html",
-      "words": 7489
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/08-truy-vet-giam-sat.html",
-      "words": 3478
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/09-danh-gia-giai-phap.html",
-      "words": 3485
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/10-standard.html",
-      "words": 985
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
       "file": "pmi-ba-vietnamese/pages/11-cong-cu-nang-luc.html",
-      "words": 834
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
     },
     {
-      "file": "pmi-ba-vietnamese/pages/12-playbook.html",
-      "words": 676
+      "file": "pmi-ba-vietnamese/pages/12-thuat-ngu.html",
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/13-playbook.html",
+      "total": 20,
+      "levels": {
+        "easy": 5,
+        "medium": 5,
+        "hard": 5,
+        "hardest": 5
+      }
+    }
+  ],
+  "quizQuestionsTotal": 280,
+  "index": "pmi-ba-vietnamese/index.html",
+  "print": "pmi-ba-vietnamese/print.html",
+  "pageCount": 14,
+  "siteWordsApprox": 185028,
+  "printWordsApprox": 140212,
+  "estimatedWordPagesAt350Words": 401,
+  "estimatedPrintWordPagesAt350Words": 401,
+  "estimatedSiteWordPagesAt350Words": 529,
+  "files": [
+    {
+      "file": "pmi-ba-vietnamese/index.html",
+      "words": 3944
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/01-ban-do-doc.html",
+      "words": 4776
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/02-nen-tang.html",
+      "words": 3729
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/03-moi-truong-vai-tro.html",
+      "words": 3677
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/04-danh-gia-nhu-cau.html",
+      "words": 28939
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/05-gan-ket-stakeholder.html",
+      "words": 28572
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/06-elicitation.html",
+      "words": 17487
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/07-phan-tich.html",
+      "words": 35589
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/08-truy-vet-giam-sat.html",
+      "words": 18194
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/09-danh-gia-giai-phap.html",
+      "words": 18058
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/10-standard.html",
+      "words": 4052
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/11-cong-cu-nang-luc.html",
+      "words": 3908
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/12-thuat-ngu.html",
+      "words": 10515
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/13-playbook.html",
+      "words": 3588
     },
     {
       "file": "pmi-ba-vietnamese/print.html",
-      "words": 34618
+      "words": 140212
     }
   ]
 }

@@ -3,148 +3,1296 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Elicitation - Khai thác và xác nhận thông tin · PMI BA Vietnamese Deep Dive</title>
-  <meta name="description" content="Từ cách tiếp cận elicitation tới chuẩn bị, tiến hành và xác nhận kết quả.">
+  <title>Khai thác và xác nhận thông tin (Elicitation) · PMI BA Vietnamese Deep Dive</title>
+  <meta name="description" content="Từ cách tiếp cận elicitation (elicitation approach) tới chuẩn bị, tiến hành và xác nhận kết quả elicitation (elicitation results).">
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
   <nav class="site-nav">
-    <a class="brand" href="../index.html">PMI BA · Vietnamese Deep Dive</a>
-    <button aria-label="Mở mục lục" id="navToggle">Mục lục</button>
-    <div class="nav-links"><a  href="../index.html">Tổng quan</a><a  href="../pages/01-ban-do-doc.html">Bản đồ</a><a  href="../pages/02-nen-tang.html">Nền tảng</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường</a><a  href="../pages/04-danh-gia-nhu-cau.html">Needs</a><a  href="../pages/05-gan-ket-stakeholder.html">Stakeholder</a><a class="active" href="../pages/06-elicitation.html">Elicitation</a><a  href="../pages/07-phan-tich.html">Analysis</a><a  href="../pages/08-truy-vet-giam-sat.html">Traceability</a><a  href="../pages/09-danh-gia-giai-phap.html">Evaluation</a><a  href="../pages/10-standard.html">Standard</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ</a><a  href="../pages/12-playbook.html">Playbook</a></div>
+    <a class="brand" href="../index.html">PMI BA · Đọc sâu song ngữ (Bilingual Deep Dive)</a>
+    <button aria-label="Mở mục lục (Open table of contents)" id="navToggle">Mục lục (TOC)</button>
+    <div class="nav-links"><a  href="../index.html">Tổng quan (Overview)</a><a  href="../pages/01-ban-do-doc.html">Bản đồ (Map)</a><a  href="../pages/02-nen-tang.html">Nền tảng (Foundations)</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường (Context)</a><a  href="../pages/04-danh-gia-nhu-cau.html">Nhu cầu (Needs)</a><a  href="../pages/05-gan-ket-stakeholder.html">Bên liên quan (Stakeholders)</a><a class="active" href="../pages/06-elicitation.html">Khai thác (Elicitation)</a><a  href="../pages/07-phan-tich.html">Phân tích (Analysis)</a><a  href="../pages/08-truy-vet-giam-sat.html">Truy vết (Traceability)</a><a  href="../pages/09-danh-gia-giai-phap.html">Giải pháp (Evaluation)</a><a  href="../pages/10-standard.html">Chuẩn (Standard)</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ (Tools)</a><a  href="../pages/12-thuat-ngu.html">Thuật ngữ (Glossary)</a><a  href="../pages/13-playbook.html">Playbook (Playbook)</a></div>
   </nav>
   <header class="hero">
     <div>
-      <p class="eyebrow">Tóm tắt và đọc sâu bằng tiếng Việt</p>
-      <h1>Elicitation - Khai thác và xác nhận thông tin</h1>
-      <p>Từ cách tiếp cận elicitation tới chuẩn bị, tiến hành và xác nhận kết quả.</p>
+      <p class="eyebrow">Tóm tắt tiếng Việt kèm thuật ngữ tiếng Anh (Vietnamese Summary with English Terms)</p>
+      <h1>Khai thác và xác nhận thông tin (Elicitation)</h1>
+      <p>Từ cách tiếp cận elicitation (elicitation approach) tới chuẩn bị, tiến hành và xác nhận kết quả elicitation (elicitation results).</p>
     </div>
   </header>
   <main class="content">
     <section class="chapter-intro elicitation">
-    <p class="eyebrow">Knowledge Area</p>
-    <h2>Khai thác thông tin <span>Elicitation</span></h2>
+    <p class="eyebrow">Vùng tri thức (Knowledge Area)</p>
+    <h2>Khai thác thông tin (Elicitation)</h2>
     <p class="lead">Mục tiêu của vùng tri thức này là lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau. Elicitation trong guide được hiểu rộng hơn phỏng vấn. Nó bao gồm việc xác định cách tiếp cận, chuẩn bị từng hoạt động, tiến hành kỹ thuật phù hợp, rồi xác nhận kết quả. Elicitation tốt làm giảm sai lệch giữa điều stakeholder nói, điều họ thật sự cần, điều hệ thống hiện có cho phép và điều tổ chức sẵn sàng thay đổi.</p>
     <div class="process-grid"><a class="process-card elicitation" href="06-elicitation.html#6-1-determine-elicitation-approach">
     <b>6.1</b>
-    <span>Xác định cách tiếp cận elicitation</span>
-    <small>Planning</small>
+    <span>Xác định cách tiếp cận elicitation (Determine Elicitation Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-2-prepare-for-elicitation">
     <b>6.2</b>
-    <span>Chuẩn bị cho elicitation</span>
-    <small>Executing</small>
+    <span>Chuẩn bị cho elicitation (Prepare for Elicitation)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-3-conduct-elicitation">
     <b>6.3</b>
-    <span>Tiến hành elicitation</span>
-    <small>Executing</small>
+    <span>Tiến hành elicitation (Conduct Elicitation)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-4-confirm-elicitation-results">
     <b>6.4</b>
-    <span>Xác nhận kết quả elicitation</span>
-    <small>Executing</small>
+    <span>Xác nhận kết quả elicitation (Confirm Elicitation Results)</span>
+    <small>Thực thi (Executing)</small>
   </a></div>
-    <aside class="callout coral"><h4>Cách đọc chương này</h4><p>Mỗi tiến trình bên dưới được diễn giải theo cùng một lens: mục đích, đầu vào, kỹ thuật, đầu ra, tailoring, bẫy thường gặp, tình huống minh hoạ và checklist. Đây là tài liệu học và áp dụng, không thay thế bản gốc của PMI.</p></aside>
+    <aside class="callout coral"><h4>Cách đọc chương này (How to Read This Chapter)</h4><p>Mỗi tiến trình bên dưới được diễn giải theo cùng một lens: mục đích, đầu vào, kỹ thuật, đầu ra, tailoring, bẫy thường gặp, tình huống minh hoạ và checklist. Đây là tài liệu học và áp dụng, không thay thế bản gốc của PMI.</p></aside>
   </section><section class="process-detail elicitation" id="6-1-determine-elicitation-approach">
     <div class="process-heading">
       <span>6.1</span>
-      <h3>Xác định cách tiếp cận elicitation</h3>
-      <p>Determine Elicitation Approach · Planning</p>
+      <h3>Xác định cách tiếp cận elicitation (Determine Elicitation Approach)</h3>
+      <p>Lập kế hoạch (Planning) · Khai thác thông tin (Elicitation)</p>
     </div>
-    <p><strong>Mục đích.</strong> Tiến trình này nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
-    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm product scope, situation statement, stakeholder register, communication approach, constraints. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
-    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như brainstorming, interviews, lessons learned, stakeholder analysis, workshop planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
-    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation approach, elicitation schedule, target information needs. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
-    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
-    <p><strong>Bẫy thường gặp.</strong> bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
-    <p><strong>Tình huống minh hoạ.</strong> Nếu mục tiêu là hiểu pain point hiện trạng, observation và process walk-through có thể tốt hơn survey; nếu cần quyết định ưu tiên, workshop có cấu trúc sẽ phù hợp hơn. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <p><strong>Mục đích (Purpose).</strong> Tiến trình này nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao. Khi đặt trong vùng tri thức Khai thác thông tin (Elicitation), nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào (Inputs).</strong> Những đầu vào thường phải được soi lại gồm product scope, situation statement, stakeholder register, communication approach, constraints. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Công cụ và kỹ thuật (Tools and Techniques).</strong> Các kỹ thuật như brainstorming, interviews, lessons learned, stakeholder analysis, workshop planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra (Outputs).</strong> Đầu ra thường gồm elicitation approach, elicitation schedule, target information needs. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Điều chỉnh theo bối cảnh (Tailoring).</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp (Common Pitfalls).</strong> bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ (Illustrative Scenario).</strong> Nếu mục tiêu là hiểu pain point hiện trạng, observation và process walk-through có thể tốt hơn survey; nếu cần quyết định ưu tiên, workshop có cấu trúc sẽ phù hợp hơn. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="deep-sections"><section class="deep-section">
+        <h4>Ý nghĩa chiến lược (Strategic Meaning)</h4>
+        <p>Xác định cách tiếp cận elicitation (Determine Elicitation Approach) nên được đọc như một điểm kiểm tra chiến lược chứ không chỉ là một bước thủ tục. Tiến trình này buộc nhóm hỏi liệu thông tin hiện có đã đủ để ra quyết định về sản phẩm, đầu tư, phạm vi hoặc release chưa. Khi BA làm tốt, thảo luận không xoay quanh sở thích cá nhân mà xoay quanh mục tiêu kinh doanh, bằng chứng, rủi ro và giá trị kỳ vọng.</p>
+        <p>Trong Khai thác thông tin (Elicitation), tiến trình này tạo một phần của chuỗi lập luận từ nhu cầu đến giá trị. Nó giúp team hiểu vì sao một artifact tồn tại, ai dùng artifact đó, và nếu artifact sai thì quyết định nào sẽ bị ảnh hưởng. Đây là cách biến business analysis (business analysis) thành năng lực ra quyết định thay vì chỉ là hoạt động ghi chép.</p>
+      </section><section class="deep-section">
+        <h4>Câu hỏi quyết định (Decision Questions)</h4>
+        <p>Một BA nên bắt đầu bằng câu hỏi: quyết định nào đang cần được hỗ trợ bởi Xác định cách tiếp cận elicitation (Determine Elicitation Approach)? Quyết định có thể là tiếp tục đầu tư, chọn option, mời thêm stakeholder, điều chỉnh scope, thay đổi ưu tiên, chấp nhận defect hoặc release solution. Khi câu hỏi quyết định rõ, mức chi tiết của phân tích cũng rõ hơn.</p>
+        <p>Nếu nhóm chưa biết quyết định cần ra, tiến trình dễ biến thành sản xuất tài liệu. BA có thể làm rõ bằng cách hỏi ai sẽ dùng elicitation approach, elicitation schedule, target information needs, họ dùng để chọn điều gì, và hậu quả nếu thông tin thiếu chính xác là gì. Câu trả lời này xác định mức formal, kỹ thuật cần dùng và người phải tham gia review.</p>
+      </section><section class="deep-section">
+        <h4>Độ tin cậy đầu vào (Input Confidence)</h4>
+        <p>Đầu vào như product scope, situation statement, stakeholder register, communication approach, constraints không nên được xem là luôn đúng hoặc luôn đầy đủ. BA cần kiểm tra nguồn, ngày cập nhật, người sở hữu, giả định và mức liên quan của từng input. Một dashboard cũ, tài liệu policy lỗi thời hoặc ý kiến SME đơn lẻ đều có thể tạo cảm giác chắc chắn giả.</p>
+        <p>Khi input có độ tin cậy thấp, BA không nhất thiết dừng công việc; thay vào đó cần ghi trạng thái, giả định và câu hỏi mở. Với product risk cao, BA nên triangulate bằng nhiều nguồn: phỏng vấn, dữ liệu vận hành, tài liệu hiện có, observation và workshop. Độ tin cậy của input quyết định độ tin cậy của output.</p>
+      </section><section class="deep-section">
+        <h4>Kỹ thuật và bằng chứng (Techniques and Evidence)</h4>
+        <p>Các kỹ thuật như brainstorming, interviews, lessons learned, stakeholder analysis, workshop planning chỉ có giá trị khi tạo ra bằng chứng phù hợp. Một workshop không tự động tốt hơn interview; một model không tự động tốt hơn văn bản; một prototype không tự động chứng minh value. BA chọn kỹ thuật theo loại câu hỏi: khám phá, xác nhận, phân tích, ưu tiên hay đánh giá.</p>
+        <p>Bằng chứng tốt có thể được kiểm chứng bởi người khác. Nó không chỉ là cảm giác sau một cuộc họp mà là kết quả có thể trace tới nguồn, rationale và tiêu chí. BA nên luôn hỏi: kỹ thuật này tạo evidence nào, evidence đó đủ cho quyết định nào, và có stakeholder nào cần phản biện trước khi output được dùng không?</p>
+      </section><section class="deep-section">
+        <h4>Bên liên quan và quyền quyết định (Stakeholders and Decision Rights)</h4>
+        <p>Xác định cách tiếp cận elicitation (Determine Elicitation Approach) luôn có khía cạnh stakeholder (stakeholder). Có người cung cấp dữ liệu, có người chịu tác động, có người kiểm tra tính đúng, và có người ra quyết định. Nếu BA chỉ mời người dễ tiếp cận nhất, output có thể hợp lý trên giấy nhưng lệch thực tế vận hành.</p>
+        <p>BA cần phân biệt người được tham vấn với người phê duyệt. Một SME có thể rất quan trọng để xác nhận nghiệp vụ nhưng không có authority phê duyệt scope. Một sponsor có authority nhưng không biết ngoại lệ chi tiết. Quyền quyết định rõ giúp tránh vòng lặp review kéo dài và tránh phê duyệt hình thức.</p>
+      </section><section class="deep-section">
+        <h4>Mô hình và artifact (Models and Artifacts)</h4>
+        <p>Output như elicitation approach, elicitation schedule, target information needs có thể xuất hiện dưới nhiều dạng: bảng, model, backlog item, decision log, roadmap, trace link, checklist hoặc tài liệu chính thức. Hình thức không quan trọng bằng khả năng artifact giúp người đọc hiểu đúng và hành động đúng.</p>
+        <p>BA nên chọn artifact theo nhu cầu nhận thức của người dùng. Stakeholder vận hành có thể cần process flow; developer cần rule, data và interface; sponsor cần option, cost, benefit và risk; QA cần acceptance criteria. Một artifact tốt không cố làm mọi việc cho mọi người mà liên kết rõ tới artifact khác khi cần.</p>
+      </section><section class="deep-section">
+        <h4>Truy vết (Traceability)</h4>
+        <p>Traceability (traceability) trong Xác định cách tiếp cận elicitation (Determine Elicitation Approach) không chỉ là ma trận. Đó là khả năng trả lời: thông tin này đến từ đâu, liên quan đến mục tiêu nào, ảnh hưởng đến requirement nào, và được kiểm chứng bằng gì. Trace tốt làm cho thay đổi bớt mơ hồ và bớt phụ thuộc vào trí nhớ cá nhân.</p>
+        <p>Mức traceability nên tỷ lệ với rủi ro. Với initiative nhỏ, link giữa objective, story và acceptance criteria có thể đủ. Với môi trường regulated, BA có thể cần trace từ regulation tới requirement, design, test evidence và release approval. Điểm cốt lõi là trace phải phục vụ quyết định, không chỉ phục vụ audit.</p>
+      </section><section class="deep-section">
+        <h4>Tailoring theo vòng đời (Life Cycle Tailoring)</h4>
+        <p>Trong adaptive life cycle (adaptive life cycle), Xác định cách tiếp cận elicitation (Determine Elicitation Approach) có thể diễn ra nhiều lần với artifact nhẹ và feedback nhanh. BA có thể dùng backlog, story map, workshop ngắn, prototype và acceptance criteria để giữ tốc độ học. Sự nhẹ nhàng này không có nghĩa thiếu kỷ luật; nó chỉ chuyển kỷ luật vào cadence và clarity.</p>
+        <p>Trong predictive life cycle (predictive life cycle), tiến trình có thể cần documentation, approval và baseline rõ hơn. BA nên tăng formal khi chi phí sai sót cao, stakeholder phân tán, dependency phức tạp hoặc có yêu cầu tuân thủ. Tailoring đúng là chọn mức đủ cho rủi ro, không sao chép nguyên một template cho mọi tình huống.</p>
+      </section><section class="deep-section">
+        <h4>Rủi ro sản phẩm (Product Risk)</h4>
+        <p>Rủi ro sản phẩm (product risk) trong Xác định cách tiếp cận elicitation (Determine Elicitation Approach) thường xuất hiện khi nhóm hiểu sai need, bỏ sót stakeholder, định nghĩa requirement mơ hồ, không đo value hoặc đánh giá thấp transition. Những rủi ro này có thể không hiện trên schedule nhưng vẫn làm solution thất bại.</p>
+        <p>BA nên ghi risk bằng ngôn ngữ sản phẩm: điều gì có thể khiến solution không được dùng, không tạo value, không tuân thủ, không vận hành được hoặc tạo tác động phụ? Khi risk được mô tả như vậy, prioritization và design option sẽ thực tế hơn so với chỉ nói &quot;có rủi ro cao&quot;.</p>
+      </section><section class="deep-section">
+        <h4>Chất lượng yêu cầu (Requirement Quality)</h4>
+        <p>Xác định cách tiếp cận elicitation (Determine Elicitation Approach) thường ảnh hưởng trực tiếp hoặc gián tiếp tới chất lượng requirement (requirement). Requirement tốt không chỉ rõ câu chữ; nó có rationale, nguồn, trạng thái, acceptance criteria, relationship và mục tiêu liên quan. Nếu một trong các yếu tố này thiếu, nhóm có thể xây đúng câu chữ nhưng sai giá trị.</p>
+        <p>BA nên kiểm tra quality theo hai lớp: verification (verification) và validation (validation). Verification hỏi requirement có rõ, nhất quán, khả thi và kiểm thử được không. Validation hỏi requirement có thật sự hỗ trợ objective và stakeholder need không. Hai câu hỏi này bổ sung nhau chứ không thay thế nhau.</p>
+      </section><section class="deep-section">
+        <h4>Ví dụ mở rộng (Extended Example)</h4>
+        <p>Nếu mục tiêu là hiểu pain point hiện trạng, observation và process walk-through có thể tốt hơn survey; nếu cần quyết định ưu tiên, workshop có cấu trúc sẽ phù hợp hơn. Nếu mở rộng tình huống này theo hướng thực hành, BA sẽ không dừng ở câu chuyện bề mặt. BA sẽ tìm input, kiểm tra nguồn, hỏi stakeholder bị ảnh hưởng, mô hình hóa phần mơ hồ, ghi assumption và xác định output nào cần phê duyệt.</p>
+        <p>Khi ví dụ được đưa vào context của Lập kế hoạch (Planning), tiến trình cho thấy nhịp làm việc cụ thể: có lúc phải căn chỉnh định hướng, có lúc phải lập kế hoạch, có lúc phải thực thi phân tích, và có lúc phải giám sát thay đổi. Đây là lý do process group không nên bị hiểu như phase cứng.</p>
+      </section><section class="deep-section">
+        <h4>Dấu hiệu hoàn tất (Completion Signals)</h4>
+        <p>Xác định cách tiếp cận elicitation (Determine Elicitation Approach) có thể được xem là đủ tốt khi output được người dùng chính hiểu, có liên kết tới mục tiêu, có trạng thái, và đủ cụ thể để hỗ trợ bước tiếp theo. &quot;Hoàn tất&quot; không có nghĩa mọi câu hỏi đã biến mất; nó nghĩa là câu hỏi còn lại được biết, được owner hóa và không ngăn quyết định hiện tại.</p>
+        <p>Một dấu hiệu khác là stakeholder có thể giải thích lại output bằng ngôn ngữ của họ mà không làm mất ý nghĩa. Nếu chỉ BA hiểu tài liệu, artifact chưa đạt. Nếu developer, QA, sponsor và operation mỗi bên hiểu một kiểu, BA cần quay lại clarification hoặc model hóa lại.</p>
+      </section><section class="deep-section">
+        <h4>Sai lệch thường gặp (Common Anti-patterns)</h4>
+        <p>bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng. Anti-pattern này thường không bắt đầu bằng ý định xấu; nó xuất hiện khi áp lực tiến độ làm nhóm bỏ qua câu hỏi nền tảng. BA cần nhận ra dấu hiệu sớm: nhiều solution được tranh luận nhưng không ai nhắc tới objective, metric hoặc stakeholder impact.</p>
+        <p>Một sai lệch khác là dùng thuật ngữ đúng nhưng hành vi sai. Nhóm có thể gọi một item là &quot;validated&quot; dù chỉ mới được review kỹ thuật, hoặc gọi một option là &quot;viable&quot; dù chưa xét operational feasibility. Bilingual glossary (glossary) trong site này giúp giữ thuật ngữ nhất quán giữa tiếng Việt và tiếng Anh gốc.</p>
+      </section><section class="deep-section">
+        <h4>Chỉ số theo dõi (Metrics)</h4>
+        <p>Metric (metric) cho Xác định cách tiếp cận elicitation (Determine Elicitation Approach) nên đo chất lượng quyết định, không chỉ đo số lượng artifact. Ví dụ có thể theo dõi số requirement bị trả lại vì thiếu clarity, thời gian từ câu hỏi đến quyết định, số defect do hiểu sai, hoặc mức tham gia của stakeholder quan trọng.</p>
+        <p>BA nên thận trọng với metric dễ gây hành vi lệch. Đếm số trang tài liệu có thể khuyến khích viết dài; đếm số workshop có thể khuyến khích họp nhiều. Metric tốt phải gắn với outcome: giảm rework, tăng shared understanding, cải thiện release readiness hoặc tăng khả năng đo value.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với nhóm tiến trình (Process Group Connection)</h4>
+        <p>Lập kế hoạch (Planning) cho biết mode làm việc chính của Xác định cách tiếp cận elicitation (Determine Elicitation Approach). Tuy vậy mode này không khóa thời điểm thực hiện. Planning có thể được cập nhật giữa project; Executing có thể lặp lại trong mỗi iteration; Monitoring and Controlling có thể diễn ra song song khi product information thay đổi.</p>
+        <p>Cách đọc đúng là xem process group như lens quản trị. Lens này giúp BA biết loại câu hỏi cần hỏi: đang căn chỉnh mục tiêu, khởi tạo, lập kế hoạch, thực thi, kiểm soát hay chuẩn bị release? Khi lens rõ, BA sẽ chọn interaction và artifact phù hợp hơn.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với vùng tri thức (Knowledge Area Connection)</h4>
+        <p>Khai thác thông tin (Elicitation) cho biết loại năng lực BA mà tiến trình đóng góp. Nó trả lời câu hỏi: công việc này chủ yếu phục vụ hiểu nhu cầu, quản lý stakeholder, elicitation, analysis, traceability hay solution evaluation? Không có knowledge area nào đứng một mình.</p>
+        <p>Trong thực tế, Xác định cách tiếp cận elicitation (Determine Elicitation Approach) có thể kéo theo knowledge area khác. Một activity analysis có thể phát hiện stakeholder mới; một change request có thể cần elicitation; một acceptance defect có thể buộc xem lại requirement. BA mạnh là người nhìn thấy các kết nối này và không xử lý process như silo.</p>
+      </section><section class="deep-section">
+        <h4>Governance nhẹ (Lightweight Governance)</h4>
+        <p>Governance (governance) cho Xác định cách tiếp cận elicitation (Determine Elicitation Approach) nên trả lời bốn câu hỏi: ai có quyền quyết định, tiêu chí quyết định là gì, bằng chứng nào cần có, và quyết định được lưu ở đâu. Khi bốn câu hỏi này rõ, governance có thể rất nhẹ mà vẫn kiểm soát được rủi ro.</p>
+        <p>Với team nhỏ, governance có thể là decision log và review checklist. Với program lớn, governance có thể cần board, threshold, approval workflow và configuration management. Điểm quan trọng là BA không áp governance để làm chậm; BA dùng governance để bảo vệ clarity, accountability và learning.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong adaptive (Adaptive Practice)</h4>
+        <p>Trong môi trường agile hoặc adaptive approach (adaptive approach), BA nên đưa Xác định cách tiếp cận elicitation (Determine Elicitation Approach) vào nhịp làm việc hiện có. Ví dụ, thông tin có thể được refine trong backlog refinement, xác nhận qua review, model hóa bằng story map, và kiểm chứng qua acceptance criteria hoặc experiment.</p>
+        <p>Điều cần tránh là gom mọi phân tích vào một big upfront phase. Guide không yêu cầu như vậy. BA có thể làm vừa đủ ở đầu để tránh đầu tư sai, rồi tăng độ chi tiết khi item tiến gần delivery. Sự tiến hóa này cần trace nhẹ để không mất rationale sau nhiều vòng lặp.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong predictive (Predictive Practice)</h4>
+        <p>Trong predictive approach (predictive approach), Xác định cách tiếp cận elicitation (Determine Elicitation Approach) thường cần được lập kế hoạch, review và baseline rõ hơn. BA nên chú ý consistency giữa business case, scope, requirements documentation, design, test và release criteria. Khi một phần thay đổi, impact analysis phải cập nhật phần liên quan.</p>
+        <p>Tuy nhiên predictive không đồng nghĩa với cứng nhắc. Nếu evidence mới cho thấy requirement không còn valid, BA cần kích hoạt change process thay vì im lặng để giữ baseline đẹp. Kỷ luật thật sự là biết khi nào phải thay đổi và thay đổi bằng quyết định minh bạch.</p>
+      </section><section class="deep-section">
+        <h4>Tài liệu hóa và bàn giao (Documentation and Handoff)</h4>
+        <p>Tài liệu hóa (documentation) trong Xác định cách tiếp cận elicitation (Determine Elicitation Approach) không nên được hiểu là viết càng nhiều càng tốt. BA cần ghi lại phần làm cho quyết định có thể được tái tạo: nguồn thông tin, giả định, tiêu chí, rationale, người tham gia, trạng thái và liên kết tới artifact liên quan. Khi thiếu những yếu tố này, đội sau có thể thấy kết luận nhưng không hiểu vì sao kết luận đó hợp lý.</p>
+        <p>Bàn giao tốt cũng không phải gửi file rồi kết thúc. BA nên kiểm tra người nhận có hiểu cách dùng output, giới hạn của output và câu hỏi nào chưa được giải quyết hay không. Với elicitation approach, elicitation schedule, target information needs, điều quan trọng là người nhận biết khi nào thông tin còn hiệu lực, khi nào cần cập nhật, và ai có trách nhiệm bảo trì sau khi process chuyển sang bước tiếp theo.</p>
+      </section><section class="deep-section">
+        <h4>Bài học cho BA (BA Takeaway)</h4>
+        <p>Bài học thực dụng của Xác định cách tiếp cận elicitation (Determine Elicitation Approach) là BA phải luôn giữ liên kết từ nhu cầu đến bằng chứng và từ bằng chứng đến quyết định. Khi liên kết này mất, artifact có thể vẫn đẹp nhưng không còn giúp tổ chức học hoặc tạo value.</p>
+        <p>Một BA senior sẽ dùng tiến trình này để coach team hỏi câu hỏi tốt hơn. Thay vì chỉ hỏi &quot;stakeholder muốn gì&quot;, BA hỏi &quot;vì sao điều đó quan trọng, đo bằng gì, ảnh hưởng ai, option nào khác tồn tại, và điều gì khiến chúng ta đổi ý&quot;. Đó là tinh thần cốt lõi của PMI Guide.</p>
+      </section></div>
     <div class="two-col">
       <div>
-        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <h4>Câu hỏi kiểm tra nhanh (Quick Check Questions)</h4>
         <ul><li>Thông tin của tiến trình 6.1 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
       </div>
       <div>
-        <h4>Checklist đầu ra</h4>
+        <h4>Checklist đầu ra (Output Checklist)</h4>
         <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
       </div>
     </div>
   </section><section class="process-detail elicitation" id="6-2-prepare-for-elicitation">
     <div class="process-heading">
       <span>6.2</span>
-      <h3>Chuẩn bị cho elicitation</h3>
-      <p>Prepare for Elicitation · Executing</p>
+      <h3>Chuẩn bị cho elicitation (Prepare for Elicitation)</h3>
+      <p>Thực thi (Executing) · Khai thác thông tin (Elicitation)</p>
     </div>
-    <p><strong>Mục đích.</strong> Tiến trình này nhằm chuẩn bị tài liệu, câu hỏi, người tham gia, công cụ, logistics và tiêu chí thành công cho từng hoạt động elicitation cụ thể. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
-    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation approach, stakeholder availability, source documents, product scope, business need. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
-    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như agenda design, question design, document analysis, prototype preparation, facilitation planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
-    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation materials, prepared participants, activity plan. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
-    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
-    <p><strong>Bẫy thường gặp.</strong> vào workshop mà chưa rõ mục tiêu, chưa gửi tài liệu trước, chưa chọn đúng người hoặc chưa có cách ghi nhận quyết định. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
-    <p><strong>Tình huống minh hoạ.</strong> Trước buổi workshop về quy trình hoàn tiền, BA gửi process map hiện tại, câu hỏi quyết định, giả định cần kiểm tra và quy tắc ghi nhận parking lot. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <p><strong>Mục đích (Purpose).</strong> Tiến trình này nhằm chuẩn bị tài liệu, câu hỏi, người tham gia, công cụ, logistics và tiêu chí thành công cho từng hoạt động elicitation cụ thể. Khi đặt trong vùng tri thức Khai thác thông tin (Elicitation), nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào (Inputs).</strong> Những đầu vào thường phải được soi lại gồm elicitation approach, stakeholder availability, source documents, product scope, business need. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Công cụ và kỹ thuật (Tools and Techniques).</strong> Các kỹ thuật như agenda design, question design, document analysis, prototype preparation, facilitation planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra (Outputs).</strong> Đầu ra thường gồm elicitation materials, prepared participants, activity plan. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Điều chỉnh theo bối cảnh (Tailoring).</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp (Common Pitfalls).</strong> vào workshop mà chưa rõ mục tiêu, chưa gửi tài liệu trước, chưa chọn đúng người hoặc chưa có cách ghi nhận quyết định. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ (Illustrative Scenario).</strong> Trước buổi workshop về quy trình hoàn tiền, BA gửi process map hiện tại, câu hỏi quyết định, giả định cần kiểm tra và quy tắc ghi nhận parking lot. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="deep-sections"><section class="deep-section">
+        <h4>Ý nghĩa chiến lược (Strategic Meaning)</h4>
+        <p>Chuẩn bị cho elicitation (Prepare for Elicitation) nên được đọc như một điểm kiểm tra chiến lược chứ không chỉ là một bước thủ tục. Tiến trình này buộc nhóm hỏi liệu thông tin hiện có đã đủ để ra quyết định về sản phẩm, đầu tư, phạm vi hoặc release chưa. Khi BA làm tốt, thảo luận không xoay quanh sở thích cá nhân mà xoay quanh mục tiêu kinh doanh, bằng chứng, rủi ro và giá trị kỳ vọng.</p>
+        <p>Trong Khai thác thông tin (Elicitation), tiến trình này tạo một phần của chuỗi lập luận từ nhu cầu đến giá trị. Nó giúp team hiểu vì sao một artifact tồn tại, ai dùng artifact đó, và nếu artifact sai thì quyết định nào sẽ bị ảnh hưởng. Đây là cách biến business analysis (business analysis) thành năng lực ra quyết định thay vì chỉ là hoạt động ghi chép.</p>
+      </section><section class="deep-section">
+        <h4>Câu hỏi quyết định (Decision Questions)</h4>
+        <p>Một BA nên bắt đầu bằng câu hỏi: quyết định nào đang cần được hỗ trợ bởi Chuẩn bị cho elicitation (Prepare for Elicitation)? Quyết định có thể là tiếp tục đầu tư, chọn option, mời thêm stakeholder, điều chỉnh scope, thay đổi ưu tiên, chấp nhận defect hoặc release solution. Khi câu hỏi quyết định rõ, mức chi tiết của phân tích cũng rõ hơn.</p>
+        <p>Nếu nhóm chưa biết quyết định cần ra, tiến trình dễ biến thành sản xuất tài liệu. BA có thể làm rõ bằng cách hỏi ai sẽ dùng elicitation materials, prepared participants, activity plan, họ dùng để chọn điều gì, và hậu quả nếu thông tin thiếu chính xác là gì. Câu trả lời này xác định mức formal, kỹ thuật cần dùng và người phải tham gia review.</p>
+      </section><section class="deep-section">
+        <h4>Độ tin cậy đầu vào (Input Confidence)</h4>
+        <p>Đầu vào như elicitation approach, stakeholder availability, source documents, product scope, business need không nên được xem là luôn đúng hoặc luôn đầy đủ. BA cần kiểm tra nguồn, ngày cập nhật, người sở hữu, giả định và mức liên quan của từng input. Một dashboard cũ, tài liệu policy lỗi thời hoặc ý kiến SME đơn lẻ đều có thể tạo cảm giác chắc chắn giả.</p>
+        <p>Khi input có độ tin cậy thấp, BA không nhất thiết dừng công việc; thay vào đó cần ghi trạng thái, giả định và câu hỏi mở. Với product risk cao, BA nên triangulate bằng nhiều nguồn: phỏng vấn, dữ liệu vận hành, tài liệu hiện có, observation và workshop. Độ tin cậy của input quyết định độ tin cậy của output.</p>
+      </section><section class="deep-section">
+        <h4>Kỹ thuật và bằng chứng (Techniques and Evidence)</h4>
+        <p>Các kỹ thuật như agenda design, question design, document analysis, prototype preparation, facilitation planning chỉ có giá trị khi tạo ra bằng chứng phù hợp. Một workshop không tự động tốt hơn interview; một model không tự động tốt hơn văn bản; một prototype không tự động chứng minh value. BA chọn kỹ thuật theo loại câu hỏi: khám phá, xác nhận, phân tích, ưu tiên hay đánh giá.</p>
+        <p>Bằng chứng tốt có thể được kiểm chứng bởi người khác. Nó không chỉ là cảm giác sau một cuộc họp mà là kết quả có thể trace tới nguồn, rationale và tiêu chí. BA nên luôn hỏi: kỹ thuật này tạo evidence nào, evidence đó đủ cho quyết định nào, và có stakeholder nào cần phản biện trước khi output được dùng không?</p>
+      </section><section class="deep-section">
+        <h4>Bên liên quan và quyền quyết định (Stakeholders and Decision Rights)</h4>
+        <p>Chuẩn bị cho elicitation (Prepare for Elicitation) luôn có khía cạnh stakeholder (stakeholder). Có người cung cấp dữ liệu, có người chịu tác động, có người kiểm tra tính đúng, và có người ra quyết định. Nếu BA chỉ mời người dễ tiếp cận nhất, output có thể hợp lý trên giấy nhưng lệch thực tế vận hành.</p>
+        <p>BA cần phân biệt người được tham vấn với người phê duyệt. Một SME có thể rất quan trọng để xác nhận nghiệp vụ nhưng không có authority phê duyệt scope. Một sponsor có authority nhưng không biết ngoại lệ chi tiết. Quyền quyết định rõ giúp tránh vòng lặp review kéo dài và tránh phê duyệt hình thức.</p>
+      </section><section class="deep-section">
+        <h4>Mô hình và artifact (Models and Artifacts)</h4>
+        <p>Output như elicitation materials, prepared participants, activity plan có thể xuất hiện dưới nhiều dạng: bảng, model, backlog item, decision log, roadmap, trace link, checklist hoặc tài liệu chính thức. Hình thức không quan trọng bằng khả năng artifact giúp người đọc hiểu đúng và hành động đúng.</p>
+        <p>BA nên chọn artifact theo nhu cầu nhận thức của người dùng. Stakeholder vận hành có thể cần process flow; developer cần rule, data và interface; sponsor cần option, cost, benefit và risk; QA cần acceptance criteria. Một artifact tốt không cố làm mọi việc cho mọi người mà liên kết rõ tới artifact khác khi cần.</p>
+      </section><section class="deep-section">
+        <h4>Truy vết (Traceability)</h4>
+        <p>Traceability (traceability) trong Chuẩn bị cho elicitation (Prepare for Elicitation) không chỉ là ma trận. Đó là khả năng trả lời: thông tin này đến từ đâu, liên quan đến mục tiêu nào, ảnh hưởng đến requirement nào, và được kiểm chứng bằng gì. Trace tốt làm cho thay đổi bớt mơ hồ và bớt phụ thuộc vào trí nhớ cá nhân.</p>
+        <p>Mức traceability nên tỷ lệ với rủi ro. Với initiative nhỏ, link giữa objective, story và acceptance criteria có thể đủ. Với môi trường regulated, BA có thể cần trace từ regulation tới requirement, design, test evidence và release approval. Điểm cốt lõi là trace phải phục vụ quyết định, không chỉ phục vụ audit.</p>
+      </section><section class="deep-section">
+        <h4>Tailoring theo vòng đời (Life Cycle Tailoring)</h4>
+        <p>Trong adaptive life cycle (adaptive life cycle), Chuẩn bị cho elicitation (Prepare for Elicitation) có thể diễn ra nhiều lần với artifact nhẹ và feedback nhanh. BA có thể dùng backlog, story map, workshop ngắn, prototype và acceptance criteria để giữ tốc độ học. Sự nhẹ nhàng này không có nghĩa thiếu kỷ luật; nó chỉ chuyển kỷ luật vào cadence và clarity.</p>
+        <p>Trong predictive life cycle (predictive life cycle), tiến trình có thể cần documentation, approval và baseline rõ hơn. BA nên tăng formal khi chi phí sai sót cao, stakeholder phân tán, dependency phức tạp hoặc có yêu cầu tuân thủ. Tailoring đúng là chọn mức đủ cho rủi ro, không sao chép nguyên một template cho mọi tình huống.</p>
+      </section><section class="deep-section">
+        <h4>Rủi ro sản phẩm (Product Risk)</h4>
+        <p>Rủi ro sản phẩm (product risk) trong Chuẩn bị cho elicitation (Prepare for Elicitation) thường xuất hiện khi nhóm hiểu sai need, bỏ sót stakeholder, định nghĩa requirement mơ hồ, không đo value hoặc đánh giá thấp transition. Những rủi ro này có thể không hiện trên schedule nhưng vẫn làm solution thất bại.</p>
+        <p>BA nên ghi risk bằng ngôn ngữ sản phẩm: điều gì có thể khiến solution không được dùng, không tạo value, không tuân thủ, không vận hành được hoặc tạo tác động phụ? Khi risk được mô tả như vậy, prioritization và design option sẽ thực tế hơn so với chỉ nói &quot;có rủi ro cao&quot;.</p>
+      </section><section class="deep-section">
+        <h4>Chất lượng yêu cầu (Requirement Quality)</h4>
+        <p>Chuẩn bị cho elicitation (Prepare for Elicitation) thường ảnh hưởng trực tiếp hoặc gián tiếp tới chất lượng requirement (requirement). Requirement tốt không chỉ rõ câu chữ; nó có rationale, nguồn, trạng thái, acceptance criteria, relationship và mục tiêu liên quan. Nếu một trong các yếu tố này thiếu, nhóm có thể xây đúng câu chữ nhưng sai giá trị.</p>
+        <p>BA nên kiểm tra quality theo hai lớp: verification (verification) và validation (validation). Verification hỏi requirement có rõ, nhất quán, khả thi và kiểm thử được không. Validation hỏi requirement có thật sự hỗ trợ objective và stakeholder need không. Hai câu hỏi này bổ sung nhau chứ không thay thế nhau.</p>
+      </section><section class="deep-section">
+        <h4>Ví dụ mở rộng (Extended Example)</h4>
+        <p>Trước buổi workshop về quy trình hoàn tiền, BA gửi process map hiện tại, câu hỏi quyết định, giả định cần kiểm tra và quy tắc ghi nhận parking lot. Nếu mở rộng tình huống này theo hướng thực hành, BA sẽ không dừng ở câu chuyện bề mặt. BA sẽ tìm input, kiểm tra nguồn, hỏi stakeholder bị ảnh hưởng, mô hình hóa phần mơ hồ, ghi assumption và xác định output nào cần phê duyệt.</p>
+        <p>Khi ví dụ được đưa vào context của Thực thi (Executing), tiến trình cho thấy nhịp làm việc cụ thể: có lúc phải căn chỉnh định hướng, có lúc phải lập kế hoạch, có lúc phải thực thi phân tích, và có lúc phải giám sát thay đổi. Đây là lý do process group không nên bị hiểu như phase cứng.</p>
+      </section><section class="deep-section">
+        <h4>Dấu hiệu hoàn tất (Completion Signals)</h4>
+        <p>Chuẩn bị cho elicitation (Prepare for Elicitation) có thể được xem là đủ tốt khi output được người dùng chính hiểu, có liên kết tới mục tiêu, có trạng thái, và đủ cụ thể để hỗ trợ bước tiếp theo. &quot;Hoàn tất&quot; không có nghĩa mọi câu hỏi đã biến mất; nó nghĩa là câu hỏi còn lại được biết, được owner hóa và không ngăn quyết định hiện tại.</p>
+        <p>Một dấu hiệu khác là stakeholder có thể giải thích lại output bằng ngôn ngữ của họ mà không làm mất ý nghĩa. Nếu chỉ BA hiểu tài liệu, artifact chưa đạt. Nếu developer, QA, sponsor và operation mỗi bên hiểu một kiểu, BA cần quay lại clarification hoặc model hóa lại.</p>
+      </section><section class="deep-section">
+        <h4>Sai lệch thường gặp (Common Anti-patterns)</h4>
+        <p>vào workshop mà chưa rõ mục tiêu, chưa gửi tài liệu trước, chưa chọn đúng người hoặc chưa có cách ghi nhận quyết định. Anti-pattern này thường không bắt đầu bằng ý định xấu; nó xuất hiện khi áp lực tiến độ làm nhóm bỏ qua câu hỏi nền tảng. BA cần nhận ra dấu hiệu sớm: nhiều solution được tranh luận nhưng không ai nhắc tới objective, metric hoặc stakeholder impact.</p>
+        <p>Một sai lệch khác là dùng thuật ngữ đúng nhưng hành vi sai. Nhóm có thể gọi một item là &quot;validated&quot; dù chỉ mới được review kỹ thuật, hoặc gọi một option là &quot;viable&quot; dù chưa xét operational feasibility. Bilingual glossary (glossary) trong site này giúp giữ thuật ngữ nhất quán giữa tiếng Việt và tiếng Anh gốc.</p>
+      </section><section class="deep-section">
+        <h4>Chỉ số theo dõi (Metrics)</h4>
+        <p>Metric (metric) cho Chuẩn bị cho elicitation (Prepare for Elicitation) nên đo chất lượng quyết định, không chỉ đo số lượng artifact. Ví dụ có thể theo dõi số requirement bị trả lại vì thiếu clarity, thời gian từ câu hỏi đến quyết định, số defect do hiểu sai, hoặc mức tham gia của stakeholder quan trọng.</p>
+        <p>BA nên thận trọng với metric dễ gây hành vi lệch. Đếm số trang tài liệu có thể khuyến khích viết dài; đếm số workshop có thể khuyến khích họp nhiều. Metric tốt phải gắn với outcome: giảm rework, tăng shared understanding, cải thiện release readiness hoặc tăng khả năng đo value.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với nhóm tiến trình (Process Group Connection)</h4>
+        <p>Thực thi (Executing) cho biết mode làm việc chính của Chuẩn bị cho elicitation (Prepare for Elicitation). Tuy vậy mode này không khóa thời điểm thực hiện. Planning có thể được cập nhật giữa project; Executing có thể lặp lại trong mỗi iteration; Monitoring and Controlling có thể diễn ra song song khi product information thay đổi.</p>
+        <p>Cách đọc đúng là xem process group như lens quản trị. Lens này giúp BA biết loại câu hỏi cần hỏi: đang căn chỉnh mục tiêu, khởi tạo, lập kế hoạch, thực thi, kiểm soát hay chuẩn bị release? Khi lens rõ, BA sẽ chọn interaction và artifact phù hợp hơn.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với vùng tri thức (Knowledge Area Connection)</h4>
+        <p>Khai thác thông tin (Elicitation) cho biết loại năng lực BA mà tiến trình đóng góp. Nó trả lời câu hỏi: công việc này chủ yếu phục vụ hiểu nhu cầu, quản lý stakeholder, elicitation, analysis, traceability hay solution evaluation? Không có knowledge area nào đứng một mình.</p>
+        <p>Trong thực tế, Chuẩn bị cho elicitation (Prepare for Elicitation) có thể kéo theo knowledge area khác. Một activity analysis có thể phát hiện stakeholder mới; một change request có thể cần elicitation; một acceptance defect có thể buộc xem lại requirement. BA mạnh là người nhìn thấy các kết nối này và không xử lý process như silo.</p>
+      </section><section class="deep-section">
+        <h4>Governance nhẹ (Lightweight Governance)</h4>
+        <p>Governance (governance) cho Chuẩn bị cho elicitation (Prepare for Elicitation) nên trả lời bốn câu hỏi: ai có quyền quyết định, tiêu chí quyết định là gì, bằng chứng nào cần có, và quyết định được lưu ở đâu. Khi bốn câu hỏi này rõ, governance có thể rất nhẹ mà vẫn kiểm soát được rủi ro.</p>
+        <p>Với team nhỏ, governance có thể là decision log và review checklist. Với program lớn, governance có thể cần board, threshold, approval workflow và configuration management. Điểm quan trọng là BA không áp governance để làm chậm; BA dùng governance để bảo vệ clarity, accountability và learning.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong adaptive (Adaptive Practice)</h4>
+        <p>Trong môi trường agile hoặc adaptive approach (adaptive approach), BA nên đưa Chuẩn bị cho elicitation (Prepare for Elicitation) vào nhịp làm việc hiện có. Ví dụ, thông tin có thể được refine trong backlog refinement, xác nhận qua review, model hóa bằng story map, và kiểm chứng qua acceptance criteria hoặc experiment.</p>
+        <p>Điều cần tránh là gom mọi phân tích vào một big upfront phase. Guide không yêu cầu như vậy. BA có thể làm vừa đủ ở đầu để tránh đầu tư sai, rồi tăng độ chi tiết khi item tiến gần delivery. Sự tiến hóa này cần trace nhẹ để không mất rationale sau nhiều vòng lặp.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong predictive (Predictive Practice)</h4>
+        <p>Trong predictive approach (predictive approach), Chuẩn bị cho elicitation (Prepare for Elicitation) thường cần được lập kế hoạch, review và baseline rõ hơn. BA nên chú ý consistency giữa business case, scope, requirements documentation, design, test và release criteria. Khi một phần thay đổi, impact analysis phải cập nhật phần liên quan.</p>
+        <p>Tuy nhiên predictive không đồng nghĩa với cứng nhắc. Nếu evidence mới cho thấy requirement không còn valid, BA cần kích hoạt change process thay vì im lặng để giữ baseline đẹp. Kỷ luật thật sự là biết khi nào phải thay đổi và thay đổi bằng quyết định minh bạch.</p>
+      </section><section class="deep-section">
+        <h4>Tài liệu hóa và bàn giao (Documentation and Handoff)</h4>
+        <p>Tài liệu hóa (documentation) trong Chuẩn bị cho elicitation (Prepare for Elicitation) không nên được hiểu là viết càng nhiều càng tốt. BA cần ghi lại phần làm cho quyết định có thể được tái tạo: nguồn thông tin, giả định, tiêu chí, rationale, người tham gia, trạng thái và liên kết tới artifact liên quan. Khi thiếu những yếu tố này, đội sau có thể thấy kết luận nhưng không hiểu vì sao kết luận đó hợp lý.</p>
+        <p>Bàn giao tốt cũng không phải gửi file rồi kết thúc. BA nên kiểm tra người nhận có hiểu cách dùng output, giới hạn của output và câu hỏi nào chưa được giải quyết hay không. Với elicitation materials, prepared participants, activity plan, điều quan trọng là người nhận biết khi nào thông tin còn hiệu lực, khi nào cần cập nhật, và ai có trách nhiệm bảo trì sau khi process chuyển sang bước tiếp theo.</p>
+      </section><section class="deep-section">
+        <h4>Bài học cho BA (BA Takeaway)</h4>
+        <p>Bài học thực dụng của Chuẩn bị cho elicitation (Prepare for Elicitation) là BA phải luôn giữ liên kết từ nhu cầu đến bằng chứng và từ bằng chứng đến quyết định. Khi liên kết này mất, artifact có thể vẫn đẹp nhưng không còn giúp tổ chức học hoặc tạo value.</p>
+        <p>Một BA senior sẽ dùng tiến trình này để coach team hỏi câu hỏi tốt hơn. Thay vì chỉ hỏi &quot;stakeholder muốn gì&quot;, BA hỏi &quot;vì sao điều đó quan trọng, đo bằng gì, ảnh hưởng ai, option nào khác tồn tại, và điều gì khiến chúng ta đổi ý&quot;. Đó là tinh thần cốt lõi của PMI Guide.</p>
+      </section></div>
     <div class="two-col">
       <div>
-        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <h4>Câu hỏi kiểm tra nhanh (Quick Check Questions)</h4>
         <ul><li>Thông tin của tiến trình 6.2 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
       </div>
       <div>
-        <h4>Checklist đầu ra</h4>
+        <h4>Checklist đầu ra (Output Checklist)</h4>
         <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
       </div>
     </div>
   </section><section class="process-detail elicitation" id="6-3-conduct-elicitation">
     <div class="process-heading">
       <span>6.3</span>
-      <h3>Tiến hành elicitation</h3>
-      <p>Conduct Elicitation · Executing</p>
+      <h3>Tiến hành elicitation (Conduct Elicitation)</h3>
+      <p>Thực thi (Executing) · Khai thác thông tin (Elicitation)</p>
     </div>
-    <p><strong>Mục đích.</strong> Tiến trình này nhằm thực hiện kỹ thuật đã chọn để khai thác thông tin từ stakeholder, tài liệu, hệ thống, quan sát và dữ liệu. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
-    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation materials, participants, product scope, current information, facilitation plan. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
-    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như interviews, facilitated workshops, focus groups, observation, prototyping chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
-    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation results, raw notes, candidate requirements. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
-    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
-    <p><strong>Bẫy thường gặp.</strong> ghi nhận mọi phát biểu như yêu cầu cuối cùng, để người nói lớn nhất chi phối, hoặc bỏ qua tín hiệu phi ngôn ngữ và mâu thuẫn giữa các nguồn. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
-    <p><strong>Tình huống minh hoạ.</strong> Trong phỏng vấn người dùng, BA phân biệt giữa nhu cầu thật, workaround hiện tại, cảm xúc bực bội, ràng buộc chính sách và yêu cầu tính năng được đề xuất. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <p><strong>Mục đích (Purpose).</strong> Tiến trình này nhằm thực hiện kỹ thuật đã chọn để khai thác thông tin từ stakeholder, tài liệu, hệ thống, quan sát và dữ liệu. Khi đặt trong vùng tri thức Khai thác thông tin (Elicitation), nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào (Inputs).</strong> Những đầu vào thường phải được soi lại gồm elicitation materials, participants, product scope, current information, facilitation plan. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Công cụ và kỹ thuật (Tools and Techniques).</strong> Các kỹ thuật như interviews, facilitated workshops, focus groups, observation, prototyping chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra (Outputs).</strong> Đầu ra thường gồm elicitation results, raw notes, candidate requirements. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Điều chỉnh theo bối cảnh (Tailoring).</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp (Common Pitfalls).</strong> ghi nhận mọi phát biểu như yêu cầu cuối cùng, để người nói lớn nhất chi phối, hoặc bỏ qua tín hiệu phi ngôn ngữ và mâu thuẫn giữa các nguồn. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ (Illustrative Scenario).</strong> Trong phỏng vấn người dùng, BA phân biệt giữa nhu cầu thật, workaround hiện tại, cảm xúc bực bội, ràng buộc chính sách và yêu cầu tính năng được đề xuất. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="deep-sections"><section class="deep-section">
+        <h4>Ý nghĩa chiến lược (Strategic Meaning)</h4>
+        <p>Tiến hành elicitation (Conduct Elicitation) nên được đọc như một điểm kiểm tra chiến lược chứ không chỉ là một bước thủ tục. Tiến trình này buộc nhóm hỏi liệu thông tin hiện có đã đủ để ra quyết định về sản phẩm, đầu tư, phạm vi hoặc release chưa. Khi BA làm tốt, thảo luận không xoay quanh sở thích cá nhân mà xoay quanh mục tiêu kinh doanh, bằng chứng, rủi ro và giá trị kỳ vọng.</p>
+        <p>Trong Khai thác thông tin (Elicitation), tiến trình này tạo một phần của chuỗi lập luận từ nhu cầu đến giá trị. Nó giúp team hiểu vì sao một artifact tồn tại, ai dùng artifact đó, và nếu artifact sai thì quyết định nào sẽ bị ảnh hưởng. Đây là cách biến business analysis (business analysis) thành năng lực ra quyết định thay vì chỉ là hoạt động ghi chép.</p>
+      </section><section class="deep-section">
+        <h4>Câu hỏi quyết định (Decision Questions)</h4>
+        <p>Một BA nên bắt đầu bằng câu hỏi: quyết định nào đang cần được hỗ trợ bởi Tiến hành elicitation (Conduct Elicitation)? Quyết định có thể là tiếp tục đầu tư, chọn option, mời thêm stakeholder, điều chỉnh scope, thay đổi ưu tiên, chấp nhận defect hoặc release solution. Khi câu hỏi quyết định rõ, mức chi tiết của phân tích cũng rõ hơn.</p>
+        <p>Nếu nhóm chưa biết quyết định cần ra, tiến trình dễ biến thành sản xuất tài liệu. BA có thể làm rõ bằng cách hỏi ai sẽ dùng elicitation results, raw notes, candidate requirements, họ dùng để chọn điều gì, và hậu quả nếu thông tin thiếu chính xác là gì. Câu trả lời này xác định mức formal, kỹ thuật cần dùng và người phải tham gia review.</p>
+      </section><section class="deep-section">
+        <h4>Độ tin cậy đầu vào (Input Confidence)</h4>
+        <p>Đầu vào như elicitation materials, participants, product scope, current information, facilitation plan không nên được xem là luôn đúng hoặc luôn đầy đủ. BA cần kiểm tra nguồn, ngày cập nhật, người sở hữu, giả định và mức liên quan của từng input. Một dashboard cũ, tài liệu policy lỗi thời hoặc ý kiến SME đơn lẻ đều có thể tạo cảm giác chắc chắn giả.</p>
+        <p>Khi input có độ tin cậy thấp, BA không nhất thiết dừng công việc; thay vào đó cần ghi trạng thái, giả định và câu hỏi mở. Với product risk cao, BA nên triangulate bằng nhiều nguồn: phỏng vấn, dữ liệu vận hành, tài liệu hiện có, observation và workshop. Độ tin cậy của input quyết định độ tin cậy của output.</p>
+      </section><section class="deep-section">
+        <h4>Kỹ thuật và bằng chứng (Techniques and Evidence)</h4>
+        <p>Các kỹ thuật như interviews, facilitated workshops, focus groups, observation, prototyping chỉ có giá trị khi tạo ra bằng chứng phù hợp. Một workshop không tự động tốt hơn interview; một model không tự động tốt hơn văn bản; một prototype không tự động chứng minh value. BA chọn kỹ thuật theo loại câu hỏi: khám phá, xác nhận, phân tích, ưu tiên hay đánh giá.</p>
+        <p>Bằng chứng tốt có thể được kiểm chứng bởi người khác. Nó không chỉ là cảm giác sau một cuộc họp mà là kết quả có thể trace tới nguồn, rationale và tiêu chí. BA nên luôn hỏi: kỹ thuật này tạo evidence nào, evidence đó đủ cho quyết định nào, và có stakeholder nào cần phản biện trước khi output được dùng không?</p>
+      </section><section class="deep-section">
+        <h4>Bên liên quan và quyền quyết định (Stakeholders and Decision Rights)</h4>
+        <p>Tiến hành elicitation (Conduct Elicitation) luôn có khía cạnh stakeholder (stakeholder). Có người cung cấp dữ liệu, có người chịu tác động, có người kiểm tra tính đúng, và có người ra quyết định. Nếu BA chỉ mời người dễ tiếp cận nhất, output có thể hợp lý trên giấy nhưng lệch thực tế vận hành.</p>
+        <p>BA cần phân biệt người được tham vấn với người phê duyệt. Một SME có thể rất quan trọng để xác nhận nghiệp vụ nhưng không có authority phê duyệt scope. Một sponsor có authority nhưng không biết ngoại lệ chi tiết. Quyền quyết định rõ giúp tránh vòng lặp review kéo dài và tránh phê duyệt hình thức.</p>
+      </section><section class="deep-section">
+        <h4>Mô hình và artifact (Models and Artifacts)</h4>
+        <p>Output như elicitation results, raw notes, candidate requirements có thể xuất hiện dưới nhiều dạng: bảng, model, backlog item, decision log, roadmap, trace link, checklist hoặc tài liệu chính thức. Hình thức không quan trọng bằng khả năng artifact giúp người đọc hiểu đúng và hành động đúng.</p>
+        <p>BA nên chọn artifact theo nhu cầu nhận thức của người dùng. Stakeholder vận hành có thể cần process flow; developer cần rule, data và interface; sponsor cần option, cost, benefit và risk; QA cần acceptance criteria. Một artifact tốt không cố làm mọi việc cho mọi người mà liên kết rõ tới artifact khác khi cần.</p>
+      </section><section class="deep-section">
+        <h4>Truy vết (Traceability)</h4>
+        <p>Traceability (traceability) trong Tiến hành elicitation (Conduct Elicitation) không chỉ là ma trận. Đó là khả năng trả lời: thông tin này đến từ đâu, liên quan đến mục tiêu nào, ảnh hưởng đến requirement nào, và được kiểm chứng bằng gì. Trace tốt làm cho thay đổi bớt mơ hồ và bớt phụ thuộc vào trí nhớ cá nhân.</p>
+        <p>Mức traceability nên tỷ lệ với rủi ro. Với initiative nhỏ, link giữa objective, story và acceptance criteria có thể đủ. Với môi trường regulated, BA có thể cần trace từ regulation tới requirement, design, test evidence và release approval. Điểm cốt lõi là trace phải phục vụ quyết định, không chỉ phục vụ audit.</p>
+      </section><section class="deep-section">
+        <h4>Tailoring theo vòng đời (Life Cycle Tailoring)</h4>
+        <p>Trong adaptive life cycle (adaptive life cycle), Tiến hành elicitation (Conduct Elicitation) có thể diễn ra nhiều lần với artifact nhẹ và feedback nhanh. BA có thể dùng backlog, story map, workshop ngắn, prototype và acceptance criteria để giữ tốc độ học. Sự nhẹ nhàng này không có nghĩa thiếu kỷ luật; nó chỉ chuyển kỷ luật vào cadence và clarity.</p>
+        <p>Trong predictive life cycle (predictive life cycle), tiến trình có thể cần documentation, approval và baseline rõ hơn. BA nên tăng formal khi chi phí sai sót cao, stakeholder phân tán, dependency phức tạp hoặc có yêu cầu tuân thủ. Tailoring đúng là chọn mức đủ cho rủi ro, không sao chép nguyên một template cho mọi tình huống.</p>
+      </section><section class="deep-section">
+        <h4>Rủi ro sản phẩm (Product Risk)</h4>
+        <p>Rủi ro sản phẩm (product risk) trong Tiến hành elicitation (Conduct Elicitation) thường xuất hiện khi nhóm hiểu sai need, bỏ sót stakeholder, định nghĩa requirement mơ hồ, không đo value hoặc đánh giá thấp transition. Những rủi ro này có thể không hiện trên schedule nhưng vẫn làm solution thất bại.</p>
+        <p>BA nên ghi risk bằng ngôn ngữ sản phẩm: điều gì có thể khiến solution không được dùng, không tạo value, không tuân thủ, không vận hành được hoặc tạo tác động phụ? Khi risk được mô tả như vậy, prioritization và design option sẽ thực tế hơn so với chỉ nói &quot;có rủi ro cao&quot;.</p>
+      </section><section class="deep-section">
+        <h4>Chất lượng yêu cầu (Requirement Quality)</h4>
+        <p>Tiến hành elicitation (Conduct Elicitation) thường ảnh hưởng trực tiếp hoặc gián tiếp tới chất lượng requirement (requirement). Requirement tốt không chỉ rõ câu chữ; nó có rationale, nguồn, trạng thái, acceptance criteria, relationship và mục tiêu liên quan. Nếu một trong các yếu tố này thiếu, nhóm có thể xây đúng câu chữ nhưng sai giá trị.</p>
+        <p>BA nên kiểm tra quality theo hai lớp: verification (verification) và validation (validation). Verification hỏi requirement có rõ, nhất quán, khả thi và kiểm thử được không. Validation hỏi requirement có thật sự hỗ trợ objective và stakeholder need không. Hai câu hỏi này bổ sung nhau chứ không thay thế nhau.</p>
+      </section><section class="deep-section">
+        <h4>Ví dụ mở rộng (Extended Example)</h4>
+        <p>Trong phỏng vấn người dùng, BA phân biệt giữa nhu cầu thật, workaround hiện tại, cảm xúc bực bội, ràng buộc chính sách và yêu cầu tính năng được đề xuất. Nếu mở rộng tình huống này theo hướng thực hành, BA sẽ không dừng ở câu chuyện bề mặt. BA sẽ tìm input, kiểm tra nguồn, hỏi stakeholder bị ảnh hưởng, mô hình hóa phần mơ hồ, ghi assumption và xác định output nào cần phê duyệt.</p>
+        <p>Khi ví dụ được đưa vào context của Thực thi (Executing), tiến trình cho thấy nhịp làm việc cụ thể: có lúc phải căn chỉnh định hướng, có lúc phải lập kế hoạch, có lúc phải thực thi phân tích, và có lúc phải giám sát thay đổi. Đây là lý do process group không nên bị hiểu như phase cứng.</p>
+      </section><section class="deep-section">
+        <h4>Dấu hiệu hoàn tất (Completion Signals)</h4>
+        <p>Tiến hành elicitation (Conduct Elicitation) có thể được xem là đủ tốt khi output được người dùng chính hiểu, có liên kết tới mục tiêu, có trạng thái, và đủ cụ thể để hỗ trợ bước tiếp theo. &quot;Hoàn tất&quot; không có nghĩa mọi câu hỏi đã biến mất; nó nghĩa là câu hỏi còn lại được biết, được owner hóa và không ngăn quyết định hiện tại.</p>
+        <p>Một dấu hiệu khác là stakeholder có thể giải thích lại output bằng ngôn ngữ của họ mà không làm mất ý nghĩa. Nếu chỉ BA hiểu tài liệu, artifact chưa đạt. Nếu developer, QA, sponsor và operation mỗi bên hiểu một kiểu, BA cần quay lại clarification hoặc model hóa lại.</p>
+      </section><section class="deep-section">
+        <h4>Sai lệch thường gặp (Common Anti-patterns)</h4>
+        <p>ghi nhận mọi phát biểu như yêu cầu cuối cùng, để người nói lớn nhất chi phối, hoặc bỏ qua tín hiệu phi ngôn ngữ và mâu thuẫn giữa các nguồn. Anti-pattern này thường không bắt đầu bằng ý định xấu; nó xuất hiện khi áp lực tiến độ làm nhóm bỏ qua câu hỏi nền tảng. BA cần nhận ra dấu hiệu sớm: nhiều solution được tranh luận nhưng không ai nhắc tới objective, metric hoặc stakeholder impact.</p>
+        <p>Một sai lệch khác là dùng thuật ngữ đúng nhưng hành vi sai. Nhóm có thể gọi một item là &quot;validated&quot; dù chỉ mới được review kỹ thuật, hoặc gọi một option là &quot;viable&quot; dù chưa xét operational feasibility. Bilingual glossary (glossary) trong site này giúp giữ thuật ngữ nhất quán giữa tiếng Việt và tiếng Anh gốc.</p>
+      </section><section class="deep-section">
+        <h4>Chỉ số theo dõi (Metrics)</h4>
+        <p>Metric (metric) cho Tiến hành elicitation (Conduct Elicitation) nên đo chất lượng quyết định, không chỉ đo số lượng artifact. Ví dụ có thể theo dõi số requirement bị trả lại vì thiếu clarity, thời gian từ câu hỏi đến quyết định, số defect do hiểu sai, hoặc mức tham gia của stakeholder quan trọng.</p>
+        <p>BA nên thận trọng với metric dễ gây hành vi lệch. Đếm số trang tài liệu có thể khuyến khích viết dài; đếm số workshop có thể khuyến khích họp nhiều. Metric tốt phải gắn với outcome: giảm rework, tăng shared understanding, cải thiện release readiness hoặc tăng khả năng đo value.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với nhóm tiến trình (Process Group Connection)</h4>
+        <p>Thực thi (Executing) cho biết mode làm việc chính của Tiến hành elicitation (Conduct Elicitation). Tuy vậy mode này không khóa thời điểm thực hiện. Planning có thể được cập nhật giữa project; Executing có thể lặp lại trong mỗi iteration; Monitoring and Controlling có thể diễn ra song song khi product information thay đổi.</p>
+        <p>Cách đọc đúng là xem process group như lens quản trị. Lens này giúp BA biết loại câu hỏi cần hỏi: đang căn chỉnh mục tiêu, khởi tạo, lập kế hoạch, thực thi, kiểm soát hay chuẩn bị release? Khi lens rõ, BA sẽ chọn interaction và artifact phù hợp hơn.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với vùng tri thức (Knowledge Area Connection)</h4>
+        <p>Khai thác thông tin (Elicitation) cho biết loại năng lực BA mà tiến trình đóng góp. Nó trả lời câu hỏi: công việc này chủ yếu phục vụ hiểu nhu cầu, quản lý stakeholder, elicitation, analysis, traceability hay solution evaluation? Không có knowledge area nào đứng một mình.</p>
+        <p>Trong thực tế, Tiến hành elicitation (Conduct Elicitation) có thể kéo theo knowledge area khác. Một activity analysis có thể phát hiện stakeholder mới; một change request có thể cần elicitation; một acceptance defect có thể buộc xem lại requirement. BA mạnh là người nhìn thấy các kết nối này và không xử lý process như silo.</p>
+      </section><section class="deep-section">
+        <h4>Governance nhẹ (Lightweight Governance)</h4>
+        <p>Governance (governance) cho Tiến hành elicitation (Conduct Elicitation) nên trả lời bốn câu hỏi: ai có quyền quyết định, tiêu chí quyết định là gì, bằng chứng nào cần có, và quyết định được lưu ở đâu. Khi bốn câu hỏi này rõ, governance có thể rất nhẹ mà vẫn kiểm soát được rủi ro.</p>
+        <p>Với team nhỏ, governance có thể là decision log và review checklist. Với program lớn, governance có thể cần board, threshold, approval workflow và configuration management. Điểm quan trọng là BA không áp governance để làm chậm; BA dùng governance để bảo vệ clarity, accountability và learning.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong adaptive (Adaptive Practice)</h4>
+        <p>Trong môi trường agile hoặc adaptive approach (adaptive approach), BA nên đưa Tiến hành elicitation (Conduct Elicitation) vào nhịp làm việc hiện có. Ví dụ, thông tin có thể được refine trong backlog refinement, xác nhận qua review, model hóa bằng story map, và kiểm chứng qua acceptance criteria hoặc experiment.</p>
+        <p>Điều cần tránh là gom mọi phân tích vào một big upfront phase. Guide không yêu cầu như vậy. BA có thể làm vừa đủ ở đầu để tránh đầu tư sai, rồi tăng độ chi tiết khi item tiến gần delivery. Sự tiến hóa này cần trace nhẹ để không mất rationale sau nhiều vòng lặp.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong predictive (Predictive Practice)</h4>
+        <p>Trong predictive approach (predictive approach), Tiến hành elicitation (Conduct Elicitation) thường cần được lập kế hoạch, review và baseline rõ hơn. BA nên chú ý consistency giữa business case, scope, requirements documentation, design, test và release criteria. Khi một phần thay đổi, impact analysis phải cập nhật phần liên quan.</p>
+        <p>Tuy nhiên predictive không đồng nghĩa với cứng nhắc. Nếu evidence mới cho thấy requirement không còn valid, BA cần kích hoạt change process thay vì im lặng để giữ baseline đẹp. Kỷ luật thật sự là biết khi nào phải thay đổi và thay đổi bằng quyết định minh bạch.</p>
+      </section><section class="deep-section">
+        <h4>Tài liệu hóa và bàn giao (Documentation and Handoff)</h4>
+        <p>Tài liệu hóa (documentation) trong Tiến hành elicitation (Conduct Elicitation) không nên được hiểu là viết càng nhiều càng tốt. BA cần ghi lại phần làm cho quyết định có thể được tái tạo: nguồn thông tin, giả định, tiêu chí, rationale, người tham gia, trạng thái và liên kết tới artifact liên quan. Khi thiếu những yếu tố này, đội sau có thể thấy kết luận nhưng không hiểu vì sao kết luận đó hợp lý.</p>
+        <p>Bàn giao tốt cũng không phải gửi file rồi kết thúc. BA nên kiểm tra người nhận có hiểu cách dùng output, giới hạn của output và câu hỏi nào chưa được giải quyết hay không. Với elicitation results, raw notes, candidate requirements, điều quan trọng là người nhận biết khi nào thông tin còn hiệu lực, khi nào cần cập nhật, và ai có trách nhiệm bảo trì sau khi process chuyển sang bước tiếp theo.</p>
+      </section><section class="deep-section">
+        <h4>Bài học cho BA (BA Takeaway)</h4>
+        <p>Bài học thực dụng của Tiến hành elicitation (Conduct Elicitation) là BA phải luôn giữ liên kết từ nhu cầu đến bằng chứng và từ bằng chứng đến quyết định. Khi liên kết này mất, artifact có thể vẫn đẹp nhưng không còn giúp tổ chức học hoặc tạo value.</p>
+        <p>Một BA senior sẽ dùng tiến trình này để coach team hỏi câu hỏi tốt hơn. Thay vì chỉ hỏi &quot;stakeholder muốn gì&quot;, BA hỏi &quot;vì sao điều đó quan trọng, đo bằng gì, ảnh hưởng ai, option nào khác tồn tại, và điều gì khiến chúng ta đổi ý&quot;. Đó là tinh thần cốt lõi của PMI Guide.</p>
+      </section></div>
     <div class="two-col">
       <div>
-        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <h4>Câu hỏi kiểm tra nhanh (Quick Check Questions)</h4>
         <ul><li>Thông tin của tiến trình 6.3 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
       </div>
       <div>
-        <h4>Checklist đầu ra</h4>
+        <h4>Checklist đầu ra (Output Checklist)</h4>
         <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
       </div>
     </div>
   </section><section class="process-detail elicitation" id="6-4-confirm-elicitation-results">
     <div class="process-heading">
       <span>6.4</span>
-      <h3>Xác nhận kết quả elicitation</h3>
-      <p>Confirm Elicitation Results · Executing</p>
+      <h3>Xác nhận kết quả elicitation (Confirm Elicitation Results)</h3>
+      <p>Thực thi (Executing) · Khai thác thông tin (Elicitation)</p>
     </div>
-    <p><strong>Mục đích.</strong> Tiến trình này nhằm kiểm tra kết quả elicitation về độ chính xác, đầy đủ, hiểu chung và mức sẵn sàng đưa vào phân tích. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
-    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation results, historical information, stakeholder feedback, source documents, notes. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
-    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như review, walk-through, document analysis, comparison, facilitated confirmation chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
-    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm confirmed elicitation results, updated notes, open questions. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
-    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
-    <p><strong>Bẫy thường gặp.</strong> chuyển note thô thẳng thành requirement, khiến hiểu lầm trong buổi họp biến thành scope chính thức. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
-    <p><strong>Tình huống minh hoạ.</strong> Sau workshop, BA gửi summary theo chủ đề, quyết định, giả định, câu hỏi mở và yêu cầu stakeholder xác nhận trước khi tạo model hoặc backlog item. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <p><strong>Mục đích (Purpose).</strong> Tiến trình này nhằm kiểm tra kết quả elicitation về độ chính xác, đầy đủ, hiểu chung và mức sẵn sàng đưa vào phân tích. Khi đặt trong vùng tri thức Khai thác thông tin (Elicitation), nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào (Inputs).</strong> Những đầu vào thường phải được soi lại gồm elicitation results, historical information, stakeholder feedback, source documents, notes. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Công cụ và kỹ thuật (Tools and Techniques).</strong> Các kỹ thuật như review, walk-through, document analysis, comparison, facilitated confirmation chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra (Outputs).</strong> Đầu ra thường gồm confirmed elicitation results, updated notes, open questions. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Điều chỉnh theo bối cảnh (Tailoring).</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp (Common Pitfalls).</strong> chuyển note thô thẳng thành requirement, khiến hiểu lầm trong buổi họp biến thành scope chính thức. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ (Illustrative Scenario).</strong> Sau workshop, BA gửi summary theo chủ đề, quyết định, giả định, câu hỏi mở và yêu cầu stakeholder xác nhận trước khi tạo model hoặc backlog item. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="deep-sections"><section class="deep-section">
+        <h4>Ý nghĩa chiến lược (Strategic Meaning)</h4>
+        <p>Xác nhận kết quả elicitation (Confirm Elicitation Results) nên được đọc như một điểm kiểm tra chiến lược chứ không chỉ là một bước thủ tục. Tiến trình này buộc nhóm hỏi liệu thông tin hiện có đã đủ để ra quyết định về sản phẩm, đầu tư, phạm vi hoặc release chưa. Khi BA làm tốt, thảo luận không xoay quanh sở thích cá nhân mà xoay quanh mục tiêu kinh doanh, bằng chứng, rủi ro và giá trị kỳ vọng.</p>
+        <p>Trong Khai thác thông tin (Elicitation), tiến trình này tạo một phần của chuỗi lập luận từ nhu cầu đến giá trị. Nó giúp team hiểu vì sao một artifact tồn tại, ai dùng artifact đó, và nếu artifact sai thì quyết định nào sẽ bị ảnh hưởng. Đây là cách biến business analysis (business analysis) thành năng lực ra quyết định thay vì chỉ là hoạt động ghi chép.</p>
+      </section><section class="deep-section">
+        <h4>Câu hỏi quyết định (Decision Questions)</h4>
+        <p>Một BA nên bắt đầu bằng câu hỏi: quyết định nào đang cần được hỗ trợ bởi Xác nhận kết quả elicitation (Confirm Elicitation Results)? Quyết định có thể là tiếp tục đầu tư, chọn option, mời thêm stakeholder, điều chỉnh scope, thay đổi ưu tiên, chấp nhận defect hoặc release solution. Khi câu hỏi quyết định rõ, mức chi tiết của phân tích cũng rõ hơn.</p>
+        <p>Nếu nhóm chưa biết quyết định cần ra, tiến trình dễ biến thành sản xuất tài liệu. BA có thể làm rõ bằng cách hỏi ai sẽ dùng confirmed elicitation results, updated notes, open questions, họ dùng để chọn điều gì, và hậu quả nếu thông tin thiếu chính xác là gì. Câu trả lời này xác định mức formal, kỹ thuật cần dùng và người phải tham gia review.</p>
+      </section><section class="deep-section">
+        <h4>Độ tin cậy đầu vào (Input Confidence)</h4>
+        <p>Đầu vào như elicitation results, historical information, stakeholder feedback, source documents, notes không nên được xem là luôn đúng hoặc luôn đầy đủ. BA cần kiểm tra nguồn, ngày cập nhật, người sở hữu, giả định và mức liên quan của từng input. Một dashboard cũ, tài liệu policy lỗi thời hoặc ý kiến SME đơn lẻ đều có thể tạo cảm giác chắc chắn giả.</p>
+        <p>Khi input có độ tin cậy thấp, BA không nhất thiết dừng công việc; thay vào đó cần ghi trạng thái, giả định và câu hỏi mở. Với product risk cao, BA nên triangulate bằng nhiều nguồn: phỏng vấn, dữ liệu vận hành, tài liệu hiện có, observation và workshop. Độ tin cậy của input quyết định độ tin cậy của output.</p>
+      </section><section class="deep-section">
+        <h4>Kỹ thuật và bằng chứng (Techniques and Evidence)</h4>
+        <p>Các kỹ thuật như review, walk-through, document analysis, comparison, facilitated confirmation chỉ có giá trị khi tạo ra bằng chứng phù hợp. Một workshop không tự động tốt hơn interview; một model không tự động tốt hơn văn bản; một prototype không tự động chứng minh value. BA chọn kỹ thuật theo loại câu hỏi: khám phá, xác nhận, phân tích, ưu tiên hay đánh giá.</p>
+        <p>Bằng chứng tốt có thể được kiểm chứng bởi người khác. Nó không chỉ là cảm giác sau một cuộc họp mà là kết quả có thể trace tới nguồn, rationale và tiêu chí. BA nên luôn hỏi: kỹ thuật này tạo evidence nào, evidence đó đủ cho quyết định nào, và có stakeholder nào cần phản biện trước khi output được dùng không?</p>
+      </section><section class="deep-section">
+        <h4>Bên liên quan và quyền quyết định (Stakeholders and Decision Rights)</h4>
+        <p>Xác nhận kết quả elicitation (Confirm Elicitation Results) luôn có khía cạnh stakeholder (stakeholder). Có người cung cấp dữ liệu, có người chịu tác động, có người kiểm tra tính đúng, và có người ra quyết định. Nếu BA chỉ mời người dễ tiếp cận nhất, output có thể hợp lý trên giấy nhưng lệch thực tế vận hành.</p>
+        <p>BA cần phân biệt người được tham vấn với người phê duyệt. Một SME có thể rất quan trọng để xác nhận nghiệp vụ nhưng không có authority phê duyệt scope. Một sponsor có authority nhưng không biết ngoại lệ chi tiết. Quyền quyết định rõ giúp tránh vòng lặp review kéo dài và tránh phê duyệt hình thức.</p>
+      </section><section class="deep-section">
+        <h4>Mô hình và artifact (Models and Artifacts)</h4>
+        <p>Output như confirmed elicitation results, updated notes, open questions có thể xuất hiện dưới nhiều dạng: bảng, model, backlog item, decision log, roadmap, trace link, checklist hoặc tài liệu chính thức. Hình thức không quan trọng bằng khả năng artifact giúp người đọc hiểu đúng và hành động đúng.</p>
+        <p>BA nên chọn artifact theo nhu cầu nhận thức của người dùng. Stakeholder vận hành có thể cần process flow; developer cần rule, data và interface; sponsor cần option, cost, benefit và risk; QA cần acceptance criteria. Một artifact tốt không cố làm mọi việc cho mọi người mà liên kết rõ tới artifact khác khi cần.</p>
+      </section><section class="deep-section">
+        <h4>Truy vết (Traceability)</h4>
+        <p>Traceability (traceability) trong Xác nhận kết quả elicitation (Confirm Elicitation Results) không chỉ là ma trận. Đó là khả năng trả lời: thông tin này đến từ đâu, liên quan đến mục tiêu nào, ảnh hưởng đến requirement nào, và được kiểm chứng bằng gì. Trace tốt làm cho thay đổi bớt mơ hồ và bớt phụ thuộc vào trí nhớ cá nhân.</p>
+        <p>Mức traceability nên tỷ lệ với rủi ro. Với initiative nhỏ, link giữa objective, story và acceptance criteria có thể đủ. Với môi trường regulated, BA có thể cần trace từ regulation tới requirement, design, test evidence và release approval. Điểm cốt lõi là trace phải phục vụ quyết định, không chỉ phục vụ audit.</p>
+      </section><section class="deep-section">
+        <h4>Tailoring theo vòng đời (Life Cycle Tailoring)</h4>
+        <p>Trong adaptive life cycle (adaptive life cycle), Xác nhận kết quả elicitation (Confirm Elicitation Results) có thể diễn ra nhiều lần với artifact nhẹ và feedback nhanh. BA có thể dùng backlog, story map, workshop ngắn, prototype và acceptance criteria để giữ tốc độ học. Sự nhẹ nhàng này không có nghĩa thiếu kỷ luật; nó chỉ chuyển kỷ luật vào cadence và clarity.</p>
+        <p>Trong predictive life cycle (predictive life cycle), tiến trình có thể cần documentation, approval và baseline rõ hơn. BA nên tăng formal khi chi phí sai sót cao, stakeholder phân tán, dependency phức tạp hoặc có yêu cầu tuân thủ. Tailoring đúng là chọn mức đủ cho rủi ro, không sao chép nguyên một template cho mọi tình huống.</p>
+      </section><section class="deep-section">
+        <h4>Rủi ro sản phẩm (Product Risk)</h4>
+        <p>Rủi ro sản phẩm (product risk) trong Xác nhận kết quả elicitation (Confirm Elicitation Results) thường xuất hiện khi nhóm hiểu sai need, bỏ sót stakeholder, định nghĩa requirement mơ hồ, không đo value hoặc đánh giá thấp transition. Những rủi ro này có thể không hiện trên schedule nhưng vẫn làm solution thất bại.</p>
+        <p>BA nên ghi risk bằng ngôn ngữ sản phẩm: điều gì có thể khiến solution không được dùng, không tạo value, không tuân thủ, không vận hành được hoặc tạo tác động phụ? Khi risk được mô tả như vậy, prioritization và design option sẽ thực tế hơn so với chỉ nói &quot;có rủi ro cao&quot;.</p>
+      </section><section class="deep-section">
+        <h4>Chất lượng yêu cầu (Requirement Quality)</h4>
+        <p>Xác nhận kết quả elicitation (Confirm Elicitation Results) thường ảnh hưởng trực tiếp hoặc gián tiếp tới chất lượng requirement (requirement). Requirement tốt không chỉ rõ câu chữ; nó có rationale, nguồn, trạng thái, acceptance criteria, relationship và mục tiêu liên quan. Nếu một trong các yếu tố này thiếu, nhóm có thể xây đúng câu chữ nhưng sai giá trị.</p>
+        <p>BA nên kiểm tra quality theo hai lớp: verification (verification) và validation (validation). Verification hỏi requirement có rõ, nhất quán, khả thi và kiểm thử được không. Validation hỏi requirement có thật sự hỗ trợ objective và stakeholder need không. Hai câu hỏi này bổ sung nhau chứ không thay thế nhau.</p>
+      </section><section class="deep-section">
+        <h4>Ví dụ mở rộng (Extended Example)</h4>
+        <p>Sau workshop, BA gửi summary theo chủ đề, quyết định, giả định, câu hỏi mở và yêu cầu stakeholder xác nhận trước khi tạo model hoặc backlog item. Nếu mở rộng tình huống này theo hướng thực hành, BA sẽ không dừng ở câu chuyện bề mặt. BA sẽ tìm input, kiểm tra nguồn, hỏi stakeholder bị ảnh hưởng, mô hình hóa phần mơ hồ, ghi assumption và xác định output nào cần phê duyệt.</p>
+        <p>Khi ví dụ được đưa vào context của Thực thi (Executing), tiến trình cho thấy nhịp làm việc cụ thể: có lúc phải căn chỉnh định hướng, có lúc phải lập kế hoạch, có lúc phải thực thi phân tích, và có lúc phải giám sát thay đổi. Đây là lý do process group không nên bị hiểu như phase cứng.</p>
+      </section><section class="deep-section">
+        <h4>Dấu hiệu hoàn tất (Completion Signals)</h4>
+        <p>Xác nhận kết quả elicitation (Confirm Elicitation Results) có thể được xem là đủ tốt khi output được người dùng chính hiểu, có liên kết tới mục tiêu, có trạng thái, và đủ cụ thể để hỗ trợ bước tiếp theo. &quot;Hoàn tất&quot; không có nghĩa mọi câu hỏi đã biến mất; nó nghĩa là câu hỏi còn lại được biết, được owner hóa và không ngăn quyết định hiện tại.</p>
+        <p>Một dấu hiệu khác là stakeholder có thể giải thích lại output bằng ngôn ngữ của họ mà không làm mất ý nghĩa. Nếu chỉ BA hiểu tài liệu, artifact chưa đạt. Nếu developer, QA, sponsor và operation mỗi bên hiểu một kiểu, BA cần quay lại clarification hoặc model hóa lại.</p>
+      </section><section class="deep-section">
+        <h4>Sai lệch thường gặp (Common Anti-patterns)</h4>
+        <p>chuyển note thô thẳng thành requirement, khiến hiểu lầm trong buổi họp biến thành scope chính thức. Anti-pattern này thường không bắt đầu bằng ý định xấu; nó xuất hiện khi áp lực tiến độ làm nhóm bỏ qua câu hỏi nền tảng. BA cần nhận ra dấu hiệu sớm: nhiều solution được tranh luận nhưng không ai nhắc tới objective, metric hoặc stakeholder impact.</p>
+        <p>Một sai lệch khác là dùng thuật ngữ đúng nhưng hành vi sai. Nhóm có thể gọi một item là &quot;validated&quot; dù chỉ mới được review kỹ thuật, hoặc gọi một option là &quot;viable&quot; dù chưa xét operational feasibility. Bilingual glossary (glossary) trong site này giúp giữ thuật ngữ nhất quán giữa tiếng Việt và tiếng Anh gốc.</p>
+      </section><section class="deep-section">
+        <h4>Chỉ số theo dõi (Metrics)</h4>
+        <p>Metric (metric) cho Xác nhận kết quả elicitation (Confirm Elicitation Results) nên đo chất lượng quyết định, không chỉ đo số lượng artifact. Ví dụ có thể theo dõi số requirement bị trả lại vì thiếu clarity, thời gian từ câu hỏi đến quyết định, số defect do hiểu sai, hoặc mức tham gia của stakeholder quan trọng.</p>
+        <p>BA nên thận trọng với metric dễ gây hành vi lệch. Đếm số trang tài liệu có thể khuyến khích viết dài; đếm số workshop có thể khuyến khích họp nhiều. Metric tốt phải gắn với outcome: giảm rework, tăng shared understanding, cải thiện release readiness hoặc tăng khả năng đo value.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với nhóm tiến trình (Process Group Connection)</h4>
+        <p>Thực thi (Executing) cho biết mode làm việc chính của Xác nhận kết quả elicitation (Confirm Elicitation Results). Tuy vậy mode này không khóa thời điểm thực hiện. Planning có thể được cập nhật giữa project; Executing có thể lặp lại trong mỗi iteration; Monitoring and Controlling có thể diễn ra song song khi product information thay đổi.</p>
+        <p>Cách đọc đúng là xem process group như lens quản trị. Lens này giúp BA biết loại câu hỏi cần hỏi: đang căn chỉnh mục tiêu, khởi tạo, lập kế hoạch, thực thi, kiểm soát hay chuẩn bị release? Khi lens rõ, BA sẽ chọn interaction và artifact phù hợp hơn.</p>
+      </section><section class="deep-section">
+        <h4>Liên hệ với vùng tri thức (Knowledge Area Connection)</h4>
+        <p>Khai thác thông tin (Elicitation) cho biết loại năng lực BA mà tiến trình đóng góp. Nó trả lời câu hỏi: công việc này chủ yếu phục vụ hiểu nhu cầu, quản lý stakeholder, elicitation, analysis, traceability hay solution evaluation? Không có knowledge area nào đứng một mình.</p>
+        <p>Trong thực tế, Xác nhận kết quả elicitation (Confirm Elicitation Results) có thể kéo theo knowledge area khác. Một activity analysis có thể phát hiện stakeholder mới; một change request có thể cần elicitation; một acceptance defect có thể buộc xem lại requirement. BA mạnh là người nhìn thấy các kết nối này và không xử lý process như silo.</p>
+      </section><section class="deep-section">
+        <h4>Governance nhẹ (Lightweight Governance)</h4>
+        <p>Governance (governance) cho Xác nhận kết quả elicitation (Confirm Elicitation Results) nên trả lời bốn câu hỏi: ai có quyền quyết định, tiêu chí quyết định là gì, bằng chứng nào cần có, và quyết định được lưu ở đâu. Khi bốn câu hỏi này rõ, governance có thể rất nhẹ mà vẫn kiểm soát được rủi ro.</p>
+        <p>Với team nhỏ, governance có thể là decision log và review checklist. Với program lớn, governance có thể cần board, threshold, approval workflow và configuration management. Điểm quan trọng là BA không áp governance để làm chậm; BA dùng governance để bảo vệ clarity, accountability và learning.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong adaptive (Adaptive Practice)</h4>
+        <p>Trong môi trường agile hoặc adaptive approach (adaptive approach), BA nên đưa Xác nhận kết quả elicitation (Confirm Elicitation Results) vào nhịp làm việc hiện có. Ví dụ, thông tin có thể được refine trong backlog refinement, xác nhận qua review, model hóa bằng story map, và kiểm chứng qua acceptance criteria hoặc experiment.</p>
+        <p>Điều cần tránh là gom mọi phân tích vào một big upfront phase. Guide không yêu cầu như vậy. BA có thể làm vừa đủ ở đầu để tránh đầu tư sai, rồi tăng độ chi tiết khi item tiến gần delivery. Sự tiến hóa này cần trace nhẹ để không mất rationale sau nhiều vòng lặp.</p>
+      </section><section class="deep-section">
+        <h4>Thực hành trong predictive (Predictive Practice)</h4>
+        <p>Trong predictive approach (predictive approach), Xác nhận kết quả elicitation (Confirm Elicitation Results) thường cần được lập kế hoạch, review và baseline rõ hơn. BA nên chú ý consistency giữa business case, scope, requirements documentation, design, test và release criteria. Khi một phần thay đổi, impact analysis phải cập nhật phần liên quan.</p>
+        <p>Tuy nhiên predictive không đồng nghĩa với cứng nhắc. Nếu evidence mới cho thấy requirement không còn valid, BA cần kích hoạt change process thay vì im lặng để giữ baseline đẹp. Kỷ luật thật sự là biết khi nào phải thay đổi và thay đổi bằng quyết định minh bạch.</p>
+      </section><section class="deep-section">
+        <h4>Tài liệu hóa và bàn giao (Documentation and Handoff)</h4>
+        <p>Tài liệu hóa (documentation) trong Xác nhận kết quả elicitation (Confirm Elicitation Results) không nên được hiểu là viết càng nhiều càng tốt. BA cần ghi lại phần làm cho quyết định có thể được tái tạo: nguồn thông tin, giả định, tiêu chí, rationale, người tham gia, trạng thái và liên kết tới artifact liên quan. Khi thiếu những yếu tố này, đội sau có thể thấy kết luận nhưng không hiểu vì sao kết luận đó hợp lý.</p>
+        <p>Bàn giao tốt cũng không phải gửi file rồi kết thúc. BA nên kiểm tra người nhận có hiểu cách dùng output, giới hạn của output và câu hỏi nào chưa được giải quyết hay không. Với confirmed elicitation results, updated notes, open questions, điều quan trọng là người nhận biết khi nào thông tin còn hiệu lực, khi nào cần cập nhật, và ai có trách nhiệm bảo trì sau khi process chuyển sang bước tiếp theo.</p>
+      </section><section class="deep-section">
+        <h4>Bài học cho BA (BA Takeaway)</h4>
+        <p>Bài học thực dụng của Xác nhận kết quả elicitation (Confirm Elicitation Results) là BA phải luôn giữ liên kết từ nhu cầu đến bằng chứng và từ bằng chứng đến quyết định. Khi liên kết này mất, artifact có thể vẫn đẹp nhưng không còn giúp tổ chức học hoặc tạo value.</p>
+        <p>Một BA senior sẽ dùng tiến trình này để coach team hỏi câu hỏi tốt hơn. Thay vì chỉ hỏi &quot;stakeholder muốn gì&quot;, BA hỏi &quot;vì sao điều đó quan trọng, đo bằng gì, ảnh hưởng ai, option nào khác tồn tại, và điều gì khiến chúng ta đổi ý&quot;. Đó là tinh thần cốt lõi của PMI Guide.</p>
+      </section></div>
     <div class="two-col">
       <div>
-        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <h4>Câu hỏi kiểm tra nhanh (Quick Check Questions)</h4>
         <ul><li>Thông tin của tiến trình 6.4 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
       </div>
       <div>
-        <h4>Checklist đầu ra</h4>
+        <h4>Checklist đầu ra (Output Checklist)</h4>
         <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
       </div>
     </div>
+  </section><section class="quiz-section" data-quiz-section="true" id="pages-06-elicitation-html-quiz">
+    <h2>Quiz cuối chương (Chapter Quiz)</h2>
+    <p class="lead">20 câu hỏi kiểm tra phần Khai thác và xác nhận thông tin (Elicitation): 5 Dễ (Easy), 5 Trung bình (Medium), 5 Khó (Hard), 5 Rất khó (Hardest). Phần quiz này chỉ xuất hiện ở trang HTML thường và không xuất hiện trong bản in.</p>
+    <section class="quiz-level" data-level="easy">
+        <div class="quiz-level-header">
+          <h3>Dễ (Easy)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="easy" data-question-id="pages-06-elicitation-html-q1" data-correct="0">
+              <h4>1. Mục tiêu chính của phần Khai thác thông tin (Elicitation) là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>vùng tri thức này giúp BA lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau, đồng thời nối nhu cầu, stakeholder, product information và quyết định giá trị</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào vùng tri thức này giúp BA lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau, đồng thời nối nhu cầu, stakeholder, product information và quyết định giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tăng số lượng tài liệu mà không cần kiểm tra người dùng sử dụng ra sao.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào vùng tri thức này giúp BA lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau, đồng thời nối nhu cầu, stakeholder, product information và quyết định giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Thay thế vai trò project manager bằng một danh sách yêu cầu cố định.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào vùng tri thức này giúp BA lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau, đồng thời nối nhu cầu, stakeholder, product information và quyết định giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Khóa solution ngay từ đầu để tránh phải trao đổi với stakeholder.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào vùng tri thức này giúp BA lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau, đồng thời nối nhu cầu, stakeholder, product information và quyết định giá trị.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-06-elicitation-html-q2" data-correct="0">
+              <h4>2. Theo quy ước song ngữ trong site, thuật ngữ quan trọng nên được viết như thế nào?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Tiếng Việt trước, thuật ngữ tiếng Anh trong ngoặc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Chỉ dùng tiếng Anh để giữ nguyên nguồn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ dùng tiếng Việt và bỏ thuật ngữ gốc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Dùng tiếng Anh ở heading, tiếng Việt ở footnote.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-06-elicitation-html-q3" data-correct="0">
+              <h4>3. Xác định cách tiếp cận elicitation (Determine Elicitation Approach) có nghĩa gần nhất với điều nào?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>tiến trình nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Xác định cách tiếp cận elicitation (Determine Elicitation Approach) được dùng để nói về tiến trình nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Một deliverable bắt buộc giống nhau cho mọi dự án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Xác định cách tiếp cận elicitation (Determine Elicitation Approach) được dùng để nói về tiến trình nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một vai trò phê duyệt ngân sách dự án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Xác định cách tiếp cận elicitation (Determine Elicitation Approach) được dùng để nói về tiến trình nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Một kỹ thuật chỉ dùng trong testing.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Xác định cách tiếp cận elicitation (Determine Elicitation Approach) được dùng để nói về tiến trình nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-06-elicitation-html-q4" data-correct="0">
+              <h4>4. Xác nhận kết quả elicitation (Confirm Elicitation Results) được hiểu đúng nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>tiến trình nhằm kiểm tra kết quả elicitation về độ chính xác, đầy đủ, hiểu chung và mức sẵn sàng đưa vào phân tích</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Một chỉ số tài chính duy nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một cách đặt tên file trong repository.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Một hoạt động chỉ diễn ra sau release.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-06-elicitation-html-q5" data-correct="0">
+              <h4>5. Artifact hoặc nội dung nào quan trọng trong phần Khai thác thông tin (Elicitation)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>elicitation approach, elicitation results và confirmed elicitation results</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh elicitation approach, elicitation results và confirmed elicitation results như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Logo dự án và màu thương hiệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh elicitation approach, elicitation results và confirmed elicitation results như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Danh sách nhân sự nghỉ phép.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh elicitation approach, elicitation results và confirmed elicitation results như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Kế hoạch mua phần cứng không liên quan.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh elicitation approach, elicitation results và confirmed elicitation results như phương tiện học và ra quyết định.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="medium">
+        <div class="quiz-level-header">
+          <h3>Trung bình (Medium)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="medium" data-question-id="pages-06-elicitation-html-q6" data-correct="0">
+              <h4>6. Vì sao elicitation approach, elicitation results và confirmed elicitation results không nên được xem là giấy tờ để điền cho đủ?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>làm bằng chứng cho quyết định tiếp theo, giữ rationale và nối kết quả BA với mục tiêu sản phẩm</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Vì mọi artifact đều phải dài tối thiểu 50 trang.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Vì artifact chỉ để lưu trữ sau khi dự án kết thúc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Vì artifact không cần người sở hữu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-06-elicitation-html-q7" data-correct="0">
+              <h4>7. Khi team dùng thuật ngữ không nhất quán trong phần Khai thác thông tin (Elicitation), BA nên làm gì trước tiên?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Quay lại glossary/controlled vocabulary và thống nhất thuật ngữ song ngữ trước khi tiếp tục phân tích.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Chấp nhận mọi cách gọi để tránh tranh luận.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Xóa hết English terms khỏi tài liệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chuyển ngay sang thiết kế solution.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-06-elicitation-html-q8" data-correct="0">
+              <h4>8. Quan hệ đúng giữa Xác định cách tiếp cận elicitation (Determine Elicitation Approach) và Xác nhận kết quả elicitation (Confirm Elicitation Results) là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Cả hai cần được đặt trong cùng bối cảnh quyết định để tránh xử lý BA như các mảnh rời.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Hai khái niệm luôn thay thế nhau hoàn toàn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một khái niệm chỉ dùng cho finance, khái niệm còn lại chỉ dùng cho UI.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Không cần liên hệ vì glossary đã định nghĩa riêng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-06-elicitation-html-q9" data-correct="0">
+              <h4>9. Nếu stakeholder tranh luận lâu nhưng không thống nhất được, câu hỏi hữu ích nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Quyết định nào cần được hỗ trợ, bằng chứng nào còn thiếu, và ai có quyền quyết định?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Ai nói nhiều nhất trong cuộc họp?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Template nào trông chuyên nghiệp nhất?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Làm sao viết requirement dài hơn?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-06-elicitation-html-q10" data-correct="0">
+              <h4>10. Vì sao lifecycle tailoring quan trọng trong phần này?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>adaptive có thể dùng artifact nhẹ và lặp nhanh; predictive hoặc regulated cần baseline, approval và traceability rõ hơn</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive có thể dùng artifact nhẹ và lặp nhanh; predictive hoặc regulated cần baseline, approval và traceability rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Vì mọi dự án phải dùng cùng một sign-off.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive có thể dùng artifact nhẹ và lặp nhanh; predictive hoặc regulated cần baseline, approval và traceability rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Vì adaptive không cần BA.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive có thể dùng artifact nhẹ và lặp nhanh; predictive hoặc regulated cần baseline, approval và traceability rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Vì predictive không bao giờ thay đổi.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive có thể dùng artifact nhẹ và lặp nhanh; predictive hoặc regulated cần baseline, approval và traceability rõ hơn.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="hard">
+        <div class="quiz-level-header">
+          <h3>Khó (Hard)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="hard" data-question-id="pages-06-elicitation-html-q11" data-correct="0">
+              <h4>11. Tình huống: nhóm muốn nhảy ngay vào solution mà chưa làm rõ nội dung của Khai thác thông tin (Elicitation). BA nên làm gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>quay lại mục đích của Xác định cách tiếp cận elicitation (Determine Elicitation Approach), kiểm tra đầu vào, mời đúng stakeholder và làm rõ output nào phục vụ quyết định</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là quay lại mục đích của Xác định cách tiếp cận elicitation (Determine Elicitation Approach), kiểm tra đầu vào, mời đúng stakeholder và làm rõ output nào phục vụ quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Ghi lại solution được đề xuất như requirement cuối cùng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là quay lại mục đích của Xác định cách tiếp cận elicitation (Determine Elicitation Approach), kiểm tra đầu vào, mời đúng stakeholder và làm rõ output nào phục vụ quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Hủy mọi cuộc họp stakeholder để tiết kiệm thời gian.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là quay lại mục đích của Xác định cách tiếp cận elicitation (Determine Elicitation Approach), kiểm tra đầu vào, mời đúng stakeholder và làm rõ output nào phục vụ quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chỉ hỏi developer estimate và bỏ qua business rationale.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là quay lại mục đích của Xác định cách tiếp cận elicitation (Determine Elicitation Approach), kiểm tra đầu vào, mời đúng stakeholder và làm rõ output nào phục vụ quyết định.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-06-elicitation-html-q12" data-correct="0">
+              <h4>12. Anti-pattern nào cần tránh khi áp dụng phần Khai thác thông tin (Elicitation)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Dùng glossary song ngữ để giữ nhất quán.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Nối artifact với objective và decision.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Điều chỉnh mức formal theo rủi ro.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-06-elicitation-html-q13" data-correct="0">
+              <h4>13. Nếu một artifact được tạo nhưng không ai dùng để ra quyết định, đánh giá đúng nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Artifact đó cần được thiết kế lại quanh người dùng, quyết định, evidence và trạng thái thông tin.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Artifact càng ít người dùng càng bảo mật tốt.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ cần đổi font chữ để dễ đọc hơn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Đánh dấu artifact là approved để kết thúc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-06-elicitation-html-q14" data-correct="0">
+              <h4>14. Metric nào phù hợp nhất để xem phần Khai thác thông tin (Elicitation) đang tạo tác dụng?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>giảm rework do hiểu sai, tăng chất lượng acceptance criteria, cải thiện traceability và đo được value sau release</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: giảm rework do hiểu sai, tăng chất lượng acceptance criteria, cải thiện traceability và đo được value sau release.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Số trang tài liệu được tạo ra.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: giảm rework do hiểu sai, tăng chất lượng acceptance criteria, cải thiện traceability và đo được value sau release.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Số thuật ngữ tiếng Anh xuất hiện trong heading.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: giảm rework do hiểu sai, tăng chất lượng acceptance criteria, cải thiện traceability và đo được value sau release.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Số lần đổi tên file trong thư mục.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: giảm rework do hiểu sai, tăng chất lượng acceptance criteria, cải thiện traceability và đo được value sau release.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-06-elicitation-html-q15" data-correct="0">
+              <h4>15. Khi áp dụng trong môi trường regulated, điều gì thường cần tăng lên?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Traceability, versioning, review, approval và bằng chứng về rationale.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tốc độ bỏ qua stakeholder.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Số lượng giả định không cần ghi lại.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Mức mơ hồ của acceptance criteria.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="hardest">
+        <div class="quiz-level-header">
+          <h3>Rất khó (Hardest)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="hardest" data-question-id="pages-06-elicitation-html-q16" data-correct="0">
+              <h4>16. Một BA senior nên tổng hợp phần Khai thác thông tin (Elicitation) như thế nào để hỗ trợ quyết định cấp tổ chức?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>kết hợp Xác định cách tiếp cận elicitation (Determine Elicitation Approach), Tiến hành elicitation (Conduct Elicitation) và Xác nhận kết quả elicitation (Confirm Elicitation Results) để giữ đường nối từ nhu cầu đến giá trị</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là kết hợp Xác định cách tiếp cận elicitation (Determine Elicitation Approach), Tiến hành elicitation (Conduct Elicitation) và Xác nhận kết quả elicitation (Confirm Elicitation Results) để giữ đường nối từ nhu cầu đến giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tách từng thuật ngữ khỏi mục tiêu để dễ học thuộc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là kết hợp Xác định cách tiếp cận elicitation (Determine Elicitation Approach), Tiến hành elicitation (Conduct Elicitation) và Xác nhận kết quả elicitation (Confirm Elicitation Results) để giữ đường nối từ nhu cầu đến giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ gửi danh sách process mà không nêu cách dùng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là kết hợp Xác định cách tiếp cận elicitation (Determine Elicitation Approach), Tiến hành elicitation (Conduct Elicitation) và Xác nhận kết quả elicitation (Confirm Elicitation Results) để giữ đường nối từ nhu cầu đến giá trị.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chuyển mọi vấn đề thành yêu cầu phần mềm.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là kết hợp Xác định cách tiếp cận elicitation (Determine Elicitation Approach), Tiến hành elicitation (Conduct Elicitation) và Xác nhận kết quả elicitation (Confirm Elicitation Results) để giữ đường nối từ nhu cầu đến giá trị.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-06-elicitation-html-q17" data-correct="0">
+              <h4>17. Nếu evidence mới mâu thuẫn với baseline hoặc giả định cũ, phán đoán nào đúng nhất?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Kích hoạt phân tích tác động, ghi rationale và quyết định minh bạch thay vì giữ baseline chỉ vì đã phê duyệt.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Bỏ qua evidence mới để tránh thay đổi.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Xóa baseline mà không thông báo.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chỉ hỏi một stakeholder thuận tiện nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-06-elicitation-html-q18" data-correct="0">
+              <h4>18. Khi nhiều stakeholder hiểu khác nhau về Xác định cách tiếp cận elicitation (Determine Elicitation Approach), hành động nào tạo giá trị lâu dài nhất?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Chuẩn hóa định nghĩa song ngữ, gắn ví dụ trong ngữ cảnh và dùng cùng thuật ngữ trong artifact liên quan.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Để mỗi nhóm tự định nghĩa theo thói quen.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ chọn định nghĩa của nhóm có quyền lực nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Tránh dùng thuật ngữ đó trong mọi tài liệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-06-elicitation-html-q19" data-correct="0">
+              <h4>19. Trong một initiative hybrid, cách áp dụng Khai thác thông tin (Elicitation) chín chắn nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Giữ mục tiêu và trace rõ, nhưng điều chỉnh artifact, cadence và approval theo rủi ro từng phần.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Áp dụng toàn bộ như waterfall cho mọi item.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Áp dụng toàn bộ như agile và bỏ mọi approval.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Không dùng BA vì hybrid quá phức tạp.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-06-elicitation-html-q20" data-correct="0">
+              <h4>20. Dấu hiệu nào cho thấy người đọc đã hiểu sâu phần Khai thác thông tin (Elicitation)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Có thể giải thích thuật ngữ, artifact, decision, risk và value bằng cùng một câu chuyện thực hành.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Có thể nhớ tên trang nhưng không biết áp dụng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Có thể copy định nghĩa mà không hiểu ngữ cảnh.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Có thể tạo quiz nhưng không kiểm tra đáp án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li>
+              </ol>
+            </article>
+      </section>
   </section>
   </main>
   <footer class="site-footer">
     <p>Nguồn: PMI, The PMI Guide to Business Analysis (2017). Nội dung dưới đây là bản tóm tắt, diễn giải và hệ thống hoá bằng tiếng Việt, không phải bản dịch nguyên văn.</p>
-    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục</a></p>
+    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục (Open Printable Combined Version)</a></p>
   </footer>
   <script>
     const btn = document.getElementById('navToggle');
     const links = document.querySelector('.nav-links');
     btn?.addEventListener('click', () => links.classList.toggle('open'));
+
+    
+    (function () {
+      const storageKey = 'pmi-ba-vietnamese-quiz-v2';
+
+      function loadState() {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey) || '{}');
+        } catch (error) {
+          return {};
+        }
+      }
+
+      function saveState(state) {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify(state));
+        } catch (error) {
+          // Browsers can deny storage in private modes; the quiz still works without caching.
+        }
+      }
+
+      const state = loadState();
+
+      function questionList(level) {
+        return Array.from(level.querySelectorAll('.quiz-question'));
+      }
+
+      function setFeedback(question, selectedIndex) {
+        const correctIndex = Number(question.dataset.correct);
+        const options = Array.from(question.querySelectorAll('.quiz-option'));
+        const result = question.querySelector('.quiz-result');
+        const isCorrect = selectedIndex === correctIndex;
+        question.dataset.answered = 'true';
+        question.dataset.selected = String(selectedIndex);
+        question.classList.toggle('is-correct', isCorrect);
+        question.classList.toggle('is-wrong', !isCorrect);
+        if (result) {
+          result.textContent = isCorrect
+            ? 'Đúng (Correct). Câu trả lời của bạn chính xác.'
+            : 'Sai (Wrong). Xem giải thích bên dưới từng lựa chọn.';
+        }
+        options.forEach((option) => {
+          const optionIndex = Number(option.dataset.optionIndex);
+          const item = option.closest('li');
+          const feedback = item?.querySelector('.option-feedback');
+          const isSelected = optionIndex === selectedIndex;
+          const isAnswer = optionIndex === correctIndex;
+          option.disabled = true;
+          option.setAttribute('aria-pressed', isSelected ? 'true' : 'false');
+          option.classList.toggle('is-selected', isSelected);
+          option.classList.toggle('is-correct-option', isAnswer);
+          option.classList.toggle('is-wrong-option', isSelected && !isAnswer);
+          if (feedback) {
+            const base = feedback.dataset.base || feedback.textContent;
+            feedback.dataset.base = base;
+            if (isAnswer) {
+              feedback.textContent = 'Đáp án đúng (Correct option). ' + base;
+            } else if (isSelected) {
+              feedback.textContent = 'Bạn đã chọn lựa chọn này, nhưng chưa đúng (Your selected answer is wrong). ' + base;
+            } else {
+              feedback.textContent = 'Không phải đáp án đúng (Not the correct option). ' + base;
+            }
+            feedback.hidden = false;
+          }
+        });
+      }
+
+      function clearQuestion(question) {
+        const result = question.querySelector('.quiz-result');
+        delete question.dataset.answered;
+        delete question.dataset.selected;
+        question.hidden = false;
+        question.classList.remove('is-correct', 'is-wrong');
+        if (result) result.textContent = '';
+        question.querySelectorAll('.quiz-option').forEach((option) => {
+          option.disabled = false;
+          option.setAttribute('aria-pressed', 'false');
+          option.classList.remove('is-selected', 'is-correct-option', 'is-wrong-option');
+        });
+        question.querySelectorAll('.option-feedback').forEach((feedback) => {
+          if (feedback.dataset.base) feedback.textContent = feedback.dataset.base;
+          feedback.hidden = true;
+        });
+      }
+
+      function updateLevelStatus(level) {
+        const questions = questionList(level);
+        const answered = questions.filter((question) => question.dataset.answered === 'true');
+        const correct = answered.filter((question) => question.classList.contains('is-correct')).length;
+        const wrong = answered.length - correct;
+        const status = level.querySelector('.quiz-status');
+        if (status) {
+          status.textContent = 'Đã trả lời (Answered): ' + answered.length + '/' + questions.length + ' · Đúng (Correct): ' + correct + ' · Sai (Wrong): ' + wrong;
+        }
+      }
+
+      function persistAnswer(question, selectedIndex) {
+        state[question.dataset.questionId] = {
+          selected: selectedIndex,
+          correct: Number(question.dataset.correct),
+          updatedAt: new Date().toISOString(),
+        };
+        saveState(state);
+      }
+
+      document.querySelectorAll('.quiz-question').forEach((question) => {
+        const cached = state[question.dataset.questionId];
+        if (cached && Number.isInteger(cached.selected)) {
+          setFeedback(question, Number(cached.selected));
+        }
+      });
+
+      document.querySelectorAll('.quiz-level').forEach(updateLevelStatus);
+
+      document.addEventListener('click', (event) => {
+        const option = event.target.closest('.quiz-option');
+        if (option) {
+          const question = option.closest('.quiz-question');
+          if (!question || question.dataset.answered === 'true') return;
+          const selectedIndex = Number(option.dataset.optionIndex);
+          setFeedback(question, selectedIndex);
+          persistAnswer(question, selectedIndex);
+          updateLevelStatus(question.closest('.quiz-level'));
+          return;
+        }
+
+        const action = event.target.closest('[data-quiz-action]');
+        if (!action) return;
+        const level = action.closest('.quiz-level');
+        const questions = questionList(level);
+        const actionType = action.dataset.quizAction;
+        if (actionType === 'retest') {
+          questions.forEach((question) => {
+            delete state[question.dataset.questionId];
+            clearQuestion(question);
+          });
+          saveState(state);
+          updateLevelStatus(level);
+          return;
+        }
+        if (actionType === 'retest-failed') {
+          let failedCount = 0;
+          questions.forEach((question) => {
+            const cached = state[question.dataset.questionId];
+            const failed = cached && Number(cached.selected) !== Number(question.dataset.correct);
+            if (failed) {
+              failedCount += 1;
+              delete state[question.dataset.questionId];
+              clearQuestion(question);
+            } else {
+              question.hidden = Boolean(cached);
+            }
+          });
+          saveState(state);
+          const status = level.querySelector('.quiz-status');
+          if (status && failedCount === 0) {
+            status.textContent = 'Không có câu sai để làm lại (No failed questions to retest).';
+          } else {
+            updateLevelStatus(level);
+          }
+        }
+      });
+    })();
+    
   </script>
 </body>
 </html>

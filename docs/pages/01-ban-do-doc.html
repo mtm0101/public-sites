@@ -3,220 +3,1028 @@
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Bản đồ tư duy của Guide · PMI BA Vietnamese Deep Dive</title>
-  <meta name="description" content="Cách nhìn toàn bộ tài liệu: giá trị, yêu cầu, vòng đời sản phẩm, knowledge areas và process groups.">
+  <title>Bản đồ đọc tài liệu (Reading Map) · PMI BA Vietnamese Deep Dive</title>
+  <meta name="description" content="Cách nhìn toàn bộ tài liệu: giá trị kinh doanh (business value), yêu cầu (requirements), vòng đời sản phẩm (product life cycle), vùng tri thức (knowledge areas) và nhóm tiến trình (process groups).">
   <link rel="stylesheet" href="../assets/style.css">
 </head>
 <body>
   <nav class="site-nav">
-    <a class="brand" href="../index.html">PMI BA · Vietnamese Deep Dive</a>
-    <button aria-label="Mở mục lục" id="navToggle">Mục lục</button>
-    <div class="nav-links"><a  href="../index.html">Tổng quan</a><a class="active" href="../pages/01-ban-do-doc.html">Bản đồ</a><a  href="../pages/02-nen-tang.html">Nền tảng</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường</a><a  href="../pages/04-danh-gia-nhu-cau.html">Needs</a><a  href="../pages/05-gan-ket-stakeholder.html">Stakeholder</a><a  href="../pages/06-elicitation.html">Elicitation</a><a  href="../pages/07-phan-tich.html">Analysis</a><a  href="../pages/08-truy-vet-giam-sat.html">Traceability</a><a  href="../pages/09-danh-gia-giai-phap.html">Evaluation</a><a  href="../pages/10-standard.html">Standard</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ</a><a  href="../pages/12-playbook.html">Playbook</a></div>
+    <a class="brand" href="../index.html">PMI BA · Đọc sâu song ngữ (Bilingual Deep Dive)</a>
+    <button aria-label="Mở mục lục (Open table of contents)" id="navToggle">Mục lục (TOC)</button>
+    <div class="nav-links"><a  href="../index.html">Tổng quan (Overview)</a><a class="active" href="../pages/01-ban-do-doc.html">Bản đồ (Map)</a><a  href="../pages/02-nen-tang.html">Nền tảng (Foundations)</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường (Context)</a><a  href="../pages/04-danh-gia-nhu-cau.html">Nhu cầu (Needs)</a><a  href="../pages/05-gan-ket-stakeholder.html">Bên liên quan (Stakeholders)</a><a  href="../pages/06-elicitation.html">Khai thác (Elicitation)</a><a  href="../pages/07-phan-tich.html">Phân tích (Analysis)</a><a  href="../pages/08-truy-vet-giam-sat.html">Truy vết (Traceability)</a><a  href="../pages/09-danh-gia-giai-phap.html">Giải pháp (Evaluation)</a><a  href="../pages/10-standard.html">Chuẩn (Standard)</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ (Tools)</a><a  href="../pages/12-thuat-ngu.html">Thuật ngữ (Glossary)</a><a  href="../pages/13-playbook.html">Playbook (Playbook)</a></div>
   </nav>
   <header class="hero">
     <div>
-      <p class="eyebrow">Tóm tắt và đọc sâu bằng tiếng Việt</p>
-      <h1>Bản đồ tư duy của Guide</h1>
-      <p>Cách nhìn toàn bộ tài liệu: giá trị, yêu cầu, vòng đời sản phẩm, knowledge areas và process groups.</p>
+      <p class="eyebrow">Tóm tắt tiếng Việt kèm thuật ngữ tiếng Anh (Vietnamese Summary with English Terms)</p>
+      <h1>Bản đồ đọc tài liệu (Reading Map)</h1>
+      <p>Cách nhìn toàn bộ tài liệu: giá trị kinh doanh (business value), yêu cầu (requirements), vòng đời sản phẩm (product life cycle), vùng tri thức (knowledge areas) và nhóm tiến trình (process groups).</p>
     </div>
   </header>
   <main class="content">
     
-    <section class="prose-block"><h2>Luận điểm trung tâm</h2><p>Guide xem business analysis như một năng lực giúp tổ chức đưa ra quyết định sản phẩm tốt hơn. BA không chỉ viết requirement, cũng không chỉ làm trung gian giữa business và IT. BA tạo điều kiện để tổ chức hiểu đúng vấn đề, chọn hướng đi, định nghĩa sản phẩm, kiểm soát thay đổi và đo giá trị.</p><p>Điểm quan trọng là guide không khóa BA vào một life cycle. Predictive, iterative, adaptive hay hybrid đều cần BA, nhưng mức hình thức, thứ tự, nhịp lặp và artifact sẽ khác nhau. Vì vậy tailoring là năng lực cốt lõi: chọn đúng quy trình, kỹ thuật, đầu vào và đầu ra cho bối cảnh.</p><p>Một cách đọc hữu ích là coi 35 tiến trình như 35 câu hỏi quản trị sản phẩm. Mỗi tiến trình buộc nhóm trả lời: chúng ta đang cố giải quyết điều gì, ai liên quan, thông tin nào còn thiếu, yêu cầu đã đủ rõ chưa, thay đổi ảnh hưởng tới đâu, giải pháp có tạo giá trị không?</p></section>
+    <section class="prose-block"><h2>Luận điểm trung tâm (Core Thesis)</h2><p>Guide xem business analysis như một năng lực giúp tổ chức đưa ra quyết định sản phẩm tốt hơn. BA không chỉ viết requirement, cũng không chỉ làm trung gian giữa business và IT. BA tạo điều kiện để tổ chức hiểu đúng vấn đề, chọn hướng đi, định nghĩa sản phẩm, kiểm soát thay đổi và đo giá trị.</p><p>Điểm quan trọng là guide không khóa BA vào một life cycle. Predictive, iterative, adaptive hay hybrid đều cần BA, nhưng mức hình thức, thứ tự, nhịp lặp và artifact sẽ khác nhau. Vì vậy tailoring là năng lực cốt lõi: chọn đúng quy trình, kỹ thuật, đầu vào và đầu ra cho bối cảnh.</p><p>Một cách đọc hữu ích là coi 35 tiến trình như 35 câu hỏi quản trị sản phẩm. Mỗi tiến trình buộc nhóm trả lời: chúng ta đang cố giải quyết điều gì, ai liên quan, thông tin nào còn thiếu, yêu cầu đã đủ rõ chưa, thay đổi ảnh hưởng tới đâu, giải pháp có tạo giá trị không?</p></section>
     <div class="stat-grid"><article class="stat-card">
         <strong>6</strong>
-        <span>Knowledge Areas</span>
+        <span>Vùng tri thức (Knowledge Areas)</span>
         <p>Sáu vùng tri thức để nhóm các hoạt động BA theo chức năng thực hành.</p>
       </article><article class="stat-card">
         <strong>6</strong>
-        <span>Process Groups</span>
+        <span>Nhóm tiến trình (Process Groups)</span>
         <p>Sáu nhóm tiến trình mô tả chế độ làm việc lặp lại trong vòng đời sản phẩm và dự án.</p>
       </article><article class="stat-card">
         <strong>35</strong>
-        <span>Processes</span>
+        <span>Tiến trình (Processes)</span>
         <p>Ba mươi lăm tiến trình BA có mục đích, đầu vào, công cụ, đầu ra và điểm cộng tác.</p>
       </article><article class="stat-card">
         <strong>110</strong>
-        <span>Tools &amp; Techniques</span>
+        <span>Công cụ và kỹ thuật (Tools &amp; Techniques)</span>
         <p>Một kho kỹ thuật lớn cần được chọn lọc theo bối cảnh, rủi ro và mức độ hình thức.</p>
       </article></div>
-    <section><h2>Sáu knowledge areas như một vòng học hỏi</h2><div class="ka-grid"><article class="ka-card needs">
-      <h3>Đánh giá nhu cầu</h3>
+    <section><h2>Sáu vùng tri thức như một vòng học hỏi (Six Knowledge Areas as a Learning Loop)</h2><div class="ka-grid"><article class="ka-card needs">
+      <h3>Đánh giá nhu cầu (Needs Assessment)</h3>
       <p>Vùng tri thức này bắt đầu trước khi nhóm nói quá nhiều về giải pháp. Trọng tâm là hiểu vì sao tổ chức nên hành động, tình trạng hiện tại đang vận hành ra sao, trạng thái tương lai mong muốn là gì, những lựa chọn nào khả thi và lựa chọn nào đáng được khuyến nghị. Khi làm tốt, Needs Assessment giúp tránh tình trạng dự án được phê duyệt chỉ vì một ý tưởng nghe hợp lý, trong khi vấn đề gốc, lợi ích, rủi ro và điều kiện thành công chưa rõ.</p>
       <div><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-1-identify-problem-or-opportunity">
     <b>4.1</b>
-    <span>Xác định vấn đề hoặc cơ hội</span>
-    <small>Defining and Aligning</small>
+    <span>Xác định vấn đề hoặc cơ hội (Identify Problem or Opportunity)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-2-assess-current-state">
     <b>4.2</b>
-    <span>Đánh giá trạng thái hiện tại</span>
-    <small>Defining and Aligning</small>
+    <span>Đánh giá trạng thái hiện tại (Assess Current State)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-3-determine-future-state">
     <b>4.3</b>
-    <span>Xác định trạng thái tương lai</span>
-    <small>Defining and Aligning</small>
+    <span>Xác định trạng thái tương lai (Determine Future State)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-4-determine-viable-options-and-provide-recommendation">
     <b>4.4</b>
-    <span>Xác định lựa chọn khả thi và đưa ra khuyến nghị</span>
-    <small>Defining and Aligning</small>
+    <span>Xác định lựa chọn khả thi và đưa ra khuyến nghị (Determine Viable Options and Provide Recommendation)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-5-facilitate-product-roadmap-development">
     <b>4.5</b>
-    <span>Hỗ trợ phát triển roadmap sản phẩm</span>
-    <small>Defining and Aligning</small>
+    <span>Hỗ trợ phát triển roadmap sản phẩm (Facilitate Product Roadmap Development)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-6-assemble-business-case">
     <b>4.6</b>
-    <span>Lắp ghép business case</span>
-    <small>Defining and Aligning</small>
+    <span>Lắp ghép business case (Assemble Business Case)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card needs" href="04-danh-gia-nhu-cau.html#4-7-support-charter-development">
     <b>4.7</b>
-    <span>Hỗ trợ phát triển charter</span>
-    <small>Initiating</small>
+    <span>Hỗ trợ phát triển charter (Support Charter Development)</span>
+    <small>Khởi tạo (Initiating)</small>
   </a></div>
     </article><article class="ka-card stakeholder">
-      <h3>Gắn kết stakeholder</h3>
+      <h3>Gắn kết stakeholder (Stakeholder Engagement)</h3>
       <p>Stakeholder Engagement không chỉ là danh sách người cần gửi email. Theo tinh thần của guide, đây là một hệ thống xã hội: ai bị tác động, ai có quyền quyết định, ai nắm tri thức vận hành, ai có thể cản trở, ai cần được hỗ trợ chuyển đổi và ai sẽ đánh giá thành công. BA phải hiểu đặc điểm stakeholder để chọn cách giao tiếp, elicitation và xác nhận thông tin phù hợp.</p>
       <div><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-1-identify-stakeholders">
     <b>5.1</b>
-    <span>Xác định stakeholder</span>
-    <small>Defining and Aligning</small>
+    <span>Xác định stakeholder (Identify Stakeholders)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-2-conduct-stakeholder-analysis">
     <b>5.2</b>
-    <span>Phân tích stakeholder</span>
-    <small>Planning</small>
+    <span>Phân tích stakeholder (Conduct Stakeholder Analysis)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-3-determine-stakeholder-engagement-and-communication-approach">
     <b>5.3</b>
-    <span>Xác định cách gắn kết và truyền thông với stakeholder</span>
-    <small>Planning</small>
+    <span>Xác định cách gắn kết và truyền thông với stakeholder (Determine Stakeholder Engagement and Communication Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-4-conduct-business-analysis-planning">
     <b>5.4</b>
-    <span>Lập kế hoạch business analysis</span>
-    <small>Planning</small>
+    <span>Lập kế hoạch business analysis (Conduct Business Analysis Planning)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-5-prepare-for-transition-to-future-state">
     <b>5.5</b>
-    <span>Chuẩn bị chuyển đổi sang trạng thái tương lai</span>
-    <small>Executing</small>
+    <span>Chuẩn bị chuyển đổi sang trạng thái tương lai (Prepare for Transition to Future State)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-6-manage-stakeholder-engagement-and-communication">
     <b>5.6</b>
-    <span>Quản lý gắn kết và truyền thông stakeholder</span>
-    <small>Monitoring and Controlling</small>
+    <span>Quản lý gắn kết và truyền thông stakeholder (Manage Stakeholder Engagement and Communication)</span>
+    <small>Giám sát và kiểm soát (Monitoring and Controlling)</small>
   </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-7-assess-business-analysis-performance">
     <b>5.7</b>
-    <span>Đánh giá hiệu quả business analysis</span>
-    <small>Monitoring and Controlling</small>
+    <span>Đánh giá hiệu quả business analysis (Assess Business Analysis Performance)</span>
+    <small>Giám sát và kiểm soát (Monitoring and Controlling)</small>
   </a></div>
     </article><article class="ka-card elicitation">
-      <h3>Khai thác thông tin</h3>
+      <h3>Khai thác thông tin (Elicitation)</h3>
       <p>Elicitation trong guide được hiểu rộng hơn phỏng vấn. Nó bao gồm việc xác định cách tiếp cận, chuẩn bị từng hoạt động, tiến hành kỹ thuật phù hợp, rồi xác nhận kết quả. Elicitation tốt làm giảm sai lệch giữa điều stakeholder nói, điều họ thật sự cần, điều hệ thống hiện có cho phép và điều tổ chức sẵn sàng thay đổi.</p>
       <div><a class="process-card elicitation" href="06-elicitation.html#6-1-determine-elicitation-approach">
     <b>6.1</b>
-    <span>Xác định cách tiếp cận elicitation</span>
-    <small>Planning</small>
+    <span>Xác định cách tiếp cận elicitation (Determine Elicitation Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-2-prepare-for-elicitation">
     <b>6.2</b>
-    <span>Chuẩn bị cho elicitation</span>
-    <small>Executing</small>
+    <span>Chuẩn bị cho elicitation (Prepare for Elicitation)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-3-conduct-elicitation">
     <b>6.3</b>
-    <span>Tiến hành elicitation</span>
-    <small>Executing</small>
+    <span>Tiến hành elicitation (Conduct Elicitation)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card elicitation" href="06-elicitation.html#6-4-confirm-elicitation-results">
     <b>6.4</b>
-    <span>Xác nhận kết quả elicitation</span>
-    <small>Executing</small>
+    <span>Xác nhận kết quả elicitation (Confirm Elicitation Results)</span>
+    <small>Thực thi (Executing)</small>
   </a></div>
     </article><article class="ka-card analysis">
-      <h3>Phân tích</h3>
+      <h3>Phân tích (Analysis)</h3>
       <p>Analysis là phần đồ sộ nhất vì nó xử lý lõi trí tuệ của BA: mô hình hoá, làm rõ, kiểm tra chất lượng, xác nhận giá trị, ưu tiên, phân tích rủi ro sản phẩm và đánh giá lựa chọn thiết kế. Guide nhấn mạnh rằng yêu cầu không chỉ cần viết đúng; yêu cầu còn phải đúng với mục tiêu kinh doanh, kiểm chứng được và đủ rõ để ra quyết định.</p>
       <div><a class="process-card analysis" href="07-phan-tich.html#7-1-determine-analysis-approach">
     <b>7.1</b>
-    <span>Xác định cách tiếp cận phân tích</span>
-    <small>Planning</small>
+    <span>Xác định cách tiếp cận phân tích (Determine Analysis Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-2-create-and-analyze-models">
     <b>7.2</b>
-    <span>Tạo và phân tích mô hình</span>
-    <small>Executing</small>
+    <span>Tạo và phân tích mô hình (Create and Analyze Models)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-3-define-and-elaborate-requirements">
     <b>7.3</b>
-    <span>Định nghĩa và làm rõ yêu cầu</span>
-    <small>Executing</small>
+    <span>Định nghĩa và làm rõ yêu cầu (Define and Elaborate Requirements)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-4-define-acceptance-criteria">
     <b>7.4</b>
-    <span>Định nghĩa tiêu chí chấp nhận</span>
-    <small>Executing</small>
+    <span>Định nghĩa tiêu chí chấp nhận (Define Acceptance Criteria)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-5-verify-requirements">
     <b>7.5</b>
-    <span>Kiểm tra chất lượng yêu cầu</span>
-    <small>Executing</small>
+    <span>Kiểm tra chất lượng yêu cầu (Verify Requirements)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-6-validate-requirements">
     <b>7.6</b>
-    <span>Xác nhận yêu cầu phù hợp mục tiêu</span>
-    <small>Executing</small>
+    <span>Xác nhận yêu cầu phù hợp mục tiêu (Validate Requirements)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-7-prioritize-requirements-and-other-product-information">
     <b>7.7</b>
-    <span>Ưu tiên yêu cầu và thông tin sản phẩm</span>
-    <small>Executing</small>
+    <span>Ưu tiên yêu cầu và thông tin sản phẩm (Prioritize Requirements and Other Product Information)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-8-identify-and-analyze-product-risks">
     <b>7.8</b>
-    <span>Xác định và phân tích rủi ro sản phẩm</span>
-    <small>Executing</small>
+    <span>Xác định và phân tích rủi ro sản phẩm (Identify and Analyze Product Risks)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card analysis" href="07-phan-tich.html#7-9-assess-product-design-options">
     <b>7.9</b>
-    <span>Đánh giá lựa chọn thiết kế sản phẩm</span>
-    <small>Executing</small>
+    <span>Đánh giá lựa chọn thiết kế sản phẩm (Assess Product Design Options)</span>
+    <small>Thực thi (Executing)</small>
   </a></div>
     </article><article class="ka-card traceability">
-      <h3>Truy vết và giám sát</h3>
+      <h3>Truy vết và giám sát (Traceability and Monitoring)</h3>
       <p>Traceability giúp tổ chức nói chuyện về thay đổi bằng bằng chứng thay vì cảm tính. Khi một yêu cầu, lỗi hoặc ý tưởng mới xuất hiện, BA cần hiểu nó liên quan tới mục tiêu nào, stakeholder nào, model nào, kiểm thử nào, rủi ro nào và backlog/release nào. Monitoring vì thế là một cơ chế bảo vệ giá trị, không phải chỉ là kiểm soát hành chính.</p>
       <div><a class="process-card traceability" href="08-truy-vet-giam-sat.html#8-1-determine-traceability-and-monitoring-approach">
     <b>8.1</b>
-    <span>Xác định cách truy vết và giám sát</span>
-    <small>Planning</small>
+    <span>Xác định cách truy vết và giám sát (Determine Traceability and Monitoring Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card traceability" href="08-truy-vet-giam-sat.html#8-2-establish-relationships-and-dependencies">
     <b>8.2</b>
-    <span>Thiết lập quan hệ và phụ thuộc</span>
-    <small>Executing</small>
+    <span>Thiết lập quan hệ và phụ thuộc (Establish Relationships and Dependencies)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card traceability" href="08-truy-vet-giam-sat.html#8-3-select-and-approve-requirements">
     <b>8.3</b>
-    <span>Chọn và phê duyệt yêu cầu</span>
-    <small>Executing</small>
+    <span>Chọn và phê duyệt yêu cầu (Select and Approve Requirements)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card traceability" href="08-truy-vet-giam-sat.html#8-4-manage-changes-to-requirements-and-other-product-information">
     <b>8.4</b>
-    <span>Quản lý thay đổi yêu cầu và thông tin sản phẩm</span>
-    <small>Monitoring and Controlling</small>
+    <span>Quản lý thay đổi yêu cầu và thông tin sản phẩm (Manage Changes to Requirements and Other Product Information)</span>
+    <small>Giám sát và kiểm soát (Monitoring and Controlling)</small>
   </a></div>
     </article><article class="ka-card evaluation">
-      <h3>Đánh giá giải pháp</h3>
+      <h3>Đánh giá giải pháp (Solution Evaluation)</h3>
       <p>Solution Evaluation đóng vòng học hỏi. Nó so sánh giải pháp với mục tiêu, lợi ích, tiêu chí chấp nhận, defect, điều kiện vận hành và khả năng chuyển giao. Nếu đánh giá phát hiện khoảng cách, nhóm có thể phải quay lại nhu cầu, stakeholder, elicitation hoặc analysis. Vì vậy đây không phải bước cuối tuyến tính, mà là tín hiệu phản hồi cho toàn bộ hệ thống BA.</p>
       <div><a class="process-card evaluation" href="09-danh-gia-giai-phap.html#9-1-evaluate-solution-performance">
     <b>9.1</b>
-    <span>Đánh giá hiệu suất giải pháp</span>
-    <small>Defining and Aligning</small>
+    <span>Đánh giá hiệu suất giải pháp (Evaluate Solution Performance)</span>
+    <small>Xác định và căn chỉnh (Defining and Aligning)</small>
   </a><a class="process-card evaluation" href="09-danh-gia-giai-phap.html#9-2-determine-solution-evaluation-approach">
     <b>9.2</b>
-    <span>Xác định cách đánh giá giải pháp</span>
-    <small>Planning</small>
+    <span>Xác định cách đánh giá giải pháp (Determine Solution Evaluation Approach)</span>
+    <small>Lập kế hoạch (Planning)</small>
   </a><a class="process-card evaluation" href="09-danh-gia-giai-phap.html#9-3-evaluate-acceptance-results-and-address-defects">
     <b>9.3</b>
-    <span>Đánh giá kết quả chấp nhận và xử lý defect</span>
-    <small>Executing</small>
+    <span>Đánh giá kết quả chấp nhận và xử lý defect (Evaluate Acceptance Results and Address Defects)</span>
+    <small>Thực thi (Executing)</small>
   </a><a class="process-card evaluation" href="09-danh-gia-giai-phap.html#9-4-obtain-solution-acceptance-for-release">
     <b>9.4</b>
-    <span>Đạt chấp nhận giải pháp để phát hành</span>
-    <small>Releasing</small>
+    <span>Đạt chấp nhận giải pháp để phát hành (Obtain Solution Acceptance for Release)</span>
+    <small>Phát hành (Releasing)</small>
   </a></div>
     </article></div></section>
-    <section><h2>Sáu process groups không phải sáu phase</h2><div class="process-group-grid"><article><h3>Xác định và căn chỉnh</h3><b>Defining and Aligning</b><p>Điều tra tính khả thi, làm rõ vấn đề hoặc cơ hội, căn chỉnh sản phẩm với chiến lược và chuẩn bị bằng chứng cho quyết định đầu tư.</p></article><article><h3>Khởi tạo</h3><b>Initiating</b><p>Xác lập mục tiêu, phạm vi ban đầu và những điều kiện để chương trình, dự án hoặc thành phần danh mục có thể bắt đầu có trách nhiệm.</p></article><article><h3>Lập kế hoạch</h3><b>Planning</b><p>Chọn cách thực hiện BA: cách tiếp cận stakeholder, elicitation, analysis, traceability, evaluation, vai trò, nhịp làm việc và mức độ tài liệu.</p></article><article><h3>Thực thi</h3><b>Executing</b><p>Khai thác, mô hình hoá, phân tích, định nghĩa, kiểm tra, xác nhận, ưu tiên, phê duyệt và xử lý thông tin sản phẩm.</p></article><article><h3>Giám sát và kiểm soát</h3><b>Monitoring and Controlling</b><p>Theo dõi hiệu quả BA, quản lý tương tác stakeholder, đánh giá tác động thay đổi và giữ thông tin sản phẩm nhất quán.</p></article><article><h3>Phát hành</h3><b>Releasing</b><p>Xác nhận giải pháp hoặc phần giải pháp đã sẵn sàng đưa vào sử dụng, chuyển giao tri thức và đạt sự chấp nhận cần thiết.</p></article></div></section>
-    <aside class="callout teal"><h4>Cách tránh hiểu sai</h4><p>Process groups không quy định thứ tự tuyến tính. Một nhóm agile có thể quay lại elicitation và analysis nhiều lần trong mỗi iteration; một chương trình predictive vẫn có thể cập nhật stakeholder approach khi phát hiện nhóm bị tác động mới.</p></aside>
-    <section class="prose-block"><h2>Năm nguyên tắc đọc xuyên suốt</h2><p>Thứ nhất, product focus: BA tập trung vào sản phẩm và giá trị mà sản phẩm tạo ra, trong khi project management tập trung vào quản trị công việc dự án. Hai vai trò cần cộng tác chặt chẽ nhưng không nên thay thế nhau.</p><p>Thứ hai, requirement là một loại product information. Backlog, user story, acceptance criteria, model, assumption, constraint, dependency, issue và risk đều là thông tin sản phẩm cần được quản lý.</p><p>Thứ ba, stakeholder engagement là lớp nền của toàn bộ framework. Nếu stakeholder không được hiểu đúng và gắn kết đúng, elicitation sai nguồn, analysis thiếu dữ liệu, traceability mất ý nghĩa và evaluation khó được chấp nhận.</p><p>Thứ tư, model là công cụ tư duy. Guide đưa ra rất nhiều loại model vì mỗi model làm sáng một khía cạnh khác nhau: quy trình, dữ liệu, trạng thái, quyết định, phạm vi, phụ thuộc hoặc hành trình người dùng.</p><p>Thứ năm, value measurement phải được nghĩ từ sớm. Nếu đến cuối mới hỏi giải pháp có tạo giá trị không, đội thường thiếu baseline, thiếu metric và thiếu người chịu trách nhiệm theo dõi lợi ích.</p></section>
+    <section><h2>Sáu nhóm tiến trình không phải sáu giai đoạn (Six Process Groups Are Not Six Phases)</h2><div class="process-group-grid"><article><h3>Xác định và căn chỉnh (Defining and Aligning)</h3><p>Điều tra tính khả thi, làm rõ vấn đề hoặc cơ hội, căn chỉnh sản phẩm với chiến lược và chuẩn bị bằng chứng cho quyết định đầu tư.</p></article><article><h3>Khởi tạo (Initiating)</h3><p>Xác lập mục tiêu, phạm vi ban đầu và những điều kiện để chương trình, dự án hoặc thành phần danh mục có thể bắt đầu có trách nhiệm.</p></article><article><h3>Lập kế hoạch (Planning)</h3><p>Chọn cách thực hiện BA: cách tiếp cận stakeholder, elicitation, analysis, traceability, evaluation, vai trò, nhịp làm việc và mức độ tài liệu.</p></article><article><h3>Thực thi (Executing)</h3><p>Khai thác, mô hình hoá, phân tích, định nghĩa, kiểm tra, xác nhận, ưu tiên, phê duyệt và xử lý thông tin sản phẩm.</p></article><article><h3>Giám sát và kiểm soát (Monitoring and Controlling)</h3><p>Theo dõi hiệu quả BA, quản lý tương tác stakeholder, đánh giá tác động thay đổi và giữ thông tin sản phẩm nhất quán.</p></article><article><h3>Phát hành (Releasing)</h3><p>Xác nhận giải pháp hoặc phần giải pháp đã sẵn sàng đưa vào sử dụng, chuyển giao tri thức và đạt sự chấp nhận cần thiết.</p></article></div></section>
+    <aside class="callout teal"><h4>Cách tránh hiểu sai (Avoiding Misinterpretation)</h4><p>Process groups không quy định thứ tự tuyến tính. Một nhóm agile có thể quay lại elicitation và analysis nhiều lần trong mỗi iteration; một chương trình predictive vẫn có thể cập nhật stakeholder approach khi phát hiện nhóm bị tác động mới.</p></aside>
+    <section class="prose-block"><h2>Năm nguyên tắc đọc xuyên suốt (Five Reading Principles)</h2><p>Thứ nhất, product focus: BA tập trung vào sản phẩm và giá trị mà sản phẩm tạo ra, trong khi project management tập trung vào quản trị công việc dự án. Hai vai trò cần cộng tác chặt chẽ nhưng không nên thay thế nhau.</p><p>Thứ hai, requirement là một loại product information. Backlog, user story, acceptance criteria, model, assumption, constraint, dependency, issue và risk đều là thông tin sản phẩm cần được quản lý.</p><p>Thứ ba, stakeholder engagement là lớp nền của toàn bộ framework. Nếu stakeholder không được hiểu đúng và gắn kết đúng, elicitation sai nguồn, analysis thiếu dữ liệu, traceability mất ý nghĩa và evaluation khó được chấp nhận.</p><p>Thứ tư, model là công cụ tư duy. Guide đưa ra rất nhiều loại model vì mỗi model làm sáng một khía cạnh khác nhau: quy trình, dữ liệu, trạng thái, quyết định, phạm vi, phụ thuộc hoặc hành trình người dùng.</p><p>Thứ năm, value measurement phải được nghĩ từ sớm. Nếu đến cuối mới hỏi giải pháp có tạo giá trị không, đội thường thiếu baseline, thiếu metric và thiếu người chịu trách nhiệm theo dõi lợi ích.</p></section><section class="quiz-section" data-quiz-section="true" id="pages-01-ban-do-doc-html-quiz">
+    <h2>Quiz cuối chương (Chapter Quiz)</h2>
+    <p class="lead">20 câu hỏi kiểm tra phần Bản đồ đọc tài liệu (Reading Map): 5 Dễ (Easy), 5 Trung bình (Medium), 5 Khó (Hard), 5 Rất khó (Hardest). Phần quiz này chỉ xuất hiện ở trang HTML thường và không xuất hiện trong bản in.</p>
+    <section class="quiz-level" data-level="easy">
+        <div class="quiz-level-header">
+          <h3>Dễ (Easy)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="easy" data-question-id="pages-01-ban-do-doc-html-q1" data-correct="0">
+              <h4>1. Mục tiêu chính của phần Bản đồ đọc tài liệu (Reading Map) là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>trang này trình bày cách guide tổ chức business analysis thành sáu knowledge areas, sáu process groups và 35 processes</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào trang này trình bày cách guide tổ chức business analysis thành sáu knowledge areas, sáu process groups và 35 processes.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tăng số lượng tài liệu mà không cần kiểm tra người dùng sử dụng ra sao.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào trang này trình bày cách guide tổ chức business analysis thành sáu knowledge areas, sáu process groups và 35 processes.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Thay thế vai trò project manager bằng một danh sách yêu cầu cố định.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào trang này trình bày cách guide tổ chức business analysis thành sáu knowledge areas, sáu process groups và 35 processes.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Khóa solution ngay từ đầu để tránh phải trao đổi với stakeholder.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Phần này tập trung vào trang này trình bày cách guide tổ chức business analysis thành sáu knowledge areas, sáu process groups và 35 processes.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-01-ban-do-doc-html-q2" data-correct="0">
+              <h4>2. Theo quy ước song ngữ trong site, thuật ngữ quan trọng nên được viết như thế nào?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Tiếng Việt trước, thuật ngữ tiếng Anh trong ngoặc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Chỉ dùng tiếng Anh để giữ nguyên nguồn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ dùng tiếng Việt và bỏ thuật ngữ gốc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Dùng tiếng Anh ở heading, tiếng Việt ở footnote.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Quy ước này giúp người đọc hiểu bằng tiếng Việt nhưng vẫn đối chiếu được English source term.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-01-ban-do-doc-html-q3" data-correct="0">
+              <h4>3. Nhóm tiến trình (Process Groups) có nghĩa gần nhất với điều nào?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>các chế độ làm việc như Defining and Aligning, Planning, Executing hoặc Releasing, không phải phase cứng</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Nhóm tiến trình (Process Groups) được dùng để nói về các chế độ làm việc như Defining and Aligning, Planning, Executing hoặc Releasing, không phải phase cứng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Một deliverable bắt buộc giống nhau cho mọi dự án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Nhóm tiến trình (Process Groups) được dùng để nói về các chế độ làm việc như Defining and Aligning, Planning, Executing hoặc Releasing, không phải phase cứng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một vai trò phê duyệt ngân sách dự án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Nhóm tiến trình (Process Groups) được dùng để nói về các chế độ làm việc như Defining and Aligning, Planning, Executing hoặc Releasing, không phải phase cứng.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Một kỹ thuật chỉ dùng trong testing.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trong ngữ cảnh này, Nhóm tiến trình (Process Groups) được dùng để nói về các chế độ làm việc như Defining and Aligning, Planning, Executing hoặc Releasing, không phải phase cứng.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-01-ban-do-doc-html-q4" data-correct="0">
+              <h4>4. Vùng tri thức (Knowledge Areas) được hiểu đúng nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>cách nhóm các process theo chức năng BA như needs, stakeholder, elicitation và analysis</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Một chỉ số tài chính duy nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một cách đặt tên file trong repository.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Một hoạt động chỉ diễn ra sau release.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đáp án đúng phản ánh cách thuật ngữ này được diễn giải trong trang.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="easy" data-question-id="pages-01-ban-do-doc-html-q5" data-correct="0">
+              <h4>5. Artifact hoặc nội dung nào quan trọng trong phần Bản đồ đọc tài liệu (Reading Map)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>bản đồ knowledge areas và process groups</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh bản đồ knowledge areas và process groups như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Logo dự án và màu thương hiệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh bản đồ knowledge areas và process groups như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Danh sách nhân sự nghỉ phép.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh bản đồ knowledge areas và process groups như phương tiện học và ra quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Kế hoạch mua phần cứng không liên quan.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Trang này nhấn mạnh bản đồ knowledge areas và process groups như phương tiện học và ra quyết định.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="medium">
+        <div class="quiz-level-header">
+          <h3>Trung bình (Medium)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="medium" data-question-id="pages-01-ban-do-doc-html-q6" data-correct="0">
+              <h4>6. Vì sao bản đồ knowledge areas và process groups không nên được xem là giấy tờ để điền cho đủ?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>giúp người đọc thấy quan hệ giữa các phần thay vì học từng process như silo</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Vì mọi artifact đều phải dài tối thiểu 50 trang.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Vì artifact chỉ để lưu trữ sau khi dự án kết thúc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Vì artifact không cần người sở hữu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA có giá trị khi nó hỗ trợ quyết định, shared understanding và traceability.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-01-ban-do-doc-html-q7" data-correct="0">
+              <h4>7. Khi team dùng thuật ngữ không nhất quán trong phần Bản đồ đọc tài liệu (Reading Map), BA nên làm gì trước tiên?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Quay lại glossary/controlled vocabulary và thống nhất thuật ngữ song ngữ trước khi tiếp tục phân tích.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Chấp nhận mọi cách gọi để tránh tranh luận.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Xóa hết English terms khỏi tài liệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chuyển ngay sang thiết kế solution.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Thuật ngữ không nhất quán tạo hiểu sai trong requirement, model và decision record.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-01-ban-do-doc-html-q8" data-correct="0">
+              <h4>8. Quan hệ đúng giữa Nhóm tiến trình (Process Groups) và Vùng tri thức (Knowledge Areas) là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Cả hai cần được đặt trong cùng bối cảnh quyết định để tránh xử lý BA như các mảnh rời.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Hai khái niệm luôn thay thế nhau hoàn toàn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Một khái niệm chỉ dùng cho finance, khái niệm còn lại chỉ dùng cho UI.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Không cần liên hệ vì glossary đã định nghĩa riêng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>PMI Guide nhấn mạnh các khái niệm BA liên kết thành hệ thống.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-01-ban-do-doc-html-q9" data-correct="0">
+              <h4>9. Nếu stakeholder tranh luận lâu nhưng không thống nhất được, câu hỏi hữu ích nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Quyết định nào cần được hỗ trợ, bằng chứng nào còn thiếu, và ai có quyền quyết định?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Ai nói nhiều nhất trong cuộc họp?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Template nào trông chuyên nghiệp nhất?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Làm sao viết requirement dài hơn?</span>
+                      </button>
+                      <p class="option-feedback" hidden>Câu hỏi này đưa thảo luận về decision, evidence và decision rights.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="medium" data-question-id="pages-01-ban-do-doc-html-q10" data-correct="0">
+              <h4>10. Vì sao lifecycle tailoring quan trọng trong phần này?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>adaptive lặp lại các process nhiều lần; predictive formal hóa hơn nhưng vẫn cần cập nhật khi học thêm</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive lặp lại các process nhiều lần; predictive formal hóa hơn nhưng vẫn cần cập nhật khi học thêm.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Vì mọi dự án phải dùng cùng một sign-off.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive lặp lại các process nhiều lần; predictive formal hóa hơn nhưng vẫn cần cập nhật khi học thêm.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Vì adaptive không cần BA.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive lặp lại các process nhiều lần; predictive formal hóa hơn nhưng vẫn cần cập nhật khi học thêm.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Vì predictive không bao giờ thay đổi.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Tailoring giúp áp dụng BA đúng mức cho bối cảnh: adaptive lặp lại các process nhiều lần; predictive formal hóa hơn nhưng vẫn cần cập nhật khi học thêm.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="hard">
+        <div class="quiz-level-header">
+          <h3>Khó (Hard)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="hard" data-question-id="pages-01-ban-do-doc-html-q11" data-correct="0">
+              <h4>11. Tình huống: nhóm muốn nhảy ngay vào solution mà chưa làm rõ nội dung của Bản đồ đọc tài liệu (Reading Map). BA nên làm gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>dùng map để hỏi process nào đang hỗ trợ quyết định nào trong bối cảnh hiện tại</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là dùng map để hỏi process nào đang hỗ trợ quyết định nào trong bối cảnh hiện tại.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Ghi lại solution được đề xuất như requirement cuối cùng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là dùng map để hỏi process nào đang hỗ trợ quyết định nào trong bối cảnh hiện tại.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Hủy mọi cuộc họp stakeholder để tiết kiệm thời gian.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là dùng map để hỏi process nào đang hỗ trợ quyết định nào trong bối cảnh hiện tại.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chỉ hỏi developer estimate và bỏ qua business rationale.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Cách xử lý đúng là dùng map để hỏi process nào đang hỗ trợ quyết định nào trong bối cảnh hiện tại.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-01-ban-do-doc-html-q12" data-correct="0">
+              <h4>12. Anti-pattern nào cần tránh khi áp dụng phần Bản đồ đọc tài liệu (Reading Map)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>hiểu process groups như sáu phase tuyến tính và bỏ qua vòng lặp học hỏi</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: hiểu process groups như sáu phase tuyến tính và bỏ qua vòng lặp học hỏi.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Dùng glossary song ngữ để giữ nhất quán.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: hiểu process groups như sáu phase tuyến tính và bỏ qua vòng lặp học hỏi.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Nối artifact với objective và decision.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: hiểu process groups như sáu phase tuyến tính và bỏ qua vòng lặp học hỏi.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Điều chỉnh mức formal theo rủi ro.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Đây là bẫy khiến BA mất mục tiêu tạo value: hiểu process groups như sáu phase tuyến tính và bỏ qua vòng lặp học hỏi.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-01-ban-do-doc-html-q13" data-correct="0">
+              <h4>13. Nếu một artifact được tạo nhưng không ai dùng để ra quyết định, đánh giá đúng nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Artifact đó cần được thiết kế lại quanh người dùng, quyết định, evidence và trạng thái thông tin.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Artifact càng ít người dùng càng bảo mật tốt.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ cần đổi font chữ để dễ đọc hơn.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Đánh dấu artifact là approved để kết thúc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Artifact BA phải phục vụ quyết định hoặc shared understanding.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-01-ban-do-doc-html-q14" data-correct="0">
+              <h4>14. Metric nào phù hợp nhất để xem phần Bản đồ đọc tài liệu (Reading Map) đang tạo tác dụng?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>team có thể giải thích vì sao một process cần thiết và nó nối với process khác ra sao</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: team có thể giải thích vì sao một process cần thiết và nó nối với process khác ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Số trang tài liệu được tạo ra.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: team có thể giải thích vì sao một process cần thiết và nó nối với process khác ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Số thuật ngữ tiếng Anh xuất hiện trong heading.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: team có thể giải thích vì sao một process cần thiết và nó nối với process khác ra sao.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Số lần đổi tên file trong thư mục.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Metric nên đo outcome thực tế: team có thể giải thích vì sao một process cần thiết và nó nối với process khác ra sao.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hard" data-question-id="pages-01-ban-do-doc-html-q15" data-correct="0">
+              <h4>15. Khi áp dụng trong môi trường regulated, điều gì thường cần tăng lên?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Traceability, versioning, review, approval và bằng chứng về rationale.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tốc độ bỏ qua stakeholder.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Số lượng giả định không cần ghi lại.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Mức mơ hồ của acceptance criteria.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Môi trường regulated cần dấu vết quyết định và kiểm soát thay đổi rõ hơn.</p>
+                    </li>
+              </ol>
+            </article>
+      </section><section class="quiz-level" data-level="hardest">
+        <div class="quiz-level-header">
+          <h3>Rất khó (Hardest)</h3>
+          <div class="quiz-actions">
+            <button type="button" class="quiz-action" data-quiz-action="retest">Làm lại (Retest)</button>
+            <button type="button" class="quiz-action" data-quiz-action="retest-failed">Làm lại câu sai (Retest Failed)</button>
+          </div>
+          <p class="quiz-status" aria-live="polite"></p>
+        </div>
+        <article class="quiz-question" data-level="hardest" data-question-id="pages-01-ban-do-doc-html-q16" data-correct="0">
+              <h4>16. Một BA senior nên tổng hợp phần Bản đồ đọc tài liệu (Reading Map) như thế nào để hỗ trợ quyết định cấp tổ chức?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>đọc guide như vòng học hỏi từ problem đến value realization</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là đọc guide như vòng học hỏi từ problem đến value realization.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Tách từng thuật ngữ khỏi mục tiêu để dễ học thuộc.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là đọc guide như vòng học hỏi từ problem đến value realization.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ gửi danh sách process mà không nêu cách dùng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là đọc guide như vòng học hỏi từ problem đến value realization.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chuyển mọi vấn đề thành yêu cầu phần mềm.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Synthesis đúng là đọc guide như vòng học hỏi từ problem đến value realization.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-01-ban-do-doc-html-q17" data-correct="0">
+              <h4>17. Nếu evidence mới mâu thuẫn với baseline hoặc giả định cũ, phán đoán nào đúng nhất?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Kích hoạt phân tích tác động, ghi rationale và quyết định minh bạch thay vì giữ baseline chỉ vì đã phê duyệt.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Bỏ qua evidence mới để tránh thay đổi.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Xóa baseline mà không thông báo.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Chỉ hỏi một stakeholder thuận tiện nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>BA bảo vệ value bằng cách làm thay đổi trở nên có kiểm soát và có căn cứ.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-01-ban-do-doc-html-q18" data-correct="0">
+              <h4>18. Khi nhiều stakeholder hiểu khác nhau về Nhóm tiến trình (Process Groups), hành động nào tạo giá trị lâu dài nhất?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Chuẩn hóa định nghĩa song ngữ, gắn ví dụ trong ngữ cảnh và dùng cùng thuật ngữ trong artifact liên quan.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Để mỗi nhóm tự định nghĩa theo thói quen.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Chỉ chọn định nghĩa của nhóm có quyền lực nhất.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Tránh dùng thuật ngữ đó trong mọi tài liệu.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Controlled vocabulary giúp giảm hiểu sai và tăng khả năng trace.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-01-ban-do-doc-html-q19" data-correct="0">
+              <h4>19. Trong một initiative hybrid, cách áp dụng Bản đồ đọc tài liệu (Reading Map) chín chắn nhất là gì?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Giữ mục tiêu và trace rõ, nhưng điều chỉnh artifact, cadence và approval theo rủi ro từng phần.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Áp dụng toàn bộ như waterfall cho mọi item.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Áp dụng toàn bộ như agile và bỏ mọi approval.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Không dùng BA vì hybrid quá phức tạp.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hybrid cần kết hợp kỷ luật và tốc độ học theo risk-based tailoring.</p>
+                    </li>
+              </ol>
+            </article><article class="quiz-question" data-level="hardest" data-question-id="pages-01-ban-do-doc-html-q20" data-correct="0">
+              <h4>20. Dấu hiệu nào cho thấy người đọc đã hiểu sâu phần Bản đồ đọc tài liệu (Reading Map)?</h4>
+              <p class="quiz-result" aria-live="polite"></p>
+              <ol class="quiz-options" type="A">
+                <li>
+                      <button type="button" class="quiz-option" data-option-index="0">
+                        <span class="quiz-option-letter">A.</span>
+                        <span>Có thể giải thích thuật ngữ, artifact, decision, risk và value bằng cùng một câu chuyện thực hành.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="1">
+                        <span class="quiz-option-letter">B.</span>
+                        <span>Có thể nhớ tên trang nhưng không biết áp dụng.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="2">
+                        <span class="quiz-option-letter">C.</span>
+                        <span>Có thể copy định nghĩa mà không hiểu ngữ cảnh.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li><li>
+                      <button type="button" class="quiz-option" data-option-index="3">
+                        <span class="quiz-option-letter">D.</span>
+                        <span>Có thể tạo quiz nhưng không kiểm tra đáp án.</span>
+                      </button>
+                      <p class="option-feedback" hidden>Hiểu sâu nghĩa là nối khái niệm với hành động và quyết định.</p>
+                    </li>
+              </ol>
+            </article>
+      </section>
+  </section>
   </main>
   <footer class="site-footer">
     <p>Nguồn: PMI, The PMI Guide to Business Analysis (2017). Nội dung dưới đây là bản tóm tắt, diễn giải và hệ thống hoá bằng tiếng Việt, không phải bản dịch nguyên văn.</p>
-    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục</a></p>
+    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục (Open Printable Combined Version)</a></p>
   </footer>
   <script>
     const btn = document.getElementById('navToggle');
     const links = document.querySelector('.nav-links');
     btn?.addEventListener('click', () => links.classList.toggle('open'));
+
+    
+    (function () {
+      const storageKey = 'pmi-ba-vietnamese-quiz-v2';
+
+      function loadState() {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey) || '{}');
+        } catch (error) {
+          return {};
+        }
+      }
+
+      function saveState(state) {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify(state));
+        } catch (error) {
+          // Browsers can deny storage in private modes; the quiz still works without caching.
+        }
+      }
+
+      const state = loadState();
+
+      function questionList(level) {
+        return Array.from(level.querySelectorAll('.quiz-question'));
+      }
+
+      function setFeedback(question, selectedIndex) {
+        const correctIndex = Number(question.dataset.correct);
+        const options = Array.from(question.querySelectorAll('.quiz-option'));
+        const result = question.querySelector('.quiz-result');
+        const isCorrect = selectedIndex === correctIndex;
+        question.dataset.answered = 'true';
+        question.dataset.selected = String(selectedIndex);
+        question.classList.toggle('is-correct', isCorrect);
+        question.classList.toggle('is-wrong', !isCorrect);
+        if (result) {
+          result.textContent = isCorrect
+            ? 'Đúng (Correct). Câu trả lời của bạn chính xác.'
+            : 'Sai (Wrong). Xem giải thích bên dưới từng lựa chọn.';
+        }
+        options.forEach((option) => {
+          const optionIndex = Number(option.dataset.optionIndex);
+          const item = option.closest('li');
+          const feedback = item?.querySelector('.option-feedback');
+          const isSelected = optionIndex === selectedIndex;
+          const isAnswer = optionIndex === correctIndex;
+          option.disabled = true;
+          option.setAttribute('aria-pressed', isSelected ? 'true' : 'false');
+          option.classList.toggle('is-selected', isSelected);
+          option.classList.toggle('is-correct-option', isAnswer);
+          option.classList.toggle('is-wrong-option', isSelected && !isAnswer);
+          if (feedback) {
+            const base = feedback.dataset.base || feedback.textContent;
+            feedback.dataset.base = base;
+            if (isAnswer) {
+              feedback.textContent = 'Đáp án đúng (Correct option). ' + base;
+            } else if (isSelected) {
+              feedback.textContent = 'Bạn đã chọn lựa chọn này, nhưng chưa đúng (Your selected answer is wrong). ' + base;
+            } else {
+              feedback.textContent = 'Không phải đáp án đúng (Not the correct option). ' + base;
+            }
+            feedback.hidden = false;
+          }
+        });
+      }
+
+      function clearQuestion(question) {
+        const result = question.querySelector('.quiz-result');
+        delete question.dataset.answered;
+        delete question.dataset.selected;
+        question.hidden = false;
+        question.classList.remove('is-correct', 'is-wrong');
+        if (result) result.textContent = '';
+        question.querySelectorAll('.quiz-option').forEach((option) => {
+          option.disabled = false;
+          option.setAttribute('aria-pressed', 'false');
+          option.classList.remove('is-selected', 'is-correct-option', 'is-wrong-option');
+        });
+        question.querySelectorAll('.option-feedback').forEach((feedback) => {
+          if (feedback.dataset.base) feedback.textContent = feedback.dataset.base;
+          feedback.hidden = true;
+        });
+      }
+
+      function updateLevelStatus(level) {
+        const questions = questionList(level);
+        const answered = questions.filter((question) => question.dataset.answered === 'true');
+        const correct = answered.filter((question) => question.classList.contains('is-correct')).length;
+        const wrong = answered.length - correct;
+        const status = level.querySelector('.quiz-status');
+        if (status) {
+          status.textContent = 'Đã trả lời (Answered): ' + answered.length + '/' + questions.length + ' · Đúng (Correct): ' + correct + ' · Sai (Wrong): ' + wrong;
+        }
+      }
+
+      function persistAnswer(question, selectedIndex) {
+        state[question.dataset.questionId] = {
+          selected: selectedIndex,
+          correct: Number(question.dataset.correct),
+          updatedAt: new Date().toISOString(),
+        };
+        saveState(state);
+      }
+
+      document.querySelectorAll('.quiz-question').forEach((question) => {
+        const cached = state[question.dataset.questionId];
+        if (cached && Number.isInteger(cached.selected)) {
+          setFeedback(question, Number(cached.selected));
+        }
+      });
+
+      document.querySelectorAll('.quiz-level').forEach(updateLevelStatus);
+
+      document.addEventListener('click', (event) => {
+        const option = event.target.closest('.quiz-option');
+        if (option) {
+          const question = option.closest('.quiz-question');
+          if (!question || question.dataset.answered === 'true') return;
+          const selectedIndex = Number(option.dataset.optionIndex);
+          setFeedback(question, selectedIndex);
+          persistAnswer(question, selectedIndex);
+          updateLevelStatus(question.closest('.quiz-level'));
+          return;
+        }
+
+        const action = event.target.closest('[data-quiz-action]');
+        if (!action) return;
+        const level = action.closest('.quiz-level');
+        const questions = questionList(level);
+        const actionType = action.dataset.quizAction;
+        if (actionType === 'retest') {
+          questions.forEach((question) => {
+            delete state[question.dataset.questionId];
+            clearQuestion(question);
+          });
+          saveState(state);
+          updateLevelStatus(level);
+          return;
+        }
+        if (actionType === 'retest-failed') {
+          let failedCount = 0;
+          questions.forEach((question) => {
+            const cached = state[question.dataset.questionId];
+            const failed = cached && Number(cached.selected) !== Number(question.dataset.correct);
+            if (failed) {
+              failedCount += 1;
+              delete state[question.dataset.questionId];
+              clearQuestion(question);
+            } else {
+              question.hidden = Boolean(cached);
+            }
+          });
+          saveState(state);
+          const status = level.querySelector('.quiz-status');
+          if (status && failedCount === 0) {
+            status.textContent = 'Không có câu sai để làm lại (No failed questions to retest).';
+          } else {
+            updateLevelStatus(level);
+          }
+        }
+      });
+    })();
+    
   </script>
 </body>
 </html>
