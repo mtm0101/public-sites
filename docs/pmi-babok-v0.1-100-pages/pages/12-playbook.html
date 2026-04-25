@@ -1,0 +1,44 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Playbook áp dụng trong tổ chức · PMI BA Vietnamese Deep Dive</title>
+  <meta name="description" content="Checklist, template, lộ trình triển khai và cách dùng guide mà không biến BA thành quota giấy tờ.">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <a class="brand" href="../index.html">PMI BA · Vietnamese Deep Dive</a>
+    <button aria-label="Mở mục lục" id="navToggle">Mục lục</button>
+    <div class="nav-links"><a  href="../index.html">Tổng quan</a><a  href="../pages/01-ban-do-doc.html">Bản đồ</a><a  href="../pages/02-nen-tang.html">Nền tảng</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường</a><a  href="../pages/04-danh-gia-nhu-cau.html">Needs</a><a  href="../pages/05-gan-ket-stakeholder.html">Stakeholder</a><a  href="../pages/06-elicitation.html">Elicitation</a><a  href="../pages/07-phan-tich.html">Analysis</a><a  href="../pages/08-truy-vet-giam-sat.html">Traceability</a><a  href="../pages/09-danh-gia-giai-phap.html">Evaluation</a><a  href="../pages/10-standard.html">Standard</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ</a><a class="active" href="../pages/12-playbook.html">Playbook</a></div>
+  </nav>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Tóm tắt và đọc sâu bằng tiếng Việt</p>
+      <h1>Playbook áp dụng trong tổ chức</h1>
+      <p>Checklist, template, lộ trình triển khai và cách dùng guide mà không biến BA thành quota giấy tờ.</p>
+    </div>
+  </header>
+  <main class="content">
+    
+    <section class="prose-block"><h2>Áp dụng guide mà không biến BA thành giấy tờ</h2><p>Rủi ro lớn khi áp dụng một guide dày là tổ chức biến nó thành checklist hình thức. Cách tiếp cận tốt hơn là xem guide như hệ thống câu hỏi. Với mỗi sáng kiến, hỏi: quyết định nào cần được hỗ trợ, thông tin nào cần đủ tin cậy, artifact nào giúp người ra quyết định hiểu đúng, và mức traceability nào tương xứng với rủi ro.</p><p>Một tổ chức mới bắt đầu không cần triển khai 35 tiến trình ở mức đầy đủ. Có thể bắt đầu bằng bốn mạch: xác định nhu cầu và business case, stakeholder/communication, elicitation-analysis-requirement quality, và evaluation/traceability. Sau đó tăng độ trưởng thành bằng metrics và retrospectives.</p><p>Trong agile, BA không nên biến mọi thứ thành BRD dài. Thay vào đó, dùng story map, backlog refinement, example mapping, lightweight trace, acceptance criteria và review cadence. Trong predictive hoặc regulated, tăng version control, sign-off, trace matrix và formal review. Trong hybrid, ghép hai nhịp này theo rủi ro.</p></section>
+    <section><h2>Template thực hành</h2><div class="matrix"><article><h3>BA Plan một trang</h3><ul><li>Mục tiêu BA</li><li>Stakeholder chính</li><li>Deliverable</li><li>Nhịp elicitation/refinement</li><li>Quy tắc review</li><li>Mức traceability</li><li>Metric BA</li></ul></article><article><h3>Stakeholder register tối thiểu</h3><ul><li>Tên/nhóm</li><li>Vai trò</li><li>Mức ảnh hưởng</li><li>Nhu cầu thông tin</li><li>Kênh giao tiếp</li><li>Mối quan tâm</li><li>Quyền quyết định</li></ul></article><article><h3>Requirement quality checklist</h3><ul><li>Rõ ràng</li><li>Không mâu thuẫn</li><li>Có rationale</li><li>Testable</li><li>Trace tới mục tiêu</li><li>Có acceptance criteria</li><li>Có trạng thái</li></ul></article><article><h3>Traceability matrix nhẹ</h3><ul><li>Objective</li><li>Requirement/Story</li><li>Model</li><li>Acceptance criteria</li><li>Test</li><li>Risk</li><li>Release</li><li>Decision record</li></ul></article><article><h3>Solution evaluation plan</h3><ul><li>Metric</li><li>Baseline</li><li>Target</li><li>Nguồn dữ liệu</li><li>Thời điểm đo</li><li>Owner</li><li>Hành động nếu lệch</li></ul></article><article><h3>Transition readiness checklist</h3><ul><li>Training</li><li>Support model</li><li>Data migration</li><li>Process update</li><li>Known issues</li><li>Communication</li><li>Operational owner</li></ul></article></div></section>
+    <section class="prose-block"><h2>Lộ trình triển khai 90 ngày</h2><p>Ngày 1-15: tạo vocabulary chung. Thống nhất requirement types, product information, trạng thái requirement, definition of ready/done nếu dùng agile, và tiêu chí khi nào cần artifact formal.</p><p>Ngày 16-30: map quy trình hiện tại vào 35 tiến trình. Tìm điểm đau: stakeholder bị bỏ sót, yêu cầu mơ hồ, thiếu acceptance criteria, thay đổi không trace được, hoặc không đo value sau release.</p><p>Ngày 31-45: chọn bộ template tối thiểu. Đừng tạo 20 template. Chọn 5-7 artifact có tác dụng lớn nhất: BA plan, stakeholder register, elicitation notes, model, requirement quality checklist, trace matrix, evaluation plan.</p><p>Ngày 46-60: pilot trên một sáng kiến thật. Áp dụng tailoring rõ ràng, đo thời gian, số lỗi hiểu sai, số câu hỏi mở, chất lượng acceptance criteria và phản hồi stakeholder.</p><p>Ngày 61-75: retrospective và chỉnh. Bỏ artifact không dùng, thêm thông tin thiếu, sửa governance quá nặng hoặc quá nhẹ, chuẩn hoá naming và trạng thái.</p><p>Ngày 76-90: institutionalize nhẹ. Đưa template vào repository, đào tạo nhóm, tạo examples tốt, nêu owner cho framework và quyết định metric theo dõi.</p></section>
+    <section><h2>Checklist cuối cho mỗi sáng kiến</h2><div class="two-col">
+      <article><h3>Trước khi build</h3><ul><li>Business need rõ</li><li>Current/future state đủ hiểu</li><li>Stakeholder chính được phân tích</li><li>Elicitation results đã confirm</li><li>Requirement có acceptance criteria</li><li>Ưu tiên có tiêu chí</li></ul></article>
+      <article><h3>Trước khi release</h3><ul><li>Requirement quan trọng đã trace</li><li>Defect được đánh giá theo rủi ro</li><li>Transition requirements sẵn sàng</li><li>Owner vận hành rõ</li><li>Metric value có baseline/target</li><li>Known issues được truyền thông</li></ul></article>
+    </div></section>
+    <aside class="callout gold"><h4>Thông điệp kết thúc</h4><p>Dùng PMI Guide như một hệ thống tư duy: giữ nhu cầu, stakeholder, yêu cầu, thiết kế, thay đổi, release và giá trị được nối với nhau.</p></aside>
+  </main>
+  <footer class="site-footer">
+    <p>Nguồn: PMI, The PMI Guide to Business Analysis (2017). Nội dung dưới đây là bản tóm tắt, diễn giải và hệ thống hoá bằng tiếng Việt, không phải bản dịch nguyên văn.</p>
+    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục</a></p>
+  </footer>
+  <script>
+    const btn = document.getElementById('navToggle');
+    const links = document.querySelector('.nav-links');
+    btn?.addEventListener('click', () => links.classList.toggle('open'));
+  </script>
+</body>
+</html>
