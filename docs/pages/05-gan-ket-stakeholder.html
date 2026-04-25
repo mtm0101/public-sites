@@ -1,0 +1,231 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gắn kết stakeholder · PMI BA Vietnamese Deep Dive</title>
+  <meta name="description" content="Xác định, phân tích, lập kế hoạch, giao tiếp, chuyển đổi và cải tiến hiệu quả BA.">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <a class="brand" href="../index.html">PMI BA · Vietnamese Deep Dive</a>
+    <button aria-label="Mở mục lục" id="navToggle">Mục lục</button>
+    <div class="nav-links"><a  href="../index.html">Tổng quan</a><a  href="../pages/01-ban-do-doc.html">Bản đồ</a><a  href="../pages/02-nen-tang.html">Nền tảng</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường</a><a  href="../pages/04-danh-gia-nhu-cau.html">Needs</a><a class="active" href="../pages/05-gan-ket-stakeholder.html">Stakeholder</a><a  href="../pages/06-elicitation.html">Elicitation</a><a  href="../pages/07-phan-tich.html">Analysis</a><a  href="../pages/08-truy-vet-giam-sat.html">Traceability</a><a  href="../pages/09-danh-gia-giai-phap.html">Evaluation</a><a  href="../pages/10-standard.html">Standard</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ</a><a  href="../pages/12-playbook.html">Playbook</a></div>
+  </nav>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Tóm tắt và đọc sâu bằng tiếng Việt</p>
+      <h1>Gắn kết stakeholder</h1>
+      <p>Xác định, phân tích, lập kế hoạch, giao tiếp, chuyển đổi và cải tiến hiệu quả BA.</p>
+    </div>
+  </header>
+  <main class="content">
+    <section class="chapter-intro stakeholder">
+    <p class="eyebrow">Knowledge Area</p>
+    <h2>Gắn kết stakeholder <span>Stakeholder Engagement</span></h2>
+    <p class="lead">Mục tiêu của vùng tri thức này là biến người liên quan thành nguồn hiểu biết, đồng thuận và quyết định có trách nhiệm. Stakeholder Engagement không chỉ là danh sách người cần gửi email. Theo tinh thần của guide, đây là một hệ thống xã hội: ai bị tác động, ai có quyền quyết định, ai nắm tri thức vận hành, ai có thể cản trở, ai cần được hỗ trợ chuyển đổi và ai sẽ đánh giá thành công. BA phải hiểu đặc điểm stakeholder để chọn cách giao tiếp, elicitation và xác nhận thông tin phù hợp.</p>
+    <div class="process-grid"><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-1-identify-stakeholders">
+    <b>5.1</b>
+    <span>Xác định stakeholder</span>
+    <small>Defining and Aligning</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-2-conduct-stakeholder-analysis">
+    <b>5.2</b>
+    <span>Phân tích stakeholder</span>
+    <small>Planning</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-3-determine-stakeholder-engagement-and-communication-approach">
+    <b>5.3</b>
+    <span>Xác định cách gắn kết và truyền thông với stakeholder</span>
+    <small>Planning</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-4-conduct-business-analysis-planning">
+    <b>5.4</b>
+    <span>Lập kế hoạch business analysis</span>
+    <small>Planning</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-5-prepare-for-transition-to-future-state">
+    <b>5.5</b>
+    <span>Chuẩn bị chuyển đổi sang trạng thái tương lai</span>
+    <small>Executing</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-6-manage-stakeholder-engagement-and-communication">
+    <b>5.6</b>
+    <span>Quản lý gắn kết và truyền thông stakeholder</span>
+    <small>Monitoring and Controlling</small>
+  </a><a class="process-card stakeholder" href="05-gan-ket-stakeholder.html#5-7-assess-business-analysis-performance">
+    <b>5.7</b>
+    <span>Đánh giá hiệu quả business analysis</span>
+    <small>Monitoring and Controlling</small>
+  </a></div>
+    <aside class="callout teal"><h4>Cách đọc chương này</h4><p>Mỗi tiến trình bên dưới được diễn giải theo cùng một lens: mục đích, đầu vào, kỹ thuật, đầu ra, tailoring, bẫy thường gặp, tình huống minh hoạ và checklist. Đây là tài liệu học và áp dụng, không thay thế bản gốc của PMI.</p></aside>
+  </section><section class="process-detail stakeholder" id="5-1-identify-stakeholders">
+    <div class="process-heading">
+      <span>5.1</span>
+      <h3>Xác định stakeholder</h3>
+      <p>Identify Stakeholders · Defining and Aligning</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm tìm ra cá nhân, nhóm hoặc tổ chức có thể ảnh hưởng, bị ảnh hưởng hoặc được xem là bị ảnh hưởng bởi giải pháp. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm business need, current state, organization chart, SME knowledge, product scope. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như stakeholder list review, interviews, organizational analysis, process walk-through, document analysis chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm stakeholder register, stakeholder categories, initial engagement clues. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> chỉ liệt kê sponsor và người dùng trực tiếp, bỏ qua vận hành, compliance, hỗ trợ, khách hàng, đối tác hoặc nhóm chịu tác động sau release. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Một thay đổi quy trình bán hàng có thể ảnh hưởng sales, finance, legal, customer success, analytics và khách hàng. BA phải nhìn theo dòng giá trị, không theo sơ đồ phòng ban đơn giản. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.1 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-2-conduct-stakeholder-analysis">
+    <div class="process-heading">
+      <span>5.2</span>
+      <h3>Phân tích stakeholder</h3>
+      <p>Conduct Stakeholder Analysis · Planning</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm hiểu mức ảnh hưởng, lợi ích, mối quan tâm, nhu cầu thông tin, phong cách giao tiếp và vai trò quyết định của stakeholder. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm stakeholder register, elicitation results, enterprise architecture, business need, context. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như power-interest grid, persona, interviews, observation, stakeholder mapping chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm stakeholder analysis, updated register, engagement insights. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> gắn nhãn stakeholder một lần rồi không cập nhật, hoặc phân tích quyền lực mà bỏ qua động lực, nỗi lo và mức sẵn sàng thay đổi. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Một SME có quyền lực thấp nhưng tri thức quy trình cao có thể quyết định chất lượng yêu cầu. Nếu bị bỏ qua, nhóm dễ thiết kế giải pháp không dùng được trong thực tế. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.2 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-3-determine-stakeholder-engagement-and-communication-approach">
+    <div class="process-heading">
+      <span>5.3</span>
+      <h3>Xác định cách gắn kết và truyền thông với stakeholder</h3>
+      <p>Determine Stakeholder Engagement and Communication Approach · Planning</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm thiết kế cách cộng tác, nhịp thông tin, kênh, mức chi tiết và hình thức xác nhận phù hợp với từng nhóm stakeholder. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm stakeholder analysis, communication constraints, BA plan context, product scope, organizational standards. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như communication planning, facilitation, collaboration games, workshop design, retrospective chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm stakeholder engagement approach, communication approach, collaboration cadence. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> dùng một kiểu họp và một kiểu tài liệu cho tất cả stakeholder, khiến người quyết định thiếu thông tin còn người vận hành bị quá tải. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Sponsor cần bản tóm tắt quyết định và rủi ro; SME cần mô hình chi tiết; người dùng cần prototype và kịch bản; đội kỹ thuật cần tiêu chí rõ và ràng buộc hệ thống. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.3 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-4-conduct-business-analysis-planning">
+    <div class="process-heading">
+      <span>5.4</span>
+      <h3>Lập kế hoạch business analysis</h3>
+      <p>Conduct Business Analysis Planning · Planning</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm đạt đồng thuận về hoạt động BA, vai trò, trách nhiệm, kỹ năng, deliverable, mức hình thức và cách phối hợp với phương pháp delivery. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm charter, planning approaches, stakeholder approach, product risk analysis, organizational standards. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như planning workshop, RACI, estimation, retrospective, tailoring chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm business analysis plan, roles and responsibilities, BA work estimates. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> xem BA plan là tài liệu hành chính thay vì một hợp đồng vận hành về cách nhóm sẽ học, phân tích, xác nhận và quản lý thông tin sản phẩm. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Trong agile, BA plan có thể nhẹ nhưng vẫn nêu nhịp refinement, quy tắc definition of ready, cách trace epic-story-acceptance criteria và cách xác nhận với stakeholder. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.4 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-5-prepare-for-transition-to-future-state">
+    <div class="process-heading">
+      <span>5.5</span>
+      <h3>Chuẩn bị chuyển đổi sang trạng thái tương lai</h3>
+      <p>Prepare for Transition to Future State · Executing</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm xác định tổ chức có sẵn sàng chuyển đổi không và cần làm gì để con người, quy trình, dữ liệu, hệ thống vận hành được trạng thái mới. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm future state, current state, stakeholder analysis, product scope, transition requirements. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như readiness assessment, gap analysis, training analysis, change impact analysis, workshop chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm transition requirements, readiness assessment, transition strategy inputs. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> chỉ xây phần mềm rồi giả định tổ chức tự thích nghi, bỏ qua đào tạo, hỗ trợ, dữ liệu chuyển đổi, quy trình mới và vai trò vận hành. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Một cổng tự phục vụ cần tài liệu hướng dẫn, thay đổi KPI của đội hỗ trợ, dữ liệu FAQ, quy trình xử lý ngoại lệ và kế hoạch truyền thông cho khách hàng. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.5 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-6-manage-stakeholder-engagement-and-communication">
+    <div class="process-heading">
+      <span>5.6</span>
+      <h3>Quản lý gắn kết và truyền thông stakeholder</h3>
+      <p>Manage Stakeholder Engagement and Communication · Monitoring and Controlling</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm thực hiện và điều chỉnh cách giao tiếp để duy trì hiểu biết chung, xử lý kỳ vọng, mâu thuẫn và thay đổi thông tin. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm engagement approach, updated register, BA performance information, issue log, change information. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như facilitation, active listening, issue management, conflict resolution, retrospective chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm updated communications, stakeholder engagement updates, issue resolutions. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> giao tiếp như phát thông báo một chiều; không kiểm tra stakeholder có hiểu, đồng ý, phản đối hay cần quyết định gì. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Khi scope thay đổi, BA không chỉ cập nhật backlog mà còn giải thích tác động tới mục tiêu, ưu tiên, lịch release và nhóm bị ảnh hưởng. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.6 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail stakeholder" id="5-7-assess-business-analysis-performance">
+    <div class="process-heading">
+      <span>5.7</span>
+      <h3>Đánh giá hiệu quả business analysis</h3>
+      <p>Assess Business Analysis Performance · Monitoring and Controlling</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm đo và cải tiến cách BA đang được thực hiện: chất lượng yêu cầu, tốc độ phản hồi, mức tham gia stakeholder, số lỗi do hiểu sai và hiệu quả artifact. Khi đặt trong vùng tri thức Gắn kết stakeholder, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm BA plan, performance data, stakeholder feedback, lessons learned, defect/change data. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như metrics analysis, retrospective, lessons learned, root cause analysis, survey chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm BA performance assessment, process improvements, updated BA approach. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> đo BA bằng số lượng tài liệu thay vì chất lượng quyết định, mức giảm rework hoặc khả năng tạo shared understanding. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Nếu nhiều story bị trả lại vì tiêu chí chấp nhận mơ hồ, BA performance assessment có thể dẫn tới thay đổi template, thêm example mapping hoặc review trước sprint planning. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 5.7 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section>
+  </main>
+  <footer class="site-footer">
+    <p>Nguồn: PMI, The PMI Guide to Business Analysis (2017). Nội dung dưới đây là bản tóm tắt, diễn giải và hệ thống hoá bằng tiếng Việt, không phải bản dịch nguyên văn.</p>
+    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục</a></p>
+  </footer>
+  <script>
+    const btn = document.getElementById('navToggle');
+    const links = document.querySelector('.nav-links');
+    btn?.addEventListener('click', () => links.classList.toggle('open'));
+  </script>
+</body>
+</html>

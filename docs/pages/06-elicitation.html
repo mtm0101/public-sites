@@ -1,0 +1,150 @@
+<!doctype html>
+<html lang="vi">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Elicitation - Khai thác và xác nhận thông tin · PMI BA Vietnamese Deep Dive</title>
+  <meta name="description" content="Từ cách tiếp cận elicitation tới chuẩn bị, tiến hành và xác nhận kết quả.">
+  <link rel="stylesheet" href="../assets/style.css">
+</head>
+<body>
+  <nav class="site-nav">
+    <a class="brand" href="../index.html">PMI BA · Vietnamese Deep Dive</a>
+    <button aria-label="Mở mục lục" id="navToggle">Mục lục</button>
+    <div class="nav-links"><a  href="../index.html">Tổng quan</a><a  href="../pages/01-ban-do-doc.html">Bản đồ</a><a  href="../pages/02-nen-tang.html">Nền tảng</a><a  href="../pages/03-moi-truong-vai-tro.html">Môi trường</a><a  href="../pages/04-danh-gia-nhu-cau.html">Needs</a><a  href="../pages/05-gan-ket-stakeholder.html">Stakeholder</a><a class="active" href="../pages/06-elicitation.html">Elicitation</a><a  href="../pages/07-phan-tich.html">Analysis</a><a  href="../pages/08-truy-vet-giam-sat.html">Traceability</a><a  href="../pages/09-danh-gia-giai-phap.html">Evaluation</a><a  href="../pages/10-standard.html">Standard</a><a  href="../pages/11-cong-cu-nang-luc.html">Công cụ</a><a  href="../pages/12-playbook.html">Playbook</a></div>
+  </nav>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Tóm tắt và đọc sâu bằng tiếng Việt</p>
+      <h1>Elicitation - Khai thác và xác nhận thông tin</h1>
+      <p>Từ cách tiếp cận elicitation tới chuẩn bị, tiến hành và xác nhận kết quả.</p>
+    </div>
+  </header>
+  <main class="content">
+    <section class="chapter-intro elicitation">
+    <p class="eyebrow">Knowledge Area</p>
+    <h2>Khai thác thông tin <span>Elicitation</span></h2>
+    <p class="lead">Mục tiêu của vùng tri thức này là lấy ra nhu cầu, ràng buộc, giả định và tri thức sản phẩm từ nhiều nguồn khác nhau. Elicitation trong guide được hiểu rộng hơn phỏng vấn. Nó bao gồm việc xác định cách tiếp cận, chuẩn bị từng hoạt động, tiến hành kỹ thuật phù hợp, rồi xác nhận kết quả. Elicitation tốt làm giảm sai lệch giữa điều stakeholder nói, điều họ thật sự cần, điều hệ thống hiện có cho phép và điều tổ chức sẵn sàng thay đổi.</p>
+    <div class="process-grid"><a class="process-card elicitation" href="06-elicitation.html#6-1-determine-elicitation-approach">
+    <b>6.1</b>
+    <span>Xác định cách tiếp cận elicitation</span>
+    <small>Planning</small>
+  </a><a class="process-card elicitation" href="06-elicitation.html#6-2-prepare-for-elicitation">
+    <b>6.2</b>
+    <span>Chuẩn bị cho elicitation</span>
+    <small>Executing</small>
+  </a><a class="process-card elicitation" href="06-elicitation.html#6-3-conduct-elicitation">
+    <b>6.3</b>
+    <span>Tiến hành elicitation</span>
+    <small>Executing</small>
+  </a><a class="process-card elicitation" href="06-elicitation.html#6-4-confirm-elicitation-results">
+    <b>6.4</b>
+    <span>Xác nhận kết quả elicitation</span>
+    <small>Executing</small>
+  </a></div>
+    <aside class="callout coral"><h4>Cách đọc chương này</h4><p>Mỗi tiến trình bên dưới được diễn giải theo cùng một lens: mục đích, đầu vào, kỹ thuật, đầu ra, tailoring, bẫy thường gặp, tình huống minh hoạ và checklist. Đây là tài liệu học và áp dụng, không thay thế bản gốc của PMI.</p></aside>
+  </section><section class="process-detail elicitation" id="6-1-determine-elicitation-approach">
+    <div class="process-heading">
+      <span>6.1</span>
+      <h3>Xác định cách tiếp cận elicitation</h3>
+      <p>Determine Elicitation Approach · Planning</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm quyết định ai tham gia, hỏi gì, dùng kỹ thuật nào, theo thứ tự nào và cần mức chuẩn bị/ghi nhận ra sao. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm product scope, situation statement, stakeholder register, communication approach, constraints. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như brainstorming, interviews, lessons learned, stakeholder analysis, workshop planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation approach, elicitation schedule, target information needs. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> bắt đầu bằng lịch họp thay vì câu hỏi cần trả lời, dẫn tới nhiều buổi nói chuyện nhưng ít thông tin có thể dùng. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Nếu mục tiêu là hiểu pain point hiện trạng, observation và process walk-through có thể tốt hơn survey; nếu cần quyết định ưu tiên, workshop có cấu trúc sẽ phù hợp hơn. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 6.1 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail elicitation" id="6-2-prepare-for-elicitation">
+    <div class="process-heading">
+      <span>6.2</span>
+      <h3>Chuẩn bị cho elicitation</h3>
+      <p>Prepare for Elicitation · Executing</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm chuẩn bị tài liệu, câu hỏi, người tham gia, công cụ, logistics và tiêu chí thành công cho từng hoạt động elicitation cụ thể. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation approach, stakeholder availability, source documents, product scope, business need. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như agenda design, question design, document analysis, prototype preparation, facilitation planning chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation materials, prepared participants, activity plan. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> vào workshop mà chưa rõ mục tiêu, chưa gửi tài liệu trước, chưa chọn đúng người hoặc chưa có cách ghi nhận quyết định. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Trước buổi workshop về quy trình hoàn tiền, BA gửi process map hiện tại, câu hỏi quyết định, giả định cần kiểm tra và quy tắc ghi nhận parking lot. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 6.2 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail elicitation" id="6-3-conduct-elicitation">
+    <div class="process-heading">
+      <span>6.3</span>
+      <h3>Tiến hành elicitation</h3>
+      <p>Conduct Elicitation · Executing</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm thực hiện kỹ thuật đã chọn để khai thác thông tin từ stakeholder, tài liệu, hệ thống, quan sát và dữ liệu. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation materials, participants, product scope, current information, facilitation plan. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như interviews, facilitated workshops, focus groups, observation, prototyping chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm elicitation results, raw notes, candidate requirements. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> ghi nhận mọi phát biểu như yêu cầu cuối cùng, để người nói lớn nhất chi phối, hoặc bỏ qua tín hiệu phi ngôn ngữ và mâu thuẫn giữa các nguồn. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Trong phỏng vấn người dùng, BA phân biệt giữa nhu cầu thật, workaround hiện tại, cảm xúc bực bội, ràng buộc chính sách và yêu cầu tính năng được đề xuất. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 6.3 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section><section class="process-detail elicitation" id="6-4-confirm-elicitation-results">
+    <div class="process-heading">
+      <span>6.4</span>
+      <h3>Xác nhận kết quả elicitation</h3>
+      <p>Confirm Elicitation Results · Executing</p>
+    </div>
+    <p><strong>Mục đích.</strong> Tiến trình này nhằm kiểm tra kết quả elicitation về độ chính xác, đầy đủ, hiểu chung và mức sẵn sàng đưa vào phân tích. Khi đặt trong vùng tri thức Khai thác thông tin, nó không đứng riêng lẻ mà tạo một mắt xích trong chuỗi học hỏi về sản phẩm. BA cần đọc tiến trình này như một cách tạo ra bằng chứng cho quyết định tiếp theo: có nên đầu tư, nên hỏi ai, cần phân tích gì, thay đổi nào được chấp nhận, hoặc giải pháp có đủ giá trị để phát hành hay chưa.</p>
+    <p><strong>Đầu vào cần chuẩn bị.</strong> Những đầu vào thường phải được soi lại gồm elicitation results, historical information, stakeholder feedback, source documents, notes. Không phải lúc nào chúng cũng tồn tại dưới dạng tài liệu hoàn chỉnh; đôi khi chúng nằm trong hệ thống, email, ghi chú workshop, dashboard, hoặc trong đầu SME. Việc của BA là làm cho đầu vào đủ rõ, đủ đáng tin và đủ phù hợp với mức rủi ro của quyết định. Nếu đầu vào mơ hồ, tiến trình vẫn có thể bắt đầu, nhưng BA phải ghi nhận giả định, độ tin cậy và câu hỏi còn mở.</p>
+    <p><strong>Kỹ thuật nên cân nhắc.</strong> Các kỹ thuật như review, walk-through, document analysis, comparison, facilitated confirmation chỉ có giá trị khi được dùng có chủ đích. Một kỹ thuật phù hợp phải trả lời đúng câu hỏi hiện tại, tạo ra bằng chứng có thể kiểm chứng và giúp stakeholder tiến gần hơn tới shared understanding. Trong môi trường adaptive, kỹ thuật thường nhẹ, lặp nhanh và gắn với backlog. Trong môi trường predictive, kỹ thuật có thể cần tài liệu chính thức hơn, review có cấu trúc hơn và dấu vết phê duyệt rõ hơn.</p>
+    <p><strong>Đầu ra mong muốn.</strong> Đầu ra thường gồm confirmed elicitation results, updated notes, open questions. Đầu ra không nên được xem như biểu mẫu cần điền cho đủ; nó là vật mang quyết định. Một output tốt phải nêu được vì sao thông tin đó quan trọng, ai dùng nó, nó liên kết tới mục tiêu nào, và điều gì sẽ thay đổi nếu output này sai. Khi output trở thành input cho tiến trình khác, BA cần giữ ngữ cảnh, rationale và trạng thái của thông tin.</p>
+    <p><strong>Lưu ý tailoring.</strong> Nếu mức rủi ro thấp, đội nhỏ và stakeholder có mặt thường xuyên, BA có thể dùng artifact nhẹ: ghi chú quyết định, backlog item, model tối giản hoặc bảng theo dõi đơn giản. Nếu sản phẩm chịu ràng buộc pháp lý, có nhiều nhóm phụ thuộc, hoặc chi phí sai sót cao, BA cần tăng mức hình thức: versioning, approval, traceability, review độc lập và tiêu chuẩn chất lượng rõ. Tailoring tốt không phải làm ít hơn; đó là làm đúng mức cho bối cảnh.</p>
+    <p><strong>Bẫy thường gặp.</strong> chuyển note thô thẳng thành requirement, khiến hiểu lầm trong buổi họp biến thành scope chính thức. Một dấu hiệu cảnh báo là stakeholder tranh luận về giải pháp nhưng không thể chỉ ra mục tiêu, tiêu chí thành công hoặc dữ liệu chứng minh. Dấu hiệu khác là artifact được tạo ra nhưng không ai dùng để ra quyết định. Khi thấy những dấu hiệu này, BA nên quay lại câu hỏi: tiến trình này đang phục vụ quyết định nào?</p>
+    <p><strong>Tình huống minh hoạ.</strong> Sau workshop, BA gửi summary theo chủ đề, quyết định, giả định, câu hỏi mở và yêu cầu stakeholder xác nhận trước khi tạo model hoặc backlog item. Tình huống này cho thấy BA không chỉ ghi chép yêu cầu. BA giúp tổ chức nhìn đúng vấn đề, chọn cách học phù hợp, làm rõ trade-off và bảo vệ đường liên kết từ nhu cầu tới giá trị.</p>
+    <div class="two-col">
+      <div>
+        <h4>Câu hỏi kiểm tra nhanh</h4>
+        <ul><li>Thông tin của tiến trình 6.4 đang phục vụ quyết định cụ thể nào?</li><li>Ai cần hiểu, xác nhận hoặc phê duyệt thông tin này?</li><li>Nếu thông tin sai, tác động tới mục tiêu, scope, thiết kế hoặc release là gì?</li><li>Có giả định nào cần được ghi nhận trước khi chuyển sang bước tiếp theo?</li><li>Mức hình thức hiện tại có tương xứng với rủi ro và bối cảnh không?</li></ul>
+      </div>
+      <div>
+        <h4>Checklist đầu ra</h4>
+        <ul><li>Rõ mục đích và người sử dụng.</li><li>Có liên kết tới mục tiêu hoặc nhu cầu kinh doanh.</li><li>Ghi nhận nguồn, giả định và câu hỏi mở.</li><li>Đủ ngắn để dùng được, đủ chi tiết để giảm hiểu sai.</li><li>Có trạng thái: draft, confirmed, verified, validated, approved hoặc released nếu phù hợp.</li></ul>
+      </div>
+    </div>
+  </section>
+  </main>
+  <footer class="site-footer">
+    <p>Nguồn: PMI, The PMI Guide to Business Analysis (2017). Nội dung dưới đây là bản tóm tắt, diễn giải và hệ thống hoá bằng tiếng Việt, không phải bản dịch nguyên văn.</p>
+    <p><a href="../print.html">Mở bản gộp để in/đọc liên tục</a></p>
+  </footer>
+  <script>
+    const btn = document.getElementById('navToggle');
+    const links = document.querySelector('.nav-links');
+    btn?.addEventListener('click', () => links.classList.toggle('open'));
+  </script>
+</body>
+</html>
