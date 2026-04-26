@@ -1,0 +1,217 @@
+{
+  "source_html": "1. The PMI Guide to Business Analysis (2017)(1).html",
+  "source_prompt": "Văn bản đã dán (1)(29).txt",
+  "generated_at": "2026-04-26",
+  "source_analysis": {
+    "detected_source_type": "pdf2htmlEX-style HTML",
+    "source_pages_detected": 488,
+    "exact_page_files_created_or_reused": 488,
+    "page_container_selector": ".pf"
+  },
+  "output": {
+    "folder": "/mnt/data/pmi_html_knowledge_site_v2",
+    "entry_file": "index.html",
+    "print_file": "print.html",
+    "generated_content_pages": 24,
+    "assets": [
+      "assets/style.css",
+      "assets/script.js",
+      "assets/images/",
+      "assets/media/",
+      "exact-pages/"
+    ],
+    "zip": "pmi_html_knowledge_site_v2.zip"
+  },
+  "changes_from_previous_build": [
+    "Changed each content page from all-source-pages-then-all-text to repeated page pairs.",
+    "Each page pair now starts with Original Source page, then Reflowable Extracted Text for the same page.",
+    "Added page-level anchors and heading anchors.",
+    "Improved typography, heading scale, paragraph spacing, and list reconstruction for the reflowable layer.",
+    "Filtered common running headers, footers, page numbers, and pdf2htmlEX footer artifacts from the reflowable layer.",
+    "Kept exact source pages expanded by default and collapsible per page."
+  ],
+  "validation": {
+    "content_pages": 24,
+    "source_pages_detected": 488,
+    "exact_page_files": 488,
+    "page_pairing_valid": true,
+    "pairing_errors": [],
+    "reflow_sections": 488,
+    "source_iframes": 488,
+    "print_contains_quiz": false,
+    "print_contains_quiz_script": false,
+    "white_text_in_site_css": false,
+    "anchor_headings_count": 3307,
+    "local_toc_pages_with_entries": 24
+  },
+  "splits": [
+    {
+      "file": "01-front-matter-and-table-of-contents.html",
+      "title": "Front Matter and Table of Contents",
+      "source_page_start": 1,
+      "source_page_end": 46,
+      "source_page_count": 46
+    },
+    {
+      "file": "02-part-1-chapter-1-introduction.html",
+      "title": "Part 1 · Chapter 1 — Introduction",
+      "source_page_start": 47,
+      "source_page_end": 74,
+      "source_page_count": 28
+    },
+    {
+      "file": "03-part-1-chapter-2-the-environment-in-which-business-analysis-is-conduct.html",
+      "title": "Part 1 · Chapter 2 — The Environment in Which Business Analysis Is Conducted",
+      "source_page_start": 75,
+      "source_page_end": 86,
+      "source_page_count": 12
+    },
+    {
+      "file": "04-part-1-chapter-3-the-role-of-the-business-analyst.html",
+      "title": "Part 1 · Chapter 3 — The Role of the Business Analyst",
+      "source_page_start": 87,
+      "source_page_end": 98,
+      "source_page_count": 12
+    },
+    {
+      "file": "05-part-1-chapter-4-needs-assessment.html",
+      "title": "Part 1 · Chapter 4 — Needs Assessment",
+      "source_page_start": 99,
+      "source_page_end": 152,
+      "source_page_count": 54
+    },
+    {
+      "file": "06-part-1-chapter-5-stakeholder-engagement.html",
+      "title": "Part 1 · Chapter 5 — Stakeholder Engagement",
+      "source_page_start": 153,
+      "source_page_end": 196,
+      "source_page_count": 44
+    },
+    {
+      "file": "07-part-1-chapter-6-elicitation.html",
+      "title": "Part 1 · Chapter 6 — Elicitation",
+      "source_page_start": 197,
+      "source_page_end": 218,
+      "source_page_count": 22
+    },
+    {
+      "file": "08-part-1-chapter-7-analysis.html",
+      "title": "Part 1 · Chapter 7 — Analysis",
+      "source_page_start": 219,
+      "source_page_end": 294,
+      "source_page_count": 76
+    },
+    {
+      "file": "09-part-1-chapter-8-traceability-and-monitoring.html",
+      "title": "Part 1 · Chapter 8 — Traceability and Monitoring",
+      "source_page_start": 295,
+      "source_page_end": 320,
+      "source_page_count": 26
+    },
+    {
+      "file": "10-part-1-chapter-9-solution-evaluation.html",
+      "title": "Part 1 · Chapter 9 — Solution Evaluation",
+      "source_page_start": 321,
+      "source_page_end": 348,
+      "source_page_count": 28
+    },
+    {
+      "file": "11-part-2-chapter-1-introduction.html",
+      "title": "Part 2 · Chapter 1 — Introduction",
+      "source_page_start": 349,
+      "source_page_end": 362,
+      "source_page_count": 14
+    },
+    {
+      "file": "12-part-2-chapter-2-defining-and-aligning-process-group.html",
+      "title": "Part 2 · Chapter 2 — Defining and Aligning Process Group",
+      "source_page_start": 363,
+      "source_page_end": 368,
+      "source_page_count": 6
+    },
+    {
+      "file": "13-part-2-chapter-3-initiating-process-group.html",
+      "title": "Part 2 · Chapter 3 — Initiating Process Group",
+      "source_page_start": 369,
+      "source_page_end": 370,
+      "source_page_count": 2
+    },
+    {
+      "file": "14-part-2-chapter-4-planning.html",
+      "title": "Part 2 · Chapter 4 — Planning",
+      "source_page_start": 371,
+      "source_page_end": 376,
+      "source_page_count": 6
+    },
+    {
+      "file": "15-part-2-chapter-5-executing.html",
+      "title": "Part 2 · Chapter 5 — Executing",
+      "source_page_start": 377,
+      "source_page_end": 384,
+      "source_page_count": 8
+    },
+    {
+      "file": "16-part-2-chapter-6-monitoring-and-controlling.html",
+      "title": "Part 2 · Chapter 6 — Monitoring and Controlling",
+      "source_page_start": 385,
+      "source_page_end": 388,
+      "source_page_count": 4
+    },
+    {
+      "file": "17-part-2-chapter-7-releasing.html",
+      "title": "Part 2 · Chapter 7 — Releasing",
+      "source_page_start": 389,
+      "source_page_end": 390,
+      "source_page_count": 2
+    },
+    {
+      "file": "18-references.html",
+      "title": "References",
+      "source_page_start": 391,
+      "source_page_end": 394,
+      "source_page_count": 4
+    },
+    {
+      "file": "19-appendix-x1-contributors-and-reviewers.html",
+      "title": "Appendix X1 — Contributors and Reviewers",
+      "source_page_start": 395,
+      "source_page_end": 400,
+      "source_page_count": 6
+    },
+    {
+      "file": "20-appendix-x2-tools-and-techniques.html",
+      "title": "Appendix X2 — Tools and Techniques",
+      "source_page_start": 401,
+      "source_page_end": 410,
+      "source_page_count": 10
+    },
+    {
+      "file": "21-appendix-x3-business-analyst-competencies.html",
+      "title": "Appendix X3 — Business Analyst Competencies",
+      "source_page_start": 411,
+      "source_page_end": 424,
+      "source_page_count": 14
+    },
+    {
+      "file": "22-bibliography.html",
+      "title": "Bibliography",
+      "source_page_start": 425,
+      "source_page_end": 428,
+      "source_page_count": 4
+    },
+    {
+      "file": "23-glossary.html",
+      "title": "Glossary",
+      "source_page_start": 429,
+      "source_page_end": 462,
+      "source_page_count": 34
+    },
+    {
+      "file": "24-index.html",
+      "title": "Index",
+      "source_page_start": 463,
+      "source_page_end": 488,
+      "source_page_count": 26
+    }
+  ]
+}

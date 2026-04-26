@@ -1,0 +1,1104 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Part 1 · Chapter 9 — Solution Evaluation · The PMI Guide to Business Analysis</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<div class="source-controls" aria-label="Source page controls"><button type="button" data-source-action="collapse-all">Collapse all source pages</button><button type="button" data-source-action="expand-all">Expand all source pages</button></div>
+<div class="site-shell">
+<main><article class="article-card">
+<h1>Part 1 · Chapter 9 — Solution Evaluation</h1>
+<p class="meta-note">Corrected layout · Each original source page is shown first, followed immediately by its matching Reflowable Extracted Text section. Source pages 321-348 are expanded by default.</p>
+<nav class="nav-row"><a href="index.html">Back to index</a>
+<a href="print.html">Print version</a>
+<a href="09-part-1-chapter-8-traceability-and-monitoring.html">← Previous</a>
+<a href="11-part-2-chapter-1-introduction.html">Next →</a></nav>
+<details class="mobile-toc" open><summary>On this page</summary>
+<a class="toc-page" href="#source-page-321">Source page 321</a>
+<a class="toc-level-2" href="#p321-solution-ev-alua-tion">SOLUTION EV ALUA TION</a>
+<a class="toc-level-3" href="#p321-9-1-evaluate-solution-p-erformance-the-process-of-evaluating">9.1 Evaluate Solution P erformance —The process of evaluating asolution to determine whether the</a>
+<a class="toc-level-3" href="#p321-9-2-determine-solution-evaluation-approach-the-process-of-de">9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the</a>
+<a class="toc-level-3" href="#p321-9-3-evaluate-acceptance-results-and-address-defects-the-proc">9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the</a>
+<a class="toc-level-3" href="#p321-9-4-obtain-solution-acceptance-for-release-the-process-of-fa">9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether torelease</a>
+<a class="toc-level-4" href="#p321-figure-9-1-provides-an-overview-of-the-solution-evaluation-p">Figure 9-1 provides an overview of the Solution Evaluation processes. The business analysis processes are</a>
+<a class="toc-page" href="#source-page-322">Source page 322</a>
+<a class="toc-level-3" href="#p322-9-1-evaluate-9-2-determine-solution-9-3-evaluate">9.1 Evaluate 9.2 Determine Solution 9.3 Evaluate</a>
+<a class="toc-level-4" href="#p322-figure-9-1-solution-evaluation-overview">Figure 9-1. Solution Evaluation Overview</a>
+<a class="toc-level-3" href="#p322-key-concepts-for-solution-ev-alua-tion">KEY CONCEPTS FOR SOLUTION EV ALUA TION</a>
+<a class="toc-page" href="#source-page-323">Source page 323</a>
+<a class="toc-page" href="#source-page-324">Source page 324</a>
+<a class="toc-level-3" href="#p324-9-1-ev-alua-te-solution-performance">9.1 EV ALUA TE SOLUTION PERFORMANCE</a>
+<a class="toc-level-4" href="#p324-figure-9-2-evaluate-solution-p-erformance-inputs-t-ools-and">Figure 9-2. Evaluate Solution P erformance: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p324-4-3-solution-evaluation">4.3 • Solution evaluation</a>
+<a class="toc-level-3" href="#p324-4-6-evaluated-results-and">4.6 • Evaluated Results and</a>
+<a class="toc-level-3" href="#p324-9-1-4-1">9.1 4.1</a>
+<a class="toc-level-4" href="#p324-figure-9-3-evaluate-solution-p-erformance-data-flow-diagram">Figure 9-3. Evaluate Solution P erformance: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-325">Source page 325</a>
+<a class="toc-level-4" href="#p325-9-1-1-ev-alua-te-solution-performance-inputs">9.1.1 EV ALUA TE SOLUTION PERFORMANCE: INPUTS</a>
+<a class="toc-level-5" href="#p325-9-1-1-1-business-case">9.1.1.1 BUSINESS CASE</a>
+<a class="toc-level-5" href="#p325-9-1-1-2-business-goals-and-objectives">9.1.1.2 BUSINESS GOALS AND OBJECTIVES</a>
+<a class="toc-page" href="#source-page-326">Source page 326</a>
+<a class="toc-level-5" href="#p326-9-1-1-3-ev-alua-ted-accept-ance-resul-ts">9.1.1.3 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-5" href="#p326-9-1-1-4-performance-da-t-a">9.1.1.4 PERFORMANCE DA T A</a>
+<a class="toc-level-5" href="#p326-9-1-1-5-solution-ev-alua-tion-appro-ach">9.1.1.5 SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-page" href="#source-page-327">Source page 327</a>
+<a class="toc-level-4" href="#p327-9-1-2-ev-alua-te-solution-performance-tools-and-techniques">9.1.2 EV ALUA TE SOLUTION PERFORMANCE: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p327-9-1-2-1-cost-benefit-analysis">9.1.2.1 COST -BENEFIT ANALYSIS</a>
+<a class="toc-level-5" href="#p327-9-1-2-2-elicit-ation-techniques">9.1.2.2 ELICIT ATION TECHNIQUES</a>
+<a class="toc-level-5" href="#p327-9-1-2-3-product-portfolio-ma-trix">9.1.2.3 PRODUCT PORTFOLIO MA TRIX</a>
+<a class="toc-page" href="#source-page-328">Source page 328</a>
+<a class="toc-level-4" href="#p328-figure-9-4-is-an-example-of-a-product-portfolio-matrix-in-th">Figure 9-4 is an example of a product portfolio matrix. In this figure, assuming that the costs to produce, market,</a>
+<a class="toc-level-4" href="#p328-figure-9-4-evaluate-solution-p-erformance-product-portfolio">Figure 9-4 Evaluate Solution P erformance: Product Portfolio Matrix</a>
+<a class="toc-level-5" href="#p328-9-1-2-4-prioritiza-tion-schemes">9.1.2.4 PRIORITIZA TION SCHEMES</a>
+<a class="toc-level-5" href="#p328-9-1-2-5-roo-tcause-and-opportunity-analysis">9.1.2.5 ROO TCAUSE AND OPPORTUNITY ANALYSIS</a>
+<a class="toc-page" href="#source-page-329">Source page 329</a>
+<a class="toc-level-4" href="#p329-9-1-3-ev-alua-te-solution-performance-outputs">9.1.3 EV ALUA TE SOLUTION PERFORMANCE: OUTPUTS</a>
+<a class="toc-level-5" href="#p329-9-1-3-1-assessment-of-business-value">9.1.3.1 ASSESSMENT OF BUSINESS VALUE</a>
+<a class="toc-level-2" href="#p329-part-of-the-ongoing-planning-activities-the-organization-per">part of the ongoing planning activities the organization performs for portfolio or program management. For more</a>
+<a class="toc-level-4" href="#p329-9-1-4-ev-alua-te-solution-performance-tailoring-considera-ti">9.1.4 EV ALUA TE SOLUTION PERFORMANCE: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p329-9-1-5-ev-alua-te-solution-performance-collabora-tion-point">9.1.5 EV ALUA TE SOLUTION PERFORMANCE: COLLABORA TION POINT</a>
+<a class="toc-page" href="#source-page-330">Source page 330</a>
+<a class="toc-level-3" href="#p330-9-2-determine-solution-ev-alua-tion-appro-ach">9.2 DETERMINE SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-level-4" href="#p330-figure-9-5-determine-solution-evaluation-approach-inputs-t-o">Figure 9-5. Determine Solution Evaluation Approach: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p330-4-1-5-4">4.1 5.4</a>
+<a class="toc-level-3" href="#p330-4-6-determine-7-4">4.6 Determine 7.4</a>
+<a class="toc-level-4" href="#p330-figure-9-6-determine-solution-evaluation-approach-data-flow">Figure 9-6. Determine Solution Evaluation Approach: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-331">Source page 331</a>
+<a class="toc-level-4" href="#p331-9-2-1-determine-solution-ev-alua-tion-approach-inputs">9.2.1 DETERMINE SOLUTION EV ALUA TION APPROACH: INPUTS</a>
+<a class="toc-level-5" href="#p331-9-2-1-1-metrics-and-kpi-s">9.2.1.1 METRICS AND KPI s</a>
+<a class="toc-page" href="#source-page-332">Source page 332</a>
+<a class="toc-level-5" href="#p332-9-2-1-2-product-scope">9.2.1.2 PRODUCT SCOPE</a>
+<a class="toc-level-5" href="#p332-9-2-1-3-situa-tion-st-atement">9.2.1.3 SITUA TION ST ATEMENT</a>
+<a class="toc-level-4" href="#p332-9-2-2-determine-solution-evalua-tion-appro-ach-tools-and-tec">9.2.2 DETERMINE SOLUTION EVALUA TION APPRO ACH: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p332-9-2-2-1-elicit-ation-techniques">9.2.2.1 ELICIT ATION TECHNIQUES</a>
+<a class="toc-page" href="#source-page-333">Source page 333</a>
+<a class="toc-level-5" href="#p333-9-2-2-2-group-decision-making-techniques">9.2.2.2 GROUP DECISION-MAKING TECHNIQUES</a>
+<a class="toc-level-5" href="#p333-9-2-2-3-prioritiza-tion-schemes">9.2.2.3 PRIORITIZA TION SCHEMES</a>
+<a class="toc-level-5" href="#p333-9-2-2-4-retrospectives-and-lessons-learned">9.2.2.4 RETROSPECTIVES AND LESSONS LEARNED</a>
+<a class="toc-level-4" href="#p333-9-2-3-determine-solution-ev-alua-tion-approach-outputs">9.2.3 DETERMINE SOLUTION EV ALUA TION APPROACH: OUTPUTS</a>
+<a class="toc-level-5" href="#p333-9-2-3-1-solution-ev-alua-tion-appro-ach">9.2.3.1 SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-page" href="#source-page-334">Source page 334</a>
+<a class="toc-level-4" href="#p334-9-2-4-determine-solution-ev-alua-tion-approach-tailoring-con">9.2.4 DETERMINE SOLUTION EV ALUA TION APPROACH: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p334-9-2-5-determine-solution-ev-alua-tion-approach-collabora-tio">9.2.5 DETERMINE SOLUTION EV ALUA TION APPROACH: COLLABORA TION POINT</a>
+<a class="toc-level-3" href="#p334-9-3-ev-alua-te-accept-ance-resul-ts-and-address-defects">9.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS</a>
+<a class="toc-level-4" href="#p334-figure-9-7-figure-9-8-depicts-the-data-flo-w-diagram-for-the">Figure 9-7. Figure 9-8 depicts the data flo w diagram for the process.</a>
+<a class="toc-level-4" href="#p334-figure-9-7-evaluate-acceptance-results-and-address-defects-i">Figure 9-7. Evaluate Acceptance Results and Address Defects: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-page" href="#source-page-335">Source page 335</a>
+<a class="toc-level-3" href="#p335-9-1-9-4">9.1 9.4</a>
+<a class="toc-level-4" href="#p335-figure-9-8-evaluate-acceptance-results-and-address-defects-d">Figure 9-8. Evaluate Acceptance Results and Address Defects: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-336">Source page 336</a>
+<a class="toc-level-4" href="#p336-9-3-1-ev-alua-te-accept-ance-resul-ts-and-address-defects-in">9.3.1 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: INPUTS</a>
+<a class="toc-level-5" href="#p336-9-3-1-1-accept-ance-criteria">9.3.1.1 ACCEPT ANCE CRITERIA</a>
+<a class="toc-level-5" href="#p336-9-3-1-2-actual-accept-ance-resul-ts">9.3.1.2 ACTUAL ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-4" href="#p336-9-3-2-ev-alua-te-accept-ance-resul-ts-and-address-defects-to">9.3.2 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p336-9-3-2-1-prioritiza-tion-schemes">9.3.2.1 PRIORITIZA TION SCHEMES</a>
+<a class="toc-page" href="#source-page-337">Source page 337</a>
+<a class="toc-level-5" href="#p337-9-3-2-2-roo-tcause-anal-ysis">9.3.2.2 ROO TCAUSE ANALYSIS</a>
+<a class="toc-level-5" href="#p337-9-3-2-3-traceability-ma-trix">9.3.2.3 TRACEABILITY MA TRIX</a>
+<a class="toc-level-5" href="#p337-9-3-2-4-variance-analysis">9.3.2.4 VARIANCE ANALYSIS</a>
+<a class="toc-level-4" href="#p337-9-3-3-ev-alua-te-accept-ance-resul-ts-and-address-defects-ou">9.3.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: OUTPUTS</a>
+<a class="toc-level-5" href="#p337-9-3-3-1-ev-alua-ted-accept-ance-resul-ts">9.3.3.1 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-page" href="#source-page-338">Source page 338</a>
+<a class="toc-level-4" href="#p338-9-3-4-ev-alua-te-accept-ance-resul-ts-and-address-defects-ta">9.3.4 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p338-9-3-5-ev-alua-te-accept-ance-resul-ts-and-address-defects-co">9.3.5 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: COLLABORA TION POINT</a>
+<a class="toc-level-3" href="#p338-9-4-obt-ain-solution-accept-ance-for-release">9.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE</a>
+<a class="toc-page" href="#source-page-339">Source page 339</a>
+<a class="toc-level-4" href="#p339-figure-9-9-obtain-solution-acceptance-for-release-inputs-t-o">Figure 9-9. Obtain Solution Acceptance for Release: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p339-5-3-9-3">5.3 9.3</a>
+<a class="toc-level-4" href="#p339-figure-9-10-obtain-solution-acceptance-for-release-data-flow">Figure 9-10. Obtain Solution Acceptance for Release: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-340">Source page 340</a>
+<a class="toc-level-4" href="#p340-9-4-1-obt-ain-solution-accept-ance-for-release-inputs">9.4.1 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: INPUTS</a>
+<a class="toc-level-5" href="#p340-9-4-1-1-approved-requirements">9.4.1.1 APPROVED REQUIREMENTS</a>
+<a class="toc-level-5" href="#p340-9-4-1-2-ev-alua-ted-accept-ance-resul-ts">9.4.1.2 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-5" href="#p340-9-4-1-3-product-risk-analysis">9.4.1.3 PRODUCT RISK ANALYSIS</a>
+<a class="toc-page" href="#source-page-341">Source page 341</a>
+<a class="toc-level-5" href="#p341-9-4-1-4-readiness-assessment">9.4.1.4 READINESS ASSESSMENT</a>
+<a class="toc-level-5" href="#p341-9-4-1-5-stakeholder-engagement-and-communication-approach">9.4.1.5 STAKEHOLDER ENGAGEMENT AND COMMUNICATION APPROACH</a>
+<a class="toc-level-5" href="#p341-9-4-1-6-transition-plan">9.4.1.6 TRANSITION PLAN</a>
+<a class="toc-level-4" href="#p341-9-4-2-obt-ain-solution-accept-ance-for-release-tools-and-tec">9.4.2 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p341-9-4-2-1-facilit-ated-workshops">9.4.2.1 FACILIT ATED WORKSHOPS</a>
+<a class="toc-page" href="#source-page-342">Source page 342</a>
+<a class="toc-level-5" href="#p342-9-4-2-2-group-decision-making-techniques">9.4.2.2 GROUP DECISION-MAKING TECHNIQUES</a>
+<a class="toc-level-4" href="#p342-9-4-3-obt-ain-solution-accept-ance-for-release-outputs">9.4.3 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: OUTPUTS</a>
+<a class="toc-level-5" href="#p342-9-4-3-1-release-decision">9.4.3.1 RELEASE DECISION</a>
+<a class="toc-level-4" href="#p342-9-4-4-obt-ain-solution-accept-ance-for-release-tailoring-con">9.4.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TAILORING CONSIDERA TIONS</a>
+<a class="toc-page" href="#source-page-343">Source page 343</a>
+<a class="toc-level-4" href="#p343-9-4-5-obt-ain-solution-accept-ance-for-release-collabora-tio">9.4.5 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: COLLABORA TION POINT</a>
+<a class="toc-page" href="#source-page-344">Source page 344</a>
+<a class="toc-page" href="#source-page-345">Source page 345</a>
+<a class="toc-level-2" href="#p345-references">REFERENCES</a>
+<a class="toc-page" href="#source-page-346">Source page 346</a>
+<a class="toc-page" href="#source-page-347">Source page 347</a>
+<a class="toc-level-3" href="#p347-p-art-2">P art 2</a>
+<a class="toc-level-3" href="#p347-the-standard-for">The Standard for</a>
+<a class="toc-level-3" href="#p347-business-analysis">Business Analysis</a>
+<a class="toc-page" href="#source-page-348">Source page 348</a>
+</details>
+<section class="page-pair" id="source-page-321">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-321" aria-label="Anchor link">#</a>Original Source page 321</h2>
+    <div class="pair-links"><a href="#source-page-321-text">Jump to reflowable text for page 321</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="321">
+  <div class="source-page-header">
+    <span>Original Source page 321</span>
+    <a href="exact-pages/page-321.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-321.html" loading="lazy" title="Exact source page 321"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-321-text" aria-label="Reflowable Extracted Text for source page 321">
+    <h2><a class="anchor-link" href="#source-page-321-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 321</span></h2>
+    <h2 id="p321-solution-ev-alua-tion"><a class="anchor-link" href="#p321-solution-ev-alua-tion" aria-label="Anchor link">#</a>SOLUTION EV ALUA TION</h2>
+<p>Solution Evaluation includes the processes to validate a full solution or asegment of asolution that is about to be or has already been implemented. Evaluation determines ho w well asolution meets the business needs expressed by stakeholders, inc luding delivering value to the customer.</p>
+<p>The Solution Evaluation processes are as follows:</p>
+<h3 id="p321-9-1-evaluate-solution-p-erformance-the-process-of-evaluating"><a class="anchor-link" href="#p321-9-1-evaluate-solution-p-erformance-the-process-of-evaluating" aria-label="Anchor link">#</a>9.1 Evaluate Solution P erformance —The process of evaluating asolution to determine whether the</h3>
+<p>implemented solution or solution component is delivering the business value as intended.</p>
+<h3 id="p321-9-2-determine-solution-evaluation-approach-the-process-of-de"><a class="anchor-link" href="#p321-9-2-determine-solution-evaluation-approach-the-process-of-de" aria-label="Anchor link">#</a>9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the</h3>
+<p>organization and/or solution will be evaluated, how performance will be measured, when performance will be measured, and by whom.</p>
+<h3 id="p321-9-3-evaluate-acceptance-results-and-address-defects-the-proc"><a class="anchor-link" href="#p321-9-3-evaluate-acceptance-results-and-address-defects-the-proc" aria-label="Anchor link">#</a>9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the</h3>
+<p>results from a comparison of the defined acceptance criteria against the solution.</p>
+<h3 id="p321-9-4-obtain-solution-acceptance-for-release-the-process-of-fa"><a class="anchor-link" href="#p321-9-4-obtain-solution-acceptance-for-release-the-process-of-fa" aria-label="Anchor link">#</a>9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether torelease</h3>
+<p>a partial or full solution into production and eventually to an operational team, as well as transitioning knowledge and existing information about the product, its risks, known issues, and any workarounds that may have arisen in response to those issues.</p>
+<h4 id="p321-figure-9-1-provides-an-overview-of-the-solution-evaluation-p"><a class="anchor-link" href="#p321-figure-9-1-provides-an-overview-of-the-solution-evaluation-p" aria-label="Anchor link">#</a>Figure 9-1 provides an overview of the Solution Evaluation processes. The business analysis processes are</h4>
+<p>presented as discrete processes with defined interfaces, although, in practice, they overlap and interact in ways that cannot be completely detailed in this guide.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-322">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-322" aria-label="Anchor link">#</a>Original Source page 322</h2>
+    <div class="pair-links"><a href="#source-page-322-text">Jump to reflowable text for page 322</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="322">
+  <div class="source-page-header">
+    <span>Original Source page 322</span>
+    <a href="exact-pages/page-322.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-322.html" loading="lazy" title="Exact source page 322"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-322-text" aria-label="Reflowable Extracted Text for source page 322">
+    <h2><a class="anchor-link" href="#source-page-322-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 322</span></h2>
+    <p>Solution Evaluation Overview</p>
+<h3 id="p322-9-1-evaluate-9-2-determine-solution-9-3-evaluate"><a class="anchor-link" href="#p322-9-1-evaluate-9-2-determine-solution-9-3-evaluate" aria-label="Anchor link">#</a>9.1 Evaluate 9.2 Determine Solution 9.3 Evaluate</h3>
+<p>Solution Pe rf ormance Evaluation Approach Acceptance Results and</p>
+<p>Address De fe ct s.1 Inputs.1 Inputs.1 Business case.1 Metrics and KPIs.1 Inputs.2 Business goals and.2 Product scope.1 Acceptance criteria objectives.3 Situation statement.2 Actual acceptance results.3 Evaluated acceptance.2 T ools &amp; Techniques results.2 To ols &amp; Techniques.1 Elicitation techniques.4 Performance data.1 Prioritization schemes.2 Group decision-making.5 Solution evaluation.2 Root cause analysis techniques approach.3 Tr aceability matrix.3 Prioritization schemes.4 Va riance analysis.2 T ools &amp; Techniques.4 Retrospectives and lessons.1 Cost - benefit analysis learned.3 Outputs.2 Elicitation techniques.1 Evaluated acceptance.3 Outputs.3 Product portfolio matrix results.1 Solution evaluation.4 Prioritization schemes approach.5 Root cause and opportunity analysis.3 Outputs.1 Assessment of business 9.4 Obtain Solution value Acceptance for Release.1 Inputs.1 Approved requirements.2 Evaluated acceptance results.3 Product risk analysis.4 Readiness assessment.5 Stakeholder engagement and communication approach.6 T ransition plan.2 T ools &amp; Techniques.1 Facilitated workshops.2 Group decision-making techniques.3 Outputs.1 Release decision</p>
+<h4 id="p322-figure-9-1-solution-evaluation-overview"><a class="anchor-link" href="#p322-figure-9-1-solution-evaluation-overview" aria-label="Anchor link">#</a>Figure 9-1. Solution Evaluation Overview</h4>
+<h3 id="p322-key-concepts-for-solution-ev-alua-tion"><a class="anchor-link" href="#p322-key-concepts-for-solution-ev-alua-tion" aria-label="Anchor link">#</a>KEY CONCEPTS FOR SOLUTION EV ALUA TION</h3>
+<p>Solution Evaluation activities are performed to assess whether or not asolution has achieved the desired business results. Solution evaluation practices apply to an ything that needs to be evaluated, from a discrete usage scenario to a broad business outcome. Solution Evaluation consists of the work done to analyze measurements obtained for the solution by comparing the actual results of acceptance testing to the expected or desired values, as defined by the acceptance criteria. Over the long term, these activities evaluate whether the expected business value of asolution has been achieved.</p>
+<p>Analyzing the results from surveys, focus groups, or the results of exploratory testing of functionality are examples of qualitative or coarsely quantitative evaluation activities. Other evaluation activities involve obtaining more precise quantitative measurements, such as directly looking at data from asolution. Nonfunctional characteristics of asolution are often evaluated with measurements as well. For example, performance standards in service-level agreements can be measured for actual compliance. Comparing estimated and actual costs and benefits may also be part of Solution Evaluation. For solutions involving manufacturing, evaluations may inc lude comparisons between actual and</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-323">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-323" aria-label="Anchor link">#</a>Original Source page 323</h2>
+    <div class="pair-links"><a href="#source-page-323-text">Jump to reflowable text for page 323</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="323">
+  <div class="source-page-header">
+    <span>Original Source page 323</span>
+    <a href="exact-pages/page-323.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-323.html" loading="lazy" title="Exact source page 323"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-323-text" aria-label="Reflowable Extracted Text for source page 323">
+    <h2><a class="anchor-link" href="#source-page-323-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 323</span></h2>
+    <p>expected production outputs or conformance to tolerances for a product. For solutions involving software, analyzing comparisons between expected and actual values of data manipulated by the high-level functionality of the solution may be part of evaluation.</p>
+<p>Evaluation activities may occur:</p>
+<ul><li>At any point when a go/no-go or release decision needs to be made for asolution or asubstantive segment of it;</li><li>During ashort-term period after asolution or segment is put into operation, such as after a warranty period; or</li><li>Well after asolution is put into operation, to obtain a long-term perspective about whether the business goals and objectives for the solution were met and whether the value expected continues to be delivered.</li></ul>
+<p>Solution Evaluation often requires early preparation, so that what is needed to perform this work is in place later when evaluation is conducted. Preparation for evaluating asolution includes defining and confirming the expected business value, identifying and defining what kind of performance data will be used to evaluate whether value has been achieved, confirming that performance data will actually be a vailable, and obtaining baseline or control data when necessary. Definition of specific evaluation criteria, such as the expected or desired range of values for the selected metrics, supports analysis activities beyond Solution Evaluation; therefore, determining specific evaluation criteria is considered part of Section 7.4 on Define Acceptance Criteria.</p>
+<p>For portfolios, programs, and projects, the following can be stated with regard to Solution Evaluation:</p>
+<ul><li>Evaluation of an implemented solution may be used to identify new or changed requirements, which may lead to solution refinement or new solutions.</li><li>Solution Evaluation can provide input into go/no-go business and technical decisions when releasing an entire solution or asegment of it.</li><li>Evaluation may identify a point of diminishing returns, such as the point where additional value that could be obtained from asolution does not justify the additional effort needed to achieve that value. In this case, Solution Evaluation gives teams the ability to "end early" even if there is still additional functionality that could be built, allowing funds to be reallocated to work on higher-priority projects that can bring additional business value.</li><li>Assessed limitations of the solution might be the basis for recommendations for a wide variety of follo w-up activities, ranging from actions to improve the performance of the solution torecommendations for replacing it or phasing it out.</li><li>Solution evaluations provide a basis for portfolio and program management to make decisions about new products and product enhancements.</li></ul>
+<p>Complicating factors for evaluating asolution are as follo ws:</p>
+<ul><li>Some of the benefits and value of the solution may seem to be intangible, and therefore, not possible to measure. For intangible benefits, it may be necessar y to define measurements that provide indirect evidence that the benefits have been achieved.</li><li>Some of the information needed to evaluate the solution may not be needed for the solution itself. Obtaining and using such data may add to the costs of developing the solution.</li><li>Some aspects of asolution that reflect the benefits and value may not be measurable until well after asolution is released. In these situations, the operational business arearesponsible for the product or perhaps an enterprise organizational area may take responsibility for identifying and measuring leading indicators.</li></ul>
+  </section>
+</section>
+<section class="page-pair" id="source-page-324">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-324" aria-label="Anchor link">#</a>Original Source page 324</h2>
+    <div class="pair-links"><a href="#source-page-324-text">Jump to reflowable text for page 324</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="324">
+  <div class="source-page-header">
+    <span>Original Source page 324</span>
+    <a href="exact-pages/page-324.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-324.html" loading="lazy" title="Exact source page 324"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-324-text" aria-label="Reflowable Extracted Text for source page 324">
+    <h2><a class="anchor-link" href="#source-page-324-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 324</span></h2>
+    <p>These factors are yet other reasons for thinking about Solution Evaluation as part of initial product development efforts. For more information on Solution Evaluation, see Section 6.3 of Business Analysis for Practitioners: A Practice Guide.</p>
+<h3 id="p324-9-1-ev-alua-te-solution-performance"><a class="anchor-link" href="#p324-9-1-ev-alua-te-solution-performance" aria-label="Anchor link">#</a>9.1 EV ALUA TE SOLUTION PERFORMANCE</h3>
+<p>Evaluate Solution Performance is the process of evaluating asolution to determine whether the implemented solution or solution component is delivering the business value as intended. The key benefit of this process is that the analysis provides tangible datato determine whether the solution that the business has invested in is achieving the expected business results and serves as an input to decisions about future initiatives. The inputs, tools and techniques, and outputs for this process are shown in Figure 9-2. F igure 9-3 depicts the data flo w diagram for the process.</p>
+<p>To ols &amp; T echni qu es Inputs Output s.1 Business case.1 Cost-benefit analysis.1 Assessment of business value.2 Business goals and objectives.2 Elicitation techniques.3 Evaluated acceptance results.3 Product portfolio matrix.4 Performance data.4 Prioritization schemes.5 Solution evaluation approach.5 Root cause and opportunity analysis</p>
+<h4 id="p324-figure-9-2-evaluate-solution-p-erformance-inputs-t-ools-and"><a class="anchor-link" href="#p324-figure-9-2-evaluate-solution-p-erformance-inputs-t-ools-and" aria-label="Anchor link">#</a>Figure 9-2. Evaluate Solution P erformance: Inputs, T ools and Techniques, and Outputs</h4>
+<p>Solution Evaluation</p>
+<p>9.2 Determine Solution Evaluation</p>
+<h3 id="p324-4-3-solution-evaluation"><a class="anchor-link" href="#p324-4-3-solution-evaluation" aria-label="Anchor link">#</a>4.3 • Solution evaluation</h3>
+<p>approach Approach</p>
+<p>Determin e Future State • Business goals and objectives</p>
+<p>9.3 Evaluate Acceptance</p>
+<h3 id="p324-4-6-evaluated-results-and"><a class="anchor-link" href="#p324-4-6-evaluated-results-and" aria-label="Anchor link">#</a>4.6 • Evaluated Results and</h3>
+<p>Assemble acceptance Address Defects Business Case • Business case results</p>
+<h3 id="p324-9-1-4-1"><a class="anchor-link" href="#p324-9-1-4-1" aria-label="Anchor link">#</a>9.1 4.1</h3>
+<p>Evaluate Identify Solution Problem or</p>
+<p>Enter p rise/</p>
+<p>Pe rfor manc e • Assessment of</p>
+<p>Organization Oppor tunity • Pe r formance data business value</p>
+<h4 id="p324-figure-9-3-evaluate-solution-p-erformance-data-flow-diagram"><a class="anchor-link" href="#p324-figure-9-3-evaluate-solution-p-erformance-data-flow-diagram" aria-label="Anchor link">#</a>Figure 9-3. Evaluate Solution P erformance: Data Flow Diagram</h4>
+<p>Evaluating solution performance involves determining whether asolution or solution component that has been put into operation is delivering the desired business value. The actual business value of asolution is measured in terms of the business goals or objectives. Business analysis also assesses the underlying reasons behind the results obtained.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-325">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-325" aria-label="Anchor link">#</a>Original Source page 325</h2>
+    <div class="pair-links"><a href="#source-page-325-text">Jump to reflowable text for page 325</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="325">
+  <div class="source-page-header">
+    <span>Original Source page 325</span>
+    <a href="exact-pages/page-325.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-325.html" loading="lazy" title="Exact source page 325"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-325-text" aria-label="Reflowable Extracted Text for source page 325">
+    <h2><a class="anchor-link" href="#source-page-325-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 325</span></h2>
+    <p>Evaluation of solution performance typically occurs after asolution has been released. Therefore, it is more likely that the evaluation of solution performance will occur during portfolio or program activities rather than project activities. The extent to which business value has been achieved and the reasons for the achievement are significant factors to consider when making product decisions within a portfolio or program. However, Evaluate Solution Performance not only supports product decisions within a program or portfolio, but also may be used during a project at any time when solution evaluation can provide insights.</p>
+<p>Datato evaluate the business value are often measured by and obtained from the business areathat takes ownership of the solution or by instrumentation that has been built into the product. Business analysis techniques are used to analyze variations between desired and actual results as part of assessing the business value of the solution. Because many measurements of business value need to take place after asolution is released and often need to be measured over the long term to detect trends, there needs to be organizational commitment to invest in making the measurements and to invest in building or purchasing the capabilities to measure business value when those capabilities would not otherwise be available. When such investments are not possible, organizations need to consider less costly next-best-alternative ways to measure business value. Proxies for business value might be used in these situations.</p>
+<p>The relevant business goals and objectives, evaluated acceptance results from a previous release, performance data, and baseline data, when available, are analyzed to determine whether value has been delivered, as well as the reasons for better -than-expected results or the root causes of any problems. Among the typical reasons for missed business value are:</p>
+<ul><li>T echnical causes,</li><li>Business practices or constraints,</li><li>Resistance to the product or the way it is intended to be used, and</li><li>Opportunistic workarounds devised by those who use the product to get around real or perceived solution limitations.</li></ul>
+<p>The assessment of the performance of a product becomes input intorecommendations for improving the long-term performance of the solutions and for portfolio and program management decisions about further enhancements to the product, decisions about new products, and decisions toreplace or discontinue products.</p>
+<h4 id="p325-9-1-1-ev-alua-te-solution-performance-inputs"><a class="anchor-link" href="#p325-9-1-1-ev-alua-te-solution-performance-inputs" aria-label="Anchor link">#</a>9.1.1 EV ALUA TE SOLUTION PERFORMANCE: INPUTS</h4>
+<h5 id="p325-9-1-1-1-business-case"><a class="anchor-link" href="#p325-9-1-1-1-business-case" aria-label="Anchor link">#</a>9.1.1.1 BUSINESS CASE</h5>
+<p>Described in Section 4.6.3.1. The business case describes pertinent information to determine whether the initiative is worth the required investment. It is an authoritative source where expected benefits have been stated.</p>
+<h5 id="p325-9-1-1-2-business-goals-and-objectives"><a class="anchor-link" href="#p325-9-1-1-2-business-goals-and-objectives" aria-label="Anchor link">#</a>9.1.1.2 BUSINESS GOALS AND OBJECTIVES</h5>
+<p>Described in Section 4.3.3.1. Business goals and objectives specify stated targets that the business is seeking to achieve. They provide the context for evaluating solution performance, because they are a measurable description of the expected business value. Examples of business objectives inc lude increased throughput in the manufacture of a product by x %, reduction in costs by y %, and increased sales volume by $ z.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-326">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-326" aria-label="Anchor link">#</a>Original Source page 326</h2>
+    <div class="pair-links"><a href="#source-page-326-text">Jump to reflowable text for page 326</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="326">
+  <div class="source-page-header">
+    <span>Original Source page 326</span>
+    <a href="exact-pages/page-326.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-326.html" loading="lazy" title="Exact source page 326"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-326-text" aria-label="Reflowable Extracted Text for source page 326">
+    <h2><a class="anchor-link" href="#source-page-326-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 326</span></h2>
+    <p>Many products support business goals and objectives that can be associated with one or more key performance indicators (KPIs), which are target performance levels that are usually defined by an organization’s executives. For organizations that alread y define and measure KPIs, it may sometimes be possible to use one or more of these KPIs to evaluate the solution, taking advantage of existing measurement ca pabilities.</p>
+<h5 id="p326-9-1-1-3-ev-alua-ted-accept-ance-resul-ts"><a class="anchor-link" href="#p326-9-1-1-3-ev-alua-ted-accept-ance-resul-ts" aria-label="Anchor link">#</a>9.1.1.3 EV ALUA TED ACCEPT ANCE RESUL TS</h5>
+<p>Described in Section 9.3.3.1. Evaluated acceptance results are comparisons between the acceptance criteria and the actual results, and the root cause for variances between them. The evaluated acceptance results from when the solution was released describe the state of the product, and specifically any proficiencies or deficiencies it may have, which might have altered the expected business value. A product that exceeds expectations can provide a basis for future opportunities. A product that does not meet expectations may have defects, which will necessitate analysis of the cost to address the defects and the business impact of addressing them or accepting them.</p>
+<h5 id="p326-9-1-1-4-performance-da-t-a"><a class="anchor-link" href="#p326-9-1-1-4-performance-da-t-a" aria-label="Anchor link">#</a>9.1.1.4 PERFORMANCE DA T A</h5>
+<p>Performance data are a quantified output of a product. Examples of outputs that might be measured include throughput in the manufacture of a product, volume of some output generated by the product, reduction in costs, productivity achieved in using aservice, number of users adopting asolution, amount of revenue generated, sales volume, number of individuals reached in a marketing campaign, and levels of customer satisfaction.</p>
+<p>Performance data are used to determine the actual business value of a product by assessing the performance data before and after arelease. Any performance data from a prior version of a product or manual process represent a baseline. For example, if business value is measured in terms of increased sales volume, then the quantified business value is the difference in sales volume before (the baseline) and after release of the solution.</p>
+<p>If there is no baseline of performance data, then either the performance data after arelease can represent the business value or estimates of the original baseline can be made. Ideally, performance data are measured for the stated business goals and objectives. However, when that is not possible, proxies for those objectives might be used to determine business value. For example, proxy performance data could include measurements that describe the effectiveness or quality of the product, such as the average duration of atask while using the product, response time for solutions involving software, or counts of errors made while performing atask.</p>
+<p>Performance data are generally measured by and obtained from the business areathat takes ownership of the solution or by instrumentation built into the solution. Performance data also can be measured using capabilities externally available to the solution, such as the results from sur veys or focus groups conducted after asolution has been released.</p>
+<h5 id="p326-9-1-1-5-solution-ev-alua-tion-appro-ach"><a class="anchor-link" href="#p326-9-1-1-5-solution-ev-alua-tion-appro-ach" aria-label="Anchor link">#</a>9.1.1.5 SOLUTION EV ALUA TION APPRO ACH</h5>
+<p>Described in Section 9.2.3.1. The solution evaluation approach provides the a greements made about how solution evaluation activities will be performed. The solution evaluation approach identifies which types of metrics will be used to evaluate whether the expected business value has been achieved. It explains how solution performance will be evaluated. Because solutions can be evaluated long after their release, the original solution evaluation approach may need to be updated over time based on the current state.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-327">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-327" aria-label="Anchor link">#</a>Original Source page 327</h2>
+    <div class="pair-links"><a href="#source-page-327-text">Jump to reflowable text for page 327</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="327">
+  <div class="source-page-header">
+    <span>Original Source page 327</span>
+    <a href="exact-pages/page-327.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-327.html" loading="lazy" title="Exact source page 327"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-327-text" aria-label="Reflowable Extracted Text for source page 327">
+    <h2><a class="anchor-link" href="#source-page-327-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 327</span></h2>
+    <h4 id="p327-9-1-2-ev-alua-te-solution-performance-tools-and-techniques"><a class="anchor-link" href="#p327-9-1-2-ev-alua-te-solution-performance-tools-and-techniques" aria-label="Anchor link">#</a>9.1.2 EV ALUA TE SOLUTION PERFORMANCE: TOOLS AND TECHNIQUES</h4>
+<h5 id="p327-9-1-2-1-cost-benefit-analysis"><a class="anchor-link" href="#p327-9-1-2-1-cost-benefit-analysis" aria-label="Anchor link">#</a>9.1.2.1 COST -BENEFIT ANALYSIS</h5>
+<p>Cost-benefit analysis is a financial analysis tool used to determine the benefits provided by a project or solution against its costs. Considering the results of an actual versus expected cost-benefit analysis is one way to assess the business value of the solution. Conducting a cost-benefit analysis can help determine whether recommendations made as part of the evaluation of solution performance are likely to be cost-effective. For more information on cost- benefit analysis, see Section 4.4.2.2.</p>
+<h5 id="p327-9-1-2-2-elicit-ation-techniques"><a class="anchor-link" href="#p327-9-1-2-2-elicit-ation-techniques" aria-label="Anchor link">#</a>9.1.2.2 ELICIT ATION TECHNIQUES</h5>
+<p>Elicitation techniques are used to draw out information from sources. Facilitated workshops, focus groups, interviews, and observation are among the elicitation techniques often used to uncover root causes for identifying the differences between the expected and actual business value of asolution and making recommendations to address those variances:</p>
+<ul><li>Facilitated workshops. Use astructured meeting led by askilled, neutral facilitator and a carefully selected group of stakeholders to collaborate and work toward astated objective. Facilitated workshops may be conducted with decision makers to collaboratively work together to identify the root cause and any variances. For more information on facilitated workshops, see Section 6.3.2.4.</li><li>Focus groups. Provide an opportunity to obtain feedback directly from customers and/or end users. F ocus groups can be used to learn about which deficiencies in business value are important or of concern to stakeholders. For more information on focus groups, see Section 6.3.2.5.</li><li>Interviews. May be conducted with individual stakeholders and users to gain insights about root causes in situations where expected and actual business value differs widely. The privac y and confidentiality of an individual interview may reveal considerations that might not otherwise be expressed in a facilitated workshop or focus group. For more information on inter views, see Section 6.3.2.6.</li><li>Observation. An elicitation technique that provides a direct way of eliciting information about how a process is performed or a product is used by viewing individuals in their own environment performing their jobs or tasks. For some products, direct obser vation of users actually performing their jobs or tasks may uncover workarounds that they use to compensate for product ga ps. These workarounds may have had unintended consequences leading to missed business value. Such workarounds could be missed when using interviews and other verbal communication techniques, because it may not occur to users who are familiar with using the product for a long time to mention how they compensate for a lack—or perceived lack—of functionality. For more information on observation, see Section 6.3.2.7.</li></ul>
+<p>For more information on elicitation techniques, see Section 6.3.2.</p>
+<h5 id="p327-9-1-2-3-product-portfolio-ma-trix"><a class="anchor-link" href="#p327-9-1-2-3-product-portfolio-ma-trix" aria-label="Anchor link">#</a>9.1.2.3 PRODUCT PORTFOLIO MA TRIX</h5>
+<p>A product portfolio matrix, also known as a gro wth-share matrix, is a market analysis quadrant diagram used by some organizations to qualitatively analyze their products or product lines. One axis reflects market growth (or demand for a product) from low to high, while the other reflects the market share of the organization from lo w to high. The matrix provides a quick visual way to evaluate which products are meeting or exceeding performance expectations in the marketplace, and as aresult, can contribute to evaluating the performance of a product.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-328">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-328" aria-label="Anchor link">#</a>Original Source page 328</h2>
+    <div class="pair-links"><a href="#source-page-328-text">Jump to reflowable text for page 328</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="328">
+  <div class="source-page-header">
+    <span>Original Source page 328</span>
+    <a href="exact-pages/page-328.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-328.html" loading="lazy" title="Exact source page 328"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-328-text" aria-label="Reflowable Extracted Text for source page 328">
+    <h2><a class="anchor-link" href="#source-page-328-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 328</span></h2>
+    <h4 id="p328-figure-9-4-is-an-example-of-a-product-portfolio-matrix-in-th"><a class="anchor-link" href="#p328-figure-9-4-is-an-example-of-a-product-portfolio-matrix-in-th" aria-label="Anchor link">#</a>Figure 9-4 is an example of a product portfolio matrix. In this figure, assuming that the costs to produce, market,</h4>
+<p>and distribute the product are not asignificant factor, the products that provide the most significant benefits to the organization would be found in the upper left quadrant, because these are the products where the organization has a high market share in a market with a high growth rate. Those in the upper right quadrant are regarded as having good potential because, although they have a low market share, they are in a market that is continuing to grow. Those in the lower left quadrant, with a high market share in a low gro wth market, are considered a dependable income stream.</p>
+<p>High</p>
+<p>Low High</p>
+<p>Relative Market Share</p>
+<p>Low</p>
+<p>Market Growth Rate</p>
+<h4 id="p328-figure-9-4-evaluate-solution-p-erformance-product-portfolio"><a class="anchor-link" href="#p328-figure-9-4-evaluate-solution-p-erformance-product-portfolio" aria-label="Anchor link">#</a>Figure 9-4 Evaluate Solution P erformance: Product Portfolio Matrix</h4>
+<h5 id="p328-9-1-2-4-prioritiza-tion-schemes"><a class="anchor-link" href="#p328-9-1-2-4-prioritiza-tion-schemes" aria-label="Anchor link">#</a>9.1.2.4 PRIORITIZA TION SCHEMES</h5>
+<p>Prioritization schemes are different methods used to prioritize requirements, features, or other product information. For the purposes of evaluating solution performance, prioritization schemes can be used torank the value of the benefits obtained from the solution as well as the severity of any challenges it creates. Doing so can provide a way to consider whether the benefits outweigh the challenges and vice versa. For more information on prioritization schemes, see Section 7.7.2.5.</p>
+<h5 id="p328-9-1-2-5-roo-tcause-and-opportunity-analysis"><a class="anchor-link" href="#p328-9-1-2-5-roo-tcause-and-opportunity-analysis" aria-label="Anchor link">#</a>9.1.2.5 ROO TCAUSE AND OPPORTUNITY ANALYSIS</h5>
+<p>Root cause analysis is used to determine the basic underlying reason that causes a variance, defect, or risk. Opportunity analysis is used to study the major facets of a potential opportunity to determine the possible changes in products offered to enable its achievement. When used to evaluate solution performance, root cause and opportunity</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-329">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-329" aria-label="Anchor link">#</a>Original Source page 329</h2>
+    <div class="pair-links"><a href="#source-page-329-text">Jump to reflowable text for page 329</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="329">
+  <div class="source-page-header">
+    <span>Original Source page 329</span>
+    <a href="exact-pages/page-329.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-329.html" loading="lazy" title="Exact source page 329"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-329-text" aria-label="Reflowable Extracted Text for source page 329">
+    <h2><a class="anchor-link" href="#source-page-329-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 329</span></h2>
+    <p>analysis can help uncover the reasons why the actual business value either did not meet or possibly exceeded expectations and where there may be further product improvement opportunities. The results of root cause and opportunity analysis can be used when making decisions about new products and whether to enhance, retire, or discontinue existing products. For more information on root cause and opportunity analysis, see Section 4.2.2.9.</p>
+<h4 id="p329-9-1-3-ev-alua-te-solution-performance-outputs"><a class="anchor-link" href="#p329-9-1-3-ev-alua-te-solution-performance-outputs" aria-label="Anchor link">#</a>9.1.3 EV ALUA TE SOLUTION PERFORMANCE: OUTPUTS</h4>
+<h5 id="p329-9-1-3-1-assessment-of-business-value"><a class="anchor-link" href="#p329-9-1-3-1-assessment-of-business-value" aria-label="Anchor link">#</a>9.1.3.1 ASSESSMENT OF BUSINESS VALUE</h5>
+<p>The assessment of business value is the result from comparing expected business value from asolution against the actual value that has been realized. If the desired business value was not achieved, the assessment includes the reasons why.</p>
+<p>The assessment is used to make decisions about whether to develop anew product or to enhance, retire, or discontinue an existing product. The work done to implement any recommendations will need to be prioritized as</p>
+<h2 id="p329-part-of-the-ongoing-planning-activities-the-organization-per"><a class="anchor-link" href="#p329-part-of-the-ongoing-planning-activities-the-organization-per" aria-label="Anchor link">#</a>part of the ongoing planning activities the organization performs for portfolio or program management. For more</h2>
+<p>information on assessing business value, see Section 6.10.3 of Business Analysis for Practitioners: A Practice Guide.</p>
+<h4 id="p329-9-1-4-ev-alua-te-solution-performance-tailoring-considera-ti"><a class="anchor-link" href="#p329-9-1-4-ev-alua-te-solution-performance-tailoring-considera-ti" aria-label="Anchor link">#</a>9.1.4 EV ALUA TE SOLUTION PERFORMANCE: TAILORING CONSIDERA TIONS</h4>
+<p>Adaptive and predictive tailoring considerations for Evaluate Solution Performance are described in T able 9-1.</p>
+<p>T able 9-1. Adaptive and Predictive Tailoring for Evaluate Solution P erformance</p>
+<p>Aspects to</p>
+<p>T ypical Adaptive Considerations T ypical Predictive Considerations</p>
+<p>Be Ta ilored</p>
+<p>Name Ev aluate Solution Pe rfor mance Approach After asolution is launched, performance data are used to compare business value to what was expected. Subjective and objectiv e evidence is collected. Root causes are identified for deviations from what was expected. Recommendations may be made to address reducing the de viations. Root causes become input into decisions to enhance, maintain, replace, or discontinue the product.</p>
+<p>Deliverables Assessment results can be formally documented or not.</p>
+<h4 id="p329-9-1-5-ev-alua-te-solution-performance-collabora-tion-point"><a class="anchor-link" href="#p329-9-1-5-ev-alua-te-solution-performance-collabora-tion-point" aria-label="Anchor link">#</a>9.1.5 EV ALUA TE SOLUTION PERFORMANCE: COLLABORA TION POINT</h4>
+<p>Several roles may contribute to evaluating solution performance. Functional managers may provide insights on ho w the product is performing that might not be obvious solely by looking at metrics, and DevOps (which some organizations use to coordinate activities and improve collaboration between development and operational areas) may provide insights on how product performance is trending during the warranty period. Subject matter experts (SMEs) may be responsible for conducting the evaluation or may help surface the reasons behind the results obtained. Once the performance data are acquired, portfolio, program, and project managers use the results when making strategic and tactical decisions.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-330">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-330" aria-label="Anchor link">#</a>Original Source page 330</h2>
+    <div class="pair-links"><a href="#source-page-330-text">Jump to reflowable text for page 330</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="330">
+  <div class="source-page-header">
+    <span>Original Source page 330</span>
+    <a href="exact-pages/page-330.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-330.html" loading="lazy" title="Exact source page 330"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-330-text" aria-label="Reflowable Extracted Text for source page 330">
+    <h2><a class="anchor-link" href="#source-page-330-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 330</span></h2>
+    <h3 id="p330-9-2-determine-solution-ev-alua-tion-appro-ach"><a class="anchor-link" href="#p330-9-2-determine-solution-ev-alua-tion-appro-ach" aria-label="Anchor link">#</a>9.2 DETERMINE SOLUTION EV ALUA TION APPRO ACH</h3>
+<p>Determine Solution Evaluation Approach is the process of determining which aspects of the organization and/or solution will be evaluated, how performance will be measured, when performance will be measured, and by whom. The key benefit of this process is that performance indicators and metrics are selected or defined so they can be collected, reported on, and evaluated to support the continual improvement of the organization and/or product. The inputs, tools and techniques, and outputs for this process are shown in Figure 9-5. F igure 9-6 depicts the data flow dia gram for the process.</p>
+<p>To ols &amp; T echni qu es Inputs Output s.1 Metrics and KPIs.1 Elicitation techniques.1 Solution evaluation approach.2 Product scope.2 Group decision-making.3 Situation statement techniques.3 Prioritization schemes.4 Retrospectives and lessons learned</p>
+<h4 id="p330-figure-9-5-determine-solution-evaluation-approach-inputs-t-o"><a class="anchor-link" href="#p330-figure-9-5-determine-solution-evaluation-approach-inputs-t-o" aria-label="Anchor link">#</a>Figure 9-5. Determine Solution Evaluation Approach: Inputs, T ools and Techniques, and Outputs</h4>
+<p>Solution Evaluation</p>
+<h3 id="p330-4-1-5-4"><a class="anchor-link" href="#p330-4-1-5-4" aria-label="Anchor link">#</a>4.1 5.4</h3>
+<p>Identify a Conduct Problem or Business Oppor tunity • Situation Analysis Planning statement</p>
+<p>9.2</p>
+<h3 id="p330-4-6-determine-7-4"><a class="anchor-link" href="#p330-4-6-determine-7-4" aria-label="Anchor link">#</a>4.6 Determine 7.4</h3>
+<p>Assemble Solution Define Business Case Evaluation Acceptance • Product scope • Solution</p>
+<p>Approach Criteria e valuation approach</p>
+<p>Enter p rise/</p>
+<p>9.1</p>
+<p>Organization • Metrics and KPI s Evaluate</p>
+<p>Solution Pe rformance</p>
+<h4 id="p330-figure-9-6-determine-solution-evaluation-approach-data-flow"><a class="anchor-link" href="#p330-figure-9-6-determine-solution-evaluation-approach-data-flow" aria-label="Anchor link">#</a>Figure 9-6. Determine Solution Evaluation Approach: Data Flow Diagram</h4>
+<p>Determining an approach for Solution Evaluation involves conducting research, discussions, and analysis to identify how and when to evaluate a product. Determining the solution evaluation approach should include:</p>
+<ul><li>Planning when and how often solution evaluation activities should be performed. Solution evaluation may occur during solution development for some components of asolution, just before arelease, soon after arelease, or long after arelease;</li><li>Planning which evaluation techniques will be used. Not all techniques need to be decided before analysis begins, but by thinking ahead, it is more likely that business analysts will be prepared to use a variety of techniques;</li></ul>
+  </section>
+</section>
+<section class="page-pair" id="source-page-331">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-331" aria-label="Anchor link">#</a>Original Source page 331</h2>
+    <div class="pair-links"><a href="#source-page-331-text">Jump to reflowable text for page 331</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="331">
+  <div class="source-page-header">
+    <span>Original Source page 331</span>
+    <a href="exact-pages/page-331.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-331.html" loading="lazy" title="Exact source page 331"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-331-text" aria-label="Reflowable Extracted Text for source page 331">
+    <h2><a class="anchor-link" href="#source-page-331-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 331</span></h2>
+    <ul><li>Planning how the evaluation results will be analyzed and reported;</li><li>Planning how the progress of solution evaluation and its outputs will be communicated to stakeholders and other interested parties, inc luding what level of formality is a ppropriate; and</li><li>Planning which metrics will be used to evaluate performance and how they tie to the business goals and objectives.</li></ul>
+<p>A metric is aset of quantifiable measures used to evaluate asolution or business. When performing solution evaluation, a metric defines how solution performance can be quantified. Many metrics can be used to compare the tangible properties of the solution, such as throughput, productivity, or efficienc y. There are two common types of metrics defined by the solution evaluation approach:</p>
+<ul><li>Metrics that will be used to evaluate the solution or its components for acceptance during or shortly after development. Acceptance criteria are defined to set acceptable ranges on these metrics. For information about acceptance criteria, see Section 7.4.3.1; and</li><li>Metrics likely to be used later to determine if the business value was delivered. Because solution performance is not evaluated until after asolution is released, the choice of metrics or how they are measured might change over time.</li></ul>
+<p>When determining the solution evaluation approach, the team needs to consider the following about metrics:</p>
+<ul><li>What type of performance data will be collected for the metrics, when, and ho w frequently?</li><li>Who is responsible for collecting and reporting the performance data?</li><li>Are there built-in collection and reporting mechanisms already available for these metrics? If not, what additional capabilities are needed? Who is going to cover the costs of developing them?</li></ul>
+<p>Information about the problem or opportunity that the solution will address and the product scope provide a basis for deciding which types of metrics could help the organization assess the product’s performance. There may be industry or organizational standards that have defined benchmarks that can be used to compare asolution with general expectations for it.</p>
+<p>The solution evaluation approach should be defined as early as possible in the product development life cycle because some of the metrics identified in it may require capturing additional information, above and beyond what the product itself requires. Without early definition, there is a risk that necessary information will be expensive or impossible to obtain. When considering new metrics, the cost of capturing actual measurements and reporting on them is an important factor. When the proposed metrics appear too costly or time-consuming to justify their use, less costly, next-best alternatives may be considered.</p>
+<h4 id="p331-9-2-1-determine-solution-ev-alua-tion-approach-inputs"><a class="anchor-link" href="#p331-9-2-1-determine-solution-ev-alua-tion-approach-inputs" aria-label="Anchor link">#</a>9.2.1 DETERMINE SOLUTION EV ALUA TION APPROACH: INPUTS</h4>
+<h5 id="p331-9-2-1-1-metrics-and-kpi-s"><a class="anchor-link" href="#p331-9-2-1-1-metrics-and-kpi-s" aria-label="Anchor link">#</a>9.2.1.1 METRICS AND KPI s</h5>
+<p>A metric is aset of quantifiable measures used to evaluate asolution or business. In solution evaluation, a metric defines how solution performance can be quantified. Many types of metrics could be used to evaluate asolution. Business objectives are atype of metric that describe the desired business value of a product. Key performance indicators (KPIs) are arelated type of metric, usually defined by an organization’s executives, used to evaluate an</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-332">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-332" aria-label="Anchor link">#</a>Original Source page 332</h2>
+    <div class="pair-links"><a href="#source-page-332-text">Jump to reflowable text for page 332</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="332">
+  <div class="source-page-header">
+    <span>Original Source page 332</span>
+    <a href="exact-pages/page-332.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-332.html" loading="lazy" title="Exact source page 332"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-332-text" aria-label="Reflowable Extracted Text for source page 332">
+    <h2><a class="anchor-link" href="#source-page-332-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 332</span></h2>
+    <p>organization’s progress toward meeting its objectives or goals. Other, more granular metrics that also trace back to business objectives can be used to evaluate the interim success of asolution during or after development. Defining asolution evaluation approach involves choosing which metrics to use to evaluate asolution under development as part of its acceptance criteria or a previously released solution as part of its performance. When choosing, consideration can be given to metrics that are already a vailable within the organization.</p>
+<h5 id="p332-9-2-1-2-product-scope"><a class="anchor-link" href="#p332-9-2-1-2-product-scope" aria-label="Anchor link">#</a>9.2.1.2 PRODUCT SCOPE</h5>
+<p>Described in Section 4.6.3.2. Product scope is defined as the features and functions that characterize asolution. The product scope and the business goals and objectives on which asolution is based provide suggestions as to what types of information should be collected and measured for evaluation purposes.</p>
+<h5 id="p332-9-2-1-3-situa-tion-st-atement"><a class="anchor-link" href="#p332-9-2-1-3-situa-tion-st-atement" aria-label="Anchor link">#</a>9.2.1.3 SITUA TION ST ATEMENT</h5>
+<p>Described in Section 4.1.3.2. A situation statement describes the problem or opportunity and its effect on the organization. The wording of the situation statement may suggest ways to measure whether or not the problem or opportunity has been addressed. The situation statement might also be used to determine how, when, and how frequently asolutionshould be evaluated.</p>
+<h4 id="p332-9-2-2-determine-solution-evalua-tion-appro-ach-tools-and-tec"><a class="anchor-link" href="#p332-9-2-2-determine-solution-evalua-tion-appro-ach-tools-and-tec" aria-label="Anchor link">#</a>9.2.2 DETERMINE SOLUTION EVALUA TION APPRO ACH: TOOLS AND TECHNIQUES</h4>
+<h5 id="p332-9-2-2-1-elicit-ation-techniques"><a class="anchor-link" href="#p332-9-2-2-1-elicit-ation-techniques" aria-label="Anchor link">#</a>9.2.2.1 ELICIT ATION TECHNIQUES</h5>
+<p>Elicitation techniques are used to draw information from sources. Elicitation techniques can be used to identify existing metrics or potential new metrics for determining solution acceptance or evaluating whether business value has been delivered. Elicitation techniques are also helpful to identify ideas about how asolution can be evaluated.</p>
+<p>A few common elicitation techniques that can support determining the solution evaluation approach are document analysis, facilitated workshops, and interviews:</p>
+<ul><li>Document analysis. An elicitation technique used to analyze existing documentation to identify relevant product information. A team may be able to gain ideas for likely metrics from documentation that inventories the kind of information that is currently collected or that will be available once the solution is in place. The team may also be able toreuse all or part of a documented solution evaluation approach. For more information on document analysis, see Section 6.3.2.3.</li><li>Facilitated workshop. A structured meeting led by askilled, neutral facilitator and a carefully selected group of stakeholders to collaborate and work toward astated objective. The structure of a facilitated workshop promotes an efficient and focused meeting for proposing metrics. For more information on facilitated workshops, see Section 6.3.2.4.</li><li>Interviews. Used to elicit information about the solution evaluation approach. They can be scheduled with various stakeholders who possess key information for determining the approach. When necessary, individual interviews can provide each stakeholder with an opportunity to speak candidly about the ability of the organization to capture proposed metrics. For more information on inter views, see Section 6.3.2.6.</li></ul>
+<p>For more information on elicitation techniques, see Section 6.3.2.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-333">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-333" aria-label="Anchor link">#</a>Original Source page 333</h2>
+    <div class="pair-links"><a href="#source-page-333-text">Jump to reflowable text for page 333</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="333">
+  <div class="source-page-header">
+    <span>Original Source page 333</span>
+    <a href="exact-pages/page-333.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-333.html" loading="lazy" title="Exact source page 333"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-333-text" aria-label="Reflowable Extracted Text for source page 333">
+    <h2><a class="anchor-link" href="#source-page-333-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 333</span></h2>
+    <h5 id="p333-9-2-2-2-group-decision-making-techniques"><a class="anchor-link" href="#p333-9-2-2-2-group-decision-making-techniques" aria-label="Anchor link">#</a>9.2.2.2 GROUP DECISION-MAKING TECHNIQUES</h5>
+<p>Group decision-making techniques are methods that can be used in a group setting to bring participants to a final decision on an issue or topic under discussion. Decision-making techniques are used toreach consensus about the solution evaluation approach. For example, teams need toreach decisions about which metrics to collect, the value of information against costs to obtain it, which of the proposed metrics to use, and the frequenc y of collecting metrics.</p>
+<p>For more information on group decision-making techniques, see Section 8.3.2.7.</p>
+<h5 id="p333-9-2-2-3-prioritiza-tion-schemes"><a class="anchor-link" href="#p333-9-2-2-3-prioritiza-tion-schemes" aria-label="Anchor link">#</a>9.2.2.3 PRIORITIZA TION SCHEMES</h5>
+<p>Prioritization schemes are different methods used to prioritize requirements, features, or any other product information. When developing the solution evaluation approach, the interest in obtaining information needs to be balanced against the cost of obtaining and communicating that information. The balance is achieved through decision making and may require prioritizing among the proposed metrics.</p>
+<p>Prioritization schemes such as MoSCoW can help decide which metrics must, should, could, and won’t be collected, as can weighted rankings. For more information on prioritization schemes, see Section 7.7.2.5.</p>
+<h5 id="p333-9-2-2-4-retrospectives-and-lessons-learned"><a class="anchor-link" href="#p333-9-2-2-4-retrospectives-and-lessons-learned" aria-label="Anchor link">#</a>9.2.2.4 RETROSPECTIVES AND LESSONS LEARNED</h5>
+<p>Retrospectives and lessons learned leverage past experiences to plan for the future. As part of devising asolution evaluation approach, retrospectives and lessons learned can be used to learn about the ease of collecting and analyzing different types of metrics and the effectiveness of different evaluation techniques. For more information on retrospectives and lessons learned, see Section 5.7.2.4.</p>
+<h4 id="p333-9-2-3-determine-solution-ev-alua-tion-approach-outputs"><a class="anchor-link" href="#p333-9-2-3-determine-solution-ev-alua-tion-approach-outputs" aria-label="Anchor link">#</a>9.2.3 DETERMINE SOLUTION EV ALUA TION APPROACH: OUTPUTS</h4>
+<h5 id="p333-9-2-3-1-solution-ev-alua-tion-appro-ach"><a class="anchor-link" href="#p333-9-2-3-1-solution-ev-alua-tion-appro-ach" aria-label="Anchor link">#</a>9.2.3.1 SOLUTION EV ALUA TION APPRO ACH</h5>
+<p>The solution evaluation approach describes when and ho w asolution will be evaluated, the types of metrics that will support evaluation, the feasibility of collecting and communicating the actual performance data for these metrics, and who is responsible for conducting the evaluation and communicating results. For information about what to include in asolution evaluation approach, see Section 3.4.15 of Business Analysis for Practitioners: A Practice Guide.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-334">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-334" aria-label="Anchor link">#</a>Original Source page 334</h2>
+    <div class="pair-links"><a href="#source-page-334-text">Jump to reflowable text for page 334</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="334">
+  <div class="source-page-header">
+    <span>Original Source page 334</span>
+    <a href="exact-pages/page-334.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-334.html" loading="lazy" title="Exact source page 334"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-334-text" aria-label="Reflowable Extracted Text for source page 334">
+    <h2><a class="anchor-link" href="#source-page-334-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 334</span></h2>
+    <h4 id="p334-9-2-4-determine-solution-ev-alua-tion-approach-tailoring-con"><a class="anchor-link" href="#p334-9-2-4-determine-solution-ev-alua-tion-approach-tailoring-con" aria-label="Anchor link">#</a>9.2.4 DETERMINE SOLUTION EV ALUA TION APPROACH: TAILORING CONSIDERA TIONS</h4>
+<p>Adaptive and predictive tailoring considerations for Determine Solution Evaluation Approach are described in T able 9-2.</p>
+<p>T able 9-2. Adaptive and Predictive Tailoring for Solution Evaluation Approach</p>
+<p>Aspects to</p>
+<p>T ypical Adaptive Considerations T ypical Predictive Considerations</p>
+<p>Be Ta ilored</p>
+<p>Name Not a formally named process Determine Solution Evaluation Approach Approach Considered part of initial planning and taken into The approach for Solution Ev aluation is defined account when defining acceptance criteria, as part of planning and prior to defining creating a definition of done, and during acceptance criteria. coordination with quality assurance. The decisions may be documented informally or discussed among the team.</p>
+<p>Deliverables Not aseparate deliverable. The solution ev aluation approach becomes a component of the business analysis plan.</p>
+<h4 id="p334-9-2-5-determine-solution-ev-alua-tion-approach-collabora-tio"><a class="anchor-link" href="#p334-9-2-5-determine-solution-ev-alua-tion-approach-collabora-tio" aria-label="Anchor link">#</a>9.2.5 DETERMINE SOLUTION EV ALUA TION APPROACH: COLLABORA TION POINT</h4>
+<p>Many roles can participate in determining the solution evaluation approach. Any mana ger whose area could be responsible for collecting, monitoring, evaluating, or funding the costs to obtain the performance data could participate in determining and approving the approach. Risk compliance and legal areas may provide requirements as to what needs to be measured, for how long, and for what length of time performance dataneed to be retained. Project sponsors alsoneed to be included because they hold different insights as funders and may have different priorities in terms of what they are willing to spend for Solution Evaluation. Operational leads may provide ideas for metrics and assess the ability of their operational areas to measure them and provide insights into the costs associated with collecting them.</p>
+<h3 id="p334-9-3-ev-alua-te-accept-ance-resul-ts-and-address-defects"><a class="anchor-link" href="#p334-9-3-ev-alua-te-accept-ance-resul-ts-and-address-defects" aria-label="Anchor link">#</a>9.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS</h3>
+<p>Evaluate Acceptance Results and Address Defects is the process of deciding what to do with the results from a comparison of the defined acceptance criteria against the solution. The key benefit of this process is that it allo ws for informed decision making about whether torelease all or part of asolution and whether to undertake changes, fixes, or enhancements to the product. The inputs, tools and techniques, and outputs for this process are shown in</p>
+<h4 id="p334-figure-9-7-figure-9-8-depicts-the-data-flo-w-diagram-for-the"><a class="anchor-link" href="#p334-figure-9-7-figure-9-8-depicts-the-data-flo-w-diagram-for-the" aria-label="Anchor link">#</a>Figure 9-7. Figure 9-8 depicts the data flo w diagram for the process.</h4>
+<p>To ols &amp; T echni qu es Inputs Output s.1 Acceptance criteria.1 Prioritization schemes.1 Evaluated acceptance results.2 Actual acceptance results.2 Root cause analysis.3 T raceability matrix.4 Variance analysis</p>
+<h4 id="p334-figure-9-7-evaluate-acceptance-results-and-address-defects-i"><a class="anchor-link" href="#p334-figure-9-7-evaluate-acceptance-results-and-address-defects-i" aria-label="Anchor link">#</a>Figure 9-7. Evaluate Acceptance Results and Address Defects: Inputs, T ools and Techniques, and Outputs</h4>
+  </section>
+</section>
+<section class="page-pair" id="source-page-335">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-335" aria-label="Anchor link">#</a>Original Source page 335</h2>
+    <div class="pair-links"><a href="#source-page-335-text">Jump to reflowable text for page 335</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="335">
+  <div class="source-page-header">
+    <span>Original Source page 335</span>
+    <a href="exact-pages/page-335.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-335.html" loading="lazy" title="Exact source page 335"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-335-text" aria-label="Reflowable Extracted Text for source page 335">
+    <h2><a class="anchor-link" href="#source-page-335-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 335</span></h2>
+    <p>Solution Evaluation</p>
+<p>7.4 Define Acceptance • Acceptance</p>
+<p>C riteria criteria 9.3</p>
+<p>Evaluate Acceptance Results and Address Defect s</p>
+<p>Product Acceptance • Evaluated acceptance results</p>
+<p>T esting • Actual acceptance results</p>
+<h3 id="p335-9-1-9-4"><a class="anchor-link" href="#p335-9-1-9-4" aria-label="Anchor link">#</a>9.1 9.4</h3>
+<p>Evaluate Obtain Solution Solution Acceptance for Pe rfor manc e Release</p>
+<h4 id="p335-figure-9-8-evaluate-acceptance-results-and-address-defects-d"><a class="anchor-link" href="#p335-figure-9-8-evaluate-acceptance-results-and-address-defects-d" aria-label="Anchor link">#</a>Figure 9-8. Evaluate Acceptance Results and Address Defects: Data Flow Diagram</h4>
+<p>This process compares the acceptance criteria and the actual results of acceptance testing to provide recommendations on how to deal with situations where aspects of asolution donot meet the acceptance criteriaspecified for it. It covers acceptance testing at any level of granularity, from something as big as an entire solution release to something as small as one business scenario (composed of one or more user stories). It focuses on the actual results from comparing acceptance testing to their acceptance criteria, rather than on the tests themselves. This distinction supports common practice in the industry, where organizations distinguish between roles that conduct business analysis and roles that perform testing. The pass/fail aspect of comparing actual results from acceptance testing to testing criteria is typically atask within the testing discipline. Business analysis is then needed to consider the magnitude and severity of the defects, to determine their root cause, to identify risks associated with them, and to identify and recommend ways to address them. As part of those recommendations, business analysis can consider the business impacts and costs incurred by repairing or working around the defects, along with potential business impacts and costs of deploying the solution without addressing the defects.</p>
+<p>The test results that are part of evaluating acceptance criteria and addressing defects may come from:</p>
+<ul><li>Explorator y tests and user acceptance tests,</li><li>Day-in-the-life (DITL) tests,</li><li>Preproduction or simulated production testing,</li><li>T ests of functionality within ascenario, and</li><li>T ests of nonfunctional requirements.</li></ul>
+<p>For more information about testing approaches, see Section 6.6 of Business Analysis for Practitioners: A Practice Guide.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-336">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-336" aria-label="Anchor link">#</a>Original Source page 336</h2>
+    <div class="pair-links"><a href="#source-page-336-text">Jump to reflowable text for page 336</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="336">
+  <div class="source-page-header">
+    <span>Original Source page 336</span>
+    <a href="exact-pages/page-336.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-336.html" loading="lazy" title="Exact source page 336"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-336-text" aria-label="Reflowable Extracted Text for source page 336">
+    <h2><a class="anchor-link" href="#source-page-336-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 336</span></h2>
+    <p>In organizations that conduct some form of ongoing monitoring and acceptance testing for quality, such as in manufacturing or construction, differences between actual results and acceptance criteria can be evaluated to look for trends and patterns in terms of increases or decreases in unacceptable results. For solutions that involve software, where an organization has adopted automated regression testing, it may be possible to spot trends and patterns in out-of-tolerance results.</p>
+<p>The evaluation process includes determining the root cause of any variance or defect. It may inc lude an analysis of the cost to address the defect and the business impact of addressing it or accepting it. Recommendations for how to address the defect can also be made and may include:</p>
+<ul><li>Potential workarounds to business practices or product usage that will not interfere with other product functionality or cause the product to behave in unintended ways;</li><li>Possible modifications to the product, which could require a change request;</li><li>Potential adjustments to how or which results are measured;</li><li>Identifying aneed to investigate the technical causes of the defect; and</li><li>Communications to customers and users to clarify how the product is expected to be used.</li></ul>
+<p>Activities to evaluate acceptance results and address defects generally occur at an y point at which a go/no-go or release decision needs to be made for asolution or a component of it. However, they may also occur while working with product defects discovered after the solution is put into operation.</p>
+<h4 id="p336-9-3-1-ev-alua-te-accept-ance-resul-ts-and-address-defects-in"><a class="anchor-link" href="#p336-9-3-1-ev-alua-te-accept-ance-resul-ts-and-address-defects-in" aria-label="Anchor link">#</a>9.3.1 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: INPUTS</h4>
+<h5 id="p336-9-3-1-1-accept-ance-criteria"><a class="anchor-link" href="#p336-9-3-1-1-accept-ance-criteria" aria-label="Anchor link">#</a>9.3.1.1 ACCEPT ANCE CRITERIA</h5>
+<p>Described in Section 7.4.3.1. Acceptance criteria are concrete and demonstrable conditions that have to be met for the business stakeholders or customers to accept the item. They may take the form of lists of acceptance criteria for each user story in an ada ptive approach or a list of higher -level acceptance criteria for arelease or solution in a predictive approach. Acceptance criteria are a key input because they indicate the conditions against which the solution is being tested.</p>
+<h5 id="p336-9-3-1-2-actual-accept-ance-resul-ts"><a class="anchor-link" href="#p336-9-3-1-2-actual-accept-ance-resul-ts" aria-label="Anchor link">#</a>9.3.1.2 ACTUAL ACCEPT ANCE RESUL TS</h5>
+<p>Actual acceptance results contain the pass/fail results from comparing test results against the acceptance criteria, often provided by a quality control team. In business analysis, the actual acceptance results are then analyzed to determine the reasons for any differences between the test results and acceptance criteria and torecommend how to address the defects. For organizations that conduct regression testing, regression test results may be valuable to analyze as well, as they may reveal situations where new or enhanced functionality impacts existing functionality.</p>
+<h4 id="p336-9-3-2-ev-alua-te-accept-ance-resul-ts-and-address-defects-to"><a class="anchor-link" href="#p336-9-3-2-ev-alua-te-accept-ance-resul-ts-and-address-defects-to" aria-label="Anchor link">#</a>9.3.2 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TOOLS AND TECHNIQUES</h4>
+<h5 id="p336-9-3-2-1-prioritiza-tion-schemes"><a class="anchor-link" href="#p336-9-3-2-1-prioritiza-tion-schemes" aria-label="Anchor link">#</a>9.3.2.1 PRIORITIZA TION SCHEMES</h5>
+<p>Prioritization schemes are different methods used to prioritize requirements, features, or any other product information. As part of addressing defects, prioritization schemes can be used torank each defect based on its</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-337">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-337" aria-label="Anchor link">#</a>Original Source page 337</h2>
+    <div class="pair-links"><a href="#source-page-337-text">Jump to reflowable text for page 337</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="337">
+  <div class="source-page-header">
+    <span>Original Source page 337</span>
+    <a href="exact-pages/page-337.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-337.html" loading="lazy" title="Exact source page 337"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-337-text" aria-label="Reflowable Extracted Text for source page 337">
+    <h2><a class="anchor-link" href="#source-page-337-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 337</span></h2>
+    <p>severity and how likely a user is to encounter it, as well as on the impact of not fixing the defect. For more information on prioritization schemes, see Section 7.7.2.5.</p>
+<h5 id="p337-9-3-2-2-roo-tcause-anal-ysis"><a class="anchor-link" href="#p337-9-3-2-2-roo-tcause-anal-ysis" aria-label="Anchor link">#</a>9.3.2.2 ROO TCAUSE ANALYSIS</h5>
+<p>Root cause analysis techniques are used to determine the reason for a variance or a defect. Root cause analysis techniques can be used to discover the reasons why actual results did not meet the acceptance criteria. These root cause reasons will alsofigure into decisions about whether or not to move forward to obtain solution acceptance for arelease. For more information on root cause analysis techniques, see Section 4.2.2.9. For an example of how root cause analysis can be applied to evaluating acceptance criteria and addressing defects, see Section 6.10.3 of Business Analysis for Practitioners: A Practice Guide.</p>
+<h5 id="p337-9-3-2-3-traceability-ma-trix"><a class="anchor-link" href="#p337-9-3-2-3-traceability-ma-trix" aria-label="Anchor link">#</a>9.3.2.3 TRACEABILITY MA TRIX</h5>
+<p>A traceability matrix is a grid that links product requirements from their origin to the deliverables that satisfy them. A traceability matrix can be used to establish relationships among product information, deliverables, and project work to ensure that each relates back to business objectives. As part of evaluating acceptance results, atraceability matrix can be used as atool to assess the business impact of not addressing variations from acceptance criteria and defects; for example, there could be asignificant business impact from not addressing defects associated with features that trace to a high-priority objective. For more information on traceability matrices, see Section 8.2.2.5.</p>
+<h5 id="p337-9-3-2-4-variance-analysis"><a class="anchor-link" href="#p337-9-3-2-4-variance-analysis" aria-label="Anchor link">#</a>9.3.2.4 VARIANCE ANALYSIS</h5>
+<p>Variance is a quantifiable deviation, departure, or divergence from a known baseline or expected value. V ariance analysis is atechnique for determining the cause and degree of difference between the baseline and actual performance. Irrespective of product life c ycle, when there are significant differences between the acceptance criteria and actual results from testing, variance analysis may be applied to consider causes of the differences. For more information on variance analysis, see Section 5.7.2.6.</p>
+<h4 id="p337-9-3-3-ev-alua-te-accept-ance-resul-ts-and-address-defects-ou"><a class="anchor-link" href="#p337-9-3-3-ev-alua-te-accept-ance-resul-ts-and-address-defects-ou" aria-label="Anchor link">#</a>9.3.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: OUTPUTS</h4>
+<h5 id="p337-9-3-3-1-ev-alua-ted-accept-ance-resul-ts"><a class="anchor-link" href="#p337-9-3-3-1-ev-alua-ted-accept-ance-resul-ts" aria-label="Anchor link">#</a>9.3.3.1 EV ALUA TED ACCEPT ANCE RESUL TS</h5>
+<p>Evaluated acceptance results provide asummarized comparison between the acceptance criteria and the actual acceptance results, along with the root cause for variances or defects, the analysis of the cost to address the defect, and the business impact of addressing it or accepting it. Some organizations will track the evaluated acceptance results and recommendations in logs. When evaluated acceptance results are communicated, recommendations about ways to address the defect may be included. For organizations that make it a practice to maintain documentation about their products and projects, another type of evaluated acceptance result can be obtained by comparing approved requirements to as-built documentation.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-338">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-338" aria-label="Anchor link">#</a>Original Source page 338</h2>
+    <div class="pair-links"><a href="#source-page-338-text">Jump to reflowable text for page 338</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="338">
+  <div class="source-page-header">
+    <span>Original Source page 338</span>
+    <a href="exact-pages/page-338.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-338.html" loading="lazy" title="Exact source page 338"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-338-text" aria-label="Reflowable Extracted Text for source page 338">
+    <h2><a class="anchor-link" href="#source-page-338-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 338</span></h2>
+    <h4 id="p338-9-3-4-ev-alua-te-accept-ance-resul-ts-and-address-defects-ta"><a class="anchor-link" href="#p338-9-3-4-ev-alua-te-accept-ance-resul-ts-and-address-defects-ta" aria-label="Anchor link">#</a>9.3.4 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TAILORING CONSIDERA TIONS</h4>
+<p>Adaptive and predictive tailoring considerations for Evaluate Acceptance Results and Address Defects are described in T able 9-3.</p>
+<p>T able 9-3. Adaptive and Predictive Tailoring for Evaluate Acceptance Results and Address Defects</p>
+<p>Aspects to</p>
+<p>T ypical Adaptive Considerations T ypical Predictive Considerations</p>
+<p>Be Ta ilored</p>
+<p>Name Not a formally named process; perfor med as part Ev aluate Acceptance Results and Address Defects of the work to demonstrate and obtain feedback on the solution</p>
+<p>Approach T ypically c ov ers aslice of product capabilities at a P erformed on asegment of the product that is to time, along with the acceptance criteria be delivered as part of arelease or the entire associated with those capabilities. Demonstrate product. Use ev aluated acceptance results and what was d ev eloped during the most recent the acceptance criteria as astarting point to iteration, obtain feedback from decision makers, determine root cause for variances or defects. and add defects that need to be addressed to Consider the costs to address the defects and the the backlog for prioritization. When conducted for business impacts of addressing or accepting aspecific user stor y, if the demonstration does them. Provide recommendations for ho w tonot pro ve conformance to the acceptance criteria, address the defects. the entire stor y can be rejected and retur ned to the backlog to be reprioritized.</p>
+<p>Deliverables Additions of defects to the backlog. Documentation of ev aluated acceptance results, along with an y associated change requests.</p>
+<h4 id="p338-9-3-5-ev-alua-te-accept-ance-resul-ts-and-address-defects-co"><a class="anchor-link" href="#p338-9-3-5-ev-alua-te-accept-ance-resul-ts-and-address-defects-co" aria-label="Anchor link">#</a>9.3.5 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: COLLABORA TION POINT</h4>
+<p>Many roles collaborate with the business analyst when evaluating acceptance results and determining how to address identified defects. Developers, designers, quality control analysts, and subject matter experts (SMEs) from the business or operational areas may have insights on reasons for a variance between actual results and the expected results. Any role involved in identification, prioritization, or adjudication of change requests, such as an individual on a change control team, might take leadership for addressing defects in consultation with those responsible for business analysis.</p>
+<h3 id="p338-9-4-obt-ain-solution-accept-ance-for-release"><a class="anchor-link" href="#p338-9-4-obt-ain-solution-accept-ance-for-release" aria-label="Anchor link">#</a>9.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE</h3>
+<p>Obtain Solution Acceptance for Release is the process of facilitating a decision on whether torelease a partial or full solution into production and eventually to an operational team, as well as transitioning knowledge and existing information about the product, its risks, known issues, and any workarounds that may have arisen in response to those issues. The key benefit of this process is the creation of an agreed-upon break between building asolution and releasing asolution for acceptance by the stakeholders. The inputs, tools and techniques, and outputs for this process are shown in Figure 9-9. F igure 9-10 depicts the data flo w diagram for the process.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-339">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-339" aria-label="Anchor link">#</a>Original Source page 339</h2>
+    <div class="pair-links"><a href="#source-page-339-text">Jump to reflowable text for page 339</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="339">
+  <div class="source-page-header">
+    <span>Original Source page 339</span>
+    <a href="exact-pages/page-339.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-339.html" loading="lazy" title="Exact source page 339"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-339-text" aria-label="Reflowable Extracted Text for source page 339">
+    <h2><a class="anchor-link" href="#source-page-339-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 339</span></h2>
+    <p>Tools &amp; Technique s Inputs Outputs.1 Approved requirements.1 Facilitated workshops.1 Release decision.2 Evaluated acceptance results.2 Group decision-making.3 Product risk analysis techniques.4 Readiness assessment.5 Stakeholder engagement and communication approach.6 T ransition plan</p>
+<h4 id="p339-figure-9-9-obtain-solution-acceptance-for-release-inputs-t-o"><a class="anchor-link" href="#p339-figure-9-9-obtain-solution-acceptance-for-release-inputs-t-o" aria-label="Anchor link">#</a>Figure 9-9. Obtain Solution Acceptance for Release: Inputs, T ools and Techniques, and Outputs</h4>
+<p>Solution Evaluation</p>
+<h3 id="p339-5-3-9-3"><a class="anchor-link" href="#p339-5-3-9-3" aria-label="Anchor link">#</a>5.3 9.3</h3>
+<p>Determin e Evaluate Stak e holder Acceptance Engagement and Results and • Stakeholder Address Defects</p>
+<p>Communication engagement an d</p>
+<p>Approach communication approach • Evaluated acceptance results</p>
+<p>5.5 Prepare for T ransition to • Readiness 9.4</p>
+<p>Future State assessment Obtain Solution Enter p rise/ • T ransition plan Acceptance for Organization</p>
+<p>Release • Release decision</p>
+<p>7.8 Identify and Analyze Product • Product risk</p>
+<p>Risks analysis</p>
+<p>8.3 Select and Approve • Approved</p>
+<p>Requirements requirements</p>
+<h4 id="p339-figure-9-10-obtain-solution-acceptance-for-release-data-flow"><a class="anchor-link" href="#p339-figure-9-10-obtain-solution-acceptance-for-release-data-flow" aria-label="Anchor link">#</a>Figure 9-10. Obtain Solution Acceptance for Release: Data Flow Diagram</h4>
+<p>Obtaining solution acceptance for arelease provides the stakeholders who are accountable for the product with an opportunity to decide whether it should be released in whole, in part, or not at all.</p>
+<p>For solution acceptance, the term release may refer toreleasing asolution or asegment of asolution into a production environment while its development team is still responsible for it. It can alsorefer toreleasing asolution or asegment of it to the operational areathat will take responsibility for it.</p>
+<p>Release decisions are typically based upon:</p>
+<ul><li>Acceptability of the solution, as evidenced by the evaluated acceptance results;</li><li>Confirmation that the organization is ready for the release;</li></ul>
+  </section>
+</section>
+<section class="page-pair" id="source-page-340">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-340" aria-label="Anchor link">#</a>Original Source page 340</h2>
+    <div class="pair-links"><a href="#source-page-340-text">Jump to reflowable text for page 340</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="340">
+  <div class="source-page-header">
+    <span>Original Source page 340</span>
+    <a href="exact-pages/page-340.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-340.html" loading="lazy" title="Exact source page 340"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-340-text" aria-label="Reflowable Extracted Text for source page 340">
+    <h2><a class="anchor-link" href="#source-page-340-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 340</span></h2>
+    <ul><li>Confirmation that the transition activities to prepare for the release have been completed to the degree necessary, inc luding the coordination of this solution release with an y other releases that are happening concurrently; and</li><li>Acceptance of any remaining product risks and workarounds.</li></ul>
+<p>A decision torelease asolution to its operational arearequires confirmation of the completion of an y warranty period that may have been established. A warranty period is an inter val of time during which the product development team is responsible for addressing any defects found after the solution is released for production.</p>
+<p>Depending on organizational norms, obtaining arelease decision may include obtaining sign-off. For an iterative or adaptive project life cycle, informal sign-off generally occurs at the end of each sprint or iteration, with formal sign-off, when required, occurring prior to each release of the solution to the production environment. For a predictive project life cycle, sign-off usually occurs at the end of the project life cycle, either immediately prior torelease to production or post release after the warranty period is complete.</p>
+<h4 id="p340-9-4-1-obt-ain-solution-accept-ance-for-release-inputs"><a class="anchor-link" href="#p340-9-4-1-obt-ain-solution-accept-ance-for-release-inputs" aria-label="Anchor link">#</a>9.4.1 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: INPUTS</h4>
+<h5 id="p340-9-4-1-1-approved-requirements"><a class="anchor-link" href="#p340-9-4-1-1-approved-requirements" aria-label="Anchor link">#</a>9.4.1.1 APPROVED REQUIREMENTS</h5>
+<p>Described in Section 8.3.3.1. Approved requirements are requirements that are verified, validated, and deemed an accurate representation of what the product development team should build. Approved requirements provide the baseline for comparisons made in release decisions between what was approved for the solution and what was actually implemented in the product.</p>
+<h5 id="p340-9-4-1-2-ev-alua-ted-accept-ance-resul-ts"><a class="anchor-link" href="#p340-9-4-1-2-ev-alua-ted-accept-ance-resul-ts" aria-label="Anchor link">#</a>9.4.1.2 EV ALUA TED ACCEPT ANCE RESUL TS</h5>
+<p>Described in Section 9.3.3.1. Evaluated acceptance results provide asummarized comparison between the acceptance criteria and the actual results, along with the root cause for variances or defects, the analysis of the cost to address the defect, and the business impact of addressing it or accepting it. For solutions developed using an adaptive life cycle, the definition of done is also part of these results.</p>
+<p>Evaluated acceptance results provide concrete evidence of whether or not the solution has met or exceeded expectations. Any recommendations within evaluated acceptance results for how to deal with the discrepancies may impact when and whether asolution is accepted for release.</p>
+<h5 id="p340-9-4-1-3-product-risk-analysis"><a class="anchor-link" href="#p340-9-4-1-3-product-risk-analysis" aria-label="Anchor link">#</a>9.4.1.3 PRODUCT RISK ANALYSIS</h5>
+<p>Described in Section 7.8.3.1. The product risk analysis inc ludes the consolidated results from identifying and analyzing product risks. The product risk analysis consists of the recommended responses to manage and control potential threats and strategies to take advanta ge of potential opportunities related to the product. This context is required when seeking solution acceptance for arelease to determine the degree to which the product risks have been addressed. Product risks not addressed within the duration of the project may be transferred to operational teams to manage going forward.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-341">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-341" aria-label="Anchor link">#</a>Original Source page 341</h2>
+    <div class="pair-links"><a href="#source-page-341-text">Jump to reflowable text for page 341</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="341">
+  <div class="source-page-header">
+    <span>Original Source page 341</span>
+    <a href="exact-pages/page-341.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-341.html" loading="lazy" title="Exact source page 341"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-341-text" aria-label="Reflowable Extracted Text for source page 341">
+    <h2><a class="anchor-link" href="#source-page-341-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 341</span></h2>
+    <h5 id="p341-9-4-1-4-readiness-assessment"><a class="anchor-link" href="#p341-9-4-1-4-readiness-assessment" aria-label="Anchor link">#</a>9.4.1.4 READINESS ASSESSMENT</h5>
+<p>Described in Section 5.5.3.1. A readiness assessment is an evaluation of how well an organization is prepared for a change. It provides an evaluation of the ability of an organization to transition to the future state enabled by the solution. It also identifies risks to achieving readiness for the transition, and may also propose responses for how to address those risks. Consideration of whether any unaddressed readiness risks remain and whether the organization is truly ready for the release at the proposed point in time will figure intorelease decisions.</p>
+<h5 id="p341-9-4-1-5-stakeholder-engagement-and-communication-approach"><a class="anchor-link" href="#p341-9-4-1-5-stakeholder-engagement-and-communication-approach" aria-label="Anchor link">#</a>9.4.1.5 STAKEHOLDER ENGAGEMENT AND COMMUNICATION APPROACH</h5>
+<p>Described in Section 5.3.3.1. The stakeholder engagement and communication a pproach summarizes all the agreements for governing how stakeholders will be enga ged and communicated with across the portfolio, program, or project. The stakeholder engagement and communication approach includes information about which roles are accountable for the release decision and how the release decision will be made.</p>
+<h5 id="p341-9-4-1-6-transition-plan"><a class="anchor-link" href="#p341-9-4-1-6-transition-plan" aria-label="Anchor link">#</a>9.4.1.6 TRANSITION PLAN</h5>
+<p>Described in Section 5.5.3.2. A transition plan is based on the readiness assessment as well as the transition strategy. It covers development of all the communication, rollout, training and user documentation procedure updates, business recovery updates, and other collateral and final production tasks needed to successfully cut over and adapt to the future state. It provides the information needed to coordinate and ensure that the release of the solution will occur at atime when the business can accept the changes and that an y interruptions caused by the transition itself are not in conflict with other in-process programs and project work.</p>
+<p>At a minimum, atransition plan would inc lude a checklist of transition activities with "no later than" completion dates. When formalized, atransition plan would have aschedule developed in collaboration with and mana ged by those responsible for project management and operations. On projects using an adaptive delivery approach, rather than developing a formal transition plan, transition planning may manifest itself in setting up areserved block of time or specific iteration to work through transition details, coordinating this time with the operational areathat will own the product. For solutions involving software, this effort often inc ludes time to clean up "technical debt, " the tactical workarounds within the solution that could result in a product that would be difficult to maintain or enhance over time. A very important part of obtaining solution acceptance involves confirming that the transition activities have been completed.</p>
+<h4 id="p341-9-4-2-obt-ain-solution-accept-ance-for-release-tools-and-tec"><a class="anchor-link" href="#p341-9-4-2-obt-ain-solution-accept-ance-for-release-tools-and-tec" aria-label="Anchor link">#</a>9.4.2 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TOOLS AND TECHNIQUES</h4>
+<h5 id="p341-9-4-2-1-facilit-ated-workshops"><a class="anchor-link" href="#p341-9-4-2-1-facilit-ated-workshops" aria-label="Anchor link">#</a>9.4.2.1 FACILIT ATED WORKSHOPS</h5>
+<p>Facilitated workshops use astructured meeting led by askilled, neutral facilitator and a carefully selected group of stakeholders to collaborate and work toward astated objective. Whenever possible, release decisions should be made during a facilitated workshop to allow all stakeholders to hear the rationale for the decisions made. The individuals who evaluated the acceptance criteriashould attend and contribute to decision making. It can be helpful to provide summarized information in tabular or visual form (i.e., charts/graphs/pictorial) whenever possible, to help decision makers render their decisions. Summarizing the evaluated acceptance results, along with the remaining product and readiness risks, incomplete transition activities, and any gaps between approved requirements and what the solution will deliver, provides decision makers with the necessary information torender a decision more quickly. For more information on facilitated workshops, see Section 6.3.2.4.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-342">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-342" aria-label="Anchor link">#</a>Original Source page 342</h2>
+    <div class="pair-links"><a href="#source-page-342-text">Jump to reflowable text for page 342</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="342">
+  <div class="source-page-header">
+    <span>Original Source page 342</span>
+    <a href="exact-pages/page-342.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-342.html" loading="lazy" title="Exact source page 342"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-342-text" aria-label="Reflowable Extracted Text for source page 342">
+    <h2><a class="anchor-link" href="#source-page-342-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 342</span></h2>
+    <h5 id="p342-9-4-2-2-group-decision-making-techniques"><a class="anchor-link" href="#p342-9-4-2-2-group-decision-making-techniques" aria-label="Anchor link">#</a>9.4.2.2 GROUP DECISION-MAKING TECHNIQUES</h5>
+<p>Group decision-making techniques are used in a group setting to bring participants to a final decision on an issue or topic under discussion. T o make the release decision, group decision making is conducted using an agreed-upon model for reaching a decision. The decision model should be identified as part of the stakeholder engagement and communication approach. For more information on group decision-making techniques, see Section 8.3.2.7.</p>
+<h4 id="p342-9-4-3-obt-ain-solution-accept-ance-for-release-outputs"><a class="anchor-link" href="#p342-9-4-3-obt-ain-solution-accept-ance-for-release-outputs" aria-label="Anchor link">#</a>9.4.3 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: OUTPUTS</h4>
+<h5 id="p342-9-4-3-1-release-decision"><a class="anchor-link" href="#p342-9-4-3-1-release-decision" aria-label="Anchor link">#</a>9.4.3.1 RELEASE DECISION</h5>
+<p>A release decision may permit the release or partial release of the solution, delay it, or disapprove and prevent it. A release decision often includes asign-off. The formality of the sign-off depends upon the type of project, the type of product, the project life c ycle, the scale of the release, and corporate and regulatory constraints. Organizations with informal sign-off practices need to obtain sign-off in the manner that is acceptable to the organization. For more information on the format of asign-off and typical situations where a formal sign-off is required, see Section 6.9 in Business Analysis for Practitioners: A Practice Guide.</p>
+<h4 id="p342-9-4-4-obt-ain-solution-accept-ance-for-release-tailoring-con"><a class="anchor-link" href="#p342-9-4-4-obt-ain-solution-accept-ance-for-release-tailoring-con" aria-label="Anchor link">#</a>9.4.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TAILORING CONSIDERA TIONS</h4>
+<p>Adaptive and predictive tailoring considerations for Obtain Solution Acceptance for Release are described in T able 9-4.</p>
+<p>T able 9-4. Adaptive and Predictive Tailoring for Obtain Solution Acceptance for Release</p>
+<p>Aspects to</p>
+<p>T ypical Adaptive Considerations T ypical Predictive Considerations</p>
+<p>Be Ta ilored</p>
+<p>Name Not a formally named process; perfor med as part Obtain Solution Acceptance for Release of Demonstration and Feedback. For larg e-scale implementations, there may be a formal process to obtain solution acceptance for release</p>
+<p>Approach Often, verbal appro v al alone is obtained with the A formal meeting toreview inputs and render a product owner, as part of demonstration and decision on an entire solution or asubstantial feedback, that asolution or solutionsegment segment of asolution, as part of a phased meets the definition of done and can be released release. This formal meeting to make the release to production. For a full solution release using an decision may be part of an ov erall release adaptive life cycle, the approach may match what management approach, which coordinates the is done in a predictive life cycle. Some larg e release of all products. organizations are mo ving to a DevOps approach, to coordinate activities and impro ve collaboration between de velopment and operational areas. DevOps may also use automated practices to support release management, such as continuous integration and automated reg ression testing. These approaches can streamline the wa y organizations push releases to production and can make arelease almost seamless with its approv al.</p>
+<p>Deliverables Release decision with what eve r l ev el of formality of documentation is required.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-343">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-343" aria-label="Anchor link">#</a>Original Source page 343</h2>
+    <div class="pair-links"><a href="#source-page-343-text">Jump to reflowable text for page 343</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="343">
+  <div class="source-page-header">
+    <span>Original Source page 343</span>
+    <a href="exact-pages/page-343.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-343.html" loading="lazy" title="Exact source page 343"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-343-text" aria-label="Reflowable Extracted Text for source page 343">
+    <h2><a class="anchor-link" href="#source-page-343-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 343</span></h2>
+    <h4 id="p343-9-4-5-obt-ain-solution-accept-ance-for-release-collabora-tio"><a class="anchor-link" href="#p343-9-4-5-obt-ain-solution-accept-ance-for-release-collabora-tio" aria-label="Anchor link">#</a>9.4.5 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: COLLABORA TION POINT</h4>
+<p>Business analysts collaborate with several roles when obtaining solution acceptance for arelease. For formal solution acceptance approaches, arelease management organization might be responsible for coordinating all release- related activities, including obtaining solution acceptance. In many organizations, someone in a project management role is typically accountable to obtain the sign-off. Operational managers may confirm that all business transition considerations have been sufficiently addressed and that they are comfortable with the solution and any workarounds associated with it. Quality control may be consulted to confirm that all product testing concerns have been sufficiently addressed, and architects and designers may be consulted to confirm that technical product concerns have been sufficiently addressed. For informal solution acceptance, project teams may make the release decision part of a demo and feedback process in collaboration with other product team members in participation.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-344">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-344" aria-label="Anchor link">#</a>Original Source page 344</h2>
+    <div class="pair-links"><a href="#source-page-344-text">Jump to reflowable text for page 344</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="344">
+  <div class="source-page-header">
+    <span>Original Source page 344</span>
+    <a href="exact-pages/page-344.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-344.html" loading="lazy" title="Exact source page 344"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-344-text" aria-label="Reflowable Extracted Text for source page 344">
+    <h2><a class="anchor-link" href="#source-page-344-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 344</span></h2>
+    <p class="empty-note">No clean reflowable text could be extracted from this source page. Use the exact source page above for visual reference.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-345">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-345" aria-label="Anchor link">#</a>Original Source page 345</h2>
+    <div class="pair-links"><a href="#source-page-345-text">Jump to reflowable text for page 345</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="345">
+  <div class="source-page-header">
+    <span>Original Source page 345</span>
+    <a href="exact-pages/page-345.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-345.html" loading="lazy" title="Exact source page 345"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-345-text" aria-label="Reflowable Extracted Text for source page 345">
+    <h2><a class="anchor-link" href="#source-page-345-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 345</span></h2>
+    <h2 id="p345-references"><a class="anchor-link" href="#p345-references" aria-label="Anchor link">#</a>REFERENCES</h2>
+<p>[1] Project Management Institute. 2016. PMI’s Pulse of the Profession In-Depth Report: Requirements</p>
+<p>Management: A Core Competency for Project and Program Success. Newtown Square, P A: Author. [2] Project Management Institute. 2017. PMI Pulse Report: Success Rates Rise—Transforming the High Cost of</p>
+<p>Low Performance. Newtown Square, P A: Author. [3] Project Management Institute. 2017. Business Analysis: Leading Organizations to Better Outcomes. Newtown</p>
+<p>Square, P A: Author. [4] Project Management Institute. 2017. The Standard for Business Analysis. Newtown Square, P A: Author. [5] Project Management Institute. 2017. A Guide to the Project Management Body of Kno wledge (PMBOK</p>
+<p>Guide) – Sixth Edition. Newtown Square, P A: Author. [6] Project Management Institute. 2017. The Standard for Program Management – Fourth Edition. Newtown</p>
+<p>Square, P A: Author. [7] Project Management Institute. 2017. The Standard for Portfolio Management – F ourth Edition. Newtown</p>
+<p>Square, P A: Author. [8] Project Management Institute. In Review. The Standard for Organizational Project Management. Newtown</p>
+<p>Square, P A: Author. [9] Project Management Institute. 2015. Business Analysis for Practitioners: A Practice Guide. Newtown Square,</p>
+<p>P A: Author.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-346">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-346" aria-label="Anchor link">#</a>Original Source page 346</h2>
+    <div class="pair-links"><a href="#source-page-346-text">Jump to reflowable text for page 346</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="346">
+  <div class="source-page-header">
+    <span>Original Source page 346</span>
+    <a href="exact-pages/page-346.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-346.html" loading="lazy" title="Exact source page 346"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-346-text" aria-label="Reflowable Extracted Text for source page 346">
+    <h2><a class="anchor-link" href="#source-page-346-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 346</span></h2>
+    <p class="empty-note">No clean reflowable text could be extracted from this source page. Use the exact source page above for visual reference.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-347">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-347" aria-label="Anchor link">#</a>Original Source page 347</h2>
+    <div class="pair-links"><a href="#source-page-347-text">Jump to reflowable text for page 347</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="347">
+  <div class="source-page-header">
+    <span>Original Source page 347</span>
+    <a href="exact-pages/page-347.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-347.html" loading="lazy" title="Exact source page 347"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-347-text" aria-label="Reflowable Extracted Text for source page 347">
+    <h2><a class="anchor-link" href="#source-page-347-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 347</span></h2>
+    <h3 id="p347-p-art-2"><a class="anchor-link" href="#p347-p-art-2" aria-label="Anchor link">#</a>P art 2</h3>
+<h3 id="p347-the-standard-for"><a class="anchor-link" href="#p347-the-standard-for" aria-label="Anchor link">#</a>The Standard for</h3>
+<h3 id="p347-business-analysis"><a class="anchor-link" href="#p347-business-analysis" aria-label="Anchor link">#</a>Business Analysis</h3>
+<p>The information contained in this part is not an American National Standard (ANS) and has not been processed in accordance with ANSI’s requirements for an ANS. As such, the information in this part may contain material that has not been subjected to public review or a consensus process. In addition, it does not contain requirements necessary for conformance to an ANS standard.</p>
+  </section>
+</section>
+<section class="page-pair" id="source-page-348">
+  <div class="pair-heading">
+    <h2><a class="anchor-link" href="#source-page-348" aria-label="Anchor link">#</a>Original Source page 348</h2>
+    <div class="pair-links"><a href="#source-page-348-text">Jump to reflowable text for page 348</a></div>
+  </div>
+  <section class="source-page-block expanded" data-source-page="348">
+  <div class="source-page-header">
+    <span>Original Source page 348</span>
+    <a href="exact-pages/page-348.html" target="_blank" rel="noopener">Open exact original page view</a>
+    <button class="source-toggle" type="button">Collapse source page</button>
+  </div>
+  <div class="source-page-body">
+    <iframe class="source-page-frame" src="exact-pages/page-348.html" loading="lazy" title="Exact source page 348"></iframe>
+  </div>
+</section>
+  <section class="page-extracted-text" id="source-page-348-text" aria-label="Reflowable Extracted Text for source page 348">
+    <h2><a class="anchor-link" href="#source-page-348-text" aria-label="Anchor link">#</a>Reflowable Extracted Text <span class="source-small">Source page 348</span></h2>
+    <p class="empty-note">No clean reflowable text could be extracted from this source page. Use the exact source page above for visual reference.</p>
+  </section>
+</section>
+<section class="quiz" id="generated-quiz"><h2>Generated Quiz</h2><p class="quiz-note">This quiz is generated for study purposes and is not part of the original source HTML.</p><section class="quiz-group" data-quiz-group="10-part-1-chapter-9-solution-evaluation-hard"><h3>Hard Questions</h3><div class="quiz-actions"><button class="quiz-btn" type="button" data-quiz-action="retest">Retest</button><button class="quiz-btn" type="button" data-quiz-action="retest-failed">Retest failed questions</button></div><div class="quiz-score">Answered: 0 · Correct: 0 · Incorrect: 0 · Score: 0%</div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hard-1" data-explanation="The best answer reflects the related idea from this source segment: The section emphasizes SOLUTION EVALUATION.">
+<div class="question-title">Hard 1. Which statement is best supported by this section?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Focus primarily on part 1 · chapter 1 — introduction without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Focus primarily on front matter and table of contents without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="2" data-correct="true"><span class="letter">C</span><span>The section emphasizes SOLUTION EVALUATION.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Focus primarily on part 1 · chapter 4 — needs assessment without linking it to the rest of the analysis.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: SOLUTION EVALUATION</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hard-2" data-explanation="The best answer reflects the related idea from this source segment: Solution Evaluation includes the processes to validate a full solution or a segment of a solution that is about to be or has already been implemented.">
+<div class="question-title">Hard 2. Which interpretation best aligns with the current source content?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Treat the activity as a one-time documentation task with no stakeholder feedback.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Focus primarily on part 1 · chapter 4 — needs assessment without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus primarily on part 1 · chapter 2 — the environment in which business analysis is conducted without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="3" data-correct="true"><span class="letter">D</span><span>Solution Evaluation includes the processes to validate a full solution or a segment of a solution that is about to be or has already been implemented.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.1 Evaluate Solution P erformance —The process of evaluating a solution to determinewhether the</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hard-3" data-explanation="The best answer reflects the related idea from this source segment: Evaluation determines ho w well a solution meets the business needs expressed by stakeholders, including delivering value to the customer.">
+<div class="question-title">Hard 3. What is the most appropriate takeaway for a business analysis practitioner?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="true"><span class="letter">A</span><span>Evaluation determines ho w well a solution meets the business needs expressed by stakeholders, including delivering value to the customer.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Focus primarily on part 1 · chapter 1 — introduction without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus primarily on part 1 · chapter 3 — the role of the business analyst without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Focus primarily on part 1 · chapter 2 — the environment in which business analysis is conducted without linking it to the rest of the analysis.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hard-4" data-explanation="The best answer reflects the related idea from this source segment: The section emphasizes 9.1 Evaluate Solution P erformance —The process of evaluating a solution to determinewhether the.">
+<div class="question-title">Hard 4. Which action would most likely fit the guidance in this section?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Replace collaboration with isolated individual judgment.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Skip analysis and rely only on implementation details after the solution is built.</span></button><button type="button" class="option" data-index="2" data-correct="true"><span class="letter">C</span><span>The section emphasizes 9.1 Evaluate Solution P erformance —The process of evaluating a solution to determinewhether the.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Assume all requirements are stable and avoid monitoring changes.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hard-5" data-explanation="The best answer reflects the related idea from this source segment: implemented solution or solution component is delivering the business value as intended.">
+<div class="question-title">Hard 5. Which choice best reflects the emphasis of this chapter or section?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Focus primarily on part 1 · chapter 2 — the environment in which business analysis is conducted without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="1" data-correct="true"><span class="letter">B</span><span>implemented solution or solution component is delivering the business value as intended.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus only on schedule completion and ignore business value, risk, and acceptance.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Focus primarily on front matter and table of contents without linking it to the rest of the analysis.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether to release</div></div></section><section class="quiz-group" data-quiz-group="10-part-1-chapter-9-solution-evaluation-hardest"><h3>Hardest Questions</h3><div class="quiz-actions"><button class="quiz-btn" type="button" data-quiz-action="retest">Retest</button><button class="quiz-btn" type="button" data-quiz-action="retest-failed">Retest failed questions</button></div><div class="quiz-score">Answered: 0 · Correct: 0 · Incorrect: 0 · Score: 0%</div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hardest-1" data-explanation="The best answer reflects the related idea from this source segment: The section emphasizes 9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the.">
+<div class="question-title">Hardest 1. In a scenario where the team must apply this section, which choice best preserves the intended business analysis value?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Treat the activity as a one-time documentation task with no stakeholder feedback.</span></button><button type="button" class="option" data-index="1" data-correct="true"><span class="letter">B</span><span>The section emphasizes 9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus primarily on part 1 · chapter 4 — needs assessment without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Focus primarily on front matter and table of contents without linking it to the rest of the analysis.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 278 The PMI Guide to Business Analysis</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hardest-2" data-explanation="The best answer reflects the related idea from this source segment: organization and/or solution will be evaluated, how performance will be measured, when performance will be measured, and by whom.">
+<div class="question-title">Hardest 2. Which reasoning best connects the section’s guidance to project or product outcomes?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="true"><span class="letter">A</span><span>organization and/or solution will be evaluated, how performance will be measured, when performance will be measured, and by whom.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Focus primarily on part 1 · chapter 3 — the role of the business analyst without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Use a single fixed method regardless of context, risk, constraints, or life cycle.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Assume all requirements are stable and avoid monitoring changes.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.1 Evaluate</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hardest-3" data-explanation="The best answer reflects the related idea from this source segment: The section emphasizes 9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the.">
+<div class="question-title">Hardest 3. Which decision would be the strongest application of this section’s ideas?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Treat the activity as a one-time documentation task with no stakeholder feedback.</span></button><button type="button" class="option" data-index="1" data-correct="true"><span class="letter">B</span><span>The section emphasizes 9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus primarily on part 1 · chapter 1 — introduction without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Assume all requirements are stable and avoid monitoring changes.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.2 Determine Solution</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hardest-4" data-explanation="The best answer reflects the related idea from this source segment: results from a comparison of the defined acceptance criteria against the solution.">
+<div class="question-title">Hardest 4. Which conclusion would be least likely to create rework or misalignment?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="false"><span class="letter">A</span><span>Focus primarily on part 1 · chapter 2 — the environment in which business analysis is conducted without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="1" data-correct="true"><span class="letter">B</span><span>results from a comparison of the defined acceptance criteria against the solution.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Use a single fixed method regardless of context, risk, constraints, or life cycle.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Treat the activity as a one-time documentation task with no stakeholder feedback.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.3 Evaluate</div></div><div class="question" data-qid="10-part-1-chapter-9-solution-evaluation-hardest-5" data-explanation="The best answer reflects the related idea from this source segment: The section emphasizes 9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether to release.">
+<div class="question-title">Hardest 5. Which option best reflects a nuanced interpretation of this source section?</div><div class="options"><button type="button" class="option" data-index="0" data-correct="true"><span class="letter">A</span><span>The section emphasizes 9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether to release.</span></button><button type="button" class="option" data-index="1" data-correct="false"><span class="letter">B</span><span>Focus primarily on part 1 · chapter 3 — the role of the business analyst without linking it to the rest of the analysis.</span></button><button type="button" class="option" data-index="2" data-correct="false"><span class="letter">C</span><span>Focus only on schedule completion and ignore business value, risk, and acceptance.</span></button><button type="button" class="option" data-index="3" data-correct="false"><span class="letter">D</span><span>Focus primarily on part 1 · chapter 2 — the environment in which business analysis is conducted without linking it to the rest of the analysis.</span></button></div><div class="feedback"></div><div class="source-ref">Related source: 9.4 Obtain Solution</div></div></section></section>
+<nav class="nav-row"><a href="index.html">Back to index</a>
+<a href="print.html">Print version</a>
+<a href="09-part-1-chapter-8-traceability-and-monitoring.html">← Previous</a>
+<a href="11-part-2-chapter-1-introduction.html">Next →</a></nav>
+</article></main>
+<aside class="local-toc"><h2>On this page</h2>
+<a class="toc-page" href="#source-page-321">Source page 321</a>
+<a class="toc-level-2" href="#p321-solution-ev-alua-tion">SOLUTION EV ALUA TION</a>
+<a class="toc-level-3" href="#p321-9-1-evaluate-solution-p-erformance-the-process-of-evaluating">9.1 Evaluate Solution P erformance —The process of evaluating asolution to determine whether the</a>
+<a class="toc-level-3" href="#p321-9-2-determine-solution-evaluation-approach-the-process-of-de">9.2 Determine Solution Evaluation Approach —The process of determining which aspects of the</a>
+<a class="toc-level-3" href="#p321-9-3-evaluate-acceptance-results-and-address-defects-the-proc">9.3 Evaluate Acceptance Results and Address Defects —The process of deciding what to do with the</a>
+<a class="toc-level-3" href="#p321-9-4-obtain-solution-acceptance-for-release-the-process-of-fa">9.4 Obtain Solution Acceptance for Release —The process of facilitating a decision on whether torelease</a>
+<a class="toc-level-4" href="#p321-figure-9-1-provides-an-overview-of-the-solution-evaluation-p">Figure 9-1 provides an overview of the Solution Evaluation processes. The business analysis processes are</a>
+<a class="toc-page" href="#source-page-322">Source page 322</a>
+<a class="toc-level-3" href="#p322-9-1-evaluate-9-2-determine-solution-9-3-evaluate">9.1 Evaluate 9.2 Determine Solution 9.3 Evaluate</a>
+<a class="toc-level-4" href="#p322-figure-9-1-solution-evaluation-overview">Figure 9-1. Solution Evaluation Overview</a>
+<a class="toc-level-3" href="#p322-key-concepts-for-solution-ev-alua-tion">KEY CONCEPTS FOR SOLUTION EV ALUA TION</a>
+<a class="toc-page" href="#source-page-323">Source page 323</a>
+<a class="toc-page" href="#source-page-324">Source page 324</a>
+<a class="toc-level-3" href="#p324-9-1-ev-alua-te-solution-performance">9.1 EV ALUA TE SOLUTION PERFORMANCE</a>
+<a class="toc-level-4" href="#p324-figure-9-2-evaluate-solution-p-erformance-inputs-t-ools-and">Figure 9-2. Evaluate Solution P erformance: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p324-4-3-solution-evaluation">4.3 • Solution evaluation</a>
+<a class="toc-level-3" href="#p324-4-6-evaluated-results-and">4.6 • Evaluated Results and</a>
+<a class="toc-level-3" href="#p324-9-1-4-1">9.1 4.1</a>
+<a class="toc-level-4" href="#p324-figure-9-3-evaluate-solution-p-erformance-data-flow-diagram">Figure 9-3. Evaluate Solution P erformance: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-325">Source page 325</a>
+<a class="toc-level-4" href="#p325-9-1-1-ev-alua-te-solution-performance-inputs">9.1.1 EV ALUA TE SOLUTION PERFORMANCE: INPUTS</a>
+<a class="toc-level-5" href="#p325-9-1-1-1-business-case">9.1.1.1 BUSINESS CASE</a>
+<a class="toc-level-5" href="#p325-9-1-1-2-business-goals-and-objectives">9.1.1.2 BUSINESS GOALS AND OBJECTIVES</a>
+<a class="toc-page" href="#source-page-326">Source page 326</a>
+<a class="toc-level-5" href="#p326-9-1-1-3-ev-alua-ted-accept-ance-resul-ts">9.1.1.3 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-5" href="#p326-9-1-1-4-performance-da-t-a">9.1.1.4 PERFORMANCE DA T A</a>
+<a class="toc-level-5" href="#p326-9-1-1-5-solution-ev-alua-tion-appro-ach">9.1.1.5 SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-page" href="#source-page-327">Source page 327</a>
+<a class="toc-level-4" href="#p327-9-1-2-ev-alua-te-solution-performance-tools-and-techniques">9.1.2 EV ALUA TE SOLUTION PERFORMANCE: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p327-9-1-2-1-cost-benefit-analysis">9.1.2.1 COST -BENEFIT ANALYSIS</a>
+<a class="toc-level-5" href="#p327-9-1-2-2-elicit-ation-techniques">9.1.2.2 ELICIT ATION TECHNIQUES</a>
+<a class="toc-level-5" href="#p327-9-1-2-3-product-portfolio-ma-trix">9.1.2.3 PRODUCT PORTFOLIO MA TRIX</a>
+<a class="toc-page" href="#source-page-328">Source page 328</a>
+<a class="toc-level-4" href="#p328-figure-9-4-is-an-example-of-a-product-portfolio-matrix-in-th">Figure 9-4 is an example of a product portfolio matrix. In this figure, assuming that the costs to produce, market,</a>
+<a class="toc-level-4" href="#p328-figure-9-4-evaluate-solution-p-erformance-product-portfolio">Figure 9-4 Evaluate Solution P erformance: Product Portfolio Matrix</a>
+<a class="toc-level-5" href="#p328-9-1-2-4-prioritiza-tion-schemes">9.1.2.4 PRIORITIZA TION SCHEMES</a>
+<a class="toc-level-5" href="#p328-9-1-2-5-roo-tcause-and-opportunity-analysis">9.1.2.5 ROO TCAUSE AND OPPORTUNITY ANALYSIS</a>
+<a class="toc-page" href="#source-page-329">Source page 329</a>
+<a class="toc-level-4" href="#p329-9-1-3-ev-alua-te-solution-performance-outputs">9.1.3 EV ALUA TE SOLUTION PERFORMANCE: OUTPUTS</a>
+<a class="toc-level-5" href="#p329-9-1-3-1-assessment-of-business-value">9.1.3.1 ASSESSMENT OF BUSINESS VALUE</a>
+<a class="toc-level-2" href="#p329-part-of-the-ongoing-planning-activities-the-organization-per">part of the ongoing planning activities the organization performs for portfolio or program management. For more</a>
+<a class="toc-level-4" href="#p329-9-1-4-ev-alua-te-solution-performance-tailoring-considera-ti">9.1.4 EV ALUA TE SOLUTION PERFORMANCE: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p329-9-1-5-ev-alua-te-solution-performance-collabora-tion-point">9.1.5 EV ALUA TE SOLUTION PERFORMANCE: COLLABORA TION POINT</a>
+<a class="toc-page" href="#source-page-330">Source page 330</a>
+<a class="toc-level-3" href="#p330-9-2-determine-solution-ev-alua-tion-appro-ach">9.2 DETERMINE SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-level-4" href="#p330-figure-9-5-determine-solution-evaluation-approach-inputs-t-o">Figure 9-5. Determine Solution Evaluation Approach: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p330-4-1-5-4">4.1 5.4</a>
+<a class="toc-level-3" href="#p330-4-6-determine-7-4">4.6 Determine 7.4</a>
+<a class="toc-level-4" href="#p330-figure-9-6-determine-solution-evaluation-approach-data-flow">Figure 9-6. Determine Solution Evaluation Approach: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-331">Source page 331</a>
+<a class="toc-level-4" href="#p331-9-2-1-determine-solution-ev-alua-tion-approach-inputs">9.2.1 DETERMINE SOLUTION EV ALUA TION APPROACH: INPUTS</a>
+<a class="toc-level-5" href="#p331-9-2-1-1-metrics-and-kpi-s">9.2.1.1 METRICS AND KPI s</a>
+<a class="toc-page" href="#source-page-332">Source page 332</a>
+<a class="toc-level-5" href="#p332-9-2-1-2-product-scope">9.2.1.2 PRODUCT SCOPE</a>
+<a class="toc-level-5" href="#p332-9-2-1-3-situa-tion-st-atement">9.2.1.3 SITUA TION ST ATEMENT</a>
+<a class="toc-level-4" href="#p332-9-2-2-determine-solution-evalua-tion-appro-ach-tools-and-tec">9.2.2 DETERMINE SOLUTION EVALUA TION APPRO ACH: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p332-9-2-2-1-elicit-ation-techniques">9.2.2.1 ELICIT ATION TECHNIQUES</a>
+<a class="toc-page" href="#source-page-333">Source page 333</a>
+<a class="toc-level-5" href="#p333-9-2-2-2-group-decision-making-techniques">9.2.2.2 GROUP DECISION-MAKING TECHNIQUES</a>
+<a class="toc-level-5" href="#p333-9-2-2-3-prioritiza-tion-schemes">9.2.2.3 PRIORITIZA TION SCHEMES</a>
+<a class="toc-level-5" href="#p333-9-2-2-4-retrospectives-and-lessons-learned">9.2.2.4 RETROSPECTIVES AND LESSONS LEARNED</a>
+<a class="toc-level-4" href="#p333-9-2-3-determine-solution-ev-alua-tion-approach-outputs">9.2.3 DETERMINE SOLUTION EV ALUA TION APPROACH: OUTPUTS</a>
+<a class="toc-level-5" href="#p333-9-2-3-1-solution-ev-alua-tion-appro-ach">9.2.3.1 SOLUTION EV ALUA TION APPRO ACH</a>
+<a class="toc-page" href="#source-page-334">Source page 334</a>
+<a class="toc-level-4" href="#p334-9-2-4-determine-solution-ev-alua-tion-approach-tailoring-con">9.2.4 DETERMINE SOLUTION EV ALUA TION APPROACH: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p334-9-2-5-determine-solution-ev-alua-tion-approach-collabora-tio">9.2.5 DETERMINE SOLUTION EV ALUA TION APPROACH: COLLABORA TION POINT</a>
+<a class="toc-level-3" href="#p334-9-3-ev-alua-te-accept-ance-resul-ts-and-address-defects">9.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS</a>
+<a class="toc-level-4" href="#p334-figure-9-7-figure-9-8-depicts-the-data-flo-w-diagram-for-the">Figure 9-7. Figure 9-8 depicts the data flo w diagram for the process.</a>
+<a class="toc-level-4" href="#p334-figure-9-7-evaluate-acceptance-results-and-address-defects-i">Figure 9-7. Evaluate Acceptance Results and Address Defects: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-page" href="#source-page-335">Source page 335</a>
+<a class="toc-level-3" href="#p335-9-1-9-4">9.1 9.4</a>
+<a class="toc-level-4" href="#p335-figure-9-8-evaluate-acceptance-results-and-address-defects-d">Figure 9-8. Evaluate Acceptance Results and Address Defects: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-336">Source page 336</a>
+<a class="toc-level-4" href="#p336-9-3-1-ev-alua-te-accept-ance-resul-ts-and-address-defects-in">9.3.1 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: INPUTS</a>
+<a class="toc-level-5" href="#p336-9-3-1-1-accept-ance-criteria">9.3.1.1 ACCEPT ANCE CRITERIA</a>
+<a class="toc-level-5" href="#p336-9-3-1-2-actual-accept-ance-resul-ts">9.3.1.2 ACTUAL ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-4" href="#p336-9-3-2-ev-alua-te-accept-ance-resul-ts-and-address-defects-to">9.3.2 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p336-9-3-2-1-prioritiza-tion-schemes">9.3.2.1 PRIORITIZA TION SCHEMES</a>
+<a class="toc-page" href="#source-page-337">Source page 337</a>
+<a class="toc-level-5" href="#p337-9-3-2-2-roo-tcause-anal-ysis">9.3.2.2 ROO TCAUSE ANALYSIS</a>
+<a class="toc-level-5" href="#p337-9-3-2-3-traceability-ma-trix">9.3.2.3 TRACEABILITY MA TRIX</a>
+<a class="toc-level-5" href="#p337-9-3-2-4-variance-analysis">9.3.2.4 VARIANCE ANALYSIS</a>
+<a class="toc-level-4" href="#p337-9-3-3-ev-alua-te-accept-ance-resul-ts-and-address-defects-ou">9.3.3 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: OUTPUTS</a>
+<a class="toc-level-5" href="#p337-9-3-3-1-ev-alua-ted-accept-ance-resul-ts">9.3.3.1 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-page" href="#source-page-338">Source page 338</a>
+<a class="toc-level-4" href="#p338-9-3-4-ev-alua-te-accept-ance-resul-ts-and-address-defects-ta">9.3.4 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: TAILORING CONSIDERA TIONS</a>
+<a class="toc-level-4" href="#p338-9-3-5-ev-alua-te-accept-ance-resul-ts-and-address-defects-co">9.3.5 EV ALUA TE ACCEPT ANCE RESUL TS AND ADDRESS DEFECTS: COLLABORA TION POINT</a>
+<a class="toc-level-3" href="#p338-9-4-obt-ain-solution-accept-ance-for-release">9.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE</a>
+<a class="toc-page" href="#source-page-339">Source page 339</a>
+<a class="toc-level-4" href="#p339-figure-9-9-obtain-solution-acceptance-for-release-inputs-t-o">Figure 9-9. Obtain Solution Acceptance for Release: Inputs, T ools and Techniques, and Outputs</a>
+<a class="toc-level-3" href="#p339-5-3-9-3">5.3 9.3</a>
+<a class="toc-level-4" href="#p339-figure-9-10-obtain-solution-acceptance-for-release-data-flow">Figure 9-10. Obtain Solution Acceptance for Release: Data Flow Diagram</a>
+<a class="toc-page" href="#source-page-340">Source page 340</a>
+<a class="toc-level-4" href="#p340-9-4-1-obt-ain-solution-accept-ance-for-release-inputs">9.4.1 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: INPUTS</a>
+<a class="toc-level-5" href="#p340-9-4-1-1-approved-requirements">9.4.1.1 APPROVED REQUIREMENTS</a>
+<a class="toc-level-5" href="#p340-9-4-1-2-ev-alua-ted-accept-ance-resul-ts">9.4.1.2 EV ALUA TED ACCEPT ANCE RESUL TS</a>
+<a class="toc-level-5" href="#p340-9-4-1-3-product-risk-analysis">9.4.1.3 PRODUCT RISK ANALYSIS</a>
+<a class="toc-page" href="#source-page-341">Source page 341</a>
+<a class="toc-level-5" href="#p341-9-4-1-4-readiness-assessment">9.4.1.4 READINESS ASSESSMENT</a>
+<a class="toc-level-5" href="#p341-9-4-1-5-stakeholder-engagement-and-communication-approach">9.4.1.5 STAKEHOLDER ENGAGEMENT AND COMMUNICATION APPROACH</a>
+<a class="toc-level-5" href="#p341-9-4-1-6-transition-plan">9.4.1.6 TRANSITION PLAN</a>
+<a class="toc-level-4" href="#p341-9-4-2-obt-ain-solution-accept-ance-for-release-tools-and-tec">9.4.2 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TOOLS AND TECHNIQUES</a>
+<a class="toc-level-5" href="#p341-9-4-2-1-facilit-ated-workshops">9.4.2.1 FACILIT ATED WORKSHOPS</a>
+<a class="toc-page" href="#source-page-342">Source page 342</a>
+<a class="toc-level-5" href="#p342-9-4-2-2-group-decision-making-techniques">9.4.2.2 GROUP DECISION-MAKING TECHNIQUES</a>
+<a class="toc-level-4" href="#p342-9-4-3-obt-ain-solution-accept-ance-for-release-outputs">9.4.3 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: OUTPUTS</a>
+<a class="toc-level-5" href="#p342-9-4-3-1-release-decision">9.4.3.1 RELEASE DECISION</a>
+<a class="toc-level-4" href="#p342-9-4-4-obt-ain-solution-accept-ance-for-release-tailoring-con">9.4.4 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: TAILORING CONSIDERA TIONS</a>
+<a class="toc-page" href="#source-page-343">Source page 343</a>
+<a class="toc-level-4" href="#p343-9-4-5-obt-ain-solution-accept-ance-for-release-collabora-tio">9.4.5 OBT AIN SOLUTION ACCEPT ANCE FOR RELEASE: COLLABORA TION POINT</a>
+<a class="toc-page" href="#source-page-344">Source page 344</a>
+<a class="toc-page" href="#source-page-345">Source page 345</a>
+<a class="toc-level-2" href="#p345-references">REFERENCES</a>
+<a class="toc-page" href="#source-page-346">Source page 346</a>
+<a class="toc-page" href="#source-page-347">Source page 347</a>
+<a class="toc-level-3" href="#p347-p-art-2">P art 2</a>
+<a class="toc-level-3" href="#p347-the-standard-for">The Standard for</a>
+<a class="toc-level-3" href="#p347-business-analysis">Business Analysis</a>
+<a class="toc-page" href="#source-page-348">Source page 348</a>
+</aside>
+</div>
+<script src="assets/script.js"></script>
+</body></html>
