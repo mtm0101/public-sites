@@ -1,0 +1,315 @@
+<!doctype html><html lang='vi'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Chương 7 - Phân tích</title><link rel='stylesheet' href='../assets/style.css'></head><body>
+<nav class="topnav"><a href='../index.html'>Trang chủ (Home)</a><a href='chapter-06-su-khoi-goi.html'>Chương 6</a><a href='chapter-07-phan-tich.html'>Chương 7</a><a href='chapter-08-truy-xuat-giam-sat.html'>Chương 8</a><a href='chapter-09-danh-gia-giai-phap.html'>Chương 9</a><a href='../print.html'>Bản in (Print)</a></nav>
+<main class='wrap'>
+<header class='page-title'><h1 id='chapter-7'>Chương 7. Phân tích <span>(Analysis)</span></h1><p>Chương 7 biến dữ liệu đã thu thập thành mô hình, yêu cầu, tiêu chí chấp nhận, ưu tiên, rủi ro và lựa chọn thiết kế có thể ra quyết định.</p><p class='watermark'>Scope: Part 1 - Chapter 7 only. Quiz nằm cuối trang và không xuất hiện trong print.html.</p></header>
+<div class='next-row'><a class='btn secondary' href='chapter-06-su-khoi-goi.html'>Previous Page</a><a class='btn' href='chapter-08-truy-xuat-giam-sat.html'>Next Page</a></div>
+<section id='s-7-1' class='content-section'>
+<h2><a href='#s-7-1'>7.1 Xác định phương pháp phân tích <span>(Determine Analysis Approach)</span></a></h2>
+<p class='lead-mini'>Quyết định cách phân tích thông tin sản phẩm, mức độ mô hình hóa, tiêu chuẩn chất lượng, cách truy xuất và nhịp làm rõ yêu cầu.</p>
+<p>Cách tiếp cận phân tích giúp nhóm tránh phân tích quá nặng hoặc quá nhẹ so với rủi ro của sản phẩm. Ở môi trường có nhiều stakeholder, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác định phương pháp phân tích giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong trang Profile Manager.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Trước khi tạo mô hình, trước backlog refinement lớn, hoặc khi dự án chuyển vòng đời từ discovery sang delivery. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp thu thập thông tin; phạm vi sản phẩm; bản mô tả tình huống; phương pháp truy xuất nguồn gốc và giám sát</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>động não; phân tích tài liệu; hồi tưởng và bài học kinh nghiệm</td></tr><tr><th>Đầu ra (Outputs)</th><td>phương pháp phân tích; nguyên tắc mô hình hóa; tiêu chuẩn chất lượng yêu cầu</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác định phương pháp phân tích.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp thu thập thông tin, phạm vi sản phẩm, bản mô tả tình huống.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: phương pháp phân tích, nguyên tắc mô hình hóa.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Với tính năng search có AI ranking, BA chọn cách phân tích kết hợp: mô hình dữ liệu provider, rule matrix cho fallback CAVE/Definitive, user scenarios cho no-result và acceptance criteria dựa trên query mẫu.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác định phương pháp phân tích</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng động não kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Điều gì phải đúng để giải pháp tạo ra giá trị như business case kỳ vọng?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>áp dụng cùng một mẫu yêu cầu cho mọi story</li><li>không xác định tiêu chuẩn “đủ rõ”</li><li>để mô hình hóa tách rời backlog</li><li>quên liên hệ phân tích với traceability</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Có tiêu chuẩn chất lượng cho yêu cầu không?</li><li>Có quyết định mô hình nào bắt buộc, mô hình nào tùy chọn không?</li><li>Phương pháp có phù hợp Agile/predictive/hybrid không?</li><li>Có cách theo dõi thay đổi trong phân tích không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Khi nhiều nhóm cùng thay đổi sản phẩm, sự rõ ràng về owner, trạng thái và bằng chứng phê duyệt quan trọng hơn độ dài của tài liệu. Với xác định phương pháp phân tích, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác định phương pháp phân tích vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác định phương pháp phân tích chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-2' class='content-section'>
+<h2><a href='#s-7-2'>7.2 Tạo và phân tích mô hình <span>(Create and Analyze Models)</span></a></h2>
+<p class='lead-mini'>Sử dụng mô hình để biểu diễn bối cảnh, dữ liệu, quy trình, trạng thái, giao diện, mục tiêu và quan hệ giữa các thành phần sản phẩm.</p>
+<p>Mô hình giúp nhìn thấy lỗ hổng, mâu thuẫn và phụ thuộc mà văn bản tuyến tính khó thể hiện. Nếu sản phẩm chịu ràng buộc compliance, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Tạo và phân tích mô hình giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong dashboard theo dõi adoption.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Khi yêu cầu phức tạp, có nhiều actor, nhiều hệ thống, dữ liệu liên quan hoặc quy tắc chuyển trạng thái. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; kết quả thu thập đã xác nhận; yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>sơ đồ ngữ cảnh; từ điển dữ liệu; sơ đồ luồng dữ liệu; cây/bảng quyết định; bản đồ hệ sinh thái; ERD; danh sách sự kiện; mẫu tính năng; mô hình mục tiêu; mô hình hóa chi tiết; sơ đồ tổ chức; quy trình; bảng báo cáo; sơ đồ trạng thái; story mapping; bảng giao diện hệ thống; use case; UI flow</td></tr><tr><th>Đầu ra (Outputs)</th><td>mô hình phân tích</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi tạo và phân tích mô hình.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, kết quả thu thập đã xác nhận, yêu cầu và thông tin sản phẩm khác.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: mô hình phân tích.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Để thiết kế Create Announcement, BA có thể dùng state diagram cho Draft/Preview/Publish, decision table cho disable Save, UI flow cho modal unsaved changes và data dictionary cho character limit.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong tạo và phân tích mô hình</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng sơ đồ ngữ cảnh kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Nếu bỏ qua hoạt động này, lỗi nào có khả năng xuất hiện muộn nhất và đắt nhất?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>vẽ mô hình đẹp nhưng không trả lời câu hỏi quyết định</li><li>không cập nhật mô hình khi yêu cầu đổi</li><li>dùng một loại sơ đồ cho mọi vấn đề</li><li>không review mô hình với người sở hữu quy trình</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Mô hình đang làm rõ câu hỏi nào?</li><li>Có biểu diễn ngoại lệ và trạng thái lỗi không?</li><li>Có stakeholder kiểm tra mô hình chưa?</li><li>Mô hình có liên hệ với yêu cầu hoặc AC không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Hãy xem phần này như một cơ chế giảm entropy của thông tin: càng nhiều nguồn tham gia, BA càng cần cấu trúc để thông tin không phân mảnh. Với tạo và phân tích mô hình, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt tạo và phân tích mô hình vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Tạo và phân tích mô hình chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-3' class='content-section'>
+<h2><a href='#s-7-3'>7.3 Xác định và làm rõ yêu cầu <span>(Define and Elaborate Requirements)</span></a></h2>
+<p class='lead-mini'>Chuyển insight và mô hình thành yêu cầu đủ rõ để stakeholder, dev, QA và sponsor hiểu cùng một cách.</p>
+<p>Yêu cầu rõ giúp giảm rework, tránh xây sai giải pháp và tạo nền tảng cho kiểm thử. Khi dữ liệu còn chưa ổn định, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác định và làm rõ yêu cầu giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong dịch vụ tích hợp dữ liệu bên thứ ba.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Trong backlog refinement, trước khi development, khi stakeholder cần cam kết scope hoặc khi phát hiện ambiguity. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; mô hình phân tích; kết quả thu thập đã xác nhận; mối quan hệ và phụ thuộc; phương pháp engagement và communication</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>danh mục quy tắc kinh doanh; definition of ready; glossary; product backlog; công cụ quản lý yêu cầu; story elaboration; story decomposition; use case; user story</td></tr><tr><th>Đầu ra (Outputs)</th><td>yêu cầu và thông tin sản phẩm khác</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác định và làm rõ yêu cầu.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, mô hình phân tích, kết quả thu thập đã xác nhận.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: yêu cầu và thông tin sản phẩm khác.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Thay vì viết “người dùng có thể tìm provider”, BA làm rõ actor, input, matching rule, fallback, result count, hiển thị score, no-result message và tracking analytics.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác định và làm rõ yêu cầu</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng danh mục quy tắc kinh doanh kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Thông tin nào cần được chứng minh bằng dữ liệu thay vì chỉ bằng ý kiến?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>viết yêu cầu như giải pháp kỹ thuật quá sớm</li><li>bỏ qua non-functional requirement</li><li>không tách rule khỏi UI text</li><li>đưa nhiều hành vi vào một story quá lớn</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Yêu cầu có test được không?</li><li>Có chứa business rule và ngoại lệ không?</li><li>Có rõ actor và trigger không?</li><li>Có liên hệ tới mục tiêu kinh doanh không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Giá trị thực tế nằm ở việc biến artifact thành quyết định. Một mô hình hoặc bảng trace không tạo giá trị nếu nó không giúp lựa chọn, kiểm soát hoặc học hỏi. Với xác định và làm rõ yêu cầu, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác định và làm rõ yêu cầu vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác định và làm rõ yêu cầu chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-4' class='content-section'>
+<h2><a href='#s-7-4'>7.4 Xác định tiêu chí chấp nhận <span>(Define Acceptance Criteria)</span></a></h2>
+<p class='lead-mini'>Mô tả điều kiện để xác định yêu cầu hoặc tính năng được xem là chấp nhận được.</p>
+<p>Tiêu chí chấp nhận tạo cầu nối giữa yêu cầu, phát triển, kiểm thử và quyết định release. Trong bối cảnh hybrid delivery, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác định tiêu chí chấp nhận giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong cổng nội bộ phê duyệt vận hành.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Sau khi yêu cầu đủ rõ, trước development hoặc trước khi đánh giá kết quả chấp nhận. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; mô hình phân tích; yêu cầu và thông tin sản phẩm khác; phương pháp đánh giá giải pháp</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>phát triển dựa trên hành vi; definition of done; story elaboration</td></tr><tr><th>Đầu ra (Outputs)</th><td>tiêu chí chấp nhận</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác định tiêu chí chấp nhận.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, mô hình phân tích, yêu cầu và thông tin sản phẩm khác.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: tiêu chí chấp nhận.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Với Preferred Communication Method, AC cần chỉ rõ dropdown options, indicator “P”, lỗi khi chọn phone nhưng phone trống, disable Save và trạng thái sau khi lưu.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác định tiêu chí chấp nhận</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng phát triển dựa trên hành vi kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Stakeholder nào có thể phản đối khi giải pháp đi vào vận hành?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>AC chỉ lặp lại yêu cầu mà không nêu điều kiện kiểm tra</li><li>thiếu edge case và negative case</li><li>trộn checklist kỹ thuật với hành vi người dùng</li><li>không đồng bộ với QA test case</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>AC có Given-When-Then hoặc điều kiện rõ không?</li><li>Có testable và observable không?</li><li>Có bao phủ lỗi và quyền hạn không?</li><li>Có dùng đúng thuật ngữ UI không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Một dấu hiệu trưởng thành là nhóm biết khi nào nên tăng mức chính thức và khi nào nên giữ nhẹ để không làm chậm vòng phản hồi. Với xác định tiêu chí chấp nhận, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác định tiêu chí chấp nhận vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác định tiêu chí chấp nhận chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-5' class='content-section'>
+<h2><a href='#s-7-5'>7.5 Xác minh yêu cầu <span>(Verify Requirements)</span></a></h2>
+<p class='lead-mini'>Kiểm tra yêu cầu có đủ chất lượng nội tại: rõ, nhất quán, khả thi, có thể kiểm thử và tuân thủ chuẩn.</p>
+<p>Verification giúp phát hiện lỗi trong yêu cầu trước khi lỗi đó đi vào thiết kế, code hoặc test. Ở góc nhìn delivery, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác minh yêu cầu giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong nền tảng tìm kiếm nhà cung cấp y tế.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Trước khi phê duyệt yêu cầu, trước sprint planning, hoặc khi requirement bị nghi ngờ mơ hồ. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; tiêu chuẩn BA của tổ chức; tiêu chuẩn tuân thủ hoặc quy định; yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>INVEST; peer review</td></tr><tr><th>Đầu ra (Outputs)</th><td>yêu cầu đã được xác minh và thông tin sản phẩm khác</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác minh yêu cầu.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, tiêu chuẩn BA của tổ chức, tiêu chuẩn tuân thủ hoặc quy định.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: yêu cầu đã được xác minh và thông tin sản phẩm khác.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Một user story “User can manage subscription” chưa verified nếu không rõ mobile webview, login bypass, payment provider, error state và scope của Manage button.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác minh yêu cầu</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng INVEST kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Sự phụ thuộc nào sẽ khiến một quyết định nhỏ tạo tác động lớn?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>nhầm xác minh với xác thực giá trị</li><li>review yêu cầu chỉ bởi BA</li><li>không kiểm tra conflict với yêu cầu khác</li><li>bỏ qua compliance constraint</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Yêu cầu độc lập và đủ nhỏ chưa?</li><li>Có thể test không?</li><li>Có mâu thuẫn với rule hiện có không?</li><li>Có đủ dữ liệu để dev estimate không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Với sản phẩm số, dữ liệu hành vi sau release thường quan trọng ngang với ý kiến trước release; vì vậy BA cần thiết kế vòng đo lường ngay từ đầu. Với xác minh yêu cầu, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác minh yêu cầu vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác minh yêu cầu chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-6' class='content-section'>
+<h2><a href='#s-7-6'>7.6 Xác thực yêu cầu <span>(Validate Requirements)</span></a></h2>
+<p class='lead-mini'>Đánh giá yêu cầu có hỗ trợ mục tiêu kinh doanh và đáp ứng nhu cầu stakeholder thật sự hay không.</p>
+<p>Validation ngăn nhóm xây đúng câu chữ nhưng sai giá trị hoặc sai vấn đề. Trong thực tế dự án, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác thực yêu cầu giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong ứng dụng mobile onboarding.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Sau verification hoặc khi lựa chọn yêu cầu cho release có tác động lớn đến giá trị. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>tiêu chí chấp nhận; phương pháp phân tích; mục tiêu và nhiệm vụ kinh doanh; yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>Delphi; mô hình mục tiêu; ma trận truy xuất nguồn gốc; walkthrough</td></tr><tr><th>Đầu ra (Outputs)</th><td>yêu cầu đã được xác thực và thông tin sản phẩm khác</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác thực yêu cầu.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: tiêu chí chấp nhận, phương pháp phân tích, mục tiêu và nhiệm vụ kinh doanh.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: yêu cầu đã được xác thực và thông tin sản phẩm khác.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Yêu cầu thêm tooltip Pendo chỉ validated khi nó liên hệ đến mục tiêu giảm drop-off onboarding, có đo lường interaction và không gây nhiễu UX chính.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác thực yêu cầu</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng Delphi kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Điều gì phải đúng để giải pháp tạo ra giá trị như business case kỳ vọng?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>chỉ hỏi “đúng chưa?” mà không kiểm tra mục tiêu</li><li>để stakeholder xác nhận dựa trên sở thích cá nhân</li><li>không so sánh với business case</li><li>bỏ qua người dùng cuối</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Yêu cầu có đóng góp vào outcome không?</li><li>Stakeholder phù hợp đã xác thực chưa?</li><li>Có bằng chứng hoặc giả định rõ không?</li><li>Có thể đo kết quả sau release không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Khi nhiều nhóm cùng thay đổi sản phẩm, sự rõ ràng về owner, trạng thái và bằng chứng phê duyệt quan trọng hơn độ dài của tài liệu. Với xác thực yêu cầu, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác thực yêu cầu vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác thực yêu cầu chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-7' class='content-section'>
+<h2><a href='#s-7-7'>7.7 Ưu tiên yêu cầu và thông tin sản phẩm khác <span>(Prioritize Requirements and Product Information)</span></a></h2>
+<p class='lead-mini'>Sắp xếp yêu cầu theo giá trị, rủi ro, phụ thuộc, độ cấp bách và khả năng học hỏi để hỗ trợ quyết định release.</p>
+<p>Không ưu tiên rõ khiến backlog trở thành danh sách mong muốn, khó dùng cho trade-off khi nguồn lực hạn chế. Về mặt quản trị sản phẩm, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Ưu tiên yêu cầu và thông tin sản phẩm khác giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong module subscription và payment.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Trước sprint/release planning, khi scope vượt capacity, hoặc khi stakeholder tranh luận về thứ tự triển khai. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; mục tiêu kinh doanh; yêu cầu thay đổi; mối quan hệ và phụ thuộc; yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>backlog management; goal model; iteration planning; Kanban board; priority schemes; story mapping; traceability matrix</td></tr><tr><th>Đầu ra (Outputs)</th><td>yêu cầu ưu tiên và thông tin sản phẩm khác</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi ưu tiên yêu cầu và thông tin sản phẩm khác.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, mục tiêu kinh doanh, yêu cầu thay đổi.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: yêu cầu ưu tiên và thông tin sản phẩm khác.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Trong roadmap onboarding, BA và PO có thể ưu tiên bước SMS/DOB/SSN trước ID photo nếu mục tiêu là giảm friction và giữ compliance tối thiểu.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong ưu tiên yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng backlog management kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Nếu bỏ qua hoạt động này, lỗi nào có khả năng xuất hiện muộn nhất và đắt nhất?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>ưu tiên theo người nói to nhất</li><li>không tính rủi ro phụ thuộc</li><li>dùng MoSCoW nhưng mọi thứ đều Must</li><li>quên điều chỉnh ưu tiên khi dữ liệu mới xuất hiện</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Tiêu chí ưu tiên đã thống nhất chưa?</li><li>Có cân bằng value, risk và effort không?</li><li>Có dependency nào khóa release không?</li><li>Có ghi lý do ưu tiên không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Hãy xem phần này như một cơ chế giảm entropy của thông tin: càng nhiều nguồn tham gia, BA càng cần cấu trúc để thông tin không phân mảnh. Với ưu tiên yêu cầu và thông tin sản phẩm khác, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt ưu tiên yêu cầu và thông tin sản phẩm khác vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Ưu tiên yêu cầu và thông tin sản phẩm khác chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-8' class='content-section'>
+<h2><a href='#s-7-8'>7.8 Xác định và phân tích rủi ro sản phẩm <span>(Identify and Analyze Product Risks)</span></a></h2>
+<p class='lead-mini'>Nhận diện rủi ro liên quan đến sản phẩm, yêu cầu, dữ liệu, vận hành, compliance, trải nghiệm và kỹ thuật.</p>
+<p>Rủi ro sản phẩm nếu không phân tích sớm có thể biến thành lỗi release, rework hoặc thiệt hại giá trị kinh doanh. Khi áp dụng vào Agile, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Xác định và phân tích rủi ro sản phẩm giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong hệ thống messaging coordination.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Khi yêu cầu mới có độ bất định cao, khi integration phức tạp, hoặc khi failure impact lớn. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>phương pháp phân tích; mục tiêu kinh doanh; EEF; phạm vi sản phẩm; yêu cầu và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>sơ đồ ngữ cảnh; bản đồ hệ sinh thái; kỹ thuật thu thập thông tin; estimation; sơ đồ tổ chức; process model; product backlog; risk burndown; risk register; root cause/opportunity analysis; SWOT</td></tr><tr><th>Đầu ra (Outputs)</th><td>phân tích rủi ro sản phẩm</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi xác định và phân tích rủi ro sản phẩm.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: phương pháp phân tích, mục tiêu kinh doanh, EEF.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: phân tích rủi ro sản phẩm.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Tính năng payment có rủi ro policy app store, Stripe failure, webview login, duplicate charge, audit log và customer support. BA giúp phân tích impact/probability và gắn mitigation vào backlog.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong xác định và phân tích rủi ro sản phẩm</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng sơ đồ ngữ cảnh kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Thông tin nào cần được chứng minh bằng dữ liệu thay vì chỉ bằng ý kiến?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>xem rủi ro chỉ là technical risk</li><li>không liên hệ risk với AC và test coverage</li><li>đánh giá rủi ro một lần rồi bỏ</li><li>không có owner cho mitigation</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Rủi ro có mô tả cause-event-impact không?</li><li>Có phân loại severity và likelihood không?</li><li>Mitigation có nằm trong backlog không?</li><li>Có theo dõi risk burndown không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Giá trị thực tế nằm ở việc biến artifact thành quyết định. Một mô hình hoặc bảng trace không tạo giá trị nếu nó không giúp lựa chọn, kiểm soát hoặc học hỏi. Với xác định và phân tích rủi ro sản phẩm, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt xác định và phân tích rủi ro sản phẩm vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Xác định và phân tích rủi ro sản phẩm chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<section id='s-7-9' class='content-section'>
+<h2><a href='#s-7-9'>7.9 Đánh giá các lựa chọn thiết kế sản phẩm <span>(Assess Product Design Options)</span></a></h2>
+<p class='lead-mini'>So sánh các phương án thiết kế giải pháp dựa trên mục tiêu, chi phí, tính khả thi, rủi ro và trải nghiệm.</p>
+<p>Design option assessment giúp khuyến nghị lựa chọn phù hợp thay vì chọn phương án quen thuộc hoặc đẹp về UI nhưng yếu về giá trị. Ở môi trường có nhiều stakeholder, nội dung này nên được dùng như một bước kiểm soát chất lượng thông tin, không phải một thủ tục riêng lẻ. BA cần hỏi: ai sẽ dùng kết quả, quyết định nào phụ thuộc vào nó, và dữ liệu nào đủ tin cậy để đi tiếp?</p>
+<h3>Bản chất và giá trị (Meaning and Value)</h3>
+<p>Đánh giá các lựa chọn thiết kế sản phẩm giúp nhóm chuyển từ nhận định rời rạc sang hiểu biết có cấu trúc. Giá trị của phần này nằm ở khả năng làm rõ giả định, phát hiện mâu thuẫn, giảm rework và tạo dấu vết cho những quyết định quan trọng trong trang Profile Manager.</p>
+<p>Hoạt động này không nên được hiểu như một tài liệu phải hoàn thành cho đủ bộ. Nó là một năng lực ra quyết định: chọn đúng nguồn tin, xác định mức chi tiết vừa đủ, liên kết thông tin với mục tiêu và bảo vệ nhóm khỏi việc triển khai dựa trên suy đoán.</p>
+<h3>Khi áp dụng (When to Use)</h3><p>Khi có nhiều cách đáp ứng cùng một yêu cầu, khi buy/build/partner chưa rõ, hoặc khi cần cân bằng UX và complexity. Ngoài ra, hãy ưu tiên phần này khi có dấu hiệu stakeholder hiểu khác nhau về cùng một thuật ngữ, khi scope bị kéo giãn, hoặc khi việc sửa sai sau release sẽ tốn nhiều chi phí hơn việc làm rõ ngay từ đầu.</p>
+<h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+<table class='ito'><tbody><tr><th>Đầu vào (Inputs)</th><td>mục tiêu và nhiệm vụ kinh doanh; kiến trúc doanh nghiệp và kinh doanh; yêu cầu ưu tiên và thông tin sản phẩm khác</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>affinity diagram; brainstorming; competitive analysis; focus group; product backlog; real options; vendor assessment</td></tr><tr><th>Đầu ra (Outputs)</th><td>tùy chọn thiết kế sản phẩm khả thi</td></tr></tbody></table>
+<h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+<ol><li>Xác định quyết định cần hỗ trợ trong phạm vi đánh giá các lựa chọn thiết kế sản phẩm.</li><li>Thu thập hoặc kiểm tra các đầu vào chính: mục tiêu và nhiệm vụ kinh doanh, kiến trúc doanh nghiệp và kinh doanh, yêu cầu ưu tiên và thông tin sản phẩm khác.</li><li>Chọn kỹ thuật phù hợp với độ phức tạp, độ nhạy và rủi ro của tình huống.</li><li>Ghi lại giả định, câu hỏi mở, người chịu trách nhiệm và bằng chứng được dùng.</li><li>Chuyển đầu ra sang bước tiếp theo để không tạo artifact bị cô lập: tùy chọn thiết kế sản phẩm khả thi.</li><li>Đặt lịch review hoặc trigger cập nhật khi scope, dữ liệu hoặc quyết định thay đổi.</li></ol>
+<h3>Ví dụ thực hành (Practical Example)</h3>
+<p>Với provider search, thiết kế có thể là filter truyền thống, natural language query, hybrid search hoặc AI assistant. BA so sánh từng option về dữ liệu, latency, explainability, compliance và effort.</p>
+<p>Trong ví dụ này, BA không chỉ ghi nhận nội dung stakeholder nói. BA phải xác định phần nào là nhu cầu, phần nào là ràng buộc, phần nào là lựa chọn thiết kế và phần nào là giả định cần xác thực bằng test, dữ liệu hoặc quyết định chính thức.</p>
+<h3>Bảng ứng dụng nhanh (Application Table)</h3>
+<table><tbody><tr><th>Tín hiệu cần chú ý (Signal)</th><td>Có mâu thuẫn, thiếu owner, hoặc yêu cầu chưa liên kết với mục tiêu trong đánh giá các lựa chọn thiết kế sản phẩm</td></tr><tr><th>Hành động BA (BA action)</th><td>Dùng affinity diagram kết hợp với review artifact để làm rõ thông tin trước khi chuyển bước</td></tr><tr><th>Bằng chứng cần có (Evidence)</th><td>Đầu ra được ghi nhận, nguồn xác nhận rõ và có liên kết tới quyết định sản phẩm</td></tr><tr><th>Rủi ro nếu bỏ qua (Risk)</th><td>Stakeholder nào có thể phản đối khi giải pháp đi vào vận hành?</td></tr></tbody></table>
+<h3>Sai lầm thường gặp (Common Mistakes)</h3><ul><li>đánh giá thiết kế chỉ bằng giao diện nhìn thấy</li><li>không tính cost of ownership</li><li>bỏ qua usability test</li><li>đề xuất option mà chưa ghi assumption</li></ul>
+<h3>Checklist áp dụng (Application Checklist)</h3><ul><li>Có tiêu chí đánh giá định lượng/định tính không?</li><li>Option có trace về mục tiêu không?</li><li>Có xem rủi ro dữ liệu và vận hành không?</li><li>Khuyến nghị có nêu trade-off không?</li></ul>
+<h3>Góc phân tích nâng cao (Advanced Analysis Lens)</h3>
+<p>Một dấu hiệu trưởng thành là nhóm biết khi nào nên tăng mức chính thức và khi nào nên giữ nhẹ để không làm chậm vòng phản hồi. Với đánh giá các lựa chọn thiết kế sản phẩm, mức độ chi tiết phải được điều chỉnh theo rủi ro, vòng đời dự án và khả năng duy trì artifact của nhóm.</p>
+<p>Một cách kiểm tra nhanh là hỏi: nếu thông tin ở phần này sai, nhóm sẽ xây sai cái gì, ai sẽ phát hiện lỗi, và phát hiện ở thời điểm nào? Câu trả lời giúp BA quyết định cần thêm phỏng vấn, mô hình, review chéo, dữ liệu đo lường hay phê duyệt chính thức.</p>
+<h3>Mẫu áp dụng cho dự án phần mềm (Software Delivery Pattern)</h3>
+<p>Trong dự án Agile 2 tuần/sprint, BA có thể đặt đánh giá các lựa chọn thiết kế sản phẩm vào nhịp refinement: đầu tuần làm rõ, giữa tuần xác nhận với stakeholder, cuối tuần chuẩn bị AC/test notes cho sprint planning. Trong môi trường predictive hoặc regulated, cùng nội dung này cần thêm trạng thái phê duyệt, versioning và trace tới test evidence.</p>
+<aside class='takeaway'><strong>Ghi nhớ (Key takeaway):</strong> Đánh giá các lựa chọn thiết kế sản phẩm chỉ tạo giá trị khi đầu ra của nó được dùng để giảm rủi ro, ra quyết định hoặc chứng minh rằng giải pháp vẫn đi đúng mục tiêu.</aside>
+</section>
+<div class='next-row'><a class='btn secondary' href='chapter-06-su-khoi-goi.html'>Previous Page</a><a class='btn' href='chapter-08-truy-xuat-giam-sat.html'>Next Page before Quiz</a></div>
+<section class='quiz' id='quiz'><h2>Quiz cuối chương <span>(Chapter Quiz)</span></h2><p>Mỗi chương có 10 câu: 5 Hard và 5 Hardest. Đáp án đặt trong phần mở rộng để tự kiểm tra.</p>
+<article class='q'><h3>Câu 1 - Hard</h3><p>Trong phân tích, dấu hiệu nào cho thấy BA cần điều chỉnh cách tiếp cận thay vì tiếp tục dùng artifact hiện tại?</p><ol class='options' type='A'>
+<li>Cuộc họp kết thúc sớm hơn dự kiến</li>
+<li>Stakeholder hiểu khác nhau về cùng một quyết định</li>
+<li>Màu giao diện chưa được chốt</li>
+<li>Tên file chưa theo chuẩn nội bộ</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B.</p><p>Khi cách hiểu khác nhau, vấn đề nằm ở chất lượng thông tin và governance, không chỉ ở format tài liệu.</p></details></article>
+<article class='q'><h3>Câu 2 - Hard</h3><p>Khi áp dụng chương 7 cho dự án Agile, lựa chọn nào cân bằng tốt nhất giữa tốc độ và kiểm soát?</p><ol class='options' type='A'>
+<li>Giữ artifact nhẹ nhưng có trace tới quyết định quan trọng</li>
+<li>Bỏ toàn bộ xác nhận để tiết kiệm thời gian</li>
+<li>Chỉ tạo tài liệu sau khi release</li>
+<li>Đợi sponsor viết yêu cầu chi tiết</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A.</p><p>Agile không loại bỏ kỷ luật; nó yêu cầu mức vừa đủ và phản hồi nhanh.</p></details></article>
+<article class='q'><h3>Câu 3 - Hard</h3><p>Một stakeholder đưa ra yêu cầu mới nhưng không nêu lý do kinh doanh. BA nên làm gì trước?</p><ol class='options' type='A'>
+<li>Đưa ngay vào sprint để tránh tranh luận</li>
+<li>Từ chối vì không có trong scope cũ</li>
+<li>Chuyển trực tiếp cho developer estimate</li>
+<li>Làm rõ mục tiêu, impact và giả định đằng sau yêu cầu</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D.</p><p>Yêu cầu mới cần được gắn với mục tiêu và tác động trước khi quyết định.</p></details></article>
+<article class='q'><h3>Câu 4 - Hard</h3><p>Nếu hai nguồn thông tin trong chương 7 mâu thuẫn, phản ứng nào phù hợp nhất?</p><ol class='options' type='A'>
+<li>Giữ cả hai trong backlog mà không xử lý</li>
+<li>Xóa phần gây tranh cãi khỏi tài liệu</li>
+<li>Ghi nhận mâu thuẫn, xác định owner quyết định và tổ chức xác nhận</li>
+<li>Chọn ý kiến của người có chức danh cao nhất</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C.</p><p>Mâu thuẫn phải được làm rõ bằng decision ownership và bằng chứng.</p></details></article>
+<article class='q'><h3>Câu 5 - Hard</h3><p>Kết quả nào chứng minh hoạt động BA trong chương này có ích cho delivery?</p><ol class='options' type='A'>
+<li>Không còn câu hỏi nào xuất hiện sau release</li>
+<li>Dev, QA và PO dùng cùng thông tin để quyết định scope/test/release</li>
+<li>Tài liệu có nhiều trang hơn</li>
+<li>Tất cả cuộc họp đều có cùng số người tham gia</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B.</p><p>Giá trị thể hiện ở việc thông tin hỗ trợ phối hợp và quyết định thực tế.</p></details></article>
+<article class='q'><h3>Câu 6 - Hardest</h3><p>Một yêu cầu đã được stakeholder thích nhưng không cải thiện KPI. Cách xử lý nào thể hiện tư duy BA trưởng thành nhất?</p><ol class='options' type='A'>
+<li>Tách sự hài lòng chủ quan khỏi bằng chứng giá trị và đề xuất đo/pilot</li>
+<li>Chấp thuận vì stakeholder đã thích</li>
+<li>Loại bỏ ngay vì KPI chưa tăng</li>
+<li>Yêu cầu QA viết thêm test case</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A.</p><p>BA cần cân bằng insight định tính với bằng chứng định lượng, không cực đoan theo một phía.</p></details></article>
+<article class='q'><h3>Câu 7 - Hardest</h3><p>Trong môi trường có compliance cao, vì sao không nên giảm toàn bộ traceability dù team muốn nhanh hơn?</p><ol class='options' type='A'>
+<li>Vì mọi dự án bắt buộc có tài liệu dài</li>
+<li>Vì stakeholder không thể tự nhớ quyết định</li>
+<li>Vì công cụ quản lý yêu cầu luôn là deliverable chính</li>
+<li>Vì impact của thay đổi và bằng chứng phê duyệt cần được truy ngược</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D.</p><p>Compliance thường yêu cầu bằng chứng, impact analysis và accountability rõ ràng.</p></details></article>
+<article class='q'><h3>Câu 8 - Hardest</h3><p>Khi một defect xuất hiện do AC thiếu ngoại lệ, bài học quan trọng nhất là gì?</p><ol class='options' type='A'>
+<li>Đổi tên defect thành change request</li>
+<li>Đưa toàn bộ trách nhiệm cho QA</li>
+<li>Cần cập nhật yêu cầu, AC, test và trace để ngăn lỗi lặp lại</li>
+<li>Chỉ cần developer sửa code</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C.</p><p>Defect do yêu cầu thiếu là vấn đề hệ thống thông tin sản phẩm, không chỉ là lỗi code.</p></details></article>
+<article class='q'><h3>Câu 9 - Hardest</h3><p>Một nhóm muốn bỏ qua bước xác nhận vì đã có prototype. Rủi ro lớn nhất là gì?</p><ol class='options' type='A'>
+<li>Developer không thể estimate giao diện</li>
+<li>Prototype có thể được hiểu như thiết kế cuối dù giả định chưa được kiểm chứng</li>
+<li>Prototype luôn làm chậm dự án</li>
+<li>Stakeholder sẽ không thể đưa feedback</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B.</p><p>Prototype là công cụ học hỏi; nó không thay thế xác nhận ý nghĩa, rule và edge case.</p></details></article>
+<article class='q'><h3>Câu 10 - Hardest</h3><p>Nếu phải cắt scope sát ngày release, yếu tố nào nên được xem cùng nhau để ra quyết định?</p><ol class='options' type='A'>
+<li>Giá trị, rủi ro, dependency, acceptance result và readiness</li>
+<li>Số dòng code đã viết</li>
+<li>Thứ tự story trong backlog cũ</li>
+<li>Mức độ thích thú của UI designer</li>
+</ol>
+<details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A.</p><p>Release decision cần nhìn đa chiều thay vì dựa vào một tín hiệu đơn lẻ.</p></details></article>
+<p class='next'><a class='btn' href='chapter-08-truy-xuat-giam-sat.html'>Next Page</a></p>
+</section>
+</main></body></html>

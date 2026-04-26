@@ -1,0 +1,84 @@
+{
+  "source_pdf": "1. The PMI Guide to Business Analysis (2017) Vietnamese - lingvanex - Best.pdf",
+  "scope": "Part 1 only - Chapter 6 through the end of Part 1 (Chapters 6-9)",
+  "output_type": "static HTML knowledge site packaged as ZIP",
+  "language": "Vietnamese with bilingual Vietnamese-English headings and labels",
+  "total_files_generated": 8,
+  "html_files": [
+    "index.html",
+    "print.html",
+    "pages/chapter-06-su-khoi-goi.html",
+    "pages/chapter-07-phan-tich.html",
+    "pages/chapter-08-truy-xuat-giam-sat.html",
+    "pages/chapter-09-danh-gia-giai-phap.html"
+  ],
+  "content_pages": [
+    {
+      "file": "pages/chapter-06-su-khoi-goi.html",
+      "title": "Chương 6. Sự khơi gợi (Elicitation)",
+      "sections": [
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4"
+      ]
+    },
+    {
+      "file": "pages/chapter-07-phan-tich.html",
+      "title": "Chương 7. Phân tích (Analysis)",
+      "sections": [
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9"
+      ]
+    },
+    {
+      "file": "pages/chapter-08-truy-xuat-giam-sat.html",
+      "title": "Chương 8. Truy xuất nguồn gốc và giám sát (Traceability and Monitoring)",
+      "sections": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4"
+      ]
+    },
+    {
+      "file": "pages/chapter-09-danh-gia-giai-phap.html",
+      "title": "Chương 9. Đánh giá giải pháp (Solution Evaluation)",
+      "sections": [
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4"
+      ]
+    }
+  ],
+  "total_word_count_site": 47852,
+  "print_word_count": 22016,
+  "estimated_printed_page_count": 70,
+  "section_sync_validation": {
+    "status": "Passed",
+    "html_section_count": 21,
+    "print_section_count": 21,
+    "same_order": true
+  },
+  "quiz_validation": {
+    "status": "Passed",
+    "content_pages": 4,
+    "questions_per_page": 10,
+    "distribution": "5 Hard + 5 Hardest per chapter",
+    "print_html_has_quiz": false
+  },
+  "deduplication_validation": {
+    "status": "Passed",
+    "exact_repeated_long_sentences_over_3_excluding_print_mirror": 0,
+    "note": "Content pages, quiz questions, answer options, and explanations were checked for repeated long sentences. print.html intentionally mirrors non-quiz sections for printing and is excluded from duplicate-failure count."
+  },
+  "generated_at": "2026-04-26T15:36:58.380388Z"
+}
