@@ -1,0 +1,709 @@
+{
+  "selected_scope": "From the beginning of the PDF through the end of Chapter 3: Business Analysis Planning.",
+  "source_PDF_name": "6. Business Analysis for Practitioners - A Practice Guide (2015) - BA_Practitioners_PG_unlocked DONE.pdf",
+  "prompt_source_name": "Văn bản đã dán (1)(30).txt",
+  "output_type": "Static HTML site packaged as ZIP",
+  "language_policy": "English main body content only; bilingual page titles, chapter titles, section titles, glossary terms, and major labels where useful.",
+  "total_files_generated": 11,
+  "total_word_count": 86228,
+  "print_word_count": 39444,
+  "estimated_printed_page_count": 113,
+  "generated_pages": [
+    "index.html",
+    "print.html",
+    "00_beginning_preface.html",
+    "01_chapter_1_introduction.html",
+    "02_needs_assessment_current_state.html",
+    "03_needs_assessment_options_case.html",
+    "04_ba_planning_stakeholders.html",
+    "05_ba_planning_plan.html",
+    "06_ba_planning_workplan.html",
+    "assets/style.css",
+    "build-report.json"
+  ],
+  "section_synchronization_validation": {
+    "status": "PASS",
+    "method": "print.html is generated from the same section list as content pages; quiz sections are excluded.",
+    "non_quiz_section_count": 124,
+    "sections": [
+      {
+        "page": "00_beginning_preface.html",
+        "section": "PF.1",
+        "title": "How to Use This Study Companion (Cách dùng tài liệu học tập này)"
+      },
+      {
+        "page": "00_beginning_preface.html",
+        "section": "PF.2",
+        "title": "Purpose and Positioning of the Guide (Mục đích và vị trí của hướng dẫn)"
+      },
+      {
+        "page": "00_beginning_preface.html",
+        "section": "PF.3",
+        "title": "Tailoring and Practice Selection (Điều chỉnh và chọn kỹ thuật)"
+      },
+      {
+        "page": "00_beginning_preface.html",
+        "section": "PF.4",
+        "title": "Practitioner Mindset: Value, Adaptability, Collaboration (Tư duy thực hành)"
+      },
+      {
+        "page": "00_beginning_preface.html",
+        "section": "PF.5",
+        "title": "Scope Map of the First Three Chapters (Bản đồ phạm vi ba chương đầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1",
+        "title": "Introduction (Giới thiệu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.1",
+        "title": "Purpose of this Practice Guide (Mục đích của hướng dẫn thực hành)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.2",
+        "title": "Need for this Practice Guide (Nhu cầu cần hướng dẫn này)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.3",
+        "title": "PMI’s Increased Focus on Business Analysis (PMI tăng trọng tâm vào phân tích nghiệp vụ)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.4",
+        "title": "Intended Audience for the Guide (Đối tượng sử dụng hướng dẫn)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.5",
+        "title": "What is Business Analysis? (Phân tích nghiệp vụ là gì?)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.6",
+        "title": "Who Performs Business Analysis? (Ai thực hiện phân tích nghiệp vụ?)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.6.1",
+        "title": "Skillset and Expertise Needed for the Business Analysis Role (Kỹ năng và chuyên môn cần thiết)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.6.2",
+        "title": "How Organizations Implement Business Analysis (Cách tổ chức triển khai BA)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.6.3",
+        "title": "Relationship Between Project Manager, Business Analyst, and Other Roles (Quan hệ giữa PM, BA và vai trò khác)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.6.4",
+        "title": "Need to Build the Relationships (Nhu cầu xây dựng quan hệ cộng tác)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.7",
+        "title": "Definition of Requirement (Định nghĩa yêu cầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.7.1",
+        "title": "Responsibility for Requirements (Trách nhiệm đối với yêu cầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.7.2",
+        "title": "Requirement Types (Các loại yêu cầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8",
+        "title": "Structure of the Practice Guide (Cấu trúc hướng dẫn thực hành)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8.1",
+        "title": "Section 2 on Needs Assessment (Phần 2: Đánh giá nhu cầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8.2",
+        "title": "Section 3 on Business Analysis Planning (Phần 3: Lập kế hoạch BA)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8.3",
+        "title": "Section 4 on Requirements Elicitation and Analysis (Phần 4: Khai thác và phân tích yêu cầu)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8.4",
+        "title": "Section 5 on Traceability and Monitoring (Phần 5: Truy vết và giám sát)"
+      },
+      {
+        "page": "01_chapter_1_introduction.html",
+        "section": "1.8.5",
+        "title": "Section 6 on Solution Evaluation (Phần 6: Đánh giá giải pháp)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2",
+        "title": "Needs Assessment (Đánh giá nhu cầu)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.1",
+        "title": "Overview of this Section (Tổng quan phần này)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.2",
+        "title": "Why Perform Needs Assessments (Tại sao cần đánh giá nhu cầu)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3",
+        "title": "Identify Problem or Opportunity (Xác định vấn đề hoặc cơ hội)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3.1",
+        "title": "Identify Stakeholders (Xác định bên liên quan)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3.2",
+        "title": "Investigate the Problem or Opportunity (Điều tra vấn đề hoặc cơ hội)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3.3",
+        "title": "Gather Relevant Data to Evaluate the Situation (Thu thập dữ liệu liên quan)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3.4",
+        "title": "Draft the Situation Statement (Soạn tuyên bố tình huống)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.3.5",
+        "title": "Obtain Stakeholder Approval for the Situation Statement (Phê duyệt tuyên bố tình huống)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4",
+        "title": "Assess Current State of the Organization (Đánh giá hiện trạng tổ chức)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.1",
+        "title": "Assess Organizational Goals and Objectives (Đánh giá mục tiêu tổ chức)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.1.1",
+        "title": "Goals and Objectives (Mục tiêu và mục đích đo lường)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.1.2",
+        "title": "SMART Goals and Objectives (Mục tiêu SMART)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.2",
+        "title": "SWOT Analysis (Phân tích SWOT)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.3",
+        "title": "Relevant Criteria (Tiêu chí liên quan)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.4",
+        "title": "Perform Root Cause Analysis on the Situation (Phân tích nguyên nhân gốc rễ)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.4.1",
+        "title": "Five Whys (Năm câu hỏi tại sao)"
+      },
+      {
+        "page": "02_needs_assessment_current_state.html",
+        "section": "2.4.4.2",
+        "title": "Cause-and-Effect Diagrams (Biểu đồ nguyên nhân - kết quả)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.5",
+        "title": "Determine Required Capabilities Needed to Address the Situation (Xác định năng lực cần có)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.5.1",
+        "title": "Capability Table (Bảng năng lực)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.5.2",
+        "title": "Affinity Diagram (Biểu đồ nhóm tương đồng)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.5.3",
+        "title": "Benchmarking (Đối chuẩn)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.6",
+        "title": "Assess Current Capabilities of the Organization (Đánh giá năng lực hiện tại)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.4.7",
+        "title": "Identify Gaps in Organizational Capabilities (Xác định khoảng cách năng lực)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5",
+        "title": "Recommend Action to Address Business Needs (Đề xuất hành động để đáp ứng nhu cầu nghiệp vụ)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.1",
+        "title": "High-Level Approach for Adding Capabilities (Cách tiếp cận cấp cao để bổ sung năng lực)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.2",
+        "title": "Alternative Options for Satisfying the Business Need (Phương án thay thế để đáp ứng nhu cầu)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.3",
+        "title": "Constraints, Assumptions, and Risks for Each Option (Ràng buộc, giả định và rủi ro)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.3.1",
+        "title": "Constraints (Ràng buộc)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.3.2",
+        "title": "Assumptions (Giả định)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.3.3",
+        "title": "Risks (Rủi ro)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4",
+        "title": "Feasibility and Organizational Impacts of Each Option (Tính khả thi và tác động tổ chức)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4.1",
+        "title": "Operational Feasibility (Tính khả thi vận hành)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4.2",
+        "title": "Technology/System Feasibility (Tính khả thi công nghệ/hệ thống)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4.3",
+        "title": "Cost-Effectiveness Feasibility (Tính khả thi chi phí - hiệu quả)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4.4",
+        "title": "Time Feasibility (Tính khả thi thời gian)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.4.5",
+        "title": "Assess Factors (Đánh giá các yếu tố)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.5",
+        "title": "Recommend the Most Viable Option (Đề xuất phương án khả thi nhất)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.5.1",
+        "title": "Weighted Ranking (Xếp hạng có trọng số)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.6",
+        "title": "Cost-Benefit Analysis for Recommended Option (Phân tích chi phí - lợi ích)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.6.1",
+        "title": "Payback Period (Thời gian hoàn vốn)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.6.2",
+        "title": "Return on Investment (ROI) (Tỷ suất hoàn vốn)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.6.3",
+        "title": "Internal Rate of Return (IRR) (Tỷ suất hoàn vốn nội bộ)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.5.6.4",
+        "title": "Net Present Value (NPV) (Giá trị hiện tại ròng)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.6",
+        "title": "Assemble the Business Case (Tổng hợp luận chứng kinh doanh)"
+      },
+      {
+        "page": "03_needs_assessment_options_case.html",
+        "section": "2.6.1",
+        "title": "Value of the Business Case (Giá trị của luận chứng kinh doanh)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3",
+        "title": "Business Analysis Planning (Lập kế hoạch phân tích nghiệp vụ)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.1",
+        "title": "Overview of this Section (Tổng quan phần này)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.2",
+        "title": "Importance of Business Analysis Planning (Tầm quan trọng của lập kế hoạch BA)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.2.1",
+        "title": "Rationale (Cơ sở lý do)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.2.2",
+        "title": "Business Analysis Planning and Project Management Planning (Lập kế hoạch BA và lập kế hoạch quản lý dự án)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3",
+        "title": "Conduct or Refine the Stakeholder Analysis (Thực hiện hoặc tinh chỉnh phân tích bên liên quan)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.1",
+        "title": "Techniques for Identifying Stakeholders (Kỹ thuật xác định bên liên quan)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.1.1",
+        "title": "Brainstorming (Động não)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.1.2",
+        "title": "Organizational Charts (Sơ đồ tổ chức)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2",
+        "title": "Determine Stakeholder Characteristics (Xác định đặc điểm bên liên quan)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.1",
+        "title": "Attitude (Thái độ)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.2",
+        "title": "Complexity (Độ phức tạp)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.3",
+        "title": "Culture (Văn hóa)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.4",
+        "title": "Experience (Kinh nghiệm)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.5",
+        "title": "Level of Influence (Mức độ ảnh hưởng)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.2.6",
+        "title": "Location and Availability (Địa điểm và mức sẵn sàng)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.3",
+        "title": "Techniques for Grouping or Analyzing Stakeholders (Kỹ thuật nhóm hoặc phân tích bên liên quan)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.3.1",
+        "title": "Job Analysis (Phân tích công việc)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.3.2",
+        "title": "Persona Analysis (Phân tích chân dung người dùng)"
+      },
+      {
+        "page": "04_ba_planning_stakeholders.html",
+        "section": "3.3.4",
+        "title": "Assemble the Stakeholder Analysis Results (Tổng hợp kết quả phân tích bên liên quan)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4",
+        "title": "Create the Business Analysis Plan (Tạo kế hoạch phân tích nghiệp vụ)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.1",
+        "title": "Business Analysis Plan vs. Requirements Management Plan (Kế hoạch BA và kế hoạch quản lý yêu cầu)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.2",
+        "title": "What to Include in the Business Analysis Plan (Nội dung cần có trong kế hoạch BA)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.2.1",
+        "title": "Determining the Proper Level of Detail (Xác định mức độ chi tiết phù hợp)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.3",
+        "title": "Understand the Project Context (Hiểu bối cảnh dự án)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.4",
+        "title": "Understand How the Project Life Cycle Influences Planning Decisions (Ảnh hưởng của vòng đời dự án)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.5",
+        "title": "Ensure the Team is Trained on the Project Life Cycle (Đảm bảo nhóm được đào tạo)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.6",
+        "title": "Leverage Past Experiences When Planning (Tận dụng kinh nghiệm trước đây)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.6.1",
+        "title": "Lessons Learned (Bài học kinh nghiệm)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.6.2",
+        "title": "Retrospectives (Họp cải tiến sau vòng lặp)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.7",
+        "title": "Plan for Elicitation (Lập kế hoạch khai thác thông tin)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.7.1",
+        "title": "Strategies for Sequencing Elicitation Activities (Chiến lược sắp xếp khai thác)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.8",
+        "title": "Plan for Analysis (Lập kế hoạch phân tích)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.9",
+        "title": "Define the Requirements Prioritization Process (Xác định quy trình ưu tiên yêu cầu)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.10",
+        "title": "Define the Traceability Approach (Xác định cách tiếp cận truy vết)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.11",
+        "title": "Define the Communication Approach (Xác định cách tiếp cận truyền thông)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.12",
+        "title": "Define the Decision-Making Process (Xác định quy trình ra quyết định)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.13",
+        "title": "Define Requirements Verification and Validation Processes (Xác định quy trình xác minh và thẩm định)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.14",
+        "title": "Define the Requirements Change Process (Xác định quy trình thay đổi yêu cầu)"
+      },
+      {
+        "page": "05_ba_planning_plan.html",
+        "section": "3.4.15",
+        "title": "Define the Solution Evaluation Process (Xác định quy trình đánh giá giải pháp)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5",
+        "title": "Plan the Business Analysis Work (Lập kế hoạch công việc BA)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.1",
+        "title": "Determine Who Plans the Business Analysis Effort (Xác định ai lập kế hoạch BA)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2",
+        "title": "Build the Business Analysis Work Plan (Xây dựng kế hoạch công việc BA)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.1",
+        "title": "Identify the Deliverables (Xác định sản phẩm bàn giao)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.2",
+        "title": "Determine the Tasks and Activities (Xác định nhiệm vụ và hoạt động)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.3",
+        "title": "Determine the Timing and Sequencing of Tasks (Xác định thời điểm và thứ tự nhiệm vụ)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.4",
+        "title": "Determine the Roles and Responsibilities (Xác định vai trò và trách nhiệm)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.5",
+        "title": "Identifying the Resources (Xác định nguồn lực)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.2.6",
+        "title": "Estimate the Work (Ước lượng công việc)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.3",
+        "title": "Assemble the Business Analysis Work Plan (Tổng hợp kế hoạch công việc BA)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.4",
+        "title": "Document the Rationale for the Business Analysis Approach (Ghi lại cơ sở lý do)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.5",
+        "title": "Review the Business Analysis Plan with Key Stakeholders (Rà soát kế hoạch BA)"
+      },
+      {
+        "page": "06_ba_planning_workplan.html",
+        "section": "3.5.6",
+        "title": "Obtain Approval of the Business Analysis Plan (Phê duyệt kế hoạch BA)"
+      }
+    ]
+  },
+  "navigation_validation": {
+    "status": "PASS",
+    "broken_links": [],
+    "notes": "Every page has global navigation, right-side/current-page TOC, section anchors, and Next Page navigation before and after quiz."
+  },
+  "quiz_validation": {
+    "status": "PASS",
+    "rule": "Each content page has exactly 10 questions: 5 Hard and 5 Hardest; no Easy or Medium questions.",
+    "pages": {
+      "00_beginning_preface.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "01_chapter_1_introduction.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "02_needs_assessment_current_state.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "03_needs_assessment_options_case.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "04_ba_planning_stakeholders.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "05_ba_planning_plan.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      },
+      "06_ba_planning_workplan.html": {
+        "total": 10,
+        "hard": 5,
+        "hardest": 5,
+        "answer_positions": "randomized by page rotation"
+      }
+    }
+  },
+  "deduplication_validation": {
+    "status": "PASS_WITH_STRUCTURAL_LABEL_EXCLUSION",
+    "notes": "Explanatory text is topic-specific. Repeated UI labels and learning-card headings are structural. print.html is intentionally excluded from duplicate-failure checks because it mirrors content pages for print synchronization."
+  },
+  "copyright_fidelity_note": "This is a non-substitutive study companion. It paraphrases, explains, and adds examples/checklists. It avoids long verbatim excerpts and does not reproduce source pages or figures as a replacement copy."
+}

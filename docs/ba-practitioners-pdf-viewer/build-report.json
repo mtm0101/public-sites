@@ -1,0 +1,191 @@
+{
+  "input": {
+    "prompt_file": "Văn bản đã dán (1)(31).txt",
+    "html_file": "6. Business Analysis for Practitioners - A Practice Guide (2015) - BA_Practitioners_PG_unlocked DONE.html"
+  },
+  "source_analysis": {
+    "detected_type": "pdf2htmlEX output",
+    "generator_meta": "pdf2htmlEX",
+    "document_title": "Business Analysis for Practitioners: A Practice Guide",
+    "source_page_count": 227,
+    "style_blocks": 3,
+    "script_blocks": 3,
+    "embedded_base64_images_detected": true,
+    "embedded_fonts_detected": true,
+    "pf_page_container_detected": true,
+    "existing_anchors_detected": 230
+  },
+  "output": {
+    "folder": "/mnt/data/ba_practitioners_html_site",
+    "zip": "/mnt/data/ba_practitioners_html_site.zip",
+    "generated_pages": [
+      {
+        "title": "Front Matter and Table of Contents",
+        "file": "front-matter.html",
+        "source_pages": [
+          1,
+          21
+        ],
+        "quiz": false
+      },
+      {
+        "title": "Chapter 1 - Introduction",
+        "file": "chapter-1-introduction.html",
+        "source_pages": [
+          22,
+          31
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 2 - Needs Assessment (Part 1)",
+        "file": "chapter-2-needs-assessment-part-1.html",
+        "source_pages": [
+          32,
+          44
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 2 - Needs Assessment (Part 2)",
+        "file": "chapter-2-needs-assessment-part-2.html",
+        "source_pages": [
+          45,
+          57
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 3 - Business Analysis Planning (Part 1)",
+        "file": "chapter-3-business-analysis-planning-part-1.html",
+        "source_pages": [
+          58,
+          73
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 3 - Business Analysis Planning (Part 2)",
+        "file": "chapter-3-business-analysis-planning-part-2.html",
+        "source_pages": [
+          74,
+          89
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 4 - Requirements Elicitation and Analysis (Part 1)",
+        "file": "chapter-4-requirements-elicitation-analysis-part-1.html",
+        "source_pages": [
+          90,
+          107
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 4 - Requirements Elicitation and Analysis (Part 2)",
+        "file": "chapter-4-requirements-elicitation-analysis-part-2.html",
+        "source_pages": [
+          108,
+          125
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 4 - Requirements Elicitation and Analysis (Part 3)",
+        "file": "chapter-4-requirements-elicitation-analysis-part-3.html",
+        "source_pages": [
+          126,
+          141
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 4 - Requirements Elicitation and Analysis (Part 4)",
+        "file": "chapter-4-requirements-elicitation-analysis-part-4.html",
+        "source_pages": [
+          142,
+          157
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 5 - Traceability and Monitoring",
+        "file": "chapter-5-traceability-monitoring.html",
+        "source_pages": [
+          158,
+          177
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Chapter 6 - Solution Evaluation",
+        "file": "chapter-6-solution-evaluation.html",
+        "source_pages": [
+          178,
+          197
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Appendix X1 - Contributors and Reviewers",
+        "file": "appendix-x1-contributors-reviewers.html",
+        "source_pages": [
+          198,
+          199
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Appendix X2 - Bibliography",
+        "file": "appendix-x2-bibliography.html",
+        "source_pages": [
+          200,
+          203
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Glossary",
+        "file": "glossary.html",
+        "source_pages": [
+          204,
+          218
+        ],
+        "quiz": true
+      },
+      {
+        "title": "Source Index",
+        "file": "index-source.html",
+        "source_pages": [
+          219,
+          227
+        ],
+        "quiz": false
+      }
+    ],
+    "exact_page_files": 227,
+    "shared_assets": [
+      "assets/style.css",
+      "assets/script.js",
+      "exact-pages/source-styles.css"
+    ]
+  },
+  "validation": {
+    "source_pages_interleaved_with_reflow_text": true,
+    "source_pages_expanded_by_default": true,
+    "source_pages_collapsible_individually": true,
+    "global_source_toggle": true,
+    "reflow_text_expanded_by_default": true,
+    "print_html_has_quizzes": false,
+    "main_generated_css_uses_white_visible_text": false,
+    "exact_pages_preserve_original_colors": true,
+    "relative_links_only": true,
+    "mobile_friendly_reflow": true
+  },
+  "notes": [
+    "Exact source pages are embedded through local iframes to preserve pdf2htmlEX layout and avoid broken table/figure extraction.",
+    "Reflowable text is coordinate-extracted from pdf2htmlEX text elements, cleaned for readability, and paired immediately after each source page.",
+    "Long chapters are split into page-range parts to keep navigation manageable."
+  ]
+}

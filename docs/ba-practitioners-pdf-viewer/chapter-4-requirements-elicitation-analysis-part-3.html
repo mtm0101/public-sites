@@ -1,0 +1,538 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Chapter 4 - Requirements Elicitation and Analysis (Part 3)</title><link rel="stylesheet" href="assets/style.css"></head>
+<body class=""><div class="site-shell"><div class="layout"><main class="content-card"><p class="eyebrow">Source pages 126–141</p>
+<h1>Chapter 4 - Requirements Elicitation and Analysis (Part 3)</h1>
+<p class="notice">Original source pages are shown first for each page. Reflowable extracted text follows each matching source page.</p>
+<nav class="nav-row" aria-label="Page navigation">
+<a href="chapter-4-requirements-elicitation-analysis-part-2.html">← Previous</a><a href="index.html">Back to index</a><a href="print.html">Print version</a><a href="chapter-4-requirements-elicitation-analysis-part-4.html">Next →</a>
+</nav>
+<div class="source-toolbar" aria-label="Source page display controls"><button type="button" data-source-action="collapse">Collapse all source pages</button><button type="button" data-source-action="expand">Expand all source pages</button></div>
+<section class="page-pair" aria-labelledby="source-page-126">
+<article class="source-block" id="source-page-126">
+<div class="source-header"><h2>Source page 126 · <a href="exact-pages/page-126.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 126" src="exact-pages/page-126.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-126-text">
+<h2>Reflowable Extracted Text - Source page 126 <a class="anchor" href="#source-page-126-text">#</a></h2>
+<ul>
+<li>Relationship to requirements. It is common for business rules to be identified in the normal course of</li>
+</ul>
+<p>eliciting and analyzing requirements. These rules could lead to functional requirements that are necessary to support the business rules. Rules also emerge in discussions of functional requirements that involve decisions.</p>
+<h5 id="section-4-10-9-2">4.10.9.2 Decision Tree and Decision Table <a class="anchor" href="#section-4-10-9-2" aria-label="Copy link to 4.10.9.2 Decision Tree and Decision Table">#</a></h5>
+<p>Decision trees and decision tables depict a series of decisions and the outcomes they lead to. Decision trees and tables are often used to model business rules. Decision trees work best with binary choices (i.e., yes or no), and decision tables can be used when more choices exist and the analysis is becoming complex.</p>
+<p>Decision trees are described in a tree of decision points where each branch represents a different choice. The far right of a decision tree (the leaves) represent the outcomes for a decision or series of decisions. Decision points in a decision tree are commonly represented as text at the branch points or in diamond shapes at the branch points. Decision outcomes are typically shown in boxes. Decision trees are drawn horizontally or vertically (with outcomes at the bottom).</p>
+<p>Decision tables use a tabular format where the upper rows in the table represent the decision points and the bottom rows in the table represent the outcomes. Each decision point row enumerates a set of all valid choice combinations. A dash in the cell indicates that the choice does not matter in determining the outcome in that column. Each outcome row is marked to indicate which choice combination is valid. Each column of the table is a business rule that describes the set of choices for each decision point and the outcomes it leads to. When an outcome is unachievable, it is considered indifferent in a decision table.</p>
+<p>The decision table consists of four areas as follows:</p>
+<ul>
+<li>Condition stub. Lists all of the possible conditions in the process or activity being analyzed.</li>
+<li>Conditions. Indicate which conditions are met.</li>
+<li>Action stub. Defines the possible actions as a result of the process or activity being analyzed.</li>
+<li>Actions. Indicate which actions are taken as a result of the conditions that are met.</li>
+</ul>
+<p>Example—Figure 4-8 shows a sample decision tree for selecting a recipe in the mobile application.</p>
+<p>For example, if there is a store in range and if there is inventory for the items the shopper wants, and if the locations of the items are available, then the map can display item locations. Decision trees can be arrayed in different forms; below is one approach. Figure 4-9 represents the decision table for this decision logic.</p>
+<ul>
+<li>Usage. Both decision trees and decision tables are used to model complex branching logic. During</li>
+</ul>
+<p>elicitation or analysis, when a business analyst uncovers a series of “if this, then that” statements, either type of decision model is appropriate to use. Decision trees are helpful to identify ways to reduce complex decision logic by looking for redundancies in the structure. Decision tables are useful to ensure all possible combinations of decision choices are considered.</p>
+<ul>
+<li>Relationship to requirements. Decision trees and decision tables are used to identify and represent</li>
+</ul>
+<p>business rules. Both models stand alone as representations of the business rules because they can be implemented directly, as a process or in development. These models can also help to identify any requirements related to supporting those business rules or the specific outcomes.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-127">
+<article class="source-block" id="source-page-127">
+<div class="source-header"><h2>Source page 127 · <a href="exact-pages/page-127.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 127" src="exact-pages/page-127.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-127-text">
+<h2>Reflowable Extracted Text - Source page 127 <a class="anchor" href="#source-page-127-text">#</a></h2>
+<p>Notify User of Lack of Inventory</p>
+<h3 id="source-page-127-no">NO <a class="anchor" href="#source-page-127-no" aria-label="Copy link to NO">#</a></h3>
+<p>Inventory available for all items? Notify User that Data is</p>
+<h3 id="source-page-127-yes">YES <a class="anchor" href="#source-page-127-yes" aria-label="Copy link to YES">#</a></h3>
+<p>Unavailable</p>
+<h3 id="source-page-127-yes-2">YES <a class="anchor" href="#source-page-127-yes-2" aria-label="Copy link to YES">#</a></h3>
+<h3 id="source-page-127-no-2">NO <a class="anchor" href="#source-page-127-no-2" aria-label="Copy link to NO">#</a></h3>
+<p>Stores within Select preference Recipe Placement range? information available?</p>
+<h3 id="source-page-127-no-3">NO <a class="anchor" href="#source-page-127-no-3" aria-label="Copy link to NO">#</a></h3>
+<h3 id="source-page-127-yes-3">YES <a class="anchor" href="#source-page-127-yes-3" aria-label="Copy link to YES">#</a></h3>
+<p>Notify User of Number Display of Stores Store Map with Items Figure 4-8. Example of Decision Tree Map Store Decision Table Rule 1 Rule 2 Rule 3 Rule 4 Conditions Stores within preference range N Y Y Y Inventory available for all items – N Y Y Placement information available – – N Y Outcomes Notify user when NO stores within</p>
+<h3 id="source-page-127-x">X – – – <a class="anchor" href="#source-page-127-x" aria-label="Copy link to X – – –">#</a></h3>
+<p>preference range</p>
+<h3 id="source-page-127-x-2">– X – – <a class="anchor" href="#source-page-127-x-2" aria-label="Copy link to – X – –">#</a></h3>
+<p>Notify user of lack of inventory</p>
+<h3 id="source-page-127-x-3">– – X – <a class="anchor" href="#source-page-127-x-3" aria-label="Copy link to – – X –">#</a></h3>
+<p>Notify user that data is unavailable</p>
+<h3 id="source-page-127-x-4">– – – X <a class="anchor" href="#source-page-127-x-4" aria-label="Copy link to – – – X">#</a></h3>
+<p>Display store map with items Figure 4-9. Example of Decision Table</p>
+<h5 id="section-4-10-10">4.10.10 Data Models <a class="anchor" href="#section-4-10-10" aria-label="Copy link to 4.10.10 Data Models">#</a></h5>
+<p>Data models document the data used in a process or system and its life cycle. These models are used to depict relationships between data, to show how data is related to processes, and to further help extract requirements and related business rules.</p>
+<p>106 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-128">
+<article class="source-block" id="source-page-128">
+<div class="source-header"><h2>Source page 128 · <a href="exact-pages/page-128.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 128" src="exact-pages/page-128.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-128-text">
+<h2>Reflowable Extracted Text - Source page 128 <a class="anchor" href="#source-page-128-text">#</a></h2>
+<h5 id="section-4-10-10-1">4.10.10.1 Entity Relationship Diagram <a class="anchor" href="#section-4-10-10-1" aria-label="Copy link to 4.10.10.1 Entity Relationship Diagram">#</a></h5>
+<p>The entity relationship diagram (ERD), also called a business data diagram, shows the business data objects or pieces of information of interest in a project and the cardinality relationship between those objects. Business data objects are the conceptual pieces of data that the business thinks and cares about and are not intended to refer to exact data objects in a database. Business data objects represent the people, places, things, and concepts that the business cares about. Business data objects are shown as boxes, relationships as lines, and cardinality as labels on the lines. Multiplicity is indicated on the relationship line to represent the number of times (cardinality) that one entity occurs in relationship to the other entity in the relationship, and whether the relationship is required or optional. Cardinality is modeled in several ways, such as crow’s foot notation or the 0 (none), 1 (single), and n (many) notation as shown in Figure 4-10. The method chosen is usually based on what the organization or business analyst is familiar with.</p>
+<p>Key 1 Single cardinality Optional One 0...n None up to many cardinality Optional Many 0...1 None or single cardinality Mandatory One 1...n Single up to many cardinality Relationship Mandatory Many Business data object Figure 4-10. Example of Crows’ Foot and 1 to N notation Some ERDs show the nature of the relationship between the objects as a text label on the line.</p>
+<p>Example—In Figure 4-11, the entity relationship diagram shows four different objects and their relationships. For example, the customer may have zero or more recipes and will be able to obtain information from one store for a given recipe. The item location is specific to the store and would be captured as an attribute (in a data dictionary), but it is helpful to note that on this type of diagram.</p>
+<ul>
+<li>Usage. The entity relationship diagram is a cornerstone model for a project that has a data management</li>
+</ul>
+<p>component, because it helps with identifying the data that is created in, consumed by, or output from the system. This model is used to define the business data objects and their relationships to one another. The specific attributes of these objects are specified in a data dictionary.</p>
+<ul>
+<li>Relationship to requirements. Systems typically manipulate business data objects through functions to</li>
+</ul>
+<p>allow business data objects within an entity relationship diagram to be traced directly to requirements for these functions. The data objects can be traced to data flow diagrams, ecosystem maps, data dictionaries, and state transition models.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-129">
+<article class="source-block" id="source-page-129">
+<div class="source-header"><h2>Source page 129 · <a href="exact-pages/page-129.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 129" src="exact-pages/page-129.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-129-text">
+<h2>Reflowable Extracted Text - Source page 129 <a class="anchor" href="#source-page-129-text">#</a></h2>
+<p>Store layout Key 1...n 1...n will be an Item Store attribute of 1 Single cardinality the store 1...n 1 0...n None up to many cardinality 0...1 None or single cardinality 1...n Single up to many cardinality 0...n 0...n Relationship Business data object 0...n0...n Recipe Customer Figure 4-11. Example of Entity Relationship Diagram</p>
+<h5 id="section-4-10-10-2">4.10.10.2 Data Flow Diagrams <a class="anchor" href="#section-4-10-10-2" aria-label="Copy link to 4.10.10.2 Data Flow Diagrams">#</a></h5>
+<p>A data flow diagram illustrates the relationships between systems, actors, and the data that is exchanged and manipulated over the course of one or many processes. It is a model that can be used after business data diagrams, process flows, and an ecosystem map have been created. In Figure 4-12, the data stores (shown as 2 parallel lines) show where information is conceptually stored, and the process steps (shown as circles) indicate which functions manipulate or use the data, and which external entities (shown as boxes) create data or consume data.</p>
+<p>Example—The data flow diagram in Figure 4-12 shows that the customer selects a recipe and store, which are used in processes to map the store and overlay the ingredients on the map.</p>
+<ul>
+<li>Usage. A data flow diagram can be used to describe the movement of data between actors and systems</li>
+</ul>
+<p>over the course of a process or several processes. Data flow diagrams identify data inputs and outputs for processes, but do not specify the timing or sequence of operations.</p>
+<ul>
+<li>Relationship to requirements. Data flow diagrams relate to requirements through the business data</li>
+</ul>
+<p>objects and processes. While requirements can be traced to the model, it is better used as a tool to help stakeholders and developers understand how data flows through the systems, which then leads to identifying specific data requirements.</p>
+<h5 id="section-4-10-10-3">4.10.10.3 Data Dictionary <a class="anchor" href="#section-4-10-10-3" aria-label="Copy link to 4.10.10.3 Data Dictionary">#</a></h5>
+<p>A data dictionary is a tabular format and shows data fields and attributes of those fields. Common attributes include name, description, size, and validation rules. However, any relevant attributes can be captured in a data dictionary.</p>
+<p>Example—Figure 4-13 is part of a data dictionary and shows a few attributes for the recipe, store, and items. Business rules may be described in a data dictionary. For example, this data dictionary shows StoreNum is a 3 digit number that is required to be postive and one of the valid store numbers.</p>
+<p>108 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-130">
+<article class="source-block" id="source-page-130">
+<div class="source-header"><h2>Source page 130 · <a href="exact-pages/page-130.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 130" src="exact-pages/page-130.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-130-text">
+<h2>Reflowable Extracted Text - Source page 130 <a class="anchor" href="#source-page-130-text">#</a></h2>
+<p>RecipesStores Store Map Information RecipeStore mapItem overlayStore Store number Recipe items Select Map Select Store Store Recipe Map with item overlay Store Recipe selection selection Customer Figure 4-12. Example of Data Flow Diagram Business Field Unique Data ID Description Length Valid Values Data Type Name Values?</p>
+<p>Object RM01 Recipe Recipe text Recipe in formatted layout Y Alphanumeric &lt; 1,000 Structured text characters (see REC_FRM01) RM03 Items Recipe UPC UPC collection for a given recipe Y Alphanumeric &lt; 1,000 Structured text characters (see REC_FRM02) RM02 Store Store Store number for map and overlay Y Integer 3 numeric Integer &gt; 0 and number characters valid store number RM04 Store Store map Graphic of store layout Y Graphic 640 x 480 n/a pixels RM06 Store Item overlay Generated array of recipe items, Y Alphanumeric &lt; 1,000 Structured text locations, scaled to store layout graphic characters (see LAYOUT_FRM01) Figure 4-13. Example of Data Dictionary</p>
+<ul>
+<li>Usage. Data dictionaries are used to specify very detailed aspects of data and to capture data fields</li>
+</ul>
+<p>and attributes from the business stakeholder’s perspective. The information captured does not need to explicitly reflect a database design. However, database designers use data dictionaries as an input to create the database architecture.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-131">
+<article class="source-block" id="source-page-131">
+<div class="source-header"><h2>Source page 131 · <a href="exact-pages/page-131.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 131" src="exact-pages/page-131.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-131-text">
+<h2>Reflowable Extracted Text - Source page 131 <a class="anchor" href="#source-page-131-text">#</a></h2>
+<ul>
+<li>Relationship to requirements. Data dictionaries are used to capture very detailed requirements and</li>
+</ul>
+<p>their business rules. This model can stand alone and does not need redundant requirements statements.</p>
+<h5 id="section-4-10-10-4">4.10.10.4 State Table and State Diagram <a class="anchor" href="#section-4-10-10-4" aria-label="Copy link to 4.10.10.4 State Table and State Diagram">#</a></h5>
+<p>State tables and state diagrams model the valid states of an object and any allowed transitions between those states. State tables are in a tabular format with all of the valid states in the first column and across the first row.</p>
+<p>Each cell represents the transition from the state in the row to the state in the column. Transitions that are not allowed have cells that are marked with “X,” “N/A” or “no.” Allowed transitions are represented in cells with either “yes” or a description of the transition event that leads to the transition. State diagrams show exactly the same information as state tables, but it is easier to visualize the valid states and transitions by showing only the allowed transitions. Ovals are used for states, and lines with arrows show the transitions and transition events between states. Some state diagrams are drawn by showing an initiation state and a termination state.</p>
+<p>Example—Figure 4-14 is an example of a state table for the states of a recipe, and Figure 4-15 is the state diagram for the exact same scenario. Notice that the states and transitions are the same in both figures; either model may be used to show the same information. Both models show that a reviewed recipe can move to either a rejected or published state. The state diagram makes it easier to see how a recipe moves from drafted to reviewed to published states.</p>
+<p>Target State DraftedReviewed RejectedPublished Expired Reviewer</p>
+<h3 id="source-page-131-x-x-x">X X X <a class="anchor" href="#source-page-131-x-x-x" aria-label="Copy link to X X X">#</a></h3>
+<p>Drafted X reviews Reviewer Reviewer Reviewed X X X rejects draftapproves Resubmit Rejected X X X as draft 120 days elapse Initial State Published X X</p>
+<h3 id="source-page-131-x-x">X X <a class="anchor" href="#source-page-131-x-x" aria-label="Copy link to X X">#</a></h3>
+<p>with no use Author edits</p>
+<h3 id="source-page-131-x-x-2">X X <a class="anchor" href="#source-page-131-x-x-2" aria-label="Copy link to X X">#</a></h3>
+<p>Expired X X expired recipe Figure 4-14. Example of State Table</p>
+<ul>
+<li>Usage. State tables and state diagrams help business analysts specify the life cycle of an object in the</li>
+</ul>
+<p>solution. For example, objects that go through workflow (e.g., an approval process) are aided by using state models. State tables are useful to ensure that state transitions are not missed, because every possible transition is represented by a cell in the table; when every cell in the life cycle is considered, no transitions can be forgotten. It is more difficult to ensure that state diagrams are complete, but much easier to quickly visualize the life cycle of an object.</p>
+<ul>
+<li>Relationship to requirements. State table and state diagrams are models that stand alone and do not</li>
+</ul>
+<p>require additional requirements statements to be developed and tested correctly. The exception to this is</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-132">
+<article class="source-block" id="source-page-132">
+<div class="source-header"><h2>Source page 132 · <a href="exact-pages/page-132.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 132" src="exact-pages/page-132.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-132-text">
+<h2>Reflowable Extracted Text - Source page 132 <a class="anchor" href="#source-page-132-text">#</a></h2>
+<p>Author edits expired recipe Reviewer Reviewer reviews approves Drafted Reviewed Published Expired Resubmit Reviewer 120 days elapse as draftrejects draftwith no use Rejected Figure 4-15. Example of State Diagram when the transition events are too complicated to fit in the cell or on the arrow, in which case, additional detail is included outside of the model. State tables are also used to confirm or find gaps in data and processes that have been specified by other models and are used often to model business rules.</p>
+<h5 id="section-4-10-11">4.10.11 Interface Models <a class="anchor" href="#section-4-10-11" aria-label="Copy link to 4.10.11 Interface Models">#</a></h5>
+<p>Interface models depict the relationships within a solution to gain an understanding of which interfaces there are and the details of those interfaces.</p>
+<h5 id="section-4-10-11-1">4.10.11.1 Report Table <a class="anchor" href="#section-4-10-11-1" aria-label="Copy link to 4.10.11.1 Report Table">#</a></h5>
+<p>A report table is a model that captures the detailed level requirements for a single report. Common attributes of a report include: name, description, decisions made from the report, objectives, audience, trigger, data fields, data volume, frequency, display format, and calculations. These attributes should be specified alongside a prototype or example of the actual report, when possible, because it adds context for the textual information in the report table.</p>
+<p>While it is not necessary to complete all fields, the fields can be used to help identify what to think about when eliciting reporting requirements.</p>
+<p>Example—Figure 4-16 shows a prototype of the Mobile App Usage Report and Figures 4-17 and 4-18 show the report table model (the model is split into two figures here for sizing but is typically one table).</p>
+<p>Fig 4-16 provides data for each store on the number of transactions, number of products per transaction,</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-133">
+<article class="source-block" id="source-page-133">
+<div class="source-header"><h2>Source page 133 · <a href="exact-pages/page-133.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 133" src="exact-pages/page-133.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-133-text">
+<h2>Reflowable Extracted Text - Source page 133 <a class="anchor" href="#source-page-133-text">#</a></h2>
+<p>Mobile App Usage Report (MAUR) Reporting Period: September 07, 2014–September 13, 2014 Number of RegionStore IDNumber of Number of Number of Average Number of Average Number of App Recipe Loyalty Loyalty Program Products per Products per Downloads Uploads Program Transactions by Transaction for Loyalty Transaction for Loyalty Transactions Users with Recipe with Recipe without Recipe Uploads Transactions Transactions 10,732 10 6,907 34 0 0 78,563 4,576 23548 Central Texas 10,723 2,469 32 17 54721 Central Texas 6,093 1,098 33 15 56098 Central Texas 15,497 543 30 12 Figure 4-16. Example of Report Prototype Element Description Unique ID REP_MBL001 Name Mobile App Usage Report (MAUR) Description The MAUR contains the total numbers of new app downloads, recipe uploads, and frequency of visits by app users Decisions Made from The MAUR will be used to determine if the Recipe Box feature is being utilized by mobile app users and if users Report are actually purchasing the products in stores Objective Business Objective 01 (improve profit per visit) Priority 1 of 16 Functional Area Sales and Marketing Related Reports Inventory Report (REP_INV001), Sales Report (REP_REV001) Report Owner Marketing Manager Report Users VP of Sales, VP of Marketing, Sales Representatives, Marketing Department, Mobile Services Representatives Trigger MAUR is generated automatically on Monday morning at 2 a.m.</p>
+<p>Frequency Weekly Latency MAUR is delivered within 2 minutes of being triggered and contains data for the previous week (Monday 12:00 a.m.–Sunday 11:59 p.m.) Top-Level Elements Transaction Volume Approximately 100,000 transactions are logged weekly Security Viewable by all sales and marketing team members Persistence All settings are saved between report executions Visual Format The Reporting period will be noted above the MAUR Matrix in the form &quot;Month DD, YYYY – Month DD, YYYY&quot;</p>
+<p>MAUR is a matrix with the following columns: Number of App Downloads, Number of Recipe Uploads, Store ID, Region, Number of Loyalty Program Transactions, Number of Loyalty Program Transactions by Users with Recipe Uploads, Average Number of Products per Transaction for Loyalty with Recipe Transactions, Average Number of Products per Transaction for Loyalty without Recipe Transactions The first row contains metrics for all stores The Store ID and Region will be &quot;O&quot; for the first row Delivery Format The report is emailed in an Excel file Interactivity The MAUR retains normal interactivity available in Excel files Drilldowns N/A Figure 4-17. Example of Top-Level Elements in a Report Table 112 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-134">
+<article class="source-block" id="source-page-134">
+<div class="source-header"><h2>Source page 134 · <a href="exact-pages/page-134.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 134" src="exact-pages/page-134.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-134-text">
+<h2>Reflowable Extracted Text - Source page 134 <a class="anchor" href="#source-page-134-text">#</a></h2>
+<p>Element Description Filtered By All columns can be filtered The default setting displays all data Grouped By Rows are grouped by Region Sorted By All columns can be sorted The default setting is to sort by Store ID within Region User Input Parameters N/A Group Calculation N/A Calculated Fields Each calculation is done for the duration of the report period specified:</p>
+<p>App. DownloadTotal = sum of app downloads Recipe. UploadTotal = sum of recipe uploads Transactions. LoyaltyTotal = sum of transactions using a Loyalty Program ID Transactions. LoyaltyRecipeTotal = sum of transactions using a Loyalty Program ID with recipe upload(s) Transactions. AverageProductsPerLRT = total number of products purchased in Transactions. LoyaltyRecipeTotal divided by Transactions. LoyaltyRecipeTotal Field Elements Transactions. AverageProductsPerLNRT = total number of products purchased in Transactions. LoyaltyNoRecipeTotal divided by Transactions. LoyaltyNoRecipeTotal Displayed Fields All fields are shown with rounding to the nearest integer App. DownloadTotal Recipe. UploadTotal Store. StoreNum Store. Region Transactions. LoyaltyTotal Transactions. LoyaltyRecipeTotal Transactions. AverageProductsPerLRT Transactions. AverageProductsPerLNRT Figure 4-18. Example of Field Elements in a Report Table new mobile application downloads, and recipe uploads. This information allows the sales and marketing department to establish a correlation between the mobile app and recipe feature and the actual changes in the average number of products purchased in each transaction. There are many different types of report table templates. This is one example and provides one sample of the type of information that could be placed in a report table model.</p>
+<ul>
+<li>Usage. Report tables are straightforward, can be created for each report, and are helpful to provide additional</li>
+</ul>
+<p>details about reports that cannot be gleaned by looking at a mockup. Using a report table with attributes allows the business analyst to specify the type of information to be included in the reports, thereby ensuring that details are not forgotten or overlooked in the solution. When report data has multiple sources, the business analyst needs to define the system of record. The answer may require either a business or a technical decision. When mockup tools are available, teams may choose to use the tool instead of using the table. The business analyst should make sure the tool provides all of the same opportunities to capture requirements as are provided by the report table. Missing these opportunities can result in missed requirements.</p>
+<ul>
+<li>Relationship to requirements. The information in a report table model represents the actual report</li>
+</ul>
+<p>requirements; therefore, no additional requirements are necessary. Stakeholders can use the report table and a mockup of the report to fully understand the report requirements.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-135">
+<article class="source-block" id="source-page-135">
+<div class="source-header"><h2>Source page 135 · <a href="exact-pages/page-135.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 135" src="exact-pages/page-135.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-135-text">
+<h2>Reflowable Extracted Text - Source page 135 <a class="anchor" href="#source-page-135-text">#</a></h2>
+<h5 id="section-4-10-11-2">4.10.11.2 System Interface Table <a class="anchor" href="#section-4-10-11-2" aria-label="Copy link to 4.10.11.2 System Interface Table">#</a></h5>
+<p>A system interface table is a model of attributes that captures all of the detailed level requirements for a single system interface. The system interface table is in a tabular format and typically includes attributes such as source system, target system, volume of data passed, security or other rules, and the actual data objects passed.</p>
+<p>Example—Table 4-7 is an example of a system interface table for the interface between the grocery store and the customer’s mobile device. This system interface table specifies that information about the store and recipes are synced daily from the store to the mobile device.</p>
+<p>Table 4-7. Example of System Interface Table System Interface Source Store Target Customer mobile device</p>
+<h3 id="source-page-135-id-ms-01">ID MS_01 <a class="anchor" href="#source-page-135-id-ms-01" aria-label="Copy link to ID MS_01">#</a></h3>
+<p>Description Passes store and recipe information to mobile application Frequency Daily Volume &lt;1000 recipes Security Constr aints None Error Handling See Sync_Store_Recipe_System_Flow Interface Objects Object Field Data Dictionary ID Validation Rule Store StoreNum RM02 Positive integer Store StoreMap RM04 JPEG image Recipe RecipeText RM01 Well-formed structured text (ref data dictionary) Store ItemOverlay RM06 Well-formed structured text (ref data dictionary)</p>
+<ul>
+<li>Usage. System interface tables are used to specify the details for each interface between the systems</li>
+</ul>
+<p>in the solution. Typically these tables specify requirements for both the source and/or target system, but it could be only one of these. The attributes of a system interface table ensure that details about the interface are not forgotten.</p>
+<ul>
+<li>Relationship to requirements. System interface tables are detailed enough to represent the actual</li>
+</ul>
+<p>interface requirements and do not need to have other requirements written.</p>
+<h5 id="section-4-10-11-3">4.10.11.3 User Interface Flow <a class="anchor" href="#section-4-10-11-3" aria-label="Copy link to 4.10.11.3 User Interface Flow">#</a></h5>
+<p>A user interface flow displays specific pages or screens within a functional design and plots out how to navigate the screens according to various triggers. The boxes in this diagram are the main screens in the user interface. The lines show the flows allowed between screens.</p>
+<p>Example—Figure 4-19 is a user interface flow that shows the transition between the screens in the mobile application. For example, a user can move from the login screen to the register screen to the search recipe screen, or directly from the login screen to the search screen.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-136">
+<article class="source-block" id="source-page-136">
+<div class="source-header"><h2>Source page 136 · <a href="exact-pages/page-136.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 136" src="exact-pages/page-136.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-136-text">
+<h2>Reflowable Extracted Text - Source page 136 <a class="anchor" href="#source-page-136-text">#</a></h2>
+<p>Login Register Search Preferences Recipe Select Return to recipe search View Search Recipe for Store</p>
+<h3 id="source-page-136-no">NO <a class="anchor" href="#source-page-136-no" aria-label="Copy link to NO">#</a></h3>
+<p>Stores found?</p>
+<h3 id="source-page-136-yes">YES <a class="anchor" href="#source-page-136-yes" aria-label="Copy link to YES">#</a></h3>
+<p>Select store Store Store Map Results Figure 4-19. Example of User Interface Flow</p>
+<ul>
+<li>Usage. Typically, user interface flows are used in the solution definition stage of a project and help track</li>
+</ul>
+<p>all of the screens that need to be further defined. This model is applicable only when there is a user interface as part of a solution. Interface flows can be used during elicitation sessions to determine more details about the functions that take users between the screens.</p>
+<ul>
+<li>Relationship to requirements. This model does not reflect individual requirements statements. The user</li>
+</ul>
+<p>interface flow can be traced to other requirements models such as the display-action-response models, process flows, and individual requirements.</p>
+<h5 id="section-4-10-11-4">4.10.11.4 Wireframes and Display-Action-Response <a class="anchor" href="#section-4-10-11-4" aria-label="Copy link to 4.10.11.4 Wireframes and Display-Action-Response">#</a></h5>
+<p>The display-action-response model is used in conjunction with wireframes or screen mockups to identify page elements and the functions, if any, they are attached to. Each wireframe is broken down into user interface elements, which are then described from a display perspective and a behavior perspective. A user interface (UI) element table is created for every element on the screen that has user interface requirements. Each table describes</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-137">
+<article class="source-block" id="source-page-137">
+<div class="source-header"><h2>Source page 137 · <a href="exact-pages/page-137.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 137" src="exact-pages/page-137.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-137-text">
+<h2>Reflowable Extracted Text - Source page 137 <a class="anchor" href="#source-page-137-text">#</a></h2>
+<p>the user interface element’s display requirements under different preconditions and behavior requirements under different preconditions and user actions.</p>
+<p>While this type of user interface analysis is sometimes performed by user experience analysts or human factors experts, the business analyst is often called upon to perform this function. In general, user interface analysis focuses on profiles of the users who interact with the system, and precedes interface design. The business analyst, working in conjunction with the user experience analyst when one is assigned, analyzes the user interfaces to see how well these interfaces meet the general principles of human-machine interface:</p>
+<ul>
+<li>Compatibility. Minimize the amount of information recoding that will be necessary for operators/users</li>
+</ul>
+<p>(Write Once, Read Anywhere).</p>
+<ul>
+<li>Consistency. Minimize the difference in dialog both within and across various human computer</li>
+</ul>
+<p>interfaces; follow a user interface standard such as common user access (CUA).</p>
+<ul>
+<li>Memory. Minimize the amount of information that users need to maintain in short-term memory (use</li>
+</ul>
+<p>reference tables or default information to prefill forms).</p>
+<ul>
+<li>Structure. Show users the structure of the system so that they are able to navigate through the interface</li>
+</ul>
+<p>intuitively (effective grouping of similar data elements).</p>
+<ul>
+<li>Feedback. Provide users with feedback and error correction capabilities (something happens on the</li>
+</ul>
+<p>interface every half second).</p>
+<ul>
+<li>Workload. Keep user mental workload within acceptable limits.</li>
+<li>Individualization. Allow customization of the interface to determine the requirements for individualization.</li>
+</ul>
+<p>Collaboration Point—Because the information elicited is complementary, the user interface analyst and business analyst should work together to support each other when eliciting requirements.</p>
+<p>Example—Figure 4-20 shows a simple wireframe mockup of the login screen. Figure 4-21 shows one display-action-response model for the screen, specifically the display and behavior requirements for the password button. This model specifies requirements to the level of what gets displayed when the user types their password (privacy dots) or what happens when the user selects a field (keyboard appears).</p>
+<ul>
+<li>Usage. This model is helpful when there is a user interface for a solution. The display-action response</li>
+</ul>
+<p>model is typically used when precision is needed for detailing the display and interactions in a user interface. This could occur when defining user interfaces for a large number of users, high-risk user interfaces, or when a development team is unfamiliar with the product. These models are helpful for specifying user interface requirements because the model places the individual requirements statements in the context of the elements on the screen.</p>
+<ul>
+<li>Relationship to requirements. Display-action response models trace directly to wireframes, user</li>
+</ul>
+<p>stories, user interface flows, and data dictionaries. These models contain user interface requirements and do not need further specification.</p>
+<p>116 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-138">
+<article class="source-block" id="source-page-138">
+<div class="source-header"><h2>Source page 138 · <a href="exact-pages/page-138.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 138" src="exact-pages/page-138.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-138-text">
+<h2>Reflowable Extracted Text - Source page 138 <a class="anchor" href="#source-page-138-text">#</a></h2>
+<h3 id="source-page-138-ms001">MS001 <a class="anchor" href="#source-page-138-ms001" aria-label="Copy link to MS001">#</a></h3>
+<p>Logo</p>
+<h3 id="source-page-138-ms003">MS003 <a class="anchor" href="#source-page-138-ms003" aria-label="Copy link to MS003">#</a></h3>
+<p>Username</p>
+<h3 id="source-page-138-ms002">MS002 <a class="anchor" href="#source-page-138-ms002" aria-label="Copy link to MS002">#</a></h3>
+<p>Password</p>
+<h3 id="source-page-138-ms005">MS005 <a class="anchor" href="#source-page-138-ms005" aria-label="Copy link to MS005">#</a></h3>
+<h3 id="source-page-138-ms004">MS004 <a class="anchor" href="#source-page-138-ms004" aria-label="Copy link to MS004">#</a></h3>
+<p>Login Register Figure 4-20. Example of Wireframe UI Element: Password Field UI Element Description</p>
+<h3 id="source-page-138-id-ms003">ID MS003 <a class="anchor" href="#source-page-138-id-ms003" aria-label="Copy link to ID MS003">#</a></h3>
+<p>Description A field for the user to enter their password UI Element Displays Precondition Display On login screen Display field No text entered Grayed out password Text entered Privacy dots are displayed per character UI Element Behaviors Precondition Action Response On login screen Select field Keyboard appears Text entered Enter additional text Privacy dots per character appear Figure 4-21. Example of Display-Action Response Model</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-139">
+<article class="source-block" id="source-page-139">
+<div class="source-header"><h2>Source page 139 · <a href="exact-pages/page-139.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 139" src="exact-pages/page-139.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-139-text">
+<h2>Reflowable Extracted Text - Source page 139 <a class="anchor" href="#source-page-139-text">#</a></h2>
+<h4 id="section-4-11">4.11 Document the Solution Requirements <a class="anchor" href="#section-4-11" aria-label="Copy link to 4.11 Document the Solution Requirements">#</a></h4>
+<p>After analyzing all of the information that has been elicited, the business analyst documents the resulting requirements in one of many forms, depending on the organization, the project needs, and the project life cycle being used. Regardless of the form the requirements take, when packaged together, a set of requirements defines the solution scope to the business problem or opportunity. The business analyst prepares the requirements package so that the solution team understands how to develop the solution. Documentation can be produced in various levels of formality and in many forms, and is often dependent on the selected project life cycle. The solution may not be the complete solution, as in the case of a project following an adaptive project life cycle, but it should represent the solution based on the information available at that point in time.</p>
+<h5 id="section-4-11-1">4.11.1 Why Documentation is Important <a class="anchor" href="#section-4-11-1" aria-label="Copy link to 4.11.1 Why Documentation is Important">#</a></h5>
+<p>Documented requirements serve a multitude of purposes, such as the following:</p>
+<ul>
+<li>Baseline to valida te the stakeholder needs;</li>
+<li>Baseline definition of the solution for the business problem or opportunity;</li>
+<li>Primar y input to the design team, the developers, testers, and quality assurance;</li>
+<li>Basis for user manuals and other documenta tion whether written or embedded;</li>
+<li>Supporting detail for contractual agreements, when applicable (e.g., the requirements are a core input to</li>
+</ul>
+<p>a statement of work (SOW) for a request for proposal (RFP));</p>
+<ul>
+<li>Starting point for the evolution of the solution;</li>
+<li>Foundation for reusability by other project teams who need an understanding of the project details while</li>
+</ul>
+<p>it is in process or after implementation; and</p>
+<ul>
+<li>Baseline for an audit of regula ted industries and high-risk projects that are required to have documented</li>
+</ul>
+<p>requirements. Despite the importance of documenting the requirements, keep some factors in mind about requirements documentation:</p>
+<ul>
+<li>Requirements documenta tion is only one of several techniques to ensure consensus among all of the</li>
+</ul>
+<p>stakeholders as to the behavior of the solution.</p>
+<ul>
+<li>Documenta tion should not replace communication and collaboration.</li>
+</ul>
+<h5 id="section-4-11-2">4.11.2 Business Requirements Document <a class="anchor" href="#section-4-11-2" aria-label="Copy link to 4.11.2 Business Requirements Document">#</a></h5>
+<p>Business requirements are the goals, objectives, and higher-level needs of the organization and provide the rationale for a new project. Business requirements recognize what is critical to the business and why it is critical before defining a solution.</p>
+<p>118 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-140">
+<article class="source-block" id="source-page-140">
+<div class="source-header"><h2>Source page 140 · <a href="exact-pages/page-140.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 140" src="exact-pages/page-140.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-140-text">
+<h2>Reflowable Extracted Text - Source page 140 <a class="anchor" href="#source-page-140-text">#</a></h2>
+<p>In some organizations, a business requirement is considered to be the high-level requirement, for which user or stakeholder requirements are then used to document the solution. Other organizations use the term business requirements to refer to any requirement that is not a system or technical requirement. Business requirements may be assembled in a business requirements specification or may be part of a larger document that contains all of the requirements. Organizations that use spreadsheets to capture requirements may use a hierarchical structure, with the business requirement as the starting point. In a requirements management tool, business requirements are often grouped by assigning a category or attribute. 4</p>
+<h5 id="section-4-11-3">4.11.3 The Solution Documentation <a class="anchor" href="#section-4-11-3" aria-label="Copy link to 4.11.3 The Solution Documentation">#</a></h5>
+<p>Solution documentation is the documentation that is comprised of the features, functions, and characteristics of the product or service that will be built to meet the business and stakeholder requirements. The work of the solution development team is heavily dependent on the solution documentation, because it serves as the blueprint for the product that the solution team is being asked to build. When development work is outsourced, it is essential for the solution documentation to be precise and detailed, because the outsourced team often lacks the business knowledge that an internal development team has. The business stakeholders have a role to review, validate, and approve the solution documentation. The level of formality for these processes is dependent on the selected project life cycle.</p>
+<p>The solution documentation may be rendered in any number of forms. Some common forms include:</p>
+<ul>
+<li>Requirements document, which may be a business requirements document and/or a functional</li>
+</ul>
+<p>requirements specification and/or a system or software requirements specification, etc.;</p>
+<ul>
+<li>Deck of user stories written;</li>
+<li>Set of use cases with accompan ying nonfunctional requirements; or</li>
+<li>List of items on a product backlog.</li>
+</ul>
+<p>The format of the solution documentation is defined in business analysis planning.</p>
+<h5 id="section-4-11-3-1">4.11.3.1 Requirements <a class="anchor" href="#section-4-11-3-1" aria-label="Copy link to 4.11.3.1 Requirements">#</a></h5>
+<p>Product requirements are written at different levels of detail and are associated with different requirement types, for example, business, stakeholder, solution, and transition requirements, where solution requirements are further categorized as functional and nonfunctional. Within any of these types, requirements can be written into progressive levels of detail, and when this occurs, these can be documented in a hierarchy or with a numbering convention that demonstrates the hierarchical progression.</p>
+<p>While product requirements describe what is being built or the outcome of the project or solution to the business problem, project requirements describe the constraints and necessities for successful completion of the project.</p>
+<p>Example—For example, product requirements describe the length and width of the sidewalk to be constructed in front of a building, along with such aspects as color and texture. The project requirements for laying the sidewalk could include the number of laborers required, qualifications of the laborers to handle the equipment, size of the equipment, time frame for usage, and any restrictions on labor hours.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-141">
+<article class="source-block" id="source-page-141">
+<div class="source-header"><h2>Source page 141 · <a href="exact-pages/page-141.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 141" src="exact-pages/page-141.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-141-text">
+<h2>Reflowable Extracted Text - Source page 141 <a class="anchor" href="#source-page-141-text">#</a></h2>
+<p>Collaboration Point—Product requirements are the responsibility of the business analyst. Project requirements are the responsibility of the project manager.</p>
+<h5 id="section-4-11-3-2">4.11.3.2 Categorization <a class="anchor" href="#section-4-11-3-2" aria-label="Copy link to 4.11.3.2 Categorization">#</a></h5>
+<p>Requirement categories are used to help group and structure requirements within the documentation. The requirement categories may be determined before starting the documentation effort or the requirements may be documented first and then the categories decided after. When choosing the categories later, they can be determined based on the actual information gathered. Selecting the categories earlier may provide a structure for use in organizing how to elicit information from stakeholders.</p>
+<p>The process of categorization helps expose vague, misstated, ambiguous, or otherwise poorly written requirements. When the business analyst is unable to place information or a requirement in a category, the requirement is likely to be invalid and may need to be revised, expanded, or removed. Categorization used in this way filters out the bad or poorly written requirements.</p>
+<p>Examples of possible filters are:</p>
+<ul>
+<li>Scope filter. Determine whether a requirement or information is in scope, out of scope, or unknown.</li>
+</ul>
+<p>Unknown refers to requirements that are possibly invalid and need to be revised or omitted.</p>
+<ul>
+<li>Functional filter. Once the functional categories have been determined, any defined functional</li>
+</ul>
+<p>requirement not fitting into one of the categories can be filtered out, revised, or discarded.</p>
+<ul>
+<li>Prioritization filter. An arbitrary level of priority (e.g., needs, wants, and desires), is defined and used as</li>
+</ul>
+<p>a filter to determine which requirements stay or are removed.</p>
+<ul>
+<li>Testability filter. All requirements need to be testable, and all requirements should be examined to</li>
+</ul>
+<p>determine if they are testable. Any requirements that are not testable are filtered out and need to be revised.</p>
+<p>Note: Filters may indicate the need for an additional classification, implying that the original list of filter elements is incomplete.</p>
+<h5 id="section-4-11-4">4.11.4 Requirements Specification <a class="anchor" href="#section-4-11-4" aria-label="Copy link to 4.11.4 Requirements Specification">#</a></h5>
+<p>The requirements specification is a common form for documenting requirements. The requirements specification attempts to specify all circumstances, conditions, actions, reactions, results, and error conditions that could possibly occur in the defined solution. The concept is to create a manual that is followed by the development team to create the solution. Many books have been written on the subject of how to construct a requirements specification, and how the individual requirements within that specification should be written. There are several available standards that can be followed. Each attempts to circumscribe the contents and form of the requirements specification.</p>
+<p>Requirements specification is a generic term that includes all documents that contain requirements. These requirements may be high-level, business-oriented wants and needs, or very detailed specifications required to build the new product or service.</p>
+<p>120 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="quiz" id="generated-quiz" data-quiz-id="chapter-4-requirements-elicitation-analysis-part-3">
+<h2>Generated Quiz <a class="anchor" href="#generated-quiz">#</a></h2>
+<p class="quiz-note">This quiz is generated for study purposes and is not part of the original source HTML.</p>
+<section class="quiz-difficulty" data-difficulty="Hard">
+<div class="quiz-difficulty-header">
+<h3>Hard Questions</h3>
+<div class="quiz-score" aria-live="polite">Score: <span>0/5</span></div>
+<button type="button" class="quiz-reset">Retest this difficulty</button>
+</div>
+<article class="quiz-question" data-question-index="1" data-correct="2" data-explanation="The best answer is “Decision Tree and Decision Table” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q1.</strong> Which topic is most directly emphasized in Chapter 4 - Requirements Elicitation and Analysis (Part 3)?</p>
+<ol class="options" type="A">
+<li><button type="button">Chapter 3 - Business Analysis Planning (Part 1)</button></li>
+<li><button type="button">elicitation</button></li>
+<li><button type="button">Decision Tree and Decision Table</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 1)</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="2" data-correct="0" data-explanation="The best answer is “X – – –” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q2.</strong> Which item would be most relevant when studying the material in Chapter 4 - Requirements Elicitation and Analysis (Part 3)?</p>
+<ol class="options" type="A">
+<li><button type="button">X – – –</button></li>
+<li><button type="button">User Interface Flow</button></li>
+<li><button type="button">analysis planning</button></li>
+<li><button type="button">X X X</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="3" data-correct="3" data-explanation="The best answer is “– X – –” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q3.</strong> A learner wants to locate a core concept from this page range. Which option best matches the section content?</p>
+<ol class="options" type="A">
+<li><button type="button">X – – –</button></li>
+<li><button type="button">models</button></li>
+<li><button type="button">Data Dictionary</button></li>
+<li><button type="button">– X – –</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="4" data-correct="1" data-explanation="The best answer is “– – X –” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q4.</strong> Which concept should be connected to the page range 126–141 rather than treated as unrelated background?</p>
+<ol class="options" type="A">
+<li><button type="button">State Table and State Diagram</button></li>
+<li><button type="button">– – X –</button></li>
+<li><button type="button">models</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 3)</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="5" data-correct="2" data-explanation="The best answer is “– – – X” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q5.</strong> Which choice best reflects a subject that appears in the extracted text for Chapter 4 - Requirements Elicitation and Analysis (Part 3)?</p>
+<ol class="options" type="A">
+<li><button type="button">external vendor pricing</button></li>
+<li><button type="button">Chapter 2 - Needs Assessment (Part 1)</button></li>
+<li><button type="button">– – – X</button></li>
+<li><button type="button">Data Dictionary</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+</section>
+<section class="quiz-difficulty" data-difficulty="Hardest">
+<div class="quiz-difficulty-header">
+<h3>Hardest Questions</h3>
+<div class="quiz-score" aria-live="polite">Score: <span>0/5</span></div>
+<button type="button" class="quiz-reset">Retest this difficulty</button>
+</div>
+<article class="quiz-question" data-question-index="6" data-correct="1" data-explanation="The best answer is “Data Models” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q6.</strong> When applying Chapter 4 - Requirements Elicitation and Analysis (Part 3) in a project context, which concept from this section should be considered first?</p>
+<ol class="options" type="A">
+<li><button type="button">Appendix X2 - Bibliography</button></li>
+<li><button type="button">Data Models</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 4)</button></li>
+<li><button type="button">Data Dictionary</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="7" data-correct="3" data-explanation="The best answer is “Entity Relationship Diagram” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q7.</strong> Which option is the strongest clue that a reader is still working within the same chapter/section content?</p>
+<ol class="options" type="A">
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 4)</button></li>
+<li><button type="button">Chapter 2 - Needs Assessment (Part 1)</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 3)</button></li>
+<li><button type="button">Entity Relationship Diagram</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="8" data-correct="0" data-explanation="The best answer is “Data Flow Diagrams” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q8.</strong> A team is reviewing the original source page above and validating the reflowable text. Which topic is most defensible as being in scope here?</p>
+<ol class="options" type="A">
+<li><button type="button">Data Flow Diagrams</button></li>
+<li><button type="button">payroll tax calculation</button></li>
+<li><button type="button">hardware procurement flow</button></li>
+<li><button type="button">requirements</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="9" data-correct="2" data-explanation="The best answer is “Data Dictionary” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q9.</strong> Which concept is the best anchor for comparing detailed source-page content with the cleaned reading text in this section?</p>
+<ol class="options" type="A">
+<li><button type="button">Document the Solution Requirements</button></li>
+<li><button type="button">State Table and State Diagram</button></li>
+<li><button type="button">Data Dictionary</button></li>
+<li><button type="button">– – – X</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="10" data-correct="1" data-explanation="The best answer is “State Table and State Diagram” because it appears as a heading, repeated term, or central phrase within Chapter 4 - Requirements Elicitation and Analysis (Part 3) (source pages 126–141). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q10.</strong> Which option would make the best study focus for the current page range based on its extracted headings and repeated terms?</p>
+<ol class="options" type="A">
+<li><button type="button">Chapter 2 - Needs Assessment (Part 1)</button></li>
+<li><button type="button">State Table and State Diagram</button></li>
+<li><button type="button">Chapter 3 - Business Analysis Planning (Part 2)</button></li>
+<li><button type="button">– – – X</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+</section>
+</section>
+<nav class="nav-row" aria-label="Page navigation">
+<a href="chapter-4-requirements-elicitation-analysis-part-2.html">← Previous</a><a href="index.html">Back to index</a><a href="print.html">Print version</a><a href="chapter-4-requirements-elicitation-analysis-part-4.html">Next →</a>
+</nav></main><aside class="page-toc" aria-label="Local table of contents"><details open><summary>On this page</summary><ul><li class="level-2"><a href="#source-page-126">Source page 126</a></li><li class="level-2"><a href="#source-page-126-text">Reflowable text - page 126</a></li><li class="level-5"><a href="#section-4-10-9-2">4.10.9.2 Decision Tree and Decision Table</a></li><li class="level-2"><a href="#source-page-127">Source page 127</a></li><li class="level-2"><a href="#source-page-127-text">Reflowable text - page 127</a></li><li class="level-3"><a href="#source-page-127-no">NO</a></li><li class="level-3"><a href="#source-page-127-yes">YES</a></li><li class="level-3"><a href="#source-page-127-yes-2">YES</a></li><li class="level-3"><a href="#source-page-127-no-2">NO</a></li><li class="level-3"><a href="#source-page-127-no-3">NO</a></li><li class="level-3"><a href="#source-page-127-yes-3">YES</a></li><li class="level-3"><a href="#source-page-127-x">X – – –</a></li><li class="level-3"><a href="#source-page-127-x-2">– X – –</a></li><li class="level-3"><a href="#source-page-127-x-3">– – X –</a></li><li class="level-3"><a href="#source-page-127-x-4">– – – X</a></li><li class="level-5"><a href="#section-4-10-10">4.10.10 Data Models</a></li><li class="level-2"><a href="#source-page-128">Source page 128</a></li><li class="level-2"><a href="#source-page-128-text">Reflowable text - page 128</a></li><li class="level-5"><a href="#section-4-10-10-1">4.10.10.1 Entity Relationship Diagram</a></li><li class="level-2"><a href="#source-page-129">Source page 129</a></li><li class="level-2"><a href="#source-page-129-text">Reflowable text - page 129</a></li><li class="level-5"><a href="#section-4-10-10-2">4.10.10.2 Data Flow Diagrams</a></li><li class="level-5"><a href="#section-4-10-10-3">4.10.10.3 Data Dictionary</a></li><li class="level-2"><a href="#source-page-130">Source page 130</a></li><li class="level-2"><a href="#source-page-130-text">Reflowable text - page 130</a></li><li class="level-2"><a href="#source-page-131">Source page 131</a></li><li class="level-2"><a href="#source-page-131-text">Reflowable text - page 131</a></li><li class="level-5"><a href="#section-4-10-10-4">4.10.10.4 State Table and State Diagram</a></li><li class="level-3"><a href="#source-page-131-x-x-x">X X X</a></li><li class="level-3"><a href="#source-page-131-x-x">X X</a></li><li class="level-3"><a href="#source-page-131-x-x-2">X X</a></li><li class="level-2"><a href="#source-page-132">Source page 132</a></li><li class="level-2"><a href="#source-page-132-text">Reflowable text - page 132</a></li><li class="level-5"><a href="#section-4-10-11">4.10.11 Interface Models</a></li><li class="level-5"><a href="#section-4-10-11-1">4.10.11.1 Report Table</a></li><li class="level-2"><a href="#source-page-133">Source page 133</a></li><li class="level-2"><a href="#source-page-133-text">Reflowable text - page 133</a></li><li class="level-2"><a href="#source-page-134">Source page 134</a></li><li class="level-2"><a href="#source-page-134-text">Reflowable text - page 134</a></li><li class="level-2"><a href="#source-page-135">Source page 135</a></li><li class="level-2"><a href="#source-page-135-text">Reflowable text - page 135</a></li><li class="level-5"><a href="#section-4-10-11-2">4.10.11.2 System Interface Table</a></li><li class="level-3"><a href="#source-page-135-id-ms-01">ID MS_01</a></li><li class="level-5"><a href="#section-4-10-11-3">4.10.11.3 User Interface Flow</a></li><li class="level-2"><a href="#source-page-136">Source page 136</a></li><li class="level-2"><a href="#source-page-136-text">Reflowable text - page 136</a></li><li class="level-3"><a href="#source-page-136-no">NO</a></li><li class="level-3"><a href="#source-page-136-yes">YES</a></li><li class="level-5"><a href="#section-4-10-11-4">4.10.11.4 Wireframes and Display-Action-Response</a></li><li class="level-2"><a href="#source-page-137">Source page 137</a></li><li class="level-2"><a href="#source-page-137-text">Reflowable text - page 137</a></li><li class="level-2"><a href="#source-page-138">Source page 138</a></li><li class="level-2"><a href="#source-page-138-text">Reflowable text - page 138</a></li><li class="level-3"><a href="#source-page-138-ms001">MS001</a></li><li class="level-3"><a href="#source-page-138-ms003">MS003</a></li><li class="level-3"><a href="#source-page-138-ms002">MS002</a></li><li class="level-3"><a href="#source-page-138-ms005">MS005</a></li><li class="level-3"><a href="#source-page-138-ms004">MS004</a></li><li class="level-3"><a href="#source-page-138-id-ms003">ID MS003</a></li><li class="level-2"><a href="#source-page-139">Source page 139</a></li><li class="level-2"><a href="#source-page-139-text">Reflowable text - page 139</a></li><li class="level-4"><a href="#section-4-11">4.11 Document the Solution Requirements</a></li><li class="level-5"><a href="#section-4-11-1">4.11.1 Why Documentation is Important</a></li><li class="level-5"><a href="#section-4-11-2">4.11.2 Business Requirements Document</a></li><li class="level-2"><a href="#source-page-140">Source page 140</a></li><li class="level-2"><a href="#source-page-140-text">Reflowable text - page 140</a></li><li class="level-5"><a href="#section-4-11-3">4.11.3 The Solution Documentation</a></li><li class="level-5"><a href="#section-4-11-3-1">4.11.3.1 Requirements</a></li><li class="level-2"><a href="#source-page-141">Source page 141</a></li><li class="level-2"><a href="#source-page-141-text">Reflowable text - page 141</a></li><li class="level-5"><a href="#section-4-11-3-2">4.11.3.2 Categorization</a></li><li class="level-5"><a href="#section-4-11-4">4.11.4 Requirements Specification</a></li><li class="level-2"><a href="#generated-quiz">Generated Quiz</a></li></ul></details></aside></div></div><script src="assets/script.js"></script></body></html>

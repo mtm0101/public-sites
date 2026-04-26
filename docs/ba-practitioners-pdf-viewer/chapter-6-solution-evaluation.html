@@ -1,0 +1,604 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Chapter 6 - Solution Evaluation</title><link rel="stylesheet" href="assets/style.css"></head>
+<body class=""><div class="site-shell"><div class="layout"><main class="content-card"><p class="eyebrow">Source pages 178–197</p>
+<h1>Chapter 6 - Solution Evaluation</h1>
+<p class="notice">Original source pages are shown first for each page. Reflowable extracted text follows each matching source page.</p>
+<nav class="nav-row" aria-label="Page navigation">
+<a href="chapter-5-traceability-monitoring.html">← Previous</a><a href="index.html">Back to index</a><a href="print.html">Print version</a><a href="appendix-x1-contributors-reviewers.html">Next →</a>
+</nav>
+<div class="source-toolbar" aria-label="Source page display controls"><button type="button" data-source-action="collapse">Collapse all source pages</button><button type="button" data-source-action="expand">Expand all source pages</button></div>
+<section class="page-pair" aria-labelledby="source-page-178">
+<article class="source-block" id="source-page-178">
+<div class="source-header"><h2>Source page 178 · <a href="exact-pages/page-178.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 178" src="exact-pages/page-178.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-178-text">
+<h2>Reflowable Extracted Text - Source page 178 <a class="anchor" href="#source-page-178-text">#</a></h2>
+<h4 id="section-6-1">6.1 Overview of this Section <a class="anchor" href="#section-6-1" aria-label="Copy link to 6.1 Overview of this Section">#</a></h4>
+<p>Evaluation consists of business analysis activities performed to validate a full solution—or a segment of a solution—that is about to be or has already been implemented. Evaluation determines how well a solution meets the business needs expressed by stakeholders, including delivering value to the customer. Some evaluation activities result in a qualitative or coarsely quantitative assessment of a solution. Conducting surveys or focus groups and analyzing the results of exploratory testing of functionality are examples of qualitative or coarsely quantitative evaluation. Other evaluation activities involve more precise, quantitative, explicit measurements. Comparisons between expected and actual results obtained from a solution are usually expressed quantitatively. For solutions involving software, analyzing comparisons between expected and actual values of data manipulated by the high- level functionality of the solution can be part of the evaluation. Nonfunctional characteristics of a solution (sometimes known as quality attributes) are often evaluated with measurements. For example, measurements are required to evaluate whether performance service-level agreements are being met. Additionally, comparing estimated and actual costs and benefits may be part of an evaluation of a solution.</p>
+<p>This section of the practice guide covers both qualitative and quantitative evaluation activities. The techniques described herein are compatible with predictive, iterative, and adaptive project life cycles. Most of these techniques are useful for all kinds of projects and solutions. A few techniques are identified as specifically applying to solutions involving software.</p>
+<p>Many of the techniques used during evaluation activities are also used during analysis or testing and sometimes during needs assessment. In addition, there is some overlap between evaluation techniques and traceability. The use of analysis techniques for multiple purposes is natural because one of the overarching goals of all analysis activities is to obtain a clear, unambiguous understanding of all aspects of a problem under consideration. This section of the practice guide refers to other sections in the practice guide when the activities and techniques were already described. Additional techniques are introduced as part of solution evaluation domain to precisely define acceptance criteria and enable measuring against the defined criteria. Techniques for defining acceptance criteria are also used as part of planning and analysis, as a basis for testing, and for defining service-level agreements and nonfunctional requirements.</p>
+<h4 id="section-6-2">6.2 Purpose of Solution Evaluation <a class="anchor" href="#section-6-2" aria-label="Copy link to 6.2 Purpose of Solution Evaluation">#</a></h4>
+<p>Solution evaluation activities provide the ability to assess whether or not a solution has achieved the desired business result. Evaluation provides input to go/no-go business and technical decisions when releasing an</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-179">
+<article class="source-block" id="source-page-179">
+<div class="source-header"><h2>Source page 179 · <a href="exact-pages/page-179.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 179" src="exact-pages/page-179.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-179-text">
+<h2>Reflowable Extracted Text - Source page 179 <a class="anchor" href="#source-page-179-text">#</a></h2>
+<p>entire solution or a segment of it. For projects using iterative or adaptive life cycles, and for multiphase projects using predictive life cycles, evaluation may identify a point of diminishing returns. An example of this is when additional value could be obtained from a project, but the additional effort needed to achieve it is not justified.</p>
+<p>Evaluation of an implemented solution may also be used to identify new or changed requirements, which may lead to solution refinement or new solutions. Identification and definition of evaluation criteria also supports other analysis activities.</p>
+<h4 id="section-6-3">6.3 Recommended Mindset for Evaluation <a class="anchor" href="#section-6-3" aria-label="Copy link to 6.3 Recommended Mindset for Evaluation">#</a></h4>
+<h5 id="section-6-3-1">6.3.1 Evaluate Early and Often <a class="anchor" href="#section-6-3-1" aria-label="Copy link to 6.3.1 Evaluate Early and Often">#</a></h5>
+<p>Evaluation is often associated with the end of predictive life cycles (e.g., user acceptance testing and release of a solution). For iterative or adaptive life cycles, evaluation may be associated with the end of a time segment (e.g., an iteration or sprint), or when a user story is delivered or completed for an adaptive approach that has no fixed time segments, such as Kanban. When evaluation criteria are defined early, they can be applied to a project in progress and provide input into the development of test strategies, test plans, and test cases. Early uses of lightweight evaluation techniques identify which areas of a solution need the most testing. Early articulation of evaluation criteria is an excellent way to specify or confirm both functional and nonfunctional requirements.</p>
+<h5 id="section-6-3-2">6.3.2 Treat Requirements Analysis, Traceability, Testing, and Evaluation as <a class="anchor" href="#section-6-3-2" aria-label="Copy link to 6.3.2 Treat Requirements Analysis, Traceability, Testing, and Evaluation as">#</a></h5>
+<p>Complementary Activities Adaptive life cycles explicitly define acceptance criteria with concrete examples as part of the elaboration of a user story. The acceptance criteria and the user story definition support each other. Together, these establish mutual agreement between business stakeholders and those responsible for developing the solution for what is required and how to know that the requirement has been met. Predictive and iterative life cycles also recognize the value of early testing in a project.</p>
+<p>Early test specifications provide concrete examples that add clarity to requirements, regardless of how they are specified.</p>
+<p>Formal traceability matrices provide verification that requirements support business goals and objectives and that testing sufficiently covers the requirements. Goals and objectives and the traces between them and the requirements that support them provide insight into candidate metrics for evaluation.</p>
+<p>Collaboration Point—Business analysts, project managers, and testers should work together early on to create consistent and complementary approaches to analysis, testing, and evaluation activities. Testers can help check for completeness and consistency of all forms of requirements and evaluation criteria, and business analysts can help check for sufficient test coverage for areas of the solution that have the highest business priority.</p>
+<p>158 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-180">
+<article class="source-block" id="source-page-180">
+<div class="source-header"><h2>Source page 180 · <a href="exact-pages/page-180.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 180" src="exact-pages/page-180.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-180-text">
+<h2>Reflowable Extracted Text - Source page 180 <a class="anchor" href="#source-page-180-text">#</a></h2>
+<h5 id="section-6-3-3">6.3.3 Evaluate with the Context of Usage and Value in Mind <a class="anchor" href="#section-6-3-3" aria-label="Copy link to 6.3.3 Evaluate with the Context of Usage and Value in Mind">#</a></h5>
+<p>Validating a solution is more complex than validating to determine whether individual requirements have been met. Validation not only ensures that the solution is working as designed, but also confirms that it enables the usage and value that the business expected. No matter how requirements are elicited and specified, there is some intended usage associated with each requirement or group of requirements. The names of epics, user stories, and use case scenarios that focus on functionality provide direct identification of the intended usage. For epics and user stories that are not about functionality, usage is inferred from the “so I can...” part of the story, which provides its rationale.</p>
+<p>Example—The following epic is written for the insurance company discussed earlier in Section 2. It describes a need for information regarding the adjudication of claims. The “so I can” statement alludes to the usage of the data:</p>
+<p>“As an operations manager, I need data about the percentage of claims that were automatically adjudicated and the average time for a manual adjudication, so that I can assess how the revised adjudication practices are performing.”</p>
+<p>Nonfunctional requirements that define expectations for the performance or operation of a solution also have an implied context of usage, because a solution is expected to perform or be available, scalable, or usable so that work can be accomplished.</p>
+<h5 id="section-6-3-4">6.3.4 Confirm Expected Values for Software Solutions <a class="anchor" href="#section-6-3-4" aria-label="Copy link to 6.3.4 Confirm Expected Values for Software Solutions">#</a></h5>
+<p>For automated solutions, it is essential to validate functionality that manipulates data by using the solution’s data retrieval functionality. However, the sufficiency of the solution also needs to be evaluated by confirming that the actual data is accurately stored, because that data may potentially be retrieved in other ways for other users and uses.</p>
+<p>Example—Consider the insurance company example, where the business need is to provide a software solution so that a claim can be submitted via a mobile device. Part of the evaluation of the solution is to look at the results of tests where a claimant submits a claim using the mobile device and also look at the results of tests where the claim is retrieved using the mobile device to ensure that the actual claim is presented as expected. However in an insurance company, a claim can be retrieved in other ways, such as through a reporting mechanism or another interface such as a claim adjuster’s workstation. When those usages are not part of the scope of the solution, it is still part of the scope to accurately store the claim data so that it is available for any usage.</p>
+<p>To verify that the data is accurately stored and available for other forms of retrieval, the results that were obtained by accessing the data directly from its storage location should be reviewed to confirm that the actual stored values match the expected stored values. Even when direct confirmation of stored data is included during testing, it is worthwhile to confirm it again as part of evaluating the most-used</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-181">
+<article class="source-block" id="source-page-181">
+<div class="source-header"><h2>Source page 181 · <a href="exact-pages/page-181.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 181" src="exact-pages/page-181.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-181-text">
+<h2>Reflowable Extracted Text - Source page 181 <a class="anchor" href="#source-page-181-text">#</a></h2>
+<p>portions of the functionality. Evaluation of a software solution is usually conducted against a system that is either about to be released or has already been released; therefore, testing during evaluation usually encompasses a larger body of data than the initial testing. As a result, new and different kinds of data anomalies may be uncovered by looking at the results of tests used to directly confirm the data, and these anomalies will need to be analyzed.</p>
+<h4 id="section-6-4">6.4 Plan for Evaluation of the Solution <a class="anchor" href="#section-6-4" aria-label="Copy link to 6.4 Plan for Evaluation of the Solution">#</a></h4>
+<p>Undertaking evaluation activities is not a trivial task. It takes time and effort to identify and confirm evaluation criteria, implement anything necessary for taking measurements that is not already built into the solution or its infrastructure, take the measurements, and report on and analyze the measurements.</p>
+<p>Factors to consider when planning for evaluation activities include:</p>
+<ul>
+<li>What project or organizational goal, objective, or risk does this evaluation activity monitor or track</li>
+</ul>
+<p>or confirm? Project implementations are often inundated with monitoring and tracking dashboards and reports that are never used or sometimes never even viewed. It is important to tie every evaluation activity and every individual metric to organizational or project priorities.</p>
+<ul>
+<li>Who will cover costs for the time and effort needed to conduct evaluation? When there are plans to</li>
+</ul>
+<p>evaluate the long-term performance of a solution, ongoing or periodic evaluation activities are needed for a period of time that is longer than an initial evaluation. Depending upon organizational responsibilities, evaluation activities may be charged to a project or to quality assurance or some other part of the organization. The organizational area that is going to assume the costs for evaluation should be involved in approving the estimates for the evaluation activities. These estimates should be provided as early as possible in the project life cycles.</p>
+<ul>
+<li>Does the solution or its infrastructure have built-in measurement capabilities for the evaluation</li>
+</ul>
+<p>criteria? Additional measurement capabilities may be needed when none are built-in or when what is built-in is not sufficient. For software solutions, additional data may need to be stored programmatically to enable measurement. Every additional data element that is needed should be recorded either manually or automatically (programmatically); each additional data element requires either a human procedure or software code to ensure that it is captured.</p>
+<p>Example—One of the goals in the insurance company example was to reduce the amount of time it takes to process claims. When there are capabilities to capture the date and time a claim was filed and the date and the time its adjudication was completed, then it is already possible to determine the elapsed time to process a claim. Elapsed time may be a sufficient evaluation criterion; however, when a further breakdown is needed, additional data may need to be captured (e.g., how long it took to submit the claim, determine eligibility, or adjudicate the claim; whether or not the claim was in a pending state and, if so, for how long; how often were eligibility and adjudication automated vs. performed manually by a claims adjuster; or the date when payment finally arrived in the claimant’s mailbox or bank account).</p>
+<p>160 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-182">
+<article class="source-block" id="source-page-182">
+<div class="source-header"><h2>Source page 182 · <a href="exact-pages/page-182.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 182" src="exact-pages/page-182.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-182-text">
+<h2>Reflowable Extracted Text - Source page 182 <a class="anchor" href="#source-page-182-text">#</a></h2>
+<ul>
+<li>Are there already ways to extract measurement data to use in the evaluation? When data exists, it</li>
+</ul>
+<p>does not necessarily mean that it is available for evaluation. Example—Looking at the insurance company, if the accepted quantitative measurement for length of time to process a claim is the elapsed time between the date and time a claim was filed to the date and time it was adjudicated, is there already a software query or report or a human procedure that reviews all claims and calculates the average elapsed time to process a claim, organized by some rolling duration?</p>
+<p>If not, someone is going to have to write the query or create the report or create a human procedure to make the measurement available or perform the required calculation to support the evaluation. Ways to extract and report on qualitative or semiquantitative evaluation data need to be available or created.</p>
+<p>In addition, if the insurance company decides to use a customer satisfaction survey as part of how it evaluates its new mobile app for claims submission, the results of that survey need to be aggregated and analyzed.</p>
+<ul>
+<li>Is the chosen evaluation method effective and relatively inexpensive? Organizations that attempt to</li>
+</ul>
+<p>evaluate solutions and project outcomes sometimes discover that the evaluation activities are extremely costly. This is particularly true when additional data—above and beyond the data needed for the solution—needs to be embedded in the solution in order to evaluate it.</p>
+<p>Example—Using the insurance example, if it is necessary to evaluate whether all populations can easily use the new mobile application for home and auto insurance claims, demographic data that is not required to process the claims needs to be collected. Adding and maintaining data elements about the claimant, which are not core to the solution, has an added cost that some businesses may not want to pay for. With that in mind, the insurance company may decide to collect this information for its own evaluation in a less precise, less expensive way that is still effective. The insurance company could conduct a survey with questions about the usability of the new application and also include some demographic questions to segment the responses. The survey will not have the precision to tie specific demographics directly to a specific claim that was submitted, but it will be sufficient for the purposes of evaluating the usability of the solution.</p>
+<ul>
+<li>Are there already existing ways to report and publish the results of an evaluation? Some organizations</li>
+</ul>
+<p>already have home-grown or purchased automated tools that produce dashboards or scheduled reports or use report templates when evaluations are conducted manually. If these kinds of tools or templates are not available or if the evaluation requires data that has not been previously captured, then there will be additional costs incurred to make the results of an evaluation available.</p>
+<h4 id="section-6-5">6.5 Determine What to Evaluate <a class="anchor" href="#section-6-5" aria-label="Copy link to 6.5 Determine What to Evaluate">#</a></h4>
+<p>There are a number of factors to think about when identifying evaluation criteria. This section presents a list of these items for consideration. Section 6.6 provides information on techniques for conducting evaluations and for defining evaluation criteria and acceptance levels.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-183">
+<article class="source-block" id="source-page-183">
+<div class="source-header"><h2>Source page 183 · <a href="exact-pages/page-183.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 183" src="exact-pages/page-183.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-183-text">
+<h2>Reflowable Extracted Text - Source page 183 <a class="anchor" href="#source-page-183-text">#</a></h2>
+<h5 id="section-6-5-1">6.5.1 Consider the Business Goals and Objectives <a class="anchor" href="#section-6-5-1" aria-label="Copy link to 6.5.1 Consider the Business Goals and Objectives">#</a></h5>
+<p>Business goals and objectives and priorities enable a project to launch and hopefully result in a solution. The solution needs to be evaluated against those goals and objectives. In this practice guide, Section 2 on Needs Assessment emphasized that goals and objectives need to be SMART. The measurements specified in the goals and objectives serve as good clues as to what needs to be measured during the evaluation of the solution.</p>
+<h5 id="section-6-5-2">6.5.2 Consider Key Performance Indicators <a class="anchor" href="#section-6-5-2" aria-label="Copy link to 6.5.2 Consider Key Performance Indicators">#</a></h5>
+<p>Key performance indicators (KPIs) are metrics that are usually defined by an organization’s executives. These indicators can be used to evaluate an organization’s progress in achieving its objectives or goals. Typical broad categories of KPIs are: finance, customer, sales and marketing, operational processes, employee, and environmental/ corporate, and social responsibility/sustainability. Sometimes information technology is rolled into the operational processes category and sometimes it is considered a separate KPI category.</p>
+<p>Most project goals and objectives are associated with one or more of these KPIs. For organizations that already define and measure KPIs, one or more of these KPIs can be used to evaluate the solution, taking advantage of measurement capabilities for KPIs that have already been used in some way.</p>
+<h5 id="section-6-5-3">6.5.3 Consider Additional Evaluation Metrics and Evaluation Acceptance Criteria <a class="anchor" href="#section-6-5-3" aria-label="Copy link to 6.5.3 Consider Additional Evaluation Metrics and Evaluation Acceptance Criteria">#</a></h5>
+<p>While many of the metrics and acceptance criteria for evaluating the solution fall out of the goals, objectives, or KPIs, there may be additional metrics and acceptance criteria to consider. Some examples of additional metrics and acceptance criteria are:</p>
+<h5 id="section-6-5-3-1">6.5.3.1 Project Metrics as Input to the Evaluation of the Solution <a class="anchor" href="#section-6-5-3-1" aria-label="Copy link to 6.5.3.1 Project Metrics as Input to the Evaluation of the Solution">#</a></h5>
+<p>When considering project metrics as input to the evaluation of a solution, it is important to distinguish between those metrics that support evaluating the solution and those that focus on project execution.</p>
+<p>Actual project costs can be inputs to financial evaluations of a solution, such as a recalculation of return on investment or net present value where projected costs are replaced by actual costs and benefits are revised when they are better known.</p>
+<p>Metrics derived from measurements of cost, effort, and duration, such as variances between estimated amounts and actual values, are used to track project progress and performance. Some organizations use earned value calculations for this purpose. While variances and earned values are important metrics for many organizations when evaluating projects, they do not explicitly evaluate the solution, and in any event, are usually within the purview of project management rather than business analysis.</p>
+<p>Tracking change requests can be used as an indicator of project volatility but not as an indicator of solution viability. Tracking the status of requirements is a way to track project progress, but may or may not reflect the 162 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-184">
+<article class="source-block" id="source-page-184">
+<div class="source-header"><h2>Source page 184 · <a href="exact-pages/page-184.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 184" src="exact-pages/page-184.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-184-text">
+<h2>Reflowable Extracted Text - Source page 184 <a class="anchor" href="#source-page-184-text">#</a></h2>
+<p>completeness of the solution or how well it serves its purpose. Tracking the number of defects identified and the number that have been fixed is indicative of effort undertaken to address quality; however, it does not reflect the actual quality of the solution nor whether it provides value to the stakeholders or customers.</p>
+<p>Projects using an adaptive life cycle, such as Scrum or Kanban, often use other metrics to reflect a project team’s rate of progress on a project. The measurements are often expressed in terms of burndown (the number of backlog items remaining at any point in time) and velocity (the number of backlog items completed during a delivery interval). These measurements reflect the efficiency of the project, what the project has delivered, what was deliberately not delivered (descoped), and what remains to be delivered. Again, these are primarily project execution metrics. However, these metrics can contribute indirectly to evaluating a solution. Minimally, at a qualitative level, agile metrics may be assessed as part of evaluating whether the solution was delivered to the business faster and whether delivering some functionality sooner provided the business with any benefits (e.g., an overall increased market share or a lift in the amount of business conducted with existing customers).</p>
+<p>Collaboration Point—Business analysts and project managers should work together with stakeholders to consider which project metrics should be incorporated into evaluation activities.</p>
+<h5 id="section-6-5-3-2">6.5.3.2 Customer Metrics <a class="anchor" href="#section-6-5-3-2" aria-label="Copy link to 6.5.3.2 Customer Metrics">#</a></h5>
+<p>From a customer perspective, evaluation sometimes focuses on qualitative aspects, such as satisfaction, but even qualitative aspects can be measured semiquantitatively.</p>
+<p>Example—Using the insurance example, what percentage of customers responding to the survey report indicate they are very pleased or extremely pleased with the new mobile app? How many calls does customer support receive about the new mobile app? What is the trend in the frequency of the calls? How many of these calls are complaints? Evaluation from a customer perspective can also be more quantitative. For example, when assessing the usability of the insurance mobile app, if the business expected that customers could file 90% of their own claims in less than 10 minutes, is this occurring?</p>
+<h5 id="section-6-5-3-3">6.5.3.3 Sales and Marketing Metrics <a class="anchor" href="#section-6-5-3-3" aria-label="Copy link to 6.5.3.3 Sales and Marketing Metrics">#</a></h5>
+<p>Sales and marketing may have ranges of measurable goals for the project (e.g., a range of expected values for overall increased market share or a range for percentage increase in the amount of business done with existing customers). The solution can be evaluated to determine whether or not these expectations have been met.</p>
+<h5 id="section-6-5-3-4">6.5.3.4 Operational Metrics and Assessments <a class="anchor" href="#section-6-5-3-4" aria-label="Copy link to 6.5.3.4 Operational Metrics and Assessments">#</a></h5>
+<p>Operational metrics may be functional or nonfunctional and can be considered from a systems perspective, a human perspective, or both. For organizations that define and measure operational KPIs, it may be possible to reuse one or more of the metrics to evaluate the solution, provided it is possible to determine the impact of the solution on the KPI.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-185">
+<article class="source-block" id="source-page-185">
+<div class="source-header"><h2>Source page 185 · <a href="exact-pages/page-185.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 185" src="exact-pages/page-185.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-185-text">
+<h2>Reflowable Extracted Text - Source page 185 <a class="anchor" href="#source-page-185-text">#</a></h2>
+<p>As noted in Section 4 on Requirements Elicitation and Analysis, process flows (swimlane diagrams) can be annotated, either on an overall basis or a stepwise basis, with baseline, target, or actual key performance indicator (KPI) metrics.</p>
+<h5 id="section-6-5-3-5">6.5.3.5 Functionality <a class="anchor" href="#section-6-5-3-5" aria-label="Copy link to 6.5.3.5 Functionality">#</a></h5>
+<p>Sections 6.6.1 through 6.6.7 describe some techniques that are used to evaluate functionality, such as reviewing the results of verification activities for specific broad business usages of the solution, as represented by bunches of use cases or scenarios or users stories or functional requirements executed in a natural sequence. With the exception of situations where errors in the solution could result in an unacceptable level of risk to life, property, or financial solvency, evaluation should not require a review of the results of the individual tests conducted during the development of the solution, other than to confirm that the test coverage was sufficient.</p>
+<p>Nonfunctional requirements are used to specify overall system-wide characteristics of the solution, such as performance, throughput, availability, reliability, scalability, flexibility, and usability.</p>
+<p>Example—What is the availability of the new mobile application? Can it support an x% increase in the number of users using it simultaneously (where “x” is defined by the business)?</p>
+<p>Organizations that already define and measure information technology KPIs may already have instrumentation to measure system-wide, nonfunctional requirements, such as availability. Nonfunctional requirements can also be evaluated at a usage level.</p>
+<p>Example—In the insurance example, from a usage perspective, how easy was it for a customer to file a claim (where “easy” is defined in a measurable way)? How fast did an automatic adjudication occur?</p>
+<p>Clearly specified nonfunctional requirements should be written to identify their measurable acceptance criteria. Refer to Section 6.6.6 for ways to define measurable acceptance criteria for nonfunctional requirements.</p>
+<p>Measurable acceptance criteria can also be the basis of service-level agreements.</p>
+<h5 id="section-6-5-4">6.5.4 Confirm that the Organization Can Continue with Evaluation <a class="anchor" href="#section-6-5-4" aria-label="Copy link to 6.5.4 Confirm that the Organization Can Continue with Evaluation">#</a></h5>
+<p>As measurements are identified, review any estimates for the costs of evaluation and update them as needed.</p>
+<p>When necessary, reconfirm that the organization or department who is sponsoring the evaluation and covering costs is still able or willing to do so.</p>
+<h4 id="section-6-6">6.6 When and How to Validate Solution Results <a class="anchor" href="#section-6-6" aria-label="Copy link to 6.6 When and How to Validate Solution Results">#</a></h4>
+<p>For a predictive project life cycle, validate the solution at the end of the project life cycle either immediately before release or at an agreed-upon time after release.</p>
+<p>For an iterative or adaptive project life cycle, validation is performed at the end of every iteration, sprint, or release, when the team provides production-ready functionality for the stakeholders to evaluate.</p>
+<p>164 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-186">
+<article class="source-block" id="source-page-186">
+<div class="source-header"><h2>Source page 186 · <a href="exact-pages/page-186.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 186" src="exact-pages/page-186.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-186-text">
+<h2>Reflowable Extracted Text - Source page 186 <a class="anchor" href="#source-page-186-text">#</a></h2>
+<p>The following evaluation techniques can be used to evaluate solution results:</p>
+<ul>
+<li>Surveys and focus groups,</li>
+<li>Results from exploratory testing and user acceptance testing,</li>
+<li>Results from day-in-the-life (DITL) testing,</li>
+<li>Results from integration testing,</li>
+<li>Expected vs. actual results for functionality,</li>
+<li>Expected vs. actual results for nonfunctional requirements, and</li>
+<li>Outcome measurements and financial calculation of benefits.</li>
+</ul>
+<p>While this list is not exhaustive, it does contain widely used techniques. These techniques are described in more detail in Sections 6.6.1 through 6.6.7.</p>
+<h5 id="section-6-6-1">6.6.1 Surveys and Focus Groups <a class="anchor" href="#section-6-6-1" aria-label="Copy link to 6.6.1 Surveys and Focus Groups">#</a></h5>
+<p>As previously mentioned in Section 4 on Requirements Elicitation and Analysis, surveys can be used to gather information and elicit requirements from a very large and/or geographically dispersed population. Survey questions can solicit qualitative or semiquantitative feedback about satisfaction with the solution, how it is performing, or what aspects of the solution present challenges to its users. All of the advantages and concerns mentioned in the analysis section of this practice guide also apply to the use of surveys for evaluation.</p>
+<p>Focus groups provide an opportunity for individuals to offer thoughts and ideas about a topic in a group setting and to discuss or qualify comments from other participants. Like surveys, focus groups are useful either as an elicitation technique or as an evaluation technique to obtain feedback from stakeholders in general and, more specifically, from users of the solution.</p>
+<h5 id="section-6-6-2">6.6.2 Results from Exploratory Testing and User Acceptance Testing <a class="anchor" href="#section-6-6-2" aria-label="Copy link to 6.6.2 Results from Exploratory Testing and User Acceptance Testing">#</a></h5>
+<p>Exploratory testing is an unscripted, free-form validation or evaluation activity conducted by someone with in- depth business or testing knowledge. Generally, exploratory testing should be conducted in addition to (not in place of) formal testing. User acceptance testing is a formal testing activity which validates that the solution meets the defined acceptance criteria. It is conducted by someone with in-depth business knowledge.</p>
+<p>For evaluation, the results obtained from exploratory testing and user acceptance testing are used to determine whether or not a product, service, or solution is working as intended with regard to functionality and ease of use, and when applicable, performance. When done well, exploratory testing also attempts to uncover whether or not a product, service, or solution responds properly to unintended uses (does not permit them) or whether it can be used in ways that were not intended.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-187">
+<article class="source-block" id="source-page-187">
+<div class="source-header"><h2>Source page 187 · <a href="exact-pages/page-187.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 187" src="exact-pages/page-187.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-187-text">
+<h2>Reflowable Extracted Text - Source page 187 <a class="anchor" href="#source-page-187-text">#</a></h2>
+<h5 id="section-6-6-3">6.6.3 Results from Day-in-the-Life (DITL) Testing <a class="anchor" href="#section-6-6-3" aria-label="Copy link to 6.6.3 Results from Day-in-the-Life (DITL) Testing">#</a></h5>
+<p>DITL testing is a semiformal activity, conducted by someone with in-depth business knowledge. For software solutions, DITL testing consists of a set of use case scenarios or several user stories or functional requirements to exercise in sequence against a specific segment of data, in order to compare the expected results with the actual results. Sometimes day-in-the-life testing is used more broadly as a semiscripted form of exploratory testing.</p>
+<p>For evaluation, the results obtained from DITL testing help to determine whether or not a product, service, or solution provides the functionality for a typical day of usage by a role that interacts with the solution.</p>
+<p>Example—Using the insurance example, the solution can be evaluated from the DITL perspective of a claims submitter or claims adjuster.</p>
+<h5 id="section-6-6-4">6.6.4 Results from Integration Testing <a class="anchor" href="#section-6-6-4" aria-label="Copy link to 6.6.4 Results from Integration Testing">#</a></h5>
+<p>Integration testing is used to validate or evaluate whether a solution does what is expected in the larger context of other ongoing business and systems operations in the organization. From the perspective of software solutions, integration testing is more encompassing than systems testing. Systems testing is a form of verification that proves when a solution being developed can interoperate with other systems and organizations that request services from it or vice versa. Integration testing places the solution in an environment that is either identical to or nearly identical to the production environment. For software solutions, organizations that have the resources to maintain an isolated separate production-like test environment are able to conduct integration testing prior to the release of the solution. Organizations with smaller test environments can conduct an integrated evaluation in their preproduction environment.</p>
+<p>By examining the results of integration testing, it is possible to evaluate a solution in the larger context, because new and different kinds of anomalies may be uncovered when a solution is introduced into a production environment.</p>
+<h5 id="section-6-6-5">6.6.5 Expected vs. Actual Results for Functionality <a class="anchor" href="#section-6-6-5" aria-label="Copy link to 6.6.5 Expected vs. Actual Results for Functionality">#</a></h5>
+<p>This section provides a generic way to capture acceptance criteria and expected vs. actual results for functionality.</p>
+<p>During requirements elicitation, broad acceptance criteria are sometimes defined in terms of the actual usage of a solution. Acceptance criteria defined as part of evaluation need to be broad, yet still have expected results that are compared to the actual results. A DITL test, such as a day-in-the-life of a claim submitter or claims adjuster, can be constructed from one or more functional acceptance criteria.</p>
+<p>One format for defining functional acceptance criteria is presented in Table 6-1 followed by a definition for each of its terms and a sample of broad acceptance criteria, using the insurance example.</p>
+<p>Note that this format is independent of whether or not the solution is automated, in whole or in part.</p>
+<p>166 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-188">
+<article class="source-block" id="source-page-188">
+<div class="source-header"><h2>Source page 188 · <a href="exact-pages/page-188.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 188" src="exact-pages/page-188.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-188-text">
+<h2>Reflowable Extracted Text - Source page 188 <a class="anchor" href="#source-page-188-text">#</a></h2>
+<p>Table 6-1. Sample Format for Defining Functional Acceptance Criteria Field Definition Sample from the Insurance Example Preconditions Whatever needs to be true within the evaluation boundary to evaluate • Active medium-term customer of the insurance against the acceptance criteria company</p>
+<ul>
+<li>The claim’s maximum automatic reimbursement</li>
+</ul>
+<p>amount for automatic adjudication is defined</p>
+<ul>
+<li>Service-level agreement for manual claims</li>
+</ul>
+<p>adjudication is defined Event The specific action that is to occur, along with any specific input data Submit a claim that exceeds the claim maximum needed for the action automatic reimbursement amount Expected Result A list of the expected responses, which may be a response message • Claim is pended or acknowledgement and/or output data and/or post-conditions that • Customer receives a message that the claim will be may be observed. adjudicated by a claims adjuster within the number of days specified by the service-level agreement for manual claims adjudication Functional acceptance criteria may be tabulated as shown in Table 6-1 or by placing all of the fields in one row, thereby making each functional acceptance criterion a row entry below the field names. Many business analysts add an additional field for actual results to aid in the analysis of expected vs. actuals (see Table 6-2).</p>
+<p>Table 6-2. Sample Format for Analyzing Expected vs. Actual Results Preconditions Event Expected Result Actual Results Customer John Jones is an active John Jones submits a claim for $600 Claim is created as a pended claim medium-term customer Message is “Thank you for submitting Claim’s maximum automatic your claim. Your claim will be adjudication amount is $500 forwarded to a claims adjuster and will be adjudicated in 5 days.”</p>
+<p>Manual adjudication service-level agreement is 5 days Preconditions for another event</p>
+<h5 id="section-6-6-6">6.6.6 Expected vs. Actual Results for Nonfunctional Requirements <a class="anchor" href="#section-6-6-6" aria-label="Copy link to 6.6.6 Expected vs. Actual Results for Nonfunctional Requirements">#</a></h5>
+<p>This section provides a generic way to define acceptance criteria and capture expected vs. actual results for nonfunctional requirements. When the acceptance criteria for nonfunctional requirements are defined quantitatively within reasonable ranges, these criteria can also serve as the basis for service-level agreements.</p>
+<p>The optional format shown in Table 6-3 can be used to define nonfunctional acceptance criteria. Each of the terms is followed by a definition and a sample of acceptance criteria, using the insurance example.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-189">
+<article class="source-block" id="source-page-189">
+<div class="source-header"><h2>Source page 189 · <a href="exact-pages/page-189.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 189" src="exact-pages/page-189.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-189-text">
+<h2>Reflowable Extracted Text - Source page 189 <a class="anchor" href="#source-page-189-text">#</a></h2>
+<p>Table 6-3. Sample Format for Analyzing Expected vs. Actual Results for Nonfunctional Requirements Note: This format is applicable for both manual and automated solutions (claims submitted on paper or claims submitted online).</p>
+<p>Field Definition Sample from the Insurance Example Type Designation of the kind of nonfunctional requirement for Usability which the acceptance criteria is being defined Name A unique designation of this nonfunctional requirement Customer ease of use Description A very short summary that explains what is to be Elapsed time between the time a new customer starts to submit measured a claim and the time that the new customer completes the submission (a new customer is someone who is submitting a claim for the first time) How-to-measure How the solution characteristic will be measured and Elapsed time in minutes to complete a claims submission what the measurement units will be (as measured by a stopwatch for paper forms and by weblog timestamps for mobile app) Worst-case value The minimally acceptable value Not more than 15 minutes for 90% of the measurements Target value The expected value for the solution characteristic Not more than 10 minutes for 90% of the measurements Best-case value The ideal measurement for the solution characteristic, Not more than 5 minutes for all measurements where there is no commitment to achieve this value</p>
+<h5 id="section-6-6-7">6.6.7 Outcome Measurements and Financial Calculation of Benefits <a class="anchor" href="#section-6-6-7" aria-label="Copy link to 6.6.7 Outcome Measurements and Financial Calculation of Benefits">#</a></h5>
+<p>Some expected benefits for a project are readily tied to factors that can be measured; others may need to be derived or inferred.</p>
+<p>Example—Using the insurance example, one of the benefits was to decrease the time to process a claim.</p>
+<p>The average time to process a claim should be measurable and the solution should be evaluated as to how well it was achieved. Beyond the actual measurement, as part of evaluation, it may be important for claims operations to derive the financial benefit of decreasing the time to process a claim. The example shown in Table 6-4 represents one way in which the derivation of such a benefit may be specified.</p>
+<p>Table 6-4. Sample Outcome Measurement and Financial Calculation of Benefit Topic Claims Adjuster Productivity Name of outcome Decreased time to process a manual claim.</p>
+<p>How measured Difference between the previous and current average number of minutes for a submitted claim to be paid.</p>
+<p>(All claims were manual prior to the implementation of the solution; now, a manual claim is one that cannot be adjudicated automatically using the solution developed by the project.) Inferred/derived financial benefit (Total number of hours that claims adjusters previously spent on manual claims per calendar quarter) minus (total number of hours that claims adjusters currently spend on manual claims per calendar quarter) multiplied by (average hourly salary of a claims adjuster).</p>
+<p>Sources of record Claim adjuster timekeeping (timesheets); payroll. Importance This outcome is needed to evaluate operational productivity. The inferred/derived financial benefit is needed to evaluate actual costs/benefits against expected costs/benefits.</p>
+<p>Current ability to measure The needed information is available; a business decision is needed for how/whether to include overtime in the calculation.</p>
+<p>How fresh does info need to be Most recent quarter and previous quarter. How trended/tracked Quarter to quarter comparison.</p>
+<p>Areas which need this metric Claims operations. 168 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-190">
+<article class="source-block" id="source-page-190">
+<div class="source-header"><h2>Source page 190 · <a href="exact-pages/page-190.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 190" src="exact-pages/page-190.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-190-text">
+<h2>Reflowable Extracted Text - Source page 190 <a class="anchor" href="#source-page-190-text">#</a></h2>
+<p>In the claims example in Table 6-4, the information needed for the calculation is readily available. In situations where it is not, the business should decide whether it is willing to spend the money for the capability to collect the information needed to conduct the evaluation.</p>
+<h4 id="section-6-7">6.7 Evaluate Acceptance Criteria and Address Defects <a class="anchor" href="#section-6-7" aria-label="Copy link to 6.7 Evaluate Acceptance Criteria and Address Defects">#</a></h4>
+<p>As evaluations occur, regardless of the type of life cycle, one or more of the following activities in Sections 6.7.1 through 6.7.3 occurs.</p>
+<h5 id="section-6-7-1">6.7.1 Comparison of Expected vs. Actual Results 6 <a class="anchor" href="#section-6-7-1" aria-label="Copy link to 6.7.1 Comparison of Expected vs. Actual Results 6">#</a></h5>
+<p>For functional or nonfunctional requirements or user stories or use cases with defined acceptance criteria, the expected results can be compared with the actual results.</p>
+<p>Example—In the insurance example, the worst-case value and target values defined in the acceptance criteria for customer ease of use indicate values that can be compared with the actual ease of use. This comparison may also be accomplished for qualitative evaluations, such as surveys, where worst-case and target values provide a way to compare expected with actual values. For example, the minimum for customer satisfaction could be that 70% of the survey respondents indicate that they were very pleased or extremely pleased with the new mobile app; the target could be 80% of the respondents rated their satisfaction as very pleased or extremely pleased. These values are then compared with the actual responses.</p>
+<h5 id="section-6-7-2">6.7.2 Examine Tolerance Ranges and Exact Numbers <a class="anchor" href="#section-6-7-2" aria-label="Copy link to 6.7.2 Examine Tolerance Ranges and Exact Numbers">#</a></h5>
+<p>Evaluations based on an exact-value prediction of expected results have often been conducted in project management by comparing estimated costs and efforts to actual values and providing an explanation or reason for the variances. For acceptance criteria for nonfunctional requirements, expected values take the form of tolerance ranges, where the worst-case value corresponds to the minimum acceptable value, the best-case value corresponds to the wished-for value, and the most likely value corresponds to the target value. Thus, the expected value range is from worst-case to best-case, with the target lying somewhere in between the two. Using ranges as evaluation criteria for comparing expected values to actual results provides a way to recognize the inherent real uncertainties involved in developing a solution. At the same time, the minimum acceptable value represents a commitment by the project team to remain mindful of business needs. If the actual solution delivers less than the minimum acceptable value, the solution is defective in that regard.</p>
+<h5 id="section-6-7-3">6.7.3 Log and Address Defects <a class="anchor" href="#section-6-7-3" aria-label="Copy link to 6.7.3 Log and Address Defects">#</a></h5>
+<p>When the actual results of an evaluation for a solution do not match the expected results, it is important to analyze the cause for the discrepancy. Sometimes evaluations uncover defects that were not previously found, and these should be logged and assigned for resolution. Sometimes evaluations identify that a service-level agreement is not being met, and these situations should also be logged and assigned. Depending on the organization, defect logging and tracking can be performed on an informal or formal basis.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-191">
+<article class="source-block" id="source-page-191">
+<div class="source-header"><h2>Source page 191 · <a href="exact-pages/page-191.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 191" src="exact-pages/page-191.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-191-text">
+<h2>Reflowable Extracted Text - Source page 191 <a class="anchor" href="#source-page-191-text">#</a></h2>
+<p>Evaluation may discover or confirm that the actual values do not meet the expected goals, and the reasons may or may not be something that the solution is expected to accommodate.</p>
+<p>Example—The insurance company expected 80% of the claims to be adjudicated automatically as a result of the solution, yet only 50% of the claims were automatically adjudicated. The reason may be that the business did not define a sufficient number of rules for automated adjudication in order to reach the goal, or it may be that there is a defect that is sending claims to the adjusters when the claims should be automatically adjudicated. It is also possible that a recent natural disaster caused a spike in larger and more complex claims.</p>
+<p>As with all defects, when a defect is found during evaluation, it should be addressed by additional requirements analysis, impact analysis, and change requests, as applicable.</p>
+<h4 id="section-6-8">6.8 Facilitate the Go/No-Go Decision <a class="anchor" href="#section-6-8" aria-label="Copy link to 6.8 Facilitate the Go/No-Go Decision">#</a></h4>
+<p>When evaluation takes place prior to the release of a full solution or a segment of a solution, stakeholders need an opportunity to decide whether or not the solution should be released in whole or in part or not released at all.</p>
+<p>The stakeholders in the RACI matrix who were identified as having a role to approve or sign off on the solution are generally the individuals who make the go/no-go decision. It is important to summarize the evaluation results in a meaningful way, because evaluations can produce voluminous amounts of information. Whenever possible, the evaluation results should be presented in tabular or visual form (i.e., charts/graphs/pictorial) to help decision makers grasp the impact and render a decision.</p>
+<p>Whenever possible, go/no-go decisions should be made during an in-person meeting to allow all stakeholders to hear the rationale for the decisions from their counterparts. Like any well-run meeting, the use of a time-boxed agenda that is shared with all of the stakeholders prior to the meeting is recommended for go/no-go decision meetings. The stakeholders should be provided with access to the summarized evaluation results prior to the meeting. An agreed-upon decision model for how to reach a decision should already be in place. A “go” permits the release of the solution. A “no-go” either delays or disapproves the release of the solution.</p>
+<p>The individual who analyzed the actual vs. expected results should attend the decision meeting. In some organizations, that individual also facilitates the meeting, although the role that facilitates this meeting depends on organizational preferences. In any event, the individual who conducts the meeting should be experienced as a facilitator.</p>
+<p>Sometimes, an evaluation result reveals an overriding reason to delay the release.</p>
+<p>Example—In the insurance example, when the solution exhibits very poor scalability, it may be beneficial to delay the release until the scalability defects are addressed. When a new regulatory constraint emerges, which requires a new adjudication calculation and results in much smaller or much larger payments per claim than provided by the solution, it may be wise to delay the solution until the calculation is adjusted.</p>
+<p>Sometimes an evaluation reveals a “show stopper,” which forces a no-go decision. Such decisions can occur in projects that present extreme risks for life or property or large-scale finances.</p>
+<p>170 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-192">
+<article class="source-block" id="source-page-192">
+<div class="source-header"><h2>Source page 192 · <a href="exact-pages/page-192.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 192" src="exact-pages/page-192.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-192-text">
+<h2>Reflowable Extracted Text - Source page 192 <a class="anchor" href="#source-page-192-text">#</a></h2>
+<h4 id="section-6-9">6.9 Obtain Signoff of the Solution <a class="anchor" href="#section-6-9" aria-label="Copy link to 6.9 Obtain Signoff of the Solution">#</a></h4>
+<p>The RACI developed previously in Section 3 on Business Analysis Planning designates who is accountable for signoff on the solution. The formality of signoff depends upon the type of project, the type of product, the project life cycle, and corporate and regulatory constraints. For example, formal signoffs for projects are a common protocol when one or more of the following characteristics are present:</p>
+<ul>
+<li>Projects with a line of business-wide or enterprise-wide impact;</li>
+<li>Products where errors or failure to achieve tolerances could result in death or an unacceptable level of</li>
+</ul>
+<p>risk to life, property, or financial solvency;</p>
+<ul>
+<li>Projects in organizations following strict predictive life cycles; and</li>
+<li>Heavily regulated industries, such as banking and insurance or medical devices, clinical research, or</li>
+</ul>
+<p>pharmaceutical companies. Organizations with any kind of formal signoff should reach agreement about the format of a signoff document, how it should be recorded, how it should be stored, and whether signoff needs to be obtained when all the signatories are physically together or whether it is acceptable to sign remotely. For example, some organizations require “wet signatures” (handwritten signatures) for signoffs, while others allow electronic signatures, email correspondence, or electronic voting.</p>
+<p>Organizations with informal signoff practices need to obtain signoff in the manner that is acceptable to the organization.</p>
+<p>Collaboration Point—The project manager and the business analyst, working with auditing and project stakeholders, should work together to determine the signoff practices required by the organization and for the project.</p>
+<p>For a predictive project life cycle, signoff often occurs at the end of the project life cycle either immediately prerelease or post-release. For an iterative or adaptive project life cycle, informal signoff generally occurs at the end of each sprint or iteration, with formal signoff occurring prior to release of the solution.</p>
+<h4 id="section-6-10">6.10 Evaluate the Long-Term Performance of the Solution <a class="anchor" href="#section-6-10" aria-label="Copy link to 6.10 Evaluate the Long-Term Performance of the Solution">#</a></h4>
+<p>Evaluating long-term performance is part of assessing the business benefits realized by implementing the solution. Long-term performance is a broad concept and applies to the execution or accomplishment of work in any form by people or systems or both. Almost anything in a solution that was identified for measurement prior to release can be evaluated at regular intervals over the long-term to identify positive or negative performance trends. For businesses that make use of business intelligence techniques, once a solution is released, any and all information captured as part of that solution can be analyzed to identify accomplishments and trends. Modern marketing organizations rely on analytics/business intelligence capabilities to evaluate whether or not marketing campaigns achieved the desired changes in customer behavior in the long-term.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-193">
+<article class="source-block" id="source-page-193">
+<div class="source-header"><h2>Source page 193 · <a href="exact-pages/page-193.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 193" src="exact-pages/page-193.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-193-text">
+<h2>Reflowable Extracted Text - Source page 193 <a class="anchor" href="#source-page-193-text">#</a></h2>
+<p>Section 6.6.7 illustrates a way to evaluate claims adjuster productivity. That evaluation could continue on a quarterly basis to see whether or not the solution continues to deliver increases in productivity or whether a plateau is reached.</p>
+<p>Example—In the insurance example, analytics can be used to evaluate whether a business rule that was created to automate some of the claim payments is contributing to increased or decreased overall costs for the company.</p>
+<h5 id="section-6-10-1">6.10.1 Determine Metrics <a class="anchor" href="#section-6-10-1" aria-label="Copy link to 6.10.1 Determine Metrics">#</a></h5>
+<p>When evaluation is planned (see Section 6.4), the key metrics are identified well before evaluation takes place.</p>
+<p>Business intelligence/analytics applied to the information captured by the solution may reveal additional metrics.</p>
+<p>Additionally, post-release, stakeholders may identify new metrics that tie to the current or new objectives.</p>
+<p>When collected on a regular, periodic basis, the metrics noted in Section 6.5 can be used to evaluate long-term performance. Businesses with established KPIs often use the metrics associated with them as an input to long- term evaluation of performance. Organizations with more modest performance measurement capabilities may prioritize a subset of metrics to use for long-term evaluation.</p>
+<p>Collaboration Point—Project managers and business analysts should work together with stakeholders to identify and prioritize which performance aspects should be monitored over the long-term and to confirm that the business is willing to cover the costs for the continued measurements and evaluation.</p>
+<h5 id="section-6-10-2">6.10.2 Obtain Metrics/Measure Performance <a class="anchor" href="#section-6-10-2" aria-label="Copy link to 6.10.2 Obtain Metrics/Measure Performance">#</a></h5>
+<p>Realistic planning for evaluation (see Section 6.4) is essential for obtaining metrics to measure performance. It can be costly to obtain metrics when the capability to capture them is not already present in the organization and its infrastructure, prior to the release of the solution, or when it is not built into the solution as part of its development.</p>
+<p>Usually, the same techniques selected to obtain, extract, and report on metrics during solution evaluation can be used to obtain metrics to measure long-term performance. Measuring long-term performance requires comparing individual and cumulative metrics collected during two or more comparable time periods (e.g., current year vs. prior year, or this quarter vs. last quarter vs. the quarter prior to last quarter).</p>
+<h5 id="section-6-10-3">6.10.3 Analyze Results <a class="anchor" href="#section-6-10-3" aria-label="Copy link to 6.10.3 Analyze Results">#</a></h5>
+<p>Analysis of long-term performance examines the measurements, identifies stable metrics (plateaus), and metrics that are trending upward or downward, and discovers anomalies in the measured values or trends. Once the behavior of the metrics is known, further research and root cause analysis can identify the problem that is adversely affecting performance.</p>
+<p>172 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-194">
+<article class="source-block" id="source-page-194">
+<div class="source-header"><h2>Source page 194 · <a href="exact-pages/page-194.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 194" src="exact-pages/page-194.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-194-text">
+<h2>Reflowable Extracted Text - Source page 194 <a class="anchor" href="#source-page-194-text">#</a></h2>
+<p>Example—In the insurance example provided in Section 6.6.7, the expectation was that the claims adjusters’ productivity would increase over time, as evidenced by a decreased average time to adjudicate a claim. If instead, the productivity “flat lined” or trended downward over several quarters, it is important to find out why this is happening. Research and root cause analysis may reveal one or more reasons for not meeting the business objectives, such as:</p>
+<ul>
+<li>There was a severe spike in the complexity of claims due to natural disasters.</li>
+<li>The solution does not provide sufficient support to assist the adjusters.</li>
+<li>The solution provides sufficient support, but it is awkward to use.</li>
+<li>It takes too much time for a claims adjuster to confirm damages.</li>
+<li>Work is expanding to fill the available time.</li>
+</ul>
+<h5 id="section-6-10-4">6.10.4 Assess Limitations of the Solution and Organization <a class="anchor" href="#section-6-10-4" aria-label="Copy link to 6.10.4 Assess Limitations of the Solution and Organization">#</a></h5>
+<p>With analyzed metrics and root causes in hand, many of the same analysis techniques used to understand the problem and organization can be used again to assess the limitations of the solution and the organization.</p>
+<p>Example—Referring back to the insurance example,</p>
+<ul>
+<li>A cost-benefit analysis could be formulated to determine whether it is worthwhile to try to improve</li>
+</ul>
+<p>productivity by adding more claims adjusters during periods of peak claims submittals.</p>
+<ul>
+<li>Further research could be conducted to find out which types of claims take the longest to process and</li>
+</ul>
+<p>to examine what level of support the solution provides for adjudicating those claims.</p>
+<ul>
+<li>Interviews and usability studies could be conducted to identify awkward aspects of the solution.</li>
+<li>Process flows—perhaps annotated with timings—could be used to identify opportunities for</li>
+</ul>
+<p>improvement in the claims adjusters’ workflow.</p>
+<ul>
+<li>If work expanded to fill the available time, interviews or focus groups could reveal a root cause.</li>
+</ul>
+<h5 id="section-6-10-5">6.10.5 Recommend Approach to Improve Solution Performance <a class="anchor" href="#section-6-10-5" aria-label="Copy link to 6.10.5 Recommend Approach to Improve Solution Performance">#</a></h5>
+<p>As with other aspects of evaluation, the analysis techniques used to propose the initial solution can also be applied to recommend an approach for improving solution performance. The work to implement the recommended approach needs to be prioritized as part of whatever ongoing planning activities the organization uses.</p>
+<p>Example—Continuing with the same insurance example,</p>
+<ul>
+<li>The results of the cost-benefit analysis is input into a recommendation either to add more adjusters</li>
+</ul>
+<p>during peak claims or to find ways of helping the existing adjusters be more productive (training, additional rule-based processing, etc.).</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-195">
+<article class="source-block" id="source-page-195">
+<div class="source-header"><h2>Source page 195 · <a href="exact-pages/page-195.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 195" src="exact-pages/page-195.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-195-text">
+<h2>Reflowable Extracted Text - Source page 195 <a class="anchor" href="#source-page-195-text">#</a></h2>
+<ul>
+<li>The results of the research regarding which types of claims take the longest to process and how well</li>
+</ul>
+<p>the solution supports adjudicating those claims could lead to recommendations to provide additional training for adjusters or to support additional rule-based processing.</p>
+<ul>
+<li>Awkward aspects of the solution could be redesigned, based on feedback from interviews and usability</li>
+</ul>
+<p>studies, and then retested.</p>
+<ul>
+<li>Facilitated work sessions could be conducted with decision makers to devise a future-state process</li>
+</ul>
+<p>flow to improve claims adjuster productivity.</p>
+<ul>
+<li>For work that expands to fill the time available, interviews or focus groups could help formulate a</li>
+</ul>
+<p>recommendation centered on training or management intervention, without any change to the solution.</p>
+<h4 id="section-6-11">6.11 Solution Replacement/Phase out <a class="anchor" href="#section-6-11" aria-label="Copy link to 6.11 Solution Replacement/Phase out">#</a></h4>
+<p>In general, there are four strategies for solution replacement/phase-out. These strategies apply equally well to automated, manual, and mixed solutions:</p>
+<ul>
+<li>Massive one-time cutover prior to installing the replacement and phasing out whatever existed prior to it.</li>
+<li>Segmented cutover to the replacement prior to phaseout of whatever existed prior to it (e.g., segment by</li>
+</ul>
+<p>region, by role, opportunistically/on first usage). Segmented cutover implies temporary coexistence of the replacement with whatever is being phased out.</p>
+<ul>
+<li>Time-boxed coexistence of the replacement and what is being phased out, with a final cutover on a specific</li>
+</ul>
+<p>future date. For this strategy, work conducted with the replacement follows all of the replacement’s policies, procedures, and rules, while work conducted with whatever is being phased out continues to operate under its policies, procedures, and rules until the cutover date. This strategy is sometimes used for software projects involving architectural or database changes.</p>
+<ul>
+<li>Permanent coexistence of the old and replacement solutions (with all new business using the replacement</li>
+</ul>
+<p>solution). Generally, massive cutovers present more business risk than any kind of cutover that is segmented or time- boxed. Occasionally, however, that risk needs to be accepted.</p>
+<p>A cost-benefit analysis can be conducted to determine which approach to use. Whether or not a formal cost- benefit analysis is conducted, some sample questions or research that could be undertaken to determine the most appropriate strategy include:</p>
+<ul>
+<li>What is the operational impact of having two solutions? Subjectively, having two solutions may seem</li>
+</ul>
+<p>like a bad idea from an operational standpoint. However, when there is a great deal of complexity associated with the previous solution, it may be more cost effective to have both solutions coexist with all new business going to the replacement (e.g., when it is difficult to align the previous solution with its replacement and the amount of business conducted using the previous solution is very small).</p>
+<p>174 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-196">
+<article class="source-block" id="source-page-196">
+<div class="source-header"><h2>Source page 196 · <a href="exact-pages/page-196.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 196" src="exact-pages/page-196.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-196-text">
+<h2>Reflowable Extracted Text - Source page 196 <a class="anchor" href="#source-page-196-text">#</a></h2>
+<p>Example—In the insurance company example, the company created a new consolidated way to handle all life insurance products and decided to retain a small number of individuals to handle claims and questions for a previous product rather than converting that product to the new consolidated solution because: (a) there is only a small amount of life insurance business for the product and it is no longer offered to new customers, (b) the subject matter experts for the previous product are all retired, (c) there is limited documentation to support how to convert the business for this product to the new solution, and (d) it is not possible or practical to exchange policies under that product for policies under another product.</p>
+<ul>
+<li>Are there any customer-facing or marketing conditions that would require all customers to interact with</li>
+</ul>
+<p>the new solution at the same time? Logo changes are an example of a change that would require all business to use the new logo on the same date.</p>
+<ul>
+<li>Does the replacement solution involve software? For solutions involving software, cutover usually includes</li>
+</ul>
+<p>conversion of data from the previous solution. Segmented or time-boxed cutovers are good choices when data conversion is involved.</p>
+<ul>
+<li>Is it acceptable for some of the customer base to use the previous solution while others use the</li>
+</ul>
+<p>replacement solution? Many businesses choose to offer replacement and previous solutions together as part of a segmented or time-boxed replacement strategy. This is especially true where software operating systems and interfaces to software are involved. For example, cellphone users who have the same brand of cellphone may use different versions of its operating system; the new version may be rolled out in segments, where some customers in a specific area may obtain the new version earlier than others; also older phones may not function with the new operating system. The applications offered on these cell phones may have slightly different user interfaces depending on the underlying operating system.</p>
+<p>No matter what strategy is selected, care should be taken to develop all of the communication and rollout collateral needed to successfully cutover and adapt to a new solution. These activities include but are not limited to:</p>
+<ul>
+<li>Sufficient communication to the stakeholders who will be directly or indirectly impacted by the new</li>
+</ul>
+<p>solution;</p>
+<ul>
+<li>Completion of required training materials and delivery of training;</li>
+<li>Completion or update to standard operating procedures (SOPs) and work instructions;</li>
+<li>Purchase, licensing, and installation of any necessary hardware and third-party software needed to</li>
+</ul>
+<p>support the solution;</p>
+<ul>
+<li>Coordination with other activities within the organization to ensure that implementation occurs at a</li>
+</ul>
+<p>time when the business can accept the changes, and the rollout is not in conflict with other in-process programs and project work; and</p>
+<ul>
+<li>Coordination to ensure any interruption of business is clearly identified, communicated, and acceptable</li>
+</ul>
+<p>by customers.</p>
+</article></section>
+<section class="page-pair" aria-labelledby="source-page-197">
+<article class="source-block" id="source-page-197">
+<div class="source-header"><h2>Source page 197 · <a href="exact-pages/page-197.html" target="_blank" rel="noopener">Open exact original page view</a></h2><button type="button" class="source-toggle" aria-expanded="true">Collapse source page</button></div>
+<div class="source-content"><iframe class="source-frame" title="Exact source page 197" src="exact-pages/page-197.html" loading="lazy"></iframe></div>
+</article>
+<article class="reflow" id="source-page-197-text">
+<h2>Reflowable Extracted Text - Source page 197 <a class="anchor" href="#source-page-197-text">#</a></h2>
+<p>Collaboration Point—When devising communication and rollout activities and collateral, the project managers, training, communication, organizational development, and change management areas should leverage the business analysts’ knowledge of the existing solution and the replacement solution as input into their work.</p>
+<p>176 ©2015 Project Management Institute. Business Analysis for Practitioners: A Practice Guide</p>
+</article></section>
+<section class="quiz" id="generated-quiz" data-quiz-id="chapter-6-solution-evaluation">
+<h2>Generated Quiz <a class="anchor" href="#generated-quiz">#</a></h2>
+<p class="quiz-note">This quiz is generated for study purposes and is not part of the original source HTML.</p>
+<section class="quiz-difficulty" data-difficulty="Hard">
+<div class="quiz-difficulty-header">
+<h3>Hard Questions</h3>
+<div class="quiz-score" aria-live="polite">Score: <span>0/5</span></div>
+<button type="button" class="quiz-reset">Retest this difficulty</button>
+</div>
+<article class="quiz-question" data-question-index="1" data-correct="2" data-explanation="The best answer is “Overview of this Section” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q1.</strong> Which topic is most directly emphasized in Chapter 6 - Solution Evaluation?</p>
+<ol class="options" type="A">
+<li><button type="button">traceability</button></li>
+<li><button type="button">Chapter 2 - Needs Assessment (Part 1)</button></li>
+<li><button type="button">Overview of this Section</button></li>
+<li><button type="button">Sales and Marketing Metrics</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="2" data-correct="0" data-explanation="The best answer is “Purpose of Solution Evaluation” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q2.</strong> Which item would be most relevant when studying the material in Chapter 6 - Solution Evaluation?</p>
+<ol class="options" type="A">
+<li><button type="button">Purpose of Solution Evaluation</button></li>
+<li><button type="button">models</button></li>
+<li><button type="button">Sales and Marketing Metrics</button></li>
+<li><button type="button">business need</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="3" data-correct="3" data-explanation="The best answer is “Recommended Mindset for Evaluation” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q3.</strong> A learner wants to locate a core concept from this page range. Which option best matches the section content?</p>
+<ol class="options" type="A">
+<li><button type="button">Evaluate Early and Often</button></li>
+<li><button type="button">Chapter 5 - Traceability and Monitoring</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 4)</button></li>
+<li><button type="button">Recommended Mindset for Evaluation</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="4" data-correct="1" data-explanation="The best answer is “Evaluate Early and Often” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q4.</strong> Which concept should be connected to the page range 178–197 rather than treated as unrelated background?</p>
+<ol class="options" type="A">
+<li><button type="button">contract negotiation only</button></li>
+<li><button type="button">Evaluate Early and Often</button></li>
+<li><button type="button">hardware procurement flow</button></li>
+<li><button type="button">Results from Day-in-the-Life (DITL) Testing</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="5" data-correct="2" data-explanation="The best answer is “Treat Requirements Analysis, Traceability, Testing, and Evaluation as” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q5.</strong> Which choice best reflects a subject that appears in the extracted text for Chapter 6 - Solution Evaluation?</p>
+<ol class="options" type="A">
+<li><button type="button">Results from Day-in-the-Life (DITL) Testing</button></li>
+<li><button type="button">When and How to Validate Solution Results</button></li>
+<li><button type="button">Treat Requirements Analysis, Traceability, Testing, and Evaluation as</button></li>
+<li><button type="button">Chapter 6 - Solution Evaluation</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+</section>
+<section class="quiz-difficulty" data-difficulty="Hardest">
+<div class="quiz-difficulty-header">
+<h3>Hardest Questions</h3>
+<div class="quiz-score" aria-live="polite">Score: <span>0/5</span></div>
+<button type="button" class="quiz-reset">Retest this difficulty</button>
+</div>
+<article class="quiz-question" data-question-index="6" data-correct="1" data-explanation="The best answer is “Evaluate with the Context of Usage and Value in Mind” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q6.</strong> When applying Chapter 6 - Solution Evaluation in a project context, which concept from this section should be considered first?</p>
+<ol class="options" type="A">
+<li><button type="button">Chapter 1 - Introduction</button></li>
+<li><button type="button">Evaluate with the Context of Usage and Value in Mind</button></li>
+<li><button type="button">Glossary</button></li>
+<li><button type="button">Consider Key Performance Indicators</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="7" data-correct="3" data-explanation="The best answer is “Confirm Expected Values for Software Solutions” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q7.</strong> Which option is the strongest clue that a reader is still working within the same chapter/section content?</p>
+<ol class="options" type="A">
+<li><button type="button">Consider Key Performance Indicators</button></li>
+<li><button type="button">Glossary</button></li>
+<li><button type="button">Chapter 4 - Requirements Elicitation and Analysis (Part 3)</button></li>
+<li><button type="button">Confirm Expected Values for Software Solutions</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="8" data-correct="0" data-explanation="The best answer is “Plan for Evaluation of the Solution” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q8.</strong> A team is reviewing the original source page above and validating the reflowable text. Which topic is most defensible as being in scope here?</p>
+<ol class="options" type="A">
+<li><button type="button">Plan for Evaluation of the Solution</button></li>
+<li><button type="button">Chapter 2 - Needs Assessment (Part 2)</button></li>
+<li><button type="button">Confirm that the Organization Can Continue with Evaluation</button></li>
+<li><button type="button">Customer Metrics</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="9" data-correct="2" data-explanation="The best answer is “Determine What to Evaluate” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q9.</strong> Which concept is the best anchor for comparing detailed source-page content with the cleaned reading text in this section?</p>
+<ol class="options" type="A">
+<li><button type="button">marketing campaign design</button></li>
+<li><button type="button">models</button></li>
+<li><button type="button">Determine What to Evaluate</button></li>
+<li><button type="button">Appendix X1 - Contributors and Reviewers</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+<article class="quiz-question" data-question-index="10" data-correct="1" data-explanation="The best answer is “Consider the Business Goals and Objectives” because it appears as a heading, repeated term, or central phrase within Chapter 6 - Solution Evaluation (source pages 178–197). The other choices are less aligned with this page range.">
+<p class="question-text"><strong>Q10.</strong> Which option would make the best study focus for the current page range based on its extracted headings and repeated terms?</p>
+<ol class="options" type="A">
+<li><button type="button">external vendor pricing</button></li>
+<li><button type="button">Consider the Business Goals and Objectives</button></li>
+<li><button type="button">Chapter 3 - Business Analysis Planning (Part 2)</button></li>
+<li><button type="button">pure coding syntax</button></li>
+</ol>
+<p class="quiz-feedback" aria-live="polite"></p>
+</article>
+</section>
+</section>
+<nav class="nav-row" aria-label="Page navigation">
+<a href="chapter-5-traceability-monitoring.html">← Previous</a><a href="index.html">Back to index</a><a href="print.html">Print version</a><a href="appendix-x1-contributors-reviewers.html">Next →</a>
+</nav></main><aside class="page-toc" aria-label="Local table of contents"><details open><summary>On this page</summary><ul><li class="level-2"><a href="#source-page-178">Source page 178</a></li><li class="level-2"><a href="#source-page-178-text">Reflowable text - page 178</a></li><li class="level-4"><a href="#section-6-1">6.1 Overview of this Section</a></li><li class="level-4"><a href="#section-6-2">6.2 Purpose of Solution Evaluation</a></li><li class="level-2"><a href="#source-page-179">Source page 179</a></li><li class="level-2"><a href="#source-page-179-text">Reflowable text - page 179</a></li><li class="level-4"><a href="#section-6-3">6.3 Recommended Mindset for Evaluation</a></li><li class="level-5"><a href="#section-6-3-1">6.3.1 Evaluate Early and Often</a></li><li class="level-5"><a href="#section-6-3-2">6.3.2 Treat Requirements Analysis, Traceability, Testing, and Evaluation as</a></li><li class="level-2"><a href="#source-page-180">Source page 180</a></li><li class="level-2"><a href="#source-page-180-text">Reflowable text - page 180</a></li><li class="level-5"><a href="#section-6-3-3">6.3.3 Evaluate with the Context of Usage and Value in Mind</a></li><li class="level-5"><a href="#section-6-3-4">6.3.4 Confirm Expected Values for Software Solutions</a></li><li class="level-2"><a href="#source-page-181">Source page 181</a></li><li class="level-2"><a href="#source-page-181-text">Reflowable text - page 181</a></li><li class="level-4"><a href="#section-6-4">6.4 Plan for Evaluation of the Solution</a></li><li class="level-2"><a href="#source-page-182">Source page 182</a></li><li class="level-2"><a href="#source-page-182-text">Reflowable text - page 182</a></li><li class="level-4"><a href="#section-6-5">6.5 Determine What to Evaluate</a></li><li class="level-2"><a href="#source-page-183">Source page 183</a></li><li class="level-2"><a href="#source-page-183-text">Reflowable text - page 183</a></li><li class="level-5"><a href="#section-6-5-1">6.5.1 Consider the Business Goals and Objectives</a></li><li class="level-5"><a href="#section-6-5-2">6.5.2 Consider Key Performance Indicators</a></li><li class="level-5"><a href="#section-6-5-3">6.5.3 Consider Additional Evaluation Metrics and Evaluation Acceptance Criteria</a></li><li class="level-5"><a href="#section-6-5-3-1">6.5.3.1 Project Metrics as Input to the Evaluation of the Solution</a></li><li class="level-2"><a href="#source-page-184">Source page 184</a></li><li class="level-2"><a href="#source-page-184-text">Reflowable text - page 184</a></li><li class="level-5"><a href="#section-6-5-3-2">6.5.3.2 Customer Metrics</a></li><li class="level-5"><a href="#section-6-5-3-3">6.5.3.3 Sales and Marketing Metrics</a></li><li class="level-5"><a href="#section-6-5-3-4">6.5.3.4 Operational Metrics and Assessments</a></li><li class="level-2"><a href="#source-page-185">Source page 185</a></li><li class="level-2"><a href="#source-page-185-text">Reflowable text - page 185</a></li><li class="level-5"><a href="#section-6-5-3-5">6.5.3.5 Functionality</a></li><li class="level-5"><a href="#section-6-5-4">6.5.4 Confirm that the Organization Can Continue with Evaluation</a></li><li class="level-4"><a href="#section-6-6">6.6 When and How to Validate Solution Results</a></li><li class="level-2"><a href="#source-page-186">Source page 186</a></li><li class="level-2"><a href="#source-page-186-text">Reflowable text - page 186</a></li><li class="level-5"><a href="#section-6-6-1">6.6.1 Surveys and Focus Groups</a></li><li class="level-5"><a href="#section-6-6-2">6.6.2 Results from Exploratory Testing and User Acceptance Testing</a></li><li class="level-2"><a href="#source-page-187">Source page 187</a></li><li class="level-2"><a href="#source-page-187-text">Reflowable text - page 187</a></li><li class="level-5"><a href="#section-6-6-3">6.6.3 Results from Day-in-the-Life (DITL) Testing</a></li><li class="level-5"><a href="#section-6-6-4">6.6.4 Results from Integration Testing</a></li><li class="level-5"><a href="#section-6-6-5">6.6.5 Expected vs. Actual Results for Functionality</a></li><li class="level-2"><a href="#source-page-188">Source page 188</a></li><li class="level-2"><a href="#source-page-188-text">Reflowable text - page 188</a></li><li class="level-5"><a href="#section-6-6-6">6.6.6 Expected vs. Actual Results for Nonfunctional Requirements</a></li><li class="level-2"><a href="#source-page-189">Source page 189</a></li><li class="level-2"><a href="#source-page-189-text">Reflowable text - page 189</a></li><li class="level-5"><a href="#section-6-6-7">6.6.7 Outcome Measurements and Financial Calculation of Benefits</a></li><li class="level-2"><a href="#source-page-190">Source page 190</a></li><li class="level-2"><a href="#source-page-190-text">Reflowable text - page 190</a></li><li class="level-4"><a href="#section-6-7">6.7 Evaluate Acceptance Criteria and Address Defects</a></li><li class="level-5"><a href="#section-6-7-1">6.7.1 Comparison of Expected vs. Actual Results 6</a></li><li class="level-5"><a href="#section-6-7-2">6.7.2 Examine Tolerance Ranges and Exact Numbers</a></li><li class="level-5"><a href="#section-6-7-3">6.7.3 Log and Address Defects</a></li><li class="level-2"><a href="#source-page-191">Source page 191</a></li><li class="level-2"><a href="#source-page-191-text">Reflowable text - page 191</a></li><li class="level-4"><a href="#section-6-8">6.8 Facilitate the Go/No-Go Decision</a></li><li class="level-2"><a href="#source-page-192">Source page 192</a></li><li class="level-2"><a href="#source-page-192-text">Reflowable text - page 192</a></li><li class="level-4"><a href="#section-6-9">6.9 Obtain Signoff of the Solution</a></li><li class="level-4"><a href="#section-6-10">6.10 Evaluate the Long-Term Performance of the Solution</a></li><li class="level-2"><a href="#source-page-193">Source page 193</a></li><li class="level-2"><a href="#source-page-193-text">Reflowable text - page 193</a></li><li class="level-5"><a href="#section-6-10-1">6.10.1 Determine Metrics</a></li><li class="level-5"><a href="#section-6-10-2">6.10.2 Obtain Metrics/Measure Performance</a></li><li class="level-5"><a href="#section-6-10-3">6.10.3 Analyze Results</a></li><li class="level-2"><a href="#source-page-194">Source page 194</a></li><li class="level-2"><a href="#source-page-194-text">Reflowable text - page 194</a></li><li class="level-5"><a href="#section-6-10-4">6.10.4 Assess Limitations of the Solution and Organization</a></li><li class="level-5"><a href="#section-6-10-5">6.10.5 Recommend Approach to Improve Solution Performance</a></li><li class="level-2"><a href="#source-page-195">Source page 195</a></li><li class="level-2"><a href="#source-page-195-text">Reflowable text - page 195</a></li><li class="level-4"><a href="#section-6-11">6.11 Solution Replacement/Phase out</a></li><li class="level-2"><a href="#source-page-196">Source page 196</a></li><li class="level-2"><a href="#source-page-196-text">Reflowable text - page 196</a></li><li class="level-2"><a href="#source-page-197">Source page 197</a></li><li class="level-2"><a href="#source-page-197-text">Reflowable text - page 197</a></li><li class="level-2"><a href="#generated-quiz">Generated Quiz</a></li></ul></details></aside></div></div><script src="assets/script.js"></script></body></html>
