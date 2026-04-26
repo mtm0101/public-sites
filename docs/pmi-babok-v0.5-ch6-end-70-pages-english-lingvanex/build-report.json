@@ -1,0 +1,159 @@
+{
+  "source_pdf": "1. The PMI Guide to Business Analysis (2017) Vietnamese - lingvanex - Best.pdf",
+  "scope": "Part 1 only - Chapter 6 through the end of Part 1",
+  "language_policy": "English-only body content; bilingual English (Vietnamese) chapter titles, section titles, and terminology retained",
+  "output_type": "static HTML knowledge site packaged as ZIP",
+  "generated_at": "2026-04-26T15:43:17.153833+00:00",
+  "total_files_generated": 8,
+  "html_files": [
+    "index.html",
+    "print.html",
+    "pages/chapter-06-elicitation.html",
+    "pages/chapter-07-analysis.html",
+    "pages/chapter-08-traceability-monitoring.html",
+    "pages/chapter-09-solution-evaluation.html"
+  ],
+  "content_pages": [
+    {
+      "file": "pages/chapter-06-elicitation.html",
+      "title": "Chapter 6: Elicitation (Sự khơi gợi)",
+      "sections": [
+        "6.1",
+        "6.2",
+        "6.3",
+        "6.4"
+      ],
+      "quiz_questions": 10
+    },
+    {
+      "file": "pages/chapter-07-analysis.html",
+      "title": "Chapter 7: Analysis (Phân tích)",
+      "sections": [
+        "7.1",
+        "7.2",
+        "7.3",
+        "7.4",
+        "7.5",
+        "7.6",
+        "7.7",
+        "7.8",
+        "7.9"
+      ],
+      "quiz_questions": 10
+    },
+    {
+      "file": "pages/chapter-08-traceability-monitoring.html",
+      "title": "Chapter 8: Traceability and Monitoring (Truy xuất nguồn gốc và giám sát)",
+      "sections": [
+        "8.1",
+        "8.2",
+        "8.3",
+        "8.4"
+      ],
+      "quiz_questions": 10
+    },
+    {
+      "file": "pages/chapter-09-solution-evaluation.html",
+      "title": "Chapter 9: Solution Evaluation (Đánh giá giải pháp)",
+      "sections": [
+        "9.1",
+        "9.2",
+        "9.3",
+        "9.4"
+      ],
+      "quiz_questions": 10
+    }
+  ],
+  "total_word_count": 31960,
+  "print_word_count": 13971,
+  "estimated_printed_page_count": 40,
+  "section_sync_validation": {
+    "status": "Passed",
+    "sections_in_pages": [
+      "6.1",
+      "6.2",
+      "6.3",
+      "6.4",
+      "7.1",
+      "7.2",
+      "7.3",
+      "7.4",
+      "7.5",
+      "7.6",
+      "7.7",
+      "7.8",
+      "7.9",
+      "8.1",
+      "8.2",
+      "8.3",
+      "8.4",
+      "9.1",
+      "9.2",
+      "9.3",
+      "9.4"
+    ],
+    "sections_in_print": [
+      "6.1",
+      "6.2",
+      "6.3",
+      "6.4",
+      "7.1",
+      "7.2",
+      "7.3",
+      "7.4",
+      "7.5",
+      "7.6",
+      "7.7",
+      "7.8",
+      "7.9",
+      "8.1",
+      "8.2",
+      "8.3",
+      "8.4",
+      "9.1",
+      "9.2",
+      "9.3",
+      "9.4"
+    ]
+  },
+  "quiz_validation": {
+    "status": "Passed",
+    "detail": [
+      {
+        "chapter": "6",
+        "questions": 10,
+        "hard": 5,
+        "hardest": 5
+      },
+      {
+        "chapter": "7",
+        "questions": 10,
+        "hard": 5,
+        "hardest": 5
+      },
+      {
+        "chapter": "8",
+        "questions": 10,
+        "hard": 5,
+        "hardest": 5
+      },
+      {
+        "chapter": "9",
+        "questions": 10,
+        "hard": 5,
+        "hardest": 5
+      }
+    ],
+    "print_has_quiz": false,
+    "rule_used": "10 questions/page = 5 Hard + 5 Hardest"
+  },
+  "navigation_validation": {
+    "status": "Passed",
+    "missing_links": []
+  },
+  "deduplication_validation": {
+    "status": "Passed",
+    "method": "Section-specific wording, chapter-specific quiz stems, and validation scan. Repeated navigation labels, headings, and required technical terms are excluded. print.html intentionally mirrors content pages for synchronization and is not treated as duplicate failure."
+  },
+  "copyright_note": "Generated as a non-substitutive study companion; content is summarized, paraphrased, structured, and taught for learning use."
+}
