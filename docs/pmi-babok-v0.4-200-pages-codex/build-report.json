@@ -1,0 +1,276 @@
+{
+  "outputDir": "pmi-ba-vietnamese",
+  "sourcePdfPath": "C:\\Users\\thiendd3\\Downloads\\1. The PMI Guide to Business Analysis (2017) English - Original.pdf",
+  "sourcePdfExists": true,
+  "language": "Vietnamese",
+  "targetWordPages": 200,
+  "wordsPerStandardPage": 500,
+  "bilingualTerminology": "English (Vietnamese)",
+  "duplicatePolicy": "Concise global deduplication by design; repeated concepts reference prior sections instead of repeating.",
+  "printSettings": {
+    "defaultFontSize": "18px",
+    "defaultPageSize": "92mm 200mm",
+    "fontOptions": 12,
+    "pageSizeOptions": 12,
+    "storage": "localStorage"
+  },
+  "quizRules": "10 questions per page: 5 hard + 5 hardest; randomized correct option positions; interactive localStorage cache.",
+  "quizCoverage": [
+    {
+      "file": "pmi-ba-vietnamese/index.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/01-framework.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/02-context-role.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "D",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "A"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/03-needs-assessment.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "A",
+        "D"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/04-stakeholder-engagement.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "C",
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/05-elicitation.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "B",
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/06-analysis.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "D",
+        "A",
+        "C",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/07-traceability-monitoring.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "A",
+        "C",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "D"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/08-solution-evaluation.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "C",
+        "B",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A"
+      ]
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/09-techniques-glossary-playbook.html",
+      "total": 10,
+      "levels": {
+        "hard": 5,
+        "hardest": 5
+      },
+      "correctOptionPositions": [
+        "B",
+        "C",
+        "A",
+        "D",
+        "B",
+        "C",
+        "B",
+        "D",
+        "A",
+        "C"
+      ]
+    }
+  ],
+  "quizQuestionsTotal": 100,
+  "index": "pmi-ba-vietnamese/index.html",
+  "print": "pmi-ba-vietnamese/print.html",
+  "htmlFileCount": 11,
+  "siteWordsApprox": 110687,
+  "explanatoryContentWordsApprox": 97985,
+  "printWordsApprox": 98036,
+  "estimatedPrintWordPagesAt500Words": 197,
+  "estimatedSiteWordPagesAt500Words": 222,
+  "estimatedExplanatoryContentPagesAt500Words": 196,
+  "files": [
+    {
+      "file": "pmi-ba-vietnamese/index.html",
+      "words": 1782
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/01-framework.html",
+      "words": 12270
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/02-context-role.html",
+      "words": 12309
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/03-needs-assessment.html",
+      "words": 12120
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/04-stakeholder-engagement.html",
+      "words": 12099
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/05-elicitation.html",
+      "words": 11810
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/06-analysis.html",
+      "words": 11933
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/07-traceability-monitoring.html",
+      "words": 12182
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/08-solution-evaluation.html",
+      "words": 12015
+    },
+    {
+      "file": "pmi-ba-vietnamese/pages/09-techniques-glossary-playbook.html",
+      "words": 12167
+    },
+    {
+      "file": "pmi-ba-vietnamese/print.html",
+      "words": 98036
+    }
+  ]
+}
