@@ -1,0 +1,273 @@
+<!doctype html><html lang='vi'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Nền tảng và môi trường (Foundations and Environment)</title><link rel='stylesheet' href='../assets/style.css'></head><body>
+<nav class="topnav"><a href="../index.html">Trang chủ (Home)</a><a class="active" href="01-nen-tang-moi-truong.html">Nền tảng và môi trường</a><a href="02-vai-tro-danh-gia-nhu-cau-a.html">Vai trò BA và đánh giá nhu cầu A</a><a href="03-danh-gia-nhu-cau-b-stakeholder-a.html">Đánh giá nhu cầu B và stakeholder A</a><a href="04-stakeholder-elicitation-a.html">Stakeholder và khơi gợi A</a><a href="05-elicitation-analysis-a.html">Khơi gợi và phân tích A</a><a href="06-analysis-b-traceability.html">Phân tích B và truy xuất</a><a href="07-solution-toolkit.html">Đánh giá giải pháp và toolkit</a><a href="../print.html">Bản in (Print)</a></nav>
+<main class='wrap'>
+<header class='hero'><h1 id='nen-tang-va-moi-truong-foundations-and-environment'>Nền tảng và môi trường (Foundations and Environment)</h1><p>Trang học tập này diễn giải nội dung theo hướng thực hành, song ngữ Việt - Anh, phục vụ ôn tập và áp dụng vào dự án phần mềm.</p></header>
+
+    <section id="s-1-1" class="content-section">
+      <h2><a href="#s-1-1">1.1 Tổng quan và mục đích của hướng dẫn này <span>(Overview and Purpose)</span></a></h2>
+      <p>Hướng dẫn đặt phân tích kinh doanh vào vị trí cầu nối giữa chiến lược, sản phẩm, dự án và giá trị kinh doanh. Người học nên đọc phần này như bản định hướng: tại sao BA không chỉ ghi yêu cầu, mà còn giúp tổ chức hiểu vấn đề, lựa chọn giải pháp, kiểm soát rủi ro và đánh giá kết quả.</p>
+      <p>Ở góc nhìn thực hành, tổng quan và mục đích của hướng dẫn này giúp nhóm chuyển một ý tưởng hoặc tín hiệu kinh doanh thành quyết định có thể kiểm chứng. Các chủ đề cần chú ý gồm: chiến lược, giá trị, vòng đời, tailoring, định nghĩa chung. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh nền tảng đặt lịch khám cho phòng khám đa chuyên khoa, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi bắt đầu một sáng kiến mới, khi nhóm cần thống nhất vai trò BA, hoặc khi tổ chức muốn chuẩn hóa cách tạo ra yêu cầu sản phẩm. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>nhu cầu kinh doanh ban đầu, bối cảnh tổ chức và mục tiêu học tập</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>đọc định hướng, mapping thuật ngữ và thảo luận vai trò</td></tr><tr><th>Đầu ra (Outputs)</th><td>cách hiểu chung về BA, phạm vi học tập và nguyên tắc áp dụng</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây nền tảng đặt lịch khám cho phòng khám đa chuyên khoa. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>đưa giải pháp vào quá sớm</li><li>bỏ qua stakeholder ít quyền lực nhưng nắm quy trình</li><li>ghi nhận ý kiến mà không xác nhận</li><li>đánh giá thành công chỉ bằng việc hoàn thành task</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Xác định quyết định cần hỗ trợ</li><li>Kiểm tra nguồn dữ liệu đáng tin</li><li>Mời đúng stakeholder</li><li>Ghi rõ giả định còn mở</li><li>Chọn artifact đủ nhẹ để duy trì</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Tổng quan và mục đích của hướng dẫn này chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-1-2" class="content-section">
+      <h2><a href="#s-1-2">1.2 Yếu tố nền tảng <span>(Foundational Elements)</span></a></h2>
+      <p>Các yếu tố nền tảng giải thích mối liên hệ giữa sản phẩm, dự án, chương trình, danh mục đầu tư và giá trị. Đây là khung xương giúp BA không bị sa vào danh sách tính năng rời rạc mà luôn nhìn thấy lý do đầu tư và kết quả cần đạt.</p>
+      <p>Trong môi trường sản phẩm, yếu tố nền tảng tạo ra điểm neo để stakeholder thảo luận bằng dữ kiện thay vì cảm tính. Các chủ đề cần chú ý gồm: chiến lược, giá trị, vòng đời, tailoring, định nghĩa chung. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh cổng nội bộ quản lý phê duyệt mua sắm, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi một yêu cầu có vẻ hợp lý nhưng chưa chứng minh được giá trị, hoặc khi nhiều dự án cùng đóng góp vào một sản phẩm lớn. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>mục tiêu chiến lược, vòng đời sản phẩm và vòng đời dự án</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>phân rã giá trị, so sánh vòng đời và định nghĩa thước đo</td></tr><tr><th>Đầu ra (Outputs)</th><td>bản đồ giá trị, giả định nền tảng và tiêu chí thành công</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây cổng nội bộ quản lý phê duyệt mua sắm. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>nhầm triệu chứng với nguyên nhân</li><li>chỉ nghe một nhóm người dùng</li><li>không cập nhật artifact sau thay đổi</li><li>dùng cùng một kỹ thuật cho mọi tình huống</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>So sánh mục tiêu với phạm vi</li><li>Đánh dấu rủi ro và phụ thuộc</li><li>Xác nhận ngôn ngữ dùng chung</li><li>Tạo ví dụ kiểm chứng</li><li>Lưu lại lý do trade-off</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Yếu tố nền tảng chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-1-3" class="content-section">
+      <h2><a href="#s-1-3">1.3 Thành phần của hướng dẫn này <span>(Components of This Guide)</span></a></h2>
+      <p>Phần thành phần mô tả cách các quy trình, nhóm quy trình, lĩnh vực kiến thức, kỹ thuật và sản phẩm BA kết nối với nhau. Khi hiểu cấu trúc này, người học có thể tra cứu nhanh: mình đang ở bước nào, cần đầu vào nào và tạo ra kết quả gì.</p>
+      <p>Với vai trò BA, thành phần của hướng dẫn này là bước làm rõ thông tin trước khi nhóm cam kết nguồn lực hoặc phạm vi. Các chủ đề cần chú ý gồm: chiến lược, giá trị, vòng đời, tailoring, định nghĩa chung. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh ứng dụng mobile onboarding người dùng mới, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi lập kế hoạch học PMI-PBA, thiết kế quy trình BA nội bộ, hoặc tailoring phương pháp cho dự án Agile, predictive hay hybrid. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>danh sách quy trình, lĩnh vực kiến thức và chu kỳ dự án</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>tailoring, ma trận quy trình và sơ đồ luồng thông tin</td></tr><tr><th>Đầu ra (Outputs)</th><td>bản đồ học tập, quy trình tùy chỉnh và checklist áp dụng</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây ứng dụng mobile onboarding người dùng mới. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>để thuật ngữ song ngữ mơ hồ</li><li>không tách giả định khỏi dữ kiện</li><li>thiếu trace từ mục tiêu đến yêu cầu</li><li>xem feedback muộn như ngoại lệ nhỏ</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Liên kết với giá trị kinh doanh</li><li>Chỉ định owner cho thông tin</li><li>Đặt mốc review</li><li>Đưa kết quả vào backlog hoặc roadmap</li><li>Theo dõi thay đổi sau quyết định</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Thành phần của hướng dẫn này chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-2-1" class="content-section">
+      <h2><a href="#s-2-1">2.1 Tổng quan môi trường tiến hành phân tích kinh doanh <span>(Environment Overview)</span></a></h2>
+      <p>Phân tích kinh doanh không diễn ra trong khoảng trống. Môi trường tác động đến quyền ra quyết định, cách giao tiếp, mức độ kiểm soát, tốc độ phản hồi và cả tiêu chí xem một giải pháp là thành công.</p>
+      <p>Khi sản phẩm có nhiều phụ thuộc, tổng quan môi trường tiến hành phân tích kinh doanh làm giảm khoảng cách giữa chiến lược, yêu cầu và thực thi. Các chủ đề cần chú ý gồm: ràng buộc, quản trị, văn hóa, chuẩn tổ chức, nguồn tri thức. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh hệ thống tìm kiếm nhà cung cấp dịch vụ y tế, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi tổ chức thay đổi mô hình vận hành, khi dự án phụ thuộc nhiều phòng ban, hoặc khi các quy định bên ngoài có thể làm thay đổi phạm vi. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>bối cảnh tổ chức, ràng buộc thị trường và mô hình quản trị</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>phân tích ngữ cảnh, đánh giá tác động và phỏng vấn lãnh đạo</td></tr><tr><th>Đầu ra (Outputs)</th><td>giả định môi trường, rủi ro bối cảnh và hướng tailoring</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây hệ thống tìm kiếm nhà cung cấp dịch vụ y tế. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>quá phụ thuộc vào template</li><li>không xem xét ràng buộc vận hành</li><li>ưu tiên theo tiếng nói lớn nhất</li><li>quên đo giá trị sau release</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Chọn kỹ thuật phù hợp câu hỏi</li><li>Giới hạn mức chi tiết cần thiết</li><li>Đo phản hồi sau khi áp dụng</li><li>Cập nhật traceability</li><li>Tổng hợp takeaway cho nhóm</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Tổng quan môi trường tiến hành phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-2-2" class="content-section">
+      <h2><a href="#s-2-2">2.2 Yếu tố môi trường doanh nghiệp <span>(Enterprise Environmental Factors)</span></a></h2>
+      <p>Yếu tố môi trường doanh nghiệp bao gồm điều kiện bên ngoài và nội bộ mà nhóm không dễ thay đổi ngay, nhưng phải tôn trọng khi phân tích. Ví dụ: văn hóa phê duyệt, quy định ngành, hạ tầng công nghệ, chuẩn bảo mật hoặc kỳ vọng của thị trường.</p>
+      <p>Phần này nên được hiểu như một hoạt động quản trị tri thức: gom dữ kiện, kiểm tra giả định và bảo vệ giá trị cần đạt. Các chủ đề cần chú ý gồm: ràng buộc, quản trị, văn hóa, chuẩn tổ chức, nguồn tri thức. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh dashboard đo hiệu suất vận hành, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi đánh giá tính khả thi, xác định stakeholder, hoặc giải thích vì sao một giải pháp tốt về kỹ thuật vẫn khó triển khai trong tổ chức hiện tại. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>quy định, chuẩn ngành và văn hóa doanh nghiệp</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>PESTLE, SWOT và phân tích ràng buộc</td></tr><tr><th>Đầu ra (Outputs)</th><td>danh sách ràng buộc, cơ hội từ môi trường và giả định đã kiểm chứng</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây dashboard đo hiệu suất vận hành. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>đưa giải pháp vào quá sớm</li><li>bỏ qua stakeholder ít quyền lực nhưng nắm quy trình</li><li>ghi nhận ý kiến mà không xác nhận</li><li>đánh giá thành công chỉ bằng việc hoàn thành task</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Xác định quyết định cần hỗ trợ</li><li>Kiểm tra nguồn dữ liệu đáng tin</li><li>Mời đúng stakeholder</li><li>Ghi rõ giả định còn mở</li><li>Chọn artifact đủ nhẹ để duy trì</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Yếu tố môi trường doanh nghiệp chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-2-3" class="content-section">
+      <h2><a href="#s-2-3">2.3 Tài sản quy trình tổ chức <span>(Organizational Process Assets)</span></a></h2>
+      <p>Tài sản quy trình tổ chức là kinh nghiệm tích lũy của doanh nghiệp: chính sách, mẫu biểu, bài học cũ, dữ liệu lịch sử, kho tri thức, quy trình phê duyệt và chuẩn chất lượng. BA tận dụng chúng để tránh làm lại từ đầu.</p>
+      <p>Ở góc nhìn thực hành, tài sản quy trình tổ chức giúp nhóm chuyển một ý tưởng hoặc tín hiệu kinh doanh thành quyết định có thể kiểm chứng. Các chủ đề cần chú ý gồm: ràng buộc, quản trị, văn hóa, chuẩn tổ chức, nguồn tri thức. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh quy trình xử lý khiếu nại khách hàng, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi bắt đầu dự án, chuẩn bị workshop, lập kế hoạch yêu cầu hoặc cần kiểm tra xem tổ chức đã có mẫu tài liệu tương tự chưa. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>template, bài học kinh nghiệm và quy trình hiện hành</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>review tài liệu, tra cứu knowledge base và retrospective</td></tr><tr><th>Đầu ra (Outputs)</th><td>bộ mẫu BA, danh sách reuse và rủi ro quy trình</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây quy trình xử lý khiếu nại khách hàng. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>nhầm triệu chứng với nguyên nhân</li><li>chỉ nghe một nhóm người dùng</li><li>không cập nhật artifact sau thay đổi</li><li>dùng cùng một kỹ thuật cho mọi tình huống</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>So sánh mục tiêu với phạm vi</li><li>Đánh dấu rủi ro và phụ thuộc</li><li>Xác nhận ngôn ngữ dùng chung</li><li>Tạo ví dụ kiểm chứng</li><li>Lưu lại lý do trade-off</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Tài sản quy trình tổ chức chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-2-4" class="content-section">
+      <h2><a href="#s-2-4">2.4 Tác động của hệ thống tổ chức đến phân tích kinh doanh <span>(Organizational Systems Impact)</span></a></h2>
+      <p>Cấu trúc tổ chức quyết định đường đi của thông tin. BA cần biết ai sở hữu quy trình, ai có quyền phê duyệt, nhóm nào vận hành giải pháp và hệ thống nào tạo ra dữ liệu đầu vào.</p>
+      <p>Trong môi trường sản phẩm, tác động của hệ thống tổ chức đến phân tích kinh doanh tạo ra điểm neo để stakeholder thảo luận bằng dữ kiện thay vì cảm tính. Các chủ đề cần chú ý gồm: ràng buộc, quản trị, văn hóa, chuẩn tổ chức, nguồn tri thức. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh portal thanh toán subscription, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi stakeholder mâu thuẫn, quyết định bị chậm, hoặc yêu cầu thay đổi vì ranh giới trách nhiệm không rõ. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>sơ đồ tổ chức, quy trình vận hành và mô hình quản trị</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>RACI, stakeholder map và business architecture</td></tr><tr><th>Đầu ra (Outputs)</th><td>điểm phối hợp, ranh giới trách nhiệm và đề xuất cải thiện luồng quyết định</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây portal thanh toán subscription. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>để thuật ngữ song ngữ mơ hồ</li><li>không tách giả định khỏi dữ kiện</li><li>thiếu trace từ mục tiêu đến yêu cầu</li><li>xem feedback muộn như ngoại lệ nhỏ</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Liên kết với giá trị kinh doanh</li><li>Chỉ định owner cho thông tin</li><li>Đặt mốc review</li><li>Đưa kết quả vào backlog hoặc roadmap</li><li>Theo dõi thay đổi sau quyết định</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Tác động của hệ thống tổ chức đến phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+<div class='pagination before-quiz'><span></span><a class='btn secondary' href='../index.html'>Mục lục (TOC)</a><a class='btn' href='02-vai-tro-danh-gia-nhu-cau-a.html'>Trang sau (Next Page) →</a></div>
+<section class='quiz' id='quiz'><h2>Quiz cuối trang (End-of-page Quiz)</h2><p>Mỗi trang có 10 câu: 5 Hard và 5 Hardest. Câu hỏi tập trung vào áp dụng, chẩn đoán, trade-off và tổng hợp.</p>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 1.1</span><strong>Câu 1.</strong> Trong tình huống cổng nội bộ quản lý phê duyệt mua sắm, dấu hiệu nào cho thấy nhóm nên ưu tiên tổng quan và mục đích của hướng dẫn này?</p><ol type='A'>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tổng quan và mục đích của hướng dẫn này, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì tổng quan và mục đích của hướng dẫn này có thể được bổ sung sau khi sản phẩm phát hành.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì tổng quan và mục đích của hướng dẫn này phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 1.2</span><strong>Câu 2.</strong> Nếu stakeholder đưa ra yêu cầu mơ hồ liên quan đến yếu tố nền tảng, BA nên phản ứng theo hướng nào?</p><ol type='A'>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của yếu tố nền tảng, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì yếu tố nền tảng có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì yếu tố nền tảng phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 1.3</span><strong>Câu 3.</strong> Lựa chọn nào thể hiện đúng nhất giá trị của thành phần của hướng dẫn này trong một dự án sản phẩm số?</p><ol type='A'>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của thành phần của hướng dẫn này, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A</p><p>Đáp án đúng là A vì thành phần của hướng dẫn này phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 2.1</span><strong>Câu 4.</strong> Khi áp dụng tổng quan môi trường tiến hành phân tích kinh doanh, quyết định nào giúp giảm rework nhiều nhất?</p><ol type='A'>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì tổng quan môi trường tiến hành phân tích kinh doanh có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tổng quan môi trường tiến hành phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì tổng quan môi trường tiến hành phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 2.2</span><strong>Câu 5.</strong> Một nhóm bỏ qua yếu tố môi trường doanh nghiệp và gặp xung đột muộn. Chẩn đoán hợp lý nhất là gì?</p><ol type='A'>
+<li>Chỉ ưu tiên tốc độ delivery, vì yếu tố môi trường doanh nghiệp có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của yếu tố môi trường doanh nghiệp, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì yếu tố môi trường doanh nghiệp phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 2.3</span><strong>Câu 6.</strong> Trong tình huống portal thanh toán subscription, dấu hiệu nào cho thấy nhóm nên ưu tiên tài sản quy trình tổ chức?</p><ol type='A'>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tài sản quy trình tổ chức, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì tài sản quy trình tổ chức có thể được bổ sung sau khi sản phẩm phát hành.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A</p><p>Đáp án đúng là A vì tài sản quy trình tổ chức phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 2.4</span><strong>Câu 7.</strong> Nếu stakeholder đưa ra yêu cầu mơ hồ liên quan đến tác động của hệ thống tổ chức đến phân tích kinh doanh, BA nên phản ứng theo hướng nào?</p><ol type='A'>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tác động của hệ thống tổ chức đến phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì tác động của hệ thống tổ chức đến phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 1.1</span><strong>Câu 8.</strong> Lựa chọn nào thể hiện đúng nhất giá trị của tổng quan và mục đích của hướng dẫn này trong một dự án sản phẩm số?</p><ol type='A'>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tổng quan và mục đích của hướng dẫn này, sau đó xác nhận với stakeholder phù hợp.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D</p><p>Đáp án đúng là D vì tổng quan và mục đích của hướng dẫn này phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 1.2</span><strong>Câu 9.</strong> Khi áp dụng yếu tố nền tảng, quyết định nào giúp giảm rework nhiều nhất?</p><ol type='A'>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của yếu tố nền tảng, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì yếu tố nền tảng phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 1.3</span><strong>Câu 10.</strong> Một nhóm bỏ qua thành phần của hướng dẫn này và gặp xung đột muộn. Chẩn đoán hợp lý nhất là gì?</p><ol type='A'>
+<li>Chỉ ưu tiên tốc độ delivery, vì thành phần của hướng dẫn này có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của thành phần của hướng dẫn này, sau đó xác nhận với stakeholder phù hợp.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D</p><p>Đáp án đúng là D vì thành phần của hướng dẫn này phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+</section>
+<div class='pagination after-quiz'><span></span><a class='btn secondary' href='../index.html'>Mục lục (TOC)</a><a class='btn' href='02-vai-tro-danh-gia-nhu-cau-a.html'>Trang sau (Next Page) →</a></div>
+</main></body></html>

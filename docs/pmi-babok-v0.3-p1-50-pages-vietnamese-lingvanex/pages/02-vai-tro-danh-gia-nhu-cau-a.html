@@ -1,0 +1,273 @@
+<!doctype html><html lang='vi'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
+<title>Vai trò BA và đánh giá nhu cầu A (BA Role and Needs Assessment A)</title><link rel='stylesheet' href='../assets/style.css'></head><body>
+<nav class="topnav"><a href="../index.html">Trang chủ (Home)</a><a href="01-nen-tang-moi-truong.html">Nền tảng và môi trường</a><a class="active" href="02-vai-tro-danh-gia-nhu-cau-a.html">Vai trò BA và đánh giá nhu cầu A</a><a href="03-danh-gia-nhu-cau-b-stakeholder-a.html">Đánh giá nhu cầu B và stakeholder A</a><a href="04-stakeholder-elicitation-a.html">Stakeholder và khơi gợi A</a><a href="05-elicitation-analysis-a.html">Khơi gợi và phân tích A</a><a href="06-analysis-b-traceability.html">Phân tích B và truy xuất</a><a href="07-solution-toolkit.html">Đánh giá giải pháp và toolkit</a><a href="../print.html">Bản in (Print)</a></nav>
+<main class='wrap'>
+<header class='hero'><h1 id='vai-tro-ba-va-danh-gia-nhu-cau-a-ba-role-and-needs-assessment-a'>Vai trò BA và đánh giá nhu cầu A (BA Role and Needs Assessment A)</h1><p>Trang học tập này diễn giải nội dung theo hướng thực hành, song ngữ Việt - Anh, phục vụ ôn tập và áp dụng vào dự án phần mềm.</p></header>
+
+    <section id="s-3-1" class="content-section">
+      <h2><a href="#s-3-1">3.1 Tổng quan về vai trò nhà phân tích kinh doanh <span>(Business Analyst Role Overview)</span></a></h2>
+      <p>Vai trò BA thay đổi tùy tổ chức, nhưng lõi công việc vẫn xoay quanh việc khám phá nhu cầu, biến thông tin mơ hồ thành quyết định rõ ràng và bảo vệ sự liên kết giữa sản phẩm với giá trị kinh doanh.</p>
+      <p>Với vai trò BA, tổng quan về vai trò nhà phân tích kinh doanh là bước làm rõ thông tin trước khi nhóm cam kết nguồn lực hoặc phạm vi. Các chủ đề cần chú ý gồm: trách nhiệm, kỹ năng, ảnh hưởng, giao tiếp, ra quyết định. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh hệ thống tích hợp CRM và kho dữ liệu, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi phân công trách nhiệm giữa PO, PM, BA, Solution Architect, UX và QA; đặc biệt trong nhóm Agile nơi vai trò dễ chồng lấn. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>mục tiêu sản phẩm, kỳ vọng stakeholder và mô hình team</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>role mapping, working agreement và responsibility workshop</td></tr><tr><th>Đầu ra (Outputs)</th><td>phạm vi trách nhiệm, cách phối hợp và kỳ vọng năng lực</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây hệ thống tích hợp CRM và kho dữ liệu. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>quá phụ thuộc vào template</li><li>không xem xét ràng buộc vận hành</li><li>ưu tiên theo tiếng nói lớn nhất</li><li>quên đo giá trị sau release</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Chọn kỹ thuật phù hợp câu hỏi</li><li>Giới hạn mức chi tiết cần thiết</li><li>Đo phản hồi sau khi áp dụng</li><li>Cập nhật traceability</li><li>Tổng hợp takeaway cho nhóm</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Tổng quan về vai trò nhà phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-3-2" class="content-section">
+      <h2><a href="#s-3-2">3.2 Định nghĩa về nhà phân tích kinh doanh <span>(Definition of Business Analyst)</span></a></h2>
+      <p>Nhà phân tích kinh doanh là người thực hiện hoạt động BA, không nhất thiết mang đúng chức danh BA. Một Product Owner, Product Manager, Consultant hoặc Delivery Manager cũng có thể thực hiện công việc này nếu họ phân tích nhu cầu và thông tin sản phẩm.</p>
+      <p>Khi sản phẩm có nhiều phụ thuộc, định nghĩa về nhà phân tích kinh doanh làm giảm khoảng cách giữa chiến lược, yêu cầu và thực thi. Các chủ đề cần chú ý gồm: trách nhiệm, kỹ năng, ảnh hưởng, giao tiếp, ra quyết định. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh workflow xác minh danh tính số, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi tổ chức chưa có chức danh BA chính thức, hoặc cần đánh giá ai đang thực sự chịu trách nhiệm về yêu cầu. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>mô tả công việc, vai trò dự án và khoảng trống trách nhiệm</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>role comparison, competency assessment và RACI</td></tr><tr><th>Đầu ra (Outputs)</th><td>định nghĩa vai trò, ranh giới công việc và kế hoạch phát triển năng lực</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây workflow xác minh danh tính số. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>đưa giải pháp vào quá sớm</li><li>bỏ qua stakeholder ít quyền lực nhưng nắm quy trình</li><li>ghi nhận ý kiến mà không xác nhận</li><li>đánh giá thành công chỉ bằng việc hoàn thành task</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Xác định quyết định cần hỗ trợ</li><li>Kiểm tra nguồn dữ liệu đáng tin</li><li>Mời đúng stakeholder</li><li>Ghi rõ giả định còn mở</li><li>Chọn artifact đủ nhẹ để duy trì</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Định nghĩa về nhà phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-3-3" class="content-section">
+      <h2><a href="#s-3-3">3.3 Phạm vi ảnh hưởng của nhà phân tích kinh doanh <span>(Sphere of Influence)</span></a></h2>
+      <p>BA ảnh hưởng lên sản phẩm, dự án, tổ chức và cộng đồng stakeholder. Ảnh hưởng này không chỉ đến từ quyền hạn chính thức, mà còn từ chất lượng phân tích, khả năng đặt câu hỏi và mức độ tin cậy mà BA xây dựng.</p>
+      <p>Phần này nên được hiểu như một hoạt động quản trị tri thức: gom dữ kiện, kiểm tra giả định và bảo vệ giá trị cần đạt. Các chủ đề cần chú ý gồm: trách nhiệm, kỹ năng, ảnh hưởng, giao tiếp, ra quyết định. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh sản phẩm SaaS cho nhóm hỗ trợ khách hàng, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi BA cần giải quyết xung đột yêu cầu, thuyết phục lãnh đạo, hoặc kết nối đội kỹ thuật với người dùng cuối. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>stakeholder register, product scope và organizational goals</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>influence mapping, communication planning và facilitation</td></tr><tr><th>Đầu ra (Outputs)</th><td>chiến lược ảnh hưởng, kênh giao tiếp và mức độ đồng thuận</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây sản phẩm SaaS cho nhóm hỗ trợ khách hàng. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>nhầm triệu chứng với nguyên nhân</li><li>chỉ nghe một nhóm người dùng</li><li>không cập nhật artifact sau thay đổi</li><li>dùng cùng một kỹ thuật cho mọi tình huống</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>So sánh mục tiêu với phạm vi</li><li>Đánh dấu rủi ro và phụ thuộc</li><li>Xác nhận ngôn ngữ dùng chung</li><li>Tạo ví dụ kiểm chứng</li><li>Lưu lại lý do trade-off</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Phạm vi ảnh hưởng của nhà phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-3-4" class="content-section">
+      <h2><a href="#s-3-4">3.4 Năng lực của nhà phân tích kinh doanh <span>(Business Analyst Competencies)</span></a></h2>
+      <p>Năng lực BA gồm tư duy phân tích, phán đoán chuyên gia, giao tiếp, kỹ năng cá nhân, lãnh đạo và hiểu biết công cụ. Một BA mạnh không chỉ biết viết tài liệu; họ biết chọn kỹ thuật đúng lúc và điều chỉnh cách làm theo bối cảnh.</p>
+      <p>Ở góc nhìn thực hành, năng lực của nhà phân tích kinh doanh giúp nhóm chuyển một ý tưởng hoặc tín hiệu kinh doanh thành quyết định có thể kiểm chứng. Các chủ đề cần chú ý gồm: trách nhiệm, kỹ năng, ảnh hưởng, giao tiếp, ra quyết định. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh nền tảng đặt lịch khám cho phòng khám đa chuyên khoa, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi tuyển dụng, đánh giá hiệu suất, xây dựng lộ trình học tập hoặc phân vai trong một chương trình nhiều sản phẩm. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>khung năng lực, phản hồi stakeholder và nhu cầu dự án</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>gap assessment, coaching và learning roadmap</td></tr><tr><th>Đầu ra (Outputs)</th><td>ma trận năng lực, kế hoạch cải thiện và tiêu chí mentoring</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây nền tảng đặt lịch khám cho phòng khám đa chuyên khoa. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>để thuật ngữ song ngữ mơ hồ</li><li>không tách giả định khỏi dữ kiện</li><li>thiếu trace từ mục tiêu đến yêu cầu</li><li>xem feedback muộn như ngoại lệ nhỏ</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Liên kết với giá trị kinh doanh</li><li>Chỉ định owner cho thông tin</li><li>Đặt mốc review</li><li>Đưa kết quả vào backlog hoặc roadmap</li><li>Theo dõi thay đổi sau quyết định</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Năng lực của nhà phân tích kinh doanh chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-4-1" class="content-section">
+      <h2><a href="#s-4-1">4.1 Xác định vấn đề hoặc cơ hội <span>(Identify Problem or Opportunity)</span></a></h2>
+      <p>Bước này làm rõ lý do tồn tại của sáng kiến. Thay vì nhảy ngay vào giải pháp, BA xác định vấn đề cần giải, cơ hội có thể khai thác, tác động kinh doanh và hậu quả nếu không hành động.</p>
+      <p>Trong môi trường sản phẩm, xác định vấn đề hoặc cơ hội tạo ra điểm neo để stakeholder thảo luận bằng dữ kiện thay vì cảm tính. Các chủ đề cần chú ý gồm: vấn đề, cơ hội, phương án, business case, roadmap. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh cổng nội bộ quản lý phê duyệt mua sắm, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi có ý tưởng sản phẩm mới, khi lãnh đạo đưa ra yêu cầu chung chung, hoặc khi nhóm nhận thấy hiệu suất kinh doanh suy giảm nhưng chưa biết nguyên nhân. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>business value assessment, kết quả elicitation ban đầu và EEF</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>benchmarking, competitive analysis, interview, market analysis và prototype</td></tr><tr><th>Đầu ra (Outputs)</th><td>business need và situation statement</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây cổng nội bộ quản lý phê duyệt mua sắm. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>quá phụ thuộc vào template</li><li>không xem xét ràng buộc vận hành</li><li>ưu tiên theo tiếng nói lớn nhất</li><li>quên đo giá trị sau release</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Chọn kỹ thuật phù hợp câu hỏi</li><li>Giới hạn mức chi tiết cần thiết</li><li>Đo phản hồi sau khi áp dụng</li><li>Cập nhật traceability</li><li>Tổng hợp takeaway cho nhóm</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Xác định vấn đề hoặc cơ hội chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-4-2" class="content-section">
+      <h2><a href="#s-4-2">4.2 Đánh giá tình trạng hiện tại <span>(Assess Current State)</span></a></h2>
+      <p>Đánh giá hiện trạng tạo bức tranh trung thực về quy trình, năng lực, hệ thống, dữ liệu, điểm đau và nguyên nhân gốc. Đây là nền để không thiết kế tương lai dựa trên giả định sai.</p>
+      <p>Với vai trò BA, đánh giá tình trạng hiện tại là bước làm rõ thông tin trước khi nhóm cam kết nguồn lực hoặc phạm vi. Các chủ đề cần chú ý gồm: vấn đề, cơ hội, phương án, business case, roadmap. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh ứng dụng mobile onboarding người dùng mới, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi quy trình đang vận hành kém, khi tổ chức muốn hiện đại hóa hệ thống, hoặc khi cần giải thích vì sao một vấn đề lặp lại. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>enterprise architecture, organizational objectives và situation statement</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>business capability analysis, Pareto, process model, root cause analysis và SWOT</td></tr><tr><th>Đầu ra (Outputs)</th><td>current state assessment</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây ứng dụng mobile onboarding người dùng mới. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>đưa giải pháp vào quá sớm</li><li>bỏ qua stakeholder ít quyền lực nhưng nắm quy trình</li><li>ghi nhận ý kiến mà không xác nhận</li><li>đánh giá thành công chỉ bằng việc hoàn thành task</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>Xác định quyết định cần hỗ trợ</li><li>Kiểm tra nguồn dữ liệu đáng tin</li><li>Mời đúng stakeholder</li><li>Ghi rõ giả định còn mở</li><li>Chọn artifact đủ nhẹ để duy trì</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Đánh giá tình trạng hiện tại chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+
+    <section id="s-4-3" class="content-section">
+      <h2><a href="#s-4-3">4.3 Xác định trạng thái tương lai <span>(Define Future State)</span></a></h2>
+      <p>Trạng thái tương lai mô tả năng lực, kết quả, trải nghiệm và chỉ số mà tổ chức muốn đạt sau khi thay đổi. BA chuyển nhu cầu thành mục tiêu cụ thể, không chỉ là danh sách chức năng.</p>
+      <p>Khi sản phẩm có nhiều phụ thuộc, xác định trạng thái tương lai làm giảm khoảng cách giữa chiến lược, yêu cầu và thực thi. Các chủ đề cần chú ý gồm: vấn đề, cơ hội, phương án, business case, roadmap. BA nên luôn hỏi: thông tin này phục vụ quyết định nào, ai sẽ dùng kết quả, và rủi ro nào sẽ tăng nếu bỏ qua bước này?</p>
+      <h3>Bản chất và giá trị (Meaning and Value)</h3>
+      <p>Hoạt động này tạo sự rõ ràng giữa ba lớp: nhu cầu kinh doanh, thông tin sản phẩm và hành động delivery. Khi được thực hiện tốt, nó giảm hiểu lầm giữa lãnh đạo, người dùng, kỹ thuật và kiểm thử. Trong bối cảnh hệ thống tìm kiếm nhà cung cấp dịch vụ y tế, BA có thể dùng phần này để chuyển nhận xét rời rạc thành bằng chứng, rồi biến bằng chứng thành lựa chọn có cơ sở.</p>
+      <h3>Khi áp dụng (When to Use)</h3>
+      <p>Khi tổ chức cần alignment trước khi chọn giải pháp, hoặc khi nhiều bên đang hình dung tương lai theo cách khác nhau. Dấu hiệu nên ưu tiên hoạt động này là khi quyết định đang dựa trên giả định, khi backlog có nhiều mục cạnh tranh, hoặc khi stakeholder dùng cùng một thuật ngữ nhưng hàm ý khác nhau.</p>
+      <h3>Đầu vào - Kỹ thuật - Đầu ra (Inputs - Techniques - Outputs)</h3>
+      <table class="ito"><tbody><tr><th>Đầu vào (Inputs)</th><td>business need, current state assessment và enterprise architecture</td></tr><tr><th>Công cụ/Kỹ thuật (Tools & Techniques)</th><td>affinity diagram, gap analysis, Kano analysis, purpose alignment model và solution capability matrix</td></tr><tr><th>Đầu ra (Outputs)</th><td>business goals and objectives và required capabilities and features</td></tr></tbody></table>
+      <h3>Cách áp dụng từng bước (Step-by-step Application)</h3>
+      <ol>
+        <li>Đặt câu hỏi quyết định: nhóm cần biết điều gì trước khi tiến tiếp?</li>
+        <li>Khoanh vùng thông tin liên quan: mục tiêu, dữ liệu, stakeholder, ràng buộc và giả định.</li>
+        <li>Chọn kỹ thuật phù hợp với loại thông tin: định tính, định lượng, hành vi, mô hình hoặc quyết định nhóm.</li>
+        <li>Ghi nhận kết quả bằng artifact đủ rõ để người khác kiểm tra, nhưng không nặng hơn nhu cầu quản trị.</li>
+        <li>Liên kết kết quả với bước sau: yêu cầu, roadmap, rủi ro, kiểm thử, release hoặc đánh giá giá trị.</li>
+      </ol>
+      <h3>Ví dụ thực hành (Practical Example)</h3>
+      <p>Giả sử nhóm đang xây hệ thống tìm kiếm nhà cung cấp dịch vụ y tế. BA không nên chỉ ghi nhận yêu cầu "cần màn hình mới". Thay vào đó, BA làm rõ tình huống kích hoạt, người dùng chính, dữ liệu cần hiển thị, ngoại lệ, thước đo thành công và hậu quả nếu chức năng không có mặt trong release. Kết quả tốt sẽ giúp Product Owner ưu tiên, Developer hiểu phạm vi, QA tạo test case, còn sponsor thấy được liên hệ với giá trị.</p>
+      <h3>Sai lầm thường gặp (Common Pitfalls)</h3>
+      <ul><li>nhầm triệu chứng với nguyên nhân</li><li>chỉ nghe một nhóm người dùng</li><li>không cập nhật artifact sau thay đổi</li><li>dùng cùng một kỹ thuật cho mọi tình huống</li></ul>
+      <h3>Checklist áp dụng (Application Checklist)</h3>
+      <ul><li>So sánh mục tiêu với phạm vi</li><li>Đánh dấu rủi ro và phụ thuộc</li><li>Xác nhận ngôn ngữ dùng chung</li><li>Tạo ví dụ kiểm chứng</li><li>Lưu lại lý do trade-off</li></ul>
+      
+      <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Xác định trạng thái tương lai chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
+    </section>
+    
+<div class='pagination before-quiz'><a class='btn secondary' href='01-nen-tang-moi-truong.html'>← Trang trước (Previous)</a><a class='btn secondary' href='../index.html'>Mục lục (TOC)</a><a class='btn' href='03-danh-gia-nhu-cau-b-stakeholder-a.html'>Trang sau (Next Page) →</a></div>
+<section class='quiz' id='quiz'><h2>Quiz cuối trang (End-of-page Quiz)</h2><p>Mỗi trang có 10 câu: 5 Hard và 5 Hardest. Câu hỏi tập trung vào áp dụng, chẩn đoán, trade-off và tổng hợp.</p>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 3.1</span><strong>Câu 1.</strong> Trong tình huống ứng dụng mobile onboarding người dùng mới, dấu hiệu nào cho thấy nhóm nên ưu tiên tổng quan về vai trò nhà phân tích kinh doanh?</p><ol type='A'>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tổng quan về vai trò nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì tổng quan về vai trò nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 3.2</span><strong>Câu 2.</strong> Nếu stakeholder đưa ra yêu cầu mơ hồ liên quan đến định nghĩa về nhà phân tích kinh doanh, BA nên phản ứng theo hướng nào?</p><ol type='A'>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì định nghĩa về nhà phân tích kinh doanh có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của định nghĩa về nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì định nghĩa về nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 3.3</span><strong>Câu 3.</strong> Lựa chọn nào thể hiện đúng nhất giá trị của phạm vi ảnh hưởng của nhà phân tích kinh doanh trong một dự án sản phẩm số?</p><ol type='A'>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của phạm vi ảnh hưởng của nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì phạm vi ảnh hưởng của nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 3.4</span><strong>Câu 4.</strong> Khi áp dụng năng lực của nhà phân tích kinh doanh, quyết định nào giúp giảm rework nhiều nhất?</p><ol type='A'>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của năng lực của nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì năng lực của nhà phân tích kinh doanh có thể được bổ sung sau khi sản phẩm phát hành.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì năng lực của nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hard</span><span class='badge'>Section 4.1</span><strong>Câu 5.</strong> Một nhóm bỏ qua xác định vấn đề hoặc cơ hội và gặp xung đột muộn. Chẩn đoán hợp lý nhất là gì?</p><ol type='A'>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì xác định vấn đề hoặc cơ hội có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của xác định vấn đề hoặc cơ hội, sau đó xác nhận với stakeholder phù hợp.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D</p><p>Đáp án đúng là D vì xác định vấn đề hoặc cơ hội phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 4.2</span><strong>Câu 6.</strong> Trong tình huống hệ thống tích hợp CRM và kho dữ liệu, dấu hiệu nào cho thấy nhóm nên ưu tiên đánh giá tình trạng hiện tại?</p><ol type='A'>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của đánh giá tình trạng hiện tại, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Chuyển mọi chi tiết thành tài liệu dài, chưa cần biết artifact đó có người sử dụng hay không.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A</p><p>Đáp án đúng là A vì đánh giá tình trạng hiện tại phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 4.3</span><strong>Câu 7.</strong> Nếu stakeholder đưa ra yêu cầu mơ hồ liên quan đến xác định trạng thái tương lai, BA nên phản ứng theo hướng nào?</p><ol type='A'>
+<li>Chỉ ưu tiên tốc độ delivery, vì xác định trạng thái tương lai có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của xác định trạng thái tương lai, sau đó xác nhận với stakeholder phù hợp.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> D</p><p>Đáp án đúng là D vì xác định trạng thái tương lai phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 3.1</span><strong>Câu 8.</strong> Lựa chọn nào thể hiện đúng nhất giá trị của tổng quan về vai trò nhà phân tích kinh doanh trong một dự án sản phẩm số?</p><ol type='A'>
+<li>Chỉ kiểm tra định dạng tài liệu, không cần kiểm tra mối liên hệ với mục tiêu kinh doanh.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của tổng quan về vai trò nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> C</p><p>Đáp án đúng là C vì tổng quan về vai trò nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 3.2</span><strong>Câu 9.</strong> Khi áp dụng định nghĩa về nhà phân tích kinh doanh, quyết định nào giúp giảm rework nhiều nhất?</p><ol type='A'>
+<li>Chỉ ưu tiên tốc độ delivery, vì định nghĩa về nhà phân tích kinh doanh có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của định nghĩa về nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Tách hoạt động khỏi business case để nhóm kỹ thuật tự quyết định giá trị.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> B</p><p>Đáp án đúng là B vì định nghĩa về nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+<article class='qcard'><p><span class='badge'>Hardest</span><span class='badge'>Section 3.3</span><strong>Câu 10.</strong> Một nhóm bỏ qua phạm vi ảnh hưởng của nhà phân tích kinh doanh và gặp xung đột muộn. Chẩn đoán hợp lý nhất là gì?</p><ol type='A'>
+<li>Liên kết thông tin với mục tiêu, ràng buộc và đầu ra của phạm vi ảnh hưởng của nhà phân tích kinh doanh, sau đó xác nhận với stakeholder phù hợp.</li>
+<li>Chỉ ưu tiên tốc độ delivery, vì phạm vi ảnh hưởng của nhà phân tích kinh doanh có thể được bổ sung sau khi sản phẩm phát hành.</li>
+<li>Đóng băng toàn bộ yêu cầu ngay khi có bản nháp đầu tiên để ngăn thay đổi.</li>
+<li>Dựa vào ý kiến của stakeholder cấp cao nhất và bỏ qua nhóm vận hành để giảm số vòng review.</li>
+</ol><details><summary>Xem đáp án (Show answer)</summary><p><strong>Đáp án:</strong> A</p><p>Đáp án đúng là A vì phạm vi ảnh hưởng của nhà phân tích kinh doanh phải biến thông tin thành quyết định có căn cứ; nếu bỏ qua xác nhận và liên kết giá trị, yêu cầu dễ đúng về hình thức nhưng sai về mục đích.</p></details></article>
+</section>
+<div class='pagination after-quiz'><a class='btn secondary' href='01-nen-tang-moi-truong.html'>← Trang trước (Previous)</a><a class='btn secondary' href='../index.html'>Mục lục (TOC)</a><a class='btn' href='03-danh-gia-nhu-cau-b-stakeholder-a.html'>Trang sau (Next Page) →</a></div>
+</main></body></html>
