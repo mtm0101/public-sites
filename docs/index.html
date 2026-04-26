@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex,nofollow">
+  <title>Public Sites</title>
+  <style>
+    :root {
+      --bg: #f7f9fc;
+      --card: #ffffff;
+      --ink: #172033;
+      --muted: #607086;
+      --line: #d9e2ef;
+      --brand: #174a7c;
+      --brand-dark: #12385d;
+      --soft: #eef6ff;
+      --danger: #9f2d2d;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      min-height: 100vh;
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.55;
+      color: var(--ink);
+      background: var(--bg);
+    }
+    .shell {
+      width: min(1060px, calc(100% - 32px));
+      margin: 0 auto;
+      padding: 48px 0;
+    }
+    header {
+      margin-bottom: 24px;
+      border-bottom: 1px solid var(--line);
+      padding-bottom: 18px;
+    }
+    .eyebrow {
+      margin: 0 0 8px;
+      color: var(--brand);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .08em;
+      text-transform: uppercase;
+    }
+    h1 {
+      margin: 0;
+      font-size: clamp(32px, 5vw, 56px);
+      line-height: 1.05;
+      letter-spacing: 0;
+    }
+    .intro {
+      max-width: 720px;
+      margin: 14px 0 0;
+      color: var(--muted);
+      font-size: 18px;
+    }
+    .site-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 14px;
+    }
+    .site-card {
+      display: grid;
+      gap: 8px;
+      min-height: 180px;
+      padding: 20px;
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--card);
+      color: var(--ink);
+      text-decoration: none;
+      box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+    }
+    .site-card:hover,
+    .site-card:focus-visible {
+      border-color: #9bb9d6;
+      outline: 3px solid rgba(23, 74, 124, 0.14);
+    }
+    .folder {
+      color: var(--brand);
+      font-size: 12px;
+      font-weight: 800;
+      letter-spacing: .04em;
+      overflow-wrap: anywhere;
+      text-transform: uppercase;
+    }
+    strong {
+      font-size: 24px;
+      line-height: 1.18;
+    }
+    .url { color: var(--muted); overflow-wrap: anywhere; }
+    .open {
+      align-self: end;
+      justify-self: start;
+      margin-top: 10px;
+      border-radius: 8px;
+      background: var(--soft);
+      color: var(--brand-dark);
+      padding: 7px 10px;
+      font-weight: 800;
+    }
+    .status {
+      border: 1px solid var(--line);
+      border-radius: 8px;
+      background: var(--card);
+      padding: 20px;
+      color: var(--muted);
+    }
+    .status.error { color: var(--danger); }
+  </style>
+</head>
+<body>
+  <main class="shell">
+    <header>
+      <p class="eyebrow">Public index</p>
+      <h1>Available Study Sites</h1>
+      <p class="intro">This page loads its list from a generated manifest. Folders ending in <code>private</code> are not included.</p>
+    </header>
+    <section id="siteList" class="site-list" aria-label="Available study sites">
+      <p class="status">Loading public sites...</p>
+    </section>
+  </main>
+  <script type="application/json" id="siteManifest">
+{
+    "generatedAt":  "2026-04-26T03:49:11Z",
+    "sites":  [
+                  {
+                      "folder":  "pmi-babok-v0.1-100-pages",
+                      "title":  "pmi-babok-v0.1-100-pages",
+                      "href":  "pmi-babok-v0.1-100-pages/index.html"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
+                      "title":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
+                      "href":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex/index.html"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.3-p23-70-pages-vietnamese-lingvanex",
+                      "title":  "pmi-babok-v0.3-p23-70-pages-vietnamese-lingvanex",
+                      "href":  "pmi-babok-v0.3-p23-70-pages-vietnamese-lingvanex/index.html"
+                  }
+              ]
+}
+  </script>
+  <script>
+    const siteList = document.getElementById('siteList');
+    const manifestElement = document.getElementById('siteManifest');
+
+    function renderStatus(message, isError = false) {
+      siteList.innerHTML = '';
+      const status = document.createElement('p');
+      status.className = `status${isError ? ' error' : ''}`;
+      status.textContent = message;
+      siteList.append(status);
+    }
+
+    function createCard(site) {
+      const card = document.createElement('a');
+      card.className = 'site-card';
+      card.href = site.href;
+
+      const folder = document.createElement('span');
+      folder.className = 'folder';
+      folder.textContent = site.folder;
+
+      const title = document.createElement('strong');
+      title.textContent = site.title || site.folder;
+
+      const url = document.createElement('span');
+      url.className = 'url';
+      url.textContent = site.href;
+
+      const open = document.createElement('span');
+      open.className = 'open';
+      open.textContent = 'Open';
+
+      card.append(folder, title, url, open);
+      return card;
+    }
+
+    function readManifest() {
+      try {
+        return JSON.parse(manifestElement.textContent);
+      } catch (error) {
+        return { sites: [] };
+      }
+    }
+
+    function renderSites(data) {
+      const sites = Array.isArray(data.sites) ? data.sites : [];
+      const publicSites = sites.filter((site) => {
+        const folder = String(site.folder || '');
+        return folder && !folder.toLowerCase().endsWith('private') && site.href;
+      });
+
+      siteList.innerHTML = '';
+      if (publicSites.length === 0) {
+        renderStatus('No public study sites are listed yet.');
+        return;
+      }
+
+      publicSites.forEach((site) => siteList.append(createCard(site)));
+    }
+
+    renderSites(readManifest());
+  </script>
+</body>
+</html>
