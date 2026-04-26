@@ -15,100 +15,240 @@
       --brand: #174a7c;
       --brand-dark: #12385d;
       --soft: #eef6ff;
-      --danger: #9f2d2d;
     }
     * { box-sizing: border-box; }
     body {
       margin: 0;
       min-height: 100vh;
       font-family: "Segoe UI", Arial, sans-serif;
+      font-size: 14px;
       line-height: 1.55;
       color: var(--ink);
       background: var(--bg);
     }
     .shell {
-      width: min(1060px, calc(100% - 32px));
+      width: min(1180px, calc(100% - 32px));
       margin: 0 auto;
-      padding: 48px 0;
+      padding: 44px 0;
     }
     header {
-      margin-bottom: 24px;
+      margin-bottom: 22px;
       border-bottom: 1px solid var(--line);
       padding-bottom: 18px;
     }
     .eyebrow {
       margin: 0 0 8px;
       color: var(--brand);
-      font-size: 12px;
+      font-size: 11px;
       font-weight: 800;
       letter-spacing: .08em;
       text-transform: uppercase;
     }
     h1 {
       margin: 0;
-      font-size: clamp(32px, 5vw, 56px);
+      font-size: clamp(26px, 4vw, 42px);
       line-height: 1.05;
       letter-spacing: 0;
     }
     .intro {
-      max-width: 720px;
+      max-width: 760px;
       margin: 14px 0 0;
       color: var(--muted);
-      font-size: 18px;
+      font-size: 15px;
     }
-    .site-list {
-      display: grid;
-      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
-      gap: 14px;
-    }
-    .site-card {
-      display: grid;
-      gap: 8px;
-      min-height: 180px;
-      padding: 20px;
+    .table-wrap {
+      overflow-x: auto;
       border: 1px solid var(--line);
       border-radius: 8px;
       background: var(--card);
-      color: var(--ink);
-      text-decoration: none;
       box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
     }
-    .site-card:hover,
-    .site-card:focus-visible {
-      border-color: #9bb9d6;
-      outline: 3px solid rgba(23, 74, 124, 0.14);
+    table {
+      width: 100%;
+      min-width: 0;
+      border-collapse: collapse;
     }
-    .folder {
-      color: var(--brand);
-      font-size: 12px;
-      font-weight: 800;
-      letter-spacing: .04em;
+    th,
+    td {
+      border-bottom: 1px solid var(--line);
+      padding: 9px 11px;
+      text-align: left;
+      vertical-align: top;
       overflow-wrap: anywhere;
-      text-transform: uppercase;
     }
-    strong {
-      font-size: 24px;
-      line-height: 1.18;
-    }
-    .url { color: var(--muted); overflow-wrap: anywhere; }
-    .open {
-      align-self: end;
-      justify-self: start;
-      margin-top: 10px;
-      border-radius: 8px;
-      background: var(--soft);
+    th {
+      background: #f2f7fd;
       color: var(--brand-dark);
-      padding: 7px 10px;
-      font-weight: 800;
+      font-size: 12px;
+      font-weight: 400;
     }
-    .status {
-      border: 1px solid var(--line);
+    tbody tr:last-child td { border-bottom: 0; }
+    tbody tr:hover { background: #fbfdff; }
+    .count-cell {
+      width: 64px;
+      color: var(--muted);
+      font-weight: 400;
+    }
+    .column-tools {
+      display: grid;
+      gap: 8px;
+    }
+    .sort-button {
+      display: inline-flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 8px;
+      width: 100%;
+      border: 0;
+      background: transparent;
+      color: inherit;
+      cursor: pointer;
+      font: inherit;
+      font-weight: 400;
+      padding: 0;
+      text-align: left;
+    }
+    .sort-mark {
+      min-width: 18px;
+      color: var(--muted);
+      text-align: right;
+    }
+    .filter-input {
+      width: 100%;
+      min-height: 30px;
+      border: 1px solid #b8c7d9;
       border-radius: 8px;
-      background: var(--card);
-      padding: 20px;
+      background: #ffffff;
+      color: var(--ink);
+      font: inherit;
+      font-size: 12px;
+      padding: 6px 9px;
+    }
+    .remarks-cell {
+      min-width: 210px;
+    }
+    .remarks-input {
+      display: block;
+      width: 100%;
+      min-height: 58px;
+      resize: vertical;
+      border: 1px solid #b8c7d9;
+      border-radius: 8px;
+      background: #ffffff;
+      color: var(--ink);
+      font: inherit;
+      font-size: 12px;
+      line-height: 1.4;
+      padding: 7px 9px;
+    }
+    a {
+      color: var(--brand);
+      font-weight: 400;
+      text-decoration: none;
+      overflow-wrap: anywhere;
+    }
+    a:hover,
+    a:focus-visible { text-decoration: underline; }
+    .muted {
       color: var(--muted);
     }
-    .status.error { color: var(--danger); }
+    .empty {
+      color: var(--muted);
+      padding: 18px;
+    }
+    @media (max-width: 1180px) {
+      .shell { width: min(100% - 24px, 1180px); padding: 28px 0; }
+      .table-wrap {
+        overflow: visible;
+        border: 0;
+        background: transparent;
+        box-shadow: none;
+      }
+      table,
+      thead,
+      tbody,
+      tr,
+      th,
+      td {
+        display: block;
+        width: 100%;
+        min-width: 0;
+      }
+      thead {
+        display: grid;
+        gap: 10px;
+        margin-bottom: 12px;
+      }
+      thead tr {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(170px, 1fr));
+        gap: 10px;
+      }
+      thead .count-cell {
+        display: none;
+      }
+      th {
+        border: 1px solid var(--line);
+        border-radius: 8px;
+      }
+      tbody {
+        display: grid;
+        gap: 12px;
+      }
+      tbody tr {
+        display: grid;
+        grid-template-columns: minmax(0, 0.42fr) minmax(0, 1fr);
+        gap: 9px 14px;
+        border: 1px solid var(--line);
+        border-radius: 8px;
+        background: var(--card);
+        padding: 12px;
+        box-shadow: 0 8px 22px rgba(15, 23, 42, 0.05);
+      }
+      td {
+        display: grid;
+        grid-template-columns: 92px minmax(0, 1fr);
+        gap: 10px;
+        align-items: start;
+        border-bottom: 0;
+        padding: 0;
+      }
+      td > * {
+        min-width: 0;
+      }
+      tbody .count-cell {
+        width: auto;
+      }
+      td:nth-child(1) { order: 1; grid-column: 1; }
+      td:nth-child(3) { order: 2; grid-column: 2; }
+      td:nth-child(2) { order: 3; grid-column: 1 / -1; }
+      td:nth-child(4) { order: 4; grid-column: 1 / -1; }
+      td:nth-child(5) { order: 5; grid-column: 1 / -1; }
+      td:nth-child(6) { order: 6; grid-column: 1 / -1; }
+      td::before {
+        content: attr(data-label);
+        color: var(--muted);
+        font-size: 11px;
+        font-weight: 400;
+        text-transform: uppercase;
+      }
+      .remarks-cell {
+        min-width: 0;
+      }
+    }
+    @media (max-width: 560px) {
+      tbody tr {
+        grid-template-columns: 1fr;
+      }
+      td,
+      td:nth-child(1),
+      td:nth-child(3) {
+        grid-column: 1 / -1;
+      }
+      td {
+        grid-template-columns: 84px minmax(0, 1fr);
+      }
+    }
   </style>
 </head>
 <body>
@@ -116,109 +256,163 @@
     <header>
       <p class="eyebrow">Public index</p>
       <h1>Available Study Sites</h1>
-      <p class="intro">This page loads its list from a generated manifest. Folders ending in <code>private</code> are not included.</p>
+      <p class="intro">Public folders are listed from newest to oldest by default.</p>
     </header>
-    <section id="siteList" class="site-list" aria-label="Available study sites">
-      <p class="status">Loading public sites...</p>
-    </section>
+    <div class="table-wrap">
+      <table aria-label="Available study sites">
+        <thead>
+          <tr>
+            <th class="count-cell" scope="col">#</th>
+            <th scope="col" aria-sort="none">
+              <div class="column-tools">
+                <button class="sort-button" type="button" data-sort-key="folder">
+                  <span>Folder</span><span class="sort-mark" aria-hidden="true"></span>
+                </button>
+                <input class="filter-input" type="search" data-filter-key="folder" placeholder="Filter folder" aria-label="Filter folder">
+              </div>
+            </th>
+            <th scope="col" aria-sort="descending">
+              <div class="column-tools">
+                <button class="sort-button" type="button" data-sort-key="createdAt">
+                  <span>Created date</span><span class="sort-mark" aria-hidden="true"></span>
+                </button>
+                <input class="filter-input" type="search" data-filter-key="createdAt" placeholder="Filter date" aria-label="Filter created date">
+              </div>
+            </th>
+            <th scope="col" aria-sort="none">
+              <div class="column-tools">
+                <button class="sort-button" type="button" data-sort-key="title">
+                  <span>Title</span><span class="sort-mark" aria-hidden="true"></span>
+                </button>
+                <input class="filter-input" type="search" data-filter-key="title" placeholder="Filter title" aria-label="Filter title">
+              </div>
+            </th>
+            <th scope="col" aria-sort="none">
+              <div class="column-tools">
+                <button class="sort-button" type="button" data-sort-key="href">
+                  <span>URL</span><span class="sort-mark" aria-hidden="true"></span>
+                </button>
+                <input class="filter-input" type="search" data-filter-key="href" placeholder="Filter URL" aria-label="Filter URL">
+              </div>
+            </th>
+            <th scope="col" aria-sort="none">
+              <div class="column-tools">
+                <button class="sort-button" type="button" data-sort-key="remarks">
+                  <span>Remarks</span><span class="sort-mark" aria-hidden="true"></span>
+                </button>
+                <input class="filter-input" type="search" data-filter-key="remarks" placeholder="Filter remarks" aria-label="Filter remarks">
+              </div>
+            </th>
+          </tr>
+        </thead>
+        <tbody id="siteRows">
+          <tr><td class="empty" colspan="6">Loading public sites...</td></tr>
+        </tbody>
+      </table>
+    </div>
   </main>
   <script type="application/json" id="siteManifest">
 {
-    "generatedAt":  "2026-04-26T16:05:58Z",
+    "generatedAt":  "2026-04-26T22:16:10Z",
     "sites":  [
                   {
-                      "folder":  "pmi-babok-v0.1-100-pages",
-                      "title":  "pmi-babok-v0.1-100-pages",
-                      "href":  "pmi-babok-v0.1-100-pages/index.html"
+                      "folder":  "pmi-babok-v0.6-pdf-viewer",
+                      "title":  "The PMI Guide to Business Analysis · Mobile HTML Knowledge Site",
+                      "href":  "pmi-babok-v0.6-pdf-viewer/index.html",
+                      "createdAt":  "2026-04-26T21:45:56Z"
                   },
                   {
-                      "folder":  "pmi-babok-v0.2-400-pages",
-                      "title":  "pmi-babok-v0.2-400-pages",
-                      "href":  "pmi-babok-v0.2-400-pages/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.4-200-pages-codex",
-                      "title":  "pmi-babok-v0.4-200-pages-codex",
-                      "href":  "pmi-babok-v0.4-200-pages-codex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex/index.html"
+                      "folder":  "pmi-babok-v0.6-pdf-viewer/exact-pages",
+                      "title":  "Exact source pages",
+                      "href":  "pmi-babok-v0.6-pdf-viewer/exact-pages/index.html",
+                      "createdAt":  "2026-04-26T21:35:34Z"
                   },
                   {
                       "folder":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex/index.html"
+                      "title":  "PMI BA Part 3 English Site",
+                      "href":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T16:02:45Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 2 English Site",
+                      "href":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:53:57Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 1 Ch6-End English Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:46:13Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 1 Ch1-5 English Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:39:31Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA - Part 1 Chapter 6 to End",
+                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:38:09Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Part 1 Ch1-5 Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:32:55Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.4-200-pages-codex",
+                      "title":  "PMI Business Analysis Study Site (Trang học Phân tích Kinh doanh PMI)",
+                      "href":  "pmi-babok-v0.4-200-pages-codex/index.html",
+                      "createdAt":  "2026-04-26T14:40:43Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.2-400-pages",
+                      "title":  "Hướng dẫn PMI về Phân tích Kinh doanh (The PMI Guide to Business Analysis) · PMI BA Vietnamese Deep Dive",
+                      "href":  "pmi-babok-v0.2-400-pages/index.html",
+                      "createdAt":  "2026-04-26T03:29:14Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Part 2 \u0026 3 Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T01:00:53Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Knowledge Site",
+                      "href":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T00:46:18Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.1-100-pages",
+                      "title":  "The PMI Guide to Business Analysis - Bản đọc sâu tiếng Việt · PMI BA Vietnamese Deep Dive",
+                      "href":  "pmi-babok-v0.1-100-pages/index.html",
+                      "createdAt":  "2026-04-25T22:29:53Z"
                   }
               ]
 }
   </script>
   <script>
-    const siteList = document.getElementById('siteList');
     const manifestElement = document.getElementById('siteManifest');
-
-    function renderStatus(message, isError = false) {
-      siteList.innerHTML = '';
-      const status = document.createElement('p');
-      status.className = `status${isError ? ' error' : ''}`;
-      status.textContent = message;
-      siteList.append(status);
-    }
-
-    function createCard(site) {
-      const card = document.createElement('a');
-      card.className = 'site-card';
-      card.href = site.href;
-
-      const folder = document.createElement('span');
-      folder.className = 'folder';
-      folder.textContent = site.folder;
-
-      const title = document.createElement('strong');
-      title.textContent = site.title || site.folder;
-
-      const url = document.createElement('span');
-      url.className = 'url';
-      url.textContent = site.href;
-
-      const open = document.createElement('span');
-      open.className = 'open';
-      open.textContent = 'Open';
-
-      card.append(folder, title, url, open);
-      return card;
-    }
+    const siteRows = document.getElementById('siteRows');
+    const sortButtons = Array.from(document.querySelectorAll('[data-sort-key]'));
+    const filterInputs = Array.from(document.querySelectorAll('[data-filter-key]'));
+    const headerCells = Array.from(document.querySelectorAll('th[scope="col"]'));
+    const remarksStoragePrefix = 'public-sites:remarks:v1:';
+    const sortState = { key: 'createdAt', direction: 'desc' };
+    const filters = { folder: '', createdAt: '', title: '', href: '', remarks: '' };
+    const columns = {
+      count: { label: '#' },
+      folder: { label: 'Folder' },
+      createdAt: { label: 'Created date' },
+      title: { label: 'Title' },
+      href: { label: 'URL' },
+      remarks: { label: 'Remarks' }
+    };
 
     function readManifest() {
       try {
@@ -228,23 +422,242 @@
       }
     }
 
-    function renderSites(data) {
+    function normalize(value) {
+      return String(value || '').toLowerCase();
+    }
+
+    function hasPrivateSegment(value) {
+      return String(value || '').split(/[\\/]/).some((part) => part.toLowerCase().endsWith('private'));
+    }
+
+    function getRemarkKey(site) {
+      return `${remarksStoragePrefix}${site.href || site.folder || site.title || ''}`;
+    }
+
+    function getRemark(site) {
+      try {
+        return localStorage.getItem(getRemarkKey(site)) || '';
+      } catch (error) {
+        return '';
+      }
+    }
+
+    function setRemark(site, value) {
+      try {
+        localStorage.setItem(getRemarkKey(site), value);
+      } catch (error) {
+        // Ignore storage errors so the table remains usable in restricted browser modes.
+      }
+    }
+
+    function getTimestamp(value) {
+      const timestamp = Date.parse(value);
+      return Number.isFinite(timestamp) ? timestamp : 0;
+    }
+
+    function getLocalDayStart(date) {
+      return new Date(date.getFullYear(), date.getMonth(), date.getDate());
+    }
+
+    function getDayDifference(date) {
+      const dayMs = 24 * 60 * 60 * 1000;
+      return Math.round((getLocalDayStart(new Date()) - getLocalDayStart(date)) / dayMs);
+    }
+
+    function formatPreciseDate(value) {
+      const timestamp = getTimestamp(value);
+      if (!timestamp) return 'Unknown';
+      return new Intl.DateTimeFormat(undefined, {
+        year: 'numeric',
+        month: 'short',
+        day: '2-digit',
+        hour: '2-digit',
+        minute: '2-digit'
+      }).format(new Date(timestamp));
+    }
+
+    function formatFriendlyDate(value) {
+      const timestamp = getTimestamp(value);
+      if (!timestamp) return 'Unknown';
+
+      const date = new Date(timestamp);
+      const dayDifference = getDayDifference(date);
+      const weekday = new Intl.DateTimeFormat(undefined, { weekday: 'long' }).format(date);
+      const time = new Intl.DateTimeFormat(undefined, {
+        hour: 'numeric',
+        minute: '2-digit'
+      }).format(date);
+      let dayLabel;
+
+      if (dayDifference === 0) {
+        dayLabel = 'Today';
+      } else if (dayDifference === 1) {
+        dayLabel = 'Yesterday';
+      } else if (dayDifference > 1 && dayDifference < 7) {
+        dayLabel = `Last ${weekday}`;
+      } else if (dayDifference === -1) {
+        dayLabel = 'Tomorrow';
+      } else if (dayDifference < -1 && dayDifference > -7) {
+        dayLabel = `Next ${weekday}`;
+      } else {
+        dayLabel = new Intl.DateTimeFormat(undefined, {
+          year: 'numeric',
+          month: 'short',
+          day: '2-digit'
+        }).format(date);
+      }
+
+      return `${dayLabel}, ${time}`;
+    }
+
+    function getFilterText(site, key) {
+      if (key === 'createdAt') {
+        return `${site.createdAt || ''} ${formatFriendlyDate(site.createdAt)} ${formatPreciseDate(site.createdAt)}`;
+      }
+      if (key === 'remarks') return getRemark(site);
+      return site[key] || '';
+    }
+
+    function compareSites(a, b, key) {
+      if (key === 'createdAt') {
+        return getTimestamp(a.createdAt) - getTimestamp(b.createdAt);
+      }
+      if (key === 'remarks') {
+        return getRemark(a).localeCompare(getRemark(b), undefined, {
+          numeric: true,
+          sensitivity: 'base'
+        });
+      }
+      return String(a[key] || '').localeCompare(String(b[key] || ''), undefined, {
+        numeric: true,
+        sensitivity: 'base'
+      });
+    }
+
+    function getVisibleSites() {
+      const data = readManifest();
       const sites = Array.isArray(data.sites) ? data.sites : [];
-      const publicSites = sites.filter((site) => {
+      const filteredSites = sites.filter((site) => {
         const folder = String(site.folder || '');
-        return folder && !folder.toLowerCase().endsWith('private') && site.href;
+        if (!folder || hasPrivateSegment(folder) || !site.href) return false;
+        return Object.entries(filters).every(([key, filter]) => {
+          if (!filter) return true;
+          return normalize(getFilterText(site, key)).includes(filter);
+        });
       });
 
-      siteList.innerHTML = '';
-      if (publicSites.length === 0) {
-        renderStatus('No public study sites are listed yet.');
+      return filteredSites.sort((a, b) => {
+        const result = compareSites(a, b, sortState.key);
+        return sortState.direction === 'asc' ? result : -result;
+      });
+    }
+
+    function renderSortState() {
+      sortButtons.forEach((button) => {
+        const key = button.dataset.sortKey;
+        const marker = button.querySelector('.sort-mark');
+        const active = key === sortState.key;
+        marker.textContent = active ? (sortState.direction === 'asc' ? 'ASC' : 'DESC') : '';
+      });
+
+      headerCells.forEach((cell) => {
+        const key = cell.querySelector('[data-sort-key]')?.dataset.sortKey;
+        const active = key === sortState.key;
+        cell.setAttribute('aria-sort', active ? (sortState.direction === 'asc' ? 'ascending' : 'descending') : 'none');
+      });
+    }
+
+    function renderTable() {
+      const sites = getVisibleSites();
+      renderSortState();
+      siteRows.innerHTML = '';
+
+      if (sites.length === 0) {
+        const row = document.createElement('tr');
+        const cell = document.createElement('td');
+        cell.className = 'empty';
+        cell.colSpan = 6;
+        cell.textContent = 'No public study sites match the current filters.';
+        row.append(cell);
+        siteRows.append(row);
         return;
       }
 
-      publicSites.forEach((site) => siteList.append(createCard(site)));
+      sites.forEach((site, index) => {
+        const row = document.createElement('tr');
+
+        const countCell = document.createElement('td');
+        countCell.className = 'count-cell';
+        countCell.dataset.label = columns.count.label;
+        countCell.textContent = String(index + 1);
+
+        const folderCell = document.createElement('td');
+        folderCell.dataset.label = columns.folder.label;
+        const folderLink = document.createElement('a');
+        folderLink.href = site.href;
+        folderLink.target = '_blank';
+        folderLink.rel = 'noopener noreferrer';
+        folderLink.textContent = site.folder;
+        folderCell.append(folderLink);
+
+        const dateCell = document.createElement('td');
+        dateCell.dataset.label = columns.createdAt.label;
+        const time = document.createElement('time');
+        time.dateTime = site.createdAt || '';
+        time.title = formatPreciseDate(site.createdAt);
+        time.textContent = formatFriendlyDate(site.createdAt);
+        dateCell.append(time);
+
+        const titleCell = document.createElement('td');
+        titleCell.dataset.label = columns.title.label;
+        titleCell.textContent = site.title || site.folder;
+
+        const urlCell = document.createElement('td');
+        urlCell.dataset.label = columns.href.label;
+        const urlLink = document.createElement('a');
+        urlLink.href = site.href;
+        urlLink.target = '_blank';
+        urlLink.rel = 'noopener noreferrer';
+        urlLink.textContent = site.href;
+        urlCell.append(urlLink);
+
+        const remarksCell = document.createElement('td');
+        remarksCell.className = 'remarks-cell';
+        remarksCell.dataset.label = columns.remarks.label;
+        const remarksInput = document.createElement('textarea');
+        remarksInput.className = 'remarks-input';
+        remarksInput.rows = 2;
+        remarksInput.value = getRemark(site);
+        remarksInput.setAttribute('aria-label', `Remarks for ${site.title || site.folder}`);
+        remarksInput.addEventListener('input', () => setRemark(site, remarksInput.value));
+        remarksCell.append(remarksInput);
+
+        row.append(countCell, folderCell, dateCell, titleCell, urlCell, remarksCell);
+        siteRows.append(row);
+      });
     }
 
-    renderSites(readManifest());
+    sortButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        const key = button.dataset.sortKey;
+        if (sortState.key === key) {
+          sortState.direction = sortState.direction === 'asc' ? 'desc' : 'asc';
+        } else {
+          sortState.key = key;
+          sortState.direction = key === 'createdAt' ? 'desc' : 'asc';
+        }
+        renderTable();
+      });
+    });
+
+    filterInputs.forEach((input) => {
+      input.addEventListener('input', () => {
+        filters[input.dataset.filterKey] = normalize(input.value.trim());
+        renderTable();
+      });
+    });
+
+    renderTable();
   </script>
 </body>
 </html>

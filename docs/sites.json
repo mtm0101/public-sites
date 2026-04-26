@@ -1,60 +1,83 @@
 {
-    "generatedAt":  "2026-04-26T16:05:58Z",
+    "generatedAt":  "2026-04-26T22:16:10Z",
     "sites":  [
                   {
-                      "folder":  "pmi-babok-v0.1-100-pages",
-                      "title":  "pmi-babok-v0.1-100-pages",
-                      "href":  "pmi-babok-v0.1-100-pages/index.html"
+                      "folder":  "pmi-babok-v0.6-pdf-viewer",
+                      "title":  "The PMI Guide to Business Analysis · Mobile HTML Knowledge Site",
+                      "href":  "pmi-babok-v0.6-pdf-viewer/index.html",
+                      "createdAt":  "2026-04-26T21:45:56Z"
                   },
                   {
-                      "folder":  "pmi-babok-v0.2-400-pages",
-                      "title":  "pmi-babok-v0.2-400-pages",
-                      "href":  "pmi-babok-v0.2-400-pages/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.4-200-pages-codex",
-                      "title":  "pmi-babok-v0.4-200-pages-codex",
-                      "href":  "pmi-babok-v0.4-200-pages-codex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
-                      "title":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
-                      "href":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex/index.html"
-                  },
-                  {
-                      "folder":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex/index.html"
+                      "folder":  "pmi-babok-v0.6-pdf-viewer/exact-pages",
+                      "title":  "Exact source pages",
+                      "href":  "pmi-babok-v0.6-pdf-viewer/exact-pages/index.html",
+                      "createdAt":  "2026-04-26T21:35:34Z"
                   },
                   {
                       "folder":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex",
-                      "title":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex",
-                      "href":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex/index.html"
+                      "title":  "PMI BA Part 3 English Site",
+                      "href":  "pmi-babok-v0.5-p3-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T16:02:45Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 2 English Site",
+                      "href":  "pmi-babok-v0.5-p2-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:53:57Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 1 Ch6-End English Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:46:13Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex",
+                      "title":  "PMI BA Part 1 Ch1-5 English Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-english-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:39:31Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA - Part 1 Chapter 6 to End",
+                      "href":  "pmi-babok-v0.5-p1-ch6-end-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:38:09Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Part 1 Ch1-5 Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p1-ch1-5-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T15:32:55Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.4-200-pages-codex",
+                      "title":  "PMI Business Analysis Study Site (Trang học Phân tích Kinh doanh PMI)",
+                      "href":  "pmi-babok-v0.4-200-pages-codex/index.html",
+                      "createdAt":  "2026-04-26T14:40:43Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.2-400-pages",
+                      "title":  "Hướng dẫn PMI về Phân tích Kinh doanh (The PMI Guide to Business Analysis) · PMI BA Vietnamese Deep Dive",
+                      "href":  "pmi-babok-v0.2-400-pages/index.html",
+                      "createdAt":  "2026-04-26T03:29:14Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Part 2 \u0026 3 Knowledge Site",
+                      "href":  "pmi-babok-v0.5-p2-3-70-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T01:00:53Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex",
+                      "title":  "PMI BA Knowledge Site",
+                      "href":  "pmi-babok-v0.3-p1-50-pages-vietnamese-lingvanex/index.html",
+                      "createdAt":  "2026-04-26T00:46:18Z"
+                  },
+                  {
+                      "folder":  "pmi-babok-v0.1-100-pages",
+                      "title":  "The PMI Guide to Business Analysis - Bản đọc sâu tiếng Việt · PMI BA Vietnamese Deep Dive",
+                      "href":  "pmi-babok-v0.1-100-pages/index.html",
+                      "createdAt":  "2026-04-25T22:29:53Z"
                   }
               ]
 }
