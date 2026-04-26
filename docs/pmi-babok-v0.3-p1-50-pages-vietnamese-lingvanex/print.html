@@ -1,6 +1,79 @@
 <!doctype html><html lang='vi'><head><meta charset='utf-8'><meta name='viewport' content='width=device-width,initial-scale=1'>
-<title>Bản in - PMI Guide to Business Analysis Study Companion</title><link rel='stylesheet' href='assets/style.css'></head><body>
+<title>Bản in - PMI Guide to Business Analysis Study Companion</title><link rel='stylesheet' href='assets/style.css'>
+  <style id="printSettingsBase">
+    .print-controls {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px 12px;
+      align-items: flex-end;
+      padding: 12px 18px;
+      background: #ffffff;
+      border-bottom: 1px solid #d8e2ee;
+      box-shadow: 0 6px 18px rgba(15, 23, 42, 0.08);
+    }
+    .print-controls label {
+      display: grid;
+      gap: 4px;
+      color: #334155;
+      font-size: 12px;
+      font-weight: 800;
+    }
+    .print-controls select,
+    .print-controls button {
+      min-height: 36px;
+      border: 1px solid #b8c7d9;
+      border-radius: 8px;
+      background: #ffffff;
+      color: #172033;
+      font: inherit;
+      font-size: 14px;
+    }
+    .print-controls select { min-width: 150px; padding: 6px 34px 6px 10px; }
+    .print-controls button {
+      padding: 6px 14px;
+      background: #174a7c;
+      border-color: #174a7c;
+      color: #ffffff;
+      font-weight: 800;
+      cursor: pointer;
+    }
+    .print-controls button:hover { background: #12385d; }
+    @media (max-width: 640px) {
+      .print-controls { align-items: stretch; }
+      .print-controls label,
+      .print-controls select,
+      .print-controls button { width: 100%; }
+    }
+    @media print {
+      .print-controls { display: none !important; }
+    }
+  </style>
+  <style id="printSettingsStyle"></style>
+</head><body>
 <nav class="topnav"><a href="index.html">Trang chủ (Home)</a><a href="pages/01-nen-tang-moi-truong.html">Nền tảng và môi trường</a><a href="pages/02-vai-tro-danh-gia-nhu-cau-a.html">Vai trò BA và đánh giá nhu cầu A</a><a href="pages/03-danh-gia-nhu-cau-b-stakeholder-a.html">Đánh giá nhu cầu B và stakeholder A</a><a href="pages/04-stakeholder-elicitation-a.html">Stakeholder và khơi gợi A</a><a href="pages/05-elicitation-analysis-a.html">Khơi gợi và phân tích A</a><a href="pages/06-analysis-b-traceability.html">Phân tích B và truy xuất</a><a href="pages/07-solution-toolkit.html">Đánh giá giải pháp và toolkit</a><a href="print.html">Bản in (Print)</a></nav>
+  <section class="print-controls no-print" aria-label="Print setup">
+    <label for="printFontSize">
+      <span>Font size</span>
+      <select id="printFontSize">
+        <option value="10.5">Compact</option>
+        <option value="12">Standard</option>
+        <option value="13.5">Phone</option>
+        <option value="15">Large</option>
+        <option value="17">Extra large</option>
+      </select>
+    </label>
+    <label for="printPageSize">
+      <span>PDF size</span>
+      <select id="printPageSize">
+        <option value="s25">S25 Ultra</option>
+        <option value="phoneTall">Phone tall</option>
+        <option value="a5">A5</option>
+        <option value="a4">A4</option>
+        <option value="letter">Letter</option>
+      </select>
+    </label>
+    <button type="button" id="printNow">Print / PDF</button>
+  </section>
 <main class='wrap'>
 <header class='print-cover hero'><h1>Bản in học tập: Hướng dẫn PMI về Phân tích kinh doanh <span>(Printable Study Companion)</span></h1><p>Tài liệu này là bản diễn giải, tóm tắt và hướng dẫn áp dụng, không phải bản sao thay thế sách gốc. Quiz đã được loại khỏi bản in.</p><p class='note'>Mục tiêu in: khoảng 70 trang A4 nhờ các section được chia trang rõ ràng. Các tiêu đề section X.X đồng bộ với các trang HTML.</p></header>
 
@@ -1603,4 +1676,89 @@
       <aside class="takeaway"><strong>Ghi nhớ (Key takeaway):</strong> Thuật ngữ và bản đồ học tập chỉ có ích khi kết quả của nó được dùng để ra quyết định, giảm rủi ro hoặc chứng minh giá trị.</aside>
     </section>
     
-</main></body></html>
+</main>
+  <script id="printSettingsScript">
+    (function () {
+      const pagePresets = {
+        s25: { size: '82mm 178mm', margin: '5mm 4.5mm' },
+        phoneTall: { size: '90mm 195mm', margin: '6mm 5mm' },
+        a5: { size: 'A5', margin: '10mm 9mm' },
+        a4: { size: 'A4', margin: '14mm 12mm' },
+        letter: { size: 'letter', margin: '0.5in 0.45in' }
+      };
+
+      const fontPresets = {
+        '10.5': { body: '10.5pt', line: '1.34', h1: '21pt', h2: '15pt', h3: '12pt', h4: '11pt', lead: '12pt' },
+        '12': { body: '12pt', line: '1.36', h1: '23pt', h2: '17pt', h3: '13.5pt', h4: '12.5pt', lead: '13.5pt' },
+        '13.5': { body: '13.5pt', line: '1.38', h1: '26pt', h2: '19pt', h3: '15.5pt', h4: '14pt', lead: '15.5pt' },
+        '15': { body: '15pt', line: '1.4', h1: '29pt', h2: '21pt', h3: '17pt', h4: '15.5pt', lead: '17pt' },
+        '17': { body: '17pt', line: '1.42', h1: '32pt', h2: '24pt', h3: '19pt', h4: '17.5pt', lead: '19pt' }
+      };
+
+      const storageKey = 'pmi-print-settings';
+      const fontSelect = document.getElementById('printFontSize');
+      const pageSelect = document.getElementById('printPageSize');
+      const printButton = document.getElementById('printNow');
+      const settingsStyle = document.getElementById('printSettingsStyle');
+
+      function readSavedSettings() {
+        try {
+          return JSON.parse(localStorage.getItem(storageKey)) || {};
+        } catch (error) {
+          return {};
+        }
+      }
+
+      function writeSavedSettings() {
+        try {
+          localStorage.setItem(storageKey, JSON.stringify({
+            font: fontSelect ? fontSelect.value : '13.5',
+            page: pageSelect ? pageSelect.value : 's25'
+          }));
+        } catch (error) {
+          // Printing still works when storage is unavailable.
+        }
+      }
+
+      function applyPrintSettings() {
+        if (!settingsStyle) return;
+        const page = pagePresets[pageSelect ? pageSelect.value : 's25'] || pagePresets.s25;
+        const font = fontPresets[fontSelect ? fontSelect.value : '13.5'] || fontPresets['13.5'];
+
+        settingsStyle.textContent = `
+@page { size: ${page.size}; margin: ${page.margin}; }
+@media print {
+  body { font-size: ${font.body} !important; line-height: ${font.line} !important; }
+  p, li, td, th, dd, dt { font-size: inherit !important; }
+  h1 { font-size: ${font.h1} !important; line-height: 1.15 !important; }
+  h2 { font-size: ${font.h2} !important; line-height: 1.2 !important; }
+  h3 { font-size: ${font.h3} !important; line-height: 1.24 !important; }
+  h4 { font-size: ${font.h4} !important; line-height: 1.28 !important; }
+  .lead { font-size: ${font.lead} !important; }
+  .content, .wrap, .container { max-width: none !important; width: 100% !important; padding: 0 !important; }
+  .print-controls, .no-print { display: none !important; }
+  .hero, .card, .print-chapter, .print-section, .content-section { max-width: none !important; }
+  table { font-size: inherit !important; }
+}`;
+      }
+
+      function handleChange() {
+        writeSavedSettings();
+        applyPrintSettings();
+      }
+
+      const saved = readSavedSettings();
+      if (fontSelect) fontSelect.value = saved.font || '13.5';
+      if (pageSelect) pageSelect.value = saved.page || 's25';
+
+      fontSelect?.addEventListener('change', handleChange);
+      pageSelect?.addEventListener('change', handleChange);
+      printButton?.addEventListener('click', function () {
+        applyPrintSettings();
+        window.print();
+      });
+      window.addEventListener('beforeprint', applyPrintSettings);
+      applyPrintSettings();
+    })();
+  </script>
+</body></html>
