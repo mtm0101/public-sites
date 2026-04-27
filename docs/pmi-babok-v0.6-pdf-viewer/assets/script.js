@@ -13,6 +13,7 @@ function applySourcePreference(pref){
       if(btn)btn.textContent='Collapse source page';
     }
   });
+  if(pref!=='collapsed')requestAnimationFrame(()=>qsa('.source-page-frame').forEach(fitSourceFrame));
 }
 document.addEventListener('click',e=>{
   const t=e.target;
@@ -21,6 +22,7 @@ document.addEventListener('click',e=>{
     const c=b.classList.toggle('collapsed');
     b.classList.toggle('expanded',!c);
     t.textContent=c?'Expand source page':'Collapse source page';
+    if(!c)requestAnimationFrame(()=>{const frame=qs('.source-page-frame',b);if(frame)fitSourceFrame(frame);});
   }
   if(t.matches('[data-source-action="collapse-all"]')){
     localStorage.setItem('sourcePagesPreference','collapsed');
@@ -32,6 +34,30 @@ document.addEventListener('click',e=>{
   }
 });
 applySourcePreference(localStorage.getItem('sourcePagesPreference')==='collapsed'?'collapsed':'expanded');
+
+function fitSourceFrame(frame){
+  let doc;
+  try{doc=frame.contentDocument||frame.contentWindow.document;}catch(e){return;}
+  if(!doc)return;
+  const page=doc.querySelector('.pf');
+  const container=doc.getElementById('page-container')||doc.body;
+  if(!page||!container)return;
+  const pageWidth=page.offsetWidth||page.getBoundingClientRect().width;
+  const pageHeight=page.offsetHeight||page.getBoundingClientRect().height;
+  if(!pageWidth||!pageHeight)return;
+  const frameWidth=Math.max(frame.clientWidth||pageWidth,300);
+  const scale=Math.min(1,frameWidth/pageWidth);
+  const padY=24;
+  const fittedHeight=Math.ceil(pageHeight*scale+padY);
+  Object.assign(doc.documentElement.style,{overflow:'hidden',minWidth:'0'});
+  Object.assign(doc.body.style,{overflow:'hidden',minWidth:'0'});
+  Object.assign(container.style,{position:'relative',width:'100%',minWidth:'0',height:fittedHeight+'px',overflow:'hidden'});
+  Object.assign(page.style,{position:'absolute',top:'12px',left:Math.max((frameWidth-pageWidth*scale)/2,0)+'px',margin:'0',transform:'scale('+scale+')',transformOrigin:'top left'});
+  frame.style.height=fittedHeight+'px';
+}
+qsa('.source-page-frame').forEach(frame=>{frame.setAttribute('scrolling','no');frame.addEventListener('load',()=>fitSourceFrame(frame));fitSourceFrame(frame);});
+let sourceResizeFrame=0;
+window.addEventListener('resize',()=>{cancelAnimationFrame(sourceResizeFrame);sourceResizeFrame=requestAnimationFrame(()=>qsa('.source-page-frame').forEach(fitSourceFrame));});
 
 function scoreQuiz(g){
   if(!g)return;

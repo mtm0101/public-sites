@@ -7,8 +7,8 @@
 <link rel="stylesheet" href="assets/style.css">
 </head>
 <body>
-<header class="site-header"><div class="brand">BA Practice Guide Study Site</div><nav><a href="index.html">Index</a><a href="print.html">Print</a><a href="build-report.json">Build report</a><a href="01_chapter_4_elicitation_foundations.html">4: Requirements Elicitation Foundations and Techniques</a><a href="02_chapter_4_analysis_models_requirements.html">4: Analysis, Models, Documentation, and Agreement</a><a href="03_chapter_5_traceability_monitoring.html">5: Traceability and Monitoring</a><a href="04_chapter_6_solution_evaluation.html">6: Solution Evaluation</a><a href="05_appendices_glossary_reference.html">X: Appendices and Glossary Reference</a></nav></header><div class="page-layout print-screen-layout">
-<details class="right-toc" open><summary>Print outline</summary><nav><a href="#page-title">Print title</a>
+<div class="page-layout print-screen-layout">
+<details class="right-toc" open><summary>Print outline</summary><nav><a href="#top">Top / print controls</a>
 <a href="#print-01_chapter_4_elicitation_foundations">Chapter 4A - Requirements Elicitation Foundations and Techniques <small>Chương 4A - Nền tảng và kỹ thuật khai thác yêu cầu</small></a>
 <a class="toc-l3" href="#print-s-4-1">4.1 Purpose of this Section <small>p.69</small></a>
 <a class="toc-l3" href="#print-s-4-2">4.2 What it Means to Elicit Information <small>p.69</small></a>
@@ -142,7 +142,8 @@
 <a class="toc-l3" href="#print-s-g-2">G.2 Key Terms for Traceability and Change <small>p.183</small></a>
 <a class="toc-l3" href="#print-s-g-3">G.3 Key Terms for Evaluation and Benefits <small>p.183</small></a>
 <a class="toc-l3" href="#print-s-g-4">G.4 Practical Glossary Study Method <small>p.183</small></a></nav></details>
-<main class="content print-content">
+<main class="content print-content" id="top">
+<div class="print-controls"><label>Font size<select data-print-font><option value="12px">12px</option><option value="13px">13px</option><option value="14px">14px</option><option value="15px">15px</option><option value="16px">16px</option><option value="17px">17px</option><option value="18px">18px</option><option value="20px">20px</option><option value="22px">22px</option><option value="24px">24px</option><option value="26px">26px</option><option value="28px">28px</option></select></label><label>Page/PDF size<select data-print-size><option>A4 portrait - 210 x 297 mm</option><option>A5 portrait - 148 x 210 mm</option><option>A6 portrait - 105 x 148 mm</option><option>Letter portrait - 8.5 x 11 in</option><option>Legal portrait - 8.5 x 14 in</option><option>B5 portrait - 176 x 250 mm</option><option>6 x 9 in portrait - 6 x 9 in</option><option>5.5 x 8.5 in portrait - 5.5 x 8.5 in</option><option>Phone reading narrow - 80 x 170 mm</option><option>Large phone reading - 90 x 190 mm</option><option>Galaxy S25/S25 Ultra friendly - 92 x 200 mm</option><option>Galaxy Tab friendly - 160 x 240 mm</option></select></label><button type="button" data-print-reset>Reset</button><button type="button" data-print-now>Print</button><a href="index.html">Back to index</a></div>
 <h1 id="page-title">Print View - Chapter 4 to End (Bản in - Chương 4 đến cuối)</h1>
 <p class="scope-note"><strong>Scope:</strong> Chapter 4 through end of book: Requirements Elicitation and Analysis; Traceability and Monitoring; Solution Evaluation; Appendices/Glossary reference summary; Index excluded</p>
 <p class="print-note">This print page intentionally mirrors the learning sections from content pages and excludes all generated quizzes. The on-screen outline remains visible here for navigation, but it is hidden when using browser print.</p>
@@ -2017,5 +2018,48 @@
 </section>
 </section>
 </main></div>
+<script>
+const fontSelect=document.querySelector('[data-print-font]');
+const sizeSelect=document.querySelector('[data-print-size]');
+const printStyle=document.createElement('style');
+printStyle.id='dynamic-print-settings';
+document.head.appendChild(printStyle);
+const fontKey='ch4-end-print-font-size';
+const sizeKey='ch4-end-print-page-size';
+const pageSizes={
+  'A4 portrait - 210 x 297 mm':'210mm 297mm',
+  'A5 portrait - 148 x 210 mm':'148mm 210mm',
+  'A6 portrait - 105 x 148 mm':'105mm 148mm',
+  'Letter portrait - 8.5 x 11 in':'8.5in 11in',
+  'Legal portrait - 8.5 x 14 in':'8.5in 14in',
+  'B5 portrait - 176 x 250 mm':'176mm 250mm',
+  '6 x 9 in portrait - 6 x 9 in':'6in 9in',
+  '5.5 x 8.5 in portrait - 5.5 x 8.5 in':'5.5in 8.5in',
+  'Phone reading narrow - 80 x 170 mm':'80mm 170mm',
+  'Large phone reading - 90 x 190 mm':'90mm 190mm',
+  'Galaxy S25/S25 Ultra friendly - 92 x 200 mm':'92mm 200mm',
+  'Galaxy Tab friendly - 160 x 240 mm':'160mm 240mm'
+};
+function applyPrintSettings(){
+  if(!fontSelect||!sizeSelect)return;
+  const fs=fontSelect.value||'16px';
+  const label=sizeSelect.value;
+  const size=pageSizes[label]||pageSizes['A4 portrait - 210 x 297 mm'];
+  printStyle.textContent='@media print { @page { size: '+size+'; margin: 10mm; } body { font-size: '+fs+'; } }';
+  localStorage.setItem(fontKey,fs);
+  localStorage.setItem(sizeKey,label);
+}
+if(fontSelect&&sizeSelect){
+  fontSelect.value=localStorage.getItem(fontKey)||'16px';
+  sizeSelect.value=localStorage.getItem(sizeKey)||'A4 portrait - 210 x 297 mm';
+  fontSelect.addEventListener('change',applyPrintSettings);
+  sizeSelect.addEventListener('change',applyPrintSettings);
+  applyPrintSettings();
+  const reset=document.querySelector('[data-print-reset]');
+  if(reset)reset.addEventListener('click',()=>{fontSelect.value='16px';sizeSelect.value='A4 portrait - 210 x 297 mm';applyPrintSettings();});
+  const printBtn=document.querySelector('[data-print-now]');
+  if(printBtn)printBtn.addEventListener('click',()=>window.print());
+}
+</script>
 </body>
 </html>
