@@ -187,5 +187,16 @@
     "Exact source pages are embedded through local iframes to preserve pdf2htmlEX layout and avoid broken table/figure extraction.",
     "Reflowable text is coordinate-extracted from pdf2htmlEX text elements, cleaned for readability, and paired immediately after each source page.",
     "Long chapters are split into page-range parts to keep navigation manageable."
-  ]
+  ],
+  "latest_update": {
+    "added_reload_button_before_collapse_expand_per_source_page": true,
+    "reload_buttons_added": 218,
+    "content_pages_patched": 15,
+    "right_side_toc_updated": true,
+    "right_side_toc_behavior": "Current-page headings only; includes one useful source-page range anchor, reflowable text headings, and Generated Quiz only.",
+    "right_side_toc_hidden_when_printing": true,
+    "print_html_has_screen_visible_outline": true,
+    "index_source_reload_buttons_added": 9,
+    "reload_buttons_added_total_including_index_source": 227
+  }
 }

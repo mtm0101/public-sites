@@ -1,0 +1,651 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 6 - Solution Evaluation (Chương 6 - Đánh giá giải pháp)</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header"><div class="brand">BA Practice Guide Study Site</div><nav><a href="index.html">Index</a><a href="print.html">Print</a><a href="build-report.json">Build report</a><a href="01_chapter_4_elicitation_foundations.html">4: Requirements Elicitation Foundations and Techniques</a><a href="02_chapter_4_analysis_models_requirements.html">4: Analysis, Models, Documentation, and Agreement</a><a href="03_chapter_5_traceability_monitoring.html">5: Traceability and Monitoring</a><a class="active" href="04_chapter_6_solution_evaluation.html">6: Solution Evaluation</a><a href="05_appendices_glossary_reference.html">X: Appendices and Glossary Reference</a></nav></header><div class="page-layout">
+<details class="right-toc" open><summary>On this page</summary><nav><a href="#page-title">Page title</a>
+<a class="" href="#s-6-1">6.1 Overview of this Section <small>p.157</small></a>
+<a class="source-link" href="#source-page-157-s-6-1">↳ source p.157</a>
+<a class="" href="#s-6-2">6.2 Purpose of Solution Evaluation <small>p.157</small></a>
+<a class="source-link" href="#source-page-157-s-6-2">↳ source p.157</a>
+<a class="" href="#s-6-3">6.3 Recommended Mindset for Evaluation <small>p.158</small></a>
+<a class="source-link" href="#source-page-158-s-6-3">↳ source p.158</a>
+<a class=" toc-l3" href="#s-6-3-1">6.3.1 Evaluate Early and Often <small>p.158</small></a>
+<a class="source-link toc-l3" href="#source-page-158-s-6-3-1">↳ source p.158</a>
+<a class=" toc-l3" href="#s-6-3-2">6.3.2 Treat Analysis, Traceability, Testing, and Evaluation as Complementary <small>p.158</small></a>
+<a class="source-link toc-l3" href="#source-page-158-s-6-3-2">↳ source p.158</a>
+<a class=" toc-l3" href="#s-6-3-3">6.3.3 Evaluate with Usage and Value in Mind <small>p.159</small></a>
+<a class="source-link toc-l3" href="#source-page-159-s-6-3-3">↳ source p.159</a>
+<a class=" toc-l3" href="#s-6-3-4">6.3.4 Confirm Expected Values for Software Solutions <small>p.159</small></a>
+<a class="source-link toc-l3" href="#source-page-159-s-6-3-4">↳ source p.159</a>
+<a class="" href="#s-6-4">6.4 Plan for Evaluation of the Solution <small>p.160</small></a>
+<a class="source-link" href="#source-page-160-s-6-4">↳ source p.160</a>
+<a class="" href="#s-6-5">6.5 Determine What to Evaluate <small>p.161</small></a>
+<a class="source-link" href="#source-page-161-s-6-5">↳ source p.161</a>
+<a class=" toc-l3" href="#s-6-5-1">6.5.1 Consider the Business Goals and Objectives <small>p.162</small></a>
+<a class="source-link toc-l3" href="#source-page-162-s-6-5-1">↳ source p.162</a>
+<a class=" toc-l3" href="#s-6-5-2">6.5.2 Consider Key Performance Indicators <small>p.162</small></a>
+<a class="source-link toc-l3" href="#source-page-162-s-6-5-2">↳ source p.162</a>
+<a class=" toc-l3" href="#s-6-5-3">6.5.3 Consider Additional Evaluation Metrics and Acceptance Criteria <small>p.162</small></a>
+<a class="source-link toc-l3" href="#source-page-162-s-6-5-3">↳ source p.162</a>
+<a class=" toc-l4" href="#s-6-5-3-1">6.5.3.1 Project Metrics as Input to Evaluation <small>p.162</small></a>
+<a class=" toc-l4" href="#s-6-5-3-2">6.5.3.2 Customer Metrics <small>p.163</small></a>
+<a class=" toc-l4" href="#s-6-5-3-3">6.5.3.3 Sales and Marketing Metrics <small>p.163</small></a>
+<a class=" toc-l4" href="#s-6-5-3-4">6.5.3.4 Operational Metrics and Assessments <small>p.163</small></a>
+<a class=" toc-l4" href="#s-6-5-3-5">6.5.3.5 Functionality <small>p.164</small></a>
+<a class=" toc-l3" href="#s-6-5-4">6.5.4 Confirm the Organization Can Continue with Evaluation <small>p.164</small></a>
+<a class="source-link toc-l3" href="#source-page-164-s-6-5-4">↳ source p.164</a>
+<a class="" href="#s-6-6">6.6 When and How to Validate Solution Results <small>p.164</small></a>
+<a class="source-link" href="#source-page-164-s-6-6">↳ source p.164</a>
+<a class=" toc-l3" href="#s-6-6-1">6.6.1 Surveys and Focus Groups <small>p.165</small></a>
+<a class="source-link toc-l3" href="#source-page-165-s-6-6-1">↳ source p.165</a>
+<a class=" toc-l3" href="#s-6-6-2">6.6.2 Exploratory Testing and User Acceptance Testing Results <small>p.165</small></a>
+<a class="source-link toc-l3" href="#source-page-165-s-6-6-2">↳ source p.165</a>
+<a class=" toc-l3" href="#s-6-6-3">6.6.3 Day-in-the-Life Testing Results <small>p.166</small></a>
+<a class="source-link toc-l3" href="#source-page-166-s-6-6-3">↳ source p.166</a>
+<a class=" toc-l3" href="#s-6-6-4">6.6.4 Integration Testing Results <small>p.166</small></a>
+<a class="source-link toc-l3" href="#source-page-166-s-6-6-4">↳ source p.166</a>
+<a class=" toc-l3" href="#s-6-6-5">6.6.5 Expected vs. Actual Results for Functionality <small>p.166</small></a>
+<a class="source-link toc-l3" href="#source-page-166-s-6-6-5">↳ source p.166</a>
+<a class=" toc-l3" href="#s-6-6-6">6.6.6 Expected vs. Actual Results for Nonfunctional Requirements <small>p.167</small></a>
+<a class="source-link toc-l3" href="#source-page-167-s-6-6-6">↳ source p.167</a>
+<a class=" toc-l3" href="#s-6-6-7">6.6.7 Outcome Measurements and Financial Calculation of Benefits <small>p.167</small></a>
+<a class="source-link toc-l3" href="#source-page-167-s-6-6-7">↳ source p.167</a>
+<a class="" href="#s-6-7">6.7 Evaluate Acceptance Criteria and Address Defects <small>p.169</small></a>
+<a class="source-link" href="#source-page-169-s-6-7">↳ source p.169</a>
+<a class=" toc-l3" href="#s-6-7-1">6.7.1 Comparison of Expected vs. Actual Results <small>p.169</small></a>
+<a class="source-link toc-l3" href="#source-page-169-s-6-7-1">↳ source p.169</a>
+<a class=" toc-l3" href="#s-6-7-2">6.7.2 Examine Tolerance Ranges and Exact Numbers <small>p.169</small></a>
+<a class="source-link toc-l3" href="#source-page-169-s-6-7-2">↳ source p.169</a>
+<a class=" toc-l3" href="#s-6-7-3">6.7.3 Log and Address Defects <small>p.169</small></a>
+<a class="source-link toc-l3" href="#source-page-169-s-6-7-3">↳ source p.169</a>
+<a class="" href="#s-6-8">6.8 Facilitate the Go/No-Go Decision <small>p.170</small></a>
+<a class="source-link" href="#source-page-170-s-6-8">↳ source p.170</a>
+<a class="" href="#s-6-9">6.9 Obtain Signoff of the Solution <small>p.171</small></a>
+<a class="source-link" href="#source-page-171-s-6-9">↳ source p.171</a>
+<a class="" href="#s-6-10">6.10 Evaluate the Long-Term Performance of the Solution <small>p.171</small></a>
+<a class="source-link" href="#source-page-171-s-6-10">↳ source p.171</a>
+<a class=" toc-l3" href="#s-6-10-1">6.10.1 Determine Metrics <small>p.172</small></a>
+<a class="source-link toc-l3" href="#source-page-172-s-6-10-1">↳ source p.172</a>
+<a class=" toc-l3" href="#s-6-10-2">6.10.2 Obtain Metrics and Measure Performance <small>p.172</small></a>
+<a class="source-link toc-l3" href="#source-page-172-s-6-10-2">↳ source p.172</a>
+<a class=" toc-l3" href="#s-6-10-3">6.10.3 Analyze Results <small>p.172</small></a>
+<a class="source-link toc-l3" href="#source-page-172-s-6-10-3">↳ source p.172</a>
+<a class=" toc-l3" href="#s-6-10-4">6.10.4 Assess Limitations of the Solution and Organization <small>p.173</small></a>
+<a class="source-link toc-l3" href="#source-page-173-s-6-10-4">↳ source p.173</a>
+<a class=" toc-l3" href="#s-6-10-5">6.10.5 Recommend Approach to Improve Solution Performance <small>p.173</small></a>
+<a class="source-link toc-l3" href="#source-page-173-s-6-10-5">↳ source p.173</a>
+<a class="" href="#s-6-11">6.11 Solution Replacement or Phase Out <small>p.174</small></a>
+<a class="source-link" href="#source-page-174-s-6-11">↳ source p.174</a>
+<a href="#generated-quiz">Generated Quiz</a></nav></details>
+<main class="content">
+<h1 id="page-title"><a class="anchor" href="#page-title">#</a> Chapter 6 - Solution Evaluation (Chương 6 - Đánh giá giải pháp)</h1>
+<p class="scope-note"><strong>Scope note:</strong> Chapter 6 focuses on whether the solution delivered the expected outcomes. It connects requirements, acceptance criteria, testing evidence, operational metrics, benefits, go/no-go decisions, signoff, and long-term performance improvement.</p>
+<section class="summary-card"><h2>Learning map (Bản đồ học tập)</h2><ul>
+<li>Solution evaluation focuses on whether value was achieved, not just whether work was completed.</li>
+<li>Evaluation criteria should connect to business goals, KPIs, acceptance criteria, and expected benefits.</li>
+<li>Evidence sources include tests, surveys, focus groups, operational metrics, and financial measures.</li>
+<li>Go/no-go decisions need visibility into defects, readiness, residual risk, and business consequences.</li>
+<li>Long-term performance evaluation supports improvement, replacement, or phase-out.</li>
+</ul></section>
+<section class="learning-section">
+<h2 id="s-6-1"><a class="anchor" href="#s-6-1">#</a> 6.1 Overview of this Section <span>(Tổng quan phần này)</span></h2>
+<p class="source-note" id="source-page-157-s-6-1">Source page anchor: p. 157 · <a href="#source-page-157-s-6-1">direct anchor</a></p>
+<p>In practice, <strong>Overview of this Section</strong> addresses solution evaluation as a value-oriented activity rather than a final paperwork step. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Overview of this Section when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-2"><a class="anchor" href="#s-6-2">#</a> 6.2 Purpose of Solution Evaluation <span>(Mục đích của đánh giá giải pháp)</span></h2>
+<p class="source-note" id="source-page-157-s-6-2">Source page anchor: p. 157 · <a href="#source-page-157-s-6-2">direct anchor</a></p>
+<p>For a project team, <strong>Purpose of Solution Evaluation</strong> addresses determining whether the implemented solution satisfies needs and creates expected business value. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Purpose of Solution Evaluation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-3"><a class="anchor" href="#s-6-3">#</a> 6.3 Recommended Mindset for Evaluation <span>(Tư duy khuyến nghị khi đánh giá)</span></h2>
+<p class="source-note" id="source-page-158-s-6-3">Source page anchor: p. 158 · <a href="#source-page-158-s-6-3">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Recommended Mindset for Evaluation</strong> addresses evaluating early, continuously, and in relation to actual usage. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Recommended Mindset for Evaluation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-3-1"><a class="anchor" href="#s-6-3-1">#</a> 6.3.1 Evaluate Early and Often <span>(Đánh giá sớm và thường xuyên)</span></h3>
+<p class="source-note" id="source-page-158-s-6-3-1">Source page anchor: p. 158 · <a href="#source-page-158-s-6-3-1">direct anchor</a></p>
+<p>On a real initiative, <strong>Evaluate Early and Often</strong> addresses reducing late surprises by checking assumptions, prototypes, increments, and interim results. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Evaluate Early and Often when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-3-2"><a class="anchor" href="#s-6-3-2">#</a> 6.3.2 Treat Analysis, Traceability, Testing, and Evaluation as Complementary <span>(Xem phân tích, truy vết, kiểm thử và đánh giá là bổ trợ)</span></h3>
+<p class="source-note" id="source-page-158-s-6-3-2">Source page anchor: p. 158 · <a href="#source-page-158-s-6-3-2">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Treat Analysis, Traceability, Testing, and Evaluation as Complementary</strong> addresses connecting requirement quality, coverage, test evidence, and outcome measurement. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Treat Analysis, Traceability, Testing, and Evaluation as Complementary when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-3-3"><a class="anchor" href="#s-6-3-3">#</a> 6.3.3 Evaluate with Usage and Value in Mind <span>(Đánh giá theo ngữ cảnh sử dụng và giá trị)</span></h3>
+<p class="source-note" id="source-page-159-s-6-3-3">Source page anchor: p. 159 · <a href="#source-page-159-s-6-3-3">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Evaluate with Usage and Value in Mind</strong> addresses focusing on real users, business workflow, and measurable results. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Evaluate with Usage and Value in Mind when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-3-4"><a class="anchor" href="#s-6-3-4">#</a> 6.3.4 Confirm Expected Values for Software Solutions <span>(Xác nhận giá trị kỳ vọng cho giải pháp phần mềm)</span></h3>
+<p class="source-note" id="source-page-159-s-6-3-4">Source page anchor: p. 159 · <a href="#source-page-159-s-6-3-4">direct anchor</a></p>
+<p>When applied well, <strong>Confirm Expected Values for Software Solutions</strong> addresses clarifying what successful performance, adoption, efficiency, or financial benefit should look like. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Confirm Expected Values for Software Solutions when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-4"><a class="anchor" href="#s-6-4">#</a> 6.4 Plan for Evaluation of the Solution <span>(Lập kế hoạch đánh giá giải pháp)</span></h2>
+<p class="source-note" id="source-page-160-s-6-4">Source page anchor: p. 160 · <a href="#source-page-160-s-6-4">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Plan for Evaluation of the Solution</strong> addresses planning what will be evaluated, when, by whom, using which evidence and thresholds. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Plan for Evaluation of the Solution when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-5"><a class="anchor" href="#s-6-5">#</a> 6.5 Determine What to Evaluate <span>(Xác định nội dung cần đánh giá)</span></h2>
+<p class="source-note" id="source-page-161-s-6-5">Source page anchor: p. 161 · <a href="#source-page-161-s-6-5">direct anchor</a></p>
+<p>This idea matters most when Determine What to Evaluate links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<table><thead><tr><th>Metric family</th><th>What it can show</th><th>Example</th></tr></thead><tbody><tr><td>Business goal</td><td>Whether the solution addresses the reason for investment</td><td>Reduced cycle time, increased retention</td></tr><tr><td>Customer</td><td>Whether users or customers experience improvement</td><td>Satisfaction score, complaint rate, adoption</td></tr><tr><td>Operational</td><td>Whether the organization performs better</td><td>Throughput, error rate, backlog age</td></tr><tr><td>Functional</td><td>Whether expected behavior works</td><td>Passed UAT scenarios, acceptance criteria</td></tr><tr><td>Financial</td><td>Whether benefits justify cost</td><td>Savings, revenue, avoided cost, ROI</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Determine What to Evaluate when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-5-1"><a class="anchor" href="#s-6-5-1">#</a> 6.5.1 Consider the Business Goals and Objectives <span>(Xem xét mục tiêu kinh doanh)</span></h3>
+<p class="source-note" id="source-page-162-s-6-5-1">Source page anchor: p. 162 · <a href="#source-page-162-s-6-5-1">direct anchor</a></p>
+<p>A mature team uses this topic to Consider the Business Goals and Objectives links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Consider the Business Goals and Objectives when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-5-2"><a class="anchor" href="#s-6-5-2">#</a> 6.5.2 Consider Key Performance Indicators <span>(Xem xét KPI)</span></h3>
+<p class="source-note" id="source-page-162-s-6-5-2">Source page anchor: p. 162 · <a href="#source-page-162-s-6-5-2">direct anchor</a></p>
+<p>In practice, Consider Key Performance Indicators links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Consider Key Performance Indicators when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-5-3"><a class="anchor" href="#s-6-5-3">#</a> 6.5.3 Consider Additional Evaluation Metrics and Acceptance Criteria <span>(Xem xét chỉ số bổ sung và tiêu chí chấp nhận)</span></h3>
+<p class="source-note" id="source-page-162-s-6-5-3">Source page anchor: p. 162 · <a href="#source-page-162-s-6-5-3">direct anchor</a></p>
+<p>For a project team, Consider Additional Evaluation Metrics and Acceptance Criteria links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Consider Additional Evaluation Metrics and Acceptance Criteria when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-6-5-3-1"><a class="anchor" href="#s-6-5-3-1">#</a> 6.5.3.1 Project Metrics as Input to Evaluation <span>(Chỉ số dự án làm đầu vào đánh giá)</span></h4>
+<p class="source-note" id="source-page-162-s-6-5-3-1">Source page anchor: p. 162 · <a href="#source-page-162-s-6-5-3-1">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Project Metrics as Input to Evaluation</strong> helps the analyst address using delivery data as context, not as the only measure of solution success. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Project Metrics as Input to Evaluation is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-6-5-3-2"><a class="anchor" href="#s-6-5-3-2">#</a> 6.5.3.2 Customer Metrics <span>(Chỉ số khách hàng)</span></h4>
+<p class="source-note" id="source-page-163-s-6-5-3-2">Source page anchor: p. 163 · <a href="#source-page-163-s-6-5-3-2">direct anchor</a></p>
+<p>On a real initiative, <strong>Customer Metrics</strong> helps the analyst address using adoption, satisfaction, retention, complaint, or experience data. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Customer Metrics is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-6-5-3-3"><a class="anchor" href="#s-6-5-3-3">#</a> 6.5.3.3 Sales and Marketing Metrics <span>(Chỉ số bán hàng và marketing)</span></h4>
+<p class="source-note" id="source-page-163-s-6-5-3-3">Source page anchor: p. 163 · <a href="#source-page-163-s-6-5-3-3">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Sales and Marketing Metrics</strong> helps the analyst address measuring growth, conversion, lead quality, market response, or campaign effects. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Sales and Marketing Metrics is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-6-5-3-4"><a class="anchor" href="#s-6-5-3-4">#</a> 6.5.3.4 Operational Metrics and Assessments <span>(Chỉ số và đánh giá vận hành)</span></h4>
+<p class="source-note" id="source-page-163-s-6-5-3-4">Source page anchor: p. 163 · <a href="#source-page-163-s-6-5-3-4">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Operational Metrics and Assessments</strong> helps the analyst address examining throughput, cycle time, defect rates, rework, compliance, and support load. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Operational Metrics and Assessments is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-6-5-3-5"><a class="anchor" href="#s-6-5-3-5">#</a> 6.5.3.5 Functionality <span>(Chức năng)</span></h4>
+<p class="source-note" id="source-page-164-s-6-5-3-5">Source page anchor: p. 164 · <a href="#source-page-164-s-6-5-3-5">direct anchor</a></p>
+<p>When applied well, <strong>Functionality</strong> helps the analyst address checking whether delivered behavior meets agreed functional expectations. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Functionality is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-5-4"><a class="anchor" href="#s-6-5-4">#</a> 6.5.4 Confirm the Organization Can Continue with Evaluation <span>(Xác nhận tổ chức có thể tiếp tục đánh giá)</span></h3>
+<p class="source-note" id="source-page-164-s-6-5-4">Source page anchor: p. 164 · <a href="#source-page-164-s-6-5-4">direct anchor</a></p>
+<p>The business value of this topic is that Confirm the Organization Can Continue with Evaluation links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Confirm the Organization Can Continue with Evaluation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-6"><a class="anchor" href="#s-6-6">#</a> 6.6 When and How to Validate Solution Results <span>(Khi nào và cách xác nhận kết quả giải pháp)</span></h2>
+<p class="source-note" id="source-page-164-s-6-6">Source page anchor: p. 164 · <a href="#source-page-164-s-6-6">direct anchor</a></p>
+<p>This idea matters most when When and How to Validate Solution Results links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use When and How to Validate Solution Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-1"><a class="anchor" href="#s-6-6-1">#</a> 6.6.1 Surveys and Focus Groups <span>(Khảo sát và nhóm tập trung)</span></h3>
+<p class="source-note" id="source-page-165-s-6-6-1">Source page anchor: p. 165 · <a href="#source-page-165-s-6-6-1">direct anchor</a></p>
+<p>A mature team uses this topic to Surveys and Focus Groups links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Surveys and Focus Groups when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-2"><a class="anchor" href="#s-6-6-2">#</a> 6.6.2 Exploratory Testing and User Acceptance Testing Results <span>(Kết quả kiểm thử khám phá và UAT)</span></h3>
+<p class="source-note" id="source-page-165-s-6-6-2">Source page anchor: p. 165 · <a href="#source-page-165-s-6-6-2">direct anchor</a></p>
+<p>In practice, Exploratory Testing and User Acceptance Testing Results links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Exploratory Testing and User Acceptance Testing Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-3"><a class="anchor" href="#s-6-6-3">#</a> 6.6.3 Day-in-the-Life Testing Results <span>(Kết quả kiểm thử ngày làm việc thực tế)</span></h3>
+<p class="source-note" id="source-page-166-s-6-6-3">Source page anchor: p. 166 · <a href="#source-page-166-s-6-6-3">direct anchor</a></p>
+<p>For a project team, Day-in-the-Life Testing Results links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Day-in-the-Life Testing Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-4"><a class="anchor" href="#s-6-6-4">#</a> 6.6.4 Integration Testing Results <span>(Kết quả kiểm thử tích hợp)</span></h3>
+<p class="source-note" id="source-page-166-s-6-6-4">Source page anchor: p. 166 · <a href="#source-page-166-s-6-6-4">direct anchor</a></p>
+<p>From a business analysis perspective, Integration Testing Results links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Integration Testing Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-5"><a class="anchor" href="#s-6-6-5">#</a> 6.6.5 Expected vs. Actual Results for Functionality <span>(Kết quả kỳ vọng so với thực tế cho chức năng)</span></h3>
+<p class="source-note" id="source-page-166-s-6-6-5">Source page anchor: p. 166 · <a href="#source-page-166-s-6-6-5">direct anchor</a></p>
+<p>On a real initiative, Expected vs. Actual Results for Functionality links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Expected vs. Actual Results for Functionality when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-6"><a class="anchor" href="#s-6-6-6">#</a> 6.6.6 Expected vs. Actual Results for Nonfunctional Requirements <span>(Kết quả kỳ vọng so với thực tế cho yêu cầu phi chức năng)</span></h3>
+<p class="source-note" id="source-page-167-s-6-6-6">Source page anchor: p. 167 · <a href="#source-page-167-s-6-6-6">direct anchor</a></p>
+<p>A useful way to read this topic is that Expected vs. Actual Results for Nonfunctional Requirements links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Expected vs. Actual Results for Nonfunctional Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-6-7"><a class="anchor" href="#s-6-6-7">#</a> 6.6.7 Outcome Measurements and Financial Calculation of Benefits <span>(Đo lường kết quả và tính toán lợi ích tài chính)</span></h3>
+<p class="source-note" id="source-page-167-s-6-6-7">Source page anchor: p. 167 · <a href="#source-page-167-s-6-6-7">direct anchor</a></p>
+<p>The practitioner should treat this as Outcome Measurements and Financial Calculation of Benefits links the solution back to measurable value. Evaluation should be planned while requirements are still being shaped so the organization knows what evidence will later prove success.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use metrics when stakeholders need proof of adoption, performance, customer response, operational improvement, financial benefit, or compliance.</p></section><section><h4>How to apply</h4><p>Connect each metric to a business objective, define expected and actual values, confirm data sources, and decide how variance will be interpreted.</p></section></div>
+<h4>Practical example</h4>
+<p>A support portal is expected to reduce ticket volume by 15%. The BA defines the pre-launch baseline, the measurement period, the data owner, and the threshold for acceptable variance before the release goes live.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Choosing metrics after launch when data is unavailable</li><li>Treating delivery metrics as proof of business value</li><li>Ignoring tolerance ranges and measurement timing</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Define expected value and actual data source</li><li>Confirm owner and measurement timing</li><li>Set thresholds or tolerance ranges</li><li>Decide how results will influence action</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Outcome Measurements and Financial Calculation of Benefits when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-7"><a class="anchor" href="#s-6-7">#</a> 6.7 Evaluate Acceptance Criteria and Address Defects <span>(Đánh giá tiêu chí chấp nhận và xử lý lỗi)</span></h2>
+<p class="source-note" id="source-page-169-s-6-7">Source page anchor: p. 169 · <a href="#source-page-169-s-6-7">direct anchor</a></p>
+<p>When applied well, Evaluate Acceptance Criteria and Address Defects turns evaluation evidence into action. Not every gap has the same meaning: some are defects, some are acceptable variances, some reveal new requirements, and some expose organizational limitations.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic during UAT, release readiness reviews, pilots, operational evaluation, and post-implementation measurement.</p></section><section><h4>How to apply</h4><p>Compare observed results against acceptance criteria, check tolerance ranges, log defects with evidence, and decide whether a change request or remediation plan is needed.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Logging symptoms without evidence</li><li>Treating accepted variance as a hidden defect</li><li>Not tracing defects to requirements or acceptance criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Compare actual result to agreed criteria</li><li>Classify severity and business impact</li><li>Link defect to requirement or test</li><li>Decide whether fix changes the baseline</li></ul>
+<table><thead><tr><th>Evaluation outcome</th><th>Likely treatment</th><th>Business analysis concern</th></tr></thead><tbody><tr><td>Meets criteria</td><td>Accept or move toward signoff</td><td>Confirm evidence and stakeholder agreement</td></tr><tr><td>Within tolerance</td><td>Accept with documented variance if appropriate</td><td>Ensure tolerance was agreed in advance</td></tr><tr><td>Outside tolerance</td><td>Log defect, change request, or risk</td><td>Assess severity and business impact</td></tr><tr><td>Unmeasured</td><td>Do not assume success</td><td>Find evidence gap or plan follow-up measurement</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Evaluate Acceptance Criteria and Address Defects when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-7-1"><a class="anchor" href="#s-6-7-1">#</a> 6.7.1 Comparison of Expected vs. Actual Results <span>(So sánh kỳ vọng và thực tế)</span></h3>
+<p class="source-note" id="source-page-169-s-6-7-1">Source page anchor: p. 169 · <a href="#source-page-169-s-6-7-1">direct anchor</a></p>
+<p>The business value of this topic is that Comparison of Expected vs. Actual Results turns evaluation evidence into action. Not every gap has the same meaning: some are defects, some are acceptable variances, some reveal new requirements, and some expose organizational limitations.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic during UAT, release readiness reviews, pilots, operational evaluation, and post-implementation measurement.</p></section><section><h4>How to apply</h4><p>Compare observed results against acceptance criteria, check tolerance ranges, log defects with evidence, and decide whether a change request or remediation plan is needed.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Logging symptoms without evidence</li><li>Treating accepted variance as a hidden defect</li><li>Not tracing defects to requirements or acceptance criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Compare actual result to agreed criteria</li><li>Classify severity and business impact</li><li>Link defect to requirement or test</li><li>Decide whether fix changes the baseline</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Comparison of Expected vs. Actual Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-7-2"><a class="anchor" href="#s-6-7-2">#</a> 6.7.2 Examine Tolerance Ranges and Exact Numbers <span>(Xem xét khoảng dung sai và con số chính xác)</span></h3>
+<p class="source-note" id="source-page-169-s-6-7-2">Source page anchor: p. 169 · <a href="#source-page-169-s-6-7-2">direct anchor</a></p>
+<p>This idea matters most when Examine Tolerance Ranges and Exact Numbers turns evaluation evidence into action. Not every gap has the same meaning: some are defects, some are acceptable variances, some reveal new requirements, and some expose organizational limitations.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic during UAT, release readiness reviews, pilots, operational evaluation, and post-implementation measurement.</p></section><section><h4>How to apply</h4><p>Compare observed results against acceptance criteria, check tolerance ranges, log defects with evidence, and decide whether a change request or remediation plan is needed.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Logging symptoms without evidence</li><li>Treating accepted variance as a hidden defect</li><li>Not tracing defects to requirements or acceptance criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Compare actual result to agreed criteria</li><li>Classify severity and business impact</li><li>Link defect to requirement or test</li><li>Decide whether fix changes the baseline</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Examine Tolerance Ranges and Exact Numbers when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-7-3"><a class="anchor" href="#s-6-7-3">#</a> 6.7.3 Log and Address Defects <span>(Ghi nhận và xử lý lỗi)</span></h3>
+<p class="source-note" id="source-page-169-s-6-7-3">Source page anchor: p. 169 · <a href="#source-page-169-s-6-7-3">direct anchor</a></p>
+<p>A mature team uses this topic to Log and Address Defects turns evaluation evidence into action. Not every gap has the same meaning: some are defects, some are acceptable variances, some reveal new requirements, and some expose organizational limitations.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic during UAT, release readiness reviews, pilots, operational evaluation, and post-implementation measurement.</p></section><section><h4>How to apply</h4><p>Compare observed results against acceptance criteria, check tolerance ranges, log defects with evidence, and decide whether a change request or remediation plan is needed.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Logging symptoms without evidence</li><li>Treating accepted variance as a hidden defect</li><li>Not tracing defects to requirements or acceptance criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Compare actual result to agreed criteria</li><li>Classify severity and business impact</li><li>Link defect to requirement or test</li><li>Decide whether fix changes the baseline</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Log and Address Defects when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-8"><a class="anchor" href="#s-6-8">#</a> 6.8 Facilitate the Go/No-Go Decision <span>(Điều phối quyết định Go/No-Go)</span></h2>
+<p class="source-note" id="source-page-170-s-6-8">Source page anchor: p. 170 · <a href="#source-page-170-s-6-8">direct anchor</a></p>
+<p>In practice, Facilitate the Go/No-Go Decision formalizes an evidence-based decision about acceptance or release. It is strongest when the decision makers understand residual risk, open defects, unmet criteria, operational readiness, and business consequences.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic at release gates, pilot expansion decisions, stakeholder acceptance meetings, and transition points into operations.</p></section><section><h4>How to apply</h4><p>Prepare evidence, summarize exceptions, show risk and mitigation options, record the decision, and preserve traceability to acceptance criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>For a pilot launch, the BA summarizes passed acceptance criteria, open defects, operational readiness, and user feedback. Leaders use the evidence to approve launch with two mitigations.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Asking for signoff without showing evidence</li><li>Framing go/no-go as only a calendar decision</li><li>Failing to document accepted risk</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Summarize evidence and exceptions</li><li>Clarify residual risks</li><li>Confirm decision authority</li><li>Document signoff and conditions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Facilitate the Go/No-Go Decision when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-9"><a class="anchor" href="#s-6-9">#</a> 6.9 Obtain Signoff of the Solution <span>(Lấy phê duyệt chính thức cho giải pháp)</span></h2>
+<p class="source-note" id="source-page-171-s-6-9">Source page anchor: p. 171 · <a href="#source-page-171-s-6-9">direct anchor</a></p>
+<p>For a project team, Obtain Signoff of the Solution formalizes an evidence-based decision about acceptance or release. It is strongest when the decision makers understand residual risk, open defects, unmet criteria, operational readiness, and business consequences.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic at release gates, pilot expansion decisions, stakeholder acceptance meetings, and transition points into operations.</p></section><section><h4>How to apply</h4><p>Prepare evidence, summarize exceptions, show risk and mitigation options, record the decision, and preserve traceability to acceptance criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>For a pilot launch, the BA summarizes passed acceptance criteria, open defects, operational readiness, and user feedback. Leaders use the evidence to approve launch with two mitigations.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Asking for signoff without showing evidence</li><li>Framing go/no-go as only a calendar decision</li><li>Failing to document accepted risk</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Summarize evidence and exceptions</li><li>Clarify residual risks</li><li>Confirm decision authority</li><li>Document signoff and conditions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Obtain Signoff of the Solution when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-10"><a class="anchor" href="#s-6-10">#</a> 6.10 Evaluate the Long-Term Performance of the Solution <span>(Đánh giá hiệu quả dài hạn của giải pháp)</span></h2>
+<p class="source-note" id="source-page-171-s-6-10">Source page anchor: p. 171 · <a href="#source-page-171-s-6-10">direct anchor</a></p>
+<p>From a business analysis perspective, Evaluate the Long-Term Performance of the Solution extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Evaluate the Long-Term Performance of the Solution when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-10-1"><a class="anchor" href="#s-6-10-1">#</a> 6.10.1 Determine Metrics <span>(Xác định chỉ số)</span></h3>
+<p class="source-note" id="source-page-172-s-6-10-1">Source page anchor: p. 172 · <a href="#source-page-172-s-6-10-1">direct anchor</a></p>
+<p>On a real initiative, Determine Metrics extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Determine Metrics when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-10-2"><a class="anchor" href="#s-6-10-2">#</a> 6.10.2 Obtain Metrics and Measure Performance <span>(Thu thập chỉ số và đo hiệu quả)</span></h3>
+<p class="source-note" id="source-page-172-s-6-10-2">Source page anchor: p. 172 · <a href="#source-page-172-s-6-10-2">direct anchor</a></p>
+<p>A useful way to read this topic is that Obtain Metrics and Measure Performance extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Obtain Metrics and Measure Performance when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-10-3"><a class="anchor" href="#s-6-10-3">#</a> 6.10.3 Analyze Results <span>(Phân tích kết quả)</span></h3>
+<p class="source-note" id="source-page-172-s-6-10-3">Source page anchor: p. 172 · <a href="#source-page-172-s-6-10-3">direct anchor</a></p>
+<p>The practitioner should treat this as Analyze Results extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Analyze Results when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-10-4"><a class="anchor" href="#s-6-10-4">#</a> 6.10.4 Assess Limitations of the Solution and Organization <span>(Đánh giá giới hạn của giải pháp và tổ chức)</span></h3>
+<p class="source-note" id="source-page-173-s-6-10-4">Source page anchor: p. 173 · <a href="#source-page-173-s-6-10-4">direct anchor</a></p>
+<p>When applied well, Assess Limitations of the Solution and Organization extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Assess Limitations of the Solution and Organization when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-6-10-5"><a class="anchor" href="#s-6-10-5">#</a> 6.10.5 Recommend Approach to Improve Solution Performance <span>(Đề xuất cách cải thiện hiệu quả giải pháp)</span></h3>
+<p class="source-note" id="source-page-173-s-6-10-5">Source page anchor: p. 173 · <a href="#source-page-173-s-6-10-5">direct anchor</a></p>
+<p>The business value of this topic is that Recommend Approach to Improve Solution Performance extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Recommend Approach to Improve Solution Performance when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-6-11"><a class="anchor" href="#s-6-11">#</a> 6.11 Solution Replacement or Phase Out <span>(Thay thế hoặc loại bỏ giải pháp)</span></h2>
+<p class="source-note" id="source-page-174-s-6-11">Source page anchor: p. 174 · <a href="#source-page-174-s-6-11">direct anchor</a></p>
+<p>This idea matters most when Solution Replacement or Phase Out extends evaluation beyond initial implementation. A solution can pass launch criteria and still lose value later because strategy, users, regulations, technology, or operating conditions change.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use long-term evaluation after adoption has stabilized, after benefit periods, during portfolio reviews, or when operational indicators show decline.</p></section><section><h4>How to apply</h4><p>Monitor durable metrics, investigate limits, compare benefits with cost, and recommend enhancement, replacement, retirement, or process improvement.</p></section></div>
+<h4>Practical example</h4>
+<p>Three months after release, usage metrics show strong adoption but support calls remain high. The BA investigates training gaps, confusing screen flow, and missing help content before recommending improvements.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Stopping evaluation at launch</li><li>Keeping a solution because it still runs even when value has declined</li><li>Ignoring organizational limits that block benefits</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Select durable performance metrics</li><li>Collect actual data after stabilization</li><li>Analyze causes, not only symptoms</li><li>Recommend improvement or phase-out if needed</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Solution Replacement or Phase Out when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<div class="next-nav"><a class="button" href="03_chapter_5_traceability_monitoring.html">← Previous: Chapter 5 - Traceability and Monitoring</a><a class="button primary" href="05_appendices_glossary_reference.html">Next Page: Appendices and Glossary Reference →</a></div>
+<section id="generated-quiz" class="quiz"><h2><a class="anchor" href="#generated-quiz">#</a> Generated Quiz (Bài kiểm tra tạo tự động)</h2><p>Exactly 10 questions: 5 Hard and 5 Hardest. Answers are inside expandable panels.</p>
+<article class="question"><h3>Question 1 · Hard</h3><p>Why should solution evaluation be planned before implementation is complete?</p><ol type="A">
+<li>Metrics and evidence sources must be ready when results need to be measured</li>
+<li>It replaces requirements analysis</li>
+<li>It avoids the need for acceptance criteria</li>
+<li>It guarantees benefits without measurement</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Evaluation depends on defined metrics, data access, owners, and thresholds.</p></details></article>
+<article class="question"><h3>Question 2 · Hard</h3><p>Which evidence best evaluates whether a solution improved customer experience?</p><ol type="A">
+<li>Developer estimates only</li>
+<li>Customer satisfaction, adoption, complaint, or retention measures linked to the target outcome</li>
+<li>The number of requirements written</li>
+<li>The color of the interface</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Customer metrics are appropriate when the intended value is customer experience.</p></details></article>
+<article class="question"><h3>Question 3 · Hard</h3><p>What is the key purpose of expected-versus-actual comparison?</p><ol type="A">
+<li>To identify whether observed results meet agreed expectations and tolerances</li>
+<li>To avoid defect logging</li>
+<li>To replace stakeholder signoff</li>
+<li>To prove every requirement was unnecessary</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Expected-versus-actual analysis turns evidence into evaluation decisions.</p></details></article>
+<article class="question"><h3>Question 4 · Hard</h3><p>Why are tolerance ranges useful?</p><ol type="A">
+<li>They define acceptable variance so minor deviations are not treated the same as failures</li>
+<li>They eliminate acceptance criteria</li>
+<li>They hide defects</li>
+<li>They are only for financial metrics</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Tolerances help teams make evidence-based decisions about acceptability.</p></details></article>
+<article class="question"><h3>Question 5 · Hard</h3><p>What should a go/no-go decision consider?</p><ol type="A">
+<li>Evidence, unresolved defects, business risk, operational readiness, and stakeholder acceptance</li>
+<li>Only whether the calendar date has arrived</li>
+<li>Only the number of meetings completed</li>
+<li>Only the first UAT result</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Release decisions need a balanced view of value, quality, risk, and readiness.</p></details></article>
+<article class="question"><h3>Question 6 · Hardest</h3><p>A solution passed functional testing but users cannot complete the workday scenario without manual workarounds. Which evaluation method would have revealed this risk?</p><ol type="A">
+<li>Day-in-the-life testing</li>
+<li>Alphabetical glossary review</li>
+<li>Static code formatting</li>
+<li>One-question survey</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>DITL testing exposes end-to-end operational friction that isolated functional tests may miss.</p></details></article>
+<article class="question"><h3>Question 7 · Hardest</h3><p>A project met schedule and budget but the business outcome did not improve. What does this show?</p><ol type="A">
+<li>Project metrics alone are insufficient for solution evaluation</li>
+<li>The project was automatically a failure in every dimension</li>
+<li>Requirements are irrelevant</li>
+<li>The budget should be ignored</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Delivery performance gives context, but solution success depends on business outcomes.</p></details></article>
+<article class="question"><h3>Question 8 · Hardest</h3><p>A metric cannot be measured after launch because no system captures the data. What planning defect occurred?</p><ol type="A">
+<li>The evaluation plan did not confirm data availability and ownership</li>
+<li>The requirement was too functional</li>
+<li>The team used too many stakeholders</li>
+<li>The solution was evaluated too often</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Evaluation planning must confirm data sources and measurement responsibility.</p></details></article>
+<article class="question"><h3>Question 9 · Hardest</h3><p>When is signoff weak even if a stakeholder signs a form?</p><ol type="A">
+<li>When evidence, exceptions, risks, and acceptance status were not understood</li>
+<li>When the form uses a template</li>
+<li>When the meeting was short</li>
+<li>When the solution has no defects</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Signoff should represent informed acceptance, not just administrative completion.</p></details></article>
+<article class="question"><h3>Question 10 · Hardest</h3><p>A legacy solution is still operational but no longer supports strategy and is costly to maintain. What should evaluation support?</p><ol type="A">
+<li>Replacement or phase-out planning with transition risks and continuity needs</li>
+<li>Immediate deletion without analysis</li>
+<li>More requirements for the same system only</li>
+<li>No action because it still runs</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Long-term evaluation can justify improvement, replacement, or retirement based on value and constraints.</p></details></article>
+</section>
+<div class="next-nav"><a class="button" href="03_chapter_5_traceability_monitoring.html">← Previous: Chapter 5 - Traceability and Monitoring</a><a class="button primary" href="05_appendices_glossary_reference.html">Next Page: Appendices and Glossary Reference →</a></div>
+</main></div>
+</body>
+</html>

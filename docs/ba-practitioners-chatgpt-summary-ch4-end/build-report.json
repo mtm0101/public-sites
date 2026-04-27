@@ -1,0 +1,1384 @@
+{
+  "selected_scope": "Chapter 4 through end of book: Requirements Elicitation and Analysis; Traceability and Monitoring; Solution Evaluation; Appendices/Glossary reference summary; Index excluded",
+  "source_pdf_name": "6. Business Analysis for Practitioners - A Practice Guide (2015) - BA_Practitioners_PG_unlocked DONE.pdf",
+  "output_type": "static HTML site packaged as downloadable ZIP",
+  "language_policy": "Main body content in English only; page titles, chapter titles, section titles, glossary terms, and major labels use English (Vietnamese) where useful.",
+  "total_files_generated": 9,
+  "total_word_count": 74635,
+  "content_word_count_excluding_print": 39995,
+  "print_word_count": 34640,
+  "estimated_printed_page_count": 99,
+  "generated_pages": [
+    "index.html",
+    "01_chapter_4_elicitation_foundations.html",
+    "02_chapter_4_analysis_models_requirements.html",
+    "03_chapter_5_traceability_monitoring.html",
+    "04_chapter_6_solution_evaluation.html",
+    "05_appendices_glossary_reference.html",
+    "print.html",
+    "assets/style.css",
+    "build-report.json"
+  ],
+  "section_synchronization_validation": {
+    "result": "PASS",
+    "details": [
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.1",
+        "title": "Purpose of this Section (Mục đích của phần này)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.2",
+        "title": "What it Means to Elicit Information (Ý nghĩa của việc khai thác thông tin)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.2.1",
+        "title": "Elicitation Is More than Requirements Collection or Gathering (Khai thác không chỉ là thu thập yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.2.2",
+        "title": "Importance of Eliciting Information (Tầm quan trọng của khai thác thông tin)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.3",
+        "title": "Plan for Elicitation (Lập kế hoạch khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.3.1",
+        "title": "Develop the Elicitation Plan (Xây dựng kế hoạch khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.3.1.1",
+        "title": "Finding Information (Tìm nguồn thông tin)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.3.1.2",
+        "title": "Techniques for Eliciting Information (Kỹ thuật khai thác thông tin)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.3.1.3",
+        "title": "Sequencing the Elicitation Activities (Sắp xếp thứ tự hoạt động khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.4",
+        "title": "Prepare for Elicitation (Chuẩn bị cho khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.4.1",
+        "title": "Determine the Objectives (Xác định mục tiêu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.4.2",
+        "title": "Determine the Participants (Xác định người tham gia)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.4.3",
+        "title": "Determine the Questions for the Session (Xác định câu hỏi cho buổi làm việc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5",
+        "title": "Conduct Elicitation Activities (Thực hiện hoạt động khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.1",
+        "title": "Introduction (Phần mở đầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.2",
+        "title": "Body (Phần chính)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.2.1",
+        "title": "Types of Questions (Các loại câu hỏi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.2.2",
+        "title": "How to Ask the Right Questions (Cách đặt câu hỏi đúng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.2.3",
+        "title": "Listening (Lắng nghe)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.3",
+        "title": "Close (Kết thúc buổi làm việc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.4",
+        "title": "Follow-Up (Theo dõi sau buổi làm việc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5",
+        "title": "Elicitation Techniques (Các kỹ thuật khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.1",
+        "title": "Brainstorming (Động não)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.2",
+        "title": "Document Analysis (Phân tích tài liệu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.3",
+        "title": "Facilitated Workshops (Hội thảo có điều phối)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.4",
+        "title": "Focus Groups (Nhóm tập trung)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.5",
+        "title": "Interviews (Phỏng vấn)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.6",
+        "title": "Observation (Quan sát)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.7",
+        "title": "Prototyping (Tạo mẫu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.5.5.8",
+        "title": "Questionnaires and Surveys (Bảng hỏi và khảo sát)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.6",
+        "title": "Document Outputs from Elicitation Activities (Ghi nhận đầu ra từ khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.7",
+        "title": "Complete Elicitation (Hoàn tất khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "section_number": "4.8",
+        "title": "Elicitation Issues and Challenges (Vấn đề và thách thức trong khai thác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.9",
+        "title": "Analyze Requirements (Phân tích yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.9.1",
+        "title": "Plan for Analysis (Lập kế hoạch phân tích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.9.1.1",
+        "title": "Analysis Defined (Định nghĩa phân tích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.9.1.2",
+        "title": "Thinking Ahead about Analysis (Tư duy trước về phân tích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.9.1.3",
+        "title": "What to Analyze (Nội dung cần phân tích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10",
+        "title": "Model and Refine Requirements (Mô hình hóa và tinh chỉnh yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.1",
+        "title": "Description of Models (Mô tả về mô hình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.2",
+        "title": "Purpose of Models (Mục đích của mô hình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.3",
+        "title": "Categories of Models (Các nhóm mô hình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.4",
+        "title": "Selection of Models (Lựa chọn mô hình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.5",
+        "title": "Use Models to Refine Requirements (Dùng mô hình để tinh chỉnh yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.6",
+        "title": "Modeling Languages (Ngôn ngữ mô hình hóa)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7",
+        "title": "Scope Models (Mô hình phạm vi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7.1",
+        "title": "Goal Model and Business Objective Model (Mô hình mục tiêu và mục tiêu kinh doanh)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7.2",
+        "title": "Ecosystem Map (Bản đồ hệ sinh thái)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7.3",
+        "title": "Context Diagram (Sơ đồ ngữ cảnh)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7.4",
+        "title": "Feature Model (Mô hình tính năng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.7.5",
+        "title": "Use Case Diagram (Sơ đồ ca sử dụng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.8",
+        "title": "Process Models (Mô hình quy trình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.8.1",
+        "title": "Process Flow (Luồng quy trình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.8.2",
+        "title": "Use Case (Ca sử dụng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.8.3",
+        "title": "User Story (Câu chuyện người dùng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.9",
+        "title": "Rule Models (Mô hình quy tắc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.9.1",
+        "title": "Business Rules Catalog (Danh mục quy tắc nghiệp vụ)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.9.2",
+        "title": "Decision Tree and Decision Table (Cây quyết định và bảng quyết định)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.10",
+        "title": "Data Models (Mô hình dữ liệu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.10.1",
+        "title": "Entity Relationship Diagram (Sơ đồ quan hệ thực thể)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.10.2",
+        "title": "Data Flow Diagrams (Sơ đồ luồng dữ liệu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.10.3",
+        "title": "Data Dictionary (Từ điển dữ liệu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.10.4",
+        "title": "State Table and State Diagram (Bảng trạng thái và sơ đồ trạng thái)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.11",
+        "title": "Interface Models (Mô hình giao diện)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.11.1",
+        "title": "Report Table (Bảng báo cáo)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.11.2",
+        "title": "System Interface Table (Bảng giao diện hệ thống)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.11.3",
+        "title": "User Interface Flow (Luồng giao diện người dùng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.10.11.4",
+        "title": "Wireframes and Display-Action-Response (Khung giao diện và mô hình Hiển thị-Hành động-Phản hồi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11",
+        "title": "Document the Solution Requirements (Tài liệu hóa yêu cầu giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.1",
+        "title": "Why Documentation is Important (Vì sao tài liệu hóa quan trọng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.2",
+        "title": "Business Requirements Document (Tài liệu yêu cầu kinh doanh)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.3",
+        "title": "The Solution Documentation (Tài liệu giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.3.1",
+        "title": "Requirements (Yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.3.2",
+        "title": "Categorization (Phân loại)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.4",
+        "title": "Requirements Specification (Đặc tả yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.4.1",
+        "title": "Documenting Assumptions (Ghi nhận giả định)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.4.2",
+        "title": "Documenting Constraints (Ghi nhận ràng buộc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.5",
+        "title": "Guidelines for Writing Requirements (Hướng dẫn viết yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.5.1",
+        "title": "Functional Requirements (Yêu cầu chức năng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.6",
+        "title": "Prioritizing Requirements (Ưu tiên hóa yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.6.1",
+        "title": "Prioritization Schemes (Các phương pháp ưu tiên hóa)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.7",
+        "title": "Technical Requirements Specification (Đặc tả yêu cầu kỹ thuật)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.8",
+        "title": "Documenting with Use Cases (Tài liệu hóa bằng ca sử dụng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.9",
+        "title": "Documenting with User Stories (Tài liệu hóa bằng user stories)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.11.10",
+        "title": "Backlog Items (Hạng mục backlog)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.12",
+        "title": "Validate Requirements (Xác nhận giá trị yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.12.1",
+        "title": "The Concept of Continual Confirmation (Khái niệm xác nhận liên tục)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.12.2",
+        "title": "Requirements Walkthrough (Rà soát yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.13",
+        "title": "Verify Requirements (Kiểm chứng chất lượng yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.13.1",
+        "title": "Peer Review (Rà soát ngang hàng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.13.2",
+        "title": "Inspection (Thanh tra)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.14",
+        "title": "Approval Sessions (Phiên phê duyệt)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.15",
+        "title": "Resolve Requirements-Related Conflicts (Giải quyết xung đột liên quan đến yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.15.1",
+        "title": "Delphi (Phương pháp Delphi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.15.2",
+        "title": "Multivoting (Bỏ phiếu nhiều lượt)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "section_number": "4.15.3",
+        "title": "Weighted Ranking (Xếp hạng có trọng số)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.1",
+        "title": "Overview of this Section (Tổng quan phần này)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2",
+        "title": "Traceability (Truy vết)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2.1",
+        "title": "What is Traceability? (Truy vết là gì?)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2.2",
+        "title": "Benefits of Tracing Requirements (Lợi ích của truy vết yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2.3",
+        "title": "The Traceability Matrix (Ma trận truy vết)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2.3.1",
+        "title": "Requirements Attributes (Thuộc tính yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.2.3.2",
+        "title": "Traceability Matrix Hierarchy (Cấu trúc phân cấp ma trận truy vết)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.3",
+        "title": "Relationships and Dependencies (Mối quan hệ và phụ thuộc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.3.1",
+        "title": "Subsets (Tập con)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.3.2",
+        "title": "Implementation Dependency (Phụ thuộc triển khai)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.3.3",
+        "title": "Benefit or Value Dependency (Phụ thuộc lợi ích hoặc giá trị)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.4",
+        "title": "Approving Requirements (Phê duyệt yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.4.1",
+        "title": "Work Authorization System (Hệ thống ủy quyền công việc)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.4.2",
+        "title": "Approval Levels (Cấp độ phê duyệt)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.5",
+        "title": "Baselining Approved Requirements (Thiết lập đường cơ sở cho yêu cầu đã phê duyệt)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.5.1",
+        "title": "What is a Requirements Baseline? (Đường cơ sở yêu cầu là gì?)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.5.2",
+        "title": "Relationship of Requirements Baseline, Product Scope, and Project Scope (Quan hệ giữa đường cơ sở yêu cầu, phạm vi sản phẩm và phạm vi dự án)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.5.3",
+        "title": "Maintaining the Product Backlog (Duy trì product backlog)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.6",
+        "title": "Monitoring Requirements Using a Traceability Matrix (Giám sát yêu cầu bằng ma trận truy vết)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.6.1",
+        "title": "Benefits of Using Traceability to Monitor Requirements (Lợi ích của việc dùng truy vết để giám sát yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.7",
+        "title": "The Requirements Life Cycle (Vòng đời yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8",
+        "title": "Managing Changes to Requirements (Quản lý thay đổi yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.1",
+        "title": "Change Management as it Relates to Business Analysis (Quản lý thay đổi trong bối cảnh business analysis)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.2",
+        "title": "Change Control Tools and Techniques (Công cụ và kỹ thuật kiểm soát thay đổi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.2.1",
+        "title": "Configuration Management System (Hệ thống quản lý cấu hình)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.2.2",
+        "title": "Version Control System (Hệ thống quản lý phiên bản)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3",
+        "title": "Impact Analysis (Phân tích tác động)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3.1",
+        "title": "Impact on the Requirements Baseline (Tác động đến đường cơ sở yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3.2",
+        "title": "Impact on Requirement Conflicts (Tác động đến xung đột giữa yêu cầu)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3.3",
+        "title": "Impact on Business Analysis (Tác động đến hoạt động business analysis)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3.4",
+        "title": "Impact on Project Management (Tác động đến quản lý dự án)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.3.5",
+        "title": "Recommending a Course of Action (Đề xuất hướng xử lý)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "section_number": "5.8.4",
+        "title": "Controlling Changes Related to Defects (Kiểm soát thay đổi liên quan đến lỗi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.1",
+        "title": "Overview of this Section (Tổng quan phần này)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.2",
+        "title": "Purpose of Solution Evaluation (Mục đích của đánh giá giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.3",
+        "title": "Recommended Mindset for Evaluation (Tư duy khuyến nghị khi đánh giá)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.3.1",
+        "title": "Evaluate Early and Often (Đánh giá sớm và thường xuyên)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.3.2",
+        "title": "Treat Analysis, Traceability, Testing, and Evaluation as Complementary (Xem phân tích, truy vết, kiểm thử và đánh giá là bổ trợ)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.3.3",
+        "title": "Evaluate with Usage and Value in Mind (Đánh giá theo ngữ cảnh sử dụng và giá trị)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.3.4",
+        "title": "Confirm Expected Values for Software Solutions (Xác nhận giá trị kỳ vọng cho giải pháp phần mềm)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.4",
+        "title": "Plan for Evaluation of the Solution (Lập kế hoạch đánh giá giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5",
+        "title": "Determine What to Evaluate (Xác định nội dung cần đánh giá)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.1",
+        "title": "Consider the Business Goals and Objectives (Xem xét mục tiêu kinh doanh)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.2",
+        "title": "Consider Key Performance Indicators (Xem xét KPI)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3",
+        "title": "Consider Additional Evaluation Metrics and Acceptance Criteria (Xem xét chỉ số bổ sung và tiêu chí chấp nhận)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3.1",
+        "title": "Project Metrics as Input to Evaluation (Chỉ số dự án làm đầu vào đánh giá)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3.2",
+        "title": "Customer Metrics (Chỉ số khách hàng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3.3",
+        "title": "Sales and Marketing Metrics (Chỉ số bán hàng và marketing)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3.4",
+        "title": "Operational Metrics and Assessments (Chỉ số và đánh giá vận hành)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.3.5",
+        "title": "Functionality (Chức năng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.5.4",
+        "title": "Confirm the Organization Can Continue with Evaluation (Xác nhận tổ chức có thể tiếp tục đánh giá)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6",
+        "title": "When and How to Validate Solution Results (Khi nào và cách xác nhận kết quả giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.1",
+        "title": "Surveys and Focus Groups (Khảo sát và nhóm tập trung)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.2",
+        "title": "Exploratory Testing and User Acceptance Testing Results (Kết quả kiểm thử khám phá và UAT)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.3",
+        "title": "Day-in-the-Life Testing Results (Kết quả kiểm thử ngày làm việc thực tế)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.4",
+        "title": "Integration Testing Results (Kết quả kiểm thử tích hợp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.5",
+        "title": "Expected vs. Actual Results for Functionality (Kết quả kỳ vọng so với thực tế cho chức năng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.6",
+        "title": "Expected vs. Actual Results for Nonfunctional Requirements (Kết quả kỳ vọng so với thực tế cho yêu cầu phi chức năng)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.6.7",
+        "title": "Outcome Measurements and Financial Calculation of Benefits (Đo lường kết quả và tính toán lợi ích tài chính)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.7",
+        "title": "Evaluate Acceptance Criteria and Address Defects (Đánh giá tiêu chí chấp nhận và xử lý lỗi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.7.1",
+        "title": "Comparison of Expected vs. Actual Results (So sánh kỳ vọng và thực tế)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.7.2",
+        "title": "Examine Tolerance Ranges and Exact Numbers (Xem xét khoảng dung sai và con số chính xác)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.7.3",
+        "title": "Log and Address Defects (Ghi nhận và xử lý lỗi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.8",
+        "title": "Facilitate the Go/No-Go Decision (Điều phối quyết định Go/No-Go)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.9",
+        "title": "Obtain Signoff of the Solution (Lấy phê duyệt chính thức cho giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10",
+        "title": "Evaluate the Long-Term Performance of the Solution (Đánh giá hiệu quả dài hạn của giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10.1",
+        "title": "Determine Metrics (Xác định chỉ số)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10.2",
+        "title": "Obtain Metrics and Measure Performance (Thu thập chỉ số và đo hiệu quả)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10.3",
+        "title": "Analyze Results (Phân tích kết quả)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10.4",
+        "title": "Assess Limitations of the Solution and Organization (Đánh giá giới hạn của giải pháp và tổ chức)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.10.5",
+        "title": "Recommend Approach to Improve Solution Performance (Đề xuất cách cải thiện hiệu quả giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "section_number": "6.11",
+        "title": "Solution Replacement or Phase Out (Thay thế hoặc loại bỏ giải pháp)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "X1",
+        "title": "Appendix X1 - Contributors and Reviewers (Phụ lục X1 - Người đóng góp và phản biện)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "X2",
+        "title": "Appendix X2 - Bibliography (Phụ lục X2 - Tài liệu tham khảo)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "G",
+        "title": "Glossary - How to Study the Terms (Thuật ngữ - Cách học thuật ngữ)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "G.1",
+        "title": "Key Terms for Elicitation and Analysis (Thuật ngữ chính cho khai thác và phân tích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "G.2",
+        "title": "Key Terms for Traceability and Change (Thuật ngữ chính cho truy vết và thay đổi)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "G.3",
+        "title": "Key Terms for Evaluation and Benefits (Thuật ngữ chính cho đánh giá và lợi ích)",
+        "in_print_html": true,
+        "same_order": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "section_number": "G.4",
+        "title": "Practical Glossary Study Method (Phương pháp học thuật ngữ thực tế)",
+        "in_print_html": true,
+        "same_order": true
+      }
+    ],
+    "note": "Every non-quiz learning section in content pages is reproduced in print.html in the same order with the same number and bilingual title."
+  },
+  "navigation_validation": {
+    "result": "PASS",
+    "checks": [
+      "index links",
+      "content page links",
+      "right-side TOC heading links",
+      "source-page anchors",
+      "Next Page links before quiz",
+      "Next Page links after quiz",
+      "print.html link",
+      "build-report.json link"
+    ]
+  },
+  "right_side_toc_validation": {
+    "result": "PASS",
+    "details": "Each content page includes a collapsible right-side TOC for current-page headings and source-page anchors. It is sticky on desktop, moves to top on mobile, wraps long titles, avoids overlap through CSS grid, excludes individual quiz questions, includes only the Generated Quiz heading, and is hidden only during browser print. print.html also has an on-screen outline hidden when printing."
+  },
+  "quiz_validation": {
+    "result": "PASS",
+    "details": [
+      {
+        "page": "01_chapter_4_elicitation_foundations.html",
+        "question_count": 10,
+        "hard": 5,
+        "hardest": 5,
+        "easy_or_medium": 0,
+        "correct_answer_positions": [
+          "B",
+          "A",
+          "B",
+          "B",
+          "C",
+          "B",
+          "B",
+          "B",
+          "B",
+          "B"
+        ],
+        "unique_questions": true
+      },
+      {
+        "page": "02_chapter_4_analysis_models_requirements.html",
+        "question_count": 10,
+        "hard": 5,
+        "hardest": 5,
+        "easy_or_medium": 0,
+        "correct_answer_positions": [
+          "A",
+          "C",
+          "A",
+          "A",
+          "B",
+          "B",
+          "B",
+          "B",
+          "B",
+          "B"
+        ],
+        "unique_questions": true
+      },
+      {
+        "page": "03_chapter_5_traceability_monitoring.html",
+        "question_count": 10,
+        "hard": 5,
+        "hardest": 5,
+        "easy_or_medium": 0,
+        "correct_answer_positions": [
+          "B",
+          "A",
+          "A",
+          "A",
+          "A",
+          "B",
+          "B",
+          "A",
+          "A",
+          "B"
+        ],
+        "unique_questions": true
+      },
+      {
+        "page": "04_chapter_6_solution_evaluation.html",
+        "question_count": 10,
+        "hard": 5,
+        "hardest": 5,
+        "easy_or_medium": 0,
+        "correct_answer_positions": [
+          "A",
+          "B",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        "unique_questions": true
+      },
+      {
+        "page": "05_appendices_glossary_reference.html",
+        "question_count": 10,
+        "hard": 5,
+        "hardest": 5,
+        "easy_or_medium": 0,
+        "correct_answer_positions": [
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A",
+          "A"
+        ],
+        "unique_questions": true
+      }
+    ]
+  },
+  "deduplication_validation": {
+    "result": "PASS_WITH_STRUCTURAL_LABEL_EXCLUSION",
+    "note": "Print.html intentionally mirrors the content pages and is excluded from duplicate-failure checks. Repeated structural labels such as Checklist, Practical example, and Key takeaway are treated as required learning scaffolding. Quiz questions were manually varied by scenario and decision focus."
+  },
+  "copyright_fidelity_note": "The output is a non-substitutive study companion. It paraphrases, summarizes, explains, and teaches the selected source material; it avoids copying long passages verbatim and excludes the full index and full glossary reproduction.",
+  "limitations": [
+    "Source page anchors identify source page references rather than embedding original PDF page images.",
+    "Estimated printed page count depends on browser, paper size, margins, and print settings."
+  ]
+}

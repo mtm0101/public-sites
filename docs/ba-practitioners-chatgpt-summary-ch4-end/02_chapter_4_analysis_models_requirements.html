@@ -1,0 +1,857 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 4B - Analysis, Models, Documentation, and Agreement (Chương 4B - Phân tích, mô hình, tài liệu hóa và đồng thuận)</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header"><div class="brand">BA Practice Guide Study Site</div><nav><a href="index.html">Index</a><a href="print.html">Print</a><a href="build-report.json">Build report</a><a href="01_chapter_4_elicitation_foundations.html">4: Requirements Elicitation Foundations and Techniques</a><a class="active" href="02_chapter_4_analysis_models_requirements.html">4: Analysis, Models, Documentation, and Agreement</a><a href="03_chapter_5_traceability_monitoring.html">5: Traceability and Monitoring</a><a href="04_chapter_6_solution_evaluation.html">6: Solution Evaluation</a><a href="05_appendices_glossary_reference.html">X: Appendices and Glossary Reference</a></nav></header><div class="page-layout">
+<details class="right-toc" open><summary>On this page</summary><nav><a href="#page-title">Page title</a>
+<a class="" href="#s-4-9">4.9 Analyze Requirements <small>p.88</small></a>
+<a class="source-link" href="#source-page-88-s-4-9">↳ source p.88</a>
+<a class=" toc-l3" href="#s-4-9-1">4.9.1 Plan for Analysis <small>p.88</small></a>
+<a class="source-link toc-l3" href="#source-page-88-s-4-9-1">↳ source p.88</a>
+<a class=" toc-l4" href="#s-4-9-1-1">4.9.1.1 Analysis Defined <small>p.88</small></a>
+<a class=" toc-l4" href="#s-4-9-1-2">4.9.1.2 Thinking Ahead about Analysis <small>p.89</small></a>
+<a class=" toc-l4" href="#s-4-9-1-3">4.9.1.3 What to Analyze <small>p.89</small></a>
+<a class="" href="#s-4-10">4.10 Model and Refine Requirements <small>p.89</small></a>
+<a class="source-link" href="#source-page-89-s-4-10">↳ source p.89</a>
+<a class=" toc-l3" href="#s-4-10-1">4.10.1 Description of Models <small>p.89</small></a>
+<a class="source-link toc-l3" href="#source-page-89-s-4-10-1">↳ source p.89</a>
+<a class=" toc-l3" href="#s-4-10-2">4.10.2 Purpose of Models <small>p.90</small></a>
+<a class="source-link toc-l3" href="#source-page-90-s-4-10-2">↳ source p.90</a>
+<a class=" toc-l3" href="#s-4-10-3">4.10.3 Categories of Models <small>p.90</small></a>
+<a class="source-link toc-l3" href="#source-page-90-s-4-10-3">↳ source p.90</a>
+<a class=" toc-l3" href="#s-4-10-4">4.10.4 Selection of Models <small>p.90</small></a>
+<a class="source-link toc-l3" href="#source-page-90-s-4-10-4">↳ source p.90</a>
+<a class=" toc-l3" href="#s-4-10-5">4.10.5 Use Models to Refine Requirements <small>p.91</small></a>
+<a class="source-link toc-l3" href="#source-page-91-s-4-10-5">↳ source p.91</a>
+<a class=" toc-l3" href="#s-4-10-6">4.10.6 Modeling Languages <small>p.91</small></a>
+<a class="source-link toc-l3" href="#source-page-91-s-4-10-6">↳ source p.91</a>
+<a class=" toc-l3" href="#s-4-10-7">4.10.7 Scope Models <small>p.92</small></a>
+<a class="source-link toc-l3" href="#source-page-92-s-4-10-7">↳ source p.92</a>
+<a class=" toc-l4" href="#s-4-10-7-1">4.10.7.1 Goal Model and Business Objective Model <small>p.92</small></a>
+<a class=" toc-l4" href="#s-4-10-7-2">4.10.7.2 Ecosystem Map <small>p.94</small></a>
+<a class=" toc-l4" href="#s-4-10-7-3">4.10.7.3 Context Diagram <small>p.95</small></a>
+<a class=" toc-l4" href="#s-4-10-7-4">4.10.7.4 Feature Model <small>p.96</small></a>
+<a class=" toc-l4" href="#s-4-10-7-5">4.10.7.5 Use Case Diagram <small>p.97</small></a>
+<a class=" toc-l3" href="#s-4-10-8">4.10.8 Process Models <small>p.98</small></a>
+<a class="source-link toc-l3" href="#source-page-98-s-4-10-8">↳ source p.98</a>
+<a class=" toc-l4" href="#s-4-10-8-1">4.10.8.1 Process Flow <small>p.99</small></a>
+<a class=" toc-l4" href="#s-4-10-8-2">4.10.8.2 Use Case <small>p.100</small></a>
+<a class=" toc-l4" href="#s-4-10-8-3">4.10.8.3 User Story <small>p.101</small></a>
+<a class=" toc-l3" href="#s-4-10-9">4.10.9 Rule Models <small>p.104</small></a>
+<a class="source-link toc-l3" href="#source-page-104-s-4-10-9">↳ source p.104</a>
+<a class=" toc-l4" href="#s-4-10-9-1">4.10.9.1 Business Rules Catalog <small>p.104</small></a>
+<a class=" toc-l4" href="#s-4-10-9-2">4.10.9.2 Decision Tree and Decision Table <small>p.105</small></a>
+<a class=" toc-l3" href="#s-4-10-10">4.10.10 Data Models <small>p.106</small></a>
+<a class="source-link toc-l3" href="#source-page-106-s-4-10-10">↳ source p.106</a>
+<a class=" toc-l4" href="#s-4-10-10-1">4.10.10.1 Entity Relationship Diagram <small>p.107</small></a>
+<a class=" toc-l4" href="#s-4-10-10-2">4.10.10.2 Data Flow Diagrams <small>p.108</small></a>
+<a class=" toc-l4" href="#s-4-10-10-3">4.10.10.3 Data Dictionary <small>p.108</small></a>
+<a class=" toc-l4" href="#s-4-10-10-4">4.10.10.4 State Table and State Diagram <small>p.110</small></a>
+<a class=" toc-l3" href="#s-4-10-11">4.10.11 Interface Models <small>p.111</small></a>
+<a class="source-link toc-l3" href="#source-page-111-s-4-10-11">↳ source p.111</a>
+<a class=" toc-l4" href="#s-4-10-11-1">4.10.11.1 Report Table <small>p.111</small></a>
+<a class=" toc-l4" href="#s-4-10-11-2">4.10.11.2 System Interface Table <small>p.114</small></a>
+<a class=" toc-l4" href="#s-4-10-11-3">4.10.11.3 User Interface Flow <small>p.114</small></a>
+<a class=" toc-l4" href="#s-4-10-11-4">4.10.11.4 Wireframes and Display-Action-Response <small>p.115</small></a>
+<a class="" href="#s-4-11">4.11 Document the Solution Requirements <small>p.118</small></a>
+<a class="source-link" href="#source-page-118-s-4-11">↳ source p.118</a>
+<a class=" toc-l3" href="#s-4-11-1">4.11.1 Why Documentation is Important <small>p.118</small></a>
+<a class="source-link toc-l3" href="#source-page-118-s-4-11-1">↳ source p.118</a>
+<a class=" toc-l3" href="#s-4-11-2">4.11.2 Business Requirements Document <small>p.118</small></a>
+<a class="source-link toc-l3" href="#source-page-118-s-4-11-2">↳ source p.118</a>
+<a class=" toc-l3" href="#s-4-11-3">4.11.3 The Solution Documentation <small>p.119</small></a>
+<a class="source-link toc-l3" href="#source-page-119-s-4-11-3">↳ source p.119</a>
+<a class=" toc-l4" href="#s-4-11-3-1">4.11.3.1 Requirements <small>p.119</small></a>
+<a class=" toc-l4" href="#s-4-11-3-2">4.11.3.2 Categorization <small>p.120</small></a>
+<a class=" toc-l3" href="#s-4-11-4">4.11.4 Requirements Specification <small>p.120</small></a>
+<a class="source-link toc-l3" href="#source-page-120-s-4-11-4">↳ source p.120</a>
+<a class=" toc-l4" href="#s-4-11-4-1">4.11.4.1 Documenting Assumptions <small>p.121</small></a>
+<a class=" toc-l4" href="#s-4-11-4-2">4.11.4.2 Documenting Constraints <small>p.121</small></a>
+<a class=" toc-l3" href="#s-4-11-5">4.11.5 Guidelines for Writing Requirements <small>p.122</small></a>
+<a class="source-link toc-l3" href="#source-page-122-s-4-11-5">↳ source p.122</a>
+<a class=" toc-l4" href="#s-4-11-5-1">4.11.5.1 Functional Requirements <small>p.122</small></a>
+<a class=" toc-l3" href="#s-4-11-6">4.11.6 Prioritizing Requirements <small>p.128</small></a>
+<a class="source-link toc-l3" href="#source-page-128-s-4-11-6">↳ source p.128</a>
+<a class=" toc-l4" href="#s-4-11-6-1">4.11.6.1 Prioritization Schemes <small>p.128</small></a>
+<a class=" toc-l3" href="#s-4-11-7">4.11.7 Technical Requirements Specification <small>p.129</small></a>
+<a class="source-link toc-l3" href="#source-page-129-s-4-11-7">↳ source p.129</a>
+<a class=" toc-l3" href="#s-4-11-8">4.11.8 Documenting with Use Cases <small>p.130</small></a>
+<a class="source-link toc-l3" href="#source-page-130-s-4-11-8">↳ source p.130</a>
+<a class=" toc-l3" href="#s-4-11-9">4.11.9 Documenting with User Stories <small>p.130</small></a>
+<a class="source-link toc-l3" href="#source-page-130-s-4-11-9">↳ source p.130</a>
+<a class=" toc-l3" href="#s-4-11-10">4.11.10 Backlog Items <small>p.130</small></a>
+<a class="source-link toc-l3" href="#source-page-130-s-4-11-10">↳ source p.130</a>
+<a class="" href="#s-4-12">4.12 Validate Requirements <small>p.130</small></a>
+<a class="source-link" href="#source-page-130-s-4-12">↳ source p.130</a>
+<a class=" toc-l3" href="#s-4-12-1">4.12.1 The Concept of Continual Confirmation <small>p.131</small></a>
+<a class="source-link toc-l3" href="#source-page-131-s-4-12-1">↳ source p.131</a>
+<a class=" toc-l3" href="#s-4-12-2">4.12.2 Requirements Walkthrough <small>p.131</small></a>
+<a class="source-link toc-l3" href="#source-page-131-s-4-12-2">↳ source p.131</a>
+<a class="" href="#s-4-13">4.13 Verify Requirements <small>p.132</small></a>
+<a class="source-link" href="#source-page-132-s-4-13">↳ source p.132</a>
+<a class=" toc-l3" href="#s-4-13-1">4.13.1 Peer Review <small>p.132</small></a>
+<a class="source-link toc-l3" href="#source-page-132-s-4-13-1">↳ source p.132</a>
+<a class=" toc-l3" href="#s-4-13-2">4.13.2 Inspection <small>p.133</small></a>
+<a class="source-link toc-l3" href="#source-page-133-s-4-13-2">↳ source p.133</a>
+<a class="" href="#s-4-14">4.14 Approval Sessions <small>p.133</small></a>
+<a class="source-link" href="#source-page-133-s-4-14">↳ source p.133</a>
+<a class="" href="#s-4-15">4.15 Resolve Requirements-Related Conflicts <small>p.134</small></a>
+<a class="source-link" href="#source-page-134-s-4-15">↳ source p.134</a>
+<a class=" toc-l3" href="#s-4-15-1">4.15.1 Delphi <small>p.134</small></a>
+<a class="source-link toc-l3" href="#source-page-134-s-4-15-1">↳ source p.134</a>
+<a class=" toc-l3" href="#s-4-15-2">4.15.2 Multivoting <small>p.135</small></a>
+<a class="source-link toc-l3" href="#source-page-135-s-4-15-2">↳ source p.135</a>
+<a class=" toc-l3" href="#s-4-15-3">4.15.3 Weighted Ranking <small>p.135</small></a>
+<a class="source-link toc-l3" href="#source-page-135-s-4-15-3">↳ source p.135</a>
+<a href="#generated-quiz">Generated Quiz</a></nav></details>
+<main class="content">
+<h1 id="page-title"><a class="anchor" href="#page-title">#</a> Chapter 4B - Analysis, Models, Documentation, and Agreement (Chương 4B - Phân tích, mô hình, tài liệu hóa và đồng thuận)</h1>
+<p class="scope-note"><strong>Scope note:</strong> This page follows the second half of Chapter 4. After information is elicited, the work shifts to analysis: refining raw information, selecting models, documenting solution requirements, prioritizing, validating, verifying, obtaining approval, and resolving conflicts.</p>
+<section class="summary-card"><h2>Learning map (Bản đồ học tập)</h2><ul>
+<li>Analysis makes raw input coherent, testable, and useful for solution definition.</li>
+<li>Models expose gaps and conflicts that prose alone often hides.</li>
+<li>Requirement documentation should match the project life cycle and governance need.</li>
+<li>Validation asks whether the right need is represented; verification asks whether the requirement is well formed.</li>
+<li>Conflict resolution benefits from structured techniques when discussion alone stalls.</li>
+</ul></section>
+<section class="learning-section">
+<h2 id="s-4-9"><a class="anchor" href="#s-4-9">#</a> 4.9 Analyze Requirements <span>(Phân tích yêu cầu)</span></h2>
+<p class="source-note" id="source-page-88-s-4-9">Source page anchor: p. 88 · <a href="#source-page-88-s-4-9">direct anchor</a></p>
+<p>In practice, <strong>Analyze Requirements</strong> addresses transforming elicited information into coherent, testable, and solution-relevant requirements. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Analyze Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-9-1"><a class="anchor" href="#s-4-9-1">#</a> 4.9.1 Plan for Analysis <span>(Lập kế hoạch phân tích)</span></h3>
+<p class="source-note" id="source-page-88-s-4-9-1">Source page anchor: p. 88 · <a href="#source-page-88-s-4-9-1">direct anchor</a></p>
+<p>For a project team, <strong>Plan for Analysis</strong> addresses deciding what must be examined, which models help, and who must participate. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Plan for Analysis when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-9-1-1"><a class="anchor" href="#s-4-9-1-1">#</a> 4.9.1.1 Analysis Defined <span>(Định nghĩa phân tích)</span></h4>
+<p class="source-note" id="source-page-88-s-4-9-1-1">Source page anchor: p. 88 · <a href="#source-page-88-s-4-9-1-1">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Analysis Defined</strong> helps the analyst address breaking information apart and recombining it to reveal meaning, relationships, and implications. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Analysis Defined is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-9-1-2"><a class="anchor" href="#s-4-9-1-2">#</a> 4.9.1.2 Thinking Ahead about Analysis <span>(Tư duy trước về phân tích)</span></h4>
+<p class="source-note" id="source-page-89-s-4-9-1-2">Source page anchor: p. 89 · <a href="#source-page-89-s-4-9-1-2">direct anchor</a></p>
+<p>On a real initiative, <strong>Thinking Ahead about Analysis</strong> helps the analyst address planning how elicited data will later be sorted, modeled, reviewed, and approved. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Thinking Ahead about Analysis is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-9-1-3"><a class="anchor" href="#s-4-9-1-3">#</a> 4.9.1.3 What to Analyze <span>(Nội dung cần phân tích)</span></h4>
+<p class="source-note" id="source-page-89-s-4-9-1-3">Source page anchor: p. 89 · <a href="#source-page-89-s-4-9-1-3">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>What to Analyze</strong> helps the analyst address examining objectives, business rules, data, interfaces, processes, constraints, and stakeholder needs. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> What to Analyze is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-10"><a class="anchor" href="#s-4-10">#</a> 4.10 Model and Refine Requirements <span>(Mô hình hóa và tinh chỉnh yêu cầu)</span></h2>
+<p class="source-note" id="source-page-89-s-4-10">Source page anchor: p. 89 · <a href="#source-page-89-s-4-10">direct anchor</a></p>
+<p>The practitioner should treat this as Model and Refine Requirements converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<table><thead><tr><th>Model perspective</th><th>Useful questions it answers</th><th>Typical artifact</th></tr></thead><tbody><tr><td>Scope</td><td>What is inside or outside the solution?</td><td>Context diagram, feature model, ecosystem map</td></tr><tr><td>Process</td><td>How does work move from trigger to outcome?</td><td>Process flow, use case, user story map</td></tr><tr><td>Rule</td><td>Which conditions drive decisions?</td><td>Decision table, business rules catalog</td></tr><tr><td>Data</td><td>What information exists and how does it relate?</td><td>Entity model, data dictionary, state diagram</td></tr><tr><td>Interface</td><td>How do users or systems exchange information?</td><td>Wireframe, report table, system interface table</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Model and Refine Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-1"><a class="anchor" href="#s-4-10-1">#</a> 4.10.1 Description of Models <span>(Mô tả về mô hình)</span></h3>
+<p class="source-note" id="source-page-89-s-4-10-1">Source page anchor: p. 89 · <a href="#source-page-89-s-4-10-1">direct anchor</a></p>
+<p>When applied well, Description of Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Description of Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-2"><a class="anchor" href="#s-4-10-2">#</a> 4.10.2 Purpose of Models <span>(Mục đích của mô hình)</span></h3>
+<p class="source-note" id="source-page-90-s-4-10-2">Source page anchor: p. 90 · <a href="#source-page-90-s-4-10-2">direct anchor</a></p>
+<p>The business value of this topic is that Purpose of Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Purpose of Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-3"><a class="anchor" href="#s-4-10-3">#</a> 4.10.3 Categories of Models <span>(Các nhóm mô hình)</span></h3>
+<p class="source-note" id="source-page-90-s-4-10-3">Source page anchor: p. 90 · <a href="#source-page-90-s-4-10-3">direct anchor</a></p>
+<p>This idea matters most when Categories of Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Categories of Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-4"><a class="anchor" href="#s-4-10-4">#</a> 4.10.4 Selection of Models <span>(Lựa chọn mô hình)</span></h3>
+<p class="source-note" id="source-page-90-s-4-10-4">Source page anchor: p. 90 · <a href="#source-page-90-s-4-10-4">direct anchor</a></p>
+<p>A mature team uses this topic to Selection of Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Selection of Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-5"><a class="anchor" href="#s-4-10-5">#</a> 4.10.5 Use Models to Refine Requirements <span>(Dùng mô hình để tinh chỉnh yêu cầu)</span></h3>
+<p class="source-note" id="source-page-91-s-4-10-5">Source page anchor: p. 91 · <a href="#source-page-91-s-4-10-5">direct anchor</a></p>
+<p>In practice, Use Models to Refine Requirements converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Use Models to Refine Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-6"><a class="anchor" href="#s-4-10-6">#</a> 4.10.6 Modeling Languages <span>(Ngôn ngữ mô hình hóa)</span></h3>
+<p class="source-note" id="source-page-91-s-4-10-6">Source page anchor: p. 91 · <a href="#source-page-91-s-4-10-6">direct anchor</a></p>
+<p>For a project team, Modeling Languages converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Modeling Languages when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-7"><a class="anchor" href="#s-4-10-7">#</a> 4.10.7 Scope Models <span>(Mô hình phạm vi)</span></h3>
+<p class="source-note" id="source-page-92-s-4-10-7">Source page anchor: p. 92 · <a href="#source-page-92-s-4-10-7">direct anchor</a></p>
+<p>From a business analysis perspective, Scope Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Scope Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-7-1"><a class="anchor" href="#s-4-10-7-1">#</a> 4.10.7.1 Goal Model and Business Objective Model <span>(Mô hình mục tiêu và mục tiêu kinh doanh)</span></h4>
+<p class="source-note" id="source-page-92-s-4-10-7-1">Source page anchor: p. 92 · <a href="#source-page-92-s-4-10-7-1">direct anchor</a></p>
+<p>On a real initiative, <strong>Goal Model and Business Objective Model</strong> helps the analyst address linking requested work to business results and measurable objectives. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Goal Model and Business Objective Model is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-7-2"><a class="anchor" href="#s-4-10-7-2">#</a> 4.10.7.2 Ecosystem Map <span>(Bản đồ hệ sinh thái)</span></h4>
+<p class="source-note" id="source-page-94-s-4-10-7-2">Source page anchor: p. 94 · <a href="#source-page-94-s-4-10-7-2">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Ecosystem Map</strong> helps the analyst address showing people, systems, organizations, and channels around the solution. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Ecosystem Map is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-7-3"><a class="anchor" href="#s-4-10-7-3">#</a> 4.10.7.3 Context Diagram <span>(Sơ đồ ngữ cảnh)</span></h4>
+<p class="source-note" id="source-page-95-s-4-10-7-3">Source page anchor: p. 95 · <a href="#source-page-95-s-4-10-7-3">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Context Diagram</strong> helps the analyst address drawing the solution boundary and its external interfaces. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Context Diagram is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-7-4"><a class="anchor" href="#s-4-10-7-4">#</a> 4.10.7.4 Feature Model <span>(Mô hình tính năng)</span></h4>
+<p class="source-note" id="source-page-96-s-4-10-7-4">Source page anchor: p. 96 · <a href="#source-page-96-s-4-10-7-4">direct anchor</a></p>
+<p>When applied well, <strong>Feature Model</strong> helps the analyst address organizing features into a structured view of solution capability. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Feature Model is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-7-5"><a class="anchor" href="#s-4-10-7-5">#</a> 4.10.7.5 Use Case Diagram <span>(Sơ đồ ca sử dụng)</span></h4>
+<p class="source-note" id="source-page-97-s-4-10-7-5">Source page anchor: p. 97 · <a href="#source-page-97-s-4-10-7-5">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Use Case Diagram</strong> helps the analyst address showing actors and their interactions with the solution. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Case Diagram is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-8"><a class="anchor" href="#s-4-10-8">#</a> 4.10.8 Process Models <span>(Mô hình quy trình)</span></h3>
+<p class="source-note" id="source-page-98-s-4-10-8">Source page anchor: p. 98 · <a href="#source-page-98-s-4-10-8">direct anchor</a></p>
+<p>This idea matters most when Process Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Process Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-8-1"><a class="anchor" href="#s-4-10-8-1">#</a> 4.10.8.1 Process Flow <span>(Luồng quy trình)</span></h4>
+<p class="source-note" id="source-page-99-s-4-10-8-1">Source page anchor: p. 99 · <a href="#source-page-99-s-4-10-8-1">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Process Flow</strong> helps the analyst address mapping steps, decisions, roles, events, and bottlenecks. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Process Flow is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-8-2"><a class="anchor" href="#s-4-10-8-2">#</a> 4.10.8.2 Use Case <span>(Ca sử dụng)</span></h4>
+<p class="source-note" id="source-page-100-s-4-10-8-2">Source page anchor: p. 100 · <a href="#source-page-100-s-4-10-8-2">direct anchor</a></p>
+<p>In practice, <strong>Use Case</strong> helps the analyst address documenting user-system interaction as a goal-based sequence. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Case is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-8-3"><a class="anchor" href="#s-4-10-8-3">#</a> 4.10.8.3 User Story <span>(Câu chuyện người dùng)</span></h4>
+<p class="source-note" id="source-page-101-s-4-10-8-3">Source page anchor: p. 101 · <a href="#source-page-101-s-4-10-8-3">direct anchor</a></p>
+<p>For a project team, <strong>User Story</strong> helps the analyst address capturing a user goal and value statement for adaptive delivery. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> User Story is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-9"><a class="anchor" href="#s-4-10-9">#</a> 4.10.9 Rule Models <span>(Mô hình quy tắc)</span></h3>
+<p class="source-note" id="source-page-104-s-4-10-9">Source page anchor: p. 104 · <a href="#source-page-104-s-4-10-9">direct anchor</a></p>
+<p>From a business analysis perspective, Rule Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Rule Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-9-1"><a class="anchor" href="#s-4-10-9-1">#</a> 4.10.9.1 Business Rules Catalog <span>(Danh mục quy tắc nghiệp vụ)</span></h4>
+<p class="source-note" id="source-page-104-s-4-10-9-1">Source page anchor: p. 104 · <a href="#source-page-104-s-4-10-9-1">direct anchor</a></p>
+<p>On a real initiative, <strong>Business Rules Catalog</strong> helps the analyst address listing rules separately from process or interface descriptions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Business Rules Catalog is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-9-2"><a class="anchor" href="#s-4-10-9-2">#</a> 4.10.9.2 Decision Tree and Decision Table <span>(Cây quyết định và bảng quyết định)</span></h4>
+<p class="source-note" id="source-page-105-s-4-10-9-2">Source page anchor: p. 105 · <a href="#source-page-105-s-4-10-9-2">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Decision Tree and Decision Table</strong> helps the analyst address showing condition combinations and resulting outcomes. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Decision Tree and Decision Table is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-10"><a class="anchor" href="#s-4-10-10">#</a> 4.10.10 Data Models <span>(Mô hình dữ liệu)</span></h3>
+<p class="source-note" id="source-page-106-s-4-10-10">Source page anchor: p. 106 · <a href="#source-page-106-s-4-10-10">direct anchor</a></p>
+<p>The practitioner should treat this as Data Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Data Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-10-1"><a class="anchor" href="#s-4-10-10-1">#</a> 4.10.10.1 Entity Relationship Diagram <span>(Sơ đồ quan hệ thực thể)</span></h4>
+<p class="source-note" id="source-page-107-s-4-10-10-1">Source page anchor: p. 107 · <a href="#source-page-107-s-4-10-10-1">direct anchor</a></p>
+<p>When applied well, <strong>Entity Relationship Diagram</strong> helps the analyst address showing business entities and relationships. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Entity Relationship Diagram is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-10-2"><a class="anchor" href="#s-4-10-10-2">#</a> 4.10.10.2 Data Flow Diagrams <span>(Sơ đồ luồng dữ liệu)</span></h4>
+<p class="source-note" id="source-page-108-s-4-10-10-2">Source page anchor: p. 108 · <a href="#source-page-108-s-4-10-10-2">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Data Flow Diagrams</strong> helps the analyst address showing how information moves between sources, processes, stores, and destinations. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Data Flow Diagrams is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-10-3"><a class="anchor" href="#s-4-10-10-3">#</a> 4.10.10.3 Data Dictionary <span>(Từ điển dữ liệu)</span></h4>
+<p class="source-note" id="source-page-108-s-4-10-10-3">Source page anchor: p. 108 · <a href="#source-page-108-s-4-10-10-3">direct anchor</a></p>
+<p>This idea matters most when <strong>Data Dictionary</strong> helps the analyst address defining data elements so teams use terms consistently. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Data Dictionary is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-10-4"><a class="anchor" href="#s-4-10-10-4">#</a> 4.10.10.4 State Table and State Diagram <span>(Bảng trạng thái và sơ đồ trạng thái)</span></h4>
+<p class="source-note" id="source-page-110-s-4-10-10-4">Source page anchor: p. 110 · <a href="#source-page-110-s-4-10-10-4">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>State Table and State Diagram</strong> helps the analyst address describing allowed state changes and triggers. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> State Table and State Diagram is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-10-11"><a class="anchor" href="#s-4-10-11">#</a> 4.10.11 Interface Models <span>(Mô hình giao diện)</span></h3>
+<p class="source-note" id="source-page-111-s-4-10-11">Source page anchor: p. 111 · <a href="#source-page-111-s-4-10-11">direct anchor</a></p>
+<p>In practice, Interface Models converts complex requirement information into a representation that people can inspect. Models are not decoration; they are thinking tools that expose missing actors, inconsistent terms, hidden business rules, unclear boundaries, and unrealistic assumptions.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use a model when prose is becoming long, ambiguous, or hard to validate. A model is also appropriate when stakeholders disagree because it forces assumptions to become visible.</p></section><section><h4>How to apply</h4><p>Select the smallest model that answers the decision question, draft it from elicited information, review it with the right stakeholders, and translate discoveries into requirement updates.</p></section></div>
+<h4>Practical example</h4>
+<p>A user says, "providers need better search." A context diagram shows external data sources, a feature model separates filters from ranking, and a decision table clarifies when fallback results should appear.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Selecting a model because it looks impressive rather than because it answers a question</li><li>Failing to validate diagrams with stakeholders</li><li>Letting models become outdated while requirements change</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Name the decision the model supports</li><li>Choose a model fit for the audience</li><li>Validate the model with stakeholders</li><li>Update requirements based on gaps found</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Interface Models when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-11-1"><a class="anchor" href="#s-4-10-11-1">#</a> 4.10.11.1 Report Table <span>(Bảng báo cáo)</span></h4>
+<p class="source-note" id="source-page-111-s-4-10-11-1">Source page anchor: p. 111 · <a href="#source-page-111-s-4-10-11-1">direct anchor</a></p>
+<p>For a project team, <strong>Report Table</strong> helps the analyst address defining report fields, grouping, filtering, sorting, and calculations. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Report Table is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-11-2"><a class="anchor" href="#s-4-10-11-2">#</a> 4.10.11.2 System Interface Table <span>(Bảng giao diện hệ thống)</span></h4>
+<p class="source-note" id="source-page-114-s-4-10-11-2">Source page anchor: p. 114 · <a href="#source-page-114-s-4-10-11-2">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>System Interface Table</strong> helps the analyst address describing data exchanged between systems and related protocols. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> System Interface Table is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-11-3"><a class="anchor" href="#s-4-10-11-3">#</a> 4.10.11.3 User Interface Flow <span>(Luồng giao diện người dùng)</span></h4>
+<p class="source-note" id="source-page-114-s-4-10-11-3">Source page anchor: p. 114 · <a href="#source-page-114-s-4-10-11-3">direct anchor</a></p>
+<p>On a real initiative, <strong>User Interface Flow</strong> helps the analyst address mapping navigation paths across screens or interaction states. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> User Interface Flow is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-10-11-4"><a class="anchor" href="#s-4-10-11-4">#</a> 4.10.11.4 Wireframes and Display-Action-Response <span>(Khung giao diện và mô hình Hiển thị-Hành động-Phản hồi)</span></h4>
+<p class="source-note" id="source-page-115-s-4-10-11-4">Source page anchor: p. 115 · <a href="#source-page-115-s-4-10-11-4">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Wireframes and Display-Action-Response</strong> helps the analyst address showing visual layout and expected response to user actions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Wireframes and Display-Action-Response is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-11"><a class="anchor" href="#s-4-11">#</a> 4.11 Document the Solution Requirements <span>(Tài liệu hóa yêu cầu giải pháp)</span></h2>
+<p class="source-note" id="source-page-118-s-4-11">Source page anchor: p. 118 · <a href="#source-page-118-s-4-11">direct anchor</a></p>
+<p>The practitioner should treat this as Document the Solution Requirements is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<table><thead><tr><th>Quality check</th><th>Good requirement sign</th><th>Weak requirement symptom</th></tr></thead><tbody><tr><td>Clear</td><td>One reader can explain the same meaning as another</td><td>Vague adjectives such as fast, user-friendly, robust</td></tr><tr><td>Complete</td><td>Contains enough context for design and testing</td><td>Missing actors, triggers, rules, or exception handling</td></tr><tr><td>Consistent</td><td>Does not conflict with other approved information</td><td>Different terms for the same concept</td></tr><tr><td>Measurable</td><td>Can be verified by review, test, demo, or measurement</td><td>No acceptance threshold or observable result</td></tr><tr><td>Necessary</td><td>Links to a stakeholder need or business objective</td><td>Requested because it is interesting, not because it is needed</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Document the Solution Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-1"><a class="anchor" href="#s-4-11-1">#</a> 4.11.1 Why Documentation is Important <span>(Vì sao tài liệu hóa quan trọng)</span></h3>
+<p class="source-note" id="source-page-118-s-4-11-1">Source page anchor: p. 118 · <a href="#source-page-118-s-4-11-1">direct anchor</a></p>
+<p>When applied well, Why Documentation is Important is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Why Documentation is Important when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-2"><a class="anchor" href="#s-4-11-2">#</a> 4.11.2 Business Requirements Document <span>(Tài liệu yêu cầu kinh doanh)</span></h3>
+<p class="source-note" id="source-page-118-s-4-11-2">Source page anchor: p. 118 · <a href="#source-page-118-s-4-11-2">direct anchor</a></p>
+<p>The business value of this topic is that Business Requirements Document is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Business Requirements Document when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-3"><a class="anchor" href="#s-4-11-3">#</a> 4.11.3 The Solution Documentation <span>(Tài liệu giải pháp)</span></h3>
+<p class="source-note" id="source-page-119-s-4-11-3">Source page anchor: p. 119 · <a href="#source-page-119-s-4-11-3">direct anchor</a></p>
+<p>This idea matters most when The Solution Documentation is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use The Solution Documentation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-3-1"><a class="anchor" href="#s-4-11-3-1">#</a> 4.11.3.1 Requirements <span>(Yêu cầu)</span></h4>
+<p class="source-note" id="source-page-119-s-4-11-3-1">Source page anchor: p. 119 · <a href="#source-page-119-s-4-11-3-1">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Requirements</strong> helps the analyst address writing requirement statements that communicate needed behavior or qualities. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Requirements is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-3-2"><a class="anchor" href="#s-4-11-3-2">#</a> 4.11.3.2 Categorization <span>(Phân loại)</span></h4>
+<p class="source-note" id="source-page-120-s-4-11-3-2">Source page anchor: p. 120 · <a href="#source-page-120-s-4-11-3-2">direct anchor</a></p>
+<p>In practice, <strong>Categorization</strong> helps the analyst address grouping requirements by type, feature, stakeholder, release, or priority. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Categorization is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-4"><a class="anchor" href="#s-4-11-4">#</a> 4.11.4 Requirements Specification <span>(Đặc tả yêu cầu)</span></h3>
+<p class="source-note" id="source-page-120-s-4-11-4">Source page anchor: p. 120 · <a href="#source-page-120-s-4-11-4">direct anchor</a></p>
+<p>For a project team, Requirements Specification is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Requirements Specification when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-4-1"><a class="anchor" href="#s-4-11-4-1">#</a> 4.11.4.1 Documenting Assumptions <span>(Ghi nhận giả định)</span></h4>
+<p class="source-note" id="source-page-121-s-4-11-4-1">Source page anchor: p. 121 · <a href="#source-page-121-s-4-11-4-1">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Documenting Assumptions</strong> helps the analyst address making uncertain beliefs visible so they can be tested. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Documenting Assumptions is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-4-2"><a class="anchor" href="#s-4-11-4-2">#</a> 4.11.4.2 Documenting Constraints <span>(Ghi nhận ràng buộc)</span></h4>
+<p class="source-note" id="source-page-121-s-4-11-4-2">Source page anchor: p. 121 · <a href="#source-page-121-s-4-11-4-2">direct anchor</a></p>
+<p>On a real initiative, <strong>Documenting Constraints</strong> helps the analyst address capturing limits that shape acceptable solutions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Documenting Constraints is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-5"><a class="anchor" href="#s-4-11-5">#</a> 4.11.5 Guidelines for Writing Requirements <span>(Hướng dẫn viết yêu cầu)</span></h3>
+<p class="source-note" id="source-page-122-s-4-11-5">Source page anchor: p. 122 · <a href="#source-page-122-s-4-11-5">direct anchor</a></p>
+<p>A useful way to read this topic is that Guidelines for Writing Requirements is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Guidelines for Writing Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-5-1"><a class="anchor" href="#s-4-11-5-1">#</a> 4.11.5.1 Functional Requirements <span>(Yêu cầu chức năng)</span></h4>
+<p class="source-note" id="source-page-122-s-4-11-5-1">Source page anchor: p. 122 · <a href="#source-page-122-s-4-11-5-1">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Functional Requirements</strong> helps the analyst address specifying product behavior and user/system interactions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Functional Requirements is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-6"><a class="anchor" href="#s-4-11-6">#</a> 4.11.6 Prioritizing Requirements <span>(Ưu tiên hóa yêu cầu)</span></h3>
+<p class="source-note" id="source-page-128-s-4-11-6">Source page anchor: p. 128 · <a href="#source-page-128-s-4-11-6">direct anchor</a></p>
+<p>When applied well, Prioritizing Requirements is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Prioritizing Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-11-6-1"><a class="anchor" href="#s-4-11-6-1">#</a> 4.11.6.1 Prioritization Schemes <span>(Các phương pháp ưu tiên hóa)</span></h4>
+<p class="source-note" id="source-page-128-s-4-11-6-1">Source page anchor: p. 128 · <a href="#source-page-128-s-4-11-6-1">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Prioritization Schemes</strong> helps the analyst address using simple or weighted approaches to make trade-offs explicit. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Prioritization Schemes is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-7"><a class="anchor" href="#s-4-11-7">#</a> 4.11.7 Technical Requirements Specification <span>(Đặc tả yêu cầu kỹ thuật)</span></h3>
+<p class="source-note" id="source-page-129-s-4-11-7">Source page anchor: p. 129 · <a href="#source-page-129-s-4-11-7">direct anchor</a></p>
+<p>This idea matters most when Technical Requirements Specification is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Technical Requirements Specification when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-8"><a class="anchor" href="#s-4-11-8">#</a> 4.11.8 Documenting with Use Cases <span>(Tài liệu hóa bằng ca sử dụng)</span></h3>
+<p class="source-note" id="source-page-130-s-4-11-8">Source page anchor: p. 130 · <a href="#source-page-130-s-4-11-8">direct anchor</a></p>
+<p>A mature team uses this topic to Documenting with Use Cases is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Documenting with Use Cases when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-9"><a class="anchor" href="#s-4-11-9">#</a> 4.11.9 Documenting with User Stories <span>(Tài liệu hóa bằng user stories)</span></h3>
+<p class="source-note" id="source-page-130-s-4-11-9">Source page anchor: p. 130 · <a href="#source-page-130-s-4-11-9">direct anchor</a></p>
+<p>In practice, Documenting with User Stories is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Documenting with User Stories when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-11-10"><a class="anchor" href="#s-4-11-10">#</a> 4.11.10 Backlog Items <span>(Hạng mục backlog)</span></h3>
+<p class="source-note" id="source-page-130-s-4-11-10">Source page anchor: p. 130 · <a href="#source-page-130-s-4-11-10">direct anchor</a></p>
+<p>For a project team, Backlog Items is about preserving agreement in a form that delivery, testing, governance, and future change control can use. Good documentation is not measured by volume; it is measured by whether the right people can act on it with minimal ambiguity.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use formal documentation when the organization needs durable agreement, handoff across teams, auditability, baseline control, or shared context for distributed contributors.</p></section><section><h4>How to apply</h4><p>Write requirements in a consistent structure, record assumptions and constraints, categorize requirements, define acceptance evidence, and keep the documentation traceable.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Writing requirements that cannot be tested</li><li>Mixing assumptions, constraints, and requirements without labels</li><li>Creating documentation too heavy for the project context</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Use consistent requirement structure</li><li>Record assumptions and constraints separately</li><li>Categorize requirements for retrieval</li><li>Maintain version and approval history</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Backlog Items when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-12"><a class="anchor" href="#s-4-12">#</a> 4.12 Validate Requirements <span>(Xác nhận giá trị yêu cầu)</span></h2>
+<p class="source-note" id="source-page-130-s-4-12">Source page anchor: p. 130 · <a href="#source-page-130-s-4-12">direct anchor</a></p>
+<p>From a business analysis perspective, Validate Requirements protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Validate Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-12-1"><a class="anchor" href="#s-4-12-1">#</a> 4.12.1 The Concept of Continual Confirmation <span>(Khái niệm xác nhận liên tục)</span></h3>
+<p class="source-note" id="source-page-131-s-4-12-1">Source page anchor: p. 131 · <a href="#source-page-131-s-4-12-1">direct anchor</a></p>
+<p>On a real initiative, The Concept of Continual Confirmation protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use The Concept of Continual Confirmation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-12-2"><a class="anchor" href="#s-4-12-2">#</a> 4.12.2 Requirements Walkthrough <span>(Rà soát yêu cầu)</span></h3>
+<p class="source-note" id="source-page-131-s-4-12-2">Source page anchor: p. 131 · <a href="#source-page-131-s-4-12-2">direct anchor</a></p>
+<p>A useful way to read this topic is that Requirements Walkthrough protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Requirements Walkthrough when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-13"><a class="anchor" href="#s-4-13">#</a> 4.13 Verify Requirements <span>(Kiểm chứng chất lượng yêu cầu)</span></h2>
+<p class="source-note" id="source-page-132-s-4-13">Source page anchor: p. 132 · <a href="#source-page-132-s-4-13">direct anchor</a></p>
+<p>The practitioner should treat this as Verify Requirements protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Verify Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-13-1"><a class="anchor" href="#s-4-13-1">#</a> 4.13.1 Peer Review <span>(Rà soát ngang hàng)</span></h3>
+<p class="source-note" id="source-page-132-s-4-13-1">Source page anchor: p. 132 · <a href="#source-page-132-s-4-13-1">direct anchor</a></p>
+<p>When applied well, Peer Review protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Peer Review when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-13-2"><a class="anchor" href="#s-4-13-2">#</a> 4.13.2 Inspection <span>(Thanh tra)</span></h3>
+<p class="source-note" id="source-page-133-s-4-13-2">Source page anchor: p. 133 · <a href="#source-page-133-s-4-13-2">direct anchor</a></p>
+<p>The business value of this topic is that Inspection protects requirement quality from two angles: business correctness and technical usability. Stakeholders need to know that the requirement reflects a real need, while the delivery team needs wording that can be designed, built, and tested.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic before approval, before sprint commitment, during walkthroughs, and whenever conflicting interpretations appear.</p></section><section><h4>How to apply</h4><p>Ask stakeholders to confirm intent, then review requirement wording against clear, complete, consistent, feasible, necessary, and testable criteria.</p></section></div>
+<h4>Practical example</h4>
+<p>A requirement walkthrough reveals that two departments use the phrase "active provider" differently. The BA updates terminology, examples, and acceptance criteria before approval.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Confusing stakeholder agreement with requirement quality</li><li>Approving requirements that are not testable</li><li>Waiting until the final session to discover misunderstandings</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm business need fit</li><li>Check clarity and consistency</li><li>Confirm measurability and testability</li><li>Resolve conflicts before approval</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Inspection when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-14"><a class="anchor" href="#s-4-14">#</a> 4.14 Approval Sessions <span>(Phiên phê duyệt)</span></h2>
+<p class="source-note" id="source-page-133-s-4-14">Source page anchor: p. 133 · <a href="#source-page-133-s-4-14">direct anchor</a></p>
+<p>This idea matters most when <strong>Approval Sessions</strong> addresses gaining formal agreement to move forward with the requirement set. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Approval Sessions when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-15"><a class="anchor" href="#s-4-15">#</a> 4.15 Resolve Requirements-Related Conflicts <span>(Giải quyết xung đột liên quan đến yêu cầu)</span></h2>
+<p class="source-note" id="source-page-134-s-4-15">Source page anchor: p. 134 · <a href="#source-page-134-s-4-15">direct anchor</a></p>
+<p>A mature team uses this topic to Resolve Requirements-Related Conflicts gives the team a structured way to move from disagreement to decision. Requirements conflict is normal when stakeholders optimize for different goals, policies, departments, budgets, or customer segments.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use conflict techniques when discussion repeats without progress, when authority alone would hide trade-offs, or when the decision needs transparent rationale.</p></section><section><h4>How to apply</h4><p>Separate facts from preferences, define decision criteria, compare options, document rationale, and identify the decision owner when consensus is not possible.</p></section></div>
+<h4>Practical example</h4>
+<p>Operations wants fewer approval steps; compliance wants stronger control. Weighted ranking compares options against risk, cycle time, audit need, and implementation effort.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Letting hierarchy replace analysis</li><li>Forcing consensus when escalation is needed</li><li>Ignoring decision criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Separate positions from needs</li><li>Define criteria and constraints</li><li>Compare options transparently</li><li>Record rationale and ownership</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Resolve Requirements-Related Conflicts when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-15-1"><a class="anchor" href="#s-4-15-1">#</a> 4.15.1 Delphi <span>(Phương pháp Delphi)</span></h3>
+<p class="source-note" id="source-page-134-s-4-15-1">Source page anchor: p. 134 · <a href="#source-page-134-s-4-15-1">direct anchor</a></p>
+<p>In practice, Delphi gives the team a structured way to move from disagreement to decision. Requirements conflict is normal when stakeholders optimize for different goals, policies, departments, budgets, or customer segments.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use conflict techniques when discussion repeats without progress, when authority alone would hide trade-offs, or when the decision needs transparent rationale.</p></section><section><h4>How to apply</h4><p>Separate facts from preferences, define decision criteria, compare options, document rationale, and identify the decision owner when consensus is not possible.</p></section></div>
+<h4>Practical example</h4>
+<p>Operations wants fewer approval steps; compliance wants stronger control. Weighted ranking compares options against risk, cycle time, audit need, and implementation effort.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Letting hierarchy replace analysis</li><li>Forcing consensus when escalation is needed</li><li>Ignoring decision criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Separate positions from needs</li><li>Define criteria and constraints</li><li>Compare options transparently</li><li>Record rationale and ownership</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Delphi when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-15-2"><a class="anchor" href="#s-4-15-2">#</a> 4.15.2 Multivoting <span>(Bỏ phiếu nhiều lượt)</span></h3>
+<p class="source-note" id="source-page-135-s-4-15-2">Source page anchor: p. 135 · <a href="#source-page-135-s-4-15-2">direct anchor</a></p>
+<p>For a project team, Multivoting gives the team a structured way to move from disagreement to decision. Requirements conflict is normal when stakeholders optimize for different goals, policies, departments, budgets, or customer segments.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use conflict techniques when discussion repeats without progress, when authority alone would hide trade-offs, or when the decision needs transparent rationale.</p></section><section><h4>How to apply</h4><p>Separate facts from preferences, define decision criteria, compare options, document rationale, and identify the decision owner when consensus is not possible.</p></section></div>
+<h4>Practical example</h4>
+<p>Operations wants fewer approval steps; compliance wants stronger control. Weighted ranking compares options against risk, cycle time, audit need, and implementation effort.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Letting hierarchy replace analysis</li><li>Forcing consensus when escalation is needed</li><li>Ignoring decision criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Separate positions from needs</li><li>Define criteria and constraints</li><li>Compare options transparently</li><li>Record rationale and ownership</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Multivoting when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-15-3"><a class="anchor" href="#s-4-15-3">#</a> 4.15.3 Weighted Ranking <span>(Xếp hạng có trọng số)</span></h3>
+<p class="source-note" id="source-page-135-s-4-15-3">Source page anchor: p. 135 · <a href="#source-page-135-s-4-15-3">direct anchor</a></p>
+<p>From a business analysis perspective, Weighted Ranking gives the team a structured way to move from disagreement to decision. Requirements conflict is normal when stakeholders optimize for different goals, policies, departments, budgets, or customer segments.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use conflict techniques when discussion repeats without progress, when authority alone would hide trade-offs, or when the decision needs transparent rationale.</p></section><section><h4>How to apply</h4><p>Separate facts from preferences, define decision criteria, compare options, document rationale, and identify the decision owner when consensus is not possible.</p></section></div>
+<h4>Practical example</h4>
+<p>Operations wants fewer approval steps; compliance wants stronger control. Weighted ranking compares options against risk, cycle time, audit need, and implementation effort.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Letting hierarchy replace analysis</li><li>Forcing consensus when escalation is needed</li><li>Ignoring decision criteria</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Separate positions from needs</li><li>Define criteria and constraints</li><li>Compare options transparently</li><li>Record rationale and ownership</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Weighted Ranking when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<div class="next-nav"><a class="button" href="01_chapter_4_elicitation_foundations.html">← Previous: Chapter 4A - Requirements Elicitation Foundations and Techniques</a><a class="button primary" href="03_chapter_5_traceability_monitoring.html">Next Page: Chapter 5 - Traceability and Monitoring →</a></div>
+<section id="generated-quiz" class="quiz"><h2><a class="anchor" href="#generated-quiz">#</a> Generated Quiz (Bài kiểm tra tạo tự động)</h2><p>Exactly 10 questions: 5 Hard and 5 Hardest. Answers are inside expandable panels.</p>
+<article class="question"><h3>Question 1 · Hard</h3><p>A team has many detailed statements but no shared view of system boundaries. Which model should be considered first?</p><ol type="A">
+<li>Context diagram</li>
+<li>Decision table</li>
+<li>State diagram</li>
+<li>Report table</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>A context diagram clarifies boundaries and external interactions before more detailed modeling.</p></details></article>
+<article class="question"><h3>Question 2 · Hard</h3><p>A requirement says &quot;the system shall be fast.&quot; What quality problem exists?</p><ol type="A">
+<li>It is too measurable</li>
+<li>It is implementation-independent</li>
+<li>It is ambiguous and not verifiable</li>
+<li>It is a transition requirement</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: C</strong></p><p>A quality requirement must be expressed with measurable or testable criteria.</p></details></article>
+<article class="question"><h3>Question 3 · Hard</h3><p>When should a decision table be favored over a process flow?</p><ol type="A">
+<li>When combinations of conditions produce different outcomes</li>
+<li>When showing screen navigation</li>
+<li>When identifying external systems</li>
+<li>When decomposing features into epics</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Decision tables are useful when rules depend on combinations of conditions.</p></details></article>
+<article class="question"><h3>Question 4 · Hard</h3><p>What is the difference between validation and verification in requirements work?</p><ol type="A">
+<li>Validation checks need fit; verification checks requirement quality</li>
+<li>Validation is done by developers; verification is done by customers</li>
+<li>Validation only happens after production release</li>
+<li>There is no practical difference</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Validation asks whether the right need is represented; verification checks whether the requirement is well formed.</p></details></article>
+<article class="question"><h3>Question 5 · Hard</h3><p>Why separate business rules from functional requirements when possible?</p><ol type="A">
+<li>Rules never change</li>
+<li>Rules can be maintained, reused, and reviewed without burying them in process or screen text</li>
+<li>Functional requirements become unnecessary</li>
+<li>Business rules belong only in code</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Separating rules improves clarity, maintainability, and traceability.</p></details></article>
+<article class="question"><h3>Question 6 · Hardest</h3><p>A product owner wants all requirements ranked &quot;high.&quot; What should the BA introduce?</p><ol type="A">
+<li>A requirement freeze without discussion</li>
+<li>A prioritization scheme with criteria such as value, risk, dependency, urgency, and feasibility</li>
+<li>A larger backlog with no order</li>
+<li>A rule that technical items are always lowest</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Prioritization needs criteria so trade-offs are explicit and defensible.</p></details></article>
+<article class="question"><h3>Question 7 · Hardest</h3><p>Stakeholders approve a user story, but testers later cannot derive acceptance tests. Which analysis gap is most likely?</p><ol type="A">
+<li>The story is too valuable</li>
+<li>The story lacks sufficient acceptance conditions, rules, examples, or boundaries</li>
+<li>The story should have been a Gantt chart</li>
+<li>User stories cannot support testing</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Stories need enough supporting detail for shared understanding and testability.</p></details></article>
+<article class="question"><h3>Question 8 · Hardest</h3><p>Two diagrams describe the same data object with different meanings. What is the best response?</p><ol type="A">
+<li>Choose the diagram drawn most recently</li>
+<li>Update the data dictionary or glossary and reconcile model terminology</li>
+<li>Ignore terminology until development begins</li>
+<li>Ask each team to use its own definition</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Inconsistent data terminology creates defects and misalignment; a dictionary or glossary helps resolve it.</p></details></article>
+<article class="question"><h3>Question 9 · Hardest</h3><p>Why is continual confirmation better than waiting for one final approval session?</p><ol type="A">
+<li>It eliminates the need for stakeholder decisions</li>
+<li>It finds misunderstandings earlier while the cost of correction is lower</li>
+<li>It allows the BA to skip documentation</li>
+<li>It ensures no requirement will ever change</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Frequent confirmation prevents late surprises and reduces rework.</p></details></article>
+<article class="question"><h3>Question 10 · Hardest</h3><p>A conflict remains after repeated discussion. What makes weighted ranking more appropriate than simple voting?</p><ol type="A">
+<li>It hides stakeholder preferences</li>
+<li>It evaluates options against agreed criteria and relative importance</li>
+<li>It gives every option the same score</li>
+<li>It removes the need for decision authority</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Weighted ranking supports transparent trade-off analysis when criteria matter differently.</p></details></article>
+</section>
+<div class="next-nav"><a class="button" href="01_chapter_4_elicitation_foundations.html">← Previous: Chapter 4A - Requirements Elicitation Foundations and Techniques</a><a class="button primary" href="03_chapter_5_traceability_monitoring.html">Next Page: Chapter 5 - Traceability and Monitoring →</a></div>
+</main></div>
+</body>
+</html>

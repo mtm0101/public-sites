@@ -1,0 +1,533 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 5 - Traceability and Monitoring (Chương 5 - Truy vết và giám sát)</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header"><div class="brand">BA Practice Guide Study Site</div><nav><a href="index.html">Index</a><a href="print.html">Print</a><a href="build-report.json">Build report</a><a href="01_chapter_4_elicitation_foundations.html">4: Requirements Elicitation Foundations and Techniques</a><a href="02_chapter_4_analysis_models_requirements.html">4: Analysis, Models, Documentation, and Agreement</a><a class="active" href="03_chapter_5_traceability_monitoring.html">5: Traceability and Monitoring</a><a href="04_chapter_6_solution_evaluation.html">6: Solution Evaluation</a><a href="05_appendices_glossary_reference.html">X: Appendices and Glossary Reference</a></nav></header><div class="page-layout">
+<details class="right-toc" open><summary>On this page</summary><nav><a href="#page-title">Page title</a>
+<a class="" href="#s-5-1">5.1 Overview of this Section <small>p.137</small></a>
+<a class="source-link" href="#source-page-137-s-5-1">↳ source p.137</a>
+<a class="" href="#s-5-2">5.2 Traceability <small>p.138</small></a>
+<a class="source-link" href="#source-page-138-s-5-2">↳ source p.138</a>
+<a class=" toc-l3" href="#s-5-2-1">5.2.1 What is Traceability? <small>p.138</small></a>
+<a class="source-link toc-l3" href="#source-page-138-s-5-2-1">↳ source p.138</a>
+<a class=" toc-l3" href="#s-5-2-2">5.2.2 Benefits of Tracing Requirements <small>p.139</small></a>
+<a class="source-link toc-l3" href="#source-page-139-s-5-2-2">↳ source p.139</a>
+<a class=" toc-l3" href="#s-5-2-3">5.2.3 The Traceability Matrix <small>p.139</small></a>
+<a class="source-link toc-l3" href="#source-page-139-s-5-2-3">↳ source p.139</a>
+<a class=" toc-l4" href="#s-5-2-3-1">5.2.3.1 Requirements Attributes <small>p.140</small></a>
+<a class=" toc-l4" href="#s-5-2-3-2">5.2.3.2 Traceability Matrix Hierarchy <small>p.142</small></a>
+<a class="" href="#s-5-3">5.3 Relationships and Dependencies <small>p.142</small></a>
+<a class="source-link" href="#source-page-142-s-5-3">↳ source p.142</a>
+<a class=" toc-l3" href="#s-5-3-1">5.3.1 Subsets <small>p.142</small></a>
+<a class="source-link toc-l3" href="#source-page-142-s-5-3-1">↳ source p.142</a>
+<a class=" toc-l3" href="#s-5-3-2">5.3.2 Implementation Dependency <small>p.143</small></a>
+<a class="source-link toc-l3" href="#source-page-143-s-5-3-2">↳ source p.143</a>
+<a class=" toc-l3" href="#s-5-3-3">5.3.3 Benefit or Value Dependency <small>p.143</small></a>
+<a class="source-link toc-l3" href="#source-page-143-s-5-3-3">↳ source p.143</a>
+<a class="" href="#s-5-4">5.4 Approving Requirements <small>p.143</small></a>
+<a class="source-link" href="#source-page-143-s-5-4">↳ source p.143</a>
+<a class=" toc-l3" href="#s-5-4-1">5.4.1 Work Authorization System <small>p.143</small></a>
+<a class="source-link toc-l3" href="#source-page-143-s-5-4-1">↳ source p.143</a>
+<a class=" toc-l3" href="#s-5-4-2">5.4.2 Approval Levels <small>p.144</small></a>
+<a class="source-link toc-l3" href="#source-page-144-s-5-4-2">↳ source p.144</a>
+<a class="" href="#s-5-5">5.5 Baselining Approved Requirements <small>p.145</small></a>
+<a class="source-link" href="#source-page-145-s-5-5">↳ source p.145</a>
+<a class=" toc-l3" href="#s-5-5-1">5.5.1 What is a Requirements Baseline? <small>p.145</small></a>
+<a class="source-link toc-l3" href="#source-page-145-s-5-5-1">↳ source p.145</a>
+<a class=" toc-l3" href="#s-5-5-2">5.5.2 Relationship of Requirements Baseline, Product Scope, and Project Scope <small>p.145</small></a>
+<a class="source-link toc-l3" href="#source-page-145-s-5-5-2">↳ source p.145</a>
+<a class=" toc-l3" href="#s-5-5-3">5.5.3 Maintaining the Product Backlog <small>p.146</small></a>
+<a class="source-link toc-l3" href="#source-page-146-s-5-5-3">↳ source p.146</a>
+<a class="" href="#s-5-6">5.6 Monitoring Requirements Using a Traceability Matrix <small>p.146</small></a>
+<a class="source-link" href="#source-page-146-s-5-6">↳ source p.146</a>
+<a class=" toc-l3" href="#s-5-6-1">5.6.1 Benefits of Using Traceability to Monitor Requirements <small>p.146</small></a>
+<a class="source-link toc-l3" href="#source-page-146-s-5-6-1">↳ source p.146</a>
+<a class="" href="#s-5-7">5.7 The Requirements Life Cycle <small>p.148</small></a>
+<a class="source-link" href="#source-page-148-s-5-7">↳ source p.148</a>
+<a class="" href="#s-5-8">5.8 Managing Changes to Requirements <small>p.148</small></a>
+<a class="source-link" href="#source-page-148-s-5-8">↳ source p.148</a>
+<a class=" toc-l3" href="#s-5-8-1">5.8.1 Change Management as it Relates to Business Analysis <small>p.149</small></a>
+<a class="source-link toc-l3" href="#source-page-149-s-5-8-1">↳ source p.149</a>
+<a class=" toc-l3" href="#s-5-8-2">5.8.2 Change Control Tools and Techniques <small>p.150</small></a>
+<a class="source-link toc-l3" href="#source-page-150-s-5-8-2">↳ source p.150</a>
+<a class=" toc-l4" href="#s-5-8-2-1">5.8.2.1 Configuration Management System <small>p.151</small></a>
+<a class=" toc-l4" href="#s-5-8-2-2">5.8.2.2 Version Control System <small>p.151</small></a>
+<a class=" toc-l3" href="#s-5-8-3">5.8.3 Impact Analysis <small>p.151</small></a>
+<a class="source-link toc-l3" href="#source-page-151-s-5-8-3">↳ source p.151</a>
+<a class=" toc-l4" href="#s-5-8-3-1">5.8.3.1 Impact on the Requirements Baseline <small>p.152</small></a>
+<a class=" toc-l4" href="#s-5-8-3-2">5.8.3.2 Impact on Requirement Conflicts <small>p.152</small></a>
+<a class=" toc-l4" href="#s-5-8-3-3">5.8.3.3 Impact on Business Analysis <small>p.152</small></a>
+<a class=" toc-l4" href="#s-5-8-3-4">5.8.3.4 Impact on Project Management <small>p.153</small></a>
+<a class=" toc-l4" href="#s-5-8-3-5">5.8.3.5 Recommending a Course of Action <small>p.154</small></a>
+<a class=" toc-l3" href="#s-5-8-4">5.8.4 Controlling Changes Related to Defects <small>p.155</small></a>
+<a class="source-link toc-l3" href="#source-page-155-s-5-8-4">↳ source p.155</a>
+<a href="#generated-quiz">Generated Quiz</a></nav></details>
+<main class="content">
+<h1 id="page-title"><a class="anchor" href="#page-title">#</a> Chapter 5 - Traceability and Monitoring (Chương 5 - Truy vết và giám sát)</h1>
+<p class="scope-note"><strong>Scope note:</strong> Chapter 5 explains how requirements stay connected after they are written. Traceability links business needs, requirements, solution components, tests, decisions, defects, and changes so that teams can monitor scope, manage baselines, and make informed impact decisions.</p>
+<section class="summary-card"><h2>Learning map (Bản đồ học tập)</h2><ul>
+<li>Traceability links needs, requirements, decisions, design, testing, defects, and change.</li>
+<li>A useful traceability matrix is maintainable, not merely comprehensive.</li>
+<li>Baselines provide a control point; they do not mean requirements can never change.</li>
+<li>Impact analysis should cover product, project, business analysis, and stakeholder consequences.</li>
+<li>Defect handling still needs traceability because a fix can become scope change.</li>
+</ul></section>
+<section class="learning-section">
+<h2 id="s-5-1"><a class="anchor" href="#s-5-1">#</a> 5.1 Overview of this Section <span>(Tổng quan phần này)</span></h2>
+<p class="source-note" id="source-page-137-s-5-1">Source page anchor: p. 137 · <a href="#source-page-137-s-5-1">direct anchor</a></p>
+<p>In practice, <strong>Overview of this Section</strong> addresses why traceability and monitoring are essential after requirements are documented. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Overview of this Section when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-2"><a class="anchor" href="#s-5-2">#</a> 5.2 Traceability <span>(Truy vết)</span></h2>
+<p class="source-note" id="source-page-138-s-5-2">Source page anchor: p. 138 · <a href="#source-page-138-s-5-2">direct anchor</a></p>
+<p>For a project team, Traceability connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<table><thead><tr><th>Trace direction</th><th>Meaning</th><th>Example use</th></tr></thead><tbody><tr><td>Backward</td><td>From requirement to source or business need</td><td>Explain why a feature exists</td></tr><tr><td>Forward</td><td>From requirement to design, build, test, and release</td><td>Check coverage and readiness</td></tr><tr><td>Horizontal</td><td>Across peer requirements, rules, interfaces, or dependencies</td><td>Find conflicts and coordination needs</td></tr><tr><td>Status</td><td>Across requirement life cycle states</td><td>Monitor approval, implementation, testing, and defects</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Traceability when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-2-1"><a class="anchor" href="#s-5-2-1">#</a> 5.2.1 What is Traceability? <span>(Truy vết là gì?)</span></h3>
+<p class="source-note" id="source-page-138-s-5-2-1">Source page anchor: p. 138 · <a href="#source-page-138-s-5-2-1">direct anchor</a></p>
+<p>From a business analysis perspective, What is Traceability? connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use What is Traceability? when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-2-2"><a class="anchor" href="#s-5-2-2">#</a> 5.2.2 Benefits of Tracing Requirements <span>(Lợi ích của truy vết yêu cầu)</span></h3>
+<p class="source-note" id="source-page-139-s-5-2-2">Source page anchor: p. 139 · <a href="#source-page-139-s-5-2-2">direct anchor</a></p>
+<p>On a real initiative, Benefits of Tracing Requirements connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Benefits of Tracing Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-2-3"><a class="anchor" href="#s-5-2-3">#</a> 5.2.3 The Traceability Matrix <span>(Ma trận truy vết)</span></h3>
+<p class="source-note" id="source-page-139-s-5-2-3">Source page anchor: p. 139 · <a href="#source-page-139-s-5-2-3">direct anchor</a></p>
+<p>A useful way to read this topic is that The Traceability Matrix connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use The Traceability Matrix when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-2-3-1"><a class="anchor" href="#s-5-2-3-1">#</a> 5.2.3.1 Requirements Attributes <span>(Thuộc tính yêu cầu)</span></h4>
+<p class="source-note" id="source-page-140-s-5-2-3-1">Source page anchor: p. 140 · <a href="#source-page-140-s-5-2-3-1">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Requirements Attributes</strong> helps the analyst address metadata that helps teams manage ownership, priority, status, source, version, and acceptance. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Requirements Attributes is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-2-3-2"><a class="anchor" href="#s-5-2-3-2">#</a> 5.2.3.2 Traceability Matrix Hierarchy <span>(Cấu trúc phân cấp ma trận truy vết)</span></h4>
+<p class="source-note" id="source-page-142-s-5-2-3-2">Source page anchor: p. 142 · <a href="#source-page-142-s-5-2-3-2">direct anchor</a></p>
+<p>When applied well, <strong>Traceability Matrix Hierarchy</strong> helps the analyst address linking high-level needs to lower-level requirements, design, tests, and deliverables. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Traceability Matrix Hierarchy is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-3"><a class="anchor" href="#s-5-3">#</a> 5.3 Relationships and Dependencies <span>(Mối quan hệ và phụ thuộc)</span></h2>
+<p class="source-note" id="source-page-142-s-5-3">Source page anchor: p. 142 · <a href="#source-page-142-s-5-3">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Relationships and Dependencies</strong> addresses understanding how requirements affect one another. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Relationships and Dependencies when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-3-1"><a class="anchor" href="#s-5-3-1">#</a> 5.3.1 Subsets <span>(Tập con)</span></h3>
+<p class="source-note" id="source-page-142-s-5-3-1">Source page anchor: p. 142 · <a href="#source-page-142-s-5-3-1">direct anchor</a></p>
+<p>This idea matters most when <strong>Subsets</strong> addresses requirements that are decomposed from broader requirements. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Subsets when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-3-2"><a class="anchor" href="#s-5-3-2">#</a> 5.3.2 Implementation Dependency <span>(Phụ thuộc triển khai)</span></h3>
+<p class="source-note" id="source-page-143-s-5-3-2">Source page anchor: p. 143 · <a href="#source-page-143-s-5-3-2">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Implementation Dependency</strong> addresses requirements that must be delivered before others can be built or used. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Implementation Dependency when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-3-3"><a class="anchor" href="#s-5-3-3">#</a> 5.3.3 Benefit or Value Dependency <span>(Phụ thuộc lợi ích hoặc giá trị)</span></h3>
+<p class="source-note" id="source-page-143-s-5-3-3">Source page anchor: p. 143 · <a href="#source-page-143-s-5-3-3">direct anchor</a></p>
+<p>In practice, <strong>Benefit or Value Dependency</strong> addresses requirements whose benefits depend on other capabilities being present. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Benefit or Value Dependency when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-4"><a class="anchor" href="#s-5-4">#</a> 5.4 Approving Requirements <span>(Phê duyệt yêu cầu)</span></h2>
+<p class="source-note" id="source-page-143-s-5-4">Source page anchor: p. 143 · <a href="#source-page-143-s-5-4">direct anchor</a></p>
+<p>For a project team, <strong>Approving Requirements</strong> addresses using authority, governance, and agreed criteria to decide what enters the baseline. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Approving Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-4-1"><a class="anchor" href="#s-5-4-1">#</a> 5.4.1 Work Authorization System <span>(Hệ thống ủy quyền công việc)</span></h3>
+<p class="source-note" id="source-page-143-s-5-4-1">Source page anchor: p. 143 · <a href="#source-page-143-s-5-4-1">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Work Authorization System</strong> addresses ensuring work begins only after proper authorization. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Work Authorization System when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-4-2"><a class="anchor" href="#s-5-4-2">#</a> 5.4.2 Approval Levels <span>(Cấp độ phê duyệt)</span></h3>
+<p class="source-note" id="source-page-144-s-5-4-2">Source page anchor: p. 144 · <a href="#source-page-144-s-5-4-2">direct anchor</a></p>
+<p>On a real initiative, <strong>Approval Levels</strong> addresses matching approval rigor to requirement importance, risk, and organizational governance. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Approval Levels when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-5"><a class="anchor" href="#s-5-5">#</a> 5.5 Baselining Approved Requirements <span>(Thiết lập đường cơ sở cho yêu cầu đã phê duyệt)</span></h2>
+<p class="source-note" id="source-page-145-s-5-5">Source page anchor: p. 145 · <a href="#source-page-145-s-5-5">direct anchor</a></p>
+<p>A useful way to read this topic is that Baselining Approved Requirements creates a stable reference point for agreed requirements. A baseline does not freeze learning forever; it changes the rules so future changes are visible, evaluated, and approved.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use baselines when the team needs a controlled commitment for delivery, testing, procurement, release scope, or contractual understanding.</p></section><section><h4>How to apply</h4><p>Confirm approval authority, record the version, link requirements to scope and tests, and route future modifications through change control.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Calling a draft a baseline before approval</li><li>Changing the baseline informally</li><li>Separating backlog order from change control decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm approval authority</li><li>Record baseline version and date</li><li>Tie baseline to scope and test evidence</li><li>Route changes through change control</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Baselining Approved Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-5-1"><a class="anchor" href="#s-5-5-1">#</a> 5.5.1 What is a Requirements Baseline? <span>(Đường cơ sở yêu cầu là gì?)</span></h3>
+<p class="source-note" id="source-page-145-s-5-5-1">Source page anchor: p. 145 · <a href="#source-page-145-s-5-5-1">direct anchor</a></p>
+<p>The practitioner should treat this as What is a Requirements Baseline? creates a stable reference point for agreed requirements. A baseline does not freeze learning forever; it changes the rules so future changes are visible, evaluated, and approved.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use baselines when the team needs a controlled commitment for delivery, testing, procurement, release scope, or contractual understanding.</p></section><section><h4>How to apply</h4><p>Confirm approval authority, record the version, link requirements to scope and tests, and route future modifications through change control.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Calling a draft a baseline before approval</li><li>Changing the baseline informally</li><li>Separating backlog order from change control decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm approval authority</li><li>Record baseline version and date</li><li>Tie baseline to scope and test evidence</li><li>Route changes through change control</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use What is a Requirements Baseline? when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-5-2"><a class="anchor" href="#s-5-5-2">#</a> 5.5.2 Relationship of Requirements Baseline, Product Scope, and Project Scope <span>(Quan hệ giữa đường cơ sở yêu cầu, phạm vi sản phẩm và phạm vi dự án)</span></h3>
+<p class="source-note" id="source-page-145-s-5-5-2">Source page anchor: p. 145 · <a href="#source-page-145-s-5-5-2">direct anchor</a></p>
+<p>When applied well, Relationship of Requirements Baseline, Product Scope, and Project Scope creates a stable reference point for agreed requirements. A baseline does not freeze learning forever; it changes the rules so future changes are visible, evaluated, and approved.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use baselines when the team needs a controlled commitment for delivery, testing, procurement, release scope, or contractual understanding.</p></section><section><h4>How to apply</h4><p>Confirm approval authority, record the version, link requirements to scope and tests, and route future modifications through change control.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Calling a draft a baseline before approval</li><li>Changing the baseline informally</li><li>Separating backlog order from change control decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm approval authority</li><li>Record baseline version and date</li><li>Tie baseline to scope and test evidence</li><li>Route changes through change control</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Relationship of Requirements Baseline, Product Scope, and Project Scope when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-5-3"><a class="anchor" href="#s-5-5-3">#</a> 5.5.3 Maintaining the Product Backlog <span>(Duy trì product backlog)</span></h3>
+<p class="source-note" id="source-page-146-s-5-5-3">Source page anchor: p. 146 · <a href="#source-page-146-s-5-5-3">direct anchor</a></p>
+<p>The business value of this topic is that Maintaining the Product Backlog creates a stable reference point for agreed requirements. A baseline does not freeze learning forever; it changes the rules so future changes are visible, evaluated, and approved.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use baselines when the team needs a controlled commitment for delivery, testing, procurement, release scope, or contractual understanding.</p></section><section><h4>How to apply</h4><p>Confirm approval authority, record the version, link requirements to scope and tests, and route future modifications through change control.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Calling a draft a baseline before approval</li><li>Changing the baseline informally</li><li>Separating backlog order from change control decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Confirm approval authority</li><li>Record baseline version and date</li><li>Tie baseline to scope and test evidence</li><li>Route changes through change control</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Maintaining the Product Backlog when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-6"><a class="anchor" href="#s-5-6">#</a> 5.6 Monitoring Requirements Using a Traceability Matrix <span>(Giám sát yêu cầu bằng ma trận truy vết)</span></h2>
+<p class="source-note" id="source-page-146-s-5-6">Source page anchor: p. 146 · <a href="#source-page-146-s-5-6">direct anchor</a></p>
+<p>This idea matters most when Monitoring Requirements Using a Traceability Matrix connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Monitoring Requirements Using a Traceability Matrix when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-6-1"><a class="anchor" href="#s-5-6-1">#</a> 5.6.1 Benefits of Using Traceability to Monitor Requirements <span>(Lợi ích của việc dùng truy vết để giám sát yêu cầu)</span></h3>
+<p class="source-note" id="source-page-146-s-5-6-1">Source page anchor: p. 146 · <a href="#source-page-146-s-5-6-1">direct anchor</a></p>
+<p>A mature team uses this topic to Benefits of Using Traceability to Monitor Requirements connects requirement information across the life cycle. The practical purpose is to know why a requirement exists, what it affects, how it will be verified, and what changes if it moves.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use traceability for impact analysis, coverage checks, approval readiness, release planning, test planning, audit needs, and stakeholder questions about scope.</p></section><section><h4>How to apply</h4><p>Define a minimal set of links and attributes, assign ownership, update links at known process points, and review gaps before baselines and releases.</p></section></div>
+<h4>Practical example</h4>
+<p>A healthcare software team links a provider-search requirement to the business objective, stakeholder request, search service configuration, test cases, and acceptance evidence. When a stakeholder requests a ranking change, the team can see which tests, documentation, and release notes are affected.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Creating links once and never maintaining them</li><li>Tracking too many attributes without ownership</li><li>Using traceability only for audits instead of daily decisions</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Link each requirement to its source or rationale</li><li>Connect requirements to tests or acceptance evidence</li><li>Identify owner, status, priority, and version where useful</li><li>Review trace gaps before approval or release</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Benefits of Using Traceability to Monitor Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-7"><a class="anchor" href="#s-5-7">#</a> 5.7 The Requirements Life Cycle <span>(Vòng đời yêu cầu)</span></h2>
+<p class="source-note" id="source-page-148-s-5-7">Source page anchor: p. 148 · <a href="#source-page-148-s-5-7">direct anchor</a></p>
+<p>In practice, <strong>The Requirements Life Cycle</strong> addresses tracking requirements from discovery through retirement or replacement. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use The Requirements Life Cycle when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-5-8"><a class="anchor" href="#s-5-8">#</a> 5.8 Managing Changes to Requirements <span>(Quản lý thay đổi yêu cầu)</span></h2>
+<p class="source-note" id="source-page-148-s-5-8">Source page anchor: p. 148 · <a href="#source-page-148-s-5-8">direct anchor</a></p>
+<p>For a project team, Managing Changes to Requirements keeps requirement evolution from becoming uncontrolled scope drift. Change is not automatically bad; unmanaged change is the problem because it hides cost, risk, conflicts, and downstream work.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use change analysis for new stakeholder requests, defect corrections that alter approved behavior, regulatory updates, technical constraints, and benefit-driven enhancements.</p></section><section><h4>How to apply</h4><p>Trace the request to affected requirements, assess product and project impacts, identify options, document risks, and recommend a decision path.</p></section></div>
+<h4>Practical example</h4>
+<p>A late request adds a new notification rule. Impact analysis shows changes to requirements, mobile UI copy, API behavior, automated tests, and user training. The recommendation includes schedule and risk options.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Approving changes without impact analysis</li><li>Treating every defect fix as free scope</li><li>Hiding trade-offs in vague recommendations</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Identify affected requirements and artifacts</li><li>Estimate BA, delivery, test, and operational impact</li><li>Show risks and options</li><li>Record the decision and update trace links</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Managing Changes to Requirements when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-8-1"><a class="anchor" href="#s-5-8-1">#</a> 5.8.1 Change Management as it Relates to Business Analysis <span>(Quản lý thay đổi trong bối cảnh business analysis)</span></h3>
+<p class="source-note" id="source-page-149-s-5-8-1">Source page anchor: p. 149 · <a href="#source-page-149-s-5-8-1">direct anchor</a></p>
+<p>From a business analysis perspective, Change Management as it Relates to Business Analysis keeps requirement evolution from becoming uncontrolled scope drift. Change is not automatically bad; unmanaged change is the problem because it hides cost, risk, conflicts, and downstream work.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use change analysis for new stakeholder requests, defect corrections that alter approved behavior, regulatory updates, technical constraints, and benefit-driven enhancements.</p></section><section><h4>How to apply</h4><p>Trace the request to affected requirements, assess product and project impacts, identify options, document risks, and recommend a decision path.</p></section></div>
+<h4>Practical example</h4>
+<p>A late request adds a new notification rule. Impact analysis shows changes to requirements, mobile UI copy, API behavior, automated tests, and user training. The recommendation includes schedule and risk options.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Approving changes without impact analysis</li><li>Treating every defect fix as free scope</li><li>Hiding trade-offs in vague recommendations</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Identify affected requirements and artifacts</li><li>Estimate BA, delivery, test, and operational impact</li><li>Show risks and options</li><li>Record the decision and update trace links</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Change Management as it Relates to Business Analysis when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-8-2"><a class="anchor" href="#s-5-8-2">#</a> 5.8.2 Change Control Tools and Techniques <span>(Công cụ và kỹ thuật kiểm soát thay đổi)</span></h3>
+<p class="source-note" id="source-page-150-s-5-8-2">Source page anchor: p. 150 · <a href="#source-page-150-s-5-8-2">direct anchor</a></p>
+<p>On a real initiative, Change Control Tools and Techniques keeps requirement evolution from becoming uncontrolled scope drift. Change is not automatically bad; unmanaged change is the problem because it hides cost, risk, conflicts, and downstream work.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use change analysis for new stakeholder requests, defect corrections that alter approved behavior, regulatory updates, technical constraints, and benefit-driven enhancements.</p></section><section><h4>How to apply</h4><p>Trace the request to affected requirements, assess product and project impacts, identify options, document risks, and recommend a decision path.</p></section></div>
+<h4>Practical example</h4>
+<p>A late request adds a new notification rule. Impact analysis shows changes to requirements, mobile UI copy, API behavior, automated tests, and user training. The recommendation includes schedule and risk options.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Approving changes without impact analysis</li><li>Treating every defect fix as free scope</li><li>Hiding trade-offs in vague recommendations</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Identify affected requirements and artifacts</li><li>Estimate BA, delivery, test, and operational impact</li><li>Show risks and options</li><li>Record the decision and update trace links</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Change Control Tools and Techniques when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-2-1"><a class="anchor" href="#s-5-8-2-1">#</a> 5.8.2.1 Configuration Management System <span>(Hệ thống quản lý cấu hình)</span></h4>
+<p class="source-note" id="source-page-151-s-5-8-2-1">Source page anchor: p. 151 · <a href="#source-page-151-s-5-8-2-1">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Configuration Management System</strong> helps the analyst address controlling product configuration and related requirement artifacts. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Configuration Management System is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-2-2"><a class="anchor" href="#s-5-8-2-2">#</a> 5.8.2.2 Version Control System <span>(Hệ thống quản lý phiên bản)</span></h4>
+<p class="source-note" id="source-page-151-s-5-8-2-2">Source page anchor: p. 151 · <a href="#source-page-151-s-5-8-2-2">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Version Control System</strong> helps the analyst address tracking revisions, authorship, and history of requirements artifacts. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Version Control System is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-8-3"><a class="anchor" href="#s-5-8-3">#</a> 5.8.3 Impact Analysis <span>(Phân tích tác động)</span></h3>
+<p class="source-note" id="source-page-151-s-5-8-3">Source page anchor: p. 151 · <a href="#source-page-151-s-5-8-3">direct anchor</a></p>
+<p>When applied well, Impact Analysis keeps requirement evolution from becoming uncontrolled scope drift. Change is not automatically bad; unmanaged change is the problem because it hides cost, risk, conflicts, and downstream work.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use change analysis for new stakeholder requests, defect corrections that alter approved behavior, regulatory updates, technical constraints, and benefit-driven enhancements.</p></section><section><h4>How to apply</h4><p>Trace the request to affected requirements, assess product and project impacts, identify options, document risks, and recommend a decision path.</p></section></div>
+<h4>Practical example</h4>
+<p>A late request adds a new notification rule. Impact analysis shows changes to requirements, mobile UI copy, API behavior, automated tests, and user training. The recommendation includes schedule and risk options.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Approving changes without impact analysis</li><li>Treating every defect fix as free scope</li><li>Hiding trade-offs in vague recommendations</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Identify affected requirements and artifacts</li><li>Estimate BA, delivery, test, and operational impact</li><li>Show risks and options</li><li>Record the decision and update trace links</li></ul>
+<table><thead><tr><th>Impact area</th><th>Question to ask</th><th>Evidence to review</th></tr></thead><tbody><tr><td>Requirement baseline</td><td>Which approved requirements change?</td><td>Baseline, version history, approvals</td></tr><tr><td>Requirement conflicts</td><td>Does the change contradict another need or rule?</td><td>Models, rules catalog, trace links</td></tr><tr><td>Business analysis work</td><td>What elicitation, analysis, documentation, and validation is added?</td><td>BA work plan, open issues, stakeholder list</td></tr><tr><td>Project management</td><td>How do cost, schedule, risk, and resources change?</td><td>Project plan, release plan, risk log</td></tr><tr><td>Operations and value</td><td>Does the change improve or reduce expected benefits?</td><td>KPIs, service metrics, business case</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Impact Analysis when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-3-1"><a class="anchor" href="#s-5-8-3-1">#</a> 5.8.3.1 Impact on the Requirements Baseline <span>(Tác động đến đường cơ sở yêu cầu)</span></h4>
+<p class="source-note" id="source-page-152-s-5-8-3-1">Source page anchor: p. 152 · <a href="#source-page-152-s-5-8-3-1">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Impact on the Requirements Baseline</strong> helps the analyst address identifying which approved requirements would change. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Impact on the Requirements Baseline is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-3-2"><a class="anchor" href="#s-5-8-3-2">#</a> 5.8.3.2 Impact on Requirement Conflicts <span>(Tác động đến xung đột giữa yêu cầu)</span></h4>
+<p class="source-note" id="source-page-152-s-5-8-3-2">Source page anchor: p. 152 · <a href="#source-page-152-s-5-8-3-2">direct anchor</a></p>
+<p>This idea matters most when <strong>Impact on Requirement Conflicts</strong> helps the analyst address checking whether the proposed change creates inconsistency. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Impact on Requirement Conflicts is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-3-3"><a class="anchor" href="#s-5-8-3-3">#</a> 5.8.3.3 Impact on Business Analysis <span>(Tác động đến hoạt động business analysis)</span></h4>
+<p class="source-note" id="source-page-152-s-5-8-3-3">Source page anchor: p. 152 · <a href="#source-page-152-s-5-8-3-3">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Impact on Business Analysis</strong> helps the analyst address estimating new elicitation, analysis, documentation, and review work. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Impact on Business Analysis is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-3-4"><a class="anchor" href="#s-5-8-3-4">#</a> 5.8.3.4 Impact on Project Management <span>(Tác động đến quản lý dự án)</span></h4>
+<p class="source-note" id="source-page-153-s-5-8-3-4">Source page anchor: p. 153 · <a href="#source-page-153-s-5-8-3-4">direct anchor</a></p>
+<p>In practice, <strong>Impact on Project Management</strong> helps the analyst address examining effects on schedule, cost, resources, risk, and scope. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Impact on Project Management is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-5-8-3-5"><a class="anchor" href="#s-5-8-3-5">#</a> 5.8.3.5 Recommending a Course of Action <span>(Đề xuất hướng xử lý)</span></h4>
+<p class="source-note" id="source-page-154-s-5-8-3-5">Source page anchor: p. 154 · <a href="#source-page-154-s-5-8-3-5">direct anchor</a></p>
+<p>For a project team, <strong>Recommending a Course of Action</strong> helps the analyst address presenting options with rationale, trade-offs, and risk. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Recommending a Course of Action is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-5-8-4"><a class="anchor" href="#s-5-8-4">#</a> 5.8.4 Controlling Changes Related to Defects <span>(Kiểm soát thay đổi liên quan đến lỗi)</span></h3>
+<p class="source-note" id="source-page-155-s-5-8-4">Source page anchor: p. 155 · <a href="#source-page-155-s-5-8-4">direct anchor</a></p>
+<p>From a business analysis perspective, Controlling Changes Related to Defects keeps requirement evolution from becoming uncontrolled scope drift. Change is not automatically bad; unmanaged change is the problem because it hides cost, risk, conflicts, and downstream work.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use change analysis for new stakeholder requests, defect corrections that alter approved behavior, regulatory updates, technical constraints, and benefit-driven enhancements.</p></section><section><h4>How to apply</h4><p>Trace the request to affected requirements, assess product and project impacts, identify options, document risks, and recommend a decision path.</p></section></div>
+<h4>Practical example</h4>
+<p>A late request adds a new notification rule. Impact analysis shows changes to requirements, mobile UI copy, API behavior, automated tests, and user training. The recommendation includes schedule and risk options.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Approving changes without impact analysis</li><li>Treating every defect fix as free scope</li><li>Hiding trade-offs in vague recommendations</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Identify affected requirements and artifacts</li><li>Estimate BA, delivery, test, and operational impact</li><li>Show risks and options</li><li>Record the decision and update trace links</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Controlling Changes Related to Defects when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<div class="next-nav"><a class="button" href="02_chapter_4_analysis_models_requirements.html">← Previous: Chapter 4B - Analysis, Models, Documentation, and Agreement</a><a class="button primary" href="04_chapter_6_solution_evaluation.html">Next Page: Chapter 6 - Solution Evaluation →</a></div>
+<section id="generated-quiz" class="quiz"><h2><a class="anchor" href="#generated-quiz">#</a> Generated Quiz (Bài kiểm tra tạo tự động)</h2><p>Exactly 10 questions: 5 Hard and 5 Hardest. Answers are inside expandable panels.</p>
+<article class="question"><h3>Question 1 · Hard</h3><p>What is the strongest reason to maintain traceability after requirements approval?</p><ol type="A">
+<li>To make documents longer</li>
+<li>To support impact analysis, coverage checks, and controlled change</li>
+<li>To avoid all stakeholder communication</li>
+<li>To replace testing</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Traceability connects requirements to decisions, tests, scope, and changes.</p></details></article>
+<article class="question"><h3>Question 2 · Hard</h3><p>Which attribute is most useful when a requirement must be reviewed by the right person before baseline approval?</p><ol type="A">
+<li>Owner or approver</li>
+<li>Font size</li>
+<li>Page color</li>
+<li>File name length</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Owner and approver attributes make governance and accountability visible.</p></details></article>
+<article class="question"><h3>Question 3 · Hard</h3><p>A requirement cannot deliver value unless another capability is also released. What relationship is this?</p><ol type="A">
+<li>Benefit or value dependency</li>
+<li>Typographical dependency</li>
+<li>Glossary dependency</li>
+<li>Formatting dependency</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Value dependency means the benefit depends on another requirement or capability.</p></details></article>
+<article class="question"><h3>Question 4 · Hard</h3><p>What is a requirements baseline used for?</p><ol type="A">
+<li>A flexible reference for comparing and controlling approved requirements</li>
+<li>An informal brainstorming list</li>
+<li>A replacement for project objectives</li>
+<li>A list of all defects ever found</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>A baseline provides an agreed reference set for control and comparison.</p></details></article>
+<article class="question"><h3>Question 5 · Hard</h3><p>A proposed change affects acceptance tests, training materials, and a downstream interface. What activity should occur before approval?</p><ol type="A">
+<li>Impact analysis</li>
+<li>Immediate baseline replacement</li>
+<li>Survey random users only</li>
+<li>Remove trace links</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Impact analysis examines consequences across related artifacts and work.</p></details></article>
+<article class="question"><h3>Question 6 · Hardest</h3><p>A traceability matrix has many fields but no one updates it. What is the best process correction?</p><ol type="A">
+<li>Add more columns</li>
+<li>Define ownership, update triggers, minimal useful attributes, and review cadence</li>
+<li>Delete all history</li>
+<li>Use traceability only at project close</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Traceability must be maintainable; process and ownership are as important as the matrix structure.</p></details></article>
+<article class="question"><h3>Question 7 · Hardest</h3><p>Why can product scope and project scope diverge if requirements are poorly controlled?</p><ol type="A">
+<li>Product scope is never related to requirements</li>
+<li>Changes to what the solution must do can create unplanned project work</li>
+<li>Project scope is only a budget document</li>
+<li>Product scope is always smaller than project scope</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Product changes often drive project work changes, so traceability and change control protect both.</p></details></article>
+<article class="question"><h3>Question 8 · Hardest</h3><p>A defect is reported against approved behavior. When might it become a change request instead of simple defect correction?</p><ol type="A">
+<li>When the requested fix changes the approved requirement or adds new behavior</li>
+<li>When the tester is external</li>
+<li>When the defect has a screenshot</li>
+<li>When it occurs late in the sprint</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>If the resolution changes the agreed baseline, it should be treated as scope/change work.</p></details></article>
+<article class="question"><h3>Question 9 · Hardest</h3><p>Which traceability failure most directly weakens go/no-go readiness later?</p><ol type="A">
+<li>No link between requirements and test evidence</li>
+<li>Too many people know the requirements</li>
+<li>The glossary is alphabetical</li>
+<li>The backlog has priorities</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Without links to evidence, leaders cannot see whether critical requirements were satisfied.</p></details></article>
+<article class="question"><h3>Question 10 · Hardest</h3><p>A change request improves one stakeholder workflow but harms compliance reporting. What should the BA recommendation include?</p><ol type="A">
+<li>Only the benefit to the requesting stakeholder</li>
+<li>Affected requirements, conflicts, risks, options, and rationale for the proposed action</li>
+<li>A promise that compliance will adapt</li>
+<li>No analysis until after implementation</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Recommendations should make trade-offs and impacts explicit.</p></details></article>
+</section>
+<div class="next-nav"><a class="button" href="02_chapter_4_analysis_models_requirements.html">← Previous: Chapter 4B - Analysis, Models, Documentation, and Agreement</a><a class="button primary" href="04_chapter_6_solution_evaluation.html">Next Page: Chapter 6 - Solution Evaluation →</a></div>
+</main></div>
+</body>
+</html>

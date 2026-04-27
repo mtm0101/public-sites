@@ -1,0 +1,553 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Chapter 4A - Requirements Elicitation Foundations and Techniques (Chương 4A - Nền tảng và kỹ thuật khai thác yêu cầu)</title>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="site-header"><div class="brand">BA Practice Guide Study Site</div><nav><a href="index.html">Index</a><a href="print.html">Print</a><a href="build-report.json">Build report</a><a class="active" href="01_chapter_4_elicitation_foundations.html">4: Requirements Elicitation Foundations and Techniques</a><a href="02_chapter_4_analysis_models_requirements.html">4: Analysis, Models, Documentation, and Agreement</a><a href="03_chapter_5_traceability_monitoring.html">5: Traceability and Monitoring</a><a href="04_chapter_6_solution_evaluation.html">6: Solution Evaluation</a><a href="05_appendices_glossary_reference.html">X: Appendices and Glossary Reference</a></nav></header><div class="page-layout">
+<details class="right-toc" open><summary>On this page</summary><nav><a href="#page-title">Page title</a>
+<a class="" href="#s-4-1">4.1 Purpose of this Section <small>p.69</small></a>
+<a class="source-link" href="#source-page-69-s-4-1">↳ source p.69</a>
+<a class="" href="#s-4-2">4.2 What it Means to Elicit Information <small>p.69</small></a>
+<a class="source-link" href="#source-page-69-s-4-2">↳ source p.69</a>
+<a class=" toc-l3" href="#s-4-2-1">4.2.1 Elicitation Is More than Requirements Collection or Gathering <small>p.69</small></a>
+<a class="source-link toc-l3" href="#source-page-69-s-4-2-1">↳ source p.69</a>
+<a class=" toc-l3" href="#s-4-2-2">4.2.2 Importance of Eliciting Information <small>p.70</small></a>
+<a class="source-link toc-l3" href="#source-page-70-s-4-2-2">↳ source p.70</a>
+<a class="" href="#s-4-3">4.3 Plan for Elicitation <small>p.70</small></a>
+<a class="source-link" href="#source-page-70-s-4-3">↳ source p.70</a>
+<a class=" toc-l3" href="#s-4-3-1">4.3.1 Develop the Elicitation Plan <small>p.71</small></a>
+<a class="source-link toc-l3" href="#source-page-71-s-4-3-1">↳ source p.71</a>
+<a class=" toc-l4" href="#s-4-3-1-1">4.3.1.1 Finding Information <small>p.71</small></a>
+<a class=" toc-l4" href="#s-4-3-1-2">4.3.1.2 Techniques for Eliciting Information <small>p.71</small></a>
+<a class=" toc-l4" href="#s-4-3-1-3">4.3.1.3 Sequencing the Elicitation Activities <small>p.71</small></a>
+<a class="" href="#s-4-4">4.4 Prepare for Elicitation <small>p.72</small></a>
+<a class="source-link" href="#source-page-72-s-4-4">↳ source p.72</a>
+<a class=" toc-l3" href="#s-4-4-1">4.4.1 Determine the Objectives <small>p.72</small></a>
+<a class="source-link toc-l3" href="#source-page-72-s-4-4-1">↳ source p.72</a>
+<a class=" toc-l3" href="#s-4-4-2">4.4.2 Determine the Participants <small>p.72</small></a>
+<a class="source-link toc-l3" href="#source-page-72-s-4-4-2">↳ source p.72</a>
+<a class=" toc-l3" href="#s-4-4-3">4.4.3 Determine the Questions for the Session <small>p.73</small></a>
+<a class="source-link toc-l3" href="#source-page-73-s-4-4-3">↳ source p.73</a>
+<a class="" href="#s-4-5">4.5 Conduct Elicitation Activities <small>p.73</small></a>
+<a class="source-link" href="#source-page-73-s-4-5">↳ source p.73</a>
+<a class=" toc-l3" href="#s-4-5-1">4.5.1 Introduction <small>p.74</small></a>
+<a class="source-link toc-l3" href="#source-page-74-s-4-5-1">↳ source p.74</a>
+<a class=" toc-l3" href="#s-4-5-2">4.5.2 Body <small>p.74</small></a>
+<a class="source-link toc-l3" href="#source-page-74-s-4-5-2">↳ source p.74</a>
+<a class=" toc-l4" href="#s-4-5-2-1">4.5.2.1 Types of Questions <small>p.74</small></a>
+<a class=" toc-l4" href="#s-4-5-2-2">4.5.2.2 How to Ask the Right Questions <small>p.75</small></a>
+<a class=" toc-l4" href="#s-4-5-2-3">4.5.2.3 Listening <small>p.75</small></a>
+<a class=" toc-l3" href="#s-4-5-3">4.5.3 Close <small>p.75</small></a>
+<a class="source-link toc-l3" href="#source-page-75-s-4-5-3">↳ source p.75</a>
+<a class=" toc-l3" href="#s-4-5-4">4.5.4 Follow-Up <small>p.76</small></a>
+<a class="source-link toc-l3" href="#source-page-76-s-4-5-4">↳ source p.76</a>
+<a class="" href="#s-4-5-5">4.5.5 Elicitation Techniques <small>p.77</small></a>
+<a class="source-link" href="#source-page-77-s-4-5-5">↳ source p.77</a>
+<a class=" toc-l3" href="#s-4-5-5-1">4.5.5.1 Brainstorming <small>p.77</small></a>
+<a class="source-link toc-l3" href="#source-page-77-s-4-5-5-1">↳ source p.77</a>
+<a class=" toc-l3" href="#s-4-5-5-2">4.5.5.2 Document Analysis <small>p.77</small></a>
+<a class="source-link toc-l3" href="#source-page-77-s-4-5-5-2">↳ source p.77</a>
+<a class=" toc-l3" href="#s-4-5-5-3">4.5.5.3 Facilitated Workshops <small>p.78</small></a>
+<a class="source-link toc-l3" href="#source-page-78-s-4-5-5-3">↳ source p.78</a>
+<a class=" toc-l3" href="#s-4-5-5-4">4.5.5.4 Focus Groups <small>p.80</small></a>
+<a class="source-link toc-l3" href="#source-page-80-s-4-5-5-4">↳ source p.80</a>
+<a class=" toc-l3" href="#s-4-5-5-5">4.5.5.5 Interviews <small>p.80</small></a>
+<a class="source-link toc-l3" href="#source-page-80-s-4-5-5-5">↳ source p.80</a>
+<a class=" toc-l3" href="#s-4-5-5-6">4.5.5.6 Observation <small>p.82</small></a>
+<a class="source-link toc-l3" href="#source-page-82-s-4-5-5-6">↳ source p.82</a>
+<a class=" toc-l3" href="#s-4-5-5-7">4.5.5.7 Prototyping <small>p.83</small></a>
+<a class="source-link toc-l3" href="#source-page-83-s-4-5-5-7">↳ source p.83</a>
+<a class=" toc-l3" href="#s-4-5-5-8">4.5.5.8 Questionnaires and Surveys <small>p.85</small></a>
+<a class="source-link toc-l3" href="#source-page-85-s-4-5-5-8">↳ source p.85</a>
+<a class="" href="#s-4-6">4.6 Document Outputs from Elicitation Activities <small>p.86</small></a>
+<a class="source-link" href="#source-page-86-s-4-6">↳ source p.86</a>
+<a class="" href="#s-4-7">4.7 Complete Elicitation <small>p.86</small></a>
+<a class="source-link" href="#source-page-86-s-4-7">↳ source p.86</a>
+<a class="" href="#s-4-8">4.8 Elicitation Issues and Challenges <small>p.87</small></a>
+<a class="source-link" href="#source-page-87-s-4-8">↳ source p.87</a>
+<a href="#generated-quiz">Generated Quiz</a></nav></details>
+<main class="content">
+<h1 id="page-title"><a class="anchor" href="#page-title">#</a> Chapter 4A - Requirements Elicitation Foundations and Techniques (Chương 4A - Nền tảng và kỹ thuật khai thác yêu cầu)</h1>
+<p class="scope-note"><strong>Scope note:</strong> This page covers the first half of Chapter 4: how to plan, prepare, run, close, and troubleshoot elicitation. It treats elicitation as active discovery rather than passive collection, with emphasis on stakeholder readiness, questioning, listening, follow-up, and choosing techniques that fit the context.</p>
+<section class="summary-card"><h2>Learning map (Bản đồ học tập)</h2><ul>
+<li>Treat elicitation as discovery. A stakeholder statement is input, not automatically a requirement.</li>
+<li>Choose techniques by purpose: depth, breadth, validation, observation, consensus, or creative generation.</li>
+<li>Prepare objectives and questions, then adapt when the conversation reveals new information.</li>
+<li>Close sessions with decisions, open issues, owners, and confirmation steps.</li>
+<li>Document outputs quickly while memory and context are still fresh.</li>
+</ul></section>
+<section class="learning-section">
+<h2 id="s-4-1"><a class="anchor" href="#s-4-1">#</a> 4.1 Purpose of this Section <span>(Mục đích của phần này)</span></h2>
+<p class="source-note" id="source-page-69-s-4-1">Source page anchor: p. 69 · <a href="#source-page-69-s-4-1">direct anchor</a></p>
+<p>In practice, <strong>Purpose of this Section</strong> addresses requirements elicitation and analysis as an iterative path from stakeholder information to solution-ready requirements. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Purpose of this Section when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-2"><a class="anchor" href="#s-4-2">#</a> 4.2 What it Means to Elicit Information <span>(Ý nghĩa của việc khai thác thông tin)</span></h2>
+<p class="source-note" id="source-page-69-s-4-2">Source page anchor: p. 69 · <a href="#source-page-69-s-4-2">direct anchor</a></p>
+<p>For a project team, <strong>What it Means to Elicit Information</strong> addresses eliciting information by drawing out needs, constraints, assumptions, risks, decisions, and context. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use What it Means to Elicit Information when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-2-1"><a class="anchor" href="#s-4-2-1">#</a> 4.2.1 Elicitation Is More than Requirements Collection or Gathering <span>(Khai thác không chỉ là thu thập yêu cầu)</span></h3>
+<p class="source-note" id="source-page-69-s-4-2-1">Source page anchor: p. 69 · <a href="#source-page-69-s-4-2-1">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Elicitation Is More than Requirements Collection or Gathering</strong> addresses moving beyond order-taking by probing, clarifying, and discovering hidden needs. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Elicitation Is More than Requirements Collection or Gathering when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-2-2"><a class="anchor" href="#s-4-2-2">#</a> 4.2.2 Importance of Eliciting Information <span>(Tầm quan trọng của khai thác thông tin)</span></h3>
+<p class="source-note" id="source-page-70-s-4-2-2">Source page anchor: p. 70 · <a href="#source-page-70-s-4-2-2">direct anchor</a></p>
+<p>On a real initiative, <strong>Importance of Eliciting Information</strong> addresses improving alignment, reducing rework, and finding the real business need before design decisions harden. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Importance of Eliciting Information when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-3"><a class="anchor" href="#s-4-3">#</a> 4.3 Plan for Elicitation <span>(Lập kế hoạch khai thác)</span></h2>
+<p class="source-note" id="source-page-70-s-4-3">Source page anchor: p. 70 · <a href="#source-page-70-s-4-3">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Plan for Elicitation</strong> addresses turning discovery into a deliberate sequence of sessions, sources, methods, and follow-up work. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Plan for Elicitation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-3-1"><a class="anchor" href="#s-4-3-1">#</a> 4.3.1 Develop the Elicitation Plan <span>(Xây dựng kế hoạch khai thác)</span></h3>
+<p class="source-note" id="source-page-71-s-4-3-1">Source page anchor: p. 71 · <a href="#source-page-71-s-4-3-1">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Develop the Elicitation Plan</strong> addresses documenting objectives, stakeholders, techniques, timing, outputs, and responsibilities. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Develop the Elicitation Plan when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-3-1-1"><a class="anchor" href="#s-4-3-1-1">#</a> 4.3.1.1 Finding Information <span>(Tìm nguồn thông tin)</span></h4>
+<p class="source-note" id="source-page-71-s-4-3-1-1">Source page anchor: p. 71 · <a href="#source-page-71-s-4-3-1-1">direct anchor</a></p>
+<p>When applied well, <strong>Finding Information</strong> helps the analyst address locating policies, systems, people, metrics, documents, and prior lessons. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Finding Information is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-3-1-2"><a class="anchor" href="#s-4-3-1-2">#</a> 4.3.1.2 Techniques for Eliciting Information <span>(Kỹ thuật khai thác thông tin)</span></h4>
+<p class="source-note" id="source-page-71-s-4-3-1-2">Source page anchor: p. 71 · <a href="#source-page-71-s-4-3-1-2">direct anchor</a></p>
+<p>The business value of this topic is that <strong>Techniques for Eliciting Information</strong> helps the analyst address selecting the approach that best fits stakeholder availability, ambiguity, and risk. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Techniques for Eliciting Information is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-3-1-3"><a class="anchor" href="#s-4-3-1-3">#</a> 4.3.1.3 Sequencing the Elicitation Activities <span>(Sắp xếp thứ tự hoạt động khai thác)</span></h4>
+<p class="source-note" id="source-page-71-s-4-3-1-3">Source page anchor: p. 71 · <a href="#source-page-71-s-4-3-1-3">direct anchor</a></p>
+<p>This idea matters most when <strong>Sequencing the Elicitation Activities</strong> helps the analyst address ordering interviews, workshops, prototypes, and analysis activities so each one feeds the next. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Sequencing the Elicitation Activities is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-4"><a class="anchor" href="#s-4-4">#</a> 4.4 Prepare for Elicitation <span>(Chuẩn bị cho khai thác)</span></h2>
+<p class="source-note" id="source-page-72-s-4-4">Source page anchor: p. 72 · <a href="#source-page-72-s-4-4">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Prepare for Elicitation</strong> addresses making the session productive before it begins by clarifying goals, participants, questions, and logistics. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Prepare for Elicitation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-4-1"><a class="anchor" href="#s-4-4-1">#</a> 4.4.1 Determine the Objectives <span>(Xác định mục tiêu)</span></h3>
+<p class="source-note" id="source-page-72-s-4-4-1">Source page anchor: p. 72 · <a href="#source-page-72-s-4-4-1">direct anchor</a></p>
+<p>In practice, <strong>Determine the Objectives</strong> addresses stating what the session must learn, decide, validate, or resolve. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Determine the Objectives when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-4-2"><a class="anchor" href="#s-4-4-2">#</a> 4.4.2 Determine the Participants <span>(Xác định người tham gia)</span></h3>
+<p class="source-note" id="source-page-72-s-4-4-2">Source page anchor: p. 72 · <a href="#source-page-72-s-4-4-2">direct anchor</a></p>
+<p>For a project team, <strong>Determine the Participants</strong> addresses choosing the right mix of decision makers, subject matter experts, users, operators, and technical advisors. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Determine the Participants when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-4-3"><a class="anchor" href="#s-4-4-3">#</a> 4.4.3 Determine the Questions for the Session <span>(Xác định câu hỏi cho buổi làm việc)</span></h3>
+<p class="source-note" id="source-page-73-s-4-4-3">Source page anchor: p. 73 · <a href="#source-page-73-s-4-4-3">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Determine the Questions for the Session</strong> addresses preparing questions that uncover process, data, rules, exceptions, pain points, and success measures. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Determine the Questions for the Session when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-5"><a class="anchor" href="#s-4-5">#</a> 4.5 Conduct Elicitation Activities <span>(Thực hiện hoạt động khai thác)</span></h2>
+<p class="source-note" id="source-page-73-s-4-5">Source page anchor: p. 73 · <a href="#source-page-73-s-4-5">direct anchor</a></p>
+<p>On a real initiative, <strong>Conduct Elicitation Activities</strong> addresses running the session with structure, facilitation discipline, listening, and closure. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Conduct Elicitation Activities when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-1"><a class="anchor" href="#s-4-5-1">#</a> 4.5.1 Introduction <span>(Phần mở đầu)</span></h3>
+<p class="source-note" id="source-page-74-s-4-5-1">Source page anchor: p. 74 · <a href="#source-page-74-s-4-5-1">direct anchor</a></p>
+<p>A useful way to read this topic is that <strong>Introduction</strong> addresses opening the session by confirming purpose, scope, roles, agenda, and working agreements. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Introduction when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-2"><a class="anchor" href="#s-4-5-2">#</a> 4.5.2 Body <span>(Phần chính)</span></h3>
+<p class="source-note" id="source-page-74-s-4-5-2">Source page anchor: p. 74 · <a href="#source-page-74-s-4-5-2">direct anchor</a></p>
+<p>The practitioner should treat this as <strong>Body</strong> addresses driving the conversation through prepared questions, exploration, modeling, and issue resolution. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Body when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-5-2-1"><a class="anchor" href="#s-4-5-2-1">#</a> 4.5.2.1 Types of Questions <span>(Các loại câu hỏi)</span></h4>
+<p class="source-note" id="source-page-74-s-4-5-2-1">Source page anchor: p. 74 · <a href="#source-page-74-s-4-5-2-1">direct anchor</a></p>
+<p>When applied well, <strong>Types of Questions</strong> helps the analyst address using open, closed, probing, comparative, and scenario-based questions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Types of Questions is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-5-2-2"><a class="anchor" href="#s-4-5-2-2">#</a> 4.5.2.2 How to Ask the Right Questions <span>(Cách đặt câu hỏi đúng)</span></h4>
+<p class="source-note" id="source-page-75-s-4-5-2-2">Source page anchor: p. 75 · <a href="#source-page-75-s-4-5-2-2">direct anchor</a></p>
+<p>The business value of this topic is that <strong>How to Ask the Right Questions</strong> helps the analyst address asking neutral, precise, and context-aware questions without leading the stakeholder. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> How to Ask the Right Questions is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h4 id="s-4-5-2-3"><a class="anchor" href="#s-4-5-2-3">#</a> 4.5.2.3 Listening <span>(Lắng nghe)</span></h4>
+<p class="source-note" id="source-page-75-s-4-5-2-3">Source page anchor: p. 75 · <a href="#source-page-75-s-4-5-2-3">direct anchor</a></p>
+<p>This idea matters most when <strong>Listening</strong> helps the analyst address capturing meaning, emotion, constraints, contradictions, and implicit assumptions. Use it when the team needs a precise view of this narrower topic, especially where misunderstanding would create rework, defects, or stakeholder disagreement.</p>
+<ul class="compact-list"><li><strong>Apply:</strong> capture the relevant facts, assumptions, exceptions, and decision points before converting them into requirements or evaluation criteria.</li><li><strong>Check:</strong> ask whether the output can be reviewed by the right stakeholder and traced to a business reason.</li><li><strong>Avoid:</strong> treating this item as isolated documentation; connect it to models, requirements, tests, changes, or metrics where appropriate.</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Listening is useful when it improves shared understanding and supports a later decision, not when it merely adds another artifact.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-3"><a class="anchor" href="#s-4-5-3">#</a> 4.5.3 Close <span>(Kết thúc buổi làm việc)</span></h3>
+<p class="source-note" id="source-page-75-s-4-5-3">Source page anchor: p. 75 · <a href="#source-page-75-s-4-5-3">direct anchor</a></p>
+<p>A mature team uses this topic to <strong>Close</strong> addresses summarizing decisions, open items, owners, due dates, and next steps. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Close when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-4"><a class="anchor" href="#s-4-5-4">#</a> 4.5.4 Follow-Up <span>(Theo dõi sau buổi làm việc)</span></h3>
+<p class="source-note" id="source-page-76-s-4-5-4">Source page anchor: p. 76 · <a href="#source-page-76-s-4-5-4">direct anchor</a></p>
+<p>In practice, <strong>Follow-Up</strong> addresses confirming notes, updating artifacts, and resolving action items quickly. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Follow-Up when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-5-5"><a class="anchor" href="#s-4-5-5">#</a> 4.5.5 Elicitation Techniques <span>(Các kỹ thuật khai thác)</span></h2>
+<p class="source-note" id="source-page-77-s-4-5-5">Source page anchor: p. 77 · <a href="#source-page-77-s-4-5-5">direct anchor</a></p>
+<p>For a project team, Elicitation Techniques is a way to select or use elicitation methods so the team can uncover matching elicitation methods to information needs and stakeholder conditions. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<table><thead><tr><th>Technique</th><th>Best fit</th><th>Watch out for</th></tr></thead><tbody><tr><td>Brainstorming</td><td>Generating many possible needs, risks, causes, or solutions</td><td>Judging ideas too early</td></tr><tr><td>Document analysis</td><td>Learning the current state before using stakeholder time</td><td>Assuming documents reflect real practice</td></tr><tr><td>Workshops</td><td>Building shared agreement and resolving cross-functional issues</td><td>Letting authority dominate evidence</td></tr><tr><td>Observation</td><td>Finding tacit work, shortcuts, and exceptions</td><td>Changing behavior because people know they are watched</td></tr><tr><td>Prototyping</td><td>Clarifying uncertain user interactions or report expectations</td><td>Stakeholders confusing prototype with final design</td></tr><tr><td>Surveys</td><td>Reaching many respondents with consistent questions</td><td>Using survey results without follow-up context</td></tr></tbody></table>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Elicitation Techniques when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-1"><a class="anchor" href="#s-4-5-5-1">#</a> 4.5.5.1 Brainstorming <span>(Động não)</span></h3>
+<p class="source-note" id="source-page-77-s-4-5-5-1">Source page anchor: p. 77 · <a href="#source-page-77-s-4-5-5-1">direct anchor</a></p>
+<p>From a business analysis perspective, Brainstorming is a way to select or use elicitation methods so the team can uncover generating many ideas before judging or narrowing them. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Brainstorming when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-2"><a class="anchor" href="#s-4-5-5-2">#</a> 4.5.5.2 Document Analysis <span>(Phân tích tài liệu)</span></h3>
+<p class="source-note" id="source-page-77-s-4-5-5-2">Source page anchor: p. 77 · <a href="#source-page-77-s-4-5-5-2">direct anchor</a></p>
+<p>On a real initiative, Document Analysis is a way to select or use elicitation methods so the team can uncover mining existing manuals, policies, reports, contracts, logs, and specifications. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Document Analysis when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-3"><a class="anchor" href="#s-4-5-5-3">#</a> 4.5.5.3 Facilitated Workshops <span>(Hội thảo có điều phối)</span></h3>
+<p class="source-note" id="source-page-78-s-4-5-5-3">Source page anchor: p. 78 · <a href="#source-page-78-s-4-5-5-3">direct anchor</a></p>
+<p>A useful way to read this topic is that Facilitated Workshops is a way to select or use elicitation methods so the team can uncover bringing stakeholders together to agree, model, prioritize, or resolve issues. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Facilitated Workshops when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-4"><a class="anchor" href="#s-4-5-5-4">#</a> 4.5.5.4 Focus Groups <span>(Nhóm tập trung)</span></h3>
+<p class="source-note" id="source-page-80-s-4-5-5-4">Source page anchor: p. 80 · <a href="#source-page-80-s-4-5-5-4">direct anchor</a></p>
+<p>The practitioner should treat this as Focus Groups is a way to select or use elicitation methods so the team can uncover collecting representative feedback from selected users or customer groups. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Focus Groups when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-5"><a class="anchor" href="#s-4-5-5-5">#</a> 4.5.5.5 Interviews <span>(Phỏng vấn)</span></h3>
+<p class="source-note" id="source-page-80-s-4-5-5-5">Source page anchor: p. 80 · <a href="#source-page-80-s-4-5-5-5">direct anchor</a></p>
+<p>When applied well, Interviews is a way to select or use elicitation methods so the team can uncover obtaining deep perspective from one person or a small group. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Interviews when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-6"><a class="anchor" href="#s-4-5-5-6">#</a> 4.5.5.6 Observation <span>(Quan sát)</span></h3>
+<p class="source-note" id="source-page-82-s-4-5-5-6">Source page anchor: p. 82 · <a href="#source-page-82-s-4-5-5-6">direct anchor</a></p>
+<p>The business value of this topic is that Observation is a way to select or use elicitation methods so the team can uncover watching real work to discover tacit knowledge and workarounds. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Observation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-7"><a class="anchor" href="#s-4-5-5-7">#</a> 4.5.5.7 Prototyping <span>(Tạo mẫu)</span></h3>
+<p class="source-note" id="source-page-83-s-4-5-5-7">Source page anchor: p. 83 · <a href="#source-page-83-s-4-5-5-7">direct anchor</a></p>
+<p>This idea matters most when Prototyping is a way to select or use elicitation methods so the team can uncover using early representations to clarify expectations and discover gaps. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Prototyping when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h3 id="s-4-5-5-8"><a class="anchor" href="#s-4-5-5-8">#</a> 4.5.5.8 Questionnaires and Surveys <span>(Bảng hỏi và khảo sát)</span></h3>
+<p class="source-note" id="source-page-85-s-4-5-5-8">Source page anchor: p. 85 · <a href="#source-page-85-s-4-5-5-8">direct anchor</a></p>
+<p>A mature team uses this topic to Questionnaires and Surveys is a way to select or use elicitation methods so the team can uncover collecting structured input from a larger group efficiently. The technique is valuable when the project has uncertainty, multiple stakeholder perspectives, or practical work that is not fully captured in existing documents.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs a deliberate discovery method rather than an informal conversation. It is especially helpful when one source of information is incomplete or biased.</p></section><section><h4>How to apply</h4><p>Clarify the objective, choose participants, prepare prompts or artifacts, run the activity, record decisions and assumptions, and confirm the results with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>Before a workshop, the BA reviews current procedures, interviews two power users, and brings a draft process flow. The workshop then focuses on correcting assumptions and deciding exceptions instead of starting from a blank page.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Using one elicitation method for every situation</li><li>Inviting only loud or available stakeholders</li><li>Skipping confirmation after the session</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>Clarify objective before the activity</li><li>Select participants intentionally</li><li>Prepare materials and questions</li><li>Confirm notes, decisions, and follow-up actions</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Questionnaires and Surveys when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-6"><a class="anchor" href="#s-4-6">#</a> 4.6 Document Outputs from Elicitation Activities <span>(Ghi nhận đầu ra từ khai thác)</span></h2>
+<p class="source-note" id="source-page-86-s-4-6">Source page anchor: p. 86 · <a href="#source-page-86-s-4-6">direct anchor</a></p>
+<p>In practice, <strong>Document Outputs from Elicitation Activities</strong> addresses turning notes and raw feedback into analyzable requirements material. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Document Outputs from Elicitation Activities when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-7"><a class="anchor" href="#s-4-7">#</a> 4.7 Complete Elicitation <span>(Hoàn tất khai thác)</span></h2>
+<p class="source-note" id="source-page-86-s-4-7">Source page anchor: p. 86 · <a href="#source-page-86-s-4-7">direct anchor</a></p>
+<p>For a project team, <strong>Complete Elicitation</strong> addresses deciding when enough information has been captured for the next analysis step. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Complete Elicitation when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<section class="learning-section">
+<h2 id="s-4-8"><a class="anchor" href="#s-4-8">#</a> 4.8 Elicitation Issues and Challenges <span>(Vấn đề và thách thức trong khai thác)</span></h2>
+<p class="source-note" id="source-page-87-s-4-8">Source page anchor: p. 87 · <a href="#source-page-87-s-4-8">direct anchor</a></p>
+<p>From a business analysis perspective, <strong>Elicitation Issues and Challenges</strong> addresses handling conflicting input, unavailable stakeholders, ambiguity, bias, and scope creep. In a project setting, this topic helps the analyst convert uncertain information into a form that supports decisions, collaboration, and delivery.</p>
+<div class="learning-grid"><section><h4>Use it when</h4><p>Use this topic when the team needs clearer understanding, stronger stakeholder alignment, or a more reliable basis for future work.</p></section><section><h4>How to apply</h4><p>Clarify the business reason, select the right participants, produce an artifact that answers a real question, and confirm the result with stakeholders.</p></section></div>
+<h4>Practical example</h4>
+<p>A BA working with product, engineering, QA, and operations records the business reason, stakeholder input, open assumptions, and next decision so the team can move forward with a shared understanding.</p>
+<h4>Common mistakes / anti-patterns</h4>
+<ul><li>Documenting output without a decision purpose</li><li>Assuming stakeholder statements are complete</li><li>Skipping review with affected parties</li></ul>
+<h4>Checklist</h4>
+<ul class="checklist"><li>State the business reason</li><li>Name the affected stakeholders</li><li>Capture assumptions and exceptions</li><li>Confirm the output with the right audience</li></ul>
+<p class="takeaway"><strong>Key takeaway:</strong> Use Elicitation Issues and Challenges when it helps the team make a clearer decision, reduce uncertainty, or protect business value.</p>
+</section>
+<div class="next-nav"><a class="button" href="index.html">← Back to Index</a><a class="button primary" href="02_chapter_4_analysis_models_requirements.html">Next Page: Chapter 4B - Analysis, Models, Documentation, and Agreement →</a></div>
+<section id="generated-quiz" class="quiz"><h2><a class="anchor" href="#generated-quiz">#</a> Generated Quiz (Bài kiểm tra tạo tự động)</h2><p>Exactly 10 questions: 5 Hard and 5 Hardest. Answers are inside expandable panels.</p>
+<article class="question"><h3>Question 1 · Hard</h3><p>A stakeholder says, &quot;Just copy the old workflow into the new system.&quot; What should the business analyst do first?</p><ol type="A">
+<li>Accept it as a confirmed requirement because it comes from a user</li>
+<li>Probe the business outcome, pain points, exceptions, and evidence before documenting solution behavior</li>
+<li>Move directly to wireframes so stakeholders can approve screens</li>
+<li>Ask the project manager to remove the stakeholder from elicitation</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Elicitation is not order-taking. The analyst should discover the need, context, and constraints before turning input into requirements.</p></details></article>
+<article class="question"><h3>Question 2 · Hard</h3><p>Which situation best justifies observation as an elicitation technique?</p><ol type="A">
+<li>Users describe a routine that contains many unspoken workarounds</li>
+<li>Executives need to approve a budget summary</li>
+<li>The team needs anonymous voting on solution options</li>
+<li>A large audience must answer the same closed questions</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: A</strong></p><p>Observation is strongest when actual work differs from described work or tacit knowledge is hard to verbalize.</p></details></article>
+<article class="question"><h3>Question 3 · Hard</h3><p>A workshop has several senior stakeholders who keep jumping to design decisions. What facilitation response is strongest?</p><ol type="A">
+<li>Cancel the session and ask for written input only</li>
+<li>Capture design ideas separately, then redirect the group to the business decision or requirement question</li>
+<li>Let the most senior person decide to save time</li>
+<li>Reject all design comments because design is never relevant</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>The facilitator should preserve useful input while preventing premature design from replacing requirement discovery.</p></details></article>
+<article class="question"><h3>Question 4 · Hard</h3><p>Why should elicitation questions be prepared before the session but not treated as a rigid script?</p><ol type="A">
+<li>Prepared questions are only useful for audits</li>
+<li>Stakeholder answers may reveal new paths that need probing</li>
+<li>The analyst should avoid documenting anything during elicitation</li>
+<li>The project manager owns all questions</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Preparation improves focus, but elicitation needs adaptive questioning as new information emerges.</p></details></article>
+<article class="question"><h3>Question 5 · Hard</h3><p>A survey returns many contradictory answers. What is the best next step?</p><ol type="A">
+<li>Average the answers and write a requirement</li>
+<li>Ignore all survey data</li>
+<li>Segment responses and follow up with interviews or workshops to understand the disagreement</li>
+<li>Use only the first ten responses</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: C</strong></p><p>Surveys can reveal patterns but often require follow-up to interpret contradictions and reasons.</p></details></article>
+<article class="question"><h3>Question 6 · Hardest</h3><p>A team plans interviews before document analysis even though detailed procedures and logs already exist. What risk does this create?</p><ol type="A">
+<li>Interviews will be legally invalid</li>
+<li>Stakeholders may spend time explaining facts that could have been learned first, reducing time for judgment and exceptions</li>
+<li>Documents always replace stakeholder sessions</li>
+<li>The BA plan becomes a project schedule</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Document analysis can prepare the analyst so stakeholder time is used for interpretation, gaps, and decisions rather than basic discovery.</p></details></article>
+<article class="question"><h3>Question 7 · Hardest</h3><p>During elicitation, two user groups disagree about the same process. Which output should the BA produce before choosing a side?</p><ol type="A">
+<li>A single requirement based on the louder group</li>
+<li>A neutral summary of variants, decision points, business rules, impacts, and unresolved questions</li>
+<li>A design prototype that hides the disagreement</li>
+<li>A defect report against the current system</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Conflicting input should be made visible and analyzable before resolution.</p></details></article>
+<article class="question"><h3>Question 8 · Hardest</h3><p>When is prototyping most risky as an elicitation technique?</p><ol type="A">
+<li>When stakeholders need a visual conversation aid</li>
+<li>When the prototype is mistaken for an approved design or finished promise</li>
+<li>When the team is discussing screen behavior</li>
+<li>When users struggle to describe abstract needs</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>A prototype helps discovery, but it can mislead stakeholders if its status and limits are not clear.</p></details></article>
+<article class="question"><h3>Question 9 · Hardest</h3><p>A session closes without action owners or confirmation of decisions. What downstream problem is most likely?</p><ol type="A">
+<li>The requirements will become more measurable automatically</li>
+<li>Stakeholders may later dispute what was agreed or fail to resolve open items</li>
+<li>The traceability matrix will be unnecessary</li>
+<li>All elicitation issues are solved by the meeting transcript</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>Closure and follow-up protect shared understanding and accountability.</p></details></article>
+<article class="question"><h3>Question 10 · Hardest</h3><p>Which sequence is most defensible for a complex new domain?</p><ol type="A">
+<li>Start with a final approval meeting, then conduct interviews</li>
+<li>Review existing artifacts, interview key SMEs, model the process, then validate the model in a workshop</li>
+<li>Send a survey only, then freeze the baseline</li>
+<li>Build the solution first and use defects as requirements</li>
+</ol>
+<details><summary>Show answer</summary><p><strong>Correct answer: B</strong></p><p>A sequenced approach uses each activity to improve the next and reduces discovery risk.</p></details></article>
+</section>
+<div class="next-nav"><a class="button" href="index.html">← Back to Index</a><a class="button primary" href="02_chapter_4_analysis_models_requirements.html">Next Page: Chapter 4B - Analysis, Models, Documentation, and Agreement →</a></div>
+</main></div>
+</body>
+</html>
