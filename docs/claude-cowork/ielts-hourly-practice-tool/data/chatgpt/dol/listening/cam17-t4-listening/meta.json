@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam17-t4-listening",
+ "title": "CAM IELTS 17 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 17",
+ "testNum": 4,
+ "order": 16,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-17-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Easy Life Cleaning Services",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/d9aac0a2-eaf6-4447-bfb9-631835ea8bcb.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6119905
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/d34a9cbe-a4c0-4563-b6b8-4d5963d6cdd1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 48
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Hotels",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/01371cc1-3888-4d54-a5d2-27013ab32779.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 7544781
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/eaba7c00-2506-458e-8056-b93a051e5699.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 42
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Sporting Activities",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/941da847-467e-4ed7-a150-fd77aa59b4e2.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6570669
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/cab249ab-267e-41d2-9fd1-1110535edf81.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 69
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Maple syrup",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/c23a6f12-2d43-425a-9a29-51ef82212354.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 8235333
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/fa795c79-f248-4028-851a-138a11c425d7.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 38
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:36:59Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

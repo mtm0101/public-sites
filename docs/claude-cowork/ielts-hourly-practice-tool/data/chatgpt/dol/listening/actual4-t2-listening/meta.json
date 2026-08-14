@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t2-listening",
+ "title": "Actual Test 4 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 2,
+ "order": 86,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Information On Music Class",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0df59aaf-d3b0-4a77-b3f2-b6c09bac18ac.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 18838509
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4db2607c-b8ef-4d1b-a8e3-53f952b0cd6e.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 65
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Annual Ski And Snowboard Exhibition",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/848d624f-327e-4cef-8999-5b3333f4b56f.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 16442558
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/195f92b8-2de4-4ee7-b0b4-935d2b28ea2b.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 44
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Lesson Discussion",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/021cb82c-7dfb-43dd-997e-b306c65948bf.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 16889775
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/96ed3172-a623-4a2e-ae24-af3189e5ddae.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 56
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Arguments For And Against Urban Migration",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8d3131a4-1876-44c8-9e83-2fe09cd4740e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 18917921
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ed785fde-18fa-46f3-a4ef-7369cfb026be.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 46
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:49:35Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

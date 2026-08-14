@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual6-t4-listening",
+ "title": "Actual Test 6 - Listening Test 4",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 6",
+ "testNum": 4,
+ "order": 100,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-6-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Survey Form",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4c963daa-e761-41e7-b04c-076d31f3b7d0.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6414881
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4b95328b-9523-42a0-a2de-46fa500f1b13.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 38
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Independent Learning Centre",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7394838e-10fa-45b4-9c8b-af2e2016887c.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5772060
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1da7bfad-0f51-4c1e-96d2-8f76fcb3dc2a.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 13
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Lecture-Listening Note-Taking Strategies",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/347b88b0-1b48-41d2-9415-f5bcd516435b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5601951
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/34c5a2f4-cb11-4317-9c78-3b9e7da301fd.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Neutrinos",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/128c246c-dcdf-4d3b-b1d3-d4473295100e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5784599
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2862db2c-3c86-4c7b-89f8-e68cbdbbbdbf.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:55:41Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

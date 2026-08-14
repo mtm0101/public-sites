@@ -1,0 +1,2804 @@
+{
+ "schema": 1,
+ "id": "actual4-t2-listening",
+ "title": "Actual Test 4 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 2,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-4-test-2-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-4-test-2-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Information On Music Class",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "1702ab12-2749-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "1702ab13-2749-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "The teacher praised student Emma for",
+       "options": [
+        {
+         "key": 0,
+         "value": "her good performance in public show. "
+        },
+        {
+         "key": 1,
+         "value": "setting a good example for others."
+        },
+        {
+         "key": 2,
+         "value": "settling in quickly"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về \"},{\"text\":\"lời khen của cô giáo dành cho Emma\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\" How’s Emma doing\",\"bold\":true},{\"text\":\" in drama class?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''She \"},{\"text\":\"exhibits a strong performance\",\"bold\":true},{\"text\":\" in her drama \"},{\"text\":\"class.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Giáo viên \"},{\"text\":\"khen về performance trong lớp học\",\"bold\":true},{\"text\":\", không phải trong buổi biểu diễn (public show) \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''She\"},{\"text\":\" didn’t adapt to the new environment as quickly\",\"bold\":true},{\"text\":\" \"},{\"text\":\"as \",\"bold\":true},{\"text\":\"I originally \"},{\"text\":\"expected\",\"bold\":true},{\"text\":\", and seemed \"},{\"text\":\"a bit shy\",\"bold\":true},{\"text\":\" at first.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"không hòa nhập nhanh \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"(\"},{\"text\":\"settling in\",\"bold\":true},{\"text\":\" ở đây có thể hiểu là \"},{\"text\":\"hòa nhập\",\"bold\":true},{\"text\":\", thích nghi với môi trường mới)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''Emma really\"},{\"text\":\" is a role model for others\",\"bold\":true},{\"text\":\", because she has always been an active participant during class.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Giáo viên khen \"},{\"text\":\"Emma là tấm gương tốt cho các bạn \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "4/171896-176318",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 176,
+            "text": "Oh, thank you for calling. How’s Emma doing in drama class?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "5/176318-184048",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 184,
+            "text": "You know she just transferred here last month, unlike the others in her class who have been taking the course the whole semester since June.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "6/184048-187591",
+            "startTimeInSeconds": 184,
+            "endTimeInSeconds": 187,
+            "text": "So I’m a bit worried that she might not fit in so well.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "7/187591-192900",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 192,
+            "text": "There’s no need to worry. She exhibits a strong performance in her drama class.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "8/192900-194205",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 194,
+            "text": "Is that so?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "9/194205-203000",
+            "startTimeInSeconds": 194,
+            "endTimeInSeconds": 203,
+            "text": "Yes. She didn’t adapt to the new environment as quickly as I originally expected, and seemed a bit shy at first.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1702ab14-2749-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "Why has the timetable for drama class changed?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Because of falling enrollment."
+        },
+        {
+         "key": 1,
+         "value": "Because the class size is too big."
+        },
+        {
+         "key": 2,
+         "value": "Because of the availability of music room."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" vì sao timetable thay đổi\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''I also have to inform you that there’s been an\"},{\"text\":\" adjustment in the timetable\",\"bold\":true},{\"text\":\" of the drama class next term.''\\n\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Trước hết, giáo viên nói là '\"},{\"text\":\"'It’s not that the music room\",\"bold\":true},{\"text\":\" that we currently use \"},{\"text\":\"isn’t available\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lý do cho sự thay đổi\"},{\"text\":\" không phải là bởi không có phòng học \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Lý do đúng là ''As there are \"},{\"text\":\"too many enrolling for the coming semester\",\"bold\":true},{\"text\":\", increased class size means that \"},{\"text\":\"space is limited to house the whole class\",\"bold\":true},{\"text\":\". ''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Do có \"},{\"text\":\"nhiều học sinh đăng ký\",\"bold\":true},{\"text\":\", phòng học hiện tại \"},{\"text\":\"không đủ rộng để chứa hết các học sinh\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cũng nhờ câu này mà ta nghe được là \"},{\"text\":\"số học sinh đăng ký học đang tăng\",\"bold\":true},{\"text\":\", không phải giảm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 233,
+          "endTimeInSeconds": 263,
+          "transcripts": [
+           {
+            "id": "16/233352-239895",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 239,
+            "text": "I also have to inform you that there’s been an adjustment in the timetable of the drama class next term.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "17/239895-240777",
+            "startTimeInSeconds": 239,
+            "endTimeInSeconds": 240,
+            "text": "Why is that?",
+            "character": {
+             "id": "R_jE19QstrwSai6v5WN3o",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "18/240777-245881",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 245,
+            "text": "It’s not that the music room that we currently use isn’t available.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "19/245881-254168",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 254,
+            "text": "As there are too many enrolling for the coming semester, increased class size means that space is limited to house the whole class.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "20/254168-263124",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 263,
+            "text": "Also the new classroom we use is not available during the current timeframe, so I’m afraid we have to change the time for it.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1702ab15-2749-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the new time for the drama class?",
+       "options": [
+        {
+         "key": 0,
+         "value": "3.15 pm"
+        },
+        {
+         "key": 1,
+         "value": "4.15 pm"
+        },
+        {
+         "key": 2,
+         "value": "4.45 pm"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"giờ lớp học mới\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau ''So \"},{\"text\":\"when would it be\",\"bold\":true},{\"text\":\"?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''As you know, the \"},{\"text\":\"current class\",\"bold\":true},{\"text\":\" begins at \"},{\"text\":\"three fifteen\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Giờ lớp học hiện tại là 3.15\",\"bold\":true},{\"text\":\", không phải giờ lớp học mới \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''But the \"},{\"text\":\"new time\",\"bold\":true},{\"text\":\" of the drama class would be \"},{\"text\":\"a quarter to five.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Giờ học mới là 5 giờ kém 15\",\"bold\":true},{\"text\":\", tức 4.45 pm \\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 273,
+          "transcripts": [
+           {
+            "id": "21/263124-265882",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 265,
+            "text": "I see. So when would it be?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "22/265882-269793",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 269,
+            "text": " As you know, the current class begins at three fifteen.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "23/269793-273632",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 273,
+            "text": "But the new time of thedrama class would be a quarter to five.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "1702ab16-2749-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "1702ab17-2749-11ed-af29-83e4ce9ba581",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "The course is full."
+        },
+        {
+         "key": 1,
+         "value": "The course fee is too expensive."
+        },
+        {
+         "key": 2,
+         "value": "She has another activity at that time."
+        },
+        {
+         "key": 3,
+         "value": "She has another activity that evening."
+        },
+        {
+         "key": 4,
+         "value": "The class is too late."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng đầu tiên là\"},{\"text\":\" dance class \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''I’m thinking about \"},{\"text\":\"dance class\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Theo giáo viên, ''But unfortunately, it is \"},{\"text\":\"over-subscribed at the moment.\",\"bold\":true},{\"text\":\"'' (tức quá tải số người đăng ký rồi)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Do đó ''I have to put you on the \"},{\"text\":\"waiting list\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Emma sẽ nằm trong danh sách chờ nếu đăng ký\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 328,
+          "endTimeInSeconds": 346,
+          "transcripts": [
+           {
+            "id": "27/328590-332746",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 332,
+            "text": "Miss Carson, I’m thinking about signing Emma up for another art course.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "28/332746-334551",
+            "startTimeInSeconds": 332,
+            "endTimeInSeconds": 334,
+            "text": "I’m thinking about dance class.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "29/334551-340741",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 340,
+            "text": "Dance class is a popular course here, a great choice for a child to shape up and have fun.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "30/340741-344000",
+            "startTimeInSeconds": 340,
+            "endTimeInSeconds": 344,
+            "text": "But unfortunately, it is over-subscribed at the moment.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "31/344546-346593",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 346,
+            "text": "I have to put you on the waiting list.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng chính là \"},{\"text\":\"singing class \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Emma could take \"},{\"text\":\"singing class\",\"bold\":true},{\"text\":\" as well''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đầu tiên, giáo viên cung cấp thông tin là ''It is held every\"},{\"text\":\" Friday evening\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Tuy nhiên ''Emma\"},{\"text\":\" already has a swimming class earlier that evening\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Emma\"},{\"text\":\" đã có hoạt động khác\",\"bold\":true},{\"text\":\" \"},{\"text\":\"vào buổi chiều\",\"bold\":true},{\"text\":\" thứ 6, đó là bơi lội \\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Bạn có thể bị nhầm với đáp án C (chỉ khác với đáp án D ở chỗ at that time), nhưng\"},{\"text\":\" lịch học lớp hát không trùng giờ với lớp bơi \",\"bold\":true},{\"text\":\"(earlier that evening) nên mình \"},{\"text\":\"không thể nói là at that time\",\"bold\":true},{\"text\":\" được. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Ngoài ra, ở câu sau, ''It will be \"},{\"text\":\"too late for her to come home\",\"bold\":true},{\"text\":\" if she takes this course.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ý nói là nếu Emma học lớp hát \"},{\"text\":\"thì sẽ về nhà muộn\",\"bold\":true},{\"text\":\", còn đáp án E nói là\"},{\"text\":\" giờ học bắt đầu muộn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 346,
+          "endTimeInSeconds": 369,
+          "transcripts": [
+           {
+            "id": "32/346593-350982",
+            "startTimeInSeconds": 346,
+            "endTimeInSeconds": 350,
+            "text": "That’s too bad. What else can I choose from then? Could you give me some advice?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "33/350982-356000",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 356,
+            "text": "Sure. Emma could take singing class as well. This would improve her musicality.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "34/356887-358985",
+            "startTimeInSeconds": 356,
+            "endTimeInSeconds": 358,
+            "text": "Sounds good. When is that?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "35/358985-361870",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 361,
+            "text": " It is held every Friday evening.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "36/361870-363000",
+            "startTimeInSeconds": 361,
+            "endTimeInSeconds": 363,
+            "text": "That’s too bad.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "37/363085-366287",
+            "startTimeInSeconds": 363,
+            "endTimeInSeconds": 366,
+            "text": "Emma already has a swimming class earlier that evening.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "38/366287-369769",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 369,
+            "text": "It will be too late for her to come home if she takes this course.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng của câu là\"},{\"text\":\" vocal class \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''There is also a \"},{\"text\":\"vocal course\",\"bold\":true},{\"text\":\" available.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi giáo viên nói về giá lớp học là\"},{\"text\":\" 110 đô\",\"bold\":true},{\"text\":\", bố Emma nói là ''Oh, \"},{\"text\":\"that’s too much\",\"bold\":true},{\"text\":\", way over our budget.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Giá khóa học\"},{\"text\":\" quá đắt \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 369,
+          "endTimeInSeconds": 392,
+          "transcripts": [
+           {
+            "id": "39/369769-372417",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 372,
+            "text": "There is also a vocal course available. ",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "40/372417-376233",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 376,
+            "text": "Emma’s got a great voice, I’m sure she’ll stand out in the class.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "41/376233-377415",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 377,
+            "text": "Tell me about it.",
+            "character": {
+             "id": "R_jE19QstrwSai6v5WN3o",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "42/377415-381705",
+            "startTimeInSeconds": 377,
+            "endTimeInSeconds": 381,
+            "text": "The vocal course starts at 4.30 pm every Tuesday.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "43/381705-387455",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 387,
+            "text": "It isn’t fully booked yet. Great teacher, experienced and beloved by students.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "44/387455-389400",
+            "startTimeInSeconds": 387,
+            "endTimeInSeconds": 389,
+            "text": "The price is a bit higher though.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "45/389400-390397",
+            "startTimeInSeconds": 389,
+            "endTimeInSeconds": 390,
+            "text": "How much is it?",
+            "character": {
+             "id": "R_jE19QstrwSai6v5WN3o",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "46/390397-392267",
+            "startTimeInSeconds": 390,
+            "endTimeInSeconds": 392,
+            "text": "It’s 110 dollars.",
+            "character": {
+             "id": "hZfb-TgLGaG3YfA9v252-",
+             "name": "Teacher"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 3,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Dance Class"
+        },
+        {
+         "key": 1,
+         "value": "Singing Class"
+        },
+        {
+         "key": 2,
+         "value": "Vocal Class"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "1702d228-2749-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "1702d229-2749-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"lớp học dạy trẻ em làm gì, bên cạnh chơi nhạc cụ\",\"bold\":true},{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đầu tiên nghe ''the students have the opportunity to\"},{\"text\":\" play different instruments\",\"bold\":true},{\"text\":\" like the piano, drum and so on.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó, ''They \"},{\"text\":\"can also learn how to write music\",\"bold\":true},{\"text\":\" under professional guidance.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ngoài việc chơi nhạc thì học sinh c\"},{\"text\":\"òn được học cách viết nhạc \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: write music \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 398,
+          "endTimeInSeconds": 416,
+          "transcripts": [
+           {
+            "id": "49/398603-401705",
+            "startTimeInSeconds": 398,
+            "endTimeInSeconds": 401,
+            "text": " Or maybe Emma could take music class.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "50/401705-406280",
+            "startTimeInSeconds": 401,
+            "endTimeInSeconds": 406,
+            "text": "What is it about? Learning about songs and musicals?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "51/406280-412627",
+            "startTimeInSeconds": 406,
+            "endTimeInSeconds": 412,
+            "text": " Well, the students have the opportunity to play different instruments like the piano, drum and so on. ",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "52/412627-416548",
+            "startTimeInSeconds": 412,
+            "endTimeInSeconds": 416,
+            "text": "They can also learn how to write music under professional guidance.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         },
+         "value": "write music",
+         "blankId": "XjkwICy24ZXxCDJ1iBYBh"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"giá khóa học\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"How much \",\"bold\":true},{\"text\":\"would it cost?''\\n\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''It was \"},{\"text\":\"63 dollars last term\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> 63 đô là \"},{\"text\":\"giá của khóa trước\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Không phải đáp án\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tới câu sau, ''But \"},{\"text\":\"this term\",\"bold\":true},{\"text\":\" it is \"},{\"text\":\"85 dollars\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Kỳ này \",\"bold\":true},{\"text\":\"khóa có \"},{\"text\":\"giá 85 đô\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là 85 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 416,
+          "endTimeInSeconds": 428,
+          "transcripts": [
+           {
+            "id": "53/416548-420736",
+            "startTimeInSeconds": 416,
+            "endTimeInSeconds": 420,
+            "text": "That’s exactly what Emma is eager to learn. How much would it cost?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "54/420736-423581",
+            "startTimeInSeconds": 420,
+            "endTimeInSeconds": 423,
+            "text": "It was 63 dollars last term.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "55/423581-428413",
+            "startTimeInSeconds": 423,
+            "endTimeInSeconds": 428,
+            "text": "But this term it is 85 dollars, 22 dollars more than the original price.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         },
+         "value": "85/eighty five",
+         "blankId": "2Ra_8oXKSO_o1BhpBWhpJ"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về \"},{\"text\":\"ngày Emma bắt đầu khóa học\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe ''The \"},{\"text\":\"course starts on September 7th\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Khóa học\",\"bold\":true},{\"text\":\" bắt đầu \"},{\"text\":\"mở vào September 7th\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, bố Emma hỏi là ''Can we \"},{\"text\":\"start one week later\",\"bold\":true},{\"text\":\", on \"},{\"text\":\"September 14th\",\"bold\":true},{\"text\":\"? My daughter will be on a trip to France with her Mom on the 7th.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Emma sẽ đi Pháp vào mùng 7 và nếu được thì \"},{\"text\":\"muốn bắt đầu học vào ngày 14.\\n\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Giáo viên\"},{\"text\":\" đồng ý\",\"bold\":true},{\"text\":\", '\"},{\"text\":\"'No problem\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án:14th September \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"(bạn có thể viết ngày tháng theo các cách khác nhau)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 428,
+          "endTimeInSeconds": 445,
+          "transcripts": [
+           {
+            "id": "56/428413-431000",
+            "startTimeInSeconds": 428,
+            "endTimeInSeconds": 431,
+            "text": "We can afford that. When does the course begin?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "57/431498-434035",
+            "startTimeInSeconds": 431,
+            "endTimeInSeconds": 434,
+            "text": "The course starts on September 7th.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "58/434035-437826",
+            "startTimeInSeconds": 434,
+            "endTimeInSeconds": 437,
+            "text": "Can we start one week later, on September 14th?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "59/437826-441226",
+            "startTimeInSeconds": 437,
+            "endTimeInSeconds": 441,
+            "text": "My daughter will be on a trip to France with her Mom on the 7th.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "60/441226-445366",
+            "startTimeInSeconds": 441,
+            "endTimeInSeconds": 445,
+            "text": "No problem. And the teacher for the class is Jamal Curtis.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           }
+          ]
+         },
+         "value": "14th September/September 14th/September 14/14 September",
+         "blankId": "OoqYC7QSSiev1B-zvB6B8"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần điền \"},{\"text\":\"tên giáo viên\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Giáo viên nói luôn là ''And the teacher for the class is \"},{\"text\":\"Jamal Curtis\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó đánh vần ''Oh, it’s \"},{\"text\":\"C-U-R-T-I-S\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Curtis \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 441,
+          "endTimeInSeconds": 458,
+          "transcripts": [
+           {
+            "id": "60/441226-445366",
+            "startTimeInSeconds": 441,
+            "endTimeInSeconds": 445,
+            "text": "No problem. And the teacher for the class is Jamal Curtis.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "61/445366-449529",
+            "startTimeInSeconds": 445,
+            "endTimeInSeconds": 449,
+            "text": "Just contact him if you have any further questions regarding the course.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "62/449529-452561",
+            "startTimeInSeconds": 449,
+            "endTimeInSeconds": 452,
+            "text": "Jamal Curtis? How do you spell Curtis?",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           },
+           {
+            "id": "63/452561-457395",
+            "startTimeInSeconds": 452,
+            "endTimeInSeconds": 457,
+            "text": " Oh, it’s C-U-R-T-I-S.",
+            "character": {
+             "id": "YDEy_91BobAyTUwtQNASe",
+             "name": "Teacher"
+            }
+           },
+           {
+            "id": "64/457395-458046",
+            "startTimeInSeconds": 457,
+            "endTimeInSeconds": 458,
+            "text": "Thank you.",
+            "character": {
+             "id": "1Pp8OuTId9gDEZ4m8EHb7",
+             "name": "Father"
+            }
+           }
+          ]
+         },
+         "value": "Curtis",
+         "blankId": "YRTvH87jhBL-pwq8D1B3G"
+        }
+       ],
+       "heading": "Information on Music Class",
+       "paragraph": {
+        "id": "AcmrAqRzJDZ4yMWuJO1SL",
+        "editorValue": "[{\"children\":[{\"text\":\"The class teaches children to play instruments and how to \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"XjkwICy24ZXxCDJ1iBYBh\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Cost of the course: $ \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"2Ra_8oXKSO_o1BhpBWhpJ\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Date Emma starts the course: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"OoqYC7QSSiev1B-zvB6B8\"},{\"text\":\"\\t \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Teacher: Jamal \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YRTvH87jhBL-pwq8D1B3G\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "XjkwICy24ZXxCDJ1iBYBh",
+          "key": 0
+         },
+         {
+          "id": "2Ra_8oXKSO_o1BhpBWhpJ",
+          "key": 1
+         },
+         {
+          "id": "OoqYC7QSSiev1B-zvB6B8",
+          "key": 2
+         },
+         {
+          "id": "YRTvH87jhBL-pwq8D1B3G",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Annual Ski And Snowboard Exhibition",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "6d424a66-2749-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "6d424a67-2749-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Why does the speaker recommend the Sky Hotel?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Because it is quite comfortable."
+        },
+        {
+         "key": 1,
+         "value": "Because it provides ski and snowboard equipment rentals."
+        },
+        {
+         "key": 2,
+         "value": "Because it has health and sports club."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"lý do người nói giới thiệu khách sạn \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''I recommend Sky Hotel.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên người nói bảo là ''It\"},{\"text\":\" has its own health and sports clubs\",\"bold\":true},{\"text\":\" just like most of the hotels here,'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có thể là đáp án C\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, ''but\"},{\"text\":\" I love it because of its\",\"bold\":true},{\"text\":\" \"},{\"text\":\"incredibly cozy beds \",\"bold\":true},{\"text\":\"which guarantees good rest after an exhausting day of exploration.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Điều mà speaker thật sự thích là \"},{\"text\":\"khách sạn rất thoải mái\",\"bold\":true},{\"text\":\"  (incredibly cozy = comfortable) \\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''they are available for purchase or rent at Ski Set or Snow Rental.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người nói chỉ mention rằng \"},{\"text\":\"có thể thuê dụng cụ tại khách sạn\",\"bold\":true},{\"text\":\", tuy nhiên đây \"},{\"text\":\"không phải là lý do recommend khách sạn\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 83,
+          "endTimeInSeconds": 116,
+          "transcripts": [
+           {
+            "id": "5/83900-87859",
+            "startTimeInSeconds": 83,
+            "endTimeInSeconds": 87,
+            "text": "This might be the first time coming here for some of you."
+           },
+           {
+            "id": "6/87859-93266",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 93,
+            "text": "So for those who are still wondering about the right accommodation, I recommend Sky Hotel."
+           },
+           {
+            "id": "7/93266-106107",
+            "startTimeInSeconds": 93,
+            "endTimeInSeconds": 106,
+            "text": "It has its own health and sports clubs just like most of the hotels here, but I love it because of its incredibly cozy beds which guarantees good rest after an exhausting day of exploration."
+           },
+           {
+            "id": "8/106107-116793",
+            "startTimeInSeconds": 106,
+            "endTimeInSeconds": 116,
+            "text": "If you haven’t brought your own equipment, like poles, boots and skis, they are available for purchase or rent at Ski Set or Snow Rental."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6d424a68-2749-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "What is new in this year’s exhibition?",
+       "options": [
+        {
+         "key": 0,
+         "value": "photos of top ski resorts"
+        },
+        {
+         "key": 1,
+         "value": "worldwide ski equipment"
+        },
+        {
+         "key": 2,
+         "value": "computer simulation"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"triển lãm năm nay có gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau ''\"},{\"text\":\"The exhibition this year \",\"bold\":true},{\"text\":\"provides a colorful look ...''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''Apart from the\"},{\"text\":\" fascinating photo exhibitions\",\"bold\":true},{\"text\":\" and the most up-to-date \"},{\"text\":\"skiing gear like always\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có từ \"},{\"text\":\"like always (như mọi lần)\",\"bold\":true},{\"text\":\" nên mình biết đây \"},{\"text\":\"không phải là cái mới \",\"bold\":true},{\"text\":\"trong triển lãm \\n=> \"},{\"text\":\"Loại đáp án A và B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  (hơn nữa người nói cũng \"},{\"text\":\"không mention rõ đây là ảnh về cái gì\",\"bold\":true},{\"text\":\", còn đáp án \"},{\"text\":\"A nói rõ là ảnh của các resort\",\"bold\":true},{\"text\":\")\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''this year we have \"},{\"text\":\"added four computers\",\"bold\":true},{\"text\":\" which can \"},{\"text\":\"imitate the process of skiing\",\"bold\":true},{\"text\":\",'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Năm nay có \"},{\"text\":\"thêm mô phỏng máy tính về hoạt động trượt tuyết \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 116,
+          "endTimeInSeconds": 151,
+          "transcripts": [
+           {
+            "id": "9/116793-125942",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 125,
+            "text": "The exhibition this year provides a colorful look into the history of skiing and an inspiring peek into the future prospects of the sport."
+           },
+           {
+            "id": "10/125942-131530",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 131,
+            "text": "Apart from the fascinating photo exhibitions and the most up-to-date skiing gear like always. "
+           },
+           {
+            "id": "11/131530-144839",
+            "startTimeInSeconds": 131,
+            "endTimeInSeconds": 144,
+            "text": "This year we have added four computers which can imitate the process of skiing, ensuring the same physical activity and sensations that appear during the skiing process on downhill slopes."
+           },
+           {
+            "id": "12/144839-151017",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 151,
+            "text": "But I have to warn you that it might be quite time-consuming to line up for the free trial experience."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6d424a69-2749-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "How do people enter the skiing and snowboarding competition?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They can send emails to the committee."
+        },
+        {
+         "key": 1,
+         "value": "They can fill out the back of the entrance ticket."
+        },
+        {
+         "key": 2,
+         "value": "They can check out the exhibition newsletter"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\",\"marks\":[]},{\"text\":\" cách thức mọi người có thể tham gia cuộc thi \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Many have posed the question as to \"},{\"text\":\"how to enter the skiing and snowboarding competition\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''\"},{\"text\":\"rather than filling out\",\"bold\":true},{\"text\":\" the back of the \"},{\"text\":\"entrance ticket \",\"bold\":true},{\"text\":\"or bombarding the committee with \"},{\"text\":\"emails\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do có từ \"},{\"text\":\"rather than (thay vì) \",\"bold\":true},{\"text\":\"ở đầu câu nên mình biết rằng \"},{\"text\":\"đây là hai cách không nên làm\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án A và B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cách nên làm là '' the \"},{\"text\":\"most effective method\",\"bold\":true},{\"text\":\" is by\"},{\"text\":\" checking out the exhibition newsletter\",\"bold\":true},{\"text\":\" delivered every month for availability.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cách hiệu quả nhất là \"},{\"text\":\"check newsletter \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "13/151017-156387",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 156,
+            "text": "Many have posed the question as to how to enter the skiing and snowboarding competition."
+           },
+           {
+            "id": "14/156387-169158",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 169,
+            "text": "Well, rather than filling out the back of the entrance ticket or bombarding the committee with emails, the most effective method is by checking out the exhibition newsletter delivered every month for availability."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6d424a6a-2749-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "What did the media focus on this year?",
+       "options": [
+        {
+         "key": 0,
+         "value": "not enough snow"
+        },
+        {
+         "key": 1,
+         "value": "reduction in fee"
+        },
+        {
+         "key": 2,
+         "value": "the decline of participants"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"media tập trung vào cái gì năm nay\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''the \"},{\"text\":\"exhibition \",\"bold\":true},{\"text\":\"has also\"},{\"text\":\" drawn attention from the press.\",\"bold\":true},{\"text\":\"'' (the press là báo chí, một phần chính của media)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''\"},{\"text\":\"Last year,\",\"bold\":true},{\"text\":\" massive \"},{\"text\":\"media coverage\",\"bold\":true},{\"text\":\" was \"},{\"text\":\"on the worrisome amount of snowfall.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Năm trước\",\"bold\":true},{\"text\":\" họ tập trung vào lượng tuyết thấp đáng lo ngại, \"},{\"text\":\"không phải năm nay \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó, ''With \"},{\"text\":\"more participants\",\"bold\":true},{\"text\":\" this year, ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Số lượng thí sinh tăng\",\"bold\":true},{\"text\":\", không phải giảm \\n=>\"},{\"text\":\" Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''we have \"},{\"text\":\"lowered the entrance fee\",\"bold\":true},{\"text\":\" which has been \"},{\"text\":\"widely reported by local newspapers\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc \"},{\"text\":\"giảm phí tham dự \",\"bold\":true},{\"text\":\"đã được \"},{\"text\":\"các tờ báo \",\"bold\":true},{\"text\":\"địa phương \"},{\"text\":\"tập trung khai thác\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 169,
+          "endTimeInSeconds": 192,
+          "transcripts": [
+           {
+            "id": "15/169158-174714",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 174,
+            "text": "As the most beloved local event, the exhibition has also drawn attention from the press."
+           },
+           {
+            "id": "16/174714-179612",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 179,
+            "text": "Last year, massive media coverage was on the worrisome amount\nof snowfall."
+           },
+           {
+            "id": "17/179612-185224",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 185,
+            "text": "In order to avoid the same predicament, several artificial skiing slopes have been built."
+           },
+           {
+            "id": "18/185224-192195",
+            "startTimeInSeconds": 185,
+            "endTimeInSeconds": 192,
+            "text": "With more participants this year, we have lowered the entrance fee which has been widely reported by local newspapers."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6d424a6b-2749-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Why does the speaker recommend the ski program?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The instructors are quite friendly and patient."
+        },
+        {
+         "key": 1,
+         "value": "It includes lessons and sessions that suit only beginners"
+        },
+        {
+         "key": 2,
+         "value": "It provides special offers at the moment."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" tại sao speaker đề xuất ski program\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''A bonus for our participants is the \"},{\"text\":\"ski program\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''It offers a wide variety of lessons and sessions with qualified instructors \"},{\"text\":\"ensuring that all ages and abilities are catered to from the first timers to\",\"bold\":true},{\"text\":\" seasoned \"},{\"text\":\"amateurs\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khóa học\"},{\"text\":\" phù hợp với tất cả mọi người\",\"bold\":true},{\"text\":\", không chỉ người mới\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy là ''I \"},{\"text\":\"strongly advise\",\"bold\":true},{\"text\":\" you to \"},{\"text\":\"sign up for the program\",\"bold\":true},{\"text\":\" as it is offering an unprecedented \"},{\"text\":\"30% discount\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lý do là hiện tại \"},{\"text\":\"đang có giảm giá tới 30%\",\"bold\":true},{\"text\":\" (strongly advise = recommend) \\n=>\"},{\"text\":\" Đáp án là C\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 192,
+          "endTimeInSeconds": 224,
+          "transcripts": [
+           {
+            "id": "19/192195-195636",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 195,
+            "text": "A bonus for our participants is the ski program. "
+           },
+           {
+            "id": "20/195636-206943",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 206,
+            "text": "It offers a wide variety of lessons and sessions with qualified instructors ensuring that all ages and abilities are catered to from the first timers to seasoned amateurs."
+           },
+           {
+            "id": "21/206943-214876",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 214,
+            "text": "I strongly advise you to sign up for the program as it is offering an unprecedented 30% discount."
+           },
+           {
+            "id": "22/214876-224450",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 224,
+            "text": "That’s mainly because we are cooperating with the program organiser who promises affordable prices only for the participants of the festival this year."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "6d424a6c-2749-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "6d424a6d-2749-11ed-b1c7-ef3d7252721e",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "exploring new destinations"
+        },
+        {
+         "key": 1,
+         "value": "how to make the skiing boots comfortable"
+        },
+        {
+         "key": 2,
+         "value": "how to become a ski instructor"
+        },
+        {
+         "key": 3,
+         "value": "how to combine other activities with skiing"
+        },
+        {
+         "key": 4,
+         "value": "how to improve the skills of skiing"
+        },
+        {
+         "key": 5,
+         "value": "information about skiing safety"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về \"},{\"text\":\"Simon's talk\",\"bold\":true},{\"text\":\", đáp án sẽ có sau ''The first presenter \"},{\"text\":\"Simon \",\"bold\":true},{\"text\":\"is one of our best ski instructors.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''he will inform you about \"},{\"text\":\"the dangers that face skiers and snowboarders\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bài nói của Simon sẽ tập trung vào\"},{\"text\":\" sự nguy hiểm của môn thể thao\",\"bold\":true},{\"text\":\", cũng tức là về \"},{\"text\":\"sự an toàn\",\"bold\":true},{\"text\":\" (nguy hiểm cao = an toàn thấp) \\n=> \"},{\"text\":\"Đáp án là F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 268,
+          "endTimeInSeconds": 289,
+          "transcripts": [
+           {
+            "id": "24/268300-272000",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 272,
+            "text": "The first presenter Simon is one of our best ski instructors. "
+           },
+           {
+            "id": "25/272969-279363",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 279,
+            "text": "As an experienced instructor, he will inform you about the dangers that face skiers and snowboarders. "
+           },
+           {
+            "id": "26/279363-284034",
+            "startTimeInSeconds": 279,
+            "endTimeInSeconds": 284,
+            "text": "Accidents happen mostly to those who are careless or ignorant."
+           },
+           {
+            "id": "27/284034-289533",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 289,
+            "text": "Good risk management involves considering both the probability and consequences of an accident."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về \"},{\"text\":\"Solution\",\"bold\":true},{\"text\":\", đáp án sẽ tới sau ''The next speech titled \"},{\"text\":\"Solution\",\"bold\":true},{\"text\":\" is given by Jamie Kurt.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''so he is going to offer useful information for first timers on \"},{\"text\":\"choosing the appropriate gears\",\"bold\":true},{\"text\":\", the right dress code and ways of protecting your skin.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trọng tâm của Solution sẽ là về\"},{\"text\":\" cách chọn trang thiết bị phù hợp \",\"bold\":true},{\"text\":\"(về trang thiết bị thì chỉ có đáp án B là ứng)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe tiếp thì có ''Then Jamie will \"},{\"text\":\"provide instructions\",\"bold\":true},{\"text\":\" to help \"},{\"text\":\"make your footwear fit better\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Jamie cũng sẽ cho mình \"},{\"text\":\"biết cách để làm giày (footwear) vừa khít hơn\",\"bold\":true},{\"text\":\", từ đó \"},{\"text\":\"thoải mái hơn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 289,
+          "endTimeInSeconds": 321,
+          "transcripts": [
+           {
+            "id": "28/289533-294698",
+            "startTimeInSeconds": 289,
+            "endTimeInSeconds": 294,
+            "text": "The next speech titled Solution is given by Jamie Kurt. "
+           },
+           {
+            "id": "29/294698-308862",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 308,
+            "text": "A list of problems may occur to novice skiers and snowboarders, so he is going to offer useful information for first timers on choosing the appropriate gears, the right dress code and ways of protecting your skin."
+           },
+           {
+            "id": "30/308862-316314",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 316,
+            "text": "For instance, some of you may have rented the skiing equipment, but rental footwear is notoriously uncomfortable."
+           },
+           {
+            "id": "31/316314-321643",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 321,
+            "text": "Then Jamie will provide instructions to help make your footwear fit better."
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tới bài nói thứ ba, ''The\"},{\"text\":\" third speech\",\"bold\":true},{\"text\":\" is about \"},{\"text\":\"a documentary \",\"bold\":true},{\"text\":\"(=film) introducing skiing and snowboarding and the difference between the two sports.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, '' It also \"},{\"text\":\"depicts \",\"bold\":true},{\"text\":\"a group of snow lovers \"},{\"text\":\"exploring new slopes with breath-taking views\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Bộ phim về những địa điểm mới\",\"bold\":true},{\"text\":\" (new slope) \\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 321,
+          "endTimeInSeconds": 340,
+          "transcripts": [
+           {
+            "id": "32/321643-329643",
+            "startTimeInSeconds": 321,
+            "endTimeInSeconds": 329,
+            "text": "The third speech is about a documentary introducing skiing and snowboarding and the difference between the two sports."
+           },
+           {
+            "id": "33/329643-335932",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 335,
+            "text": "It also depicts a group of snow lovers exploring new slopes with breath-taking views."
+           },
+           {
+            "id": "34/335932-340688",
+            "startTimeInSeconds": 335,
+            "endTimeInSeconds": 340,
+            "text": "The director Andy Fisher will be there, addressing the whole shooting experience."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về bài nói thứ tư, ''The\"},{\"text\":\" fourth talk\",\"bold\":true},{\"text\":\" is about the\"},{\"text\":\" tricks of skiing,\",\"bold\":true},{\"text\":\" presented by Harry Tyson.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là '' Harry will teach you how to\"},{\"text\":\" turn more skillfully\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Harry sẽ giúp mình \"},{\"text\":\"cải thiện kỹ năng trượt tuyết \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 340,
+          "endTimeInSeconds": 372,
+          "transcripts": [
+           {
+            "id": "35/340688-345548",
+            "startTimeInSeconds": 340,
+            "endTimeInSeconds": 345,
+            "text": "The fourth talk is about the tricks of skiing, presented by Harry Tyson."
+           },
+           {
+            "id": "36/345548-351857",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 351,
+            "text": "It is most useful for those who have already tried skiing, yet still need more practice to master the sport."
+           },
+           {
+            "id": "37/351857-355076",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 355,
+            "text": "Harry will teach you how to turn more skillfully."
+           },
+           {
+            "id": "38/355076-363341",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 363,
+            "text": "A lot of people can keep their skis roughly parallel but there’s no point if you make it hard to work with and slide around out of control."
+           },
+           {
+            "id": "39/363341-372251",
+            "startTimeInSeconds": 363,
+            "endTimeInSeconds": 372,
+            "text": "Useful exercises will also be suggested to improve your parallel skiing technique so that you can tackle steeper slopes and enjoy yourself more."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tới bài nói cuối cùng, ''\"},{\"text\":\"Johnson \",\"bold\":true},{\"text\":\"Smith will be the last presenter, mainly addressing towards advanced skiers.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''He manages to \"},{\"text\":\"apply snow climbing into skiing\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Áp dụng climbing vào skiing\\n=> Tức \"},{\"text\":\"kết hợp climbing với skiing \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 372,
+          "endTimeInSeconds": 396,
+          "transcripts": [
+           {
+            "id": "40/372251-381032",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 381,
+            "text": "Johnson Smith will be the last presenter, mainly addressing towards advanced skiers. He manages to apply snow climbing into skiing."
+           },
+           {
+            "id": "41/381032-384620",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 384,
+            "text": "Climbing in soft snow, you are floundering around."
+           },
+           {
+            "id": "42/384620-394741",
+            "startTimeInSeconds": 384,
+            "endTimeInSeconds": 394,
+            "text": "Walking becomes harder, so a good trick during climbing is to maintain a wider gait, approximately shoulder width, so that you are more stable while walking."
+           },
+           {
+            "id": "43/394741-396633",
+            "startTimeInSeconds": 394,
+            "endTimeInSeconds": 396,
+            "text": "This works for skiing as well."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Simon’s talk"
+        },
+        {
+         "key": 1,
+         "value": "Solution"
+        },
+        {
+         "key": 2,
+         "value": "Film"
+        },
+        {
+         "key": 3,
+         "value": "Tricks"
+        },
+        {
+         "key": 4,
+         "value": "Johnson’s talk"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FIVE",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FIVE",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Lesson Discussion",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "e9d8f917-2749-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "e9d8f918-2749-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình sẽ cần điền \"},{\"text\":\"tên cuốn sách.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, giáo viên có nhắc tới một cuốn, ''you should probably read this \"},{\"text\":\"book called Professional Learning\",\"bold\":true},{\"text\":\", written by J.K. Simmons.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó giáo viên giới thiệu về tác giả là ''He is a professor who \"},{\"text\":\"just transferred here \",\"bold\":true},{\"text\":\"last semester but is \"},{\"text\":\"already popular amongst the students...\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Tác giả là \"},{\"text\":\"một giáo viên mới\",\"bold\":true},{\"text\":\" nhưng \"},{\"text\":\"rất nổi tiếng với học sinh\",\"bold\":true},{\"text\":\", đúng như trong đề bài \\n=> \"},{\"text\":\"Đáp án: Professional Learning \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 92,
+          "endTimeInSeconds": 112,
+          "transcripts": [
+           {
+            "id": "6/92799-96336",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 96,
+            "text": "Mr.Carter, do you have any suggestions?",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "7/96336-103785",
+            "startTimeInSeconds": 96,
+            "endTimeInSeconds": 103,
+            "text": "Well, you should probably read this book called Professional Learning, written by J.K. Simmons. ",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "8/103785-112910",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 112,
+            "text": "He is a professor who just transferred here last semester but is already popular amongst the students for his creative teaching methods. ",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "Professional Learning",
+         "blankId": "ERd_euMrc5B-xQaZxOirv"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án là \"},{\"text\":\"một danh từ.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo giáo viên, ''There is an extensive range of learning approaches mentioned in the book \"},{\"text\":\"including approaches for team research\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó có bao gồm\"},{\"text\":\" phương pháp cho nghiên cứu theo nhóm\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: team \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 112,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "9/112910-121000",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 121,
+            "text": "There is an extensive range of learning approaches mentioned in the book including approaches for team research, which might be helpful to you.",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "team research/team ",
+         "blankId": "rHK-JO0sdI2vgqt3WWvct"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án là \"},{\"text\":\"một danh từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe được là ''Basically it aims to\"},{\"text\":\" \",\"bold\":true},{\"text\":\"increase cooperation between students so they can \"},{\"text\":\"present the results in a collaborative fashion\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mục đích của nó (aim = objective) là \"},{\"text\":\"tăng sự hợp tác giữa học sinh để chúng có thể trình bày kết quả \",\"bold\":true},{\"text\":\"(fashion = manner) \\n=> \"},{\"text\":\"Đáp án: the results/results \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 148,
+          "transcripts": [
+           {
+            "id": "10/121529-125691",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 125,
+            "text": "You mean dividing the students into groups to do research? ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "11/125691-129541",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 129,
+            "text": "I’ve never thought of this before. How does it work?",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "12/129541-135058",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 135,
+            "text": "Professor Simmons has already demonstrated how efficient this approach can be.",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "13/135058-144117",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 144,
+            "text": "Basically it aims to increase cooperation between students so they can present the results in a collaborative fashion. ",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "14/144117-148730",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 148,
+            "text": "It helps them to develop their own voice and perspective.",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "the result/results",
+         "blankId": "wAdp1IGyRD2X-HZwKrVtA"
+        }
+       ],
+       "paragraph": {
+        "id": "b35rIkXcYtkO5GifItXi-",
+        "editorValue": "[{\"type\":\"ol\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The new teacher who is very popular among students wrote a book titled \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ERd_euMrc5B-xQaZxOirv\"},{\"text\":\"\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"It covers techniques including doing research as part of a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"rHK-JO0sdI2vgqt3WWvct\"},{\"text\":\"\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The objective is for the students to present \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"wAdp1IGyRD2X-HZwKrVtA\"},{\"text\":\"  in a collaborative manner.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "ERd_euMrc5B-xQaZxOirv",
+          "key": 0
+         },
+         {
+          "id": "rHK-JO0sdI2vgqt3WWvct",
+          "key": 1
+         },
+         {
+          "id": "wAdp1IGyRD2X-HZwKrVtA",
+          "key": 2
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "e9d8f919-2749-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "0OFH0OJ67D2v5bwewwSM_",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Phương pháp đầu tiên là \"},{\"text\":\"observational\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần này tới sau ''What kind of \"},{\"text\":\"observational methods\",\"bold\":true},{\"text\":\" do you have in mind?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sẽ có hai phương pháp, phương pháp đầu tiên là ''First, the \"},{\"text\":\"pupils \",\"bold\":true},{\"text\":\"can\"},{\"text\":\" assess each other’s behaviour\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Học sinh có thể \"},{\"text\":\"đánh giá hành vi của nhau\",\"bold\":true},{\"text\":\" (examine ~ assess)\\n=>\"},{\"text\":\" Đáp án: behaviour \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 193,
+          "endTimeInSeconds": 230,
+          "transcripts": [
+           {
+            "id": "17/193642-202423",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 202,
+            "text": "Well, I was thinking maybe I could use both observation and nonobservation as part of my teaching methodology. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "18/202423-205008",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 205,
+            "text": "Could you take a look at my teaching plan?",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "19/205008-210047",
+            "startTimeInSeconds": 205,
+            "endTimeInSeconds": 210,
+            "text": "Sure. What kind of observational methods do you have in mind?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "20/210047-214624",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 214,
+            "text": "For the observational part, I intend to include two approaches. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "21/214624-218305",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 218,
+            "text": "First, the pupils can assess each other’s behaviour. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "22/218305-225778",
+            "startTimeInSeconds": 218,
+            "endTimeInSeconds": 225,
+            "text": "I feel that reviewing fellow students through criteria-based reference evaluation allows constructive feedback. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "23/225778-230369",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 230,
+            "text": "It can also improve their understanding of the subject material.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "behaviour/behavior/behaviours/behaviors",
+         "blankId": "1wC3XjYgxWQh-flHUe2KR"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này nằm ở mục \"},{\"text\":\"Conduct \",\"bold\":true},{\"text\":\"(phương pháp tiến hành) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''So how do you plan to \"},{\"text\":\"carry out\",\"bold\":true},{\"text\":\" the peer assessments?''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jerry trả lời câu hỏi là ''every pupil will be \"},{\"text\":\"required to write a diary\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mỗi học sinh sẽ\"},{\"text\":\" phải viết nhật ký \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là diary  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 242,
+          "endTimeInSeconds": 265,
+          "transcripts": [
+           {
+            "id": "26/242901-246000",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 246,
+            "text": "So how do you plan to carry out the peer assessments?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "27/246200-256043",
+            "startTimeInSeconds": 246,
+            "endTimeInSeconds": 256,
+            "text": "Oh, every pupil will be required to write a diary, which includes group projects, presentations and in-class discussions. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "28/256043-265231",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 265,
+            "text": "They’ll put down their remarks. I’ll collect them on a regular basis which can also help me see whether they can keep up or not.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "diary",
+         "blankId": "u3dX7i9R2noLfKpak5DV-"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án của câu là \"},{\"text\":\"phương pháp quan sát thứ hai \",\"bold\":true},{\"text\":\"(carry out ___) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Good, \"},{\"text\":\"what else \",\"bold\":true},{\"text\":\"do you intend to do?''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jerry trả lời là ''Besides that, I also\"},{\"text\":\" plan to do video recording\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Jerry có ý định\"},{\"text\":\" quay video\",\"bold\":true},{\"text\":\" (plan to do = carry out) \\n=> \"},{\"text\":\"Đáp án: video recording \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 265,
+          "endTimeInSeconds": 281,
+          "transcripts": [
+           {
+            "id": "29/265231-267932",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 267,
+            "text": "Good, what else do you intend to do?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "30/267932-271809",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 271,
+            "text": "Besides that, I also plan to do video recording. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "31/271809-277075",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 277,
+            "text": "I’ve already purchased a camera just in case I miss anything important. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "32/277075-281771",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 281,
+            "text": "I can go back and review their performances anytime I want.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "video recording",
+         "blankId": "4hW1C6gCxHeaI5N1-TrIM"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Câu này là về cách tiến hành (conduct) và bạn để ý có từ in-class. Do \"},{\"text\":\"in-class là tính từ \",\"bold\":true},{\"text\":\"nên \"},{\"text\":\"đáp án\",\"bold\":true},{\"text\":\" sẽ là một \"},{\"text\":\"danh từ. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe ''Would you record every\"},{\"text\":\" in-class activity\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Có thể activity là đáp án\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jerry nói là ''No, I’ll just keep track of an\"},{\"text\":\" in-class simulation\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Jerry chỉ theo dõi \"},{\"text\":\"in-class simulation\",\"bold\":true},{\"text\":\" thôi \\n=>\"},{\"text\":\" Đáp án: simulation \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 281,
+          "endTimeInSeconds": 301,
+          "transcripts": [
+           {
+            "id": "33/281771-284956",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 284,
+            "text": "Would you record every in-class activity?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "34/284956-292310",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 292,
+            "text": "No, I’ll just keep track of an in-class simulation, which would require every pupil to fully participate.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "35/292310-301810",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 301,
+            "text": "Students will act as members of a City Council meeting, discussing issues like whether or not prohibition should be instated in the United States.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "simulation",
+         "blankId": "ipWzdnFUHxKLQn7IE4BD0"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Phần tiếp theo là về \"},{\"text\":\"non-observational method \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần này bắt đầu sau ''So what do you have in mind for the \"},{\"text\":\"non-observational approaches\",\"bold\":true},{\"text\":\"?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cần evaluate cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Theo Jerry, ''I’ll \"},{\"text\":\"evaluate the test results\",\"bold\":true},{\"text\":\" including the mid-term'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cách \"},{\"text\":\"thu thập số liệu\",\"bold\":true},{\"text\":\" thống kê là bằng cách \"},{\"text\":\"đánh giá kết quả kiểm tra\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là test results\",\"bold\":true},{\"text\":\" (bạn lưu ý \"},{\"text\":\"không thêm 'the'\",\"bold\":true},{\"text\":\" do đề bài chỉ cho phép \"},{\"text\":\"điền hai từ thôi\",\"bold\":true},{\"text\":\")\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 312,
+          "endTimeInSeconds": 341,
+          "transcripts": [
+           {
+            "id": "39/312899-318006",
+            "startTimeInSeconds": 312,
+            "endTimeInSeconds": 318,
+            "text": "So what do you have in mind for the non-observational approaches?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "40/318006-323693",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 323,
+            "text": "Well, my plan is to quantify the statistics. Numbers do not lie.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "41/323693-329211",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 329,
+            "text": "It is the most direct way to measure their performance. See how well they’ve learned.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "42/329211-330756",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 330,
+            "text": "Where does the data come from?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "43/330756-341372",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 341,
+            "text": "I’ll evaluate the test results including the mid-term, final exam and pop quizzes, which would only take up about 40 percent of the overall assessment.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "test results",
+         "blankId": "rz1wfUvirWlZw8TocYwcn"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng cuối cùng là \"},{\"text\":\"questionnaire \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''I remember last time you mentioned \"},{\"text\":\"questionnaires\",\"bold\":true},{\"text\":\", right?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"có thể identify respondents nhờ sự giúp đỡ của ai/cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Nghe thấy ''they have to \"},{\"text\":\"design their own questionnaires\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"choose the respondents using the Internet\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Học sinh sẽ tự thiết kế questionnaires và\"},{\"text\":\" dùng mạng internet để chọn người điền \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: the internet \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 366,
+          "endTimeInSeconds": 387,
+          "transcripts": [
+           {
+            "id": "48/366498-369822",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 369,
+            "text": "I remember last time you mentioned questionnaires, right?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "49/369822-373640",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 373,
+            "text": "That’s true. But it is not for my students. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "50/373640-381031",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 381,
+            "text": "In fact, they have to design their own questionnaires and choose the respondents using the Internet. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "51/381031-387056",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 387,
+            "text": "As a complement of other teaching activities, it would deepen the creative learning process.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "the internet/internet",
+         "blankId": "ravLJiMOWHlf8_nOr6dOi"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"học sinh sẽ chọn respondents để làm gì\",\"bold\":true},{\"text\":\"\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Jerry trả lời là ''Oh, the pupils will have to \"},{\"text\":\"conduct interviews of their own\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Về người phỏng vấn, ''And for this, they get to \"},{\"text\":\"choose anyone they like\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Học sinh có thể tự \"},{\"text\":\"chọn bất kì ai \",\"bold\":true},{\"text\":\"mà họ muốn \"},{\"text\":\"để phỏng vấn\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: interviews \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 387,
+          "endTimeInSeconds": 400,
+          "transcripts": [
+           {
+            "id": "52/387056-388515",
+            "startTimeInSeconds": 387,
+            "endTimeInSeconds": 388,
+            "text": "Is that all?",
+            "character": {
+             "id": "HLW0MoM6DQFjyZTVORaDH",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "53/388515-392308",
+            "startTimeInSeconds": 388,
+            "endTimeInSeconds": 392,
+            "text": "Oh, the pupils will have to conduct interviews of their own. ",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           },
+           {
+            "id": "54/392308-400867",
+            "startTimeInSeconds": 392,
+            "endTimeInSeconds": 400,
+            "text": "And for this, they get to choose anyone they like, including relatives, friends and acquaintances to answer the questions.",
+            "character": {
+             "id": "kq0MSLSZaqHT6Lt2lpeaL",
+             "name": "Jerry"
+            }
+           }
+          ]
+         },
+         "value": "interviews",
+         "blankId": "yMxkEiuJXKkm5tld2Pq2K"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "1wC3XjYgxWQh-flHUe2KR",
+         "key": 0
+        },
+        {
+         "id": "u3dX7i9R2noLfKpak5DV-",
+         "key": 1
+        },
+        {
+         "id": "4hW1C6gCxHeaI5N1-TrIM",
+         "key": 2
+        },
+        {
+         "id": "ipWzdnFUHxKLQn7IE4BD0",
+         "key": 3
+        },
+        {
+         "id": "rz1wfUvirWlZw8TocYwcn",
+         "key": 4
+        },
+        {
+         "id": "ravLJiMOWHlf8_nOr6dOi",
+         "key": 5
+        },
+        {
+         "id": "yMxkEiuJXKkm5tld2Pq2K",
+         "key": 6
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"aBZzTUWyIZb6BND2SgPP5\",\"cellsWidth\":[347,300],\"children\":[{\"type\":\"tr\",\"id\":\"RwGEU_Kn9gyhIf7u7QgXJ\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"fq5slaCLukPZE-3eem4xX\",\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Observational method:\",\"bold\":true}]}]}],\"rowSpan\":1,\"colSpan\":2},{\"id\":\"CrBy5U0idzDen82Y-TLFj\",\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"hidden\":true,\"rowRef\":0,\"colRef\":0}]},{\"type\":\"tr\",\"id\":\"6gZbXXwOsKeVEJlrlezBr\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Observation checklist\",\"bold\":true,\"italic\":true}]}]}],\"scope\":\"col\",\"id\":\"EAscfYrhiMk7x02W86o97\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Conduct\",\"bold\":true,\"italic\":true}]}]}],\"scope\":\"col\",\"id\":\"guMgvKfRLaAVHJnTjqJiL\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"NJ8S0InX8qHqLnZA-ZjMm\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Students:\\nexamine the  \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"1wC3XjYgxWQh-flHUe2KR\",\"text\":\"\"}]},{\"text\":\"     of peer pupils\"}]}]}],\"id\":\"XbQrsQYIn2HOjfgUiPT_Q\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\nKeep a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"u3dX7i9R2noLfKpak5DV-\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"q-THsHuG-9wu8HuLcOULO\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"_MLGxlM5pvyJCJCZti22q\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Carry out \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"4hW1C6gCxHeaI5N1-TrIM\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"FhjDP3W6MXNB8ZqKpfV5i\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In-class \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ipWzdnFUHxKLQn7IE4BD0\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"6Gid1iwkFNH-xrNSEd32f\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"RKakjUPXqPbrwZSViyqqx\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Non-observational method:\",\"bold\":true}]}]}],\"id\":\"e4UyYxdbTl4HEJ5dqIAkN\",\"rowSpan\":1,\"colSpan\":2},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"DziSHzr0CjtROVr13Zrzi\",\"hidden\":true,\"rowRef\":4,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"Go6ZExuWdYSnMoFNuZr1_\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Non-observation checklist\",\"bold\":true,\"italic\":true}]}]}],\"id\":\"6_5IHKS71BoZKG6v0CgG4\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Conduct\",\"bold\":true,\"italic\":true}]}]}],\"id\":\"b2k4hXwoDhHZHxuZOkLyL\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"MX9JsjUQLskxKuJNA-sfh\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Statistics\"}]}]}],\"id\":\"MiL7JQ-o1x9H6i7k5pYc9\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Evaluate \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"rz1wfUvirWlZw8TocYwcn\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"BR4_NHysEIv2cGbaQ9l-f\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"sr6glIM5kKHb1AmrwGccl\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Questionnaires\"}]}]}],\"id\":\"K2FJ-6KLi7Yx_L7IbQ90z\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"With the help of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ravLJiMOWHlf8_nOr6dOi\",\"text\":\"\"}]},{\"text\":\"       to identify respondents\\n\\nChoose own respondents to do \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"yMxkEiuJXKkm5tld2Pq2K\",\"text\":\"\"}]},{\"text\":\" \"}]}]}],\"id\":\"QlVZlleacV8iV-4B6bYbx\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":647,\"border\":true,\"hasRowHeading\":true}]",
+       "question": ""
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Arguments For And Against Urban Migration",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "f120dfa3-274a-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "f120dfa4-274a-11ed-a111-ed4dcd04caf9",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cities tiêu thụ cái gì nhiều hơn countryside \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới khi nghe ''As much as\"},{\"text\":\" 3% of Earth’s landmass\",\"bold\":true},{\"text\":\" has been urbanised'' (ý tới trước đáp án) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''In addition, cities have \"},{\"text\":\"larger amounts of carbon consumption\",\"bold\":true},{\"text\":\" than rural areas.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thành phố \"},{\"text\":\"tiêu thụ carbon nhiều hơn\",\"bold\":true},{\"text\":\" vùng ngoại ô \\n=> \"},{\"text\":\"Đáp án: carbon \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 65,
+          "endTimeInSeconds": 104,
+          "transcripts": [
+           {
+            "id": "0/65479-70588",
+            "startTimeInSeconds": 65,
+            "endTimeInSeconds": 70,
+            "text": "Good afternoon and welcome to my talk on urban migration today."
+           },
+           {
+            "id": "1/70588-76445",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 76,
+            "text": "The world has experienced unprecedented urban growth in the recent decades."
+           },
+           {
+            "id": "2/76445-85720",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 85,
+            "text": "As much as 3% of Earth’s landmass has been urbanised, an increase of at least 50% over previous estimates."
+           },
+           {
+            "id": "3/85720-95960",
+            "startTimeInSeconds": 85,
+            "endTimeInSeconds": 95,
+            "text": "Today, people living in cities already outnumber those in rural areas and the trend does not appear to be reversing."
+           },
+           {
+            "id": "4/95960-101723",
+            "startTimeInSeconds": 95,
+            "endTimeInSeconds": 101,
+            "text": "In addition, cities have larger amounts of carbon consumption than rural areas. "
+           },
+           {
+            "id": "5/101723-104828",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 104,
+            "text": " This is a result from two major aspects."
+           }
+          ]
+         },
+         "value": "carbon",
+         "blankId": "iOdxJxXqW_SW3mZ3kHJn7"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vì mình chuẩn bị nghe về mục \\\"\",\"marks\":[]},{\"text\":\"Advantages for moving into the city\",\"marks\":[],\"bold\":true},{\"text\":\"\\\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe ''there are also \"},{\"text\":\"benefits of migration\",\"bold\":true},{\"text\":\" ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''As rural dwellers leave their homes, \"},{\"text\":\"local forests are left to recover\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc người dưới nông thôn rời nơi ở của họ \"},{\"text\":\"giúp rừng địa phương hồi phục \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là forests \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"(bạn lưu ý \"},{\"text\":\"không ghi local \",\"bold\":true},{\"text\":\"do đề bài chỉ cho phép mình\"},{\"text\":\" điền một từ\",\"bold\":true},{\"text\":\")\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 123,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "8/123395-135344",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 135,
+            "text": "Even though rural exodus is often negatively judged, there are also benefits of migration shared by the local environment and the society as a whole."
+           },
+           {
+            "id": "9/135344-151212",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 151,
+            "text": "Well, firstly, global trends of increasing urban migration and population urbanisation can provide opportunities for nature conservations, particularly in regions where deforestation is driven by agriculture."
+           },
+           {
+            "id": "10/151212-157229",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 157,
+            "text": "As rural dwellers leave their homes, local forests are left to recover."
+           }
+          ]
+         },
+         "value": "forests",
+         "blankId": "v_gSReLkNaWgIHVXtn1bS"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này là\"},{\"text\":\" lợi ích thứ hai \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do có từ nối ''\"},{\"text\":\"What’s more\",\"bold\":true},{\"text\":\"'' nên mình biết đáp án sắp tới.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''Living in the country means\"},{\"text\":\" transport can be very difficult\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Giao thông ở vùng ngoại ô rất kém (khó đi lại)\",\"bold\":true},{\"text\":\" (difficult ~ poor) \\n=> \"},{\"text\":\"Đáp án: transport \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 176,
+          "transcripts": [
+           {
+            "id": "11/157229-161402",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 161,
+            "text": "What’s more, it is easier for city dwellers to get around."
+           },
+           {
+            "id": "12/161402-165302",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 165,
+            "text": "Living in the country means transport can be very difficult."
+           },
+           {
+            "id": "13/165302-170515",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 170,
+            "text": "For instance, after midnight there are no buses or taxis in the countryside."
+           },
+           {
+            "id": "14/170515-176025",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 176,
+            "text": "However, there is still a number of public transport modes to choose from in the city."
+           }
+          ]
+         },
+         "value": "transportation/transport",
+         "blankId": "rmHN7-gtg89NMgQd6ghHQ"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này là \"},{\"text\":\"lợi ích cuối cùng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau từ ''\"},{\"text\":\"Finally\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''New power plants have been built to\"},{\"text\":\" take harmful methane gas created by the decomposition of rubbish\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"convert it into electricity\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình có thể recycle\"},{\"text\":\" khí methane từ rác thải \",\"bold\":true},{\"text\":\"để tạo ra năng lượng sạch \\n=>\"},{\"text\":\" Đáp án là rubbish \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 176,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "15/176025-183460",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 183,
+            "text": "Finally, with more funds and advanced technology, cities endeavour to produce clean energy."
+           },
+           {
+            "id": "16/183460-193580",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 193,
+            "text": "New power plants have been built to take harmful methane gas created by the decomposition of rubbish, and convert it into electricity."
+           },
+           {
+            "id": "17/193580-203743",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 203,
+            "text": "By doing so, an important greenhouse gas is turned into useful energy rather than being directly emitted into the atmosphere."
+           }
+          ]
+         },
+         "value": "rubbish",
+         "blankId": "svm_BIAbkAYLVLJtpoLW_"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nghe  ''More women are choosing their careers over \"},{\"text\":\"marriage\",\"bold\":true},{\"text\":\", which raises the graph of \"},{\"text\":\"late marriages\",\"bold\":true},{\"text\":\"'' (ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''It is \"},{\"text\":\"also easier \",\"bold\":true},{\"text\":\"for them \"},{\"text\":\"to get a promotion while working\",\"bold\":true},{\"text\":\" in the city.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phụ nữ \"},{\"text\":\"dễ được thăng chức\",\"bold\":true},{\"text\":\" hơn khi làm việc trong thành phố \\n=>\"},{\"text\":\" Đáp án: promotion \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 203,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "18/203743-213122",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 213,
+            "text": "The hustle and bustle of city life offers women :he opportunity to explore different professions and pursue their own careers."
+           },
+           {
+            "id": "19/213122-219334",
+            "startTimeInSeconds": 213,
+            "endTimeInSeconds": 219,
+            "text": "Women in cities work as engineers, managers and even football players."
+           },
+           {
+            "id": "20/219334-224655",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 224,
+            "text": "This change of roles has affected their marital status and family life."
+           },
+           {
+            "id": "21/224655-232244",
+            "startTimeInSeconds": 224,
+            "endTimeInSeconds": 232,
+            "text": " More women are choosing their careers over marriage, which raises the graph of late marriages."
+           },
+           {
+            "id": "22/232244-237205",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 237,
+            "text": "As a result, more are remaining single well into their late thirty’s."
+           },
+           {
+            "id": "23/237205-241134",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 241,
+            "text": "They want to be independent and earn money on their own."
+           },
+           {
+            "id": "24/241134-245941",
+            "startTimeInSeconds": 241,
+            "endTimeInSeconds": 245,
+            "text": "It is also easier for them to get a promotion while working in the city."
+           },
+           {
+            "id": "25/245941-255090",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 255,
+            "text": "Women are slowly achieving wider participation at work, while in rural areas the mindset is still very conservative."
+           }
+          ]
+         },
+         "value": "promotion",
+         "blankId": "hhjujLA6d9CawrXhRSGLd"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"việc không thể duy trì lối sống trước làm dễ đánh mất cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vì đang nói về \"},{\"text\":\"downside \",\"bold\":true},{\"text\":\"nên mình biết đáp án sẽ tới sau ''...often causing \"},{\"text\":\"multiple problems\",\"bold\":true},{\"text\":\".''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy '\"},{\"text\":\"'...new comers\",\"bold\":true},{\"text\":\" attach greater importance to money and\"},{\"text\":\" gradually abandon their former way of life\",\"bold\":true},{\"text\":\", thus risking l\"},{\"text\":\"osing their culture.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Những người mới đến có thể\"},{\"text\":\" đánh mất đi văn hóa của mình \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: culture \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 259,
+          "endTimeInSeconds": 300,
+          "transcripts": [
+           {
+            "id": "26/259425-268000",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 268,
+            "text": "However, cities also change the way that humans interact with each other and the environment, often causing multiple problems."
+           },
+           {
+            "id": "27/268262-277992",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 277,
+            "text": "In general, urban wages are significantly higher, so moving to the city is an opportunity to earn what was impossible in rural areas."
+           },
+           {
+            "id": "28/277992-289022",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 289,
+            "text": "However, the wage difference is often offset by the higher cost of living and absence of self-produced goods, including subsistence farming."
+           },
+           {
+            "id": "29/289022-300439",
+            "startTimeInSeconds": 289,
+            "endTimeInSeconds": 300,
+            "text": "A sizable proportion of new comers attach greater importance to money and gradually abandon their former way of life, thus risking losing their culture."
+           }
+          ]
+         },
+         "value": "culture",
+         "blankId": "A3A4i830pD_umPTSqTBky"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này là \"},{\"text\":\"vấn đề thứ hai \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''These new city residents are also faced with \"},{\"text\":\"another problem.\",\"bold\":true},{\"text\":\"''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, \\\"\"},{\"text\":\"crime rate\",\"bold\":true},{\"text\":\"s are significantly \"},{\"text\":\"higher in densely populated urban regions\",\"bold\":true},{\"text\":\" than in rural areas.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tỉ lệ tội phạm\",\"bold\":true},{\"text\":\" ở thành phố \"},{\"text\":\"cao hơn\",\"bold\":true},{\"text\":\" ở vùng nông thôn (\"},{\"text\":\"urban regions = city \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"rural areas = country\",\"bold\":true},{\"text\":\") \\n=> \"},{\"text\":\"Đáp án: crime \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 300,
+          "endTimeInSeconds": 324,
+          "transcripts": [
+           {
+            "id": "30/300439-305000",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 305,
+            "text": "These new city residents are also faced with another problem."
+           },
+           {
+            "id": "31/305353-314000",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 314,
+            "text": "According to statistics, crime rates are significantly higher in densely populated urban regions than in rural areas."
+           },
+           {
+            "id": "32/314000-324896",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 324,
+            "text": "For instance, property crime rates in our metropolitan areas are three to four times as high in comparison to the rates in rural communities."
+           }
+          ]
+         },
+         "value": "crime",
+         "blankId": "YD1bQjxYSyQmSThDk3UX-"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này là \"},{\"text\":\"vấn đề cuối cùng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"In addition,\",\"bold\":true},{\"text\":\" traffic congestion and industrial manufacturing are ...''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Theo người nói, ''\"},{\"text\":\"Air pollution \",\"bold\":true},{\"text\":\"from both \"},{\"text\":\"cars\",\"bold\":true},{\"text\":\" and\"},{\"text\":\" factory emissions\",\"bold\":true},{\"text\":\" affect the health of countless urban residents.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ô nhiễm không khí, tức \"},{\"text\":\"chất lượng không khí kém\",\"bold\":true},{\"text\":\", ảnh hưởng tới sức khỏe của người thành thị \\n=> \"},{\"text\":\"Đáp án: air \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 353,
+          "endTimeInSeconds": 373,
+          "transcripts": [
+           {
+            "id": "36/353188-366841",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 366,
+            "text": "In addition, traffic congestion and industrial manufacturing are prominent features of the urban landscape, which take their toll on the natural environment and those who depend on it."
+           },
+           {
+            "id": "37/366841-373545",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 373,
+            "text": "Air pollution from both cars and factory emissions affect the health of countless urban residents."
+           }
+          ]
+         },
+         "value": "air",
+         "blankId": "e0-bXYoTB7m_9Yc0MVkjC"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Hai câu cuối cùng nằm ở mục '\"},{\"text\":\"'Economic factors'\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần này tới sau ''Rural to urban migration can boost the \"},{\"text\":\"urban economy\",\"bold\":true},{\"text\":\".''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên mình nghe ''With a \"},{\"text\":\"better economy\",\"bold\":true},{\"text\":\", cities provide their residents with \"},{\"text\":\"better welfare'\",\"bold\":true},{\"text\":\"'\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó, ''But the concentration of services and facilities(....) \"},{\"text\":\"contributes to greater energy consumption.\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Kinh tế tốt\",\"bold\":true},{\"text\":\" dẫn đến \"},{\"text\":\"phúc lợi tốt\",\"bold\":true},{\"text\":\" \"},{\"text\":\"hơn \",\"bold\":true},{\"text\":\"(increase = better), từ đó dẫn đến sự tập trung các dịch vụ và cơ sở vật chất, từ đó \"},{\"text\":\"dẫn tới mức năng lượng tiêu thụ cao\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: welfare \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn có thể bị nhầm sang\"},{\"text\":\" services và facilities,\",\"bold\":true},{\"text\":\" \"},{\"text\":\"2 cái đó tăng lên vì welfare trở nên tốt hơn\",\"bold\":true},{\"text\":\", nên nguyên nhân chính là \"},{\"text\":\"welfare\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 373,
+          "endTimeInSeconds": 395,
+          "transcripts": [
+           {
+            "id": "38/373545-378483",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 378,
+            "text": "Rural to urban migration can boost the urban economy. "
+           },
+           {
+            "id": "39/378483-383755",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 383,
+            "text": "With a better economy, cities provide their residents with better welfare. "
+           },
+           {
+            "id": "40/383755-395860",
+            "startTimeInSeconds": 383,
+            "endTimeInSeconds": 395,
+            "text": "But the concentration of services and facilities, such as education, health and technology in urban areas inevitably contributes to greater energy consumption."
+           }
+          ]
+         },
+         "value": "welfare",
+         "blankId": "2DWH-TUiJgWehJB5B0FUB"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình biết đáp án sẽ có sau '\"},{\"text\":\"'Another problem\",\"bold\":true},{\"text\":\" with life in the city is traffic congestion''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nhắc tới đối tượng là \"},{\"text\":\"''traffic congestion'\",\"bold\":true},{\"text\":\"', speaker nói ''It \"},{\"text\":\"makes people late\",\"bold\":true},{\"text\":\" to work and thus \"},{\"text\":\"stresses us out \",\"bold\":true},{\"text\":\"before we even get there.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => \"},{\"text\":\"Ùn tắc giao thông\",\"bold\":true},{\"text\":\" khiến mọi người \"},{\"text\":\"bị căng thẳng\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: traffic \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (traffic congestion = heavy traffic)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 395,
+          "endTimeInSeconds": 423,
+          "transcripts": [
+           {
+            "id": "41/395860-400360",
+            "startTimeInSeconds": 395,
+            "endTimeInSeconds": 400,
+            "text": "Another problem with life in the city is traffic congestion."
+           },
+           {
+            "id": "42/400360-406800",
+            "startTimeInSeconds": 400,
+            "endTimeInSeconds": 406,
+            "text": "It makes people late to work and thus stresses us out before we even get there. "
+           },
+           {
+            "id": "43/406800-410614",
+            "startTimeInSeconds": 406,
+            "endTimeInSeconds": 410,
+            "text": "Deliveries can’t arrive on time. Gas costs money."
+           },
+           {
+            "id": "44/410614-414514",
+            "startTimeInSeconds": 410,
+            "endTimeInSeconds": 414,
+            "text": "The quality of life of those commuters starts to decline."
+           },
+           {
+            "id": "45/414514-423823",
+            "startTimeInSeconds": 414,
+            "endTimeInSeconds": 423,
+            "text": "What’s worse is that if congestion makes it harder to match the right workers to the best jobs, it is economically inefficient, as well."
+           }
+          ]
+         },
+         "value": "traffic",
+         "blankId": "GrAShgCdYQvizearnZAyM"
+        }
+       ],
+       "heading": "ARGUMENTS FOR AND AGAINST URBAN MIGRATION",
+       "paragraph": {
+        "id": "P5dWpYm-XtnmE0waRrved",
+        "editorValue": "[{\"children\":[{\"text\":\"Cities now:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"account for 3% of the planet’s land areas\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"consume more \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"iOdxJxXqW_SW3mZ3kHJn7\"},{\"text\":\" than the countryside\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Advantages for moving into the city:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"good for some \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"v_gSReLkNaWgIHVXtn1bS\"},{\"text\":\" to recover\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"poor \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"rmHN7-gtg89NMgQd6ghHQ\"},{\"text\":\" in the countryside\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"clean energy: recycling of methane gas produced from \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"svm_BIAbkAYLVLJtpoLW_\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"For women:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"more likely to have late marriages\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"better chance of getting a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"hhjujLA6d9CawrXhRSGLd\"},{\"text\":\" at work\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Downsides of moving into the city:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"possible to lose \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"A3A4i830pD_umPTSqTBky\"},{\"text\":\" because it is difficult to maintain previous lifestyle\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"higher rates of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YD1bQjxYSyQmSThDk3UX-\"},{\"text\":\" in the city than in the country\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"poor quality of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"e0-bXYoTB7m_9Yc0MVkjC\"},{\"text\":\" in the city\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Economic factors:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Increased \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"2DWH-TUiJgWehJB5B0FUB\"},{\"text\":\" in population results in increase in energy consumption.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"People find the heavy \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"GrAShgCdYQvizearnZAyM\"},{\"text\":\" stressful.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "iOdxJxXqW_SW3mZ3kHJn7",
+          "key": 0
+         },
+         {
+          "id": "v_gSReLkNaWgIHVXtn1bS",
+          "key": 1
+         },
+         {
+          "id": "rmHN7-gtg89NMgQd6ghHQ",
+          "key": 2
+         },
+         {
+          "id": "svm_BIAbkAYLVLJtpoLW_",
+          "key": 3
+         },
+         {
+          "id": "hhjujLA6d9CawrXhRSGLd",
+          "key": 4
+         },
+         {
+          "id": "A3A4i830pD_umPTSqTBky",
+          "key": 5
+         },
+         {
+          "id": "YD1bQjxYSyQmSThDk3UX-",
+          "key": 6
+         },
+         {
+          "id": "e0-bXYoTB7m_9Yc0MVkjC",
+          "key": 7
+         },
+         {
+          "id": "2DWH-TUiJgWehJB5B0FUB",
+          "key": 8
+         },
+         {
+          "id": "GrAShgCdYQvizearnZAyM",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:23Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

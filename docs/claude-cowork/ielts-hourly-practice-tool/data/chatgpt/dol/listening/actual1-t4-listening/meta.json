@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual1-t4-listening",
+ "title": "Actual Test 1 - Listening Test 4",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 4,
+ "order": 70,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-1-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Recycling",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d81072ce-ca40-4592-9f90-9733472c9575.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5167901
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f031ae83-f4a5-4377-9840-d482db420193.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 42
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "“CV And Interview Skills” Seminar",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5f9f3e56-4f9e-4f4b-af57-054c8fde6e04.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5008345
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0de7cfda-d22d-486c-8e2d-1924fa982dd7.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 39
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "A Consultation With The Returning Students Advisor",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/84404671-09e3-4011-a643-05ef7712538a.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5696097
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8610a8b8-cbcf-4b92-a562-6d6a9ac02e78.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 41
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Wassamatta University",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/894602a5-fe05-4884-9d22-1d4c9346db84.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5232162
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f6cb31c4-5dba-4ce9-9d33-810999814e9a.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 38
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:41:42Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam13-t4-listening",
+ "title": "CAM IELTS 13 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 13",
+ "testNum": 4,
+ "order": 32,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-13-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Alex's Training",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0b5624b5-cefd-46a1-994b-dec8357e35e3.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5594997
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/30947201-a3b7-44e3-8be8-1668ffbffa4a.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 34
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Snow Centre",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/176dcd3a-f70c-4cb1-a9a7-ab864a1cf37f.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4945835
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c5db94fe-ce36-442c-a0da-3fce345cecbd.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Nutritional Information On Food Packaging",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d5d93953-8106-4ab8-92ac-fc2b5c6e64e2.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5403441
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/237758ca-d64d-48a3-8132-2682ba068771.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 35
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The History Of Coffee",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fc422734-2d97-4314-8274-d2dacbb215d2.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5733969
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3e303db3-b08e-4239-b894-e30f99503413.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 17
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:42:33Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

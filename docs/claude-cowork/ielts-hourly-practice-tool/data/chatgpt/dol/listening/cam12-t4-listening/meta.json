@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam12-t4-listening",
+ "title": "CAM IELTS 12 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 12",
+ "testNum": 4,
+ "order": 36,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-12-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Cycle Tour Leader Application",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2fcf6baf-2ccd-49b3-947d-36f420297dc7.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 11488565
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/81824720-35ff-45a7-ad38-cf2ba47a555a.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 37
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Visiting Sheepmarket Area",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/90df598d-4b67-4fc8-a43d-0790e33446e7.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 8868595
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/96c0fa29-9965-4d9c-b580-c73cd80f482a.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 11
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Shakespeare's Plays' Film Adaptation",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6e2fa2ae-add8-4358-865c-47f91a5dd76e.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 11165699
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5e8f5faa-c53b-40c0-b049-71d176b5b424.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 37
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Noise In Cities",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/671ab378-6e12-4375-8eab-c4ad4de1b65e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 11386381
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2dfdf149-9bb0-4dd1-8ccf-f5e0a83147da.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 16
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:44:00Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

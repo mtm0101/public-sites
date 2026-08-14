@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp3-t2-listening",
+ "title": "Practice Test Plus 3 - Listening Test 2",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 3",
+ "testNum": 2,
+ "order": 61,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Pinder’s Animal Park",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/4ca8c604-28d4-4d29-b7f8-e4241a49ba79.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 13570441
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/00fe1960-c36f-44c9-870b-b3a7b7ee3c30.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Tamerton Centre",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d1df5026-6d25-418b-8bdc-6fdf7eea1bec.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14500675
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f827ed5b-6216-450d-81e9-8ebd71113265.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 14
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Preparations For Teaching Practice",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8a9f4281-eb11-4e10-8790-d891aa3de1c7.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 11509760
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2cec41ac-3226-4b02-99f5-e55b446bd804.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Creating Artificial Gills",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/6f606d41-0bdf-4fca-b4b5-efa49bab8ead.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 14626206
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/03194b92-79e9-4d68-af55-85dd85fc86da.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:02:53Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

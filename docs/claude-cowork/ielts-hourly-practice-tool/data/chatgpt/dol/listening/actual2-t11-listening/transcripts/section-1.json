@@ -1,0 +1,327 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 121.376,
+   "end": 122.286,
+   "text": "Hello?",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c2",
+   "start": 122.286,
+   "end": 125.024,
+   "text": "Yes, I’d like to speak with Janet Evans, please.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c3",
+   "start": 125.024,
+   "end": 126.159,
+   "text": "Speaking",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c4",
+   "start": 126.159,
+   "end": 134.163,
+   "text": "Hi Ms. Evans, this is Jim Rodriguez calling from Farrelly Mutual about your recent homeowner’s insurance inquiry",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c5",
+   "start": 134.163,
+   "end": 137.043,
+   "text": "Yes, hi. Thanks for returning my call.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c6",
+   "start": 137.043,
+   "end": 146.359,
+   "text": "My pleasure. I understand you are potentially interested in insurance for a bungalow located a bit out of town. Could you give me the address?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c7",
+   "start": 146.359,
+   "end": 151.106,
+   "text": "Sure, it’s 49 Greenway Court. Greenway is one word.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c8",
+   "start": 151.106,
+   "end": 156.653,
+   "text": "Thank you. Alright, and would you prefer to be contacted via email or phone?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c9",
+   "start": 156.653,
+   "end": 162.851,
+   "text": "Either one is fine - maybe try emailing me first and as an alternative I can give you my phone number.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c10",
+   "start": 162.851,
+   "end": 165.645,
+   "text": "Great - and what is your email address?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c11",
+   "start": 165.645,
+   "end": 168.793,
+   "text": "pk2@cat.com.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c12",
+   "start": 168.793,
+   "end": 172.381,
+   "text": "Hm, did you say “cat”, as in the animal?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c13",
+   "start": 172.381,
+   "end": 177.099,
+   "text": "Yes. It is the acronym for the construction company I work for - I’m sure you’ve seen them around.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c14",
+   "start": 177.099,
+   "end": 183.081,
+   "text": "Yes, I have. And could you give me your primary phone number, and the best time to reach you?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c15",
+   "start": 183.081,
+   "end": 195.744,
+   "text": "Sure - the number is (020) 4251-9443. I am generally unable to answer my phone at work, but anytime after 5.30 p.m is fine.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c16",
+   "start": 195.744,
+   "end": 205.812,
+   "text": "I will make a note of that here. Now I’m going to ask you a little bit about the property itself so we can make an accurate estimate of the cost of insuring your home.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c17",
+   "start": 205.812,
+   "end": 208.079,
+   "text": "Could you tell me the size of your house?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c18",
+   "start": 208.079,
+   "end": 216.946,
+   "text": "Um, well, I don’t have the exact measurements, but I’m pretty sure it’s right around 80 square metres. Should I measure it and call you back later?",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c19",
+   "start": 216.946,
+   "end": 229.629,
+   "text": "No, that’s completely alright. I’ll write 80 square metres for now to get the estimate and then an agent will come get the exact measurements later on if you decide to purchase our insurance.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c20",
+   "start": 229.979,
+   "end": 231.028,
+   "text": "Okay, great.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c21",
+   "start": 231.152,
+   "end": 236.366,
+   "text": "And what material is your house made of? For example, wood, brick, stucco,...",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c22",
+   "start": 236.366,
+   "end": 237.655,
+   "text": "It’s mainly brick.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c23",
+   "start": 237.655,
+   "end": 244.209,
+   "text": "Great - that will give you a lower rate than most other materials since it is so strong.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c24",
+   "start": 244.209,
+   "end": 245.033,
+   "text": "Wonderful!",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c25",
+   "start": 245.033,
+   "end": 248.488,
+   "text": "And do you have any sort of home security, Ms.Evans?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c26",
+   "start": 248.488,
+   "end": 254.341,
+   "text": "Um, we don’t have a fence or anything yet, but we have an alarm system that we use regularly.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c27",
+   "start": 254.341,
+   "end": 255.078,
+   "text": "Good.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c28",
+   "start": 290.148,
+   "end": 297.011,
+   "text": "Now I’ll go through a number of things we offer coverage for, and I’d like you to tell me which items you want your policy to cover.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c29",
+   "start": 297.011,
+   "end": 297.845,
+   "text": "Okay.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c30",
+   "start": 297.845,
+   "end": 305.29,
+   "text": "We’ll start with the building itself first - would you like us to cover incidental damage to the structure to your house?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c31",
+   "start": 305.29,
+   "end": 306.315,
+   "text": "Absolutely.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c32",
+   "start": 306.315,
+   "end": 315.16,
+   "text": "Splendid. And the contents inside your house - we usually cover all items with an appraised value above £200.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c33",
+   "start": 315.16,
+   "end": 320.326,
+   "text": "Would you like us to cover theft and damage beyond natural wear-and-tear?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c34",
+   "start": 320.326,
+   "end": 325.417,
+   "text": "I will let you know that the second option here will come with a considerable increase in your rates.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c35",
+   "start": 325.417,
+   "end": 330.068,
+   "text": "I think I’d just like the contents of the house to be covered against theft then.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c36",
+   "start": 330.068,
+   "end": 335.024,
+   "text": "Alright - and would you like any other insurance - fire, flood, etc?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c37",
+   "start": 335.024,
+   "end": 342.218,
+   "text": "Yes - definitely want flood coverage. It rains a lot here, and the drainage system in the area is not the greatest.",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c38",
+   "start": 342.218,
+   "end": 354.899,
+   "text": "Okay. I am calculating your quotation now. It will just take a second. (Two seconds pause) It looks like your annual insurance rate will be £148.30.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c39",
+   "start": 354.899,
+   "end": 364.73,
+   "text": "Thanks, that seems somewhat reasonable. I would like to take some time to think about it. How long does it take to begin receiving coverage after signing up?",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c40",
+   "start": 364.73,
+   "end": 376.143,
+   "text": "It depends on the time of year - it can take anywhere from two to six weeks. I would say if you sign up by July 1st, you could start your coverage by August 1st.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c41",
+   "start": 376.143,
+   "end": 382.154,
+   "text": "I see. Okay, thanks for your help. Should I call you back at this number when I have made my decision?",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c42",
+   "start": 382.154,
+   "end": 391.502,
+   "text": "Yes, please. And so that we can look up your account faster, I’ll give you a reference number that you should provide when calling. Ready?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c43",
+   "start": 391.502,
+   "end": 392.321,
+   "text": "Yep!",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c44",
+   "start": 392.321,
+   "end": 395.877,
+   "text": "It’s TR278Q.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c45",
+   "start": 395.877,
+   "end": 397.726,
+   "text": "Got it. Thanks!",
+   "speaker": "Janet"
+  },
+  {
+   "id": "c46",
+   "start": 397.726,
+   "end": 399.842,
+   "text": "Thank you, and have a nice day!",
+   "speaker": "Agent"
+  }
+ ]
+}

@@ -1,0 +1,292 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 154.129,
+   "end": 156.032,
+   "text": "Good morning. What can I do for you?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c2",
+   "start": 156.419,
+   "end": 161.309,
+   "text": "I want to report a theft. I had some things stolen out of my bag yesterday.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c3",
+   "start": 161.451,
+   "end": 168.515,
+   "text": "I’m sorry to hear that. Right, so I’ll need to take a few details. Can I start with your name?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c4",
+   "start": 168.654,
+   "end": 170.072,
+   "text": "Louise Taylor.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c5",
+   "start": 170.224,
+   "end": 173.936,
+   "text": "OK, thank you. And are you resident in the UK?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c6",
+   "start": 174.285,
+   "end": 178.366,
+   "text": "No, I’m actually Canadian. Though my mother was British.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c7",
+   "start": 178.484,
+   "end": 179.904,
+   "text": "And your date of birth?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c8",
+   "start": 180.049,
+   "end": 183.482,
+   "text": "December 14th, 1977.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c9",
+   "start": 183.643,
+   "end": 185.925,
+   "text": "So you’re just visiting this country?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c10",
+   "start": 186.099,
+   "end": 204.732,
+   "text": "That’s right. I come over most summers on business. I’m an interior designer and I come over to buy old furniture, antiques you know. There are some really lovely things around here, but you need to get out to the small towns. I’ve had a really good trip this year, until this happened.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c11",
+   "start": 204.856,
+   "end": 207.941,
+   "text": "OK. So you’ve been here quite a while?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c12",
+   "start": 208.092,
+   "end": 212.287,
+   "text": "Yes, I’m here for two months. I go back next week.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c13",
+   "start": 212.452,
+   "end": 214.791,
+   "text": "So may I ask where you’re staying now?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c14",
+   "start": 215.555,
+   "end": 230.719,
+   "text": "Well at present I’ve got a place at Park Apartments, that’s on King Street. I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c15",
+   "start": 230.814,
+   "end": 233.17,
+   "text": "OK. And the apartment number?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c16",
+   "start": 233.322,
+   "end": 234.286,
+   "text": "Fifteen.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c17",
+   "start": 234.622,
+   "end": 235.265,
+   "text": "Right.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c18",
+   "start": 287.822,
+   "end": 295.024,
+   "text": "Now, I need to take some details of the theft. So you said you had some things stolen out of your bag?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c19",
+   "start": 295.2,
+   "end": 296.144,
+   "text": "That’s right.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c20",
+   "start": 296.28,
+   "end": 301.035,
+   "text": "And were you actually carrying the bag when the theft took place?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c21",
+   "start": 301.159,
+   "end": 312.905,
+   "text": "Yes, I really can’t understand it. I had my backpack on. And I went into a supermarket to buy a few things and when I opened it up my wallet wasn’t there.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c22",
+   "start": 313.087,
+   "end": 315.589,
+   "text": "And what did your wallet have in it?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c23",
+   "start": 315.754,
+   "end": 342.676,
+   "text": "Well, fortunately I don’t keep my credit cards in that wallet – I keep them with my passport in an inside compartment in my backpack. But there was quite a bit of cash there … about £250 sterling, I should think. I withdrew £300 from my account yesterday, but I did a bit of shopping, so I must have already spent about £50 of that.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c24",
+   "start": 342.854,
+   "end": 343.563,
+   "text": "OK.",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c25",
+   "start": 344.138,
+   "end": 360.75,
+   "text": "At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well. It was only a week old, and that’s when I realised I’d been robbed. Anyway at least they didn’t take the keys to my rental car.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c26",
+   "start": 360.916,
+   "end": 365.196,
+   "text": "Yes. So you say the theft occurred yesterday?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c27",
+   "start": 365.373,
+   "end": 366.115,
+   "text": "Yes.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c28",
+   "start": 366.402,
+   "end": 376.009,
+   "text": "So that was September the tenth. And do you have any idea at all of where or when the things might possibly have been stolen?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c29",
+   "start": 376.344,
+   "end": 415.012,
+   "text": "Well at first I couldn’t believe it because the bag had been on my back ever since I left the apartment after lunch. It’s just a small backpack, but I generally use it when I’m travelling because it seems safer than a handbag. Anyway, I met up with a friend, and we spent a couple of hours in the museum. But I do remember that as we were leaving there, at about 4 o’clock, a group of young boys ran up to us, and they were really crowding round us, and they were asking us that time it was, then all of a sudden they ran off.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c30",
+   "start": 415.161,
+   "end": 417.691,
+   "text": "Can you remember anything about them?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c31",
+   "start": 417.843,
+   "end": 428.884,
+   "text": "The one who did most of the talking was wearing a T-shirt with a picture of something … let’s see … a tiger.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c32",
+   "start": 429.083,
+   "end": 432.153,
+   "text": "Right. Any idea of how old he might have been?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c33",
+   "start": 432.291,
+   "end": 435.028,
+   "text": "Around twelve years old?",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c34",
+   "start": 435.21,
+   "end": 439.223,
+   "text": "And can you remember anything else about his appearance?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c35",
+   "start": 439.422,
+   "end": 443.026,
+   "text": "Not much. He was quite thin …",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c36",
+   "start": 443.201,
+   "end": 444.279,
+   "text": "Colour of hair?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c37",
+   "start": 444.433,
+   "end": 449.575,
+   "text": "I do remember that – he was blond. All the others were dark-haired.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c38",
+   "start": 449.719,
+   "end": 452.573,
+   "text": "And any details of the others?",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c39",
+   "start": 452.73,
+   "end": 456.847,
+   "text": "Not really. They came and went so quickly.",
+   "speaker": "LOUISE"
+  },
+  {
+   "id": "c40",
+   "start": 456.997,
+   "end": 474.986,
+   "text": "Right. So what I’m going to do now is give you a crime reference number so you can contact your insurance company. So this is ten digits: 87954 82361",
+   "speaker": "OFFICER"
+  },
+  {
+   "id": "c41",
+   "start": 475.13,
+   "end": 477.756,
+   "text": "Thank you. So should I …",
+   "speaker": "LOUISE"
+  }
+ ]
+}

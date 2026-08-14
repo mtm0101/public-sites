@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp3-t4-listening",
+ "title": "Practice Test Plus 3 - Listening Test 4",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 3",
+ "testNum": 4,
+ "order": 63,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Things To Do Before We Go",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/52f9b877-ccda-4532-b1e9-b0b804da37ef.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 13101455
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/66c5dbfe-2eba-4275-9d99-47be3fcbdbda.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 38
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Adbourne Film Festival",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/bd574720-fc61-4766-9281-310b05bbce9b.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 12732385
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aedd6ee5-9417-4665-bce6-649ff06a6740.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 16
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On Web-Based Crosswords",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/823bb25f-24fd-4873-ad69-cd827dbd236b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13291835
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b94768bd-b126-4cae-8889-bef03fe31bd6.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 44
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Job Satisfaction Study",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8621853b-b0d1-49ba-a883-41abaaa52544.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 12774135
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b747b6fc-b22b-4904-bee5-551ddca997cd.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 12
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:03:38Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

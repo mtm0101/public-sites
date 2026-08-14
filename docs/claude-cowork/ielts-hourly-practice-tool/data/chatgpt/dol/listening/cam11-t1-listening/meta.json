@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam11-t1-listening",
+ "title": "CAM IELTS 11 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 11",
+ "testNum": 1,
+ "order": 37,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-11-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Hiring A Public Room",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/57b43a1f-52f3-4ce6-962d-5ac9c7c7f999.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 9250296
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/eea48916-d8f8-438e-968b-d95b70d40956.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Fiddy Working Heritage Farm",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b5ca15c7-c110-42a4-947c-22a9bca07fa4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6398561
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/db9ada41-5326-4110-8285-00fb05ddb387.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Study On Gender In Physics",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dedbb4f5-30dd-40cf-9948-69d1be6a8ca4.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 7879390
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a03753a5-a89a-41b8-8d78-8e339424588a.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Ocean Biodiversity",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6c6b8894-cde8-4662-91a4-11b761b8fae9.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 8168200
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2f5bfcf4-3c03-428e-bde2-f907c3bea93b.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 16
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:44:22Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

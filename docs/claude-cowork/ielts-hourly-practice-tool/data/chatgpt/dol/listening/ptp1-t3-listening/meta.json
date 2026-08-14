@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp1-t3-listening",
+ "title": "Practice Test Plus 1 - Listening Test 3",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 3,
+ "order": 51,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-1-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Conference Registration Form",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/930cc626-7659-4894-85df-1f97d5b41b75.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 17253399
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4cd7992d-5a7f-4adb-ab48-f76f8945eb4d.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Beaches Information",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d7654871-b5c9-4793-9a18-814bf467a405.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13190836
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/569dd050-5547-46e4-b2a6-9516e8fbfb94.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Challenge For Booksellers",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/48910a13-986d-41f4-a9b5-b997bac9a1b5.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12548224
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6310ced4-ad8a-42c7-858c-7cbf581cd855.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 22
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Advices For Young Artists",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c44858a8-c6e9-45fe-b197-3e6214dddf03.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 18962852
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7638fe27-0eed-486b-8227-905ccbb6c031.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 12
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:59:07Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

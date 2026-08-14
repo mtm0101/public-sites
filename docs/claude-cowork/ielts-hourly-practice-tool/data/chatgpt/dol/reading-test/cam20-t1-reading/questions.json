@@ -1,0 +1,1837 @@
+{
+ "schema": 1,
+ "id": "cam20-t1-reading",
+ "title": "CAM IELTS 20 - Reading Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 20",
+ "testNum": 1,
+ "durationMinutes": 60,
+ "questionCount": 40,
+ "testUrl": "",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/cam-ielts-20-test-1-reading",
+ "sourceUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/cam-ielts-20-test-1-reading",
+ "sections": [
+  {
+   "section": 1,
+   "name": "The kãkãpo",
+   "duration": 20,
+   "questionStart": 1,
+   "questionEnd": 13,
+   "passage": {
+    "number": 1,
+    "label": "PASSAGE1",
+    "title": "The kãkãpo",
+    "subtitle": "The kãkãpõ is a nocturnal, flightless parrot that is critically endangered and one of New Zealand's unique treasures.",
+    "paragraphs": [
+     {
+      "label": "",
+      "en": "The kakapo, also known as the owl parrot, is a large, forest-dwelling bird, with a pale owl-like face. Up to 64 cm in length, it has predominantly yellow-green feathers, forward-facing eyes, a large grey beak, large blue feet, and relatively short wings and tail. It is the world's only flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Kakapo are solitary birds and tend to occupy the same home range for many years. They forage on the ground and climb high into trees. They often leap from trees and flap their wings, but at best manage a controlled descent to the ground. They are entirely vegetarian, with their diet including the leaves, roots and bark of trees as well as bulbs, and fern fronds.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Kakapõ breed in summer and autumn, but only in years when food is plentiful. Males play no part in incubation or chick-rearing - females alone incubate eggs and feed the chicks. The 1-4 eggs are laid in soil, which is repeatedly turned over before and during incubation. The female kakapo has to spend long periods away from the nest searching for food, which leaves the unattended eggs and chicks particularly vulnerable to predators.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Before humans arrived, kãkãpõ were common throughout New Zealand's forests. However, this all changed with the arrival of the first Polynesian settlers about 700 years ago. For the early settlers, the flightless kakapo was easy prey. They ate its meat and used its feathers to make soft cloaks. With them came the Polynesian dog and rat, which also preyed on kakapo. By the time European colonisers arrived in the early 1800s, kãkãpõ had become confined to the central North Island and forested parts of the South Island. The fall in käkãpõ numbers was accelerated by European colonisation. A great deal of habitat was lost through forest clearance, and introduced species such as deer depleted the remaining forests of food. Other predators such as cats, stoats and two more species of rat were also introduced. The kãkãpõ were in serious trouble.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "In 1894, the New Zealand government launched its first attempt to save the käkapo. Conservationist Richard Henry led an effort to relocate several hundred of the birds to predator-free Resolution Island in Fiordland. Unfortunately, the island didn't remain predator free - stoats arrived within six years, eventually destroying the kakapo population. By the mid-1900s, the kakapo was practically a lost species. Only a few clung to life in the most isolated parts of New Zealand.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "From 1949 to 1973, the newly formed New Zealand Wildlife Service made over 60 expeditions to find käkapo, focusing mainly on Fiordland. Six were caught, but there were no females amongst them and all but one died within a few months of captivity. In 1974, a new initiative was launched, and by 1977, 18 more käkãpõ were found in Fiordland. However, there were still no females. In 1977, a large population of males was spotted in Rakiura - a large island free from stoats, ferrets and weasels. There were about 200 individuals, and in 1980 it was confirmed females were also present. These birds have been the foundation of all subsequent work in managing the species.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Unfortunately, predation by feral cats on Rakiura Island led to a rapid decline in kăkãpõ numbers. As a result, during 1980-97, the surviving population was evacuated to three island sanctuaries: Codfish Island, Maud Island and Little Barrier Island. However, breeding success was hard to achieve. Rats were found to be a major predator of kakapo chicks and an insufficient number of chicks survived to offset adult mortality. By 1995, although at least 12 chicks had been produced on the islands, only three had survived. The kakapõ population had dropped to 51 birds. The critical situation prompted an urgent review of kakapõ management in New Zealand.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "In 1996, a new Recovery Plan was launched, together with a specialist advisory group called the Kakapõ Scientific and Technical Advisory Committee and a higher amount of funding. Renewed steps were taken to control predators on the three islands. Cats were eradicated from Little Barrier Island in 1980, and possums were eradicated from Codfish Island by 1986. However, the population did not start to increase until rats were removed from all three islands, and the birds were more intensively managed. This involved moving the birds between islands, supplementary feeding of adults and rescuing and hand-raising any failing chicks.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "After the first five years of the Recovery Plan, the population was on target. By 2000, five new females had been produced, and the total population had grown to 62 birds. For the first time, there was cautious optimism for the future of kãkãpõ and by June 2020, a total of 210 birds was recorded.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Today, kakapõ management continues to be guided by the kãkãpõ Recovery Plan. Its key goals are: minimise the loss of genetic diversity in the kakapo population, restore or maintain sufficient habitat to accommodate the expected increase in the kakapo population, and ensure stakeholders continue to be fully engaged in the preservation of the species.",
+      "vi": ""
+     }
+    ]
+   },
+   "questionGroups": [
+    {
+     "id": "de2e2d29-6b71-11f0-8fdc-ff9f0759d07e",
+     "questions": [
+      {
+       "uuid": "de2e2d2a-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "There are other parrots that share the kakapo's inability to fly.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"h3\",\"level\":3,\"children\":[{\"text\":\"✅ \"},{\"text\":\"Step 01: Read the question to understand (main idea + detail)\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Simplified:\",\"bold\":true},{\"text\":\"   \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"There\"},{\"text\":\" are \"}],\"annotationText\":\"S + V\",\"colorKey\":\"blue100\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"other parrots\"},{\"text\":\" \"}],\"colorKey\":\"primary100\",\"annotationText\":\"Noun\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"that share kakapo’s inability to fly\"},{\"text\":\" \"}],\"annotationText\":\"giống kakapo không thể bay\",\"colorKey\":\"blue100\"},{\"text\":\" \"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"h3\",\"level\":3,\"children\":[{\"text\":\"✅ \"},{\"text\":\"Step 02: Locate relevant information\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Từ khóa:\",\"bold\":true},{\"text\":\" \"},{\"text\":\"kakapo, flightless, parrot\",\"italic\":true}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dựa vào các từ khoá trên -> \"},{\"text\":\"Tìm được trích dẫn ở đoạn 1 câu cuối.\",\"bold\":true}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"h3\",\"level\":3,\"children\":[{\"text\":\"✅ \"},{\"text\":\"Step 03: Read relevant information to understand (main + detail)\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 Trích dẫn:\",\"bold\":true},{\"bold\":true,\"text\":\" \",\"italic\":true},{\"text\":\"\\\"It is the world's \",\"italic\":true},{\"text\":\"only \",\"bold\":true,\"italic\":true},{\"text\":\"flightless parrot, and is also possibly one of the world's longest-living birds, with a reported lifespan of up to 100 years.\\\"\",\"italic\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Simplified:\",\"bold\":true},{\"text\":\"   \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"It\"},{\"text\":\" is \"}],\"colorKey\":\"blue100\",\"annotationText\":\"S+V\"},{\"text\":\"  \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"the world’s only flightless parrot\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"NP\"},{\"text\":\" \"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main idea: \",\"bold\":true},{\"bold\":true,\"text\":\"Kakapo = con vẹt không biết bay duy nhất trên thế giới.\",\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}}]}]}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"h3\",\"level\":3,\"children\":[{\"text\":\"✅ \"},{\"text\":\"Step 04: Compare meaning with meaning\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Trong bài đọc:\",\"bold\":true},{\"text\":\" Kakapo là loài vẹt \"},{\"text\":\"duy nhất\",\"bold\":true},{\"text\":\" không bay được -> không có loài vẹt khác giống vậy,\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Trong câu hỏi: \",\"bold\":true},{\"text\":\"Có loài vẹt khác cũng không bay được.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"⇒ \"},{\"text\":\"Hai ý trái ngược\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\" -> \"},{\"text\":\"Chọn:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"FALSE\",\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"bold\":true}],\"highlightKey\":\"primary40\"},{\"text\":\"\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "de2e2d2b-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "Adult kakapo produce chicks every year.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "de2e2d2c-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "Adult male kakapo bring food back to nesting females.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "de2e2d2d-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "The Polynesian rat was a greater threat to the kakapo than Polynesian settlers.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "de2e2d2e-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "Kakapo were transferred from Rakiura Island to other locations because they were at risk from feral cats.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "de2e2d2f-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "TFN_ANSWER",
+       "question": "One Recovery Plan initiative that helped increase the kakapo population size was caring for struggling young birds.",
+       "options": [
+        {
+         "key": 0,
+         "value": "True"
+        },
+        {
+         "key": 1,
+         "value": "False"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      }
+     ],
+     "questionType": "TFN_ANSWER",
+     "displayedQuestionType": "True/ False/ Not Given",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Do the following statements agree with the information given in this Passage?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "In the following statements below, choose"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "TRUE",
+          "bold": true
+         },
+         {
+          "text": "                   if the statement agrees with the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "FALSE",
+          "bold": true
+         },
+         {
+          "text": "                  if the statement contradicts the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NOT GIVEN ",
+          "bold": true
+         },
+         {
+          "text": "        if it is impossible to say what the writer thinks about this"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Do the following statements agree with the information given in this Passage?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "In the following statements below, choose"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "TRUE",
+          "bold": true
+         },
+         {
+          "text": "                   if the statement agrees with the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "FALSE",
+          "bold": true
+         },
+         {
+          "text": "                  if the statement contradicts the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NOT GIVEN ",
+          "bold": true
+         },
+         {
+          "text": "        if it is impossible to say what the writer thinks about this"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "de2e2d30-6b71-11f0-8fdc-ff9f0759d07e",
+     "questions": [
+      {
+       "uuid": "de2e2d31-6b71-11f0-8fdc-ff9f0759d07e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "bulbs",
+         "blankId": "d3WcLIp_MTHQThigEx1H-"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "soil",
+         "blankId": "x69gFJNJM9FwpnXws7Z93"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "feathers",
+         "blankId": "WnWwZBTpVsQxgdMArTqL_"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "deer",
+         "blankId": "g2Sb58OGyr3QxOB_BrT3u"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "1980",
+         "blankId": "8Euv9rOyfI79rXNSoRHG8"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "funding",
+         "blankId": "dW9uYoVfZdW5UoAThV_TS"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "stakeholders",
+         "blankId": "W6rQjs6T9oeP4YMlp39aP"
+        }
+       ],
+       "heading": "New Zealand's kākāpõ",
+       "paragraph": {
+        "id": "AHlSK9kqoRqzDSURFRD7Y",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"A type of parrot:\",\"bold\":true}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"• diet consists of fern fronds, various parts of a tree and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"d3WcLIp_MTHQThigEx1H-\"},{\"text\":\"\"}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"• nests are created in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"x69gFJNJM9FwpnXws7Z93\"},{\"text\":\" where eggs are laid.\"}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"Arrival of Polynesian settlers\",\"bold\":true}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"• the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"WnWwZBTpVsQxgdMArTqL_\"},{\"text\":\" of the käkäpõ were used to make clothes.\"}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"Arrival of European colonisers\",\"bold\":true}]},{\"type\":\"p\",\"id\":\"uuIfo-8bK6sy8NuDz61qh\",\"children\":[{\"text\":\"• \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"g2Sb58OGyr3QxOB_BrT3u\"},{\"text\":\" were an animal which they introduced that ate the käkãpõ's food sources.\"}]},{\"id\":\"Yw2VZ6igdIEIt_Wr\",\"type\":\"p\",\"children\":[{\"text\":\"Protecting \",\"marks\":[],\"bold\":true},{\"text\":\"kãkäpõ\",\"bold\":true}]},{\"id\":\"Yw2VZ6igdIEIt_Wr\",\"type\":\"p\",\"children\":[{\"marks\":[],\"text\":\"Richard Henry, a conservationist, tried to protect the kãkäpõ.\"}]},{\"id\":\"Yw2VZ6igdIEIt_Wr\",\"type\":\"p\",\"children\":[{\"marks\":[],\"text\":\"• a definite sighting of female kakapo on Rakiura Island was reported in the year \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"8Euv9rOyfI79rXNSoRHG8\"},{\"text\":\".\"}]},{\"id\":\"Yw2VZ6igdIEIt_Wr\",\"type\":\"p\",\"children\":[{\"marks\":[],\"text\":\"• the Recovery Plan included an increase in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"dW9uYoVfZdW5UoAThV_TS\"},{\"text\":\".\"}]},{\"id\":\"Yw2VZ6igdIEIt_Wr\",\"type\":\"p\",\"children\":[{\"marks\":[],\"text\":\"• a current goal of the Recovery Plan is to maintain the involvement of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"W6rQjs6T9oeP4YMlp39aP\"},{\"marks\":[],\"text\":\" in kakapõ protection.\"}]}]",
+        "blanks": [
+         {
+          "id": "d3WcLIp_MTHQThigEx1H-",
+          "key": 0
+         },
+         {
+          "id": "x69gFJNJM9FwpnXws7Z93",
+          "key": 1
+         },
+         {
+          "id": "WnWwZBTpVsQxgdMArTqL_",
+          "key": 2
+         },
+         {
+          "id": "g2Sb58OGyr3QxOB_BrT3u",
+          "key": 3
+         },
+         {
+          "id": "8Euv9rOyfI79rXNSoRHG8",
+          "key": 4
+         },
+         {
+          "id": "dW9uYoVfZdW5UoAThV_TS",
+          "key": 5
+         },
+         {
+          "id": "W6rQjs6T9oeP4YMlp39aP",
+          "key": 6
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Summary Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " from the passage for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " from the passage for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "To Britain",
+   "duration": 20,
+   "questionStart": 14,
+   "questionEnd": 26,
+   "passage": {
+    "number": 2,
+    "label": "PASSAGE2",
+    "title": "To Britain",
+    "subtitle": "Mark Rowe investigates attempts to reintroduce elms to Britain",
+    "paragraphs": [
+     {
+      "label": "A",
+      "en": "Around 25 million elms, accounting for 90% of all elm trees in the UK, died during the 1960s and '70s of Dutch elm disease. In the aftermath, the elm, once so dominant in the British landscape, was largely forgotten. However, there's now hope the elm may be reintroduced to the countryside of central and southern England. Any reintroduction will start from a very low base. 'The impact of the disease is difficult to picture if you hadn't seen what was there before,' says Matt Elliot of the Woodland Trust. \"You look at old photographs from the 1960s and it's only then that you realise the impact [elms had] ... They were significant, large trees ….. then they were gone.'",
+      "vi": ""
+     },
+     {
+      "label": "B",
+      "en": "The disease is caused by a fungus that blocks the elms' vascular (water, nutrient and food transport) system, causing branches to wilt and die. A first epidemic, which occurred in the 1920s, gradually died down, but in the '70s a second epidemic was triggered by shipments of elm from Canada. The wood came in the form of logs destined for boat building and its intact bark was perfect for the elm bark beetles that spread the deadly fungus. This time, the beetles carried a much more virulent strain that destroyed the vast majority of British elms.",
+      "vi": ""
+     },
+     {
+      "label": "C",
+      "en": "Today, elms still exist in the southern English countryside but mostly only in low hedgerows between fields. 'We have millions of small elms in hedgerows but they get targeted by the beetle as soon as they reach a certain size,' says Karen Russell, co-author of the report 'Where we are with elm'. Once the trunk of the elm reaches 10-15 centimetres or so in diameter, it becomes a perfect size for beetles to lay eggs and for the fungus to take hold. Yet mature specimens have been identified, in counties such as Cambridgeshire, that are hundreds of years old, and have mysteriously escaped the epidemic. The key, Russell says, is to identify and study those trees that have survived and work out why they stood tall when millions of others succumbed. Nevertheless, opportunities are limited as the number of these mature survivors is relatively small. 'What are the reasons for their survival?' asks Russell. 'Avoidance, tolerance, resistance? We don't know where the balance lies between the three. I don't see how it can be entirely down to luck.'",
+      "vi": ""
+     },
+     {
+      "label": "D",
+      "en": "For centuries, elm ran a close second to oak as the hardwood tree of choice in Britain and was in many instances the most prominent tree in the landscape. Not only was elm common in European forests, it became a key component of birch, ash and hazel woodlands. The use of elm is thought to go back to the Bronze Age, when it was widely used for tools. Elm was also the preferred material for shields and early swords. In the 18th century, it was planted more widely and its wood was used for items such as storage crates and flooring. It was also suitable for items that experienced high levels of impact and was used to build the keel of the 19th-century sailing ship Cutty Sark as well as mining equipment.",
+      "vi": ""
+     },
+     {
+      "label": "E",
+      "en": "Given how ingrained elm is in British culture, it's unsurprising the tree has many advocates. Amongst them is Peter Bourne of the National Elm Collection in Brighton. 'I saw Dutch elm disease unfold as a small boy,' he says. 'The elm seemed to be part of rural England, but I remember watching trees just lose their leaves and that really stayed with me.' Today, the city of Brighton's elms total about 17,000. Local factors appear to have contributed to their survival. Strong winds from the sea make it difficult for the determined elm bark beetle to attack this coastal city's elm population. However, the situation is precarious. 'The beetles can just march in if we're not careful, as the threat is right on our doorstep,' says Bourne.",
+      "vi": ""
+     },
+     {
+      "label": "F",
+      "en": "Any prospect of the elm returning relies heavily on trees being either resistant to, or tolerant of, the disease. This means a widespread reintroduction would involve existing or new hybrid strains derived from resistant, generally non-native elm species. A new generation of seedlings have been bred and tested to see if they can withstand the fungus by cutting a small slit on the bark and injecting a tiny amount of the pathogen. 'The effects are very quick,' says Russell. \"You return in four to six weeks and trees that are resistant show no symptoms, whereas those that are susceptible show leaf loss and may even have died completely.'",
+      "vi": ""
+     },
+     {
+      "label": "G",
+      "en": "All of this raises questions of social acceptance, acknowledges Russell. 'If we're putting elm back into the landscape, a small element of it is not native - are we bothered about that?' For her, the environmental case for reintroducing elm is strong. 'They will host wildlife, which is a good thing.' Others are more wary. 'On the face of it, it seems like a good idea,' says Elliot. The problem, he suggests, is that, 'You're replacing a native species with a horticultural analogue*. You're effectively cloning.' There's also the risk of introducing new diseases. Rather than plant new elms, the Woodland Trust emphasises providing space to those elms that have survived independently. 'Sometimes the best thing you can do is just give nature time to recover ... over time, you might get resistance,' says Elliot. * horticultural analogue: a cultivated plant species that is genetically similar to an existing species",
+      "vi": ""
+     }
+    ]
+   },
+   "questionGroups": [
+    {
+     "id": "5aa237da-6b58-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "5aa237db-6b58-11f0-910a-59362feb7905",
+       "type": "MATCHING_PARAGRAPH",
+       "options": [
+        {
+         "key": 0,
+         "value": "reference to the research problems that arise from there being only a few surviving large elms"
+        },
+        {
+         "key": 1,
+         "value": "details of a difference of opinion about the value of reintroducing elms to Britain"
+        },
+        {
+         "key": 2,
+         "value": "reference to how Dutch elm disease was brought into Britain"
+        },
+        {
+         "key": 3,
+         "value": "a description of the conditions that have enabled a location in Britain to escape Dutch elm disease"
+        },
+        {
+         "key": 4,
+         "value": "reference to the stage at which young elms become vulnerable to Dutch elm disease"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Matching Information\",\"bold\":true},{\"text\":\"\\n📌 Dạng Matching Information chúng ta nên làm cuối cùng, sau khi đã làm các dạng câu hỏi khác nhé DOLBIES, bởi vì lúc này mình đã đọc và hiểu nội dung của bài rồi, cộng thêm nghệ thuật Specify của Linearthinking → sẽ nhanh chóng tìm được vị trí đáp án hơn!!\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" ------- \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to predict\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hiểu câu hỏi\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"colorKey\":\"primary100\",\"annotationText\":\"những vấn đề nghiên cứu\",\"children\":[{\"text\":\" \"},{\"text\":\"\"},{\"text\":\"the research problems\"},{\"text\":\" \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"phát sinh từ việc chỉ còn rất ít cây du lớn sống sót\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"that arise from there being only a few surviving large elms\"},{\"text\":\" \"}]},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specify & Predict\",\"bold\":true},{\"text\":\": Tìm đoạn nói về \"},{\"text\":\"khó khăn / hạn chế trong nghiên cứu\",\"bold\":true},{\"text\":\" do \"},{\"text\":\"số lượng cây du trưởng thành còn sống rất ít\",\"bold\":true},{\"text\":\",\"},{\"text\":\" ví dụ: cơ hội nghiên cứu bị giới hạn, thiếu dữ liệu, ...\",\"italic\":true}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Khoanh vùng đoạn văn\",\"bold\":true},{\"text\":\"\\n🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": “research problems”, “few surviving large elms” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"→ Dựa vào các từ khoá trên, có thể khoanh vùng được \"},{\"text\":\"đoạn C\",\"bold\":true},{\"text\":\" vì có xuất hiện các cụm như \\\"\"},{\"text\":\"study those trees that have survived\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"\\\" (nghiên cứu những cây còn sống sót); “\"},{\"text\":\"opportunities are limited\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"” (cơ hội bị hạn chế); “\"},{\"text\":\"the number of these mature survivors is relatively small\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (số lượng cây trưởng thành sống sót khá ít) → \"},{\"text\":\"Đây là thông tin cụ thể cho những vấn đề nghiên cứu do số lượng cây du sống sót quá ít. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"✅ Chọn \"},{\"type\":\"highlightElement\",\"children\":[{\"bold\":true,\"text\":\"PARAGRAPH C\"}],\"highlightKey\":\"green40\"},{\"bold\":true,\"text\":\".\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Matching Information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 Dạng Matching Information chúng ta nên làm cuối cùng, sau khi đã làm các dạng câu hỏi khác nhé DOLBIES, bởi vì lúc này mình đã đọc và hiểu nội dung của bài rồi → sẽ nhanh chóng tìm được vị trí đáp án hơn!!\"}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to predict\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hiểu câu hỏi\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"sự khác biệt quan điểm\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"details of a difference of opinion\"},{\"text\":\" \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"về giá trị của việc đưa cây du vào lại Anh\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"about the value of reintroducing elms to Britain\"},{\"text\":\" \"}]},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specify & Predict\",\"bold\":true},{\"text\":\": Tìm đoạn thể hiện \"},{\"text\":\"nhiều ý kiến trái chiều\",\"bold\":true},{\"text\":\", người ủng hộ - người phản đối với những lý do khác nhau, \"},{\"text\":\"ví dụ: lợi ích môi trường vs. lo lắng về tính bản địa. \",\"italic\":true}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Khoanh vùng đoạn văn\",\"bold\":true},{\"text\":\"\\n🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": “difference of opinion”, “reintroducing elms” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" -> Dựa vào các từ khoá trên, có thể khoanh vùng được \"},{\"text\":\"đoạn G\",\"bold\":true},{\"text\":\" vì thấy có \\\"\"},{\"text\":\"reintroducing elm\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"\\\" (việc đưa cây du vào lại Anh). \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"-> Đọc sâu \"},{\"text\":\"đoạn G\",\"bold\":true},{\"text\":\" sẽ thấy có xuất hiện các cụm đối lập nhau như “\"},{\"text\":\"Russell believes that... environmental case … is strong\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\"” (quan điểm 1 = ủng hộ vì lợi ích môi trường) >< “\"},{\"text\":\"others are more wary\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"” (quan điểm 2 = những người khác thận trọng hơn);  “\"},{\"text\":\"replacing a native species\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (thay thế loài bản địa) → \"},{\"text\":\"Đây là mô tả cụ thể cho sự khác biệt quan điểm.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\" \"},{\"text\":\"✅ Chọn \"},{\"type\":\"highlightElement\",\"children\":[{\"bold\":true,\"text\":\"PARAGRAPH G\"}],\"highlightKey\":\"green40\"},{\"bold\":true,\"text\":\".\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Matching Information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 Dạng Matching Information chúng ta nên làm cuối cùng, sau khi đã làm các dạng câu hỏi khác nhé DOLBIES, bởi vì lúc này mình đã đọc và hiểu nội dung của bài rồi → sẽ nhanh chóng tìm được vị trí đáp án hơn!!\"}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to predict\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hiểu câu hỏi\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":\"cách thức mà\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"reference to how\"},{\"text\":\" \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"primary100\",\"annotationText\":\"S - bệnh cây du Hà Lan\",\"firstDelete\":null,\"children\":[{\"text\":\" Dutch elm disease \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"V - được đưa vào Anh\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"was brought into Britain\"},{\"text\":\" \"}]},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specify & Predict\",\"bold\":true},{\"text\":\": Đoạn văn sẽ đưa thông tin chi tiết hơn về \"},{\"text\":\"nguồn gốc/xuất xứ của mầm bệnh\",\"bold\":true},{\"text\":\" \"},{\"text\":\"(ví dụ: từ quốc gia nào, qua đường nhập khẩu/vận chuyển nào) \",\"italic\":true},{\"text\":\"và \"},{\"text\":\"cơ chế lây lan\",\"bold\":true},{\"text\":\" (ai/loài nào mang mầm bệnh vào).\",\"italic\":true}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Khoanh vùng đoạn văn\",\"bold\":true},{\"text\":\"\\n🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": “Dutch elm disease”, “brought into Britain” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"→ Dựa vào các từ khoá trên, có thể khoanh vùng được \"},{\"text\":\"đoạn B\",\"bold\":true},{\"text\":\" vì có nhắc tới \\\"\"},{\"text\":\"a second epidemic\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"\\\" (đợt dịch bệnh thứ hai) và “\"},{\"text\":\"shipments of elm from Canada\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (các lô gỗ du từ Canada). \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"-> Đọc sâu đoạn B sẽ thấy xuất hiện các cụm như “\"},{\"text\":\"logs destined for boat building\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (gỗ dùng đóng tàu); “\"},{\"text\":\"elm bark beetles spread the deadly fungus\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (bọ cánh cứng truyền nấm độc hại) → \"},{\"text\":\"Đây là mô tả cụ thể cách bệnh Dutch elm được đưa vào Anh. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"✅ Chọn \"},{\"type\":\"highlightElement\",\"children\":[{\"bold\":true,\"text\":\"PARAGRAPH B\"}],\"highlightKey\":\"green40\"},{\"bold\":true,\"text\":\".\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Matching Information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 Dạng Matching Information chúng ta nên làm cuối cùng, sau khi đã làm các dạng câu hỏi khác nhé DOLBIES, bởi vì lúc này mình đã đọc và hiểu nội dung của bài rồi → sẽ nhanh chóng tìm được vị trí đáp án hơn!!\"}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to predict\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hiểu câu hỏi\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"mô tả các điều kiện\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"a description of the conditions\"},{\"text\":\" \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"giúp một địa điểm ở Anh tránh được bệnh Dutch elm\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"that have enabled \"},{\"text\":\"a location in Britain\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\" to escape Dutch elm disease\"},{\"text\":\" \"}]},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specify & Predict\",\"bold\":true},{\"text\":\": Tìm đoạn mô tả \"},{\"text\":\"yếu tố tự nhiên / địa lý đặc biệt\",\"bold\":true},{\"text\":\" giúp cây du sống sót. Có thể là: y\"},{\"text\":\"ếu tố môi trường, khí hậu, vị trí địa lý, điều kiện tự nhiên cản trở bọ cánh cứng... \",\"italic\":true},{\"text\":\"Ngoài ra, đoạn cũng có thể nhắc tên địa điểm cụ thể.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Khoanh vùng đoạn văn\",\"bold\":true},{\"text\":\"\\n🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": “conditions”, “escape Dutch elm disease” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"-> Dựa vào các từ khoá trên, có thể khoanh vùng được \"},{\"text\":\"đoạn E\",\"bold\":true},{\"text\":\" vì có nhắc đến \\\"\"},{\"text\":\"the city of Brighton\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"\\\" (thành phố Brighton) và xuất hiện các cụm như “\"},{\"text\":\"local factors\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (yếu tố địa phương); “\"},{\"text\":\"strong winds from the sea\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"” (gió mạnh từ biển); “\"},{\"text\":\"make it difficult for the elm bark beetle\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\"” (khiến bọ khó tấn công) → \"},{\"text\":\"Đây là mô tả cụ thể các điều kiện giúp khu vực này tránh được bệnh. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"✅ Chọn \"},{\"type\":\"highlightElement\",\"children\":[{\"bold\":true,\"text\":\"PARAGRAPH E\"}],\"highlightKey\":\"green40\"},{\"bold\":true,\"text\":\".\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Matching Information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 Dạng Matching Information chúng ta nên làm cuối cùng, sau khi đã làm các dạng câu hỏi khác nhé DOLBIES, bởi vì lúc này mình đã đọc và hiểu nội dung của bài rồi → sẽ nhanh chóng tìm được vị trí đáp án hơn!!\"}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to predict\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hiểu câu hỏi\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"giai đoạn mà\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"\"},{\"text\":\"the stage at which \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"S - cây du non\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"young elms \"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"colorKey\":\"purple100\",\"annotationText\":\"V - trở nên dễ bị bệnh Dutch elm\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"become vulnerable to Dutch elm disease\"},{\"text\":\" \"}]},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specify & Predict\",\"bold\":true},{\"text\":\": Đoạn văn sẽ đưa thông tin chi tiết hơn về \"},{\"text\":\"mốc phát triển/kích thước cụ thể\",\"bold\":true},{\"text\":\" \"},{\"text\":\"(ví dụ đường kính thân cây)\",\"italic\":true},{\"text\":\" khi cây du non trở thành “mục tiêu” của bọ cánh cứng và nấm bệnh.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Khoanh vùng đoạn văn\",\"bold\":true},{\"text\":\"\\n🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": “young elms”, “vulnerable”, “Dutch elm disease” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"→ Dựa vào các từ khoá trên, có thể khoanh vùng được \"},{\"text\":\"đoạn C\",\"bold\":true},{\"text\":\" vì có xuất hiện các cụm như “\"},{\"text\":\"once the trunk … reaches 10–15 centimetres\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\"” (khi thân cây đạt 10–15 cm); “\"},{\"text\":\"perfect size for beetles to lay eggs\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"purple100\"}},{\"text\":\"” (kích thước lý tưởng cho bọ đẻ trứng) → \"},{\"text\":\"Đây là mô tả cụ thể giai đoạn cây du non trở nên dễ nhiễm bệnh. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"✅ Chọn \"},{\"type\":\"highlightElement\",\"children\":[{\"bold\":true,\"text\":\"PARAGRAPH C\"}],\"highlightKey\":\"green40\"},{\"bold\":true,\"text\":\".\"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "paragraphKeys": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+       ]
+      }
+     ],
+     "questionType": "MATCHING_PARAGRAPH",
+     "displayedQuestionType": "Matching Paragraph Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Which paragraph contains the following information?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NB",
+          "bold": true
+         },
+         {
+          "text": " You may use any letter more than once."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Which paragraph contains the following information?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NB",
+          "bold": true
+         },
+         {
+          "text": " You may use any letter more than once."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "5aa25eec-6b58-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "5aa25eed-6b58-11f0-910a-59362feb7905",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "Matt Elliot"
+        },
+        {
+         "key": 1,
+         "value": "Karen Russell"
+        },
+        {
+         "key": 2,
+         "value": "Peter Bourne"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "If a tree gets infected with Dutch elm disease, the damage rapidly becomes visible."
+        },
+        {
+         "key": 1,
+         "value": "It may be better to wait and see if the mature elms that have survived continue to flourish."
+        },
+        {
+         "key": 2,
+         "value": "There must be an explanation for the survival of some mature elms."
+        },
+        {
+         "key": 3,
+         "value": "We need to be aware that insects carrying Dutch elm disease are not very far away."
+        },
+        {
+         "key": 4,
+         "value": "You understand the effect Dutch elm disease has had when you see evidence of how prominent the tree once was."
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Name",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Match each statement with the correct person, A, B, or C."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Match each statement with the correct person, A, B, or C."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "5aa25eee-6b58-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "5aa25eef-6b58-11f0-910a-59362feb7905",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "oak",
+         "blankId": "yFDa058RFljS1g8yPKVFp"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "flooring",
+         "blankId": "qNqy5d1tKxjjSQjK12qbV"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         },
+         "value": "keel",
+         "blankId": "cGhIT4z0yMXeVv-YaZ5vM"
+        }
+       ],
+       "heading": "Uses of a popular tree",
+       "paragraph": {
+        "id": "UISTfwmvsGXU2u36wwcYx",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"Gbv-DHLR_AmuHefz0Tvkm\",\"children\":[{\"text\":\"For hundreds of years, the only tree that was more popular in Britain than elm was \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"yFDa058RFljS1g8yPKVFp\"},{\"text\":\". Starting in the Bronze Age, many tools were made from elm and people also used it to make weapons. In the 18th century, it was grown to provide wood for boxes and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qNqy5d1tKxjjSQjK12qbV\"},{\"text\":\". Due to its strength, elm was often used for mining equipment and the Cutty Sark's \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"cGhIT4z0yMXeVv-YaZ5vM\"},{\"text\":\" was also constructed from elm.\"}]}]",
+        "blanks": [
+         {
+          "id": "yFDa058RFljS1g8yPKVFp",
+          "key": 0
+         },
+         {
+          "id": "qNqy5d1tKxjjSQjK12qbV",
+          "key": 1
+         },
+         {
+          "id": "cGhIT4z0yMXeVv-YaZ5vM",
+          "key": 2
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Summary Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the summary below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " from the passage for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the summary below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " from the passage for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "How stress affects our judgement",
+   "duration": 20,
+   "questionStart": 27,
+   "questionEnd": 40,
+   "passage": {
+    "number": 3,
+    "label": "PASSAGE3",
+    "title": "How stress affects our judgement",
+    "subtitle": "",
+    "paragraphs": [
+     {
+      "label": "",
+      "en": "Some of the most important decisions of our lives occur while we're feeling stressed and anxious. From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions. But do we become better or worse at processing and using information under such circumstances?",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "My colleague and I, both neuroscientists, wanted to investigate how the mind operates under stress, so we visited some local fire stations. Firefighters' workdays vary quite a bit. Some are pretty relaxed; they'll spend their time washing the truck, cleaning equipment, cooking meals and reading. Other days can be hectic, with numerous life-threatening incidents to attend to; they'll enter burning homes to rescue trapped residents, and assist with medical emergencies. These ups and downs presented the perfect setting for an experiment on how people's ability to use information changes when they feel under pressure.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "We found that perceived threat acted as a trigger for a stress reaction that made the task of processing information easier for the firefighters - but only as long as it conveyed bad news.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "This is how we arrived at these results. We asked the firefighters to estimate their likelihood of experiencing 40 different adverse events in their life, such as being involved in an accident or becoming a victim of card fraud. We then gave them either good news (that their likelihood of experiencing these events was lower than they'd thought) or bad news (that it was higher) and asked them to provide new estimates.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "People are normally quite optimistic - they will ignore bad news and embrace the good. This is what happened when the firefighters were relaxed; but when they were under stress, a different pattern emerged. Under these conditions, they became hyper-vigilant to bad news, even when it had nothing to do with their job (such as learning that the likelihood of card fraud was higher than they'd thought), and altered their beliefs in response. In contrast, stress didn't change how they responded to good news (such as learning that the likelihood of card fraud was lower than they'd thought).",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Back in our lab, we observed the same pattern in students who were told they had to give a surprise public speech, which would be judged by a panel, recorded and posted online. Sure enough, their cortisol levels spiked, their heart rates went up and they suddenly became better at processing unrelated, yet alarming, information about rates of disease and violence.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "When we experience stressful events, a physiological change is triggered that causes us to take in warnings and focus on what might go wrong. Brain imaging reveals that this 'switch' is related to a sudden boost in a neural signal important for learning, specifically in response to unexpected warning signs, such as faces expressing fear.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "Such neural engineering could have helped prehistoric humans to survive. When our ancestors found themselves surrounded by hungry animals, they would have benefited from an increased ability to learn about hazards. In a safe environment, however, it would have been wasteful to be on high alert constantly. So, a neural switch that automatically increases or decreases our ability to process warnings in response to changes in our environment could have been useful. In fact, people with clinical depression and anxiety seem unable to switch away from a state in which they absorb all the negative messages around them.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "It is also important to realise that stress travels rapidly from one person to the next. If a co-worker is stressed, we are more likely to tense up and feel stressed ourselves. We don't even need to be in the same room with someone for their emotions to influence our behaviour. Studies show that if we observe positive feeds on social media, such as images of a pink sunset, we are more likely to post uplifting messages ourselves. If we observe negative posts, such as complaints about a long queue at the coffee shop, we will in turn create more negative posts.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "In some ways, many of us now live as if we are in danger, constantly ready to tackle demanding emails and text messages, and respond to news alerts and comments on social media. Repeatedly checking your phone, according to a survey conducted by the American Psychological Association, is related to stress. In other words, a pre-programmed physiological reaction, which evolution has equipped us with to help us avoid famished predators, is now being triggered by an online post. Social media posting, according to one study, raises your pulse, makes you sweat, and enlarges your pupils more than most daily activities.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "The fact that stress increases the likelihood that we will focus more on alarming messages, together with the fact that it spreads extremely rapidly, can create collective fear that is not always justified. After a stressful public event, such as a natural disaster or major financial crash, there is often a wave of alarming information in traditional and social media, which individuals become very aware of. But that has the effect of exaggerating existing danger. And so, a reliable pattern emerges - stress is triggered, spreading from one person to the next, which temporarily enhances the likelihood that people will take in negative reports, which increases stress further. As a result, trips are cancelled, even if the disaster took place across the globe; stocks are sold, even when holding on is the best thing to do.",
+      "vi": ""
+     },
+     {
+      "label": "",
+      "en": "The good news, however, is that positive emotions, such as hope, are contagious too, and are powerful in inducing people to act to find solutions. Being aware of the close relationship between people's emotional state and how they process information can help us frame our messages more effectively and become conscientious agents of change.",
+      "vi": ""
+     }
+    ]
+   },
+   "questionGroups": [
+    {
+     "id": "c06b858c-6b6b-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "c06b858d-6b6b-11f0-910a-59362feb7905",
+       "type": "SINGLE_ANSWER",
+       "question": "In the first paragraph, the writer introduces the topic of the text by",
+       "options": [
+        {
+         "key": 0,
+         "value": "defining some commonly used terms."
+        },
+        {
+         "key": 1,
+         "value": "questioning a widely held assumption."
+        },
+        {
+         "key": 2,
+         "value": "mentioning a challenge faced by everyone."
+        },
+        {
+         "key": 3,
+         "value": "specifying a situation which makes us most anxious."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"☺️ \"},{\"text\":\"Ứng dụng Linearthinking để giải quyết dạng bài Multiple Choice\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 01: Read the question to understand\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Simplified\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"In the first paragraph\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"Đoạn cần đọc\"},{\"text\":\" , \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"the writer\"},{\"text\":\"\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"S\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"introduces\"},{\"text\":\" the topic \"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"V\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"\"},{\"text\":\"by ...\"},{\"text\":\" \"}],\"colorKey\":\"primary100\",\"annotationText\":\"cách ... \"},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main idea:\",\"bold\":true},{\"text\":\" Trong \"},{\"text\":\"đoạn văn đầu tiên\",\"bold\":true},{\"text\":\", tác giả \"},{\"text\":\"giới thiệu chủ đề\",\"bold\":true},{\"text\":\" của bài viết bằng cách nào  – dùng phương pháp gì để giới thiệu chủ đề.\"}]}]}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 02: Locate relevant information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"🔍 \"},{\"text\":\"Từ khóa\",\"bold\":true},{\"text\":\": first paragraph; introduces the topic.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"→ Dựa vào các từ khoá trên → \"},{\"text\":\" Tìm được trích dẫn ở đoạn 1 \",\"bold\":true}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 03: Read relevant information to understand\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"📌 \"},{\"text\":\"Trích dẫn\",\"bold\":true},{\"text\":\": \"},{\"text\":\"“From medical decisions to financial and professional ones, we are all sometimes required to weigh up information under stressful conditions.” (Đoạn 1)\",\"italic\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Simplified\",\"bold\":true},{\"text\":\": \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" W\"},{\"text\":\"e\"},{\"text\":\"\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"S\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"are all required\"},{\"text\":\"\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"V\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"to \"},{\"text\":\"weigh up information under stressful conditions\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\"\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\" \"}],\"colorKey\":\"primary100\",\"annotationText\":\"to-V: cân nhắc thông tin trong điều kiện áp lực\"},{\"text\":\" \"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main idea:\",\"bold\":true},{\"text\":\" Tất cả mọi người đều phải đối mặt với việc \"},{\"text\":\"đưa ra quyết định trong điều kiện căng thẳng\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"red100\"}},{\"text\":\" –> tác giả mở đầu bài đọc bằng cách \"},{\"text\":\"đưa ra một khó khăn chung, mang tính phổ biến\",\"bold\":true},{\"text\":\".\"}]}]}]},{\"type\":\"p\",\"rawType\":\"hr\",\"children\":[{\"text\":\"-------\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Step 04: Compare meaning with meaning\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"❌ \"},{\"text\":\"A. defining some commonly used terms\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"--> Sai vì đoạn 1 không hề giải thích hay định nghĩa thuật ngữ nào → \"},{\"text\":\"\\\"weigh up information\\\"\",\"italic\":true},{\"text\":\" chỉ được nêu, không giải thích  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"❌ \"},{\"text\":\"B. questioning a widely held assumption\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"--> Sai vì tác giả chưa phản biện hay đặt nghi vấn niềm tin phổ biến nào → chỉ nêu thực tế chung  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"✅ \"},{\"text\":\"C. mentioning a challenge faced by everyone\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"--> Đúng, \",\"bold\":true},{\"text\":\"vì câu trích dẫn nhấn mạnh \"},{\"text\":\"\\\"we are all sometimes required\\\"\",\"italic\":true},{\"text\":\" → một khó khăn mà ai cũng gặp  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"❌ \"},{\"text\":\"D. specifying a situation which makes us most anxious\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"--> Sai vì không nói tình huống gây lo âu nhất, chỉ nói chung về các quyết định trong điều kiện căng thẳng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"✅ \",\"bold\":true},{\"bold\":true,\"text\":\"Đáp án đúng: \",\"TEXT_COLOR\":{\"colorKey\":\"black100\"}},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"C\"},{\"text\":\" \"}],\"colorKey\":\"green40\"},{\"text\":\" \"}]}]",
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c06b858e-6b6b-11f0-910a-59362feb7905",
+       "type": "SINGLE_ANSWER",
+       "question": "What point does the writer make about firefighters in the second paragraph?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The regular changes of stress levels in their working lives make them ideal study subjects."
+        },
+        {
+         "key": 1,
+         "value": "The strategies they use to handle stress are of particular interest to researchers."
+        },
+        {
+         "key": 2,
+         "value": "The stressful nature of their job is typical of many public service professions."
+        },
+        {
+         "key": 3,
+         "value": "Their personalities make them especially well-suited to working under stress."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c06b858f-6b6b-11f0-910a-59362feb7905",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the writer doing in the fourth paragraph?",
+       "options": [
+        {
+         "key": 0,
+         "value": "explaining their findings"
+        },
+        {
+         "key": 1,
+         "value": "justifying their approach"
+        },
+        {
+         "key": 2,
+         "value": "setting out their objectives"
+        },
+        {
+         "key": 3,
+         "value": "describing their methodology"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c06baca0-6b6b-11f0-910a-59362feb7905",
+       "type": "SINGLE_ANSWER",
+       "question": "In the seventh paragraph, the writer describes a mechanism in the brain which",
+       "options": [
+        {
+         "key": 0,
+         "value": "enables people to respond more quickly to stressful situations."
+        },
+        {
+         "key": 1,
+         "value": "results in increased ability to control our levels of anxiety."
+        },
+        {
+         "key": 2,
+         "value": "produces heightened sensitivity to indications of external threats."
+        },
+        {
+         "key": 3,
+         "value": "is activated when there is a need to communicate a sense of danger."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "D.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "D.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "c06baca1-6b6b-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "c06baca2-6b6b-11f0-910a-59362feb7905",
+       "type": "YNN_ANSWER",
+       "question": "The tone of the content we post on social media tends to reflect the nature of the posts in our feeds.",
+       "options": [
+        {
+         "key": 0,
+         "value": "Yes"
+        },
+        {
+         "key": 1,
+         "value": "No"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "ea792033-dd64-11f0-9108-1f600b53704c",
+       "type": "YNN_ANSWER",
+       "question": "Phones have a greater impact on our stress levels than other electronic media devices.",
+       "options": [
+        {
+         "key": 0,
+         "value": "Yes"
+        },
+        {
+         "key": 1,
+         "value": "No"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "ea792034-dd64-11f0-9108-1f600b53704c",
+       "type": "YNN_ANSWER",
+       "question": "The more we read about a stressful public event on social media, the less able we are to take the information in.",
+       "options": [
+        {
+         "key": 0,
+         "value": "Yes"
+        },
+        {
+         "key": 1,
+         "value": "No"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "ea792035-dd64-11f0-9108-1f600b53704c",
+       "type": "YNN_ANSWER",
+       "question": "Stress created by social media posts can lead us to take unnecessary precautions.",
+       "options": [
+        {
+         "key": 0,
+         "value": "Yes"
+        },
+        {
+         "key": 1,
+         "value": "No"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      },
+      {
+       "uuid": "ea792036-dd64-11f0-9108-1f600b53704c",
+       "type": "YNN_ANSWER",
+       "question": "Our tendency to be affected by other people's moods can be used in a positive way.",
+       "options": [
+        {
+         "key": 0,
+         "value": "Yes"
+        },
+        {
+         "key": 1,
+         "value": "No"
+        },
+        {
+         "key": 2,
+         "value": "Not given"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 1
+      }
+     ],
+     "questionType": "YNN_ANSWER",
+     "displayedQuestionType": "Yes/ No/ Not Given",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Do the following statements agree with the information given in this Reading Passage?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "In following statements below, choose"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "YES",
+          "bold": true
+         },
+         {
+          "text": "                     if the statement agrees with the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NO",
+          "bold": true
+         },
+         {
+          "text": "                       if the statement contradicts the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NOT GIVEN ",
+          "bold": true
+         },
+         {
+          "text": "       if it is impossible to say what the writer thinks about this"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Do the following statements agree with the information given in Reading Passage?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "In following statements below, choose"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "YES",
+          "bold": true
+         },
+         {
+          "text": "                     if the statement agrees with the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NO",
+          "bold": true
+         },
+         {
+          "text": "                       if the statement contradicts the information"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NOT GIVEN ",
+          "bold": true
+         },
+         {
+          "text": "       if it is impossible to say what the writer thinks about this"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "c06baca3-6b6b-11f0-910a-59362feb7905",
+     "questions": [
+      {
+       "uuid": "c06baca4-6b6b-11f0-910a-59362feb7905",
+       "type": "MATCHING_ENDING_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "made them feel optimistic."
+        },
+        {
+         "key": 1,
+         "value": "took relatively little notice of bad news."
+        },
+        {
+         "key": 2,
+         "value": "responded to negative and positive information in the same way."
+        },
+        {
+         "key": 3,
+         "value": "were feeling under stress."
+        },
+        {
+         "key": 4,
+         "value": "put them in a stressful situation."
+        },
+        {
+         "key": 5,
+         "value": "behaved in a similar manner, regardless of the circumstances."
+        },
+        {
+         "key": 6,
+         "value": "thought it more likely that they would experience something bad."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "locatedPassage": null,
+          "selectedPassage": null,
+          "range": null,
+          "paraphrasing": null,
+          "simplify": null,
+          "detailExplanation": null,
+          "type": "LOCATING_DETAIL"
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "endingOptions": [
+        {
+         "key": 0,
+         "value": "At times when they were relaxed, the firefighters usually"
+        },
+        {
+         "key": 1,
+         "value": "The researchers noted that when the firefighters were stressed, they"
+        },
+        {
+         "key": 2,
+         "value": "When the firefighters were told good news, they always"
+        },
+        {
+         "key": 3,
+         "value": "The students' cortisol levels and heart rates were affected when the researchers"
+        },
+        {
+         "key": 4,
+         "value": "In both experiments, negative information was processed better when the subjects"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_ENDING_V2",
+     "displayedQuestionType": "Matching Sentence Endings",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentence with the correct ending, "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         },
+         {
+          "text": ", below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentence with the correct ending, "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         },
+         {
+          "text": ", below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T21:03:13Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

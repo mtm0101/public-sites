@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp2-t1-listening",
+ "title": "Practice Test Plus 2 - Listening Test 1",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 2",
+ "testNum": 1,
+ "order": 54,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-2-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Enquiry About Bookcases",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/84ba3dff-7497-4252-94e2-f2f6491efdb6.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7025102
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c95a6cba-4bd2-48cb-8c28-b9ebf073f4a5.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Charity Art Sale",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5247da52-da3c-4ec7-93e3-2970d21528fb.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5202800
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/031afa4d-0ff6-4f04-9ff3-5b1e91bf9751.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 8
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Great Books In Literature",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a707d782-d3cd-43d4-b94e-a6b9dee9467f.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6495966
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4770eeb3-d686-4950-9234-72276a0cedb9.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 40
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "How The Extremophiles Survive",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b7937086-c8e1-4c1a-8b64-a459e199311e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6730440
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7c489e85-83b1-4de5-a094-5e270bd02015.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 11
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:00:16Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

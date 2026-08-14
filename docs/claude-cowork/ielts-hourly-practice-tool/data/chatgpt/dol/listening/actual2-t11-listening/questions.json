@@ -1,0 +1,2130 @@
+{
+ "schema": 1,
+ "id": "actual2-t11-listening",
+ "title": "Actual Test 2 - Listening Test 11",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 11,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-2-test-11-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-2-test-11-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Home Insurance Quotation Form",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "1450ece7-75de-11ec-92a0-71fc929a21f1",
+     "questions": [
+      {
+       "uuid": "WVlIl6VimqiGeix6rgy7b",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"địa chỉ của Janet\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau câu hỏi “Could you give me the \"},{\"text\":\"address\",\"bold\":true},{\"text\":\"?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Janet trả lời “Sure, it’s 49 Greenway Court\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"       Và Janet còn nói thêm “Greenway is one word”. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Greenway\",\"bold\":true},{\"text\":\" (viết liền) \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 151,
+          "transcripts": [
+           {
+            "id": "5/137043-146359",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 146,
+            "text": "My pleasure. I understand you are potentially interested in insurance for a bungalow located a bit out of town. Could you give me the address?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "6/146359-151106",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 151,
+            "text": "Sure, it’s 49 Greenway Court. Greenway is one word.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           }
+          ]
+         },
+         "value": "Greenway",
+         "blankId": "v6d-adFFSyUmPycglHy_n"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin còn thiếu là \"},{\"text\":\"địa chỉ email\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án đến sau câu hỏi “and what is your\"},{\"text\":\" email address\",\"bold\":true},{\"text\":\"?”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Janet trả lời rằng “\"},{\"text\":\"pk2@cat.com\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó agent còn hỏi lại “did you say \"},{\"text\":\"“cat,” as in the animal\",\"bold\":true},{\"text\":\"?” và Janet trả lời là đúng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: pk2@cat.com \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 162,
+          "endTimeInSeconds": 172,
+          "transcripts": [
+           {
+            "id": "9/162851-165645",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 165,
+            "text": "Great - and what is your email address?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "10/165645-168793",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 168,
+            "text": "pk2@cat.com.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "11/168793-172381",
+            "startTimeInSeconds": 168,
+            "endTimeInSeconds": 172,
+            "text": "Hm, did you say “cat”, as in the animal?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": " pk2@cat.com",
+         "blankId": "-akjGyG4kZVnZVhDvkMbe"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"thời gian thích hợp nhất để liên hệ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe “and the\"},{\"text\":\" best time to reach you\",\"bold\":true},{\"text\":\"?” (reach = contact) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, Janet nói rằng: “I am generally unable to answer my phone at work, but \"},{\"text\":\"anytime after 5.30 p.m is fine\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể liên hệ\"},{\"text\":\" bất cứ lúc nào từ 5.30 pm\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: 5.30 p.m \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 177,
+          "endTimeInSeconds": 195,
+          "transcripts": [
+           {
+            "id": "13/177099-183081",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 183,
+            "text": "Yes, I have. And could you give me your primary phone number, and the best time to reach you?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "14/183081-195744",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 195,
+            "text": "Sure - the number is (020) 4251-9443. I am generally unable to answer my phone at work, but anytime after 5.30 p.m is fine.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           }
+          ]
+         },
+         "value": "5.30",
+         "blankId": "vXnURIWYuqAyYvmWdLpig"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"kích cỡ của property \",\"bold\":true},{\"text\":\"( ____ m2) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau câu hỏi của “Could you tell me the\"},{\"text\":\" size of your house?\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và câu trả lời từ câu trả lời của Janet “…I’m pretty sure it’s right \"},{\"text\":\"around 80 square metres\",\"bold\":true},{\"text\":\".”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 80\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 195,
+          "endTimeInSeconds": 229,
+          "transcripts": [
+           {
+            "id": "15/195744-205812",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 205,
+            "text": "I will make a note of that here. Now I’m going to ask you a little bit about the property itself so we can make an accurate estimate of the cost of insuring your home. ",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "16/205812-208079",
+            "startTimeInSeconds": 205,
+            "endTimeInSeconds": 208,
+            "text": "Could you tell me the size of your house?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "17/208079-216946",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 216,
+            "text": "Um, well, I don’t have the exact measurements, but I’m pretty sure it’s right around 80 square metres. Should I measure it and call you back later?",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "18/216946-229629",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 229,
+            "text": "No, that’s completely alright. I’ll write 80 square metres for now to get the estimate and then an agent will come get the exact measurements later on if you decide to purchase our insurance.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": "80",
+         "blankId": "ognCjFVx3OWZkdvTdwKcp"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"chất liệu của ngôi nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau câu hỏi “And what \"},{\"text\":\"material \",\"bold\":true},{\"text\":\"is your house made of?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, câu trả lời của Janet là “It’s \"},{\"text\":\"mainly brick\",\"bold\":true},{\"text\":\".”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: brick \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 231,
+          "endTimeInSeconds": 244,
+          "transcripts": [
+           {
+            "id": "20/231152-236366",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 236,
+            "text": "And what material is your house made of? For example, wood, brick, stucco,...",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "21/236366-237655",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 237,
+            "text": "It’s mainly brick.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "22/237655-244209",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 244,
+            "text": "Great - that will give you a lower rate than most other materials since it is so strong.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": "brick",
+         "blankId": "HnWe1JWpjDtvE-X8IAOZN"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về \"},{\"text\":\"biện pháp an ninh của căn nhà \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau “And do you have any sort of \"},{\"text\":\"home security\",\"bold\":true},{\"text\":\"…?”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó Janet trả lời rằng “Um, we don’t have a fence or anything yet, but we \"},{\"text\":\"have an alarm system that we use regularly\",\"bold\":true},{\"text\":\"”. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhà cô ấy có\"},{\"text\":\" hệ thống báo động\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: alarm system \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "24/245033-248488",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 248,
+            "text": "And do you have any sort of home security, Ms.Evans?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "25/248488-254341",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 254,
+            "text": "Um, we don’t have a fence or anything yet, but we have an alarm system that we use regularly.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "26/254341-255078",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 255,
+            "text": "Good.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": "alarm system",
+         "blankId": "EfssFJTOYfwKyzEQCtN1Z"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley11\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo đến mục \"},{\"text\":\"coverage\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau “Now I’ll go through a number of things we offer \"},{\"text\":\"coverage \",\"bold\":true},{\"text\":\"for…” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi đã nói về \"},{\"text\":\"building \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"content \",\"bold\":true},{\"text\":\"(ý tới trước), agent hỏi “Alright - and would you like \"},{\"text\":\"any other insurance\",\"bold\":true},{\"text\":\" - fire, flood, etc?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Janet trả lời “Yes - I definitely want\"},{\"text\":\" flood coverage\",\"bold\":true},{\"text\":\"…”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: flood \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "35/330068-335024",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 335,
+            "text": "Alright - and would you like any other insurance - fire, flood, etc?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "36/335024-342218",
+            "startTimeInSeconds": 335,
+            "endTimeInSeconds": 342,
+            "text": "Yes - definitely want flood coverage. It rains a lot here, and the drainage system in the area is not the greatest.",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           }
+          ]
+         },
+         "value": "flood ",
+         "blankId": "89oJ04SXqELbvwi1XFSkD"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" mức giá được báo\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau “Okay. I am calculating your \"},{\"text\":\"quotation\",\"bold\":true},{\"text\":\" now.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó có trích dẫn “It looks like your \"},{\"text\":\"annual insurance rate\",\"bold\":true},{\"text\":\" will be\"},{\"text\":\" £148.30\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án:148.30  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 354,
+          "transcripts": [
+           {
+            "id": "37/342218-354899",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 354,
+            "text": "Okay. I am calculating your quotation now. It will just take a second. (Two seconds pause) It looks like your annual insurance rate will be £148.30.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": "148.30",
+         "blankId": "OSbpEK__uT8MVXDNXMtDq"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" ngày bắt đầu tính bảo hiểm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe “How long does it take to \"},{\"text\":\"begin receiving coverage\",\"bold\":true},{\"text\":\" after signing up?”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và có câu trẻ lời“…I would say if you \"},{\"text\":\"sign up by July 1st\",\"bold\":true},{\"text\":\", you could\"},{\"text\":\" start your coverage by August 1st\",\"bold\":true},{\"text\":\".”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu \"},{\"text\":\"đăng ký vào July 1st\",\"bold\":true},{\"text\":\" thì sẽ \"},{\"text\":\"có hiệu lực từ August 1st \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: August 1st \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 354,
+          "endTimeInSeconds": 376,
+          "transcripts": [
+           {
+            "id": "38/354899-364730",
+            "startTimeInSeconds": 354,
+            "endTimeInSeconds": 364,
+            "text": "Thanks, that seems somewhat reasonable. I would like to take some time to think about it. How long does it take to begin receiving coverage after signing up?",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "39/364730-376143",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 376,
+            "text": "It depends on the time of year - it can take anywhere from two to six weeks. I would say if you sign up by July 1st, you could start your coverage by August 1st.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           }
+          ]
+         },
+         "value": "1 August/August 1/August 1st/1st August",
+         "blankId": "6qm1YDzK8Ksz6mCPvp8tB"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án sẽ đến sau câu nói “…I’ll give you a \"},{\"text\":\"reference number\",\"bold\":true},{\"text\":\"…” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Agent nói “It’s \"},{\"text\":\"TR278Q\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: TR278Q \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 382,
+          "endTimeInSeconds": 397,
+          "transcripts": [
+           {
+            "id": "41/382154-391502",
+            "startTimeInSeconds": 382,
+            "endTimeInSeconds": 391,
+            "text": "Yes, please. And so that we can look up your account faster, I’ll give you a reference number that you should provide when calling. Ready?",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "42/391502-392321",
+            "startTimeInSeconds": 391,
+            "endTimeInSeconds": 392,
+            "text": "Yep!",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           },
+           {
+            "id": "43/392321-395877",
+            "startTimeInSeconds": 392,
+            "endTimeInSeconds": 395,
+            "text": "It’s TR278Q.",
+            "character": {
+             "id": "zMmtyTokePrldJgwUv9rW",
+             "name": "Agent"
+            }
+           },
+           {
+            "id": "44/395877-397726",
+            "startTimeInSeconds": 395,
+            "endTimeInSeconds": 397,
+            "text": "Got it. Thanks!",
+            "character": {
+             "id": "Goylt1G1OlaoFGs1ayKLG",
+             "name": "Janet"
+            }
+           }
+          ]
+         },
+         "value": "TR278Q",
+         "blankId": "BUGuxJ4ciyU2PJBScWmV6"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "v6d-adFFSyUmPycglHy_n",
+         "key": 0
+        },
+        {
+         "id": "-akjGyG4kZVnZVhDvkMbe",
+         "key": 1
+        },
+        {
+         "id": "vXnURIWYuqAyYvmWdLpig",
+         "key": 2
+        },
+        {
+         "id": "ognCjFVx3OWZkdvTdwKcp",
+         "key": 3
+        },
+        {
+         "id": "HnWe1JWpjDtvE-X8IAOZN",
+         "key": 4
+        },
+        {
+         "id": "EfssFJTOYfwKyzEQCtN1Z",
+         "key": 5
+        },
+        {
+         "id": "89oJ04SXqELbvwi1XFSkD",
+         "key": 6
+        },
+        {
+         "id": "OSbpEK__uT8MVXDNXMtDq",
+         "key": 7
+        },
+        {
+         "id": "6qm1YDzK8Ksz6mCPvp8tB",
+         "key": 8
+        },
+        {
+         "id": "BUGuxJ4ciyU2PJBScWmV6",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"lQcz1V7Ff41aNOhc8ErRh\",\"cellsWidth\":[300,300],\"width\":600,\"children\":[{\"type\":\"tr\",\"id\":\"TnHnvOtYQw7k6znOg9kR0\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\\n\",\"italic\":true},{\"italic\":true,\"text\":\"Name:\",\"bold\":true}]}]}],\"id\":\"WWE3mMdBfd2u7HPJVyGND\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Janet Evans\",\"underline\":true,\"italic\":true}]}]}],\"id\":\"X5-2El_qW7xfcE7kIb9YT\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"BqQvVgmpP76Eb4kZRznTd\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address:\",\"bold\":true}]}]}],\"id\":\"zJTiBTgJO1UzBETObNROm\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"49 Court\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"v6d-adFFSyUmPycglHy_n\",\"text\":\"\"}]},{\"text\":\" Court\"}]}]}],\"id\":\"OAgi_RqXGWLFyOttfXFeK\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"AhgW0KRkqOUua9tviaN3-\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Email:\",\"bold\":true}]}]}],\"id\":\"oL5wBwqmvttJOTJCCjY-O\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"-akjGyG4kZVnZVhDvkMbe\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"4q33ARYL8i2OrM2t3NBGC\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"K2udFwI5ZPEwjw0uUTjMJ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Telephone Number:\",\"bold\":true}]}]}],\"id\":\"FP4TKmoZdzyegPIr6Hv_y\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"(020) 4251-9443\"}]}]}],\"id\":\"TjqHB1VGlQ0vDbpaJqsx3\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"tWBrmPsmRzNSdW8j195J1\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Best time to contact\",\"bold\":true}]}]}],\"id\":\"8iRsgNCsuynQIrPBAs7Qg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"vXnURIWYuqAyYvmWdLpig\",\"text\":\"\"}]},{\"text\":\" pm\"}]}]}],\"id\":\"7jXNVVbKvggnWa7Apa5hG\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"qJuKrBFf4wVb_RPGpUuWE\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Property Infomation\",\"bold\":true}]}]}],\"id\":\"bF_kDQefDc0s3WqRtJH-h\",\"rowSpan\":1,\"colSpan\":2},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"2dkGwY3wwx3Y7L4r-KM8h\",\"hidden\":true,\"rowRef\":5,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"HmTQRlRPfgP71MDghpxiJ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Property Size\",\"bold\":true}]}]}],\"id\":\"Z9JRCwZ_UoN-NufcCbYCg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ognCjFVx3OWZkdvTdwKcp\",\"text\":\"\"}]},{\"text\":\"m2\"}]}]}],\"id\":\"Gapu8L69ys36CDkO4EBXp\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"UM8DyaIY0A_hnLnip8Ikk\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Material(s)\",\"bold\":true}]}]}],\"id\":\"dSV1JfvaTqED0Oey45q2O\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"HnWe1JWpjDtvE-X8IAOZN\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ImXW0zotjuMEERMIYbAWR\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"fd5cAlEK9xoO-KRGnk0zv\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Security Measures (if any)\",\"bold\":true}]}]}],\"id\":\"FFzTXIMq04pzkONXHzAOK\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"EfssFJTOYfwKyzEQCtN1Z\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Xf2om4fUOxDt4m8eTukhC\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"TxGdy98eH2g9nztaB5ws8\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Coverage\",\"bold\":true}]}]}],\"id\":\"jQQsXJsXj1NDX2UrLYewr\",\"rowSpan\":1,\"colSpan\":2},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"7ezzpgBbEjM1OarZWyE3R\",\"hidden\":true,\"rowRef\":9,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"RZhXeuIy_fylXNlqlbG1i\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Items to cover\",\"bold\":true}]}]}],\"id\":\"mQURxT73GV5VC12V0SoqW\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- building \\n- contents\\n-\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"89oJ04SXqELbvwi1XFSkD\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ZGE2qbQuEMyJvVwbbDnuA\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"kcWxTAljOMvzVQ_677_s0\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Quotation\",\"bold\":true}]}]}],\"id\":\"lUmsmizYiIFv6OcCJLhB7\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"£\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"OSbpEK__uT8MVXDNXMtDq\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"sGISPcVpCW7XTjmorZEvv\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"K80oGnmcGfYHTcyiDasOm\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Coverage Start Date\",\"bold\":true}]}]}],\"id\":\"LfLPUUXYf9yGBDKb6ymaQ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"6qm1YDzK8Ksz6mCPvp8tB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"FiFLv3vqh8ZJe5W7aj523\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"E18yutgvR4rJ3UAQt6twk\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Reference number \",\"bold\":true}]}]}],\"id\":\"RByBnDepbNkz-LOEFWm6i\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"BUGuxJ4ciyU2PJBScWmV6\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"TFgBbHQgki6D7lMNDyz-f\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Home Insurance Quotation Form"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Pool For The People",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "e4274c0e-75df-11ec-a317-63e9db4c47b8",
+     "questions": [
+      {
+       "uuid": "e4274c0f-75df-11ec-a317-63e9db4c47b8",
+       "type": "SINGLE_ANSWER",
+       "question": "The top two proposals for the design of the swimming pool were chosen by",
+       "options": [
+        {
+         "key": 0,
+         "value": "the public"
+        },
+        {
+         "key": 1,
+         "value": "the radio station"
+        },
+        {
+         "key": 2,
+         "value": "architects"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe speaker đề cập tới “the \"},{\"text\":\"design of the pool\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ xuất hiện sau đó\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, chúng ta có thể nghe thấy \"},{\"text\":\"“The public selected two top proposals\",\"bold\":true},{\"text\":\" from over a dozen \"},{\"text\":\"created by renowned architect\",\"bold\":true},{\"text\":\"”. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Các bạn tránh chọn nhầm\",\"marks\":[]},{\"text\":\" 'reowned architect\",\"marks\":[],\"bold\":true},{\"text\":\"', đó là \",\"marks\":[]},{\"text\":\"người tạo ra proposals\",\"marks\":[],\"bold\":true},{\"text\":\", còn \",\"marks\":[]},{\"text\":\"người chọn là the public \",\"marks\":[],\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 94,
+          "endTimeInSeconds": 104,
+          "transcripts": [
+           {
+            "id": "5/94895-104899",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 104,
+            "text": "The public selected two top proposals from over a dozen created by renowned architect Ned Mosby, and the final design is truly something else. "
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e4274c10-75df-11ec-a317-63e9db4c47b8",
+       "type": "SINGLE_ANSWER",
+       "question": "What is special about the pool’s construction?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It was constructed by the people"
+        },
+        {
+         "key": 1,
+         "value": "Its architectural style is one-of-a-kind"
+        },
+        {
+         "key": 2,
+         "value": "It is the first pool in Bridgewater"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"“the pool’s construction” có gì đặc biệt\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Ta nghe thấy người nói nói “The pool is\"},{\"text\":\" shaped like a fishbowl\",\"bold\":true},{\"text\":\"” và sau đó là “It’s certainly the \"},{\"text\":\"centre of attention\",\"bold\":true},{\"text\":\" in the Bridgewater area.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Center of attention ~ special ~ one-of-a-kind\",\"bold\":true},{\"text\":\" (độc nhất vô nhị) \\n=> Ý nói\"},{\"text\":\" style của nó là điều đặc biệt \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 104,
+          "endTimeInSeconds": 118,
+          "transcripts": [
+           {
+            "id": "6/104899-118463",
+            "startTimeInSeconds": 104,
+            "endTimeInSeconds": 118,
+            "text": "The pool is shaped like a fishbowl, sinking down into the ground, and there’s - you guessed it - a real, live fish tank in the centre! It’s certainly the centre of attention in the Bridgewater area."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e4274c11-75df-11ec-a317-63e9db4c47b8",
+       "type": "SINGLE_ANSWER",
+       "question": "News reports covering the new pool expressed concerns over",
+       "options": [
+        {
+         "key": 0,
+         "value": "price"
+        },
+        {
+         "key": 1,
+         "value": "safety"
+        },
+        {
+         "key": 2,
+         "value": "size"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" new reports quan tâm về điều gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Nghe thấy “The only \"},{\"text\":\"problem \",\"bold\":true},{\"text\":\"now is [...] The pool is only\"},{\"text\":\" so large\",\"bold\":true},{\"text\":\", so swarms of people coming to enjoy it may\"},{\"text\":\" cause quite a crowd\",\"bold\":true},{\"text\":\" in its first summer of opening”,\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình có thể thấy \"},{\"text\":\"reports quan tâm về size của hồ \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 134,
+          "endTimeInSeconds": 147,
+          "transcripts": [
+           {
+            "id": "9/134116-139532",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 139,
+            "text": "The only problem now is the possibility that it will in fact become too popular! "
+           },
+           {
+            "id": "10/139532-147793",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 147,
+            "text": "The pool is only so large, so swarms of people coming to enjoy it may cause quite a crowd in its first summer of opening."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e4274c12-75df-11ec-a317-63e9db4c47b8",
+       "type": "SINGLE_ANSWER",
+       "question": "What factor of the pool’s Grand Opening remains undecided?",
+       "options": [
+        {
+         "key": 0,
+         "value": "who will host"
+        },
+        {
+         "key": 1,
+         "value": "the exact opening time"
+        },
+        {
+         "key": 2,
+         "value": "what sculpture will be in the foyer"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"yếu tố nào của ngày khai trương chưa được quyết định\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy “There is some \"},{\"text\":\"discrepancy\",\"bold\":true},{\"text\":\", however,\"},{\"text\":\" on the sculpture design for the foyer at the entrance\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhấn mạnh rằng\"},{\"text\":\" vẫn chưa có quyết định về thiết kế điêu khắc cho tiền sảnh ở lối vào\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 169,
+          "endTimeInSeconds": 176,
+          "transcripts": [
+           {
+            "id": "13/169804-176031",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 176,
+            "text": "There is some discrepancy, however, on the sculpture design for the foyer at the entrance. "
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "e4274c13-75df-11ec-a317-63e9db4c47b8",
+     "questions": [
+      {
+       "uuid": "e4274c14-75df-11ec-a317-63e9db4c47b8",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": " film and music"
+        },
+        {
+         "key": 1,
+         "value": "mountains"
+        },
+        {
+         "key": 2,
+         "value": "space travel"
+        },
+        {
+         "key": 3,
+         "value": " jewelry"
+        },
+        {
+         "key": 4,
+         "value": "animals"
+        },
+        {
+         "key": 5,
+         "value": "waterways"
+        },
+        {
+         "key": 6,
+         "value": "volcano"
+        },
+        {
+         "key": 7,
+         "value": "ancient forts"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ta cần nghe về \"},{\"text\":\"chủ đề của căn phòng đại diện cho “Châu Á” \\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \"},{\"text\":\"“Representing Asia\",\"bold\":true},{\"text\":\" in the reception area \"},{\"text\":\"will be a mosaic\",\"bold\":true},{\"text\":\" made up of \"},{\"text\":\"prominent animals indigenous to the continent\",\"bold\":true},{\"text\":\".” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chủ đề cho châu Á là \"},{\"text\":\"các loài động vật nổi bật bản địa của châu lục \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 251,
+          "transcripts": [
+           {
+            "id": "16/236856-251296",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 251,
+            "text": "Representing Asia in the reception area will be a mosaic made up of prominent animals indigenous to the continent - a camel, a panda, and the Siberian white tiger, to name a few."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Ta cần nghe về \"},{\"text\":\"chủ đề của căn phòng đại diện cho \\\"Antarctica\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy “In the West lounge, feel the cool, icy vibes of the \"},{\"text\":\"Transantarctic Mountains of Antarctica\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phòng khách phía Tây là phòng\"},{\"text\":\" đại diện cho Antarctica\",\"bold\":true},{\"text\":\", được\"},{\"text\":\" trang trí theo chủ đề “núi\\\"\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 251,
+          "endTimeInSeconds": 269,
+          "transcripts": [
+           {
+            "id": "17/251296-259003",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 259,
+            "text": "In the West lounge, feel the cool, icy vibes of the Transantarctic Mountains of Antarctica. "
+           },
+           {
+            "id": "18/259003-269496",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 269,
+            "text": "Makes you cold just thinking about it, doesn’t it? Just seeing a wall with a mural of the glacial mountains is almost enough to cool you off on a December afternoon."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Chúng ta cần tìm ra \"},{\"text\":\"chủ đề của căn phòng đại diện cho “Châu Phi\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói lần lượt nói \\\"The theme in the lady’s lounge room for \"},{\"text\":\"Africa \",\"bold\":true},{\"text\":\"may not be what you expected. \"},{\"text\":\"A safari? Drum music? The Nile River?\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhưng sau đó anh ấy nói “\"},{\"text\":\"No\",\"bold\":true},{\"text\":\", did you know that \"},{\"text\":\"Africa was home to the first jewelry\",\"bold\":true},{\"text\":\"? I sure didn’t”. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Speaker khẳng định rằng\"},{\"text\":\" Africa nổi tiếng với jewelry\",\"bold\":true},{\"text\":\" (là nơi sản xuất jewelry) \\n=> Ý nói căn phòng\"},{\"text\":\" trang trí theo chủ đề jewelry\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 269,
+          "endTimeInSeconds": 291,
+          "transcripts": [
+           {
+            "id": "19/269496-276313",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 276,
+            "text": "Why not make the trip to the pool a social studies lesson at the same time? "
+           },
+           {
+            "id": "20/276313-281273",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 281,
+            "text": "The theme in the lade’s lounge room for Africa may not be what you expected. "
+           },
+           {
+            "id": "21/281273-291401",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 291,
+            "text": "A safari? Drum music? The Nile River? No, did you know that Africa was home to the first jewelry? I sure didn’t."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ta cần tìm hiểu \"},{\"text\":\"chủ đề của căn phòng đại diện cho “Bắc Mỹ” là gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe thấy \\\".... North America [...] juxtaposing the\"},{\"text\":\" moon landing\",\"bold\":true},{\"text\":\" of 1969 with an abstract\"},{\"text\":\" depiction of humans living on Mars\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Và \\\"seems to me like an interesting commentary on the \"},{\"text\":\"future of space exploration\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Speaker đề cập tới\",\"marks\":[]},{\"text\":\" 'moon landing' và 'humans living on Mars' \",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> Chủ đề của căn phòng là\"},{\"text\":\" về space travel\",\"bold\":true},{\"text\":\" (=space exploration) \\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 291,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "22/291401-300059",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 300,
+            "text": "By contrast, as you may expect, North America’s theme for the card room is as modern - even futuristic - as it gets. "
+           },
+           {
+            "id": "23/300059-312146",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 312,
+            "text": "Anuzzi created for North America a sort of absurdist print interestingly juxtaposing the moon landing of 1969 with an abstract depiction of humans living on Mars."
+           },
+           {
+            "id": "24/312146-317353",
+            "startTimeInSeconds": 312,
+            "endTimeInSeconds": 317,
+            "text": "Seems to me like an interesting commentary on the future of space exploration."
+           }
+          ]
+         }
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ta cần chỉ ra \"},{\"text\":\"chủ đề của căn phòng đại diện cho “Châu Âu” là gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"And in the men's lounge room, the \"},{\"text\":\"ancient forts of Sparta, Rome, Greece, and other European civilizations\",\"bold\":true},{\"text\":\" fittingly exhibit ...\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phòng này lấy\"},{\"text\":\" chủ đề ancient forts (pháo đài cổ) của các nước châu Âu\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là H \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 317,
+          "endTimeInSeconds": 330,
+          "transcripts": [
+           {
+            "id": "25/317353-330488",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 330,
+            "text": "And in the men’s lounge room, the ancient forts of Sparta, Rome, Greece, and other European civilizations fittingly exhibit the strength and combatant characteristics of these societies."
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ta cần tìm ra \"},{\"text\":\"chủ đề của căn phòng đại diện cho “Nam Mỹ”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy “The\"},{\"text\":\" \",\"bold\":true},{\"text\":\"delicious food [...] \"},{\"text\":\"9-foot statue complete with brightly colored molten lava to characterise South America\",\"bold\":true},{\"text\":\".” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Bức tượng nham thạch nóng chảy \",\"marks\":[],\"bold\":true},{\"text\":\"(=volcano) \",\"marks\":[]},{\"text\":\"đại diện cho South America \",\"marks\":[],\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 355,
+          "transcripts": [
+           {
+            "id": "26/330488-342560",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 342,
+            "text": "Finally, the cafe and breakfast room area is an enchanting round room that draws all attention to its centre - where there is a strikingly realistic sculpture of a volcano. "
+           },
+           {
+            "id": "27/342560-355684",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 355,
+            "text": "The delicious food may actually be only the second most exciting part of this room in comparison to the 9-foot statue complete with brightly colored molten lava to characterise South America."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Asia"
+        },
+        {
+         "key": 1,
+         "value": "Antarctica\t"
+        },
+        {
+         "key": 2,
+         "value": "Africa"
+        },
+        {
+         "key": 3,
+         "value": "North America"
+        },
+        {
+         "key": 4,
+         "value": "Europe"
+        },
+        {
+         "key": 5,
+         "value": "South America"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What’s the theme of each continent based on the rooms of the clubhouse?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "SIX ",
+          "bold": true
+         },
+         {
+          "text": "answers from the box and write the correct letter,"
+         },
+         {
+          "text": " A-H.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "SIX",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter, "
+         },
+         {
+          "text": "A-H.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Suggestions For Your Future Presentation",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "ad66eb28-75e0-11ec-aaba-65e156747449",
+     "questions": [
+      {
+       "uuid": "ad66eb29-75e0-11ec-aaba-65e156747449",
+       "type": "SINGLE_ANSWER",
+       "question": "Which part has the tutor already read?",
+       "options": [
+        {
+         "key": 0,
+         "value": "the introductory chapter"
+        },
+        {
+         "key": 1,
+         "value": "the procedure section"
+        },
+        {
+         "key": 2,
+         "value": "the results and discussion section"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Ta cần để ý đến là \"},{\"text\":\"phần mà gia sư đã đọc\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án ở trong câu “\"},{\"text\":\"I have read the introductory chapter\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 72,
+          "endTimeInSeconds": 79,
+          "transcripts": [
+           {
+            "id": "3/72202-79821",
+            "startTimeInSeconds": 72,
+            "endTimeInSeconds": 79,
+            "text": "Okay, I have read the introductory chapter, and so far I like where you’re going with your research, you two.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ad66eb2a-75e0-11ec-aaba-65e156747449",
+       "type": "SINGLE_ANSWER",
+       "question": "Which part of the paper did the tutor like",
+       "options": [
+        {
+         "key": 0,
+         "value": "ntroduction"
+        },
+        {
+         "key": 1,
+         "value": "layout"
+        },
+        {
+         "key": 2,
+         "value": "background information"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Ta cần nghe về \"},{\"text\":\"phần mà tutor thích\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Khi ta nghe câu hỏi của Jimmy “Oh. If you haven’t read the rest, are\"},{\"text\":\" you just saying you like the introduction\",\"bold\":true},{\"text\":\"?”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau đó\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, câu trả lời của gia sư: “No” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Từ thông tin sau câu trả lời của gia sư: \"},{\"text\":\"“the layout is really well done\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Tutor thích phần layout (bố cục)\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 90,
+          "endTimeInSeconds": 111,
+          "transcripts": [
+           {
+            "id": "6/90579-95578",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 95,
+            "text": "Oh. If you haven’t read the rest, are you just saying you like the introduction?",
+            "character": {
+             "id": "m08nUDk28LLdxpKd_gvox",
+             "name": "Jimmy"
+            }
+           },
+           {
+            "id": "7/95578-108419",
+            "startTimeInSeconds": 95,
+            "endTimeInSeconds": 108,
+            "text": "No - the layout is really well done. You have each section clearly marked and have the header and footer perfectly formatted, and your title page is right on the money.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "8/108419-111493",
+            "startTimeInSeconds": 108,
+            "endTimeInSeconds": 111,
+            "text": "A lot of students have trouble with that one.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ad66eb2b-75e0-11ec-aaba-65e156747449",
+       "type": "SINGLE_ANSWER",
+       "question": "Kathy and the tutor both agree to continue to",
+       "options": [
+        {
+         "key": 0,
+         "value": "refer a lot to the example received in class"
+        },
+        {
+         "key": 1,
+         "value": "copy the information"
+        },
+        {
+         "key": 2,
+         "value": "conduct further research in the library"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Thông tin cần tìm là \"},{\"text\":\"cả Kathy và the tutor đều đồng ý tiếp tục làm gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Đầu tiên, Jimmy nói là ''To be honest, we\"},{\"text\":\" did refer a lot to the example\",\"bold\":true},{\"text\":\" we received in class.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ \"},{\"text\":\"đã dẫn rất nhiều ví dụ rồi\",\"bold\":true},{\"text\":\", do đó họ không cần đưa thêm các ví dụ nữa \\n=>\"},{\"text\":\" Loại đáp án A\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, giáo viên có bảo là ''as long as \"},{\"text\":\"you’re not also copying the information\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình\"},{\"text\":\" không được phép copy nguyên thông tin\",\"bold\":true},{\"text\":\" vào \\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, “The \"},{\"text\":\"background information\",\"bold\":true},{\"text\":\" is a\"},{\"text\":\" little sparse\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Và giáo viên khuyên là “finding some more online articles or \"},{\"text\":\"doing more research in the campus library\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 111,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "9/111493-116089",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 116,
+            "text": "To be honest, we did refer a lot to the example we received in class.",
+            "character": {
+             "id": "m08nUDk28LLdxpKd_gvox",
+             "name": "Jimmy"
+            }
+           },
+           {
+            "id": "10/116089-123195",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 123,
+            "text": "That’s good to do for spacing and layout, as long as you’re not also copying the information. ",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "11/123195-129513",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 129,
+            "text": "The background information is a little spare, though. You may want to add it.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "12/129513-133000",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 133,
+            "text": "You think so? I was more worried about whether I had enough data.",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "13/133000-143904",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 143,
+            "text": "You definitely need more background information. I would think about finding some more online articles or doing more research in the campus library.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "14/143904-152147",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 152,
+            "text": "That’s a good idea - we can go tomorrow. I find it too tough finding the subject matter in the online journal database.",
+            "character": {
+             "id": "m08nUDk28LLdxpKd_gvox",
+             "name": "Jimmy"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ad67123c-75e0-11ec-aaba-65e156747449",
+       "type": "SINGLE_ANSWER",
+       "question": " Kathy asks the tutor for help with the _____ section",
+       "options": [
+        {
+         "key": 0,
+         "value": "abstract"
+        },
+        {
+         "key": 1,
+         "value": "bibliography"
+        },
+        {
+         "key": 2,
+         "value": "appendix"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"phần mà Kathy cần trợ giúp từ gia sư.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Kathy nói rằng “but could you\"},{\"text\":\" help me with bibliography\",\"bold\":true},{\"text\":\"?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 159,
+          "endTimeInSeconds": 183,
+          "transcripts": [
+           {
+            "id": "16/159322-167897",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 167,
+            "text": "Me too. Oh, I almost forgot. I’ve included all of my citations in the abstract, but could you help me with the bibliography? ",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "17/167897-171722",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 171,
+            "text": "I should be using a bibliography, right? Not an appendix?",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "18/171722-183584",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 183,
+            "text": "Sure, I can help with that. Yes - for this type of scientific research paper, list all sources that you cite in the body of your paper in a bibliography.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ad67123d-75e0-11ec-aaba-65e156747449",
+       "type": "SINGLE_ANSWER",
+       "question": "What will Kathy do next?",
+       "options": [
+        {
+         "key": 0,
+         "value": "try out software"
+        },
+        {
+         "key": 1,
+         "value": "work on the bibliography"
+        },
+        {
+         "key": 2,
+         "value": "make an animation"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Kathy làm gì tiếp theo\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Chúng ta nghe thấy “I am going to go\"},{\"text\":\" try out the new presentation software\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 202,
+          "endTimeInSeconds": 209,
+          "transcripts": [
+           {
+            "id": "22/202324-209217",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 209,
+            "text": "Well, it’s alright. I am going to go try out the new presentation software while Jimmy’s working on the bibliography.",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter,"
+         },
+         {
+          "text": " A, B or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "ad67123e-75e0-11ec-aaba-65e156747449",
+     "questions": [
+      {
+       "uuid": "ad67123f-75e0-11ec-aaba-65e156747449",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "practical experience"
+        },
+        {
+         "key": 1,
+         "value": "publish the work"
+        },
+        {
+         "key": 2,
+         "value": "join Machine Engineer Society"
+        },
+        {
+         "key": 3,
+         "value": "give suggestions"
+        },
+        {
+         "key": 4,
+         "value": "stay up to date"
+        },
+        {
+         "key": 5,
+         "value": "make important contacts"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Gia sư nói rằng “there’s an organisation called the \"},{\"text\":\"Machine Engineer Society\",\"bold\":true},{\"text\":\". You should \"},{\"text\":\"look into joining it\",\"bold\":true},{\"text\":\". You would\"},{\"text\":\" need to score well\",\"bold\":true},{\"text\":\" in your engineering class”.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>  Theo câu này, bạn\"},{\"text\":\" cần score well \",\"bold\":true},{\"text\":\"(make a good grade) ở lớp engineering\"},{\"text\":\" để tham gia Machine Engineer Society\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 269,
+          "endTimeInSeconds": 283,
+          "transcripts": [
+           {
+            "id": "27/269497-277388",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 277,
+            "text": "You know, there’s an organization called the Machine Engineering Society. You should look into joining it. ",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "28/277388-283639",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 283,
+            "text": "You would need to score well in your engineering class to qualify, but I think you can do it.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"I would really like to get in contact with some\"},{\"text\":\" professionals in the engineering fields\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau đó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó Jimmy nói,\"},{\"text\":\" nếu gặp những chuyên gia \",\"bold\":true},{\"text\":\"trong cùng lĩnh vực, \\\"you’ll be able to\"},{\"text\":\" get in contact with some really helpful people\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có thể có được những mối liên lạc quan trọng.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 283,
+          "endTimeInSeconds": 303,
+          "transcripts": [
+           {
+            "id": "29/283639-286747",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 286,
+            "text": "Hm, interesting. I will definitely check it out. ",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "30/286747-293026",
+            "startTimeInSeconds": 286,
+            "endTimeInSeconds": 293,
+            "text": "I would really like to get in contact with some professionals in the engineering field to find out more. ",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "31/293026-296028",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 296,
+            "text": "I don’t really know anyone in the field now, though.",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "32/296028-303953",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 303,
+            "text": "I think if you keep meeting people in your classes and professors you’ll be able to get in contact with some really helpful people.",
+            "character": {
+             "id": "m08nUDk28LLdxpKd_gvox",
+             "name": "Jimmy"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Gia sư nói rằng “make sure you\"},{\"text\":\" stay up to date on new developments\",\"bold\":true},{\"text\":\". In fact, you could\"},{\"text\":\" visit the local water treatment facility periodically\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Thăm cơ sở xử lý nước \",\"bold\":true},{\"text\":\"để \"},{\"text\":\"cập nhật những cải tiến mới \",\"bold\":true},{\"text\":\"(Visit the local water treatment facility = Visit the factory)\\n=> \"},{\"text\":\"Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 303,
+          "endTimeInSeconds": 323,
+          "transcripts": [
+           {
+            "id": "33/303953-314499",
+            "startTimeInSeconds": 303,
+            "endTimeInSeconds": 314,
+            "text": "Well said, Jimmy. If engineering pumps is something you both are specifically interested in, make sure you stay up to date on new developments.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "34/314499-323599",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 323,
+            "text": "In fact, you could visit the local water treatment facility periodically to see what new developments are going on.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi Kathy bàn về \"},{\"text\":\"cách có thêm kinh nghiệm thực tiễn\",\"bold\":true},{\"text\":\", tutor đã trả lời “If you really want to get your hands dirty, so to speak, I would \"},{\"text\":\"recommend instead seeking a summer internship\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Gợi ý về việc \"},{\"text\":\"tìm vị trí thực tập mùa hè\",\"bold\":true},{\"text\":\" nếu muốn \"},{\"text\":\"“get your hands dirty\\\" (= gain pratical experience) \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 323,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "35/323599-327576",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 327,
+            "text": "Hm, that may be a good way to get some practical experience.",
+            "character": {
+             "id": "OivPly2SJiPw0L12BhbxV",
+             "name": "Kathy"
+            }
+           },
+           {
+            "id": "36/327576-333897",
+            "startTimeInSeconds": 327,
+            "endTimeInSeconds": 333,
+            "text": "Well, I don’t think they would let you handle any equipment by just visiting the facility.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "37/333897-342242",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 342,
+            "text": "If you really want to get your hands dirty, so to speak, I would recommend instead seeking a summer internship.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Đáp án sẽ xuất hiện sau “once you have a \"},{\"text\":\"dissertation\",\"bold\":true},{\"text\":\", \"},{\"text\":\"present \",\"bold\":true},{\"text\":\"it” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin “Present it often and to many audiences, and once you get feedback, adjust it. \"},{\"text\":\"You’ll get published one day\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cho biết rằng họ nên\"},{\"text\":\" xuất bản luận văn của mình \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 352,
+          "endTimeInSeconds": 368,
+          "transcripts": [
+           {
+            "id": "41/352452-359604",
+            "startTimeInSeconds": 352,
+            "endTimeInSeconds": 359,
+            "text": "Well, honestly, all you really need to do is once you have a dissertation, present it.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "42/359604-368145",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 368,
+            "text": "Present it often and to many audiences, and once you get feedback, adjust it. I’ll get published one day.",
+            "character": {
+             "id": "IbkmdzJNDbdnY91LkvWP-",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Make a good grade"
+        },
+        {
+         "key": 1,
+         "value": "Meet engineering professionals\t"
+        },
+        {
+         "key": 2,
+         "value": "Visit the factory"
+        },
+        {
+         "key": 3,
+         "value": "Seek summer internships\t"
+        },
+        {
+         "key": 4,
+         "value": "Present dissertation"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What is the desired outcome to each of the following course of action?\nChoose "
+         },
+         {
+          "text": "FIVE ",
+          "bold": true
+         },
+         {
+          "text": "answer from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FIVE",
+          "bold": true
+         },
+         {
+          "text": " answer from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "An Overview Of The Research On Amber",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "e09b9797-75e0-11ec-9a1c-6b51549532bd",
+     "questions": [
+      {
+       "uuid": "e09b9798-75e0-11ec-9a1c-6b51549532bd",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem\"},{\"text\":\" amber bảo vệ cái cây khỏi cái gì, bên cạnh fungi \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau “what is \"},{\"text\":\"amber\",\"bold\":true},{\"text\":\"?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói đề cập đến “The resin may be\"},{\"text\":\" \",\"bold\":true},{\"text\":\"produced to \"},{\"text\":\"protect the tree\",\"bold\":true},{\"text\":\" from disease and injury inflicted by\"},{\"text\":\" insects\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"fungi \",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Resin có thể \"},{\"text\":\"được tạo ra để bảo vệ cây khỏi \",\"bold\":true},{\"text\":\"bệnh tật và tổn thương do\"},{\"text\":\" côn trùng \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"nấm\",\"bold\":true},{\"text\":\" gây ra \\n=>\"},{\"text\":\" Đáp án: insects \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 86,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "3/86145-101261",
+            "startTimeInSeconds": 86,
+            "endTimeInSeconds": 101,
+            "text": "Amber is not a stone, but is ancient, fossilised tree resin, which is the semi-solid amorphous organic substance secreted in pockets and canals through epithelial cells of the plant. "
+           },
+           {
+            "id": "4/101261-103619",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 103,
+            "text": " And why is resin produced?"
+           },
+           {
+            "id": "5/103619-111919",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 111,
+            "text": "Although there are contrasting views as to why resin is produced, it is a plant’s protection mechanism."
+           },
+           {
+            "id": "6/111919-121349",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 121,
+            "text": "The resin may be produced to protect the tree from disease and injury inflicted by insects and fungi."
+           }
+          ]
+         },
+         "value": "insects",
+         "blankId": "W1dAQ4T5pszpjB4Jgz7oB"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"hiện tượng nào khiến amber có màu xanh\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \"},{\"text\":\"“\",\"bold\":true},{\"text\":\"There are several theories about \"},{\"text\":\"what causes the blue color in amber\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, người nói đề cập rằng “The most common one \"},{\"text\":\"links it to the occurrence of volcanic dust”\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Màu xanh có \"},{\"text\":\"liên quan đến hiện tượng bụi núi lửa \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: volcanic dust \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 162,
+          "transcripts": [
+           {
+            "id": "7/121349-124781",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 124,
+            "text": "Amber occurs in a range of different colors."
+           },
+           {
+            "id": "8/124781-132784",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 132,
+            "text": "Besides the usual yellow, orange, and brown, other uncommon colors are also associated with it. "
+           },
+           {
+            "id": "9/132784-140455",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 140,
+            "text": "Interestingly, blue amber, the rarest Dominican amber, is highly sought after. "
+           },
+           {
+            "id": "10/140455-144928",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 144,
+            "text": "It is only found in Santiago, Dominican Republic."
+           },
+           {
+            "id": "11/144928-149745",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 149,
+            "text": "There are several theories about what causes the blue color in amber."
+           },
+           {
+            "id": "12/149745-162566",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 162,
+            "text": "The most common one links it to the occurrence of volcanic dust that was present when the resin was first pressed out from hymenaea protera millions of years ago."
+           }
+          ]
+         },
+         "value": "volcanic dust",
+         "blankId": "aYSBlCYFYAW01p8IXbxj4"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là về\"},{\"text\":\" sự hình thành của amber\",\"bold\":true},{\"text\":\", loại từ cần điền là \"},{\"text\":\"danh từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  “how amber is \"},{\"text\":\"formed\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó có câu giải thích “\"},{\"text\":\"Sustained heat and pressure\",\"bold\":true},{\"text\":\" drives off terpenes and \"},{\"text\":\"results in the formation of amber\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nghĩ là amber được tạo ra\"},{\"text\":\" dưới sustained heat and pressure \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: heat \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 162,
+          "endTimeInSeconds": 188,
+          "transcripts": [
+           {
+            "id": "13/162566-167626",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 167,
+            "text": "At this point you might be curious about how amber is formed."
+           },
+           {
+            "id": "14/167626-180294",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 180,
+            "text": "Molecular polymerisation, resulting from high pressures and temperatures produced by overlying sediment, transforms the resin first into copal."
+           },
+           {
+            "id": "15/180294-188222",
+            "startTimeInSeconds": 180,
+            "endTimeInSeconds": 188,
+            "text": "Sustained heat and pressure drives off terpenes and results in the formation of amber. "
+           }
+          ]
+         },
+         "value": "heat",
+         "blankId": "1OQd1hx1fIHXTy-2Kb8O-"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" ở giai đoạn nào copal được tạo ra \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"copal \",\"bold\":true},{\"text\":\"describes resinous substances\"},{\"text\":\" in an intermediate stage of\",\"bold\":true},{\"text\":\" (...) \"},{\"text\":\"between \",\"bold\":true},{\"text\":\"“gummier” \"},{\"text\":\"resins and amber.\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Copal được tạo ra ở\"},{\"text\":\" giai đoạn trung gian giữa resins và amber\\\"\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: intermediate \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 188,
+          "endTimeInSeconds": 209,
+          "transcripts": [
+           {
+            "id": "16/188222-195807",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 195,
+            "text": "Copal that I’ve just mentioned is also a tree resin but it hasn’t fully fossilized to amber."
+           },
+           {
+            "id": "17/195807-209990",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 209,
+            "text": "More generally, the term copal describes resinous substances in an intermediate stage of polymerization and hardening between “gummier” resins and amber."
+           }
+          ]
+         },
+         "value": "intermediate",
+         "blankId": "MAEzTvnUCDoUk7-O-kK6j"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe v\"},{\"text\":\"ề vị trí mà có thể tìm thấy hổ phách\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau “So where can we\"},{\"text\":\" find amber\",\"bold\":true},{\"text\":\"?”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó, chúng ta sẽ nghe thấy “It\"},{\"text\":\" can be found on sea shores\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: sea shores \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 219,
+          "transcripts": [
+           {
+            "id": "18/215319-217020",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 217,
+            "text": "So where can we find amber?"
+           },
+           {
+            "id": "19/217020-219708",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 219,
+            "text": "It can be found on sea shores."
+           }
+          ]
+         },
+         "value": "seashores",
+         "blankId": "xl_a3nidmXOCAnSor_F2Y"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem mà\"},{\"text\":\" hổ phách nên tránh tiếp xúc với cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói đề cập rằng “However, \"},{\"text\":\"exposure to sunlight, rain, and temperature extremes\",\"bold\":true},{\"text\":\" tends to \"},{\"text\":\"disintegrate resin\",\"bold\":true},{\"text\":\"”. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tiếp xúc với \"},{\"text\":\"sunlight\",\"bold\":true},{\"text\":\", \"},{\"text\":\"rain\",\"bold\":true},{\"text\":\",\"},{\"text\":\" temperature extremes\",\"bold\":true},{\"text\":\" có thể\"},{\"text\":\" disintegrate resin\",\"bold\":true},{\"text\":\"\\n=> Có thể bạn không biết disintegrate (tan rã) là gì, nhưng nhờ biết được \"},{\"text\":\"thông tin cần điền song song với rain, and temperature extremes\",\"bold\":true},{\"text\":\" nên dễ dàng \"},{\"text\":\"suy ra đáp án là sunlight\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: sunlight \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 233,
+          "endTimeInSeconds": 260,
+          "transcripts": [
+           {
+            "id": "22/233679-243632",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 243,
+            "text": "Here, the resin is washed up on the coast after being dislodged from the ocean floor by years of water and ocean currents. "
+           },
+           {
+            "id": "23/243632-252604",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 252,
+            "text": "However, exposure to sunlight, rain , and temperate extremes tends to disintegrate resin."
+           },
+           {
+            "id": "24/252604-260385",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 260,
+            "text": "This also indicates that amber is not really an ideal fossil preservative for most uses."
+           }
+          ]
+         },
+         "value": "sunlight",
+         "blankId": "Qs7ESer_elJLbwo7_Ngje"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Từ thông tin cho sẵn ở trên, ta biết \"},{\"text\":\"cần điền một số vào chỗ trống\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, chúng ta có thể nghe thấy “Inclusions in \"},{\"text\":\"Dominican ambe\",\"bold\":true},{\"text\":\"r are numerous - \"},{\"text\":\"1 inclusion to every 100 pieces\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp xuất hiện\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó hổ phách Baltic được nhắc đến \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"Baltic amber\",\"bold\":true},{\"text\":\" contains approximately\"},{\"text\":\" 1 inclusion to every 1,000 pieces\",\"bold\":true},{\"text\":\"”. \\n=> \"},{\"text\":\"Đáp án: 1000 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 280,
+          "endTimeInSeconds": 309,
+          "transcripts": [
+           {
+            "id": "28/280233-295340",
+            "startTimeInSeconds": 280,
+            "endTimeInSeconds": 295,
+            "text": "One Dominican amber source reported finding a butterfly with a five-inch wing spread; this is both a large and unusual find; most butterfly specimens have no more than a two-inch wingspan. "
+           },
+           {
+            "id": "29/295340-309805",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 309,
+            "text": "Inclusions in Dominican amber are numerous - 1 inclusion to every 100 pieces; Baltic amber contains approximately 1 inclusion to every 1,000 pieces."
+           }
+          ]
+         },
+         "value": "1000",
+         "blankId": "OiHlONHmUZu3RSfzp69eP"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" ứng dụng của amber \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau “I’d like to talk a bit about\"},{\"text\":\" amber’s applications in different fields\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy “\"},{\"text\":\"using \",\"bold\":true},{\"text\":\"(...) \"},{\"text\":\"Baltic amber with silver\",\"bold\":true},{\"text\":\" to make natural amber jewelry” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Sử dụng hổ phách với bạc\",\"bold\":true},{\"text\":\" để làm đồ trang sức hổ phách tự nhiên\\n=> Có nghĩa là \\\"make ornamental objects and jewelry in \"},{\"text\":\"silver settings\",\"bold\":true},{\"text\":\"\\\" \\n=>\"},{\"text\":\" Đáp án : silver \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 309,
+          "endTimeInSeconds": 351,
+          "transcripts": [
+           {
+            "id": "30/309805-318369",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 318,
+            "text": "Now that you have a basic knowledge of amber, I’d like to talk a bit about amber’s application in different fields. "
+           },
+           {
+            "id": "31/318369-323254",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 323,
+            "text": "First, amber is appreciated for its color and beauty."
+           },
+           {
+            "id": "32/323254-340088",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 340,
+            "text": "Good quality amber is used to manufacture ornamental objects and jewelry, for instance using a variety of exclusive first class quality natural Baltic amber with silver to make natural amber jewelry."
+           },
+           {
+            "id": "33/340088-351102",
+            "startTimeInSeconds": 340,
+            "endTimeInSeconds": 351,
+            "text": "But due to the biodegradation of Amber fossils, people with amber jewelry have to take special care of it, to ensure that the amber is not damaged."
+           }
+          ]
+         },
+         "value": "silver",
+         "blankId": "uCBNDfVxnKnMKvYlgCVn9"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"bột hổ phách mixed với cái gì sẽ “cure throat, eye and ear diseases” \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói,“amber powder \"},{\"text\":\"mixed with honey\",\"bold\":true},{\"text\":\" cures throat, eye and ear diseases” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Trộn với mật ong\",\"bold\":true},{\"text\":\" chữa các bệnh\\n=> \"},{\"text\":\"Đáp án là honey \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 351,
+          "endTimeInSeconds": 387,
+          "transcripts": [
+           {
+            "id": "34/351102-361147",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 361,
+            "text": "It was previously believed that amber worn on the neck served to protect one from diseases of the throat and preserved the sound mind."
+           },
+           {
+            "id": "35/361147-376846",
+            "startTimeInSeconds": 361,
+            "endTimeInSeconds": 376,
+            "text": "Kalistrate, a famous doctor in the Roman Empire wrote that amber powder mixed with honey cures throat, eye and ear diseases, and if it is taken with water, eases stomach ache. "
+           },
+           {
+            "id": "36/376846-387076",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 387,
+            "text": "While the mystery around that use of amber has not been cleared, one thing is sure: it will help effectively to defeat small malaises."
+           }
+          ]
+         },
+         "value": "honey",
+         "blankId": "qQrz70g7g0VXjoS5HKIqS"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" hổ phách đã được sử dụng như nguyên liệu gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy rằng  “Amber has even been \"},{\"text\":\"used as a building material\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hổ phách thậm chí \"},{\"text\":\"đã được sử dụng làm vật liệu xây dựng\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: building \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 387,
+          "endTimeInSeconds": 405,
+          "transcripts": [
+           {
+            "id": "37/387076-390631",
+            "startTimeInSeconds": 387,
+            "endTimeInSeconds": 390,
+            "text": "Amber has ever been used as a building material. "
+           },
+           {
+            "id": "38/390631-405631",
+            "startTimeInSeconds": 390,
+            "endTimeInSeconds": 405,
+            "text": "Amber created the altar in St. Brygida Church in Gdansk, Poland. In St. Petersburg, Rusia, the walls of the famous Amber Room were lined with intricate carvings and inlaid designs. "
+           }
+          ]
+         },
+         "value": "building",
+         "blankId": "AFNssSzIVelpSp_PXLCKE"
+        }
+       ],
+       "heading": "AN OVERVIEW OF THE RESEARCH ON AMBER",
+       "paragraph": {
+        "id": "ni2MWSNsPzOZx0OrDgKFu",
+        "editorValue": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Amber:\",\"bold\":true},{\"text\":\" a fossilized tree resin, which may be produced to protect itself against \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31_____\"}],\"id\":\"W1dAQ4T5pszpjB4Jgz7oB\"},{\"text\":\" and fungi.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Color:\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Usual yellow, orange, or brown\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Uncommon colors e.g. blue (what causes the blue color in amber is related to the occurrence of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"32_____\"}],\"id\":\"aYSBlCYFYAW01p8IXbxj4\"},{\"text\":\".)\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Formation:\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Under sustained \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"33_____\"}],\"id\":\"1OQd1hx1fIHXTy-2Kb8O-\"},{\"text\":\" and pressure\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"During an \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"34_____\"}],\"id\":\"MAEzTvnUCDoUk7-O-kK6j\"},{\"text\":\" stage between resins and amber, copal is produced.\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Places and Conditions:\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Commonly found on \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"35_____\"}],\"id\":\"xl_a3nidmXOCAnSor_F2Y\"},{\"text\":\" e.g. in Russia\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Avoid exposure to \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36_____\"}],\"id\":\"Qs7ESer_elJLbwo7_Ngje\"},{\"text\":\", rain, and temperature extremes\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Inclusions:\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Dominican amber: 1 inclusion to every 100 pieces\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Baltic amber: 1 inclusion to every \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"37_____\"}],\"id\":\"OiHlONHmUZu3RSfzp69eP\"},{\"text\":\" pieces\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Uses and applications:\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"It can be used to make ornamental objects and jewelry in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38_____\"}],\"id\":\"uCBNDfVxnKnMKvYlgCVn9\"},{\"text\":\" settings.\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Some people believe that its powder mixed with \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39_____\"}],\"id\":\"qQrz70g7g0VXjoS5HKIqS\"},{\"text\":\" cures throat, eye and ear diseases.\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"It has even been used as a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"40_____\"}],\"id\":\"AFNssSzIVelpSp_PXLCKE\"},{\"text\":\" material, for instance using it to create Amber Room.\"}]}]}]}]}]}]",
+        "blanks": [
+         {
+          "id": "W1dAQ4T5pszpjB4Jgz7oB",
+          "key": 0
+         },
+         {
+          "id": "aYSBlCYFYAW01p8IXbxj4",
+          "key": 1
+         },
+         {
+          "id": "1OQd1hx1fIHXTy-2Kb8O-",
+          "key": 2
+         },
+         {
+          "id": "MAEzTvnUCDoUk7-O-kK6j",
+          "key": 3
+         },
+         {
+          "id": "xl_a3nidmXOCAnSor_F2Y",
+          "key": 4
+         },
+         {
+          "id": "Qs7ESer_elJLbwo7_Ngje",
+          "key": 5
+         },
+         {
+          "id": "OiHlONHmUZu3RSfzp69eP",
+          "key": 6
+         },
+         {
+          "id": "uCBNDfVxnKnMKvYlgCVn9",
+          "key": 7
+         },
+         {
+          "id": "qQrz70g7g0VXjoS5HKIqS",
+          "key": 8
+         },
+         {
+          "id": "AFNssSzIVelpSp_PXLCKE",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:06Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

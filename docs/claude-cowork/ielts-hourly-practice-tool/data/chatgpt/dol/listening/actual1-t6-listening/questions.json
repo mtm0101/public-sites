@@ -1,0 +1,2098 @@
+{
+ "schema": 1,
+ "id": "actual1-t6-listening",
+ "title": "Actual Test 1 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 6,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-1-test-6-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-1-test-6-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "House Service Information",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "6e87efcc-75b7-11ec-92a0-71fc929a21f1",
+     "questions": [
+      {
+       "uuid": "m8YK1EVFNtJC-g5DGcbI7",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"vị trí căn nhà (ở đâu đó ở London)\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Next, is your house \"},{\"text\":\"in London\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"it’s in Kingston in \"},{\"text\":\"Southwest\",\"bold\":true},{\"text\":\" London.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: Southwest \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Một số bạn nhầm lẫn đáp án là \\\"\"},{\"text\":\"Kingston\",\"bold\":true},{\"text\":\"\\\" tuy nhiên trên đề bài bạn không thấy giới từ \\\"\"},{\"text\":\"in\",\"bold\":true},{\"text\":\"\\\" trước \\\"\"},{\"text\":\"London\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án phải là về\"},{\"text\":\" phương hướng\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 131,
+          "endTimeInSeconds": 138,
+          "transcripts": [
+           {
+            "id": "4/131937-134947",
+            "startTimeInSeconds": 131,
+            "endTimeInSeconds": 134,
+            "text": " Thank you. Next, is your house in London?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "5/134947-138126",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 138,
+            "text": " Yes, it’s in Kingston in Southwest London.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         },
+         "value": "Southwest",
+         "blankId": "aq_ra7Br3-NL8RfkJlACO"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Loại từ cần điền là\"},{\"text\":\" tính từ bổ nghĩa cho bedroom\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"how many bedrooms?\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình nghe thấy \\\"Are those \"},{\"text\":\"single\",\"bold\":true},{\"text\":\" bedrooms or \"},{\"text\":\"doubles\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Người kia confirm là \\\"\"},{\"text\":\"Doubles\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có \"},{\"text\":\"2 doubles bedroom\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: double(s) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 172,
+          "transcripts": [
+           {
+            "id": "10/157585-161793",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 161,
+            "text": " OK, how many bedrooms does the house have?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "11/161793-168688",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 168,
+            "text": " Three bedrooms. Oh no, sorry, we used to have three bedrooms, but we only have two bedrooms now.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           },
+           {
+            "id": "12/168688-171315",
+            "startTimeInSeconds": 168,
+            "endTimeInSeconds": 171,
+            "text": " Are those single bedrooms or doubles?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "13/171315-172248",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 172,
+            "text": " Doubles.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         },
+         "value": "double/doubles",
+         "blankId": "mL-VcFI8swEA1yH4FMoK3"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" phòng còn lại được dùng làm gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"There is \"},{\"text\":\"one more room\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"It was used as \"},{\"text\":\"a bedroom\",\"bold\":true},{\"text\":\" before, and now we have converted it into \"},{\"text\":\"an office\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Trước đây là phòng ngủ\",\"bold\":true},{\"text\":\" nhưng bây giờ được \"},{\"text\":\"dùng làm office\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: office \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 174,
+          "endTimeInSeconds": 182,
+          "transcripts": [
+           {
+            "id": "15/174340-182472",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 182,
+            "text": " There is one more room which needs cleaning. It was used as a bedroom before, and now we have converted it into an office.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         },
+         "value": "office",
+         "blankId": "gd5Y19ivRT9N9JxO4oHVE"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"các phòng ở dưới lầu\",\"bold\":true},{\"text\":\" (kitchen-diner, conservatory, and ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Then, \"},{\"text\":\"downstairs\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"we have a kitchen-diner, conserva­tory, and \"},{\"text\":\"lounge\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng với thứ tự liệt kê trên đề\\n=> \"},{\"text\":\" Đáp án: lounge \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 182,
+          "endTimeInSeconds": 210,
+          "transcripts": [
+           {
+            "id": "16/182472-188783",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 188,
+            "text": " I understand. Three rooms have got to be cleaned, and are all of those rooms upstairs?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "17/188783-210570",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 210,
+            "text": " Yes. Then, downstairs we have a kitchen-diner, conservatory, and lounge. The kitchen-diner is quite large and has the usual equipment - cooker with oven, refrigerator, cupboards, and worktops. The conservatory has a lot of plants, but there’s no need to take care of them. The lounge has a leather three- piece suite and a large coffee table.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         },
+         "value": "lounge",
+         "blankId": "Mw-uzjLR7wLLy8GfKGE0B"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "aq_ra7Br3-NL8RfkJlACO",
+         "key": 0
+        },
+        {
+         "id": "mL-VcFI8swEA1yH4FMoK3",
+         "key": 1
+        },
+        {
+         "id": "gd5Y19ivRT9N9JxO4oHVE",
+         "key": 2
+        },
+        {
+         "id": "Mw-uzjLR7wLLy8GfKGE0B",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"jV0EudXbO2XvHQynv_Mfr\",\"cellsWidth\":[274,300],\"children\":[{\"type\":\"tr\",\"id\":\"cRrgXkJY5eeTDBEASTo6w\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Name:\",\"bold\":true}]}]}],\"id\":\"xXus0uywXe6rybvbTcTgb\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Barbara Hill\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"sArUut8t4oRgLFI_jsVv9\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"zk6C3UPHtVKTBZbO8NqrB\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Location:\",\"bold\":true}]}]}],\"id\":\"yMZ-AGT-MTItQj-W5swpY\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"aq_ra7Br3-NL8RfkJlACO\",\"text\":\"\"}]},{\"text\":\" London\"}]}]}],\"id\":\"l6Izt9e7aNuG4TwflSxb-\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"v3o5aeDn6INWsw5j-LSIK\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Postcode:\",\"bold\":true}]}]}],\"id\":\"0gVOt7p0XJiEDcC2HomI3\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"SW105\"}]}]}],\"id\":\"OuFyowDMa3ZFZuBmYoz9m\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"NUdgPD_8HKdnBLYLWCLJI\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rooms:\",\"bold\":true}]}]}],\"id\":\"-OGYZs1At7kFrOSw5z8Tq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"two\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"mL-VcFI8swEA1yH4FMoK3\",\"text\":\"\"}]},{\"text\":\" bedrooms\"}]}]}],\"id\":\"qK7VtJR11PePNVQ1S0_X4\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"cN6iko3hccblfVGZu3ZQV\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The other room used as:\",\"bold\":true}]}]}],\"id\":\"Q1rSQ4ddDxCkETbYQkQg5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"an\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"gd5Y19ivRT9N9JxO4oHVE\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"R8CxKn5YZ7ZMHAG87Rc4_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"vJGs0vs-WO8Lbn4rDBFec\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Downstairs:\",\"bold\":true}]}]}],\"id\":\"MpZ8vhn6G9UDAFIeAOLNQ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"kitchen-diner, conservatory, and\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Mw-uzjLR7wLLy8GfKGE0B\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"JJtx0FVcCU8NxXphTXum_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"RblYnNuTSP-o-YHIwAtCC\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Pets:\",\"bold\":true}]}]}],\"id\":\"dmHdggoR7hupT4UrAG4As\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"2 dogs and 3 cats\"}]}]}],\"id\":\"l4pJwpiCUp9tVGn4L1UhK\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":574,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]",
+       "question": "HOUSE SERVICE INFORMATION"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below.\nWrite "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "6e8816dd-75b7-11ec-92a0-71fc929a21f1",
+     "questions": [
+      {
+       "uuid": "6e8816de-75b7-11ec-92a0-71fc929a21f1",
+       "type": "SINGLE_ANSWER",
+       "question": "Which of these extra services does the customer agree to do?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Change the bed linen"
+        },
+        {
+         "key": 1,
+         "value": "Do some gardening work "
+        },
+        {
+         "key": 2,
+         "value": "Clean the glass"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"Any \"},{\"text\":\"extra services\",\"bold\":true},{\"text\":\" you need\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"replacing the bed linen\",\"bold\":true},{\"text\":\" ...yes... that would be good.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng chọn\"},{\"text\":\" thay khăn trải giường\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 274,
+          "endTimeInSeconds": 289,
+          "transcripts": [
+           {
+            "id": "23/274565-281790",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 281,
+            "text": " Any extra services you need - switching bed linen, working in the garden, cleaning the glass in the conservatory, that kind of thing?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "24/281790-289225",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 289,
+            "text": " Err... no... err....... actually, replacing the bed linen, yes that would be good",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6e8816df-75b7-11ec-92a0-71fc929a21f1",
+       "type": "SINGLE_ANSWER",
+       "question": "What does the customer want cleaned every three months?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Curtains "
+        },
+        {
+         "key": 1,
+         "value": "Carpets "
+        },
+        {
+         "key": 2,
+         "value": "Mats"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe liệt kê các đáp án \\\"\"},{\"text\":\"cur­tains, mats, and carpets\",\"bold\":true},{\"text\":\"\\\" và nghe hỏi \\\"\"},{\"text\":\"What would you like us to do with those items\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"we should have \"},{\"text\":\"the carpets cleaned really well every quarter\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Every quarter\",\"bold\":true},{\"text\":\" =\"},{\"text\":\" Every three months\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Giặt thảm\",\"bold\":true},{\"text\":\" mỗi 3 tháng \\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 289,
+          "endTimeInSeconds": 308,
+          "transcripts": [
+           {
+            "id": "25/289225-297887",
+            "startTimeInSeconds": 289,
+            "endTimeInSeconds": 297,
+            "text": " No problem. I’ll just make a note of that. How about curtains, mats, and carpets? What would you like us to do with those items?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "26/297887-308586",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 308,
+            "text": " The curtains... I'll have to think about that. I think we should have the carpets cleaned really well every quarter. Mats can just be done with the laundry.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6e8816e0-75b7-11ec-92a0-71fc929a21f1",
+       "type": "SINGLE_ANSWER",
+       "question": "What does the customer want done with clothes?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Wash and iron the clothes "
+        },
+        {
+         "key": 1,
+         "value": "Iron the clothes"
+        },
+        {
+         "key": 2,
+         "value": "Clean and dry the clothes"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"How about \"},{\"text\":\"clothes\",\"bold\":true},{\"text\":\"?\\\" và có đề cập đến các dịch vụ như \\\"\"},{\"text\":\"wash and iron\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình nghe khách hàng nói \\\"No\"},{\"text\":\", just ironing\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách \"},{\"text\":\"chỉ cần ủi quần áo thôi \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 320,
+          "transcripts": [
+           {
+            "id": "27/308586-316509",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 316,
+            "text": " Of course. How about clothes? We can have our staff wash and iron them, or we can have them taken to a dry cleaner’s.",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "28/316509-320631",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 320,
+            "text": " Washing and ironing. No, just ironing. That’ll be OK..",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "6e8816e1-75b7-11ec-92a0-71fc929a21f1",
+     "questions": [
+      {
+       "uuid": "6e8816e2-75b7-11ec-92a0-71fc929a21f1",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên đường\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Nghe thấy \\\" I should let you know that \"},{\"text\":\"we locate on \",\"bold\":true},{\"text\":\"12 \"},{\"text\":\"Amyes \",\"bold\":true},{\"text\":\"Road\\\" và sau đó đánh vần \\\"\"},{\"text\":\"A-M-Y-E-S.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Amyes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 320,
+          "endTimeInSeconds": 330,
+          "transcripts": [
+           {
+            "id": "29/320631-330591",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 330,
+            "text": " OK, fine. I know quite a bit about what you want now. I should let you know that we locate on 12 Amyes Road, that’s A-M-Y-E-S.",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "Amyes",
+         "blankId": "Uj50wR-EQuyRSkqAjBeh6"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" thời gian căn nhà được dọn dẹp\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc \\\"we work from \"},{\"text\":\"Monday to Sunday\",\"bold\":true},{\"text\":\" except \"},{\"text\":\"Tuesday and Wednesday\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Agent đã đưa ra những ngày họ làm việc để có thể dọn nhà \\n=> Biết đáp án sẽ là \"},{\"text\":\"thứ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\"Sau đó nghe hỏi \\\"Could you let me know\"},{\"text\":\" when is conveni­ent for you?\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hỏi về \"},{\"text\":\"ngày phù hợp để dọn nhà\",\"bold\":true},{\"text\":\"\\n=> Đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"Let me check, OK, \"},{\"text\":\"next Thursday\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: Thursday \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 331,
+          "endTimeInSeconds": 355,
+          "transcripts": [
+           {
+            "id": "31/331718-338743",
+            "startTimeInSeconds": 331,
+            "endTimeInSeconds": 338,
+            "text": " And we work from Monday to Sunday except Tuesday and Wednesday. Could you let me know when is convenient for you?",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "32/338743-355347",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 355,
+            "text": " Next Friday... err... no, that’s no good. My son invites his friends over in the afternoon that day. Perhaps next Thursday or next Saturday. Let me check, OK, next Thursday.",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           }
+          ]
+         },
+         "value": "Thursday",
+         "blankId": "YU5JLNdxmgnRdW5WKN-ef"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về\"},{\"text\":\" thời gian tối đa cho việc dọn dẹp \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"how long\",\"bold\":true},{\"text\":\" would it take \"},{\"text\":\"for the service\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"We usually work \"},{\"text\":\"1-3 hours \",\"bold\":true},{\"text\":\"and the work will \"},{\"text\":\"take three hours at most\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc dọn dẹp sẽ \"},{\"text\":\"mất tối đa 3 tiếng \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 3/three \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 371,
+          "endTimeInSeconds": 386,
+          "transcripts": [
+           {
+            "id": "36/371635-374946",
+            "startTimeInSeconds": 371,
+            "endTimeInSeconds": 374,
+            "text": " By the way, how long would it take for the service?",
+            "character": {
+             "id": "hD5fNdPk6jTZbSasXzSGn",
+             "name": "CUSTOMER"
+            }
+           },
+           {
+            "id": "37/374946-386156",
+            "startTimeInSeconds": 374,
+            "endTimeInSeconds": 386,
+            "text": " We usually work 1-3 hours for house cleaning, and the work will take three hours at most. And of course, if it takes more than three hours, you should pay extra for it.",
+            "character": {
+             "id": "eRLunlpM3fXa1HPu6U784",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "three/3",
+         "blankId": "HRkFXxmJITu5ZV3uXqI8Q"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "OYIHbc9_-RE2Jzsx2sCm_",
+         "editorValue": "[{\"children\":[{\"text\":\"The agent’s address is 12 \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Uj50wR-EQuyRSkqAjBeh6\"},{\"text\":\" Road.\"}]}]",
+         "blanks": [
+          {
+           "id": "Uj50wR-EQuyRSkqAjBeh6",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "dbZlKDfA_0QM6MCZBRUI7",
+         "editorValue": "[{\"children\":[{\"text\":\"Her house will get cleaned next\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YU5JLNdxmgnRdW5WKN-ef\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "YU5JLNdxmgnRdW5WKN-ef",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "fZfj5KObs3VHJ-Q2V2YpP",
+         "editorValue": "[{\"children\":[{\"text\":\"The maximum time of cleaning service is\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"HRkFXxmJITu5ZV3uXqI8Q\"},{\"text\":\" hours.\"}]}]",
+         "blanks": [
+          {
+           "id": "HRkFXxmJITu5ZV3uXqI8Q",
+           "key": 2
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Australian Quarantine Service",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "e0513f66-4ce8-11f0-9ca8-498c003d832b",
+     "questions": [
+      {
+       "uuid": "e0513f67-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "The main purpose of the service is to",
+       "options": [
+        {
+         "key": 0,
+         "value": "educate people."
+        },
+        {
+         "key": 1,
+         "value": "persuade people to fly."
+        },
+        {
+         "key": 2,
+         "value": "provide people with comfort."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"mục đích chính của service \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"We hope to \"},{\"text\":\"provide you with a better understanding\",\"bold\":true},{\"text\":\" [...] by \"},{\"text\":\"educating you \",\"bold\":true},{\"text\":\"on how we operate....\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chủ yếu muốn \"},{\"text\":\"cung cấp thông tin\",\"bold\":true},{\"text\":\" (educate) \\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 60,
+          "endTimeInSeconds": 81,
+          "transcripts": [
+           {
+            "id": "0/60806-81013",
+            "startTimeInSeconds": 60,
+            "endTimeInSeconds": 81,
+            "text": "Hi everyone, and welcome to Sydney Airport. Today, I’ll be giving you the inside information on the day-to-day operations of the Australian Quarantine Service here. We hope to provide you with a better understanding of why such heavy security regulations are necessary by educating you on how we operate and why we do the things we do."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e0516678-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "The number of people working at Sydney Airport is",
+       "options": [
+        {
+         "key": 0,
+         "value": "200"
+        },
+        {
+         "key": 1,
+         "value": "360"
+        },
+        {
+         "key": 2,
+         "value": "440"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe về \",\"marks\":[]},{\"text\":\"số người làm việc ở Sydney Airport\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"how many people work at Sydney Airport\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"200 \",\"bold\":true},{\"text\":\"alone working in \"},{\"text\":\"Terminal 2\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đừng chọn vội\"},{\"text\":\" 200\",\"bold\":true},{\"text\":\" vì đó \"},{\"text\":\"chỉ là nhân viên ở Terminal 2,\",\"bold\":true},{\"text\":\" chưa phải toàn airport\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Họ lại tiếp tục nói \\\"so \"},{\"text\":\"can you guess how many in the whole airport\",\"bold\":true},{\"text\":\"? \\\" và \\\" I heard someone say \"},{\"text\":\"360\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"360 vẫn là thông tin đánh lừa\",\"bold\":true},{\"text\":\", 'getting closer' là gần đúng thôi\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\"Cuối cùng nghe \\\"Sydney Airport actually \"},{\"text\":\"employs 440 people\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 81,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "1/81013-94653",
+            "startTimeInSeconds": 81,
+            "endTimeInSeconds": 94,
+            "text": "We’re not here to try to persuade you to fly through Sydney Airport, though we hope you’ll find your experience relatively stress-free and comfortable. First things first, our personnel. Can anyone guess how many people work at Sydney Airport?"
+           },
+           {
+            "id": "2/94653-105624",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 105,
+            "text": "We have 200 alone working in Terminal 2, so can you guess how many in the whole airport? I heard someone say 360, that’s getting closer..."
+           },
+           {
+            "id": "3/105624-120613",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 120,
+            "text": "What? Did someone say 2,000? That’s way too high. Sydney Airport actually employs 440 people. A lot, right? And about half of those employees work in security-related matters.."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e0516679-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "Dogs are chosen according to",
+       "options": [
+        {
+         "key": 0,
+         "value": "their ability to stay calm."
+        },
+        {
+         "key": 1,
+         "value": "their friendliness."
+        },
+        {
+         "key": 2,
+         "value": "their skill at locating narcotics."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"các chú chó được chọn dựa trên điều gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"not-so-human employees\",\"bold\":true},{\"text\":\"\\\", \\\"\"},{\"text\":\"Milton \",\"bold\":true},{\"text\":\"is our \"},{\"text\":\"best drug-sniffing dog\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"He’s \"},{\"text\":\"friendly\",\"bold\":true},{\"text\":\" to most people\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đừng chọn B ngay vì \"},{\"text\":\"chưa nghe confirm đó là lý do nó được chọn\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Tiếp theo nghe \\\"....Milton stays \"},{\"text\":\"quite calm\",\"bold\":true},{\"text\":\". This is the \"},{\"text\":\"precise reason he was chosen\",\"bold\":true},{\"text\":\" for the job.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó bạn nghe \\\"Dogs that are chosen are \"},{\"text\":\"not predisposed to sniff out different narcotics\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Những con chó được chọn\"},{\"text\":\" không có khuynh hướng đánh hơi các chất ma tuý \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án  C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 156,
+          "transcripts": [
+           {
+            "id": "4/120613-139819",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 139,
+            "text": "Moving on to our not-so-human employees, let’s come and see our favourite pooch, Milton. Milton is our best drug-sniffing dog on the force. He’s friendly to most people, you can even come pet him at the end of our tour. Burnouts beware, though, he’ll find everything."
+           },
+           {
+            "id": "5/139819-156343",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 156,
+            "text": "Notice that even though there are so many of us around him, Milton stays calm. This is the precise reason he was chosen for the job. Dogs that are chosen are not predisposed to sniff out different narcotics - that’s something we teach them already."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e051667a-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "The number of postal items processed last year amounted to",
+       "options": [
+        {
+         "key": 0,
+         "value": "4,400"
+        },
+        {
+         "key": 1,
+         "value": "52,000"
+        },
+        {
+         "key": 2,
+         "value": "72,000"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"cargo transport terminal\",\"bold\":true},{\"text\":\"\\\" (nhà ga vận chuyển hàng hóa) và \\\"\"},{\"text\":\"packages\",\"bold\":true},{\"text\":\" are shipped to and from\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe \\\"we ship around \"},{\"text\":\"4,400 packagesper month\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây chỉ là số liệu cho 1 tháng, câu hỏi là \\\"\"},{\"text\":\"last year\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"over \"},{\"text\":\"52,000 packages\",\"bold\":true},{\"text\":\" were shipped in and out \"},{\"text\":\"over the past year\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Tiếp đó bạn nghe \\\"it will go up to \"},{\"text\":\"over 72,000 packages this year.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là \"},{\"text\":\"số liệu dự kiến cho năm nay \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 156,
+          "endTimeInSeconds": 200,
+          "transcripts": [
+           {
+            "id": "6/156343-177191",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 177,
+            "text": "So here’s a part of the airport most people never notice - the cargo transport terminal. This is where packages are shipped to and from. Normally we ship around 4,400 packages per month. In this airport alone, over 52,000 packages were shipped in and out over the past year."
+           },
+           {
+            "id": "7/177191-200892",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 200,
+            "text": "We ship to and from 170 different countries. Not bad, eh? Probably it will go up to over 72,000 packages this year. And despite over 100 flights in and out of here daily, the number of lost or delayed packages is impressively low. If you send your package through here, rest assured we’ll get it where it's going."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e051667b-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "People carrying items that are not allowed",
+       "options": [
+        {
+         "key": 0,
+         "value": "will get arrested."
+        },
+        {
+         "key": 1,
+         "value": "will be refused on board."
+        },
+        {
+         "key": 2,
+         "value": "will be given a warning"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe đến \\\"carrying\"},{\"text\":\" items that are not allowed\",\"bold\":true},{\"text\":\"\\\" = \\\"\"},{\"text\":\"dan­gerous items\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" If you \"},{\"text\":\"attempt to pass any of the prohibited items\",\"bold\":true},{\"text\":\" \\\"you are \"},{\"text\":\"still allowed to board\",\"bold\":true},{\"text\":\" the plane\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dù mang các vật phẩm không được phép thì \"},{\"text\":\"vẫn được lên máy bay\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp \\\"but you’ll be \"},{\"text\":\"given a warning\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vẫn được phép lên máy bay, nhưng bạn \"},{\"text\":\"sẽ được cảnh báo\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 222,
+          "endTimeInSeconds": 243,
+          "transcripts": [
+           {
+            "id": "10/222753-243482",
+            "startTimeInSeconds": 222,
+            "endTimeInSeconds": 243,
+            "text": "During the security scan, your carry-on items will be checked for dangerous items such as weapons, sharp objects, and liquids that exceed our specified limit. If you attempt to pass any of the prohibited items on this list posted at the entrance, you are still allowed to board the plane, but you’ll be given a warning and your item will be confiscated."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e051667c-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "Which of the following is NOT allowed to be taken on the flight?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Carry-on items"
+        },
+        {
+         "key": 1,
+         "value": "Plant seeds"
+        },
+        {
+         "key": 2,
+         "value": "Parcels"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"We \"},{\"text\":\"prohibit the transportation\",\"bold\":true},{\"text\":\"\\\" (cấm vận chuyển) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"prohibit the transportation of \"},{\"text\":\"local vegetation\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không có trong đáp án \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley11\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"prohibit \"},{\"text\":\"par­celscontaining any insects\",\"bold\":true},{\"text\":\" in them\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> 1 số bạn chọn ngay C vì thấy có \\\"\"},{\"text\":\"par­cels\",\"bold\":true},{\"text\":\"\\\" nhưng \\\"par­cels\\\" (bưu kiện) bị cấm\"},{\"text\":\" chỉ khi có côn trùng bên trong \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Cuối cùng nghe \\\"we must \"},{\"text\":\"prohibit \",\"bold\":true},{\"text\":\"the transport of any \"},{\"text\":\"fertile seeds\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cấm vận chuyển hạt giống \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 222,
+          "endTimeInSeconds": 243,
+          "transcripts": [
+           {
+            "id": "10/222753-243482",
+            "startTimeInSeconds": 222,
+            "endTimeInSeconds": 243,
+            "text": "During the security scan, your carry-on items will be checked for dangerous items such as weapons, sharp objects, and liquids that exceed our specified limit. If you attempt to pass any of the prohibited items on this list posted at the entrance, you are still allowed to board the plane, but you’ll be given a warning and your item will be confiscated."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e051667d-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the proper security protocol for a pocket knife found in a carry-on suitcase?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It is returned to the passenger after examination."
+        },
+        {
+         "key": 1,
+         "value": "It is thrown away in a safe receptacle."
+        },
+        {
+         "key": 2,
+         "value": "It is passed on to higher-level authorities."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \",\"marks\":[]},{\"text\":\"quy trình xử lý khi tìm thấy pocket knife trong hành lý là gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"If an illegal plant or simple\"},{\"text\":\" sharp object like a pocket knife\",\"bold\":true},{\"text\":\" is found, it is simply \"},{\"text\":\"disposed of in our biohazard waste containers\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Pocket knife sẽ được \",\"marks\":[]},{\"text\":\"bỏ vào thùng chứa vật phẩm nguy hiểm \",\"marks\":[],\"bold\":true},{\"text\":\"(container = receptacle) \",\"marks\":[]},{\"text\":\"\\n\",\"marks\":[],\"bold\":true},{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Đáp án là B \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tiếp thấy \\\"...\",\"marks\":[]},{\"text\":\"and the \"},{\"text\":\"package itself is returned to the sender\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\",\"marks\":[]},{\"text\":\" Thứ được return là package\",\"marks\":[],\"bold\":true},{\"text\":\", chứ không phải pocket knife\\n=> \",\"marks\":[]},{\"text\":\"Loại đáp án A \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng\"},{\"text\":\" \\\"More serious weapons\",\"bold\":true},{\"text\":\" are \"},{\"text\":\"reported to higher authorities\",\"bold\":true},{\"text\":\" for investigation\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ báo lên higher authorities nếu \",\"marks\":[]},{\"text\":\"vũ khí nguy hiểm hơn, pocket knife thì không cần\\n=> Loại đáp án C \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 252,
+          "endTimeInSeconds": 285,
+          "transcripts": [
+           {
+            "id": "12/252203-269372",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 269,
+            "text": "We prohibit the transportation of local vegetation and prohibit parcels containing any insects in them. You may or may not have learned about this in Biology class, but when some plants are introduced to a new environment, they spread wildly and wipe out the current species around it."
+           },
+           {
+            "id": "13/269372-285931",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 285,
+            "text": "It is important to control the introduction of new plants into an ecosystem, so we must prohibit the transport of any fertile seeds. So what happens to parcels containing possibly suspicious items? It’s of course something we do not take lightly here."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    },
+    {
+     "id": "e051667e-4ce8-11f0-9ca8-498c003d832b",
+     "questions": [
+      {
+       "uuid": "e051667f-4ce8-11f0-9ca8-498c003d832b",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là  \"},{\"text\":\"vật liệu hợp lệ để đóng gói hàng hóa ở Úc\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc tới \\\"parcel security\\\" (an ninh bưu kiện) và \\\"\"},{\"text\":\"material of the parcel\",\"bold\":true},{\"text\":\"\\\" (vật liệu của bưu kiện) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"For shipped goods, \"},{\"text\":\"the most common material used (and the most widely accepted) is paper\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Vật liệu hợp lệ là giấy \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: paper \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 347,
+          "endTimeInSeconds": 366,
+          "transcripts": [
+           {
+            "id": "16/347070-366684",
+            "startTimeInSeconds": 347,
+            "endTimeInSeconds": 366,
+            "text": "As far as parcel security, the material of the parcel is important. For shipped goods, the most common material used (and the most widely accepted) is paper. Make sure it is packed sturdy enough, with no rips or tears. We’ve definitely had packages rip open before due to haphazard packing. "
+           }
+          ]
+         },
+         "value": "paper",
+         "blankId": "XqD_YFZ7wF_sRqRkGbkWB"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"lí do các đồ đạc thường bị từ chối là gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe được là \\\"\"},{\"text\":\"common problem\",\"bold\":true},{\"text\":\", though, is the \"},{\"text\":\"package labels\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Vấn đề chung là nhãn gói\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, để chắc chắn hơn mình nghe tiếp \\\"The \"},{\"text\":\"label may not be in the right place or marked clearly enough\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Label có thể \"},{\"text\":\"không ở nơi chính xác \",\"bold\":true},{\"text\":\"hoặc \"},{\"text\":\"không được đánh dấu rõ\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: package labels \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"ICON\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 347,
+          "endTimeInSeconds": 379,
+          "transcripts": [
+           {
+            "id": "16/347070-366684",
+            "startTimeInSeconds": 347,
+            "endTimeInSeconds": 366,
+            "text": "As far as parcel security, the material of the parcel is important. For shipped goods, the most common material used (and the most widely accepted) is paper. Make sure it is packed sturdy enough, with no rips or tears. We’ve definitely had packages rip open before due to haphazard packing. "
+           },
+           {
+            "id": "17/366684-379350",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 379,
+            "text": "A more common problem, though, is the package labels. When an item does not make it to the right place, this is the most common reason. The label may not be in the right place or marked clearly enough."
+           }
+          ]
+         },
+         "value": "package labels",
+         "blankId": "lPnG5Dz2IyqJ1JCyNw_VF"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"khoảng thời gian hải quan Australia phải được thông báo trước khi hàng hóa đến\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"any\"},{\"text\":\" items from abroad\",\"bold\":true},{\"text\":\" that must be \"},{\"text\":\"declared\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"guidelines\",\"bold\":true},{\"text\":\" in order to ensure the \"},{\"text\":\"timely delivery\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Liên quan đến vận chuyển hàng hóa tới hải quan \\n=> Đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"we ask that you \"},{\"text\":\"notify customs between 2 and 10 days \",\"bold\":true},{\"text\":\"within the item’s scheduled arrival date\"},{\"text\":\".\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phải báo hải quan \"},{\"text\":\"từ 2-10 ngày trước khi hàng đến \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: 2 to 10/two to ten \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 379,
+          "endTimeInSeconds": 396,
+          "transcripts": [
+           {
+            "id": "18/379350-396697",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 396,
+            "text": "If you’re receiving any items from abroad that must be declared, please remember our guidelines in order to ensure the timely delivery of your item. Make sure it is packed correctly, and we ask that you notify customs between 2 and 10 days within the item’s scheduled arrival date."
+           }
+          ]
+         },
+         "value": "2 to 10/two to ten",
+         "blankId": "K0-RGqy3vBEXyHjWv1rTj"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "9--TdoH2OhC1Sa51-_Q5i",
+         "editorValue": "[{\"children\":[{\"text\":\"The acceptable material for packing goods in Australia is \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"XqD_YFZ7wF_sRqRkGbkWB\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "XqD_YFZ7wF_sRqRkGbkWB",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "Yw7B0nlPUBcptECcAmfTA",
+         "editorValue": "[{\"children\":[{\"text\":\"The belongings most of time are refused due to problems with the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"lPnG5Dz2IyqJ1JCyNw_VF\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "lPnG5Dz2IyqJ1JCyNw_VF",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "J06UMswz_HphygEARV3-j",
+         "editorValue": "[{\"children\":[{\"text\":\"The customs must be given notice of the goods from \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"K0-RGqy3vBEXyHjWv1rTj\"},{\"text\":\" days before it arrives in Australia.\"}]}]",
+         "blanks": [
+          {
+           "id": "K0-RGqy3vBEXyHjWv1rTj",
+           "key": 2
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "How To Use Library's Facilities",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "463df695-75bc-11ec-b739-c9fb64403285",
+     "questions": [
+      {
+       "uuid": "itpKzB0fsHrTpNrsD9H-L",
+       "type": "DRAG_IN",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/d1b343da-10c1-446e-82c1-10b2034c92ed.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/d1b343da-10c1-446e-82c1-10b2034c92ed.png",
+        "name": "AT1_L6_P3_how to use library's facilities_NoOpt.png",
+        "uploadedDate": "2021-11-02T03:53:10.793+0000",
+        "size": 27027,
+        "width": 375,
+        "height": 405
+       },
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ban đầu bạn sẽ nghe \\\"Now, \"},{\"text\":\"we’re at the gate of the library\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn sẽ xác định được vị trí mình đang đứng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\"Sau đó sẽ lần lượt đi qua các vị trí \\\"\"},{\"text\":\"restrooms\",\"bold\":true},{\"text\":\"\\\", \\\"\"},{\"text\":\"Photocopy Room\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"Circulation Desk\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Gần như đã đi lược qua hết các vị trí có sẵn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe vị trí \\\"The Reading Room is a really large area\"},{\"text\":\" in the centre of the library, \",\"bold\":true},{\"text\":\"just \"},{\"text\":\"to the north of the\",\"bold\":true},{\"text\":\" \"},{\"text\":\"Circulation Desk \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nằm ở \",\"marks\":[]},{\"text\":\"trung tâm thư viện\",\"marks\":[],\"bold\":true},{\"text\":\", về \",\"marks\":[]},{\"text\":\"phía bắc của Circulation Desk\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 86,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "1/86772-109935",
+            "startTimeInSeconds": 86,
+            "endTimeInSeconds": 109,
+            "text": "<v MR. SMITH> Now, we’re at the gate of the library. Upon entering into the door, you’ll find that the restrooms are on your left-hand side, and opposite them is a Photocopy Room. Many of you are wondering about the check-in and check-out process. What you have to do is go to the Circulation Desk, which is to the east of the Photocopy Room."
+           },
+           {
+            "id": "2/109935-124904",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 124,
+            "text": "<v MR. SMITH> The Reading Room is a really large area in the centre of the library, just to the north of the Circulation Desk. I’m sure you won’t miss it. If you’re here to do research, this is where you should bring books to look through."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" Moving on to the \"},{\"text\":\"southeast corner\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Từ \\\"\"},{\"text\":\"Reading room\",\"bold\":true},{\"text\":\"\\\" di chuyển về \"},{\"text\":\"góc hướng tây nam\",\"bold\":true},{\"text\":\" (vị trí số 22) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"we have the \"},{\"text\":\"Periodicals Section, \",\"bold\":true},{\"text\":\"just \"},{\"text\":\"next to the study rooms\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 163,
+          "transcripts": [
+           {
+            "id": "4/137393-163667",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 163,
+            "text": "<v MR. SMITH> Moving on to the southeast corner, we have the Periodicals Section, just next to the study rooms. We have a collection of different newspapers and magazines in this section. You can get last week’s weather reports, or all the top stories five years ago - our periodicals can be traced back 20 years to the time when our school library was built. Ah, our first question! Yes?"
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy \\\"The Food Service Centre is just \"},{\"text\":\"metres away from the study rooms\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Gần 'study rooms' \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Vị trí 23 \",\"bold\":true},{\"text\":\"rất thích hợp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó bạn nghe confirm vị trí \\\"on the \"},{\"text\":\"northeast corner\",\"bold\":true},{\"text\":\"\\\" (ở góc đông bắc) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 182,
+          "endTimeInSeconds": 196,
+          "transcripts": [
+           {
+            "id": "8/182603-196779",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 196,
+            "text": "<v MR. SMITH> Of course. The Food Service Centre is just metres away from the study rooms. It’s on the northeast corner as you look at the map. The Food Service Centre offers different kinds of snacks though it’s not big."
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe hướng dẫn \\\"moving on \"},{\"text\":\"along to the west\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đi về hướng Tây \",\"bold\":true},{\"text\":\"\\n=> Đúng hướng\"},{\"text\":\" \",\"bold\":true},{\"text\":\"từ 23 sang 24 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"you will find the \"},{\"text\":\"Video Resource Centre\",\"bold\":true},{\"text\":\" on your right hand\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 196,
+          "endTimeInSeconds": 222,
+          "transcripts": [
+           {
+            "id": "9/196779-222223",
+            "startTimeInSeconds": 196,
+            "endTimeInSeconds": 222,
+            "text": "<v MR. SMITH> Well, moving on along to the west, you will Find the Video Resource Centre on your right hand. We have educational videos and documentaries, as well as major motion pictures. We ask that you pay attention to the tag on the video that you pick up, as many of our documentaries are for on-site viewing only and may not be taken out of the library."
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"To the west of the \"},{\"text\":\"Video Resource Centre\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng với hướng di chuyển từ 24 sang 25 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"is our\"},{\"text\":\" Satellite TV Station\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 222,
+          "endTimeInSeconds": 231,
+          "transcripts": [
+           {
+            "id": "10/222223-231858",
+            "startTimeInSeconds": 222,
+            "endTimeInSeconds": 231,
+            "text": "<v MR. SMITH> To the west of the Video Resource Centre is our Satellite TV Station. Here we stream the news from Channel 19 for most of the day."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Biết đáp án sắp vào khi nghe nhắc tới \\\"\"},{\"text\":\"Enquiry Desk\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe để\"},{\"text\":\" confirm vị trí \",\"bold\":true},{\"text\":\"xem có chắc là \"},{\"text\":\"26\",\"bold\":true},{\"text\":\" không \\\"It's just \"},{\"text\":\"on the left-hand side when you walk into the library\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ngay \"},{\"text\":\"bên trái khi bước vào thư viện \",\"bold\":true},{\"text\":\"\\n=> Đúng vị trí 26 \\n=> \"},{\"text\":\"Chọn đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 253,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "13/253299-274581",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 274,
+            "text": "<v MR. SMITH> Last but perhaps most important is the Enquiry Desk. It's just on the left-hand side when you walk into the library, so it’s impossible to miss it. If you have any questions about how to use equipment or where to find something, come and ask the assistant. Don’t be shy, because that’s what they’re here for!"
+           }
+          ]
+         }
+        }
+       ],
+       "questions": [
+        {
+         "text": "1",
+         "id": "GTvINwiMW8oQvNy1LVnXt",
+         "x": 163,
+         "y": 153
+        },
+        {
+         "text": "2",
+         "id": "nL8wxeSjEqNMNKh4DtyMz",
+         "x": 331,
+         "y": 192
+        },
+        {
+         "text": "3",
+         "id": "XwYgebKaKJzpKNtDWdQi9",
+         "x": 246,
+         "y": 14
+        },
+        {
+         "text": "4",
+         "id": "dAv4hoCnefpLC8koDLeUW",
+         "x": 132,
+         "y": 13
+        },
+        {
+         "text": "5",
+         "id": "EmvNVEJVlE5KABM8A5b55",
+         "x": 33,
+         "y": 14
+        },
+        {
+         "text": "6",
+         "id": "LelaT1rJaEcR9mjnGTk4B",
+         "x": -28,
+         "y": 173
+        }
+       ],
+       "options": [
+        "Video Resource Centre",
+        "Reading Room",
+        "Food Service Centre",
+        "Periodicals Section",
+        "Enquiry Desk",
+        "Satellite TV Station"
+       ]
+      }
+     ],
+     "questionType": "DRAG_IN",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the box."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the box."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "463e1da6-75bc-11ec-b739-c9fb64403285",
+     "questions": [
+      {
+       "uuid": "463e1da7-75bc-11ec-b739-c9fb64403285",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Từ cần điền là\"},{\"text\":\" tính từ\",\"bold\":true},{\"text\":\", chỉ\"},{\"text\":\" tính chất của 'check-out cards'\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"look for the \"},{\"text\":\"pink and yellow check-out card\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án có thể là \",\"marks\":[]},{\"text\":\"\\\"pink and yellow\\\"\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe confirm thêm \\\"You can also \"},{\"text\":\"find information about the book\",\"bold\":true},{\"text\":\" on these cards\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"xem pink and yellow check-out card để biết thông tin về sách\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án: pink and yellow \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 344,
+          "transcripts": [
+           {
+            "id": "14/308823-324396",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 324,
+            "text": "<v MR. SMITH> Speaking of questions, one of the questions we get asked is how to actually check out a book once a student has picked one out. If it’s a fiction or non-fiction book, look for the pink and yellow check-out card inside the back cover of the book."
+           },
+           {
+            "id": "15/324396-344359",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 344,
+            "text": "<v MR. SMITH> You can also find information about the book on these cards, including its publishing date, genre, ISBN, and a log of dates it’s been checked out before. Present this card to me or any library assistant, and we’ll stamp it and then the book can be kept for three weeks."
+           }
+          ]
+         },
+         "value": "pink and yellow",
+         "blankId": "_OS6nm5YTt5J5TNYyCL8j"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"dùng guides gì nếu muốn tìm thông tin về một lĩnh vực nhất định\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"You can find general \"},{\"text\":\"information on a field\",\"bold\":true},{\"text\":\" of study by \"},{\"text\":\"using one of our subject guides\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"dùng subject guides\",\"bold\":true},{\"text\":\" để tìm thông tin về một lĩnh vực nào đó\\n=> \"},{\"text\":\"Đáp án: subject \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 344,
+          "endTimeInSeconds": 357,
+          "transcripts": [
+           {
+            "id": "16/344359-357480",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 357,
+            "text": "<v MR. SMITH> You can find general information on a field of study by using one of our subject guides. We have them on paper here, but any of our computers will allow you to search within fields as well."
+           }
+          ]
+         },
+         "value": "subject",
+         "blankId": "Wr8j-3ohB5q54UE7diteU"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"máy tính ở đâu không có liên kết với network\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là  \\\"there are \"},{\"text\":\"universities\",\"bold\":true},{\"text\":\" which are \"},{\"text\":\"not part of the network\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có \"},{\"text\":\"1 số trường đại học\",\"bold\":true},{\"text\":\" không có liên kết với network \\n=> \"},{\"text\":\"Đáp án: universities \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 360,
+          "endTimeInSeconds": 392,
+          "transcripts": [
+           {
+            "id": "18/360973-376188",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 376,
+            "text": "<v MR. SMITH> Great question, I’m going to address that. Our library is in a network with a number of other universities in the area, so if there is something you’re looking for and it’s available somewhere in the area, we’ll be able to get it for you."
+           },
+           {
+            "id": "19/376188-392817",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 392,
+            "text": "<v MR. SMITH> However, there are universities which are not part of the network, so we do not share resources with them. If you want more information about the library and its resources, you’ll find it in a labelled blue folder on my desk in the enquiry section."
+           }
+          ]
+         },
+         "value": "universities",
+         "blankId": "9K0jG2spB216xwd8agwb3"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" vật gì được để trên bàn có thể cung cấp thêm thông tin \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"If you \"},{\"text\":\"want more information\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"you’ll find it in \"},{\"text\":\"a labelled blue folder on my desk\",\"bold\":true},{\"text\":\" in the enquiry section.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một\"},{\"text\":\" thư mục màu xanh có dãn nhán đặt trên bàn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: labelled blue folder \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 376,
+          "endTimeInSeconds": 392,
+          "transcripts": [
+           {
+            "id": "19/376188-392817",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 392,
+            "text": "<v MR. SMITH> However, there are universities which are not part of the network, so we do not share resources with them. If you want more information about the library and its resources, you’ll find it in a labelled blue folder on my desk in the enquiry section."
+           }
+          ]
+         },
+         "value": "labelled blue folder/blue folder",
+         "blankId": "lZDiHe84RC6PlMKv_Obos"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "fHePGk5OK3JHp8mqS8xtD",
+         "editorValue": "[{\"children\":[{\"text\":\"If you need to find information on a certain book, you can use \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"_OS6nm5YTt5J5TNYyCL8j\"},{\"text\":\" check-out cards.\"}]}]",
+         "blanks": [
+          {
+           "id": "_OS6nm5YTt5J5TNYyCL8j",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "nnEuKJfeAiiCVjy1E2Q4C",
+         "editorValue": "[{\"children\":[{\"text\":\"If you want to find information in a specific field, use the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Wr8j-3ohB5q54UE7diteU\"},{\"text\":\" guides.\"}]}]",
+         "blanks": [
+          {
+           "id": "Wr8j-3ohB5q54UE7diteU",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "PDUar4Sjwe9oL-uOP_OxS",
+         "editorValue": "[{\"children\":[{\"text\":\"Computers in some\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"9K0jG2spB216xwd8agwb3\"},{\"text\":\" cannot be linked to the network.\"}]}]",
+         "blanks": [
+          {
+           "id": "9K0jG2spB216xwd8agwb3",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "jTIGdWCobdgH26LStzNV2",
+         "editorValue": "[{\"children\":[{\"text\":\"You can find more information in a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"lZDiHe84RC6PlMKv_Obos\"},{\"text\":\" on my desk.\"}]}]",
+         "blanks": [
+          {
+           "id": "lZDiHe84RC6PlMKv_Obos",
+           "key": 3
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Study Of Crocodylus Niloticus",
+   "duration": 9,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "e9a72764-75bc-11ec-bcaa-15bbe29236a5",
+     "questions": [
+      {
+       "uuid": "e9a72765-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SINGLE_ANSWER",
+       "question": "The student thought there were no crocodiles in Northern Africa because",
+       "options": [
+        {
+         "key": 0,
+         "value": "North Africa contains very little wildlife for the crocodile to prey on."
+        },
+        {
+         "key": 1,
+         "value": "she found no mention in the literature of their existence there."
+        },
+        {
+         "key": 2,
+         "value": "there is very little water in North Africa."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \",\"marks\":[]},{\"text\":\"vì sao học sinh nghĩ không có cá sấu ở Northern Africa \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"This \"},{\"text\":\"student\",\"bold\":true},{\"text\":\" noticed that...there were \"},{\"text\":\"no crocodiles in the Northern Region\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe lý do \\\"\"},{\"text\":\"found no mention\",\"bold\":true},{\"text\":\" in the literature of the \"},{\"text\":\"existence of crocodiles\",\"bold\":true},{\"text\":\" in the North of Africa\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lý do là vì \"},{\"text\":\"không thấy đề cập về sự tồn tại\",\"bold\":true},{\"text\":\" của cá sấu ở Northern Africa \\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 100,
+          "endTimeInSeconds": 137,
+          "transcripts": [
+           {
+            "id": "2/100740-115653",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 115,
+            "text": "To start, I’d like to address a great question posed to me by a student during yesterday's office hours. We talked about the distribution of crocodiles in Africa and saw that they are highly concentrated in the South and West of the continent."
+           },
+           {
+            "id": "3/115653-137261",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 137,
+            "text": "This student noticed that on the map displaying the distribution of crocodiles across Africa, there were no crocodiles in the Northern Region, and found no mention in the literature of the existence of crocodiles in the North of Africa. Why might there be no crocodiles in North Africa? Let’s save this question for later in the lecture."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e9a72766-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SINGLE_ANSWER",
+       "question": "Generally, crocodiles live in groups of about",
+       "options": [
+        {
+         "key": 0,
+         "value": "20"
+        },
+        {
+         "key": 1,
+         "value": "38"
+        },
+        {
+         "key": 2,
+         "value": "46"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \",\"marks\":[]},{\"text\":\"cá sấu thường sống theo bầy bao nhiêu con \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe thấy \\\"\"},{\"text\":\"46 crocodiles\",\"bold\":true},{\"text\":\" living in one group\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau khi thực hiện nghiên cứu họ thấy \"},{\"text\":\"có 46 con trong 1 nhóm\",\"bold\":true},{\"text\":\"\\n=> Có thể là đáp án \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nhưng tiếp theo bạn nghe \\\"\"},{\"text\":\"though\",\"bold\":true},{\"text\":\" the \"},{\"text\":\"usual number\",\"bold\":true},{\"text\":\" is a little \"},{\"text\":\"less than half of that\",\"bold\":true},{\"text\":\".\\\" (\"},{\"text\":\"usual\",\"bold\":true},{\"text\":\" = \"},{\"text\":\"Generally)\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tuy nhiên\"},{\"text\":\" thông thường\",\"bold\":true},{\"text\":\" thì \"},{\"text\":\"số lượng chỉ ở 1 nửa của 46 thôi\",\"bold\":true},{\"text\":\"\\n=> Tức khoảng\"},{\"text\":\" 20 con trong một bầy \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 162,
+          "transcripts": [
+           {
+            "id": "4/137261-162239",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 162,
+            "text": "To find out more about the social habits of the African crocodile, one researcher named Tara Shine of the University of Ulster in Northern Ireland conducted a survey of the wetlands in Mauritania and received reports of 46 crocodiles living in one group, or float as we say when referring to crocodiles, though the usual number is a little less than half of that."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e9a72767-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SINGLE_ANSWER",
+       "question": "African crocodiles usually live in areas with",
+       "options": [
+        {
+         "key": 0,
+         "value": "hot, dry climates."
+        },
+        {
+         "key": 1,
+         "value": "hot, wet rainforests. "
+        },
+        {
+         "key": 2,
+         "value": "warm, wet climates."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"khu vực mà cá sấu châu Phi thường sống\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy \\\"crocodiles are more highly \"},{\"text\":\"concentrated in wet, subtropical environments\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"wet, subtropical\",\"bold\":true},{\"text\":\" = \"},{\"text\":\"warm, wet \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 162,
+          "endTimeInSeconds": 179,
+          "transcripts": [
+           {
+            "id": "5/162239-179873",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 179,
+            "text": "In general, crocodiles are more highly concentrated in wet, subtropical environments near bodies of water and rich vegetation. While South American crocodiles thrive in cool rainforests, the African crocodile is more equipped for heat."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e9a74e78-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SINGLE_ANSWER",
+       "question": "Crocodiles in dry areas live in caves located",
+       "options": [
+        {
+         "key": 0,
+         "value": "underground."
+        },
+        {
+         "key": 1,
+         "value": "in mountainsides. "
+        },
+        {
+         "key": 2,
+         "value": "underwater."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"hang động mà cá sấu hay thường sống ở đâu\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình nghe thấy \\\"some African crocodiles have made dens by \"},{\"text\":\"digging holes in the ground\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một số cá sấu châu Phi \"},{\"text\":\"đã làm ổ bằng cách đào hố dưới đất\",\"bold\":true},{\"text\":\"  (holes = caves) \\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 179,
+          "endTimeInSeconds": 226,
+          "transcripts": [
+           {
+            "id": "6/179873-204719",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 204,
+            "text": "Though they can survive at the hot temperatures found in some deserts, they are not equipped to handle dry climates and thus cannot survive in places like the Sahara Desert of North Africa. As cold-blooded animals, crocodiles’ core temperatures fluctuate from their average of 38 degrees Celsius as external conditions change, thus they need to avoid extreme temperatures."
+           },
+           {
+            "id": "7/204719-226670",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 226,
+            "text": "Others live an underwater life, keeping a body temperature close to that of the water. As their own unique method of regulating their body temperatures, some African crocodiles have made dens by digging holes in the ground to provide themselves with a cool, dark place to retreat from the hot African sun."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e9a74e79-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SINGLE_ANSWER",
+       "question": "What change caused changes in crocodile populations in North Africa?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They were driven away by a fierce predator."
+        },
+        {
+         "key": 1,
+         "value": "Crocodiles evolved from desert creatures to wetland creatures."
+        },
+        {
+         "key": 2,
+         "value": "North Africa used to be wetland but slowly turned to desert over time."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \"},{\"text\":\"migration \",\"bold\":true},{\"text\":\"(sự di cư) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Liên quan đén \\\"\"},{\"text\":\"changes in crocodile populations\",\"bold\":true},{\"text\":\" in North Africa\\\" \\n=> Biết đáp án sắp vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"the area \"},{\"text\":\"dried out and the wetland slowly turned to desert, leading the African crocodile to migrate south\",\"bold\":true},{\"text\":\" to the marshlands they call home today.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>  Cá sấu di cư về phía Nam\"},{\"text\":\" vì North Africa dần trở thành sa mạc \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 266,
+          "endTimeInSeconds": 290,
+          "transcripts": [
+           {
+            "id": "11/266141-290256",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 290,
+            "text": "The key to this migration is that the Sahara Desert did not always cover the North of Africa. About 8,000 years ago, the land was fertile wetlands perfect for breeding crocodiles. Over time, though, the area dried out and the wetland slowly turned to desert, leading the African crocodile to migrate south to the marshlands they call home today."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, ",
+          "bold": true
+         },
+         {
+          "text": "or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "e9a74e7a-75bc-11ec-bcaa-15bbe29236a5",
+     "questions": [
+      {
+       "uuid": "e9a74e7b-75bc-11ec-bcaa-15bbe29236a5",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"dry periods kéo dài bao nhiêu tháng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"crocodiles did \"},{\"text\":\"adapt to living in dry conditions\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"some crocodiles have learned to survive in an area where they can \"},{\"text\":\"go up to 8 months\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dry periods\",\"bold\":true},{\"text\":\" nơi một số cá sấu sống\"},{\"text\":\" kéo dài đến 8 tháng\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 8 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 295,
+          "endTimeInSeconds": 313,
+          "transcripts": [
+           {
+            "id": "12/295047-313159",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 313,
+            "text": "Some crocodiles did, however, adapt to living in dry conditions. In Mauritania, some crocodiles have learned to survive in an area where they can go up to months with no water by spending the driest of times in what’s called a torpor, or short period of hibernation."
+           }
+          ]
+         },
+         "value": "8/eight",
+         "blankId": "yj_Hat-6kvi6f3dY5DVip"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" 60cm là kích thước gì của hố \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The female digs a hole up to 60cm \"},{\"text\":\"in depth\",\"bold\":true},{\"text\":\" to store the eggs\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cá sấu cái đào hố có chiều sâu 60cm để chứa trứng \\n=> \"},{\"text\":\"Đáp án: depth \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 338,
+          "endTimeInSeconds": 355,
+          "transcripts": [
+           {
+            "id": "15/338362-355137",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 355,
+            "text": "Afterwards, the female digs a hole up to 60cm in depth to store the eggs for an 80-day incubation period. The female protects these eggs during the period, and sometimes even helps crack the eggs with her snout at the end."
+           }
+          ]
+         },
+         "value": "depth",
+         "blankId": "qzpEQXp0wxLThzkLQP1QV"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"phản ứng của người dân địa phương với cá sấu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the \"},{\"text\":\"residents\",\"bold\":true},{\"text\":\" are \"},{\"text\":\"not afraid of them\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người dân địa phương\"},{\"text\":\" không sợ chúng \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: afraid of \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 355,
+          "endTimeInSeconds": 364,
+          "transcripts": [
+           {
+            "id": "16/355137-364981",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 364,
+            "text": "These teeth-gnashing carnivores are softer than we think. Although these vicious creatures have attacked humans on a few occasions, the residents are not afraid of them."
+           }
+          ]
+         },
+         "value": "afraid of",
+         "blankId": "9ItzbFYjsISZhvEkUig6t"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cá sấu làm gì khi con người chiếm nơi ở của nó\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"crocodiles do not predate on humans\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cá sấu \"},{\"text\":\"không ăn thịt người \",\"bold\":true},{\"text\":\"\\n=> Đang nói về\"},{\"text\":\" mối quan hệ giữa crocodiles và con người \",\"bold\":true},{\"text\":\"\\n=> Đáp án sắp vào\\n\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"They \"},{\"text\":\"attack\",\"bold\":true},{\"text\":\" \"},{\"text\":\"when humans populate the crocodiles' habitat\",\"bold\":true},{\"text\":\", instilling fear and uneasi­ness in the crocs\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Chúng tấn công khi con người xâm nhập vào môi trường sống của cá sấu\",\"bold\":true},{\"text\":\", gieo rắc nỗi sợ hãi và bất an cho cá sấu \\n=> \"},{\"text\":\"Đáp án: attack \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 383,
+          "endTimeInSeconds": 398,
+          "transcripts": [
+           {
+            "id": "18/383248-398250",
+            "startTimeInSeconds": 383,
+            "endTimeInSeconds": 398,
+            "text": "Generally, crocodiles do not predate on humans. They attack when humans populate the crocodiles' habitat, instilling fear and uneasiness in the crocs. Like any other species, crocodiles are known to attack when feeling fear."
+           }
+          ]
+         },
+         "value": "attack",
+         "blankId": "O38U5u6ouJr4CKmV4yuDn"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" vấn đề mà các nhà nghiên cứu muốn tìm hiểu thêm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Researchers want to\"},{\"text\":\" know more about the population size\",\"bold\":true},{\"text\":\"\\\" (item đề cho sẵn, tới trước đáp án) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"There is still also much to learn about \"},{\"text\":\"migration patterns\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"relations to other populations crocodiles\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vẫn còn nhiều điều để tìm hiểu về\"},{\"text\":\" xu hướng di cư\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" mối quan hệ với các quần thể cá sấu khác \",\"bold\":true},{\"text\":\"\\n=> Cụm \\\"\"},{\"text\":\"relations to other populations of crocodiles\",\"bold\":true},{\"text\":\"\\\" đã có trên đề \\n=>\"},{\"text\":\" Đáp án: migration patterns \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 398,
+          "endTimeInSeconds": 426,
+          "transcripts": [
+           {
+            "id": "19/398250-411717",
+            "startTimeInSeconds": 398,
+            "endTimeInSeconds": 411,
+            "text": "There's still a lot more to be discovered about the African crocodile. Researchers want to know more about the population size, how many crocodiles inhabit Africa in all, how they form separate floats, etc."
+           },
+           {
+            "id": "20/411717-426892",
+            "startTimeInSeconds": 411,
+            "endTimeInSeconds": 426,
+            "text": "There is still also much to learn about migration patterns, and relations to other populations of crocodiles now found in other parts of the world. Next time, we'll examine a few specific case studies of crocodile populations in Southern Africa."
+           }
+          ]
+         },
+         "value": "migration patterns",
+         "blankId": "LXZ0lia1ctOPsLtm2ffQi"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "_3_JotMbOas_EYGXAv80t",
+         "editorValue": "[{\"children\":[{\"text\":\"Desert crocodiles sometimes live in places with dry periods that last up to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"yj_Hat-6kvi6f3dY5DVip\"},{\"text\":\" months.\"}]}]",
+         "blanks": [
+          {
+           "id": "yj_Hat-6kvi6f3dY5DVip",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "iDTr0EKqXtChihTanwGSh",
+         "editorValue": "[{\"children\":[{\"text\":\"A hole dug by a female crocodile in which to lay eggs can have a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qzpEQXp0wxLThzkLQP1QV\"},{\"text\":\" of up to 60cm.\"}]}]",
+         "blanks": [
+          {
+           "id": "qzpEQXp0wxLThzkLQP1QV",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "1jOLkYsBpMVCSRcy3IIpF",
+         "editorValue": "[{\"children\":[{\"text\":\"Local people are not\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"9ItzbFYjsISZhvEkUig6t\"},{\"text\":\" crocodiles.\"}]}]",
+         "blanks": [
+          {
+           "id": "9ItzbFYjsISZhvEkUig6t",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "5scXmchVt8yIC0FocHBS9",
+         "editorValue": "[{\"children\":[{\"text\":\"Crocodiles\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"O38U5u6ouJr4CKmV4yuDn\"},{\"text\":\" out of fear when humans populate their habitat.\"}]}]",
+         "blanks": [
+          {
+           "id": "O38U5u6ouJr4CKmV4yuDn",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "YGk7oHw3IDmAGhX393pCd",
+         "editorValue": "[{\"children\":[{\"text\":\"Researchers want to study more about population size,\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"LXZ0lia1ctOPsLtm2ffQi\"},{\"text\":\" , and relations to other populations of crocodiles.\"}]}]",
+         "blanks": [
+          {
+           "id": "LXZ0lia1ctOPsLtm2ffQi",
+           "key": 4
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:04Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

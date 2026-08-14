@@ -1,0 +1,871 @@
+[2026-07-11 16:47:33]
+[2026-07-11 16:47:33] === DOL listening downloader starting ===
+[2026-07-11 16:47:33] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:47:33] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:47:33] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:47:33] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only
+[2026-07-11 16:47:34] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 16:47:34] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 16:47:46]
+[2026-07-11 16:47:46] === DOL listening downloader starting ===
+[2026-07-11 16:47:46] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:47:46] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:47:47] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:47:47] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1
+[2026-07-11 16:47:49] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 16:48:39] ERROR:   failed: curl0:curl: (7) Failed to connect to tuhoc.dolenglish.vn port 443 via 127.0.0.1 after 2048 ms: Could not connect to server
+[2026-07-11 16:48:39] === DOL listening downloader failed ===
+[2026-07-11 16:49:46]
+[2026-07-11 16:49:46] === DOL listening downloader starting ===
+[2026-07-11 16:49:46] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:49:46] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:49:46] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:49:46] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1
+[2026-07-11 16:49:47] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:49:47] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 16:50:27]   failed: curl0:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl1:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl-resolve0:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl-resolve1:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i
+[2026-07-11 16:50:27] === DOL listening downloader finished with exit code 1 ===
+[2026-07-11 16:53:34]
+[2026-07-11 16:53:34] === DOL listening downloader starting ===
+[2026-07-11 16:53:34] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:53:34] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:53:34] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:53:34] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only --continue-on-error
+[2026-07-11 16:53:35] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:53:36] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 16:53:36] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 16:53:46]
+[2026-07-11 16:53:46] === DOL listening downloader starting ===
+[2026-07-11 16:53:46] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:53:46] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:53:47] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:53:47] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1 --continue-on-error
+[2026-07-11 16:53:47] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:53:47] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 16:54:27]   failed: curl0:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl1:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl-resolve0:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i; curl-resolve1:curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available i
+[2026-07-11 16:54:27] Stopped after --max-tests 1. Remaining: 97
+[2026-07-11 16:54:27] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 16:55:00]
+[2026-07-11 16:55:00] === DOL listening downloader starting ===
+[2026-07-11 16:55:00] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:55:00] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:55:00] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:55:00] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only --continue-on-error
+[2026-07-11 16:55:00] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:55:01] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 16:55:01] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 16:55:53]
+[2026-07-11 16:55:53] === DOL listening downloader starting ===
+[2026-07-11 16:55:53] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:55:53] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:55:53] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:55:53] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only --continue-on-error
+[2026-07-11 16:55:53] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:55:54] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 16:55:54] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 16:57:13]
+[2026-07-11 16:57:13] === DOL listening downloader starting ===
+[2026-07-11 16:57:13] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 16:57:13] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 16:57:13] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 16:57:13] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only --continue-on-error
+[2026-07-11 16:57:14] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 16:57:14] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 16:57:14] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 17:10:50]
+[2026-07-11 17:10:50] === DOL listening downloader starting ===
+[2026-07-11 17:10:51] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:10:51] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:10:51] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:10:51] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 17:10:52] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 17:11:12] Exception in thread Thread-1 (_readerthread):
+[2026-07-11 17:11:12] Traceback (most recent call last):
+[2026-07-11 17:11:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:11:12]     self.run()
+[2026-07-11 17:11:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:11:12]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:11:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:11:12]     buffer.append(fh.read())
+[2026-07-11 17:11:12]                   ^^^^^^^^^
+[2026-07-11 17:11:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:11:12]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:11:12]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:11:12] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:11:19] Exception in thread Thread-3 (_readerthread):
+[2026-07-11 17:11:19] Traceback (most recent call last):
+[2026-07-11 17:11:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:11:19]     self.run()
+[2026-07-11 17:11:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:11:19]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:11:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:11:19]     buffer.append(fh.read())
+[2026-07-11 17:11:19]                   ^^^^^^^^^
+[2026-07-11 17:11:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:11:19]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:11:19]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:11:19] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:11:25] Exception in thread Thread-5 (_readerthread):
+[2026-07-11 17:11:25] Traceback (most recent call last):
+[2026-07-11 17:11:25]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:11:25]     self.run()
+[2026-07-11 17:11:25]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:11:25]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:11:25]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:11:25]     buffer.append(fh.read())
+[2026-07-11 17:11:25]                   ^^^^^^^^^
+[2026-07-11 17:11:26]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:11:26]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:11:26]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:11:26] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:11:32] Exception in thread Thread-7 (_readerthread):
+[2026-07-11 17:11:32] Traceback (most recent call last):
+[2026-07-11 17:11:32]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:11:32]     self.run()
+[2026-07-11 17:11:32]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:11:32]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:11:32]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:11:32]     buffer.append(fh.read())
+[2026-07-11 17:11:32]                   ^^^^^^^^^
+[2026-07-11 17:11:32]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:11:33]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:11:33]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:11:33] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:11:37]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:11:37] [2] cam19-t2-listening - CAM IELTS 19 - Listening Test 2
+[2026-07-11 17:11:58] Exception in thread Thread-9 (_readerthread):
+[2026-07-11 17:11:58] Traceback (most recent call last):
+[2026-07-11 17:11:58]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:11:59]     self.run()
+[2026-07-11 17:11:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:11:59]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:11:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:11:59]     buffer.append(fh.read())
+[2026-07-11 17:11:59]                   ^^^^^^^^^
+[2026-07-11 17:11:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:11:59]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:11:59]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:11:59] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:05] Exception in thread Thread-11 (_readerthread):
+[2026-07-11 17:12:05] Traceback (most recent call last):
+[2026-07-11 17:12:05]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:05]     self.run()
+[2026-07-11 17:12:05]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:05]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:06]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:06]     buffer.append(fh.read())
+[2026-07-11 17:12:06]                   ^^^^^^^^^
+[2026-07-11 17:12:06]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:06]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:06]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:06] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:12] Exception in thread Thread-13 (_readerthread):
+[2026-07-11 17:12:12] Traceback (most recent call last):
+[2026-07-11 17:12:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:12]     self.run()
+[2026-07-11 17:12:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:12]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:12]     buffer.append(fh.read())
+[2026-07-11 17:12:12]                   ^^^^^^^^^
+[2026-07-11 17:12:12]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:12]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:12]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:12] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:19] Exception in thread Thread-15 (_readerthread):
+[2026-07-11 17:12:19] Traceback (most recent call last):
+[2026-07-11 17:12:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:19]     self.run()
+[2026-07-11 17:12:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:19]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:19]     buffer.append(fh.read())
+[2026-07-11 17:12:19]                   ^^^^^^^^^
+[2026-07-11 17:12:19]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:19]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:19]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:19] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:24]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:12:24] [3] cam19-t3-listening - CAM IELTS 19 - Listening Test 3
+[2026-07-11 17:12:44] Exception in thread Thread-17 (_readerthread):
+[2026-07-11 17:12:44] Traceback (most recent call last):
+[2026-07-11 17:12:44]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:44]     self.run()
+[2026-07-11 17:12:44]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:44]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:44]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:44]     buffer.append(fh.read())
+[2026-07-11 17:12:44]                   ^^^^^^^^^
+[2026-07-11 17:12:44]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:44]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:44]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:44] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:50] Exception in thread Thread-19 (_readerthread):
+[2026-07-11 17:12:50] Traceback (most recent call last):
+[2026-07-11 17:12:51]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:51]     self.run()
+[2026-07-11 17:12:51]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:51]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:51]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:51]     buffer.append(fh.read())
+[2026-07-11 17:12:51]                   ^^^^^^^^^
+[2026-07-11 17:12:51]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:51]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:51]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:51] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:12:57] Exception in thread Thread-21 (_readerthread):
+[2026-07-11 17:12:57] Traceback (most recent call last):
+[2026-07-11 17:12:57]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:12:57]     self.run()
+[2026-07-11 17:12:57]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:12:58]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:12:58]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:12:58]     buffer.append(fh.read())
+[2026-07-11 17:12:58]                   ^^^^^^^^^
+[2026-07-11 17:12:58]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:12:58]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:12:58]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:12:58] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:04] Exception in thread Thread-23 (_readerthread):
+[2026-07-11 17:13:04] Traceback (most recent call last):
+[2026-07-11 17:13:04]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:13:04]     self.run()
+[2026-07-11 17:13:04]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:13:04]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:13:04]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:13:04]     buffer.append(fh.read())
+[2026-07-11 17:13:04]                   ^^^^^^^^^
+[2026-07-11 17:13:05]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:13:05]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:13:05]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:13:05] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:09]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:13:09] [4] cam19-t4-listening - CAM IELTS 19 - Listening Test 4
+[2026-07-11 17:13:30] Exception in thread Thread-25 (_readerthread):
+[2026-07-11 17:13:30] Traceback (most recent call last):
+[2026-07-11 17:13:30]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:13:30]     self.run()
+[2026-07-11 17:13:30]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:13:30]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:13:30]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:13:30]     buffer.append(fh.read())
+[2026-07-11 17:13:30]                   ^^^^^^^^^
+[2026-07-11 17:13:30]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:13:30]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:13:30]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:13:30] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:36] Exception in thread Thread-27 (_readerthread):
+[2026-07-11 17:13:36] Traceback (most recent call last):
+[2026-07-11 17:13:36]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:13:36]     self.run()
+[2026-07-11 17:13:36]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:13:36]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:13:36]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:13:36]     buffer.append(fh.read())
+[2026-07-11 17:13:37]                   ^^^^^^^^^
+[2026-07-11 17:13:37]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:13:37]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:13:37]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:13:37] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:43] Exception in thread Thread-29 (_readerthread):
+[2026-07-11 17:13:43] Traceback (most recent call last):
+[2026-07-11 17:13:43]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:13:43]     self.run()
+[2026-07-11 17:13:43]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:13:43]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:13:43]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:13:43]     buffer.append(fh.read())
+[2026-07-11 17:13:43]                   ^^^^^^^^^
+[2026-07-11 17:13:43]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:13:43]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:13:43]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:13:43] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:50] Exception in thread Thread-31 (_readerthread):
+[2026-07-11 17:13:50] Traceback (most recent call last):
+[2026-07-11 17:13:50]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:13:50]     self.run()
+[2026-07-11 17:13:50]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:13:50]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:13:50]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:13:50]     buffer.append(fh.read())
+[2026-07-11 17:13:50]                   ^^^^^^^^^
+[2026-07-11 17:13:50]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:13:50]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:13:50]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:13:50] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:13:55]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:13:55] [5] cam18-t1-listening - CAM IELTS 18 - Listening Test 1
+[2026-07-11 17:14:15] Exception in thread Thread-33 (_readerthread):
+[2026-07-11 17:14:15] Traceback (most recent call last):
+[2026-07-11 17:14:15]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:14:15]     self.run()
+[2026-07-11 17:14:15]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:14:15]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:14:15]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:14:15]     buffer.append(fh.read())
+[2026-07-11 17:14:15]                   ^^^^^^^^^
+[2026-07-11 17:14:15]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:14:15]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:14:15]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:14:15] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:14:21] Exception in thread Thread-35 (_readerthread):
+[2026-07-11 17:14:21] Traceback (most recent call last):
+[2026-07-11 17:14:22]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:14:22]     self.run()
+[2026-07-11 17:14:22]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:14:22]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:14:22]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:14:22]     buffer.append(fh.read())
+[2026-07-11 17:14:22]                   ^^^^^^^^^
+[2026-07-11 17:14:22]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:14:22]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:14:22]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:14:22] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:14:28] Exception in thread Thread-37 (_readerthread):
+[2026-07-11 17:14:28] Traceback (most recent call last):
+[2026-07-11 17:14:28]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:14:28]     self.run()
+[2026-07-11 17:14:28]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:14:28]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:14:28]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:14:28]     buffer.append(fh.read())
+[2026-07-11 17:14:28]                   ^^^^^^^^^
+[2026-07-11 17:14:28]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:14:28]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:14:29]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:14:29] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:14:35] Exception in thread Thread-39 (_readerthread):
+[2026-07-11 17:14:35] Traceback (most recent call last):
+[2026-07-11 17:14:35]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:14:35]     self.run()
+[2026-07-11 17:14:35]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:14:35]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:14:35]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:14:35]     buffer.append(fh.read())
+[2026-07-11 17:14:35]                   ^^^^^^^^^
+[2026-07-11 17:14:35]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:14:35]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:14:35]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:14:35] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:14:40]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:14:40] [6] cam18-t2-listening - CAM IELTS 18 - Listening Test 2
+[2026-07-11 17:15:00] Exception in thread Thread-41 (_readerthread):
+[2026-07-11 17:15:00] Traceback (most recent call last):
+[2026-07-11 17:15:00]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:00]     self.run()
+[2026-07-11 17:15:00]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:00]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:01]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:01]     buffer.append(fh.read())
+[2026-07-11 17:15:01]                   ^^^^^^^^^
+[2026-07-11 17:15:01]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:01]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:01]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:01] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:07] Exception in thread Thread-43 (_readerthread):
+[2026-07-11 17:15:07] Traceback (most recent call last):
+[2026-07-11 17:15:07]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:07]     self.run()
+[2026-07-11 17:15:07]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:07]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:07]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:07]     buffer.append(fh.read())
+[2026-07-11 17:15:07]                   ^^^^^^^^^
+[2026-07-11 17:15:07]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:07]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:07]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:07] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:14] Exception in thread Thread-45 (_readerthread):
+[2026-07-11 17:15:14] Traceback (most recent call last):
+[2026-07-11 17:15:14]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:14]     self.run()
+[2026-07-11 17:15:14]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:14]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:14]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:14]     buffer.append(fh.read())
+[2026-07-11 17:15:14]                   ^^^^^^^^^
+[2026-07-11 17:15:14]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:14]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:14]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:14] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:20] Exception in thread Thread-47 (_readerthread):
+[2026-07-11 17:15:20] Traceback (most recent call last):
+[2026-07-11 17:15:20]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:20]     self.run()
+[2026-07-11 17:15:20]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:20]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:21]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:21]     buffer.append(fh.read())
+[2026-07-11 17:15:21]                   ^^^^^^^^^
+[2026-07-11 17:15:21]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:21]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:21]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:21] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:25]   failed: curl0:fail; curl1:fail; curl-resolve0:fail; curl-resolve1:fail
+[2026-07-11 17:15:25] [7] cam18-t3-listening - CAM IELTS 18 - Listening Test 3
+[2026-07-11 17:15:46] Exception in thread Thread-49 (_readerthread):
+[2026-07-11 17:15:46] Traceback (most recent call last):
+[2026-07-11 17:15:46]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:46]     self.run()
+[2026-07-11 17:15:46]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:46]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:46]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:46]     buffer.append(fh.read())
+[2026-07-11 17:15:46]                   ^^^^^^^^^
+[2026-07-11 17:15:46]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:46]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:46]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:46] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:52] Exception in thread Thread-51 (_readerthread):
+[2026-07-11 17:15:52] Traceback (most recent call last):
+[2026-07-11 17:15:52]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:53]     self.run()
+[2026-07-11 17:15:53]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:53]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:53]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:53]     buffer.append(fh.read())
+[2026-07-11 17:15:53]                   ^^^^^^^^^
+[2026-07-11 17:15:53]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:53]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:53]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:53] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:15:59] Exception in thread Thread-53 (_readerthread):
+[2026-07-11 17:15:59] Traceback (most recent call last):
+[2026-07-11 17:15:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 1045, in _bootstrap_inner
+[2026-07-11 17:15:59]     self.run()
+[2026-07-11 17:15:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\threading.py", line 982, in run
+[2026-07-11 17:15:59]     self._target(*self._args, **self._kwargs)
+[2026-07-11 17:15:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\subprocess.py", line 1599, in _readerthread
+[2026-07-11 17:15:59]     buffer.append(fh.read())
+[2026-07-11 17:15:59]                   ^^^^^^^^^
+[2026-07-11 17:15:59]   File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\encodings\cp1252.py", line 23, in decode
+[2026-07-11 17:15:59]     return codecs.charmap_decode(input,self.errors,decoding_table)[0]
+[2026-07-11 17:15:59]            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+[2026-07-11 17:15:59] UnicodeDecodeError: 'charmap' codec can't decode byte 0x90 in position 214: character maps to <undefined>
+[2026-07-11 17:20:42]
+[2026-07-11 17:20:42] === DOL listening downloader starting ===
+[2026-07-11 17:20:42] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:20:42] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:20:42] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:20:42] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 17:20:43] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 17:21:03]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:21:03] [2] cam19-t2-listening - CAM IELTS 19 - Listening Test 2
+[2026-07-11 17:21:23]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:21:23] [3] cam19-t3-listening - CAM IELTS 19 - Listening Test 3
+[2026-07-11 17:21:44]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:21:44] [4] cam19-t4-listening - CAM IELTS 19 - Listening Test 4
+[2026-07-11 17:22:04]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:22:04] [5] cam18-t1-listening - CAM IELTS 18 - Listening Test 1
+[2026-07-11 17:22:24]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:22:24] [6] cam18-t2-listening - CAM IELTS 18 - Listening Test 2
+[2026-07-11 17:22:45]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:22:45] [7] cam18-t3-listening - CAM IELTS 18 - Listening Test 3
+[2026-07-11 17:25:53]
+[2026-07-11 17:25:54] === DOL listening downloader starting ===
+[2026-07-11 17:25:54] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:25:54] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:25:54] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:25:54] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1 --continue-on-error
+[2026-07-11 17:25:54] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 17:25:54] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 17:25:57] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:58] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:58] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:58] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:59] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:59] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:25:59] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:26:00] curl: (35) schannel: AcquireCredentialsHandle failed: SEC_E_NO_CREDENTIALS (0x8009030e) - No credentials are available in the security package
+[2026-07-11 17:26:00]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:26:00] Stopped after --max-tests 1. Remaining: 98
+[2026-07-11 17:26:00] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 17:26:42]
+[2026-07-11 17:26:42] === DOL listening downloader starting ===
+[2026-07-11 17:26:42] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:26:42] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:26:42] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:26:42] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1 --continue-on-error
+[2026-07-11 17:26:42] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 17:26:44] [1] cam19-t1-listening - CAM IELTS 19 - Listening Test 1
+[2026-07-11 17:27:00]   done: cam19-t1-listening | remaining 97
+[2026-07-11 17:27:00] Stopped after --max-tests 1. Remaining: 97
+[2026-07-11 17:27:00] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 17:33:04]
+[2026-07-11 17:33:04] === DOL listening downloader starting ===
+[2026-07-11 17:33:04] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:33:05] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:33:05] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:33:05] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 17:33:05] [1] cam19-t2-listening - CAM IELTS 19 - Listening Test 2
+[2026-07-11 17:33:26]   done: cam19-t2-listening | remaining 96
+[2026-07-11 17:33:26] [2] cam19-t3-listening - CAM IELTS 19 - Listening Test 3
+[2026-07-11 17:33:46]   done: cam19-t3-listening | remaining 95
+[2026-07-11 17:33:46] [3] cam19-t4-listening - CAM IELTS 19 - Listening Test 4
+[2026-07-11 17:34:09]   done: cam19-t4-listening | remaining 94
+[2026-07-11 17:34:09] [4] cam18-t1-listening - CAM IELTS 18 - Listening Test 1
+[2026-07-11 17:34:29]   done: cam18-t1-listening | remaining 93
+[2026-07-11 17:34:29] [5] cam18-t2-listening - CAM IELTS 18 - Listening Test 2
+[2026-07-11 17:34:53]   done: cam18-t2-listening | remaining 92
+[2026-07-11 17:34:53] [6] cam18-t3-listening - CAM IELTS 18 - Listening Test 3
+[2026-07-11 17:35:11]   done: cam18-t3-listening | remaining 91
+[2026-07-11 17:35:11] [7] cam18-t4-listening - CAM IELTS 18 - Listening Test 4
+[2026-07-11 17:35:32]   done: cam18-t4-listening | remaining 90
+[2026-07-11 17:35:32] [8] cam17-t1-listening - CAM IELTS 17 - Listening Test 1
+[2026-07-11 17:35:55]   done: cam17-t1-listening | remaining 89
+[2026-07-11 17:35:55] [9] cam17-t2-listening - CAM IELTS 17 - Listening Test 2
+[2026-07-11 17:36:17]   done: cam17-t2-listening | remaining 88
+[2026-07-11 17:36:17] [10] cam17-t3-listening - CAM IELTS 17 - Listening Test 3
+[2026-07-11 17:36:37]   done: cam17-t3-listening | remaining 87
+[2026-07-11 17:36:37] [11] cam17-t4-listening - CAM IELTS 17 - Listening Test 4
+[2026-07-11 17:36:59]   done: cam17-t4-listening | remaining 86
+[2026-07-11 17:36:59] [12] cam16-t1-listening - CAM IELTS 16 - Listening Test 1
+[2026-07-11 17:37:22]   done: cam16-t1-listening | remaining 85
+[2026-07-11 17:37:22] [13] cam16-t2-listening - CAM IELTS 16 - Listening Test 2
+[2026-07-11 17:37:45]   done: cam16-t2-listening | remaining 84
+[2026-07-11 17:37:45] [14] cam16-t3-listening - CAM IELTS 16 - Listening Test 3
+[2026-07-11 17:38:08]   done: cam16-t3-listening | remaining 83
+[2026-07-11 17:38:08] [15] cam16-t4-listening - CAM IELTS 16 - Listening Test 4
+[2026-07-11 17:38:31]   done: cam16-t4-listening | remaining 82
+[2026-07-11 17:38:31] [16] cam15-t1-listening - CAM IELTS 15 - Listening Test 1
+[2026-07-11 17:38:51]   done: cam15-t1-listening | remaining 81
+[2026-07-11 17:38:51] [17] cam15-t2-listening - CAM IELTS 15 - Listening Test 2
+[2026-07-11 17:39:12]   done: cam15-t2-listening | remaining 80
+[2026-07-11 17:39:12] [18] cam15-t3-listening - CAM IELTS 15 - Listening Test 3
+[2026-07-11 17:39:33]   done: cam15-t3-listening | remaining 79
+[2026-07-11 17:39:33] [19] cam15-t4-listening - CAM IELTS 15 - Listening Test 4
+[2026-07-11 17:39:54]   done: cam15-t4-listening | remaining 78
+[2026-07-11 17:39:54] [20] cam14-t1-listening - CAM IELTS 14 - Listening Test 1
+[2026-07-11 17:40:14]   done: cam14-t1-listening | remaining 77
+[2026-07-11 17:40:14] [21] cam14-t2-listening - CAM IELTS 14 - Listening Test 2
+[2026-07-11 17:40:33]   done: cam14-t2-listening | remaining 76
+[2026-07-11 17:40:33] [22] cam14-t3-listening - CAM IELTS 14 - Listening Test 3
+[2026-07-11 17:40:54]   done: cam14-t3-listening | remaining 75
+[2026-07-11 17:40:54] [23] cam14-t4-listening - CAM IELTS 14 - Listening Test 4
+[2026-07-11 17:41:13]   done: cam14-t4-listening | remaining 74
+[2026-07-11 17:41:13] [24] cam13-t1-listening - CAM IELTS 13 - Listening Test 1
+[2026-07-11 17:41:34]   done: cam13-t1-listening | remaining 73
+[2026-07-11 17:41:34] [25] cam13-t2-listening - CAM IELTS 13 - Listening Test 2
+[2026-07-11 17:41:53]   done: cam13-t2-listening | remaining 72
+[2026-07-11 17:41:53] [26] cam13-t3-listening - CAM IELTS 13 - Listening Test 3
+[2026-07-11 17:42:13]   done: cam13-t3-listening | remaining 71
+[2026-07-11 17:42:13] [27] cam13-t4-listening - CAM IELTS 13 - Listening Test 4
+[2026-07-11 17:42:33]   done: cam13-t4-listening | remaining 70
+[2026-07-11 17:42:33] [28] cam12-t1-listening - CAM IELTS 12 - Listening Test 1
+[2026-07-11 17:42:55]   done: cam12-t1-listening | remaining 69
+[2026-07-11 17:42:55] [29] cam12-t2-listening - CAM IELTS 12 - Listening Test 2
+[2026-07-11 17:43:17]   done: cam12-t2-listening | remaining 68
+[2026-07-11 17:43:17] [30] cam12-t3-listening - CAM IELTS 12 - Listening Test 3
+[2026-07-11 17:43:37]   done: cam12-t3-listening | remaining 67
+[2026-07-11 17:43:37] [31] cam12-t4-listening - CAM IELTS 12 - Listening Test 4
+[2026-07-11 17:44:01]   done: cam12-t4-listening | remaining 66
+[2026-07-11 17:44:01] [32] cam11-t1-listening - CAM IELTS 11 - Listening Test 1
+[2026-07-11 17:44:22]   done: cam11-t1-listening | remaining 65
+[2026-07-11 17:44:22] [33] cam11-t2-listening - CAM IELTS 11 - Listening Test 2
+[2026-07-11 17:44:41]   done: cam11-t2-listening | remaining 64
+[2026-07-11 17:44:41] [34] cam11-t3-listening - CAM IELTS 11 - Listening Test 3
+[2026-07-11 17:45:01]   done: cam11-t3-listening | remaining 63
+[2026-07-11 17:45:01] [35] cam11-t4-listening - CAM IELTS 11 - Listening Test 4
+[2026-07-11 17:45:23]   done: cam11-t4-listening | remaining 62
+[2026-07-11 17:45:23] [36] cam10-t1-listening - CAM IELTS 10 - Listening Test 1
+[2026-07-11 17:45:44]   done: cam10-t1-listening | remaining 61
+[2026-07-11 17:45:44] [37] cam10-t2-listening - CAM IELTS 10 - Listening Test 2
+[2026-07-11 17:46:08]   done: cam10-t2-listening | remaining 60
+[2026-07-11 17:46:08] [38] cam10-t3-listening - CAM IELTS 10 - Listening Test 3
+[2026-07-11 17:46:29]   done: cam10-t3-listening | remaining 59
+[2026-07-11 17:46:29] [39] cam10-t4-listening - CAM IELTS 10 - Listening Test 4
+[2026-07-11 17:46:50]   done: cam10-t4-listening | remaining 58
+[2026-07-11 17:46:50] [40] cam9-t1-listening - CAM IELTS 9 - Listening Test 1
+[2026-07-11 17:47:13]   done: cam9-t1-listening | remaining 57
+[2026-07-11 17:47:13] [41] cam9-t2-listening - CAM IELTS 9 - Listening Test 2
+[2026-07-11 17:47:33]   done: cam9-t2-listening | remaining 56
+[2026-07-11 17:47:33] [42] cam9-t3-listening - CAM IELTS 9 - Listening Test 3
+[2026-07-11 17:47:54]   done: cam9-t3-listening | remaining 55
+[2026-07-11 17:47:54] [43] cam9-t4-listening - CAM IELTS 9 - Listening Test 4
+[2026-07-11 17:48:16]   done: cam9-t4-listening | remaining 54
+[2026-07-11 17:48:16] [44] ptp1-t1-listening - Practice Test Plus 1 - Listening Test 1
+[2026-07-11 17:48:36]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:48:36] [45] ptp1-t2-listening - Practice Test Plus 1 - Listening Test 2
+[2026-07-11 17:48:56]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:48:57] [46] ptp1-t3-listening - Practice Test Plus 1 - Listening Test 3
+[2026-07-11 17:49:17]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:49:17] [47] ptp1-t4-listening - Practice Test Plus 1 - Listening Test 4
+[2026-07-11 17:49:37]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:49:38] [48] ptp1-t5-listening - Practice Test Plus 1 - Listening Test 5
+[2026-07-11 17:49:58]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:49:58] [49] ptp2-t1-listening - Practice Test Plus 2 - Listening Test 1
+[2026-07-11 17:50:19]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:50:19] [50] ptp2-t2-listening - Practice Test Plus 2 - Listening Test 2
+[2026-07-11 17:50:39]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:50:40] [51] ptp2-t3-listening - Practice Test Plus 2 - Listening Test 3
+[2026-07-11 17:51:00]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:51:00] [52] ptp2-t4-listening - Practice Test Plus 2 - Listening Test 4
+[2026-07-11 17:51:21]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:51:21] [53] ptp2-t5-listening - Practice Test Plus 2 - Listening Test 5
+[2026-07-11 17:51:42]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:51:42] [54] ptp2-t6-listening - Practice Test Plus 2 - Listening Test 6
+[2026-07-11 17:52:02]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:52:02] [55] ptp3-t1-listening - Practice Test Plus 3 - Listening Test 1
+[2026-07-11 17:52:22]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:52:23] [56] ptp3-t2-listening - Practice Test Plus 3 - Listening Test 2
+[2026-07-11 17:52:43]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:52:43] [57] ptp3-t3-listening - Practice Test Plus 3 - Listening Test 3
+[2026-07-11 17:53:04]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:53:04] [58] ptp3-t4-listening - Practice Test Plus 3 - Listening Test 4
+[2026-07-11 17:53:24]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:53:24] [59] ptp3-t5-listening - Practice Test Plus 3 - Listening Test 5
+[2026-07-11 17:53:44]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:53:45] [60] ptp3-t6-listening - /luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-6-vocab
+[2026-07-11 17:54:05]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:54:05] [61] ptp3-t7-listening - Practice Test Plus 3 - Listening Test 7
+[2026-07-11 17:54:26]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 17:54:26] [62] actual1-t1-listening - Actual Test 1 - Listening Test 1
+[2026-07-11 17:56:32]
+[2026-07-11 17:56:32] === DOL listening downloader starting ===
+[2026-07-11 17:56:32] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:56:32] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:56:32] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:56:32] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1 --continue-on-error
+[2026-07-11 17:56:32] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 17:56:33] [1] ptp1-t1-listening - Practice Test Plus 1 - Listening Test 1
+[2026-07-11 17:56:55]   done: ptp1-t1-listening | remaining 53
+[2026-07-11 17:56:56] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 17:57:31]
+[2026-07-11 17:57:31] === DOL listening downloader starting ===
+[2026-07-11 17:57:31] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:57:31] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:57:32] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:57:32] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --init-only --continue-on-error
+[2026-07-11 17:57:32] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 17:57:33] wrote C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\catalog.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\upcoming.json, C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\state.json
+[2026-07-11 17:57:33] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 17:58:20]
+[2026-07-11 17:58:20] === DOL listening downloader starting ===
+[2026-07-11 17:58:20] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 17:58:20] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 17:58:21] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 17:58:21] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 17:58:21] [1] ptp1-t2-listening - Practice Test Plus 1 - Listening Test 2
+[2026-07-11 17:58:44]   done: ptp1-t2-listening | remaining 52
+[2026-07-11 17:58:44] [2] ptp1-t3-listening - Practice Test Plus 1 - Listening Test 3
+[2026-07-11 17:59:08]   done: ptp1-t3-listening | remaining 51
+[2026-07-11 17:59:08] [3] ptp1-t4-listening - Practice Test Plus 1 - Listening Test 4
+[2026-07-11 17:59:33]   done: ptp1-t4-listening | remaining 50
+[2026-07-11 17:59:33] [4] ptp1-t5-listening - Practice Test Plus 1 - Listening Test 5
+[2026-07-11 17:59:57]   done: ptp1-t5-listening | remaining 49
+[2026-07-11 17:59:57] [5] ptp2-t1-listening - Practice Test Plus 2 - Listening Test 1
+[2026-07-11 18:00:16]   done: ptp2-t1-listening | remaining 48
+[2026-07-11 18:00:16] [6] ptp2-t2-listening - Practice Test Plus 2 - Listening Test 2
+[2026-07-11 18:00:38]   done: ptp2-t2-listening | remaining 47
+[2026-07-11 18:00:38] [7] ptp2-t3-listening - Practice Test Plus 2 - Listening Test 3
+[2026-07-11 18:01:02]   done: ptp2-t3-listening | remaining 46
+[2026-07-11 18:01:02] [8] ptp2-t4-listening - Practice Test Plus 2 - Listening Test 4
+[2026-07-11 18:01:24]   done: ptp2-t4-listening | remaining 45
+[2026-07-11 18:01:24] [9] ptp2-t5-listening - Practice Test Plus 2 - Listening Test 5
+[2026-07-11 18:01:46]   done: ptp2-t5-listening | remaining 44
+[2026-07-11 18:01:46] [10] ptp2-t6-listening - Practice Test Plus 2 - Listening Test 6
+[2026-07-11 18:02:10]   done: ptp2-t6-listening | remaining 43
+[2026-07-11 18:02:10] [11] ptp3-t1-listening - Practice Test Plus 3 - Listening Test 1
+[2026-07-11 18:02:31]   done: ptp3-t1-listening | remaining 42
+[2026-07-11 18:02:31] [12] ptp3-t2-listening - Practice Test Plus 3 - Listening Test 2
+[2026-07-11 18:02:53]   done: ptp3-t2-listening | remaining 41
+[2026-07-11 18:02:53] [13] ptp3-t3-listening - Practice Test Plus 3 - Listening Test 3
+[2026-07-11 18:03:15]   done: ptp3-t3-listening | remaining 40
+[2026-07-11 18:03:15] [14] ptp3-t4-listening - Practice Test Plus 3 - Listening Test 4
+[2026-07-11 18:03:38]   done: ptp3-t4-listening | remaining 39
+[2026-07-11 18:03:38] [15] ptp3-t5-listening - Practice Test Plus 3 - Listening Test 5
+[2026-07-11 18:04:00]   done: ptp3-t5-listening | remaining 38
+[2026-07-11 18:04:00] [16] ptp3-t6-listening - /luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-6-vocab
+[2026-07-11 18:04:23]   done: ptp3-t6-listening | remaining 37
+[2026-07-11 18:04:23] [17] ptp3-t7-listening - Practice Test Plus 3 - Listening Test 7
+[2026-07-11 18:04:45]   done: ptp3-t7-listening | remaining 36
+[2026-07-11 18:04:45] [18] actual1-t1-listening - Actual Test 1 - Listening Test 1
+[2026-07-11 18:05:06]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:05:06] [19] actual1-t2-listening - Actual Test 1 - Listening Test 2
+[2026-07-11 18:05:27]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:05:27] [20] actual1-t3-listening - Actual Test 1 - Listening Test 3
+[2026-07-11 18:05:47]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:05:47] [21] actual1-t4-listening - Actual Test 1 - Listening Test 4
+[2026-07-11 18:06:08]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:06:08] [22] actual1-t5-listening - Actual Test 1 - Listening Test 5
+[2026-07-11 18:06:28]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:06:28] [23] actual1-t6-listening - Actual Test 1 - Listening Test 6
+[2026-07-11 18:06:49]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:06:49] [24] actual2-t10-listening - Actual Test 2 - Listening Test 10
+[2026-07-11 18:07:09]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:07:09] [25] actual2-t11-listening - Actual Test 2 - Listening Test 11
+[2026-07-11 18:07:29]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:07:30] [26] actual2-t12-listening - Actual Test 2 - Listening Test 12
+[2026-07-11 18:07:50]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:07:50] [27] actual2-t7-listening - Actual Test 2 - Listening Test 7
+[2026-07-11 18:08:10]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:08:10] [28] actual2-t8-listening - Actual Test 2 - Listening Test 8
+[2026-07-11 18:08:31]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:08:31] [29] actual2-t9-listening - Actual Test 2 - Listening Test 9
+[2026-07-11 18:08:51]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:08:51] [30] actual3-t1-listening - Actual Test 3 - Listening Test 1
+[2026-07-11 18:09:11]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:09:12] [31] actual3-t2-listening - Actual Test 3 - Listening Test 2
+[2026-07-11 18:09:32]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:09:32] [32] actual3-t3-listening - Actual Test 3 - Listening Test 3
+[2026-07-11 18:09:52]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:09:54] [33] actual3-t4-listening - Actual Test 3 - Listening Test 4
+[2026-07-11 18:10:14]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:10:15] [34] actual3-t5-listening - Actual Test 3 - Listening Test 5
+[2026-07-11 18:10:35]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:10:35] [35] actual3-t6-listening - Actual Test 3 - Listening Test 6
+[2026-07-11 18:10:55]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:10:55] [36] actual4-t1-listening - Actual Test 4 - Listening Test 1
+[2026-07-11 18:11:15]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:11:16] [37] actual4-t2-listening - Actual Test 4 - Listening Test 2
+[2026-07-11 18:11:36]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:11:36] [38] actual4-t3-listening - Actual Test 4 - Listening Test 3
+[2026-07-11 18:11:56]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:11:56] [39] actual4-t4-listening - Actual Test 4 - Listening Test 4
+[2026-07-11 18:12:16]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:12:16] [40] actual4-t5-listening - Actual Test 4 - Listening Test 5
+[2026-07-11 18:12:36]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:12:37] [41] actual4-t6-listening - Actual Test 4 - Listening Test 6
+[2026-07-11 18:12:57]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:12:57] [42] actual5-t1-listening - Actual Test 5 - Listening Test 1
+[2026-07-11 18:13:17]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:13:17] [43] actual5-t2-listening - Actual Test 5 - Listening Test 2
+[2026-07-11 18:13:38]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:13:38] [44] actual5-t3-listening - Actual Test 5 - Listening Test 3
+[2026-07-11 18:13:58]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:13:58] [45] actual5-t4-listening - Actual Test 5 - Listening Test 4
+[2026-07-11 18:14:18]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:14:19] [46] actual5-t5-listening - Actual Test 5 - Listening Test 5
+[2026-07-11 18:14:39]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:14:39] [47] actual5-t6-listening - Actual Test 5 - Listening Test 6
+[2026-07-11 18:14:59]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:14:59] [48] actual6-t1-listening - Actual Test 6 - Listening Test 1
+[2026-07-11 18:15:19]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:15:20] [49] actual6-t2-listening - Actual Test 6 - Listening Test 2
+[2026-07-11 18:15:40]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:15:40] [50] actual6-t3-listening - Actual Test 6 - Listening Test 3
+[2026-07-11 18:16:00]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:16:01] [51] actual6-t4-listening - Actual Test 6 - Listening Test 4
+[2026-07-11 18:16:21]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:16:22] [52] actual6-t5-listening - Actual Test 6 - Listening Test 5
+[2026-07-11 18:16:42]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:16:42] [53] actual6-t6-listening - Actual Test 6 - Listening Test 6
+[2026-07-11 18:17:03]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:17:03] Reached the end of this run. Failed tests remain pending for the next run.
+[2026-07-11 18:17:03] === DOL listening downloader finished with exit code 1 ===
+[2026-07-11 18:36:32]
+[2026-07-11 18:36:32] === DOL listening downloader starting ===
+[2026-07-11 18:36:32] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 18:36:33] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 18:36:33] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 18:36:33] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 18:36:34] [1] actual1-t1-listening - Actual Test 1 - Listening Test 1
+[2026-07-11 18:36:54]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:36:58] [2] actual1-t2-listening - Actual Test 1 - Listening Test 2
+[2026-07-11 18:37:19]   failed: download incomplete: missing audio/vtt/cues
+[2026-07-11 18:37:19] [3] actual1-t3-listening - Actual Test 1 - Listening Test 3
+[2026-07-11 18:39:19]
+[2026-07-11 18:39:20] === DOL listening downloader starting ===
+[2026-07-11 18:39:20] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 18:39:20] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 18:39:20] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 18:39:20] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --max-tests 1 --continue-on-error
+[2026-07-11 18:39:20] Cleared proxy env for this run: HTTP_PROXY, HTTPS_PROXY, ALL_PROXY
+[2026-07-11 18:39:21] [1] actual1-t1-listening - Actual Test 1 - Listening Test 1
+[2026-07-11 18:39:46]   done: actual1-t1-listening | remaining 35
+[2026-07-11 18:39:46] Stopped after --max-tests 1. Remaining: 35
+[2026-07-11 18:39:46] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 18:40:25]
+[2026-07-11 18:40:25] === DOL listening downloader starting ===
+[2026-07-11 18:40:25] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 18:40:25] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 18:40:25] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 18:40:25] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 18:40:26] [1] actual1-t2-listening - Actual Test 1 - Listening Test 2
+[2026-07-11 18:40:52]   done: actual1-t2-listening | remaining 34
+[2026-07-11 18:40:52] [2] actual1-t3-listening - Actual Test 1 - Listening Test 3
+[2026-07-11 18:41:19]   done: actual1-t3-listening | remaining 33
+[2026-07-11 18:41:19] [3] actual1-t4-listening - Actual Test 1 - Listening Test 4
+[2026-07-11 18:41:42]   done: actual1-t4-listening | remaining 32
+[2026-07-11 18:41:42] [4] actual1-t5-listening - Actual Test 1 - Listening Test 5
+[2026-07-11 18:42:04]   done: actual1-t5-listening | remaining 31
+[2026-07-11 18:42:04] [5] actual1-t6-listening - Actual Test 1 - Listening Test 6
+[2026-07-11 18:42:28]   done: actual1-t6-listening | remaining 30
+[2026-07-11 18:42:29] [6] actual2-t10-listening - Actual Test 2 - Listening Test 10
+[2026-07-11 18:42:57]   done: actual2-t10-listening | remaining 29
+[2026-07-11 18:42:57] [7] actual2-t11-listening - Actual Test 2 - Listening Test 11
+[2026-07-11 18:43:27]   done: actual2-t11-listening | remaining 28
+[2026-07-11 18:43:27] [8] actual2-t12-listening - Actual Test 2 - Listening Test 12
+[2026-07-11 18:43:52]   done: actual2-t12-listening | remaining 27
+[2026-07-11 18:43:52] [9] actual2-t7-listening - Actual Test 2 - Listening Test 7
+[2026-07-11 18:44:25]   done: actual2-t7-listening | remaining 26
+[2026-07-11 18:44:25] [10] actual2-t8-listening - Actual Test 2 - Listening Test 8
+[2026-07-11 18:44:53]   done: actual2-t8-listening | remaining 25
+[2026-07-11 18:44:53] [11] actual2-t9-listening - Actual Test 2 - Listening Test 9
+[2026-07-11 18:45:23]   done: actual2-t9-listening | remaining 24
+[2026-07-11 18:45:23] [12] actual3-t1-listening - Actual Test 3 - Listening Test 1
+[2026-07-11 18:45:48]   done: actual3-t1-listening | remaining 23
+[2026-07-11 18:45:48] [13] actual3-t2-listening - Actual Test 3 - Listening Test 2
+[2026-07-11 18:46:26]   done: actual3-t2-listening | remaining 22
+[2026-07-11 18:46:26] [14] actual3-t3-listening - Actual Test 3 - Listening Test 3
+[2026-07-11 18:46:50]   done: actual3-t3-listening | remaining 21
+[2026-07-11 18:46:50] [15] actual3-t4-listening - Actual Test 3 - Listening Test 4
+[2026-07-11 18:47:13]   done: actual3-t4-listening | remaining 20
+[2026-07-11 18:47:13] [16] actual3-t5-listening - Actual Test 3 - Listening Test 5
+[2026-07-11 18:47:40]   done: actual3-t5-listening | remaining 19
+[2026-07-11 18:47:40] [17] actual3-t6-listening - Actual Test 3 - Listening Test 6
+[2026-07-11 18:48:05]   done: actual3-t6-listening | remaining 18
+[2026-07-11 18:48:05] [18] actual4-t1-listening - Actual Test 4 - Listening Test 1
+[2026-07-11 18:48:46]   done: actual4-t1-listening | remaining 17
+[2026-07-11 18:48:46] [19] actual4-t2-listening - Actual Test 4 - Listening Test 2
+[2026-07-11 18:49:35]   done: actual4-t2-listening | remaining 16
+[2026-07-11 18:49:35] [20] actual4-t3-listening - Actual Test 4 - Listening Test 3
+[2026-07-11 18:50:15]   done: actual4-t3-listening | remaining 15
+[2026-07-11 18:50:15] [21] actual4-t4-listening - Actual Test 4 - Listening Test 4
+[2026-07-11 18:51:01]   done: actual4-t4-listening | remaining 14
+[2026-07-11 18:51:01] [22] actual4-t5-listening - Actual Test 4 - Listening Test 5
+[2026-07-11 18:51:35]   done: actual4-t5-listening | remaining 13
+[2026-07-11 18:51:35] [23] actual4-t6-listening - Actual Test 4 - Listening Test 6
+[2026-07-11 18:52:11]   done: actual4-t6-listening | remaining 12
+[2026-07-11 18:52:11] [24] actual5-t1-listening - Actual Test 5 - Listening Test 1
+[2026-07-11 18:52:29]   done: actual5-t1-listening | remaining 11
+[2026-07-11 18:52:29] [25] actual5-t2-listening - Actual Test 5 - Listening Test 2
+[2026-07-11 18:52:53]   done: actual5-t2-listening | remaining 10
+[2026-07-11 18:52:53] [26] actual5-t3-listening - Actual Test 5 - Listening Test 3
+[2026-07-11 18:53:11]   done: actual5-t3-listening | remaining 9
+[2026-07-11 18:53:11] [27] actual5-t4-listening - Actual Test 5 - Listening Test 4
+[2026-07-11 18:53:28]   done: actual5-t4-listening | remaining 8
+[2026-07-11 18:53:28] [28] actual5-t5-listening - Actual Test 5 - Listening Test 5
+[2026-07-11 18:53:49]   done: actual5-t5-listening | remaining 7
+[2026-07-11 18:53:49] [29] actual5-t6-listening - Actual Test 5 - Listening Test 6
+[2026-07-11 18:54:10]   done: actual5-t6-listening | remaining 6
+[2026-07-11 18:54:10] [30] actual6-t1-listening - Actual Test 6 - Listening Test 1
+[2026-07-11 18:54:33]   done: actual6-t1-listening | remaining 5
+[2026-07-11 18:54:33] [31] actual6-t2-listening - Actual Test 6 - Listening Test 2
+[2026-07-11 18:54:55]   done: actual6-t2-listening | remaining 4
+[2026-07-11 18:54:55] [32] actual6-t3-listening - Actual Test 6 - Listening Test 3
+[2026-07-11 18:55:19]   done: actual6-t3-listening | remaining 3
+[2026-07-11 18:55:19] [33] actual6-t4-listening - Actual Test 6 - Listening Test 4
+[2026-07-11 18:55:42]   done: actual6-t4-listening | remaining 2
+[2026-07-11 18:55:42] [34] actual6-t5-listening - Actual Test 6 - Listening Test 5
+[2026-07-11 18:56:06]   done: actual6-t5-listening | remaining 1
+[2026-07-11 18:56:06] [35] actual6-t6-listening - Actual Test 6 - Listening Test 6
+[2026-07-11 18:56:32]   done: actual6-t6-listening | remaining 0
+[2026-07-11 18:56:32] DOL listening queue complete.
+[2026-07-11 18:56:32] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 19:01:45]
+[2026-07-11 19:01:45] === DOL listening downloader starting ===
+[2026-07-11 19:01:45] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 19:01:45] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 19:01:45] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 19:01:45] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 19:01:46] DOL listening queue complete.
+[2026-07-11 19:01:46] === DOL listening downloader finished with exit code 0 ===
+[2026-07-11 19:02:56]
+[2026-07-11 19:02:56] === DOL listening downloader starting ===
+[2026-07-11 19:02:56] App root: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool
+[2026-07-11 19:02:56] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\dol\listening\.dol-listening-download-log.txt
+[2026-07-11 19:02:56] Safe to stop with Ctrl+C or by closing this window; rerun to resume.
+[2026-07-11 19:02:56] Command: python -u C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\scripts\fetch_dol_listening_assets.py --download-audio --download-vtt --continue-on-error
+[2026-07-11 19:02:56] DOL listening queue complete.
+[2026-07-11 19:02:57] === DOL listening downloader finished with exit code 0 ===

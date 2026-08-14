@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam18-t1-listening",
+ "title": "CAM IELTS 18 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 18",
+ "testNum": 1,
+ "order": 9,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-18-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Transport survey",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/e005ebe6-9a09-439c-9371-f40c7eb48a9b.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6900820
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM18_L1_S1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Becoming a volunteer for ACE",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/5f1781b5-e598-4ea6-9ce1-4c3b0a7fe399.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6369593
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/6e371f4d-672e-47ea-ac1e-d9d4b18811a7.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Talk on jobs in fashion design",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/15301780-22ea-469b-aba7-cd69d78a7188.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6414733
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/9464ff74-5276-4862-895b-b267ae9109c7.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 43
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Elephant translocation",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/bfb72f53-582a-495f-b1ef-5d6c64bb1881.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 8441835
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/c8842f38-b28a-401e-b31c-bca6dfb22200.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 10
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:34:29Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

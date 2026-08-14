@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam13-t1-listening",
+ "title": "CAM IELTS 13 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 13",
+ "testNum": 1,
+ "order": 29,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-13-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Cookery Class",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/09ccd968-5431-448e-a290-0d70f32dc16f.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5380592
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4fc29a16-58ff-435f-b158-d79a41a7bf27.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 23
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Traffic Changes In Granford",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/81fe78fb-be12-48d4-ac84-c143c468f7b5.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4868211
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/01b6420d-9535-49d9-b352-5dca725b3088.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Seed Germination",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/df38948f-307b-436c-9ea7-0159a6016cd6.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5120802
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ded248e7-b1b9-4c35-bbcf-346199a32b87.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 30
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Effects Of Urban Environments On Animals",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4de52737-a61b-4270-a96f-6bea69cb6bd7.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5030345
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ef3d718d-ba47-4312-941e-39624d7b65bb.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 11
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:41:34Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

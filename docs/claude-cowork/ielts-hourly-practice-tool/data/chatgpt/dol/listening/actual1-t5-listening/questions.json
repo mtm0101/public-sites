@@ -1,0 +1,1814 @@
+{
+ "schema": 1,
+ "id": "actual1-t5-listening",
+ "title": "Actual Test 1 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 5,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-1-test-5-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-1-test-5-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Apartment Rental In Calgary’s Market",
+   "duration": 9,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "034ddc30-75b4-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "yGjdEKmw3wpP99icoGSl1",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"loại phòng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Beatle Road\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley20\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe liệt kê các căn phòng bên trong gồm \\\"3-bedroom with a bathroom and \"},{\"text\":\"a living room\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: a living room \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 196,
+          "transcripts": [
+           {
+            "id": "6/186261-196867",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 196,
+            "text": " Sure. The first one is on Beatle Road, just a block off-campus. It’s a 3-bedroom with a bathroom and a living room and a great Italian restaurant right next to it.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "living room",
+         "blankId": "gDuqzwiVa-VqlYv7vLNGI"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"giá thuê nhà \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"how much?\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"it’s $\"},{\"text\":\"435\",\"bold\":true},{\"text\":\" a month\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 435 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 196,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "7/196867-197844",
+            "startTimeInSeconds": 196,
+            "endTimeInSeconds": 197,
+            "text": " How much?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "8/197844-203536",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 203,
+            "text": " Well, it’s $435 a month, including Internet and utilities.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "435",
+         "blankId": "BLh_p0z46mrNGliu10Pda"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"những tiện nghi bên trong căn nhà \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"\"},{\"text\":\"Oakington Avenue\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the living room, bathroom, kitchen, and \"},{\"text\":\"washing machine are all shared\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: washing machine  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 217,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "12/217820-228153",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 228,
+            "text": " The other 3-bedroom apartment is on Oakington Avenue on campus. It is right near the building where you have classes, and the kitchen and living room are",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "13/228153-230873",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 230,
+            "text": " Wow, that sounds like a pretty good option.",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "14/230873-241643",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 241,
+            "text": " Well, it is a cool apartment, but since it’s a dormitory, the living room, bathroom, kitchen, and washing machine are all shared. It would be nice not to have to buy living room furniture, though.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "washing machine",
+         "blankId": "io7ic60JHb5SApyOlAxHM"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" tính hạn chế của căn nhà vì có các tiện ích được chia sẻ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"it sounds really \"},{\"text\":\"inconvenient\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" \",\"bold\":true},{\"text\":\"have to share facilities.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Rất bất tiện \",\"bold\":true},{\"text\":\"khi phải chia sẻ các tiện ích \\n=> \"},{\"text\":\"Đáp án: inconvenient \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 252,
+          "endTimeInSeconds": 261,
+          "transcripts": [
+           {
+            "id": "17/252728-261585",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 261,
+            "text": " Yikes, even with the air conditioner, it sounds really inconvenient to have to share facilities. I’ll never cook if I have to walk down the hall to use the kitchen.",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           }
+          ]
+         },
+         "value": "inconvenient",
+         "blankId": "2MNiTzWH-fRYAt_sA4QN-"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"loại phòng trong nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới kh nghe \\\"the next place is a \"},{\"text\":\"2-bedroom on Mead Street\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"it only has 2 bedrooms, plus a liv­ing room and \"},{\"text\":\"a study.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: a study \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 309,
+          "endTimeInSeconds": 321,
+          "transcripts": [
+           {
+            "id": "19/309678-313319",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 313,
+            "text": " Anyway, the next place is a 2-bedroom on Mead Street.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "20/313319-316272",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 316,
+            "text": " Oh, I like Mead Street - that’s off campus, right?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "21/316272-321698",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 321,
+            "text": " Yep. It’s pretty cool, but it only has 2 bedrooms, plus a living room and a study.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "a study",
+         "blankId": "zqFMNUwJCS5HOYfcz7kQg"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" vật dụng được cung cấp \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Are any other \"},{\"text\":\"facilities provided?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"it also comes with a \"},{\"text\":\"washbasin\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Được cung cấp chậu rửa \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: washbasin \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 334,
+          "endTimeInSeconds": 348,
+          "transcripts": [
+           {
+            "id": "25/334981-339596",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 339,
+            "text": " Well, this place has a great TV and VCR, but no DVD player.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "26/339596-344029",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 344,
+            "text": " No DVD? That’s so weird. Are any other facilities provided?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "27/344029-348009",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 348,
+            "text": " As you said, weird enough, it also comes with a washbasin.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "washbasin",
+         "blankId": "z4kkva1-ht3r4s7CMFOQv"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \",\"marks\":[]},{\"text\":\"điểm hạn chế của nơi này \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"there are \"},{\"text\":\"a lot of bars\\\"\",\"bold\":true},{\"text\":\" và \\\"it would get pretty \"},{\"text\":\"noisy\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: noisy \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 362,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "31/362320-369029",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 369,
+            "text": " Well, it’s $600 per month, but of course it would be cheaper if you made it into 3 bedrooms instead of 2.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "32/369029-370824",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 370,
+            "text": " Where is this apartment located?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "33/370824-374829",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 374,
+            "text": " It’s 2500 Mead Street, where there are a lot of bars.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "34/374829-382817",
+            "startTimeInSeconds": 374,
+            "endTimeInSeconds": 382,
+            "text": " It would be affordable, but it would get pretty noisy. And that sounds really expensive for an old place in a noisy area. How about the last place?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           }
+          ]
+         },
+         "value": "noisy",
+         "blankId": "u7SHUMwu66381ZSPt0oyp"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" đèn ngủ có gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Khi bạn nghe \\\"\"},{\"text\":\"What else does it have\",\"bold\":true},{\"text\":\"?\\\" (đang hỏi về facilities) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"includes a really \"},{\"text\":\"nice lamp\",\"bold\":true},{\"text\":\" in the study that has a bunch of \"},{\"text\":\"different settings\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cái đèn \"},{\"text\":\"có nhiều cài đặt khác nhau \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: different settings \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 390,
+          "endTimeInSeconds": 410,
+          "transcripts": [
+           {
+            "id": "36/390020-394488",
+            "startTimeInSeconds": 390,
+            "endTimeInSeconds": 394,
+            "text": " One bedroom, huh? That could be good for focusing on my studies. What else does it have?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "37/394488-410604",
+            "startTimeInSeconds": 394,
+            "endTimeInSeconds": 410,
+            "text": " It comes with a living room and a study, and includes a really nice lamp in the study that has a bunch of different settings. You know what else is cool? There’s a dining hall downstairs so all evening meals are free. You can purchase breakfast and lunch, but meals after 6 p.m. are free.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "different settings",
+         "blankId": "4ScmAcwA7gYtX8EMynCsU"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" thứ được cung cấp miễn phí\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy  \\\"There’s a dining hall downstairs so all \"},{\"text\":\"evening meals are free\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Bữa tối được miễn phí \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: evening meals \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 394,
+          "endTimeInSeconds": 410,
+          "transcripts": [
+           {
+            "id": "37/394488-410604",
+            "startTimeInSeconds": 394,
+            "endTimeInSeconds": 410,
+            "text": " It comes with a living room and a study, and includes a really nice lamp in the study that has a bunch of different settings. You know what else is cool? There’s a dining hall downstairs so all evening meals are free. You can purchase breakfast and lunch, but meals after 6 p.m. are free.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "evening meals",
+         "blankId": "hE4LIrA46Y41avemefXjN"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" mặt hạn chế của nơi này \",\"bold\":true},{\"text\":\"(not including __ ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"$500 per month, but there’s \"},{\"text\":\"no bathroom\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> $500 nhưng \"},{\"text\":\"not including bathroom\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: bathroom  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 410,
+          "endTimeInSeconds": 418,
+          "transcripts": [
+           {
+            "id": "38/410604-414456",
+            "startTimeInSeconds": 410,
+            "endTimeInSeconds": 414,
+            "text": " Wow, this place sounds too good to be true. Is it really expensive?",
+            "character": {
+             "id": "UVze6P4wmdQuulxWBt4PL",
+             "name": "RENTER"
+            }
+           },
+           {
+            "id": "39/414456-418163",
+            "startTimeInSeconds": 414,
+            "endTimeInSeconds": 418,
+            "text": " It’s alright - $500 per month, but there’s no bathroom.",
+            "character": {
+             "id": "TNPJZcXegO8laUiVUS7u5",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "bathroom",
+         "blankId": "Ud4EqAAqEgL3PMOpEWT-S"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "gDuqzwiVa-VqlYv7vLNGI",
+         "key": 0
+        },
+        {
+         "id": "BLh_p0z46mrNGliu10Pda",
+         "key": 1
+        },
+        {
+         "id": "io7ic60JHb5SApyOlAxHM",
+         "key": 2
+        },
+        {
+         "id": "2MNiTzWH-fRYAt_sA4QN-",
+         "key": 3
+        },
+        {
+         "id": "zqFMNUwJCS5HOYfcz7kQg",
+         "key": 4
+        },
+        {
+         "id": "z4kkva1-ht3r4s7CMFOQv",
+         "key": 5
+        },
+        {
+         "id": "u7SHUMwu66381ZSPt0oyp",
+         "key": 6
+        },
+        {
+         "id": "4ScmAcwA7gYtX8EMynCsU",
+         "key": 7
+        },
+        {
+         "id": "hE4LIrA46Y41avemefXjN",
+         "key": 8
+        },
+        {
+         "id": "Ud4EqAAqEgL3PMOpEWT-S",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"RQ2v9a9mZMh0yaUs8vqFB\",\"cellsWidth\":[120.00001017252603,132.00001017252603,139.00001017252603,120.00001017252603,158.00001017252603,147.00001017252603],\"children\":[{\"type\":\"tr\",\"id\":\"mAUd1HjmtL4tld7OFNuM-\",\"children\":[{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address\",\"bold\":true}]}]}],\"id\":\"qo-bEwsWMFRJMfK3AIYoV\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rooms\",\"bold\":true}]}]}],\"id\":\"HQ2QCGHMBwvbcRo8Ov6qB\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Facilities\",\"bold\":true}]}]}],\"id\":\"33miJOr4TwE7PHptKXdJR\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Provided stuff\",\"bold\":true}]}]}],\"id\":\"Ldkf4Mab3WspLgk3Rg-EP\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rental fee\",\"bold\":true}]}]}],\"id\":\"rvgDRrliTkf7DMfqDEqry\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Drawback\",\"bold\":true}]}]}],\"id\":\"j3N1sSaffxLvpMjgnR9_N\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"fTd4HDANBHEeAN9J57_Zx\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Beatle Road\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"6PzEQ3YwWQjyvC3VGllFs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"3 bedrooms, a bathroom, a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"gDuqzwiVa-VqlYv7vLNGI\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"TK2Slphngm3CqMdizG4a8\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a nearby restaurant\\n\"}]}]}],\"id\":\"h1kFD_ScKWPplcPLYutY9\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Internet and utilities\\n\"}]}]}],\"id\":\"3m0_czuuTWF6UXKjm23fO\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"BLh_p0z46mrNGliu10Pda\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"4ps0FQgCMhOTGSREPEnDP\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The garden is too big to be cleaned up.\"}]}]}],\"id\":\"kiSQmQgM-kGIZfjFfH8Of\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"oVWPz-F_QWtGBvknKWOLb\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Oakington Avenue\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"Z9YGkND6COFJhVduk3iox\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"3 bedrooms, a kitchen, a living room\"}]}]}],\"id\":\"KpczveSN80atN6PdOSNoV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Shared living room, bathroom, kitchen and \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"io7ic60JHb5SApyOlAxHM\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"e6IhWG-OiD8rRWl6WvmaH\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Living room furniture\"}]}]}],\"id\":\"LuYC18BZZqGQWTn98yaVc\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$340 - $400\"}]}]}],\"id\":\"vQ2u6mOF96JyQUAorCjv8\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Due to some shared facilities, it seems \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"2MNiTzWH-fRYAt_sA4QN-\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"3Aoclf0CiLJI3ciHZ9FzY\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pHkxInw0LCqiml9U5sSIh\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Mead Street\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"y8yqje0KI4xf0AKEkfdly\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"2 bedrooms, a living room,\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zqFMNUwJCS5HOYfcz7kQg\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"eoc9hRDp3QD97QwgEYrDd\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"TV and VCR\"}]}]}],\"id\":\"kb2JpNoEqAEkIjce9XUWA\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"z4kkva1-ht3r4s7CMFOQv\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Ijw2uqCWzFtEFsB10tHrM\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$600\"}]}]}],\"id\":\"q_brE2PYtNoghbLlD2eDm\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Sometimes it is quite\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"u7SHUMwu66381ZSPt0oyp\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Za7FlMoCBnrUgzggpv-ig\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"ayTK2doUNX0SwmFV3Tblk\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Devon Close complex\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"twMq2qJlzH34xCnGowPCP\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1 bedroom, a living room, a study\"}]}]}],\"id\":\"tDCcTK2R3IOxgHbykVqgP\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a lamp with\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"4ScmAcwA7gYtX8EMynCsU\",\"text\":\"\"}]},{\"text\":\"; a dining hall\"}]}]}],\"id\":\"_7Qj6_Ee2m9DMf7zJOyeM\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"free\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"hE4LIrA46Y41avemefXjN\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"z_LGUMmwNS6q4rRVx7OAV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$500\"}]}]}],\"id\":\"Q8E8QMXTTiiBHWOupZjOT\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Not including\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Ud4EqAAqEgL3PMOpEWT-S\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"cCotuxXtVx9yK2TuZeRVJ\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":816.0000610351561,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Waste Sorting, Collection, And Disposal",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "7260c422-75b4-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "beleG-Zd24WzZoFfE_HZ_",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" các đặc điểm mà thùng rác nên có\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"sorted collection \"},{\"text\":\"bins\",\"bold\":true},{\"text\":\"...made of sturdy, \"},{\"text\":\"solid material\",\"bold\":true},{\"text\":\"\\\" (ứng với đặc điểm thứ nhất của thùng rác trên đề)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"also, ..., they \"},{\"text\":\"have to be waterproof\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thùng rác \"},{\"text\":\"phải waterproof \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: waterproof \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\" \"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 64,
+          "endTimeInSeconds": 80,
+          "transcripts": [
+           {
+            "id": "1/64765-80656",
+            "startTimeInSeconds": 64,
+            "endTimeInSeconds": 80,
+            "text": "First, there’s the sorted collection bins themselves. They’re made of sturdy, solid material, so none of your trash can seep out or puncture the bin. Also, since these things sit out on the curb overnight rain or shine, they have to be waterproof."
+           }
+          ]
+         },
+         "value": "waterproof",
+         "blankId": "7yGzzwch6P8TUUxz2mc9V"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Từ cần điền: \"},{\"text\":\"adjective/noun\",\"bold\":true},{\"text\":\" chỉ loại rác thải\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"commercial waste collection\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The majority of \"},{\"text\":\"building waste\",\"bold\":true},{\"text\":\" is paper\\\" (majority\\\" = mainly) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: building \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 97,
+          "endTimeInSeconds": 112,
+          "transcripts": [
+           {
+            "id": "3/97955-112076",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 112,
+            "text": "Our citywide waste management is divided into two services. The first is\ncommercial waste collection, or trash collection from buildings. The majority of building waste is paper, which goes in the blue or green bins."
+           }
+          ]
+         },
+         "value": "building",
+         "blankId": "LUrghpOs4vHIICq-aAioq"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"hành động không nên làm với thùng rác xanh dương/xanh lá\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"blue or greenbins\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" there are signs that warn you \"},{\"text\":\"not to overfill\",\"bold\":true},{\"text\":\" these bins.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có biển cảnh báo bạn\"},{\"text\":\" không nên đổ đầy\",\"bold\":true},{\"text\":\" các thùng rác này \\n=> \"},{\"text\":\"Đáp án: overfill \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 112,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "4/112076-124740",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 124,
+            "text": "You’ll notice in your office buildings there are signs that warn you not to overfill these bins. All that paper adds up, and an overflowing bin is infinitely harder for collectors to carry to the truck and empty."
+           }
+          ]
+         },
+         "value": "overfill",
+         "blankId": "VToK5THu2vQ6n2oqUDPj_"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"loại kim loại gây ô nhiễm môi trường\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"These \"},{\"text\":\"heavy metals\",\"bold\":true},{\"text\":\" are harmful to the environment\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Kim loại nặng\",\"bold\":true},{\"text\":\" gây nguy hiểm cho môi trường \\n=>\"},{\"text\":\" Đáp án: heavy  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 124,
+          "endTimeInSeconds": 145,
+          "transcripts": [
+           {
+            "id": "5/124740-145141",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 145,
+            "text": "Aside from paper, another large source of building waste is metals. Metals such as tin and aluminium can be put in the yellow recycle bins, but metals like lead and copper should be disposed of in the red bins. These heavy metals are harmful to the environment and exacerbate our city’s existing pollution problem."
+           }
+          ]
+         },
+         "value": "heavy",
+         "blankId": "SACC4Zn93xOKF6ARaoKoL"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" loại túi nên được dùng để đựng rác phòng ăn\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Please remember to \"},{\"text\":\"keep garbage like kitchen waste in a plastic bag\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Rác phòng ăn\"},{\"text\":\" nên được bỏ vào túi nilon\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: plastic \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 171,
+          "transcripts": [
+           {
+            "id": "7/157749-171612",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 171,
+            "text": "Many of the same guidelines apply - the sorting is the same, et cetera. Please remember to keep garbage like kitchen waste in a plastic bag. It makes collection easier and lessens the abominable rotten-trash smell."
+           }
+          ]
+         },
+         "value": "plastic",
+         "blankId": "B3TVKiv6aopIqfZTsHhUM"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"đặc điểm nơi các nhà máy xử lí rác được đặt\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"a number of \"},{\"text\":\"garbage disposal plants\",\"bold\":true},{\"text\":\"\\\" (nhà máy xử lý rác) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó nghe \\\"each of which is \"},{\"text\":\"located in the middle of an open space\",\"bold\":true},{\"text\":\" of some sort\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Các nhà máy này nằm\"},{\"text\":\" ở giữa open space\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: open\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 209,
+          "endTimeInSeconds": 221,
+          "transcripts": [
+           {
+            "id": "8/209004-221622",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 221,
+            "text": "So after we take your trash away, what happens to it? We take all the garbage to one of a number of garbage disposal plants, each of which is located in the middle of an open space of some sort."
+           }
+          ]
+         },
+         "value": "open",
+         "blankId": "VRflafxXgBPoFo6nt28gA"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"tần suát xử lý rác thải\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Waste is collected and then \"},{\"text\":\"disposed of once every four weeks\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Rác được xử lý \"},{\"text\":\"một lần mỗi 4 tuần \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 4 weeks \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 221,
+          "endTimeInSeconds": 231,
+          "transcripts": [
+           {
+            "id": "9/221622-231330",
+            "startTimeInSeconds": 221,
+            "endTimeInSeconds": 231,
+            "text": "No one wants to have their home or office right next door to a waste disposal plant, right? Waste is collected and then disposed of once every four weeks."
+           }
+          ]
+         },
+         "value": "4 weeks",
+         "blankId": "DCz33LTq8if4TLh9FLsYT"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"lí do thùng rác được dọn dẹp vào ban đêm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"garbage trucks make their rounds to \"},{\"text\":\"clear the bins at night in order to avoid traffic\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Xe rác chỉ\",\"marks\":[]},{\"text\":\" đi vào ban đêm để tránh traffic \",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> \",\"marks\":[]},{\"text\":\"Đáp án: traffic \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 231,
+          "endTimeInSeconds": 250,
+          "transcripts": [
+           {
+            "id": "10/231330-250097",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 250,
+            "text": "A lot of trash can build up in that time, so we’re in the process of developing a plan to fund collection more frequently. Ideally it would be collected weekly, but we will likely have to settle for biweekly. The garbage trucks make their rounds to clear the bins at night in order to avoid traffic."
+           }
+          ]
+         },
+         "value": "traffic",
+         "blankId": "btmdhFDq8KQDdcdBD67bF"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" rác được thải chủ yếu từ nguồn nào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"waste household\",\"bold\":true},{\"text\":\"\\\" và \\\"this amount is \"},{\"text\":\"only marginal compared\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" commercial waste\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Rác thải hộ gia đình chỉ là rất nhỏ so với\"},{\"text\":\" rác thải thương mại \",\"bold\":true},{\"text\":\"(ứng với industry, retail, and offices) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"the \"},{\"text\":\"main waste producers\",\"bold\":true},{\"text\":\" are actually \"},{\"text\":\"businesses\",\"bold\":true},{\"text\":\", industrial facilities, retail, and offices\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: businesses \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 250,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "11/250097-266476",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 266,
+            "text": "I’m sure you’ve seen how much waste your own household produces in a given week. Now imagine all the trash produced by all the households in Baltimore. It’s a lot, right? It may surprise you that this amount is only marginal compared to commercial waste."
+           },
+           {
+            "id": "12/266476-279397",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 279,
+            "text": "Yep, the main waste producers are actually businesses, industrial facilities, retail, and offices. Hard to believe humans produce that much waste, right? No wonder we have pollution problems!"
+           }
+          ]
+         },
+         "value": "businesses",
+         "blankId": "k32hqaZS8FoBmoKrO_8f-"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"vật gì không được vứt vào thùng rác\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Items such as \"},{\"text\":\"stones\",\"bold\":true},{\"text\":\", which \"},{\"text\":\"should not be disposed\",\"bold\":true},{\"text\":\" of in our bins\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Không được vứt đá vào trong thùng rác\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Đáp án: stones \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 279,
+          "endTimeInSeconds": 298,
+          "transcripts": [
+           {
+            "id": "13/279397-298267",
+            "startTimeInSeconds": 279,
+            "endTimeInSeconds": 298,
+            "text": "Anyway, after all incoming waste is sorted, recyclables are sent to a recycling plant, while garbage and toxic waste are transported to their respective areas of the plant for treatment. Items such as stones, which should not be disposed of in our bins, are separated out and discarded."
+           }
+          ]
+         },
+         "value": "stones",
+         "blankId": "fLA6oCsecZICPGxmTIIZ0"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "7yGzzwch6P8TUUxz2mc9V",
+         "key": 0
+        },
+        {
+         "id": "LUrghpOs4vHIICq-aAioq",
+         "key": 1
+        },
+        {
+         "id": "VToK5THu2vQ6n2oqUDPj_",
+         "key": 2
+        },
+        {
+         "id": "SACC4Zn93xOKF6ARaoKoL",
+         "key": 3
+        },
+        {
+         "id": "B3TVKiv6aopIqfZTsHhUM",
+         "key": 4
+        },
+        {
+         "id": "VRflafxXgBPoFo6nt28gA",
+         "key": 5
+        },
+        {
+         "id": "DCz33LTq8if4TLh9FLsYT",
+         "key": 6
+        },
+        {
+         "id": "btmdhFDq8KQDdcdBD67bF",
+         "key": 7
+        },
+        {
+         "id": "k32hqaZS8FoBmoKrO_8f-",
+         "key": 8
+        },
+        {
+         "id": "fLA6oCsecZICPGxmTIIZ0",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"RQ2v9a9mZMh0yaUs8vqFB\",\"cellsWidth\":[143,300],\"children\":[{\"type\":\"tr\",\"id\":\"nuxC7hpty2dHTL1o2nMCX\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"oD1AP-JklqXxi9o55I0mK\",\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Necessary characteristics of dustbins: Solid and \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"7yGzzwch6P8TUUxz2mc9V\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"rowSpan\":1,\"colSpan\":2},{\"id\":\"mPkAPFgQeaLTY6kEWLWRe\",\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"hidden\":true,\"rowRef\":0,\"colRef\":0}]},{\"type\":\"tr\",\"id\":\"mAUd1HjmtL4tld7OFNuM-\",\"children\":[{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\nWaste sorting\",\"bold\":true}]}]}],\"id\":\"JVblnH1rk42ICk7iK13Cx\"},{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Three kinds:\\n\",\"bold\":true},{\"text\":\"Recyclable garbage (blue or green bin) \\nUnrecyclable garbage (yellow bin) \\nToxic waste (red bin)\"}]}]}],\"id\":\"FRWdevk8XeoLv6A7JMBY8\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"fTd4HDANBHEeAN9J57_Zx\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\n\\n\\n\\nWaste collection\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"XepUcWrXhl4Tf33X4HexE\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Commercial waste collection:\",\"bold\":true},{\"text\":\"\\nIt mainly refers to \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"LUrghpOs4vHIICq-aAioq\",\"text\":\"\"}]},{\"text\":\"waste.\\nWarning signs state not to \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"VToK5THu2vQ6n2oqUDPj_\",\"text\":\"\"}]},{\"text\":\"blue/green bins. Those \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"SACC4Zn93xOKF6ARaoKoL\",\"text\":\"\"}]},{\"text\":\" metals will cause environmental pollution. \\n\\n\"},{\"text\":\"Household waste collection:\",\"bold\":true},{\"text\":\" \\nAll kitchen garbage should be put into a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"B3TVKiv6aopIqfZTsHhUM\",\"text\":\"\"}]},{\"text\":\" bag.\"}]}]}],\"id\":\"RwUBsWAYnMYkxBw5UD4_-\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hAZHNoHm6Plq_pSLX2wH5\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\n\\nWaste disposal\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"-NiL1tKUoA_ZsD7G6Tydc\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The garbage disposal plant is situated in an \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"VRflafxXgBPoFo6nt28gA\",\"text\":\"\"}]},{\"text\":\"space or field.\\nThe waste is disposed of at least once every \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"DCz33LTq8if4TLh9FLsYT\",\"text\":\"\"}]},{\"text\":\".\\nThe dustbin should be cleared at night because of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"btmdhFDq8KQDdcdBD67bF\",\"text\":\"\"}]},{\"text\":\".\\nThe waste is mainly produced by\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"k32hqaZS8FoBmoKrO_8f-\",\"text\":\"\"}]},{\"text\":\", industry, retail, and offices.\\nPlease do not dispose of\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"fLA6oCsecZICPGxmTIIZ0\",\"text\":\"\"}]},{\"text\":\"in any of the bins.\"}]}]}],\"id\":\"OEiqO30XNx9ATORalTIBI\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":443,\"border\":true,\"hasColumnHeading\":false}]",
+       "question": "Waste sorting, collection, and disposal"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "A New Essay In Psychology",
+   "duration": 6,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "2e4f44e4-75b5-11ec-90fc-65317321c44f",
+     "questions": [
+      {
+       "uuid": "2e4f44e5-75b5-11ec-90fc-65317321c44f",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"các research topic nên được lấy từ đâu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Khi bạn nghe \\\"Anyway, we spent most of the class talking about a \"},{\"text\":\"new essay\",\"bold\":true},{\"text\":\" that Pro­fessor Johnson assigned\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"You need to \"},{\"text\":\"choose one of the bold headings from the note system\",\"bold\":true},{\"text\":\" and research it\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cần \"},{\"text\":\"chọn 1 chủ đề \",\"bold\":true},{\"text\":\"từ những tiêu đề in đậm\"},{\"text\":\" trong hệ thống ghi chú\",\"bold\":true},{\"text\":\" và nghiên cứu nó \\n=>\"},{\"text\":\" Đáp án: note system \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 58,
+          "endTimeInSeconds": 76,
+          "transcripts": [
+           {
+            "id": "2/58632-63503",
+            "startTimeInSeconds": 58,
+            "endTimeInSeconds": 63,
+            "text": " I'm feeling sick, so I didn’t go to school today. Would you mind telling me what I missed in class?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "3/63503-76350",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 76,
+            "text": " Sure thing. I’m sorry you’re not feeling well! Anyway, we spent most of the class talking about a new essay that Professor Johnson assigned. You need to choose one of the bold headings from the note system and research it.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         },
+         "value": "note system",
+         "blankId": "EVJaxYyJEiKDFAxoDLe5A"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"ít nhất một reference phải được lấy ở đâu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Could you tell me the\"},{\"text\":\" specific requirements\",\"bold\":true},{\"text\":\" of this paper?\\\" (hỏi về yêu cầu của paper) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"You need to \"},{\"text\":\"find scientific research\",\"bold\":true},{\"text\":\" that \"},{\"text\":\"supports\",\"bold\":true},{\"text\":\" your claim as one of your \"},{\"text\":\"references\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một trong các liệu tham khảo \"},{\"text\":\"phải là những bài nghiên cứu khoa học \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: scientific research \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 81,
+          "endTimeInSeconds": 103,
+          "transcripts": [
+           {
+            "id": "6/81725-85637",
+            "startTimeInSeconds": 81,
+            "endTimeInSeconds": 85,
+            "text": " Could you tell me the specific requirements of this paper?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "7/85637-103104",
+            "startTimeInSeconds": 85,
+            "endTimeInSeconds": 103,
+            "text": " Sure. You need to find scientific research that supports your claim as one of your references. It can be from some of the case studies we discussed in class, or you can find your own. Or even better, you can conduct your own research! I’m sure that would get you an",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         },
+         "value": "scientific research",
+         "blankId": "e1g16oySVPSv96qlHm_RK"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"nguồn của dữ liệu mà Julie tìm thấy trong thử nghiệm trước\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe Ricky hỏi Julie \\\"\"},{\"text\":\"where are you getting your references?\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I’ve already found \"},{\"text\":\"a few experiments in scientific journals\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Julie tìm thấy \"},{\"text\":\"trên tạp chí khoa học \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: scientific journals \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 103,
+          "endTimeInSeconds": 123,
+          "transcripts": [
+           {
+            "id": "8/103104-109981",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 109,
+            "text": " Have you decided what you’re going to do yet? Also, where are you getting your references?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "9/109981-123054",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 123,
+            "text": " Yeah, I’m going to research facial recognition by infants. I’ve already found a few experiments in scientific journals. That would probably be a good start for you - there are tons of journals in the library.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         },
+         "value": "scientific journals",
+         "blankId": "UsNjnK3gUIzN9qGGFk48O"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" ngoài journals, Ricky còn dùng được cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I’m sure there is \"},{\"text\":\"lots of stuff\",\"bold\":true},{\"text\":\" about it on the \"},{\"text\":\"Internet\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có rất \"},{\"text\":\"nhiều thứ trên mạng\",\"bold\":true},{\"text\":\" liên quan tới chủ đề của anh ta \\n=> Đáp án có thể là \\\"\"},{\"text\":\"Internet\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"Are we allowed to use information from the Internet\",\"bold\":true},{\"text\":\"?\\\" và nghe phản hồi là \"},{\"text\":\"\\\"Sure\\\" \",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể sử dụng thông tin trên Internet \\n=> \"},{\"text\":\"Đáp án: (the)/(information from) internet \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 123,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "10/123054-136251",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 136,
+            "text": " Great idea, thanks. I’m considering writing my essay on the effects of one of the psychotropic drugs we talked about in class. I’m sure there is lots of stuff about it on the Internet. Are we allowed to use information from the Internet?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "11/136251-144643",
+            "startTimeInSeconds": 136,
+            "endTimeInSeconds": 144,
+            "text": " Sure, you can use that as long as it’s not your main source for information. You’ll probably want to cite some of the experiments we went over.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         },
+         "value": "the information from internet/internet/information from internet/the internet",
+         "blankId": "TgzOgvzWODbDEsdIXAvtR"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "8I74wJNInqFu-5lmmM88q",
+         "editorValue": "[{\"children\":[{\"text\":\"The research topic should come from one of the headings in the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"EVJaxYyJEiKDFAxoDLe5A\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "EVJaxYyJEiKDFAxoDLe5A",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "0IKS9WdXp84abeEK05NeZ",
+         "editorValue": "[{\"children\":[{\"text\":\"At least one reference needs to be from \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"e1g16oySVPSv96qlHm_RK\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "e1g16oySVPSv96qlHm_RK",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "mpOkKYW7k54EUi3PeBGX5",
+         "editorValue": "[{\"children\":[{\"text\":\"The data Julie found on past experiments is in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"UsNjnK3gUIzN9qGGFk48O\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "UsNjnK3gUIzN9qGGFk48O",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "EBUCzmwVD3_wP9PbFwAZq",
+         "editorValue": "[{\"children\":[{\"text\":\"Ricky has pointed out that aside from journals, he can also use \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"TgzOgvzWODbDEsdIXAvtR\"},{\"text\":\" about scientific experiments.\"}]}]",
+         "blanks": [
+          {
+           "id": "TgzOgvzWODbDEsdIXAvtR",
+           "key": 3
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "2e4f44e6-75b5-11ec-90fc-65317321c44f",
+     "questions": [
+      {
+       "uuid": "2e4f44e7-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "How should the essay be written?",
+       "options": [
+        {
+         "key": 0,
+         "value": "single-spaced"
+        },
+        {
+         "key": 1,
+         "value": "double-spaced"
+        },
+        {
+         "key": 2,
+         "value": "double spaces"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"how the essay should be written\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Professor Johnson wants it \"},{\"text\":\"double-spaced\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 191,
+          "endTimeInSeconds": 201,
+          "transcripts": [
+           {
+            "id": "13/191267-195141",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 195,
+            "text": " Are there any specifications on how the essay should be written?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "14/195141-201665",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 201,
+            "text": " Yeah, Professor Johnson wants it double-spaced. It should be between 6 to 10 pages long.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "2e4f44e8-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "The main heading is required to be ",
+       "options": [
+        {
+         "key": 0,
+         "value": "italic "
+        },
+        {
+         "key": 1,
+         "value": "underlined "
+        },
+        {
+         "key": 2,
+         "value": "bold"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe \\\"..or just the \"},{\"text\":\"main heading?\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"Only the\"},{\"text\":\" main heading\",\"bold\":true},{\"text\":\" should be in \"},{\"text\":\"italics\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ \"},{\"text\":\"tiêu đề chính cần được in nghiêng\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 230,
+          "transcripts": [
+           {
+            "id": "17/215992-219806",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 219,
+            "text": " Wait, each section heading, or just the main heading?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           },
+           {
+            "id": "18/219806-230069",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 230,
+            "text": " Only the main heading should be in italics. I think section titles are supposed to be in the same format, but maybe in bold. You’ll have to check that in class next time.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "2e4f44e9-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "Regarding all the requirements, the essay must be",
+       "options": [
+        {
+         "key": 0,
+         "value": "handwritten"
+        },
+        {
+         "key": 1,
+         "value": "typed"
+        },
+        {
+         "key": 2,
+         "value": "both ways are acceptable"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Khi bạn nghe \\\"since there are so \"},{\"text\":\"many requirements\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley20\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the report \"},{\"text\":\"has to be typed\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Báo cáo \"},{\"text\":\"phải được đánh máy \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 238,
+          "transcripts": [
+           {
+            "id": "19/230069-238618",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 238,
+            "text": " Oh okay. So I take it that the report has to be typed since there are so many requirements. What are the other formatting requirements?",
+            "character": {
+             "id": "c9vatt82c7dWCOMHz8GE9",
+             "name": "RICKY"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "2e4f44ea-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "Where should the student number the pages?",
+       "options": [
+        {
+         "key": 0,
+         "value": "top left corner "
+        },
+        {
+         "key": 1,
+         "value": "bottom right corner "
+        },
+        {
+         "key": 2,
+         "value": "top right corner"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"You should \"},{\"text\":\"number each page\",\"bold\":true},{\"text\":\"\\\"  (đề cập tới việc đánh số trang) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"Make sure it goes up in the \"},{\"text\":\"top right corner\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Số trang \"},{\"text\":\"phải ở góc trên cùng bên phải \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 238,
+          "endTimeInSeconds": 249,
+          "transcripts": [
+           {
+            "id": "20/238618-249804",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 249,
+            "text": " Yep, it’s got to be typed. Aside from that, there are still a few more specifications. You should number each page. Make sure it goes up in the top right corner.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "2e4f44eb-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the suitable width of the margins?",
+       "options": [
+        {
+         "key": 0,
+         "value": "325 pixels"
+        },
+        {
+         "key": 1,
+         "value": "3.25 pixels"
+        },
+        {
+         "key": 2,
+         "value": "3.25 centimeter"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó nghe \\\"make sure the \"},{\"text\":\"margins are 3.25 pixels wide\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phải căn lề ngang là\"},{\"text\":\" 3,25 pixel \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 267,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "24/267761-274046",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 274,
+            "text": " No problem. Also, make sure the margins are Q29 3.25 pixels wide..",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "2e4f6bfc-75b5-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": " What should be included in the essay?",
+       "options": [
+        {
+         "key": 0,
+         "value": "student's phone number "
+        },
+        {
+         "key": 1,
+         "value": "student's ID number "
+        },
+        {
+         "key": 2,
+         "value": "student's ID picture"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"essay phải có cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"remember to \"},{\"text\":\"put down your ID number\",\"bold\":true},{\"text\":\" on your report.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Phải điền mã số\",\"bold\":true},{\"text\":\" của bạn vào bài report (put down = include) \\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 277,
+          "endTimeInSeconds": 295,
+          "transcripts": [
+           {
+            "id": "26/277288-295439",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 295,
+            "text": " It’s okay, I can show you. It’s really easy. I think that’s all the directions he gave us. A lot of formatting requirements, but we have the freedom to research many things that we like, so that’s good. Oh, I almost forgot - remember to put down your ID number on your report.",
+            "character": {
+             "id": "3UbbEBAHf5nYw_K5yaPLI",
+             "name": "JULIE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A, B or C",
+          "bold": true
+         },
+         {
+          "text": ". "
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "A Lecture In Environmental Science",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "330eac38-75b6-11ec-b893-939e6ef4d847",
+     "questions": [
+      {
+       "uuid": "330eac39-75b6-11ec-b893-939e6ef4d847",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Loại từ cần điền là\"},{\"text\":\" tính từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  Khi bạn nghe \\\" I mention that \"},{\"text\":\"water is a big worry\",\"bold\":true},{\"text\":\" here\\\"  (= \"},{\"text\":\"major concern about water) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nói về tầm quan trọng của nước \\n=> Biết đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"Seriously, though,\"},{\"text\":\" a safe and reliable source of water\",\"bold\":true},{\"text\":\" is one of the great concerns of people everywhere.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nguồn nước an toàn và đáng tin cậy\",\"bold\":true},{\"text\":\" là một trong những mối quan tâm lớn của người dân ở khắp mọi nơi. \\n=> \"},{\"text\":\"Đáp án: safe and reliable \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\" \"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 60,
+          "endTimeInSeconds": 88,
+          "transcripts": [
+           {
+            "id": "0/60565-75404",
+            "startTimeInSeconds": 60,
+            "endTimeInSeconds": 75,
+            "text": "Good morning and welcome to yet another lecture in Environmental Science. I don’t think I am telling you a secret when I mention that water is a big worry here in Australia. The stuff is scarce. Perhaps that’s why we drink so much beer, eh?"
+           },
+           {
+            "id": "1/75404-88626",
+            "startTimeInSeconds": 75,
+            "endTimeInSeconds": 88,
+            "text": "Seriously, though, a safe and reliable source of water is one of the great concerns of people everywhere. Moreover, as the world population grows, the pressure on existing water supplies grows greater and greater."
+           }
+          ]
+         },
+         "value": "safe and reliable",
+         "blankId": "-YDtT3P1tb9_8G1_alCJp"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"nước ở Úc như thế nào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"I'm going to confine my remarks to \"},{\"text\":\"Australia\",\"bold\":true},{\"text\":\"\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"the water supply is\"},{\"text\":\" extremely scarce\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nguồn cung cấp nước \"},{\"text\":\"cực kỳ khan hiếm \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: scarce \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 112,
+          "endTimeInSeconds": 127,
+          "transcripts": [
+           {
+            "id": "4/112813-127451",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 127,
+            "text": "But today, I’m going to confine my remarks to Australia. As noted already, here down under, the water supply is extremely scarce. The only drier continent is Antarctica - and remember, no one really lives there anyway."
+           }
+          ]
+         },
+         "value": "scarce",
+         "blankId": "eOWf2kw9eSAxX0wpdOhiX"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"mục đích sử dụng nước nhiều nhất\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"drinking is \"},{\"text\":\"not anywhere near being the main use\",\"bold\":true},{\"text\":\" for water\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mục đích \"},{\"text\":\"uống nước không phải là chính \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại drinking\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"Most water is actually used for washing\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nước được \"},{\"text\":\"dùng nhiều nhất cho việc giặt rửa\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: washing \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 136,
+          "endTimeInSeconds": 154,
+          "transcripts": [
+           {
+            "id": "6/136843-154243",
+            "startTimeInSeconds": 136,
+            "endTimeInSeconds": 154,
+            "text": "Now, when I speak of people needing water, most of you probably think of drinking. Certainly everyone needs water for drinking. But surprising as it may sound, drinking is not anywhere near being the main use for water. Most water is actually used for washing."
+           }
+          ]
+         },
+         "value": "washing",
+         "blankId": "uKtlTv-DIGgM0Q7Y8sLYj"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là\"},{\"text\":\" nơi tìm thấy nguồn nước tinh khiết \",\"bold\":true},{\"text\":\"(bên cạnh rivers, creeks) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"where to get water\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The \"},{\"text\":\"purest water\",\"bold\":true},{\"text\":\" is found in rivers, creeks, \"},{\"text\":\"lakes, and dams\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nước tinh khiết nhất\",\"bold\":true},{\"text\":\" được tìm thấy ở sông, lạch, \"},{\"text\":\"hồ và đập \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: lakes, and dams \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 166,
+          "endTimeInSeconds": 201,
+          "transcripts": [
+           {
+            "id": "8/166195-184004",
+            "startTimeInSeconds": 166,
+            "endTimeInSeconds": 184,
+            "text": "So, where to get water? It could be obtained from rainwater, but often rainfall consists of other harmful pollutants that evaporated with the water. In fact, acid rain, an intense example of this, causes harmful effects on the wildlife of the habitat on which it falls."
+           },
+           {
+            "id": "9/184004-201875",
+            "startTimeInSeconds": 184,
+            "endTimeInSeconds": 201,
+            "text": "Water from underground could also be used, though it is more difficult to contain and often must go through an extensive cleansing process. The purest water is found in rivers, creeks, lakes, and dams. And, sad to say, Australia has precious few of these."
+           }
+          ]
+         },
+         "value": "lakes and dams",
+         "blankId": "4z_Mha6jwV_KBdjHv42hT"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cái gì không có sẽ khiến nước mưa trở thành nguồn nước hữu dụng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Speaking of \"},{\"text\":\"rain\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"rain is a useful source of water only if \"},{\"text\":\"air pollution\",\"bold\":true},{\"text\":\" is fairly mild.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mưa sẽ là nguồn nước hữu ích \"},{\"text\":\"nếu ô nhiễm không khí ở mức độ nhẹ \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: air pollution \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 220,
+          "endTimeInSeconds": 239,
+          "transcripts": [
+           {
+            "id": "11/220803-239180",
+            "startTimeInSeconds": 220,
+            "endTimeInSeconds": 239,
+            "text": "Speaking of rain, we already heard how rainfall is diminishing here in Oceania. The quantity itself isn’t the only problem, either. Going back to the problems with obtaining rainwater, a further problem is that rain is a useful source of water only if air pollution is fairly mild."
+           }
+          ]
+         },
+         "value": "air pollution",
+         "blankId": "RaXTXahpXO6oO6FAQBxs_"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"người phương Tây muốn nước như thế nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"a huge concern for \"},{\"text\":\"people in the West\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"want their water to be \"},{\"text\":\"pure and safe\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ muốn nước\"},{\"text\":\" tinh khiết và an toàn. \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: pure and safe \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "14/263199-279881",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 279,
+            "text": "This is becoming a huge concern for people in the West, who want their water to be pure and safe. Though reliable drinking water is important everywhere, the concern in the West is reflected in all the government regulations and political campaigns aimed at solving this problem."
+           }
+          ]
+         },
+         "value": "pure and safe",
+         "blankId": "X56wZbqAXxhuzId9LajEp"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"nước dễ bị cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\" all water is \"},{\"text\":\"highly vulnerable to contamination\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nước \"},{\"text\":\"rất dễ bị ô nhiễm \",\"bold\":true},{\"text\":\"(\"},{\"text\":\"highly vulnerable to  \",\"bold\":true},{\"text\":\"=\"},{\"text\":\" is highly prone to\",\"bold\":true},{\"text\":\") \\n=>\"},{\"text\":\" Đáp án: contamination  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 289,
+          "endTimeInSeconds": 304,
+          "transcripts": [
+           {
+            "id": "16/289303-304499",
+            "startTimeInSeconds": 289,
+            "endTimeInSeconds": 304,
+            "text": "Now, whatever the source of water, we can never afford to forget that all water is highly vulnerable to contamination. Whether we’re getting it from the ground, from bodies of water, or rainfall, it is susceptible to a variety of toxins."
+           }
+          ]
+         },
+         "value": "contamination",
+         "blankId": "pjpC0BCUleIOiHySEyAXa"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"mục đích chính của việc sử dụng nước ở nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"one of the most \"},{\"text\":\"important domestic uses of water \",\"bold\":true},{\"text\":\"is\"},{\"text\":\" for drinking\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một trong những\"},{\"text\":\" mục đích sử dụng nước\",\"bold\":true},{\"text\":\" sinh hoạt \"},{\"text\":\"quan trọng nhất là để uống \",\"bold\":true},{\"text\":\" (domestic ~ in the home)\\n=> \"},{\"text\":\"Đáp án: drinking  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 330,
+          "transcripts": [
+           {
+            "id": "18/314442-330818",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 330,
+            "text": "As humans and all other animals need water to survive, it's no surprise to us that one of the most important domestic uses of water is for drinking. Yet if you have old-fashioned lead pipes, you may slowly be poisoning yourself by drinking that nice clear water."
+           }
+          ]
+         },
+         "value": "drinking",
+         "blankId": "4YO2qDafJi9JRCkcFgHN9"
+        }
+       ],
+       "paragraph": {
+        "id": "YsogUeuJbjGN_R4OoTGSn",
+        "editorValue": "[{\"children\":[{\"text\":\"This paper pertains to one major concern about water for people everywhere - that is a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"-YDtT3P1tb9_8G1_alCJp\"},{\"text\":\" source of water.\"}]},{\"children\":[{\"text\":\"Australia is a dry continent and thus water is very\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"eOWf2kw9eSAxX0wpdOhiX\"},{\"text\":\". \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"We utilise the most water for\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"uKtlTv-DIGgM0Q7Y8sLYj\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"We discover the purest water in rivers, creeks,\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4z_Mha6jwV_KBdjHv42hT\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Rainfall is a useful source of water unless there is significant\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"RaXTXahpXO6oO6FAQBxs_\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"People in the West wish the water to be \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"X56wZbqAXxhuzId9LajEp\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Water is highly prone to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"pjpC0BCUleIOiHySEyAXa\"},{\"text\":\" \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"In the home, one of the most important uses of water is for \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4YO2qDafJi9JRCkcFgHN9\"},{\"text\":\".\"}]}]",
+        "blanks": [
+         {
+          "id": "-YDtT3P1tb9_8G1_alCJp",
+          "key": 0
+         },
+         {
+          "id": "eOWf2kw9eSAxX0wpdOhiX",
+          "key": 1
+         },
+         {
+          "id": "uKtlTv-DIGgM0Q7Y8sLYj",
+          "key": 2
+         },
+         {
+          "id": "4z_Mha6jwV_KBdjHv42hT",
+          "key": 3
+         },
+         {
+          "id": "RaXTXahpXO6oO6FAQBxs_",
+          "key": 4
+         },
+         {
+          "id": "X56wZbqAXxhuzId9LajEp",
+          "key": 5
+         },
+         {
+          "id": "pjpC0BCUleIOiHySEyAXa",
+          "key": 6
+         },
+         {
+          "id": "4YO2qDafJi9JRCkcFgHN9",
+          "key": 7
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 8
+    },
+    {
+     "id": "330eac3a-75b6-11ec-b893-939e6ef4d847",
+     "questions": [
+      {
+       "uuid": "330eac3b-75b6-11ec-b893-939e6ef4d847",
+       "type": "SINGLE_ANSWER",
+       "question": "The mechanisms for water management are",
+       "options": [
+        {
+         "key": 0,
+         "value": "inadequate "
+        },
+        {
+         "key": 1,
+         "value": "nearly adequate "
+        },
+        {
+         "key": 2,
+         "value": "admirable"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"a safe and steady supply of drinking water\",\"bold\":true},{\"text\":\"\\\" (=\"},{\"text\":\"water management)\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Nghe thấy \\\"There are a lot of initiatives that make \"},{\"text\":\"admirable efforts to remedy this issue\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là những \"},{\"text\":\"nỗ lực đáng ngưỡng mộ trong việc giải quyết vấn nạn\",\"bold\":true},{\"text\":\" này, \"},{\"text\":\"admirable ở đây không nói về mechanism\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"the \"},{\"text\":\"mechanisms\",\"bold\":true},{\"text\":\" for water management are, in a word, \"},{\"text\":\"insufficient\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Các cơ chế quản lý nước là\"},{\"text\":\" không đủ\",\"bold\":true},{\"text\":\" (insufficient = inadequate)\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 343,
+          "endTimeInSeconds": 376,
+          "transcripts": [
+           {
+            "id": "20/343292-356969",
+            "startTimeInSeconds": 343,
+            "endTimeInSeconds": 356,
+            "text": "So what is being done to ensure we Australians a safe and steady supply of drinking water? There are a lot of initiatives that make admirable efforts to remedy this\nissue. We’ll be talking about this when we meet again on Thursday."
+           },
+           {
+            "id": "21/356969-376231",
+            "startTimeInSeconds": 356,
+            "endTimeInSeconds": 376,
+            "text": "But, as a preview, I can tell you that so far the amount of real solutions that have been produced is not nearly adequate. Traditionally, we’ve been very free in this country. That means that every person and every province tend to go its own way. So the mechanisms for water management are, in a word, insufficient."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "330eac3c-75b6-11ec-b893-939e6ef4d847",
+       "type": "SINGLE_ANSWER",
+       "question": "The government’s 1989 White Paper",
+       "options": [
+        {
+         "key": 0,
+         "value": "caused a concern"
+        },
+        {
+         "key": 1,
+         "value": "is unreliable"
+        },
+        {
+         "key": 2,
+         "value": "is inconclusive"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\" the \"},{\"text\":\"government’s water policy\",\"bold\":true},{\"text\":\" is the \"},{\"text\":\"1989 White Paper\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Sau đó nghe \\\"If you \"},{\"text\":\"compare the numbers offered in the paper with those in the text\",\"bold\":true},{\"text\":\", you’ll find that \"},{\"text\":\"the report is rather untrustworthy. \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vì\"},{\"text\":\" khi so sánh\",\"bold\":true},{\"text\":\" những con số  \"},{\"text\":\"sẽ thấy rằng báo cáo khá không đáng tin cậy.\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 391,
+          "endTimeInSeconds": 410,
+          "transcripts": [
+           {
+            "id": "23/391885-410837",
+            "startTimeInSeconds": 391,
+            "endTimeInSeconds": 410,
+            "text": "The basis for the government’s water policy is the 1989 White Paper reporting on “Water Use: Present and Future\". If you compare the numbers offered in the paper with those in the text, you’ll find that the report is rather untrustworthy. Truth being told, I’m being too kind when I say that!"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:04Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

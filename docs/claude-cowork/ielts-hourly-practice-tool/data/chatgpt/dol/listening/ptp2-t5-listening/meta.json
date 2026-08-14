@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp2-t5-listening",
+ "title": "Practice Test Plus 2 - Listening Test 5",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 2",
+ "testNum": 5,
+ "order": 58,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-2-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Work For The Library",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7f8cd61f-50b7-4efd-9367-9ddf5fe22ccd.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 19184370
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c4cf7313-7513-42a0-abe5-5c20081699c8.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Canadian Clean Air Day",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/be3e87b7-5836-4dc3-8e5e-1c9b4d02e1a4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 12714362
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d47037c2-2d26-48d6-b908-d56a32e7de30.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 16
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Field Trip To Kenya",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b62c8cb9-5e95-4351-a0d6-bb60c666df1a.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 14444713
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/07a2a7c3-57fb-4398-bc8d-530500c3e51d.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Research Methodology",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a4019a96-5c16-4559-8675-9658b834eb3c.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 18956583
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/df925329-7454-4b6e-9ad8-aaeea9734e70.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 24
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:01:45Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,124 @@
+{
+  "spec": "ielts-practice-tool-spec-index",
+  "version": 5,
+  "updated": "2026-08-06",
+  "toolRoot": "docs/claude-cowork/ielts-hourly-practice-tool",
+  "pagesBase": "https://mtm0101.github.io/public-sites/claude-cowork/ielts-hourly-practice-tool/",
+  "entryPoint": "specs/README.md",
+  "agentsEntryPoint": "AGENTS.md",
+  "repo": "mtm0101/public-sites",
+  "branch": "main",
+  "readingOrder": [
+    { "order": 1, "id": "platform", "file": "specs/00-platform.md", "required": true },
+    { "order": 2, "id": "task", "file": "specs/<pick-from-catalog>", "required": true },
+    { "order": 3, "id": "workflows", "file": "specs/08-agent-workflows.md", "required": "when publishing" },
+    { "order": 4, "id": "app", "file": "specs/07-app-features.md", "required": "when editing index.html" }
+  ],
+  "catalog": [
+    {
+      "id": "ielts-hourly-lesson",
+      "file": "specs/01-ielts-hourly-lesson.md",
+      "schema": 1,
+      "type": "lesson",
+      "category": "ielts-hourly",
+      "appTab": "lessons",
+      "outputGlob": "data/*/lessons/ielts-*.json",
+      "skeleton": "data/templates/lesson-template.json",
+      "stateFiles": ["data/claude-cowork/state.json"]
+    },
+    {
+      "id": "bbc-6min",
+      "file": "specs/02-bbc-6min.md",
+      "schema": 2,
+      "format": "bbc-6min",
+      "type": "lesson",
+      "category": "bbc-6-minute-english",
+      "appTab": "bbc",
+      "outputGlob": "data/*/bbc/bbc-*.json",
+      "skeleton": "data/templates/bbc-lesson-template.json",
+      "stateFiles": ["data/chatgpt/bbc/processed.json", "data/chatgpt/bbc/upcoming.json"]
+    },
+    {
+      "id": "daily-news",
+      "file": "specs/03-daily-news.md",
+      "schema": 2,
+      "type": "news",
+      "category": "daily-news",
+      "appTab": "others",
+      "outputGlob": "data/chatgpt/news/news-gpt-*.json",
+      "skeleton": "data/templates/dynamic-template.json"
+    },
+    {
+      "id": "worldcup-briefing",
+      "file": "specs/04-worldcup-briefing.md",
+      "schema": 2,
+      "type": "news",
+      "category": "worldcup",
+      "appTab": "others",
+      "outputGlob": "data/chatgpt/news/worldcup-gpt-*.json",
+      "skeleton": "data/templates/dynamic-template.json"
+    },
+    {
+      "id": "morning-brief",
+      "file": "specs/05-morning-brief.md",
+      "schema": 2,
+      "type": "brief",
+      "category": "morning-brief",
+      "appTab": "others",
+      "outputGlob": "data/chatgpt/brief/brief-gpt-*.json",
+      "language": "en-only"
+    },
+    {
+      "id": "speaking-source",
+      "file": "specs/06-speaking-source.md",
+      "shape": "speaking",
+      "appTab": "speaking",
+      "outputGlob": "data/*/speaking/*.json",
+      "reference": "data/claude-cowork/speaking/0.speaking.json"
+    },
+    {
+      "id": "app-features",
+      "file": "specs/07-app-features.md",
+      "target": "index.html"
+    },
+    {
+      "id": "agent-workflows",
+      "file": "specs/08-agent-workflows.md"
+    },
+    {
+      "id": "listening-test",
+      "file": "specs/10-listening-test.md",
+      "shape": "dol-listening-test",
+      "appTab": "listening-test",
+      "outputGlob": "data/chatgpt/dol/listening/*/questions.json",
+      "manifest": "data/chatgpt/dol/listening/manifest.json"
+    },
+    {
+      "id": "reading-test",
+      "file": "specs/11-reading-test.md",
+      "shape": "dol-reading-test",
+      "appTab": "reading-test",
+      "outputGlob": "data/chatgpt/dol/reading-test/*/questions.json",
+      "manifest": "data/chatgpt/dol/reading-test/manifest.json"
+    }
+  ],
+  "templates": {
+    "platformJson": "data/templates/template-spec.json",
+    "lessonSkeleton": "data/templates/lesson-template.json",
+    "dynamicSkeleton": "data/templates/dynamic-template.json",
+    "bbcSkeleton": "data/templates/bbc-lesson-template.json"
+  },
+  "prompts": {
+    "chatgptDir": "prompts/chatgpt/",
+    "chatgptSchedulersDir": "prompts/chatgpt/schedulers/",
+    "chatgptShared": "prompts/chatgpt/SHARED.md",
+    "claudeCoworkIelts": "prompts/claude/ielts-hourly.md",
+    "chatgptTasks": [
+      { "id": "bbc-6min", "taskPrompt": "prompts/chatgpt/bbc-6min.md", "schedulerBaseline": "prompts/chatgpt/schedulers/bbc-6min.scheduler.md" },
+      { "id": "ielts-hourly", "taskPrompt": "prompts/chatgpt/ielts-hourly.md", "schedulerBaseline": "prompts/chatgpt/schedulers/ielts-hourly.scheduler.md" },
+      { "id": "daily-news", "taskPrompt": "prompts/chatgpt/daily-news.md", "schedulerBaseline": "prompts/chatgpt/schedulers/daily-news.scheduler.md" },
+      { "id": "worldcup-daily", "taskPrompt": "prompts/chatgpt/worldcup-daily.md", "schedulerBaseline": "prompts/chatgpt/schedulers/worldcup-daily.scheduler.md" },
+      { "id": "morning-brief", "taskPrompt": "prompts/chatgpt/morning-brief.md", "schedulerBaseline": "prompts/chatgpt/schedulers/morning-brief.scheduler.md" }
+    ]
+  }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam17-t1-listening",
+ "title": "CAM IELTS 17 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 17",
+ "testNum": 1,
+ "order": 13,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-17-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Buckworth Conservation Group",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/6131192d-5d79-4b1e-b341-7ac16df81cf0.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6631564
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/56d9bee9-2700-4be3-ae77-05c0fdb56a2f.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 58
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Boat trip round Tasmania",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/9114c0e5-22f9-4826-9af3-4e49434816c7.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6604042
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/c4f47590-674d-4d85-9e9c-8ccf1e51e73a.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 33
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Work experience for veterinary science students",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/50da354f-ff64-4c24-ac32-d38a86920b82.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 7096102
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/20623b3a-8eb6-4f43-bb1a-88109e6517c3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 63
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Labyrinths",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/dfe88e23-521b-474c-8c62-8477d327e8fd.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7278748
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/2434634d-cfc6-4c16-b56b-d9fbf53352df.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 38
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:35:55Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp2-t3-listening",
+ "title": "Practice Test Plus 2 - Listening Test 3",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 2",
+ "testNum": 3,
+ "order": 56,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-2-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Council Youth Scheme Application For Funding For Group Project",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/118f3fd6-827c-436c-b38e-8f327b6f9c75.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 19739211
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8f1e4c08-f629-4c7b-b934-00b26174c8a8.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 52
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Time In Darwin",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7ade7132-657a-41fa-a042-7383bba42cf2.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 17432077
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c96ada32-d5f7-40c8-b919-5f42a20cd6eb.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 28
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Effects Of Weather On Mood",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/33f87e28-c16f-463d-86fb-6495adff1169.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 17517758
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/13d1a628-bb0a-4de7-b299-bba448056484.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 37
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "USA Research Projects Into Class Sizes",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cd605845-4492-40a6-a7fa-de3823c1af73.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 19822803
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ac60ffa4-6e99-4f52-b95b-1dc0506625be.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 24
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:01:02Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,2115 @@
+{
+ "schema": 1,
+ "id": "actual1-t3-listening",
+ "title": "Actual Test 1 - Listening Test 3",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 3,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-1-test-3-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-1-test-3-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Product Incident Report",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "ab4a26a7-75b0-11ec-8718-8331ba0bd900",
+     "questions": [
+      {
+       "uuid": "OfwLpS10YCL_mhcyDUIeH",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"mã hàng của sản phẩm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe hỏi \\\" I just need to ask you the \"},{\"text\":\"model number\",\"bold\":true},{\"text\":\" of the cooker.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe \\\"It's \"},{\"text\":\"R242\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: R242 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 169,
+          "endTimeInSeconds": 183,
+          "transcripts": [
+           {
+            "id": "10/169790-174075",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 174,
+            "text": " Sir, don’t worry. I just need to ask you the model number of the cooker.",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "11/174075-183613",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 183,
+            "text": " Hmmm... where are my glasses? Ah, here! Let’s see... ah. It's R242.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "R242",
+         "blankId": "qXuXZcfME8cJtjECuHim9"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"giá tiền của sản phẩm \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"how much\",\"bold\":true},{\"text\":\" did you \"},{\"text\":\"pay\",\"bold\":true},{\"text\":\" for the product?\\\" (hỏi về giá tiền)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"89.99 pounds\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 89.99 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 194,
+          "transcripts": [
+           {
+            "id": "12/183613-188719",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 188,
+            "text": " R242. OK, and how much did you pay for the product?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "13/188719-194147",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 194,
+            "text": " 89.99 pounds. It was on sale, I guess I should tell you.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "89.99",
+         "blankId": "2Qn9eky2Fho3C_MbpqhAJ"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là tên\"},{\"text\":\" chi nhánh nơi mua sản phẩm \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"\"},{\"text\":\"which store and which  branch?\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\" The \"},{\"text\":\"City Centre Branch\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: City Centre  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 194,
+          "endTimeInSeconds": 207,
+          "transcripts": [
+           {
+            "id": "14/194147-200611",
+            "startTimeInSeconds": 194,
+            "endTimeInSeconds": 200,
+            "text": " Thank you, that’s honest of you. Now, where did you buy the cooker? Which store and which branch?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "15/200611-204153",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 204,
+            "text": " At that big Electric Life appliance store downtown.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           },
+           {
+            "id": "16/204153-205934",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 205,
+            "text": " The City Centre Branch?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "17/205934-207033",
+            "startTimeInSeconds": 205,
+            "endTimeInSeconds": 207,
+            "text": " That’s the one.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "City Center",
+         "blankId": "xmnReTNB3htmfMXRdvoQP"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"vấn đề của sản phẩm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy  \\\"And you say \"},{\"text\":\"the problem\",\"bold\":true},{\"text\":\" is that the \"},{\"text\":\"steam escapes\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Người kia confirm \\\"\"},{\"text\":\"Yes, it does\",\"bold\":true},{\"text\":\"!\\\" và \\\"So we have an \"},{\"text\":\"R242 cooker\",\"bold\":true},{\"text\":\" with \"},{\"text\":\"an escaping steam problem\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nồi cơm này \"},{\"text\":\"bị hở, làm hơi nước bị thoát \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: steam escapes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 207,
+          "endTimeInSeconds": 228,
+          "transcripts": [
+           {
+            "id": "18/207033-210644",
+            "startTimeInSeconds": 207,
+            "endTimeInSeconds": 210,
+            "text": " And you say the problem is that the steam escapes?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "19/210644-212010",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 212,
+            "text": " Yes, it does!",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           },
+           {
+            "id": "20/212010-228468",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 228,
+            "text": " No problem, sir. If there’s steam escaping, clearly the cooker is broken or defective. So we have an R242 cooker with an escaping steam problem. It was bought from Electric Life’s City Centre Branch for 89.99. Is that correct?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           }
+          ]
+         },
+         "value": "steam escaping/escaping steam",
+         "blankId": "YaGZ4MPcNzeaacX7Fl_rB"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "qXuXZcfME8cJtjECuHim9",
+         "key": 0
+        },
+        {
+         "id": "2Qn9eky2Fho3C_MbpqhAJ",
+         "key": 1
+        },
+        {
+         "id": "xmnReTNB3htmfMXRdvoQP",
+         "key": 2
+        },
+        {
+         "id": "YaGZ4MPcNzeaacX7Fl_rB",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"hlgIW3e2hKnutGajxl6l1\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"CgTEFjCJ8cXEqzwlk5ZmG\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Product:\",\"bold\":true}]}]}],\"id\":\"l67iVu9S9TehCXCbaF2fI\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"rice cooker\",\"underline\":true,\"italic\":true}]}]}],\"id\":\"gyAlL4-7TdJdUidcjWA9V\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"mTsyQkUkehLdY9SsCW6qN\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Model Number:\",\"bold\":true}]}]}],\"id\":\"cE8pAG7yEax4Gz6OFaeoq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qXuXZcfME8cJtjECuHim9\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"xTIIXv6mZ4KO0KqEIPDD-\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pjWls83edz4qaLSVH0B1U\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Price of the Product:\",\"bold\":true}]}]}],\"id\":\"Amk1qLk56SVjEH83QzEKg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"£\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"2Qn9eky2Fho3C_MbpqhAJ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"9Y-J6Dk4r7K1e5KiJwpI1\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"sQab6L_AIC5h6Z8e91pUt\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name of the Branch:\",\"bold\":true}]}]}],\"id\":\"nI2g-WFyyb_bDVhqoxLh_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"xmnReTNB3htmfMXRdvoQP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"jOpC3uwBwmZ6FRWpfookF\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"Mueqvsv6OdrlwFevUdhl5\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Problem:\",\"bold\":true}]}]}],\"id\":\"drSPVzBnPbVFY8mVU8d_1\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"YaGZ4MPcNzeaacX7Fl_rB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"mcDGCwz3WvvDP-esuak-9\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Product Incident Report"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "ab4a4db8-75b0-11ec-8718-8331ba0bd900",
+     "questions": [
+      {
+       "uuid": "nmFyxB4hbUS4_Lx3Gj4yV",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"địa chỉ nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"what’s your name and \"},{\"text\":\"address\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"my address is \"},{\"text\":\"84 Park Road\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 84 Park Road \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 305,
+          "endTimeInSeconds": 325,
+          "transcripts": [
+           {
+            "id": "26/305119-310071",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 310,
+            "text": " Very well, that’s well within the warranty period. Now, what’s your name and address?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "27/310071-312923",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 312,
+            "text": " Name and address! What for?",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           },
+           {
+            "id": "28/312923-317763",
+            "startTimeInSeconds": 312,
+            "endTimeInSeconds": 317,
+            "text": " Sir, it is company policy. If you want your money, you must inform me.",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "29/317763-325945",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 325,
+            "text": " Money you say? Oh, my name is Herbert Hewitt and my address is 84 Park Road.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "84 Park Rd/Road",
+         "blankId": "OlIx7I4yhq1VImrRVrOwy"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"mã bưu điện\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The \"},{\"text\":\"postal code \",\"bold\":true},{\"text\":\"is \"},{\"text\":\"B0241DJ\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: B0241DJ \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 327,
+          "endTimeInSeconds": 340,
+          "transcripts": [
+           {
+            "id": "31/327595-340454",
+            "startTimeInSeconds": 327,
+            "endTimeInSeconds": 340,
+            "text": " Yes. The postal code is B0241DJ. But I don’t think sending things in the mail is very secure or very efficient. I mean... ",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "B0241DJ",
+         "blankId": "UsEnQQKCzhCgCdeWhKDLw"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"phương thức thanh toán\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"We can credit the money to your \"},{\"text\":\"credit card.\",\"bold\":true},{\"text\":\" \\\"\"},{\"text\":\"You do have one\",\"bold\":true},{\"text\":\", don’t you?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe \\\"Yes, \"},{\"text\":\"that's how we paid for the cooker.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng thanh toán bằng\"},{\"text\":\" credit card\",\"bold\":true},{\"text\":\"  \\n\"},{\"text\":\"=> Đáp án: credit card \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 340,
+          "endTimeInSeconds": 349,
+          "transcripts": [
+           {
+            "id": "32/340454-346725",
+            "startTimeInSeconds": 340,
+            "endTimeInSeconds": 346,
+            "text": " Don’t worry, Mr. Hewitt, don’t worry. We can credit the money to your credit card. You do have one, don’t you?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "33/346725-349208",
+            "startTimeInSeconds": 346,
+            "endTimeInSeconds": 349,
+            "text": " Yes, that's how we paid for the cooker.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "credit card",
+         "blankId": "bEyXTG8Yupdo_k8b9eK5G"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là\"},{\"text\":\" thời gian hết hạn của thẻ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"I only need to \"},{\"text\":\"ask your card's expiry date\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"That will be \"},{\"text\":\"April 2008\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: April 2008 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 349,
+          "endTimeInSeconds": 377,
+          "transcripts": [
+           {
+            "id": "34/349208-354866",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 354,
+            "text": " Oh, yes. We still have the number on computer. I only need to ask your card's expiry date.",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "35/354866-362963",
+            "startTimeInSeconds": 354,
+            "endTimeInSeconds": 362,
+            "text": " I’m afraid I never give that sort of information out. I mean, once you have that, anyone could go charging things and...",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           },
+           {
+            "id": "36/362963-367037",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 367,
+            "text": " Sir! I said your expiry date, not your card’s password.",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "37/367037-377763",
+            "startTimeInSeconds": 367,
+            "endTimeInSeconds": 377,
+            "text": " Oh, er, yes. Foolish me. Of course, you didn’t say “password”. Let's see. That will be April 2008.",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "April 2008",
+         "blankId": "S2T2e-XeSr1Sv6hyuEvC0"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền\"},{\"text\":\" \",\"bold\":true},{\"text\":\"là \"},{\"text\":\"phương thức bồi thường\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"\"},{\"text\":\"We'll get that refund right to you\",\"bold\":true},{\"text\":\", probably by five o’clock this evening.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bồi thường bằng cách refund (hoàn tiền) \\n=>\"},{\"text\":\" Đáp án: refund \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 377,
+          "endTimeInSeconds": 387,
+          "transcripts": [
+           {
+            "id": "38/377763-387512",
+            "startTimeInSeconds": 377,
+            "endTimeInSeconds": 387,
+            "text": " April 2008. Very well, your card still has nearly two months left to go. We'll get that refund right to you, probably by five o’clock this evening.",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           }
+          ]
+         },
+         "value": "refund",
+         "blankId": "ds3QQTgzGyNczu7PJjj-i"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tần suất mua sắm \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"How often do you go shopping\",\"bold\":true},{\"text\":\" at the City Centre Branch?\\\" (hỏi về \"},{\"text\":\"Shopping Frequency) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" I suppose maybe \"},{\"text\":\"once a month\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án: once a month \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 400,
+          "endTimeInSeconds": 419,
+          "transcripts": [
+           {
+            "id": "40/400324-407005",
+            "startTimeInSeconds": 400,
+            "endTimeInSeconds": 407,
+            "text": " And sir, just one more question for our record. How often do you go shopping at the City Centre Branch?",
+            "character": {
+             "id": "BIy6FhSdJAsZXVeJozbfE",
+             "name": "CR"
+            }
+           },
+           {
+            "id": "41/407005-419062",
+            "startTimeInSeconds": 407,
+            "endTimeInSeconds": 419,
+            "text": " Oh, well it’s hard to say. I suppose maybe once a month. But I can tell you this, if I don’t get my refund, I’ll never shop there again! (He hangs up the phone.) ",
+            "character": {
+             "id": "Jjs0Y02W3lWtkerGUDZMX",
+             "name": "HEWITT"
+            }
+           }
+          ]
+         },
+         "value": "once a month",
+         "blankId": "wp1e_x5P6aqpNKQGOdVG8"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "OlIx7I4yhq1VImrRVrOwy",
+         "key": 0
+        },
+        {
+         "id": "UsEnQQKCzhCgCdeWhKDLw",
+         "key": 1
+        },
+        {
+         "id": "bEyXTG8Yupdo_k8b9eK5G",
+         "key": 2
+        },
+        {
+         "id": "S2T2e-XeSr1Sv6hyuEvC0",
+         "key": 3
+        },
+        {
+         "id": "ds3QQTgzGyNczu7PJjj-i",
+         "key": 4
+        },
+        {
+         "id": "wp1e_x5P6aqpNKQGOdVG8",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"hlgIW3e2hKnutGajxl6l1\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"HUHQLxlOssIHENvrm_oHf\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"Or9FOjovZbl8Pa7CWzwzb\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\\n\",\"italic\":true},{\"text\":\"Name:\",\"bold\":true}]}]}]},{\"id\":\"JShr8ha93cFm84o86cHsJ\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\\n\",\"italic\":true},{\"italic\":true,\"text\":\"Herbert Hewitt\",\"underline\":true}]}]}]}]},{\"type\":\"tr\",\"id\":\"pjWls83edz4qaLSVH0B1U\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address:\",\"bold\":true}]}]}],\"scope\":\"col\",\"id\":\"5YqjHoGairgs5Eg9DCGdK\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"OlIx7I4yhq1VImrRVrOwy\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"scope\":\"col\",\"id\":\"__2jxyIqRl7P9Xl9CvGHk\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"-2z5jOIHFjyxaxlf3krtR\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Postcode:\",\"bold\":true}]}]}],\"id\":\"ow8CBHawSy3Ox2Q4tSykt\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"UsEnQQKCzhCgCdeWhKDLw\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"O-cdtvOTU7O6-ANDDnAxM\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"VZdYqwVZ2Rrs5-s7kGA2r\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Method of Payment\",\"bold\":true}]}]}],\"id\":\"MqAa7pGx_keMCk5Wrd8GX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"bEyXTG8Yupdo_k8b9eK5G\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"50fAtGGCnY-wTHzr7t47U\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"IlugjYPc0MlcKJgm45iPq\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Card’s Expiry Date:\",\"bold\":true}]}]}],\"id\":\"WBatQo0vN9OrN-DZvHZec\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"S2T2e-XeSr1Sv6hyuEvC0\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"8uToHvVn0TAnxZgI045sH\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"qKVYw8yjPE4nK6pGXPk6Y\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Method of Compensation:\",\"bold\":true}]}]}],\"id\":\"buFSwgj2mfQEdqjfkbBLo\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ds3QQTgzGyNczu7PJjj-i\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"gdXsR2z2O3R-Hz-fgyDtR\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"a1MofmoPXzoWmdDQDaSMx\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Shopping Frequency:\",\"bold\":true}]}]}],\"id\":\"gneZQUqfRuWgjdr_VCeUs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"wp1e_x5P6aqpNKQGOdVG8\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"DGgDMTzzaAdvSTTiwvm7B\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true}]",
+       "question": "CUSTOMER’S INFORMATION DETAILS"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The University Of New South Wales",
+   "duration": 9,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "c1b96819-75b0-11ec-8718-8331ba0bd900",
+     "questions": [
+      {
+       "uuid": "oWwkyv6ILEe8U3h_SPi7n",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/0b9972ae-36dc-4f30-93d2-e1d2633fa696.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/0b9972ae-36dc-4f30-93d2-e1d2633fa696.png",
+        "name": "AT1_L3_P2_the University of New South Wales_NoOpt.png",
+        "uploadedDate": "2021-11-01T05:16:51.786+0000",
+        "size": 28141,
+        "width": 375,
+        "height": 480
+       },
+       "correctOptions": [
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên bạn nghe để \"},{\"text\":\"xác định vị trí mình đang đứng\",\"bold\":true},{\"text\":\" \\\"Now, we are \"},{\"text\":\"at the campus’s Main Gate\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"The Recreational Facilities\",\"bold\":true},{\"text\":\" are on my right hand and its \"},{\"text\":\"opposite is the Student Centre\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Student Centre \"},{\"text\":\"đối diện Recreational Facilities \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 92,
+          "endTimeInSeconds": 105,
+          "transcripts": [
+           {
+            "id": "3/92706-105098",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 105,
+            "text": "Now, we are at the campus’s Main Gate. The Recreational Facilities are on my right hand and its opposite is the Student Centre. No questions? Good. Pretty easy, right?"
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe \\\"the \"},{\"text\":\"Student Health Centre\",\"bold\":true},{\"text\":\" is located about half a kilometre \"},{\"text\":\"straight north\",\"bold\":true},{\"text\":\" of here” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhìn về phía bắc \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe người chỉ dẫn đề cập đến đường \\\"\"},{\"text\":\"Ned Kelly Avenue\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn tìm đường này trên bản đồ\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"Just follow that about 500 metres, and \"},{\"text\":\"the Health Centre will be on your left at the third cross street\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đi thẳng\",\"bold\":true},{\"text\":\" đường\"},{\"text\":\" \\\"Ned Kelly Avenue\\\"\",\"bold\":true},{\"text\":\"  \"},{\"text\":\"đến ngã thứ 3 quẹo trái\",\"bold\":true},{\"text\":\", Health Centre ở góc đường\\n=> \"},{\"text\":\"Đáp án là A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 115,
+          "endTimeInSeconds": 141,
+          "transcripts": [
+           {
+            "id": "5/115221-128058",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 128,
+            "text": "So after a meal like that, you must be eager to go to a doctor. Right? Well, I have good news for you: the Student Health Centre is located about half a kilometre straight north of here."
+           },
+           {
+            "id": "6/128058-134000",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 134,
+            "text": "Look on your maps. You see the street on the east side of this building? Ned Kelly Avenue?"
+           },
+           {
+            "id": "7/134000-141000",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 141,
+            "text": "Just follow that about 500 metres, and the Health Centre will be on your left at the third cross street."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe đề cập đến \\\"\"},{\"text\":\"iphone\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"computer\",\"bold\":true},{\"text\":\"\\\" là biết sắp chỉ dẫn đến \\\"\"},{\"text\":\"Internet Unit\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"walk down the Garden Street\",\"bold\":true},{\"text\":\", you'll see the \"},{\"text\":\"Internet Unit on your left side\",\"bold\":true},{\"text\":\", just \"},{\"text\":\"next to the Gym\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đi đường \"},{\"text\":\"Garden Street\",\"bold\":true},{\"text\":\" sẽ thấy \"},{\"text\":\"Internet Unit bên tay trái, cạnh phòng gym \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 141,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "8/141000-157912",
+            "startTimeInSeconds": 141,
+            "endTimeInSeconds": 157,
+            "text": "Now, I know you all just got here. So you must be wondering how to tell your folks you’ve arrived safely, how much you miss the dog, and how you already need more money. If you don’t have an iPhone, you probably are wondering where to ﬁnd a computer."
+           },
+           {
+            "id": "9/157912-169057",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 169,
+            "text": "Well, I have good news. If you go straight out of its door and walk down the Garden Street, you'll see the Internet Unit on your left side, just next to the Gym."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"problem\",\"bold\":true},{\"text\":\"\\\" thì dự đoán sắp nói đến \\\"\"},{\"text\":\"Complaint Office\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"you can go to the \"},{\"text\":\"Complaint Office\",\"bold\":true},{\"text\":\", which is right \"},{\"text\":\"beside the Teaching Building between the Parker Street and the Crammer Street\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Complaint Office \"},{\"text\":\"bên cạnh Teaching Building\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 219,
+          "transcripts": [
+           {
+            "id": "13/204972-219542",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 219,
+            "text": "Maybe the window doesn’t open. Maybe an air conditioner is missing or does not work. If there are any problems, you can go to the Complaint Oﬃce, which is right beside the Teaching Building between the Parker Street and the Crammer Street."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"you just need \"},{\"text\":\"a place to get coffee\",\"bold\":true},{\"text\":\"\\\" là biết sắp nhắc đến vị trí của \\\"\"},{\"text\":\"cafe\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"you definitely have to check out the little \"},{\"text\":\"Cafe just past the women's dormitories\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn sẽ \"},{\"text\":\"thấy quán cà phê\",\"bold\":true},{\"text\":\" nhỏ \"},{\"text\":\"khi vừa đi qua ký túc xá nữ\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 232,
+          "endTimeInSeconds": 257,
+          "transcripts": [
+           {
+            "id": "15/232009-243352",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 243,
+            "text": "Tired of the school food? No? Give it a week. Or maybe you just need a place to get coﬀee in the wee hours of the night during one of those marathon study sessions. "
+           },
+           {
+            "id": "16/243352-257833",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 257,
+            "text": "Either way, you deﬁnitely have to check out the little Cafe just past the women's dormitories. They’ve got free Wi-Fi, so a lot of students saddle up with coffee and a bagel for hours on end to get work done."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "qGgW0f5P1cjDiHkv_HwYe",
+         "x": 59,
+         "y": 57
+        },
+        {
+         "text": "B",
+         "id": "HUKqJ7wGg6GIixJXPvtuw",
+         "x": 211,
+         "y": 53
+        },
+        {
+         "text": "C",
+         "id": "OCkiyXF4C2rdCEROSfLcK",
+         "x": 60,
+         "y": 206
+        },
+        {
+         "text": "D",
+         "id": "651D4YWmVkWL4Se7QMfmj",
+         "x": 215,
+         "y": 325
+        },
+        {
+         "text": "E",
+         "id": "mbjYdGIHbzBhsDtW1Mb-T",
+         "x": 32,
+         "y": 450
+        }
+       ],
+       "questions": [
+        "Student Centre",
+        "Health Centre",
+        "Internet Unit",
+        "Complaint Office",
+        "Cafe"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Listen to the directions and match the places in questions to the appropriate place among "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": " on the map."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "c1b9681a-75b0-11ec-8718-8331ba0bd900",
+     "questions": [
+      {
+       "uuid": "c1b9681b-75b0-11ec-8718-8331ba0bd900",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"sinh viên không cần share cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"each room has its own \"},{\"text\":\"bathroom\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có bathroom riêng nên không phải share bathroom \\n=> \"},{\"text\":\"Đáp án: bathroom  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 299,
+          "endTimeInSeconds": 325,
+          "transcripts": [
+           {
+            "id": "17/299551-311401",
+            "startTimeInSeconds": 299,
+            "endTimeInSeconds": 311,
+            "text": "As for the dorm rooms, I have some bad news and some good news.The bad news is the rooms are small and you’ll probably be sharing space with at least three other students."
+           },
+           {
+            "id": "18/311401-325390",
+            "startTimeInSeconds": 311,
+            "endTimeInSeconds": 325,
+            "text": "The good news is that each room has its own bathroom. What’s good about sharing a bathroom with three strangers? Hmmm... good question. OK, call it bad news and worse news."
+           }
+          ]
+         },
+         "value": "bathroom",
+         "blankId": "kH6hq42Ud0bKDZfe6uaR3"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"nơi mà sinh viên phải viết tên mình lên\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"you should definitely \"},{\"text\":\"write your name on your food containers\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nên viết tên\"},{\"text\":\" trên hộp đựng thức ăn \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: food containers \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 341,
+          "endTimeInSeconds": 352,
+          "transcripts": [
+           {
+            "id": "20/341559-352096",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 352,
+            "text": "But a word of warning: you should deﬁnitely write your name on your food containers. Sad to say, there are food thieves among your fellow students. "
+           }
+          ]
+         },
+         "value": "food containers",
+         "blankId": "qYMstFtNNolvw60YIohZP"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" sinh viên sử dụng cái gì giúp vào \\\"dorm's front door\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"Your key does not work\",\"bold\":true},{\"text\":\" for the front door of your dorm\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại \\\"key\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"When you move in, they will tell you \"},{\"text\":\"the code you use to enter the door\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dùng code để vào cửa\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: code  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 368,
+          "endTimeInSeconds": 394,
+          "transcripts": [
+           {
+            "id": "22/368353-380286",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 380,
+            "text": "You have to pay for any replacement and ﬁll out a bunch of papers, too. Red tape, huh? Your key does not work for the front door of your dorm, however."
+           },
+           {
+            "id": "23/380286-394200",
+            "startTimeInSeconds": 380,
+            "endTimeInSeconds": 394,
+            "text": "To the right of each door, there is a keypad with numbers. When you move in, they will tell you the code you use to enter the door. Please do not tell the code to people who do not live in the dorm."
+           }
+          ]
+         },
+         "value": "code",
+         "blankId": "mXMVwMTxm0JTkmtMvjqkR"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" vị trí của \\\" laundry room\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đpá án sắp tới khi nghe \\\"there are \"},{\"text\":\"laundries \",\"bold\":true},{\"text\":\"in each dorm\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The laundry for each dorm is \"},{\"text\":\"in the basement\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phòng giặt là của mỗi ký túc xá\"},{\"text\":\" ở tầng hầm \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: basement \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 408,
+          "endTimeInSeconds": 442,
+          "transcripts": [
+           {
+            "id": "25/408382-422687",
+            "startTimeInSeconds": 408,
+            "endTimeInSeconds": 422,
+            "text": "That means you have to learn to do laundry. Or, men, that means you have to hurry up and get married. If you decide to wash those clothes and not get married, there are laundries in each dorm."
+           },
+           {
+            "id": "26/422687-442390",
+            "startTimeInSeconds": 422,
+            "endTimeInSeconds": 442,
+            "text": "Where? Oh, I almost forgot to tell you. The laundry for each dorm is in the basement. Some real good news this time: if you are a student, it is free. You do have to buy your own soap, however. The laundry closes, by the by, at 11:30."
+           }
+          ]
+         },
+         "value": "basement",
+         "blankId": "3UoblNo8jyKcCi6seMntg"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"thời gian đóng cửa của kí túc xá\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"the dorm doors \"},{\"text\":\"are locked at 11:30 p.m\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cửa ký túc xá bị khóa lúc 11:30 tối \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: 11:30 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 442,
+          "endTimeInSeconds": 456,
+          "transcripts": [
+           {
+            "id": "27/442390-456913",
+            "startTimeInSeconds": 442,
+            "endTimeInSeconds": 456,
+            "text": "And, now that I've mentioned 11:30, please remember the dorm doors are locked at 11:30 p.m. Your code will not work. If you want to get in, you’ll have to call the night watchman."
+           }
+          ]
+         },
+         "value": "11:30/11.30",
+         "blankId": "N5E_xByCa349p9aUUZ6ir"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "UOVuquqzcAsr49c7yad-_",
+         "editorValue": "[{\"children\":[{\"text\":\"Students in a room don’t need to share a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"kH6hq42Ud0bKDZfe6uaR3\"},{\"text\":\" with ones in other rooms.\"}]}]",
+         "blanks": [
+          {
+           "id": "kH6hq42Ud0bKDZfe6uaR3",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "gkcmnw9djmGJ0DXfUjkJO",
+         "editorValue": "[{\"children\":[{\"text\":\"Everyone has to write down his name on the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qYMstFtNNolvw60YIohZP\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "qYMstFtNNolvw60YIohZP",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "WZtZyHdpBiUMgryzZKdCH",
+         "editorValue": "[{\"children\":[{\"text\":\"All the students use a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"mXMVwMTxm0JTkmtMvjqkR\"},{\"text\":\" to enter the dorm's front door.\"}]}]",
+         "blanks": [
+          {
+           "id": "mXMVwMTxm0JTkmtMvjqkR",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "5ACeSSui2b4vq4ihZENrs",
+         "editorValue": "[{\"children\":[{\"text\":\"If you want to wash your clothes, go to the laundry room which is located in the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"3UoblNo8jyKcCi6seMntg\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "3UoblNo8jyKcCi6seMntg",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "oQrPpAEyvQ-CxQP4dohL7",
+         "editorValue": "[{\"children\":[{\"text\":\"The dormitory closes at\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"N5E_xByCa349p9aUUZ6ir\"},{\"text\":\" every night.\"}]}]",
+         "blanks": [
+          {
+           "id": "N5E_xByCa349p9aUUZ6ir",
+           "key": 4
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research Plan",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "256463b0-75b1-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "MvmP5gQAuuvO2N79ZAL0q",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/f973685b-b274-429a-86a8-f31ca592707e.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/f973685b-b274-429a-86a8-f31ca592707e.png",
+        "name": "AT1_L3_P3_Research plan_NoOpt.png",
+        "uploadedDate": "2021-11-01T05:17:54.032+0000",
+        "size": 13580,
+        "width": 375,
+        "height": 255
+       },
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu hỏi nhằm xác định\"},{\"text\":\" đường nào chỉ xu hướng bán hàng của \\\"both cheese and oil\",\"bold\":true},{\"text\":\"\\\" ở \\\"\"},{\"text\":\"New Zealand\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"in \"},{\"text\":\"New Zealand\",\"bold\":true},{\"text\":\", the\"},{\"text\":\" \",\"bold\":true},{\"text\":\"sales of both oil and cheese have \"},{\"text\":\"declined pretty steadily\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở New Zealand, doanh số bán cả dầu và pho mát \"},{\"text\":\"đều giảm khá đều đặn\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 100,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "8/100219-114655",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 114,
+            "text": " Well, in New Zealand, the sales of both oil and cheese have declined pretty steadily. And in fact, the sales have decreased more quickly than the population. On the other hand, in Colombia, the volume of sales of both products has remained the same.",
+            "character": {
+             "id": "MfbthvEzUlj1n8-rdZkAq",
+             "name": "BETTY"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu hỏi nhằm xác định\"},{\"text\":\" đường nào chỉ xu hướng bán hàng của \\\"both cheese and oil\",\"bold\":true},{\"text\":\"\\\" ở \\\"\"},{\"text\":\"Colombia\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"in \"},{\"text\":\"Colombia\",\"bold\":true},{\"text\":\", the volume of sales for both products\"},{\"text\":\" has remained the same\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở Colombia, số lượng bán ra cho cả hai sản phẩm \"},{\"text\":\"không thay đổi\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 100,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "8/100219-114655",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 114,
+            "text": " Well, in New Zealand, the sales of both oil and cheese have declined pretty steadily. And in fact, the sales have decreased more quickly than the population. On the other hand, in Colombia, the volume of sales of both products has remained the same.",
+            "character": {
+             "id": "MfbthvEzUlj1n8-rdZkAq",
+             "name": "BETTY"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "TgfOd8ms-P93YSD8jlXoa",
+         "x": 245,
+         "y": 56
+        },
+        {
+         "text": "B",
+         "id": "hSJiY-S-dIfQGbb5QwqMd",
+         "x": 278,
+         "y": 176
+        },
+        {
+         "text": "C",
+         "id": "Na_gJRTo17ZFD8P33qoma",
+         "x": 292,
+         "y": 122
+        }
+       ],
+       "questions": [
+        "New Zealand",
+        "Colombia "
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters, "
+         },
+         {
+          "text": "A-C",
+          "bold": true
+         },
+         {
+          "text": ", and write each next to questions."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "According to Betty, which lines describe the sales of both "
+         },
+         {
+          "text": "cheese and oil",
+          "bold": true
+         },
+         {
+          "text": " in "
+         },
+         {
+          "text": "New Zealand",
+          "bold": true
+         },
+         {
+          "text": " and "
+         },
+         {
+          "text": "Colombia",
+          "bold": true
+         },
+         {
+          "text": "?"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters, "
+         },
+         {
+          "text": "A-C",
+          "bold": true
+         },
+         {
+          "text": ", and write each next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "256463b1-75b1-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "256463b2-75b1-11ec-bae1-ff5a5f528e78",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO of the following are sales strategies for chocolate in Italy and Germany?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Locate near a children’s school"
+        },
+        {
+         "key": 1,
+         "value": "Change the location of the product on shelves "
+        },
+        {
+         "key": 2,
+         "value": "Give a free gift"
+        },
+        {
+         "key": 3,
+         "value": "Make it the cheapest brand"
+        },
+        {
+         "key": 4,
+         "value": "Make Schmutzig the second cheapest brand"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Câu hỏi nhằm \"},{\"text\":\"xác định chiến lược bán chocolate ở Ý và Đức\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"in \"},{\"text\":\"Italy\",\"bold\":true},{\"text\":\" if you \"},{\"text\":\"locate your product at the right location of shelves\",\"bold\":true},{\"text\":\", sales do great\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở Ý nếu bạn \"},{\"text\":\"đặt sản phẩm của mình ở đúng vị trí của các kệ,\",\"bold\":true},{\"text\":\" doanh số bán hàng sẽ rất tốt\\n=>\"},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 231,
+          "transcripts": [
+           {
+            "id": "18/186746-198597",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 198,
+            "text": " Well, I mean, in Italy if you locate your product at the right location of shelves, sales do great. They say it doesn’t matter much what brand of chocolate you’re selling. As for Germany...",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "19/198597-201552",
+            "startTimeInSeconds": 198,
+            "endTimeInSeconds": 201,
+            "text": " “Das Land der Schokolade”.",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "20/201552-202217",
+            "startTimeInSeconds": 201,
+            "endTimeInSeconds": 202,
+            "text": " Huh?",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "21/202217-212298",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 212,
+            "text": " That’s German. It means “The Land of Chocolate”. Germans love the stuff, so people make a joke and call Germany that.",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "22/212298-215359",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 215,
+            "text": " Oh... uh, right...",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "23/215359-217774",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 217,
+            "text": " So, you were saying?",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "24/217774-231318",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 231,
+            "text": " Well, like you pointed out, Germans love chocolate. But they’re thrifty. For a long time, the biggest selling brand was “Schmutzig\", mostly because it was the second cheapest but didn't taste too bad.",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe nhắc đến \\\"\"},{\"text\":\"German\",\"bold\":true},{\"text\":\"\\\" và \\\"For a long time, the \"},{\"text\":\"biggest selling brand \",\"bold\":true},{\"text\":\"was “\"},{\"text\":\"Schmutzig\",\"bold\":true},{\"text\":\"\\\", mostly \"},{\"text\":\"because it was the second cheapest, but didn’t taste too bad\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong một thời gian dài, thương hiệu\"},{\"text\":\" bán chạy nhất là “Schmutzig\",\"bold\":true},{\"text\":\"”, chủ yếu là\"},{\"text\":\" vì nó rẻ thứ hai,\",\"bold\":true},{\"text\":\" nhưng \"},{\"text\":\"chất lượng sản phẩm không quá tệ.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 231,
+          "transcripts": [
+           {
+            "id": "18/186746-198597",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 198,
+            "text": " Well, I mean, in Italy if you locate your product at the right location of shelves, sales do great. They say it doesn’t matter much what brand of chocolate you’re selling. As for Germany...",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "19/198597-201552",
+            "startTimeInSeconds": 198,
+            "endTimeInSeconds": 201,
+            "text": " “Das Land der Schokolade”.",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "20/201552-202217",
+            "startTimeInSeconds": 201,
+            "endTimeInSeconds": 202,
+            "text": " Huh?",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "21/202217-212298",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 212,
+            "text": " That’s German. It means “The Land of Chocolate”. Germans love the stuff, so people make a joke and call Germany that.",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "22/212298-215359",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 215,
+            "text": " Oh... uh, right...",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           },
+           {
+            "id": "23/215359-217774",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 217,
+            "text": " So, you were saying?",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "24/217774-231318",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 231,
+            "text": " Well, like you pointed out, Germans love chocolate. But they’re thrifty. For a long time, the biggest selling brand was “Schmutzig\", mostly because it was the second cheapest but didn't taste too bad.",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": ", next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": ", next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "256463b3-75b1-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "256463b4-75b1-11ec-bae1-ff5a5f528e78",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\" \"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"cái ảnh hưởng lên doanh số bán mỹ phẩm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I’m especially \"},{\"text\":\"interested in the effects of colour\",\"bold\":true},{\"text\":\" on sales of products\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tôi đặc biệt\"},{\"text\":\" quan tâm đến ảnh hưởng của màu sắc đến việc bán sản phẩm\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"colour \",\"bold\":true},{\"text\":\"có thể\"},{\"text\":\" ảnh hưởng đến doanh số\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: colour / color \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 277,
+          "endTimeInSeconds": 291,
+          "transcripts": [
+           {
+            "id": "26/277143-291251",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 291,
+            "text": " I’m especially interested in the eﬀects of colour on sales of products, so I’ll be looking at ads for cosmetics and cleaning products in the local market. You know, like the distinct orange colour of Mr. Muscle, lavatory cleaning products.",
+            "character": {
+             "id": "MfbthvEzUlj1n8-rdZkAq",
+             "name": "BETTY"
+            }
+           }
+          ]
+         },
+         "value": "colour/color",
+         "blankId": "IZNLKWMBryEjz1DIsKCta"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp theo mình cần nghe xem \"},{\"text\":\"màu sắc còn ảnh hưởng tới cái gì nữa\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"I’m especially interested in the effects of colour on sales of products, so I’ll be\"},{\"text\":\" looking at ads for cosmetics and cleaning products\",\"bold\":true},{\"text\":\" in the local market.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Colour còn ảnh hưởng tới doanh số của \"},{\"text\":\"cleaning products\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: cleaning products \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 277,
+          "endTimeInSeconds": 291,
+          "transcripts": [
+           {
+            "id": "26/277143-291251",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 291,
+            "text": " I’m especially interested in the eﬀects of colour on sales of products, so I’ll be looking at ads for cosmetics and cleaning products in the local market. You know, like the distinct orange colour of Mr. Muscle, lavatory cleaning products.",
+            "character": {
+             "id": "MfbthvEzUlj1n8-rdZkAq",
+             "name": "BETTY"
+            }
+           }
+          ]
+         },
+         "value": "cleaning products",
+         "blankId": "if53Li5PIlqgU2aEHhCLt"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Bruce nói cái gì tác động lên sales of cookies\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"And you, \"},{\"text\":\"Bruce\",\"bold\":true},{\"text\":\"?\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I'm focusing on\"},{\"text\":\" the effects of different containers on sales of cookies\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Different containers \",\"bold\":true},{\"text\":\"(hộp đựng) tác động đến sales of cookies\\n=> \"},{\"text\":\"Đáp án: (different) containers \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 293,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "28/293226-317045",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 317,
+            "text": " I'm focusing on the eﬀects of diﬀerent containers on sales of cookies. So I’m going to look into packaging for cookies and how the materials they use will aﬀect the image, and in turn sales. You know, most containers are paper, but some expensive cookies come in metal boxes. The shiny metal boxes catch people’s attention and the image remains in the memory longer.",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           }
+          ]
+         },
+         "value": "different containers/containers",
+         "blankId": "Z7kfwjNBPP1Jvhl7TGhnA"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"mối quan hệ giữa 2 cái gì đó và \\\"sales\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Câu này tiếp nối câu trước vì đều nói về điều quan tâm của Bruce nên bạn chú ý nghe tiếp\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"I’m going to look into packaging for cookies and \"},{\"text\":\"how the materials they use will affect the image, and in turn sales\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cách \"},{\"text\":\"materials \",\"bold\":true},{\"text\":\"được sử dụng sẽ ảnh hưởng đến\"},{\"text\":\" image\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"sales\",\"bold\":true},{\"text\":\"\\n=> Ý chỉ\"},{\"text\":\" mối quan hệ giữa material, image và sales \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: materials & image \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 293,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "28/293226-317045",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 317,
+            "text": " I'm focusing on the eﬀects of diﬀerent containers on sales of cookies. So I’m going to look into packaging for cookies and how the materials they use will aﬀect the image, and in turn sales. You know, most containers are paper, but some expensive cookies come in metal boxes. The shiny metal boxes catch people’s attention and the image remains in the memory longer.",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           }
+          ]
+         },
+         "value": "materials",
+         "blankId": "xyxF-vXEV3xqTHKC2CK-w"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"I’m going to look into packaging for cookies and \"},{\"text\":\"how the materials they use will affect the image, and in turn sales\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cách \"},{\"text\":\"materials \",\"bold\":true},{\"text\":\"được sử dụng sẽ ảnh hưởng đến\"},{\"text\":\" image\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"sales\",\"bold\":true},{\"text\":\"\\n=> Ý chỉ\"},{\"text\":\" mối quan hệ giữa material, image và sales \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: materials & image \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 293,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "28/293226-317045",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 317,
+            "text": " I'm focusing on the eﬀects of diﬀerent containers on sales of cookies. So I’m going to look into packaging for cookies and how the materials they use will aﬀect the image, and in turn sales. You know, most containers are paper, but some expensive cookies come in metal boxes. The shiny metal boxes catch people’s attention and the image remains in the memory longer.",
+            "character": {
+             "id": "W1hfYz5G3P1MYl-9I9fUP",
+             "name": "BRUCE"
+            }
+           }
+          ]
+         },
+         "value": "image",
+         "blankId": "sNgXsCyI4XXMRYiFfF58v"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" học sinh nên nhớ phần extensions của cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I urge you both to \"},{\"text\":\"pay much more attention to the advertisement extensions\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tôi mong cả hai bạn hãy \"},{\"text\":\"chú ý nhiều hơn đến advertisement extensions \",\"bold\":true},{\"text\":\"(= extensions of advertisement)\\n=> \"},{\"text\":\"Đáp án: advertisement \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 317,
+          "endTimeInSeconds": 333,
+          "transcripts": [
+           {
+            "id": "29/317045-333370",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 333,
+            "text": " Well, it sounds like you two are all set. But as always in this course, I urge you both to pay much more attention to the advertisement extensions. That’s often the key. Alright, any questions for me before you go.",
+            "character": {
+             "id": "izhtTWX5WaC_H1WWnjKBq",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         },
+         "value": "advertisement",
+         "blankId": "OjdL_orzsuQaw0vN-y_I_"
+        }
+       ],
+       "heading": "Research plan",
+       "paragraph": {
+        "id": "dbBSI7khlVUM-aZqHO9qw",
+        "editorValue": "[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Betty is interested in how\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"IZNLKWMBryEjz1DIsKCta\"},{\"text\":\" affects the sales of cosmetics and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"if53Li5PIlqgU2aEHhCLt\"},{\"text\":\".\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Bruce is going to be concerned with how\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Z7kfwjNBPP1Jvhl7TGhnA\"},{\"text\":\" may impact on sales of cookies and the relationships among  \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"xyxF-vXEV3xqTHKC2CK-w\"},{\"text\":\" ,  \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"sNgXsCyI4XXMRYiFfF58v\"},{\"text\":\" , and sales.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The professor advised the students to bear in mind the extensions of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"OjdL_orzsuQaw0vN-y_I_\"},{\"text\":\".\"}],\"type\":\"p\"}]}]}]",
+        "blanks": [
+         {
+          "id": "IZNLKWMBryEjz1DIsKCta",
+          "key": 0
+         },
+         {
+          "id": "if53Li5PIlqgU2aEHhCLt",
+          "key": 1
+         },
+         {
+          "id": "Z7kfwjNBPP1Jvhl7TGhnA",
+          "key": 2
+         },
+         {
+          "id": "xyxF-vXEV3xqTHKC2CK-w",
+          "key": 3
+         },
+         {
+          "id": "sNgXsCyI4XXMRYiFfF58v",
+          "key": 4
+         },
+         {
+          "id": "OjdL_orzsuQaw0vN-y_I_",
+          "key": 5
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Talking About The History Of Bikes",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "a294bb17-75b1-11ec-b893-939e6ef4d847",
+     "questions": [
+      {
+       "uuid": "Qb-u_CRkM-sheNZaBYuZ0",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"lợi ích của xe đạp năm 1830s so với việc đi bộ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"the \"},{\"text\":\"1830s\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The early \"},{\"text\":\"bike let people travel with less effort than walking\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chiếc xe đạp ban đầu \"},{\"text\":\"cho phép mọi người đi lại với ít nỗ lực hơn\",\"bold\":true},{\"text\":\" so với đi bộ\\n=>\"},{\"text\":\" Đáp án: less effort \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 83,
+          "endTimeInSeconds": 108,
+          "transcripts": [
+           {
+            "id": "1/83954-97590",
+            "startTimeInSeconds": 83,
+            "endTimeInSeconds": 97,
+            "text": "Although there were a few early eﬀorts back in the 1700s, you didn’t really see many bikes till, say, the 1830s in England. Bikes were a response to the rapid growth of cities early in the 19th century. "
+           },
+           {
+            "id": "2/97590-108125",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 108,
+            "text": "Cities like London were getting too big to walk across! The early bike let people travel with less walking, plus a bike was a lot cheaper than a horse."
+           }
+          ]
+         },
+         "value": "less effort",
+         "blankId": "S_3pc4IxmiN6vg3rt1jWx"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"tính từ, chỉ bất lợi của xe đạp năm 1830s\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"wheels were made of wood covered with metal\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đúng với \\\"\"},{\"text\":\"feature\",\"bold\":true},{\"text\":\"\\\" xe đạp năm 1830s \\n=> Đáp án sắp vào\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the \"},{\"text\":\"downside\",\"bold\":true},{\"text\":\" was that \"},{\"text\":\"the ride was quite uncomfortable\",\"bold\":true},{\"text\":\" on most roads\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nhược điểm \",\"bold\":true},{\"text\":\"là việc đi xe \"},{\"text\":\"khá uncomfortable\",\"bold\":true},{\"text\":\" trên hầu hết các con đường (disadvantage =  downside)\\n=> \"},{\"text\":\"Đáp án: uncomfortable \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 134,
+          "endTimeInSeconds": 150,
+          "transcripts": [
+           {
+            "id": "5/134049-150590",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 150,
+            "text": "And uphill, you actually worked harder, pushing that two-wheeler. Plus, the wheels were made of wood covered with metal, as you can see from this model. So the downside was that the ride was quite uncomfortable on most roads. Only a few gadget lovers had or used them."
+           }
+          ]
+         },
+         "value": "uncomfortable",
+         "blankId": "aP28AQXNPjHgnXLkimHh5"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" cột mốc thời gian thứ 2 của xe đạp \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"By the 1860s\",\"bold\":true},{\"text\":\", though, improvements were being made.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 1860s \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 150,
+          "endTimeInSeconds": 161,
+          "transcripts": [
+           {
+            "id": "6/150590-161958",
+            "startTimeInSeconds": 150,
+            "endTimeInSeconds": 161,
+            "text": "By the 1860s, though, improvements were being made. As you can see from this specimen, metal frames had become the rule. They’re more durable than wood, and they don’t warp in the rain. "
+           }
+          ]
+         },
+         "value": "1860s",
+         "blankId": "AEZktOS9T9loUPy-zwgib"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp đến mình cần nghe về\"},{\"text\":\" chain and sprocket \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"The biggest improvement however was the development of\"},{\"text\":\" the chain and sprocket system. They are connected.\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chain and sprocket are connected\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: connected \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 161,
+          "endTimeInSeconds": 172,
+          "transcripts": [
+           {
+            "id": "7/161958-172026",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 172,
+            "text": "The biggest improvement however was the development of the chain and sprocket system. They are connected. This meant you did not push the bike. You used pedals just like today. "
+           }
+          ]
+         },
+         "value": "connected",
+         "blankId": "dS0k_bLFpsKjAtEoTomYY"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" tính tiện lợi của xe đạp năm 1860s\",\"bold\":true},{\"text\":\" (easier and ___ ride) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"it made \"},{\"text\":\"the ride so much easier\",\"bold\":true},{\"text\":\".\\\" (ý đầu tiên)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the good thing was that you could ride a lot \"},{\"text\":\"more smoothly\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Xe chạy\"},{\"text\":\" trơn tru hơn rất nhiều \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: more smoothly \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 172,
+          "endTimeInSeconds": 185,
+          "transcripts": [
+           {
+            "id": "8/172026-185686",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 185,
+            "text": "You had to try harder to balance, so it took some practice to ﬁgure out how to use the pedals. But it made the ride so much easier. As a result, the good thing was that you could ride a lot more smoothly and with very little effort."
+           }
+          ]
+         },
+         "value": "more smoothly",
+         "blankId": "4T-vzdR3HDpzSYjIQJyuH"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" xe đạp 1880 dùng cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"By the 1880s\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"another big change was \"},{\"text\":\"the use of rubber wheels\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một thay đổi lớn khác là việc\"},{\"text\":\" sử dụng bánh xe cao su\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: rubber wheels \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 185,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "9/185686-199391",
+            "startTimeInSeconds": 185,
+            "endTimeInSeconds": 199,
+            "text": "By the 1880s, another big change was the use of rubber wheels. These became pretty common at that time. Though the ﬁrst ones were solid rubber, the ride was a good deal more comfortable than the old iron and wood system. "
+           }
+          ]
+         },
+         "value": "rubber wheels",
+         "blankId": "mdJtWlxzOGIStMjRhViTt"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"lợi ích của xe đạp năm 1890s\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nói về brake, mình nghe được là \\\"This meant that \"},{\"text\":\"bikes became a great deal safer\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Xe đạp \"},{\"text\":\"trở nên an toàn hơn \",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Đáp án: safer \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 266,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "15/266799-274894",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 274,
+            "text": "For with the velocipede, brakes appeared. If you wanted to stop, you just pushed the pedal backward. Doing that stopped the back wheel of the bike. "
+           },
+           {
+            "id": "16/274894-282539",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 282,
+            "text": "This technique worked a lot better than dragging your feet or jumping oﬀ the high seat there! This meant that bikes became a great deal safer. "
+           }
+          ]
+         },
+         "value": "safer",
+         "blankId": "OGt-XiO_ImAMvFGoeivCB"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "S_3pc4IxmiN6vg3rt1jWx",
+         "key": 0
+        },
+        {
+         "id": "aP28AQXNPjHgnXLkimHh5",
+         "key": 1
+        },
+        {
+         "id": "AEZktOS9T9loUPy-zwgib",
+         "key": 2
+        },
+        {
+         "id": "dS0k_bLFpsKjAtEoTomYY",
+         "key": 3
+        },
+        {
+         "id": "4T-vzdR3HDpzSYjIQJyuH",
+         "key": 4
+        },
+        {
+         "id": "mdJtWlxzOGIStMjRhViTt",
+         "key": 5
+        },
+        {
+         "id": "OGt-XiO_ImAMvFGoeivCB",
+         "key": 6
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"hlgIW3e2hKnutGajxl6l1\",\"cellsWidth\":[112,167,190,201.833],\"children\":[{\"type\":\"tr\",\"id\":\"CgTEFjCJ8cXEqzwlk5ZmG\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Years/Time\",\"bold\":true}]}]}],\"id\":\"HXemidO5AgXjpaBC3sAMs\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Feature\",\"bold\":true}]}]}],\"id\":\"9ka84KRjC9Ff48K3UlJe0\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Advantage\",\"bold\":true}]}]}],\"id\":\"ZuOqRcnPkmhOa8wB_B9nE\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Disadvantage\",\"bold\":true}]}]}],\"id\":\"HHgTHt-H3yWrqZ_VStUbH\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pjWls83edz4qaLSVH0B1U\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1830s\"}]}]}],\"id\":\"8geYCA4B7F9ZoG0sKH73X\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"wooden wheels covered with metal\"}]}]}],\"id\":\"K5W2Q9ZhB_aHjxH57_5YX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"need\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"S_3pc4IxmiN6vg3rt1jWx\",\"text\":\"\"}]},{\"text\":\"than walking\"}]}]}],\"id\":\"HWjdKA7LOdm-JtheQ1XHk\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"quite\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"aP28AQXNPjHgnXLkimHh5\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ILZ1-wCe7RROjRC5FsTCA\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"2i0QF0OWjVGcbOxegw18g\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"AEZktOS9T9loUPy-zwgib\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Rcito62NtK7yMVZiP_6qp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Chain and sprocket are \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dS0k_bLFpsKjAtEoTomYY\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"pETx1W-FoRt5HW5EOfhsK\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"easier and \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"4T-vzdR3HDpzSYjIQJyuH\",\"text\":\"\"}]},{\"text\":\"ride\"}]}]}],\"id\":\"N9hipCF_01k7vcxpC9A23\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"harder to balance\\n\"}]}]}],\"id\":\"aCC79qYsETT5pz34u0ihs\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"2nmNKIy1M0wkMIpuICsIF\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1880s\"}]}]}],\"id\":\"fs1H6GXE_Iarj5xt435wF\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"use \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"mdJtWlxzOGIStMjRhViTt\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"VGMrEH8x66s4l4P_MW8jT\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"more comfortable\"}]}]}],\"id\":\"F7oUCZBmQ5o6RSHEjBfQ_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The faster you go, the more you feel every bump.\"}]}]}],\"id\":\"BVFaWbmZglI47-52cNldM\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hmqeL_DAaHEtGRYDd4U4x\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1890s\"}]}]}],\"id\":\"DQR6__UR34rRuN_zTH5L8\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"equal-sized wheels\"}]}]}],\"id\":\"_fjZc_tQLklgbv68Do0bo\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"OGt-XiO_ImAMvFGoeivCB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"MLEDCgo8P3SuT3rdoHTtg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"dangerous before brakes appeared\"}]}]}],\"id\":\"tEFHdWd9s4ZFXaVZUA337\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":670.833,\"border\":true,\"hasRowHeading\":true}]",
+       "question": "Talking about the history of bikes."
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    },
+    {
+     "id": "a294bb18-75b1-11ec-b893-939e6ef4d847",
+     "questions": [
+      {
+       "uuid": "a294bb19-75b1-11ec-b893-939e6ef4d847",
+       "type": "MULTIPLE_ANSWER",
+       "question": "The invention of different gears on a bicycle affected which THREE of the following?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Wheel size"
+        },
+        {
+         "key": 1,
+         "value": "Balance"
+        },
+        {
+         "key": 2,
+         "value": "Rate of speed"
+        },
+        {
+         "key": 3,
+         "value": "The back wheel"
+        },
+        {
+         "key": 4,
+         "value": "Safety"
+        },
+        {
+         "key": 5,
+         "value": "Downhill travel "
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"at the back wheel you’ll see \"},{\"text\":\"a number of gears\",\"bold\":true},{\"text\":\"\\\" (ở bánh sau, bạn sẽ thấy một số gears) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Changing gears is what \"},{\"text\":\"makes those fast speeds possible\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thay đổi gears\"},{\"text\":\" làm cho xe chạy nhanh hơn,\",\"bold\":true},{\"text\":\" tức ảnh hưởng tới\"},{\"text\":\" tốc độ chạy của xe (rate of speed) \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 358,
+          "endTimeInSeconds": 401,
+          "transcripts": [
+           {
+            "id": "23/358968-370715",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 370,
+            "text": "Why are today’s bikes so much faster? Well, it’s not just that today’s athletes are faster. The answer is partly mechanical. If you look closely here, at the back wheel you’ll see a number of gears. "
+           },
+           {
+            "id": "24/370715-385646",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 385,
+            "text": "Changing gears is what makes those fast speeds possible. You can shift gears depending on the terrain and how hard you wish to pedal. So you can put it on a higher gear for downhill, and a lower gear for uphill travel to make it easier to climb that slope."
+           },
+           {
+            "id": "25/385646-401564",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 401,
+            "text": "You’ll notice this gear-shifting mechanism is attached at the back wheel, and when the rider shifts on the handlebar gear shifter, the chain moves to the appropriate sprocket. And, speaking of changing gears, let’s look over here at our “Tour de France” exhibit..."
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"you can \"},{\"text\":\"put it on a higher gear for downhill\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"a lower gear for uphill travel to make it easier to climb that slope\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn có thể chọn \"},{\"text\":\"higher gear để đi downhill\",\"bold\":true},{\"text\":\", và \"},{\"text\":\"lower gear để đi uphill\",\"bold\":true},{\"text\":\"\\n=> Có ảnh hưởng tới \"},{\"text\":\"downhill travel \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  \"},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 370,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "24/370715-385646",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 385,
+            "text": "Changing gears is what makes those fast speeds possible. You can shift gears depending on the terrain and how hard you wish to pedal. So you can put it on a higher gear for downhill, and a lower gear for uphill travel to make it easier to climb that slope."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng nghe \\\"You’ll notice \"},{\"text\":\"this gear-shifting mechanism is attached at the back wheel\",\"bold\":true},{\"text\":\", and when the rider shifts on the handlebar gear shifter, the chain moves to the appropriate sprocket\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cơ cấu gears này có \"},{\"text\":\"tác động tới back wheel \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 385,
+          "endTimeInSeconds": 401,
+          "transcripts": [
+           {
+            "id": "25/385646-401564",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 401,
+            "text": "You’ll notice this gear-shifting mechanism is attached at the back wheel, and when the rider shifts on the handlebar gear shifter, the chain moves to the appropriate sprocket. And, speaking of changing gears, let’s look over here at our “Tour de France” exhibit..."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 3
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "THREE",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-F",
+          "bold": true
+         },
+         {
+          "text": ", and write them next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "THREE ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-F",
+          "bold": true
+         },
+         {
+          "text": ", and write them next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:02Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

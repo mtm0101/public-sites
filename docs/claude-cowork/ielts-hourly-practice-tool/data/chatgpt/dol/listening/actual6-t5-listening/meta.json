@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual6-t5-listening",
+ "title": "Actual Test 6 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 6",
+ "testNum": 5,
+ "order": 101,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-6-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Basic Details Of Project",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3d56bdfc-e632-40a1-bda5-3e18146cbe84.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6217186
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/719468bc-a231-4e10-a69f-df365a163fe8.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 36
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Schedule Of Repairs",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cddce1ab-d730-424e-92d6-c44b7f87256e.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4951189
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/448d3bba-3581-4611-8f2b-16a697b0ae2d.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 17
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Courses Discussion",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/40fb92b8-d4d2-4fbf-9e24-d5842185b11e.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 4850878
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e1c13753-36e3-4f29-914c-58afb890d928.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Movement Of Population Towards Cities",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f16422fb-f35e-4a69-a5de-9d5204e8aa6c.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6467126
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/65bbf112-b14e-425d-a209-843fcdc5578d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:56:06Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

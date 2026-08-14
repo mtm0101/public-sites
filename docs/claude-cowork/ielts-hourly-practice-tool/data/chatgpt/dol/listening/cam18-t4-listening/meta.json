@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam18-t4-listening",
+ "title": "CAM IELTS 18 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 18",
+ "testNum": 4,
+ "order": 12,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-18-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Job details from employment agency",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/eb801293-5856-4e50-8fde-f11977be304c.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7086393
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/cf7eddb6-6f4c-459d-b4cd-028c1bd3eaf9.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Museum of Farming Life",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/6bd027fb-392d-4f87-aed5-f048882ff929.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6978142
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/528ae38c-ba3d-49b5-9c9a-71f76f9efad6.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Origami",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/630e6cc6-7b3f-4e81-a102-a240a20f9b12.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6689750
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/687034d1-33ed-4ebf-81b8-262f82f5be9f.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 34
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Victor Hugo",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/06fc1e2d-58b4-41a5-ba0d-d50a18a5f90d.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7959092
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/1e01c234-445a-47d3-8315-c20014ae48a2.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 9
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:35:32Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

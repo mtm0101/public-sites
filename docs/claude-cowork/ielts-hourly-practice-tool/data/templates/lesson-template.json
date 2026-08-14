@@ -1,0 +1,45 @@
+{
+ "schema": 1,
+ "id": "ielts-YYYY-MM-DD-HH00-topicNN-topic-slug",
+ "sourceFile": "ielts-YYYY-MM-DD-HH00-topicNN-topic-slug.json",
+ "title": "Topic Name As Shown In Lists (e.g. Education)",
+ "fullTitle": "IELTS Hourly Practice — Topic NN: Topic Name",
+ "topicNumber": 5,
+ "angle": "the specific sub-angle chosen for this run (e.g. vocational education & employability)",
+ "band": "7.5–8.0",
+ "dateTime": "YYYY-MM-DDTHH:00",
+ "contentUpdatedAt": "YYYY-MM-DDTHH:MM:SS+07:00 — last meaningful content edit; update only when this file's content changes",
+ "words": ["headword one", "headword two", "…exactly the 10 vocabulary headwords, plain text, no IPA, no numbering…"],
+ "sections": [
+  {
+   "id": "vocab",
+   "title": "Vocabulary",
+   "html": "<h3>Section A <span class=\"band\">Band 6.5–7.5</span></h3>\n\n<div class=\"vocab\">\n  <div class=\"head\">take up <span class=\"ipa\">/ˌteɪk ˈʌp/</span></div>\n  <p class=\"vn\">bắt đầu (một sở thích, hoạt động mới)</p>\n  <p class=\"en\">to start doing a new activity or hobby regularly.</p>\n  <p class=\"ipa\">/tə stɑrt ˈduɪŋ ə nu ækˈtɪvəti ɔr ˈhɑbi ˈrɛɡjələrli/</p>\n  <p class=\"vn\">bắt đầu làm một hoạt động hoặc sở thích mới một cách đều đặn.</p>\n  <p class=\"en\">After I retired, I decided to take up watercolour painting to fill my afternoons.</p>\n  <p class=\"ipa\">/ˈæftər aɪ rɪˈtaɪərd aɪ dɪˈsaɪdɪd tə ˌteɪk ˈʌp ˈwɔtərˌkʌlər ˈpeɪntɪŋ tə fɪl maɪ ˌæftərˈnunz/</p>\n  <p class=\"vn\">Sau khi nghỉ hưu, tôi quyết định bắt đầu học vẽ màu nước để lấp đầy những buổi chiều.</p>\n</div>\n\n<p class=\"en\">…repeat the div.vocab card above for all 5 Section A items. RULES: the FIRST p.en in a card is the definition, later p.en lines are examples (the app colour-codes them automatically). NEVER write the words \"Meaning:\", \"Example:\", \"Nghĩa:\", \"Ví dụ:\" — no marker prefixes of any kind.</p>\n\n<h3>Section B <span class=\"band\">Band 7.5–9.0</span></h3>\n\n<p class=\"en\">…5 more div.vocab cards in exactly the same shape…</p>"
+  },
+  {
+   "id": "reading",
+   "title": "Reading",
+   "html": "<h3>Title Of The Passage</h3>\n\n<p class=\"en\">First English sentence of the passage.</p>\n<p class=\"vn\">Bản dịch tiếng Việt của câu đó.</p>\n<p class=\"en\">Second English sentence…</p>\n<p class=\"vn\">Câu dịch thứ hai…</p>\n\n<h4>Questions 1–5</h4>\n<ol class=\"q\">\n<li>\n  <p class=\"en\"><strong>TRUE / FALSE / NOT GIVEN:</strong> The question statement.</p>\n  <p class=\"vn\"><strong>ĐÚNG / SAI / KHÔNG CÓ THÔNG TIN:</strong> Bản dịch câu hỏi.</p>\n</li>\n</ol>\n\n<div class=\"key\">\n<span class=\"label\">Answer Key</span>\n<p class=\"en\"><strong>1. FALSE.</strong> Explanation quoting the passage and explaining the trap.</p>\n<p class=\"vn\"><strong>1. SAI.</strong> Giải thích bằng tiếng Việt.</p>\n</div>"
+  },
+  {
+   "id": "listening",
+   "title": "Listening",
+   "html": "<p class=\"note en\">Transcript — one line describing the scenario and speakers.</p>\n<p class=\"note vn\">Bản ghi — mô tả tình huống và người nói.</p>\n\n<p class=\"en\"><strong>Officer:</strong> First line of dialogue.</p>\n<p class=\"vn\"><strong>Nhân viên:</strong> Bản dịch.</p>\n<p class=\"en\"><strong>Caller:</strong> Reply line.</p>\n<p class=\"vn\"><strong>Người gọi:</strong> Bản dịch.</p>\n\n<h4>Questions 1–5</h4>\n<ol class=\"q\">\n<li>\n  <p class=\"en\"><strong>NOTE COMPLETION (ONE NUMBER):</strong> The course lasts ______ weeks.</p>\n  <p class=\"vn\"><strong>ĐIỀN GHI CHÚ (MỘT SỐ):</strong> Khóa học kéo dài ______ tuần.</p>\n</li>\n</ol>\n\n<div class=\"key\">\n<span class=\"label\">Answer Key</span>\n<p class=\"en\"><strong>1. eight (8).</strong> Quote the transcript line and flag the trap type.</p>\n<p class=\"vn\"><strong>1. tám (8).</strong> Giải thích tiếng Việt.</p>\n</div>"
+  },
+  {
+   "id": "writing",
+   "title": "Writing (Task 2)",
+   "html": "<div class=\"card\">\n<p class=\"en\"><strong>Prompt:</strong> The full essay question.</p>\n<p class=\"vn\"><strong>Đề bài:</strong> Bản dịch đầy đủ.</p>\n</div>\n\n<h4>Model answer <span class=\"band\">Band 7.5–8.0</span></h4>\n<p class=\"en\">First sentence of the model essay.</p>\n<p class=\"vn\">Bản dịch câu đầu.</p>\n\n<div class=\"card\">\n<h4>Structure breakdown</h4>\n<p class=\"en\"><strong>Introduction:</strong> what it does.</p>\n<p class=\"vn\"><strong>Mở bài:</strong> chức năng của đoạn.</p>\n</div>\n\n<div class=\"card\">\n<h4>Three improvement notes</h4>\n<p class=\"en\"><strong>1.</strong> A concrete, actionable coaching tip.</p>\n<p class=\"vn\"><strong>1.</strong> Bản dịch lời khuyên.</p>\n</div>"
+  },
+  {
+   "id": "speaking",
+   "title": "Speaking",
+   "html": "<div class=\"card\">\n<p class=\"en\"><strong>Coherence backbone:</strong> Direct Answer → Explain → Extend → Example/Result.</p>\n<p class=\"vn\"><strong>Khung mạch lạc:</strong> Trả lời thẳng → Giải thích → Mở rộng → Ví dụ/Kết quả.</p>\n<p class=\"en\">Note: Part 2 is delivered as one natural, flowing long turn — no inline labels.</p>\n<p class=\"vn\">Lưu ý: Phần 2 là một lượt nói dài tự nhiên, liền mạch — không gắn nhãn.</p>\n</div>\n\n<h3>Part 1</h3>\n<h4>Q1. The examiner question?</h4>\n<p class=\"en\">[Direct answer] … [Reason] … [Example] … (light labels allowed in Parts 1 and 3 only).</p>\n<p class=\"vn\">Bản dịch toàn bộ câu trả lời, không nhãn.</p>\n\n<h3>Part 2 — Cue card</h3>\n<div class=\"card\">\n<p class=\"en\"><strong>Describe …</strong> You should say: …; …; …; and explain ….</p>\n<p class=\"vn\"><strong>Hãy mô tả …</strong> Bạn nên nói: …</p>\n</div>\n<div class=\"prep\">\n<p class=\"en\"><strong>Preparation notes (1-minute plan):</strong> keyword · keyword · keyword</p>\n<p class=\"vn\"><strong>Ghi chú chuẩn bị (kế hoạch 1 phút):</strong> từ khóa · từ khóa</p>\n</div>\n<p class=\"en\">First sentence of the flowing long turn (sentence by sentence, EN then VN, no labels).</p>\n<p class=\"vn\">Bản dịch câu đầu.</p>\n\n<h3>Part 3</h3>\n<h4>Q1. The deeper discussion question?</h4>\n<p class=\"en\">[Position] … [Reason] … [Extend] … [Example] … [Counter-balance] … [Implication] …</p>\n<p class=\"vn\">Bản dịch toàn bộ, không nhãn.</p>"
+  },
+  {
+   "id": "strategy",
+   "title": "Strategy Note",
+   "html": "<p class=\"en\">One or two tight paragraphs of topic-specific Band 7.5–8.0 coaching, sentence by sentence.</p>\n<p class=\"vn\">Bản dịch tiếng Việt.</p>\n<p class=\"en\">Second sentence if needed.</p>\n<p class=\"vn\">Câu dịch thứ hai.</p>"
+  }
+ ]
+}

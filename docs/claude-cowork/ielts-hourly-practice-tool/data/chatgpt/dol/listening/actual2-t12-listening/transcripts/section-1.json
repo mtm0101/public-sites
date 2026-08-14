@@ -1,0 +1,313 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 150.601,
+   "end": 155.186,
+   "text": "Hello, Elite Travel, this is Emily speaking, how may I assist you today?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c2",
+   "start": 155.186,
+   "end": 162.324,
+   "text": "Hi, I have a group visit to plan, and I wonder whether you could help me decide on which hotel to book.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c3",
+   "start": 162.324,
+   "end": 168.608,
+   "text": "I have narrowed it down to either the Winchester, the Royal Hotel, or the Star Hotel.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c4",
+   "start": 168.608,
+   "end": 171.0,
+   "text": "I am wondering if you have a recommendation.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c5",
+   "start": 171.387,
+   "end": 175.639,
+   "text": "I would be happy to help! Those three are excellent choices.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c6",
+   "start": 175.639,
+   "end": 180.909,
+   "text": "If everyone is booking hotel rooms independently, an easy way to do it is online booking.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c7",
+   "start": 180.909,
+   "end": 184.933,
+   "text": "The Star Hotel offers online booking at no additional charge.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c8",
+   "start": 184.933,
+   "end": 186.499,
+   "text": "It sounds fine!",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c9",
+   "start": 186.499,
+   "end": 191.452,
+   "text": "Yeah, and you can even book the gorgeous sea view rooms if you act quickly.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c10",
+   "start": 191.452,
+   "end": 193.727,
+   "text": "Hm, I will consider that.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c11",
+   "start": 193.727,
+   "end": 200.478,
+   "text": "It would be great since we are mostly first-time visitors to the area to get a nice view of the water.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c12",
+   "start": 200.478,
+   "end": 204.201,
+   "text": "Now, are there handicap accessible rooms?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c13",
+   "start": 204.201,
+   "end": 208.146,
+   "text": "Yes, all three options have access for the physically disabled.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c14",
+   "start": 208.146,
+   "end": 216.17,
+   "text": "Great. I should also mention that we will be on a tight schedule, so we won’t have much time to go out for meals.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c15",
+   "start": 216.17,
+   "end": 218.961,
+   "text": "Which of these hotels serve food?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c16",
+   "start": 218.961,
+   "end": 224.41,
+   "text": "There is a limited continental breakfast menu at the Star and at the Winchester.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c17",
+   "start": 224.41,
+   "end": 228.346,
+   "text": "For a full restaurant and room service, the Royal Hotel is your best bet.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c18",
+   "start": 228.346,
+   "end": 231.787,
+   "text": "Oh wonderful! Could you tell me more about the restaurant?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c19",
+   "start": 231.787,
+   "end": 241.101,
+   "text": "Absolutely. In the morning there is a gourmet buffet or a la carte item, and after 11 a.m. lunch is served in the dining room.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c20",
+   "start": 241.101,
+   "end": 249.701,
+   "text": "Dinners are in a nice, low-key but high quality setting in the hotel’s private dining room and Fridays feature the house jazz band.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c21",
+   "start": 249.701,
+   "end": 254.215,
+   "text": "How lovely! Is there a group discount?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c22",
+   "start": 254.215,
+   "end": 258.804,
+   "text": "No, sorry. Not at the Royal hotel. Let me check on the others, though.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c23",
+   "start": 258.804,
+   "end": 261.264,
+   "text": "Could I place you on hold for just a second?",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c24",
+   "start": 261.264,
+   "end": 262.733,
+   "text": "Sure, thanks.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c25",
+   "start": 262.733,
+   "end": 269.279,
+   "text": "It looks like there is one at the Winchester - 15% off when you book 8 or more rooms.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c26",
+   "start": 269.279,
+   "end": 273.582,
+   "text": "Really? Sold! We’ll book at the Winchester.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c27",
+   "start": 273.582,
+   "end": 276.863,
+   "text": "Wait - is it suitable for children though?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c28",
+   "start": 276.863,
+   "end": 282.704,
+   "text": "We’ll have a few little ones in our group, and it would be great to have a way to keep them occupied.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c29",
+   "start": 282.704,
+   "end": 289.118,
+   "text": "Yes. In fact, it has a play place that kids just love, with slides, and swings and everything.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c30",
+   "start": 289.118,
+   "end": 291.813,
+   "text": "Definitely a good hotel to bring the kids.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c31",
+   "start": 291.813,
+   "end": 293.629,
+   "text": "Okay, great.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c32",
+   "start": 329.122,
+   "end": 332.635,
+   "text": "So now I know where we'll be staying, what next?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c33",
+   "start": 332.635,
+   "end": 336.965,
+   "text": "Should I go ahead and book transportation and assign rooms and everything?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c34",
+   "start": 336.965,
+   "end": 340.86,
+   "text": "Well, for now, there are only a few things for you to take care of.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c35",
+   "start": 340.86,
+   "end": 344.96,
+   "text": "We will hold a block of rooms for you as soon as you send a deposit.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c36",
+   "start": 344.96,
+   "end": 351.548,
+   "text": "I recommend booking as soon as possible, so you know how many rooms to hold.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c37",
+   "start": 351.548,
+   "end": 357.513,
+   "text": "Oh, right. Okay, I’ll send the invitations and put down the deposit.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c38",
+   "start": 357.513,
+   "end": 360.096,
+   "text": "Is there anything else I should take care of?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c39",
+   "start": 360.096,
+   "end": 369.249,
+   "text": "Great! And don’t worry about this now, but sometime before you arrive do let us know if you’ll be requiring our transport service to and from the airport.",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c40",
+   "start": 369.249,
+   "end": 373.217,
+   "text": "I’ll make sure to let you know. Does that incur a service charge?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c41",
+   "start": 373.217,
+   "end": 379.332,
+   "text": "Or perhaps a tip, or some presents to show our gratitude for the personal car service?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c42",
+   "start": 379.332,
+   "end": 388.107,
+   "text": "Oh, don’t worry about it. It is a free service, so if you would like to tip you are welcome to do, but hotel drivers do not accept gifts",
+   "speaker": "Agent"
+  },
+  {
+   "id": "c43",
+   "start": 388.107,
+   "end": 389.377,
+   "text": "Thanks for your help!",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c44",
+   "start": 389.377,
+   "end": 392.388,
+   "text": "My pleasure. Enjoy your stay at the Winchester!",
+   "speaker": "Agent"
+  }
+ ]
+}

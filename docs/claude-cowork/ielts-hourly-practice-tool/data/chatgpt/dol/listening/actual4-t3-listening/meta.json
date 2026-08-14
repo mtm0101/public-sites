@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t3-listening",
+ "title": "Actual Test 4 - Listening Test 3",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 3,
+ "order": 87,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Hotel  Reservation",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/30fda808-a33f-469a-8f3c-9c891a15762d.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 16830215
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/26b2df0a-bdad-4613-b0a7-5ba421db34fe.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 48
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Northfiels Sports Complex",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ce92582e-f4fd-4345-823b-5aed2a600dc9.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 15473938
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9898faf7-d16b-4ac2-b257-d9a10966386d.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 37
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research About Different Energy-Saving Innovations",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ab8a5a39-5614-4cc3-bdb3-603cf0c1d017.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 18185448
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7f5bdd41-0b52-4f1d-987f-1743637d6bba.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 49
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Fish Farming",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5309edc4-36e5-4d31-a701-2e3d6147a44f.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 19220942
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dd4911ed-0708-4608-a9e1-82b4b25bade1.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 48
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:50:15Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

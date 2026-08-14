@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual3-t3-listening",
+ "title": "Actual Test 3 - Listening Test 3",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 3,
+ "order": 81,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-3-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Driving School",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cdb8224e-cf32-40cb-a792-599d62ccbc50.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 4073291
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/647190b2-ed92-4ae0-941a-cc49862fbca4.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 50
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Mount Rushmore",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a916a6c4-2279-47ba-92f8-e79a892dccba.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3479607
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/54522012-e01b-455d-88d3-d63365d3a121.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 33
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Advice About Tourism Course",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6f28a71f-a78a-466c-b619-78d7e3f8df84.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3464199
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/585add8b-32a9-4c51-86ea-9ea6d56a2f6b.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 47
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Company Outsourcing",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/52b9e97f-9084-48b7-b0c3-e8c96ab70a7a.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 3976771
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4137f3c7-eb02-47de-af1d-23d2ef44e80b.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 35
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:46:49Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam13-t3-listening",
+ "title": "CAM IELTS 13 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 13",
+ "testNum": 3,
+ "order": 31,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-13-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Moving To Banford City",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b1903689-42a6-4689-853c-04b63f6d54c9.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6581260
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/669a8741-6d35-4c38-9574-71dbd5f44cd5.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 30
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Physical Activities",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c274f76f-a112-47fe-b0d0-7e15fa84ae10.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4570861
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/1d1c6ab5-c271-4664-a2fa-5445eec6132f.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Natural Dyes",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1964bc99-f1e0-450e-93e6-f56d163bd713.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 4776502
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2c874e74-35dc-4554-a128-5dafb0bd2982.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 38
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Sleepy Lizard",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/585a8f4b-9858-484f-99bf-ed644ae6812b.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 4789022
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fa5963e7-12fa-4e14-befa-3fdd78de7ef8.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:42:12Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

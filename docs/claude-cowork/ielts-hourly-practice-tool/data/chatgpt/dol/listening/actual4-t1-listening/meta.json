@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t1-listening",
+ "title": "Actual Test 4 - Listening Test 1",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 1,
+ "order": 85,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Revision Note",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/701890a8-2e9e-4ccf-b9f4-f60121f79a98.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 16873056
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a3e407f5-e1bf-4aaf-babe-662a4a6613f6.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Byron National Park",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2f8c5b57-9a1d-4231-9ceb-6e8837a66670.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 18018265
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0b71d130-362b-4f1b-bdc8-466e4cc06c46.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 22
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Feedback On Nursing Program",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8e60cdb9-819a-4ecc-947a-a752577a38df.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 16453007
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a3f44324-08a4-40fc-990b-4e06bb99f45a.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 20
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Penguins In Africa",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a9b3d07f-3ec7-4677-8306-c204b9ef71ca.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 15574248
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/13e04ed4-522d-4517-b7ff-05e7be4e6414.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 19
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:48:46Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

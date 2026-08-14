@@ -1,0 +1,341 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 140.566,
+   "end": 143.0,
+   "text": "Good morning. Sunset Hotel. How may I help you?",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c2",
+   "start": 143.655,
+   "end": 147.919,
+   "text": "Good morning. I just saw an advert in the paper about your hotel.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c3",
+   "start": 147.919,
+   "end": 149.935,
+   "text": "Where exactly is it located?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c4",
+   "start": 149.935,
+   "end": 154.439,
+   "text": "We are situated on Sunset Avenue, north of the beach.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c5",
+   "start": 154.439,
+   "end": 160.477,
+   "text": "Close to many scenic spots, it is an ideal choice for travellers interested in sightseeing.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c6",
+   "start": 160.477,
+   "end": 164.488,
+   "text": "That’s great. Is there a vacant four-bed room?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c7",
+   "start": 164.488,
+   "end": 171.0,
+   "text": "We’ll be travelling with our two sons aged 9 and 11, so it’s best that we are able to stay in one room.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c8",
+   "start": 171.806,
+   "end": 180.0,
+   "text": "Let me check, just a moment...Um. we only have a few four-bed rooms, and I’m afraid they are fully booked at the moment.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c9",
+   "start": 180.571,
+   "end": 189.074,
+   "text": "The earliest time available is August, but there might be some left in July if a previous customer cancels the reservation.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c10",
+   "start": 189.074,
+   "end": 192.419,
+   "text": "Oh, that’ll do. How much would the room cost me?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c11",
+   "start": 192.419,
+   "end": 200.4,
+   "text": "It’s 77.50 euros during peak time, but the price would be much lower during off-peak season.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c12",
+   "start": 200.4,
+   "end": 202.275,
+   "text": "Only 50 euros.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c13",
+   "start": 202.275,
+   "end": 206.115,
+   "text": "So if I book a room right now, is there any discount?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c14",
+   "start": 206.115,
+   "end": 214.418,
+   "text": "Yes. We do offer a 30% discount for any reservation made one month ahead of schedule. It is a very reasonable price.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c15",
+   "start": 214.418,
+   "end": 218.122,
+   "text": "That does sound tempting. Does the price include anything?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c16",
+   "start": 218.122,
+   "end": 222.442,
+   "text": "The price includes two breakfast vouchers per room per day.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c17",
+   "start": 222.442,
+   "end": 226.278,
+   "text": "You can use them at two different restaurants in our hotel.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c18",
+   "start": 226.278,
+   "end": 234.651,
+   "text": "There’s also a 20-minute spa trial available, but you have to book it beforehand at the concierge or directly at the Spa Centre.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c19",
+   "start": 234.651,
+   "end": 239.109,
+   "text": "Um, I’m wondering if there is a hairdryer in the room.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c20",
+   "start": 239.109,
+   "end": 242.964,
+   "text": "It takes ages to dry my hair without one. Do I have to bring one?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c21",
+   "start": 242.964,
+   "end": 249.335,
+   "text": "No, there is absolutely no need to bring that for each room is equipped with a hairdryer.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c22",
+   "start": 249.335,
+   "end": 253.528,
+   "text": "But I have to inform you that towels are not provided.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c23",
+   "start": 253.528,
+   "end": 257.056,
+   "text": "You’ll have to bring your own or hire some at the front desk.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c24",
+   "start": 257.056,
+   "end": 258.098,
+   "text": "Oh, I see.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c25",
+   "start": 295.706,
+   "end": 300.013,
+   "text": "Before making a reservation, can you tell me a little bit more about your hotel?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c26",
+   "start": 300.013,
+   "end": 309.712,
+   "text": "Sure, no problem. We aim to please our guests by providing impeccable service and all the modem amenities, trying to make them feel at home.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c27",
+   "start": 309.712,
+   "end": 319.453,
+   "text": "In the lounge, there are a list of books, ranging from contemporary literature to classic poetry, free for any guest to read.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c28",
+   "start": 319.453,
+   "end": 328.919,
+   "text": "There is also a games room offering a number of indoor games including popular board games like Monopoly as well as the beloved Table Soccer.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c29",
+   "start": 328.919,
+   "end": 331.511,
+   "text": "A nice place to go to on rainy days.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c30",
+   "start": 331.511,
+   "end": 334.158,
+   "text": "Are there computers available in the hotel?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c31",
+   "start": 334.158,
+   "end": 337.882,
+   "text": "1 might have a few emails to respond to during my stay there.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c32",
+   "start": 337.882,
+   "end": 341.37,
+   "text": "I’m afraid we currently co not provide any for our customers.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c33",
+   "start": 341.37,
+   "end": 344.533,
+   "text": "However, Internet is available within our hotel premises.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c34",
+   "start": 344.533,
+   "end": 347.0,
+   "text": "Just use the room number and guest name to log in.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c35",
+   "start": 347.545,
+   "end": 350.628,
+   "text": "That means I have to bring my own laptop then. All right.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c36",
+   "start": 350.628,
+   "end": 356.803,
+   "text": "Um, because I’m travelling with my two sons, is there anything that they might be interested in?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c37",
+   "start": 356.803,
+   "end": 360.927,
+   "text": "Yes, a popular activity here for children is collecting shells on the beach.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c38",
+   "start": 360.927,
+   "end": 373.488,
+   "text": "Our hotel has a private beach. When there are very few visitors, you can take a stroll down the beach with your children and enjoy some quality family time undisturbed.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c39",
+   "start": 373.488,
+   "end": 376.112,
+   "text": "That sounds nice, but you see my boys really love adventure.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c40",
+   "start": 376.968,
+   "end": 379.752,
+   "text": "Is there something more exciting for them to participate in?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c41",
+   "start": 379.752,
+   "end": 381.0,
+   "text": "We do have bicycles ready for hire.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c42",
+   "start": 381.881,
+   "end": 388.955,
+   "text": "You can cycle with the boys along the bush track by the hotel, which is an ideal place to explore the wonders of nature.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c43",
+   "start": 388.955,
+   "end": 395.317,
+   "text": "But, because there's only a limited number of bicycles, we apply a \"first come first serve\" rule.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c44",
+   "start": 395.317,
+   "end": 397.817,
+   "text": "Got it. I think my boys would love it.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c45",
+   "start": 397.817,
+   "end": 401.86,
+   "text": "How can arrange the payment, then? Can I pay by credit card?",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c46",
+   "start": 401.86,
+   "end": 403.948,
+   "text": "Of course. We take credit cards.",
+   "speaker": "Receptionist"
+  },
+  {
+   "id": "c47",
+   "start": 403.948,
+   "end": 406.234,
+   "text": "Thank you. You've been a great help.",
+   "speaker": "Customer"
+  },
+  {
+   "id": "c48",
+   "start": 406.234,
+   "end": 408.081,
+   "text": "My pleasure, ma'am.",
+   "speaker": "Receptionist"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual2-t9-listening",
+ "title": "Actual Test 2 - Listening Test 9",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 9,
+ "order": 78,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-2-test-9-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Registration Form",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1f1a3e81-fcf8-4613-9a18-6f67f188f420.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14729970
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9ac71039-1cec-4636-a184-013caa318305.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 54
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Extracurricular Project",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/87933159-2579-4c2b-a284-e0e4f7db4545.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14373660
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0b7ecae8-2d93-4366-8a13-b2222ecca23d.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 39
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research Project",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/91642e85-c19a-48fd-b1c7-0d8aa821568c.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12248338
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/718c51c9-73d9-49d0-8f1e-40d3de2974d0.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 26
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Pleasanton Town Market",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ee10a24f-9dc1-485f-a458-7c629bda0502.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 14502183
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/65467e0f-3df9-412b-92f6-2c93f48dba71.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:45:20Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

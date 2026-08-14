@@ -1,0 +1,341 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 141.462,
+   "end": 146.122,
+   "text": "Hello, thank you for calling Iris Rentals. How can I help you?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c2",
+   "start": 146.122,
+   "end": 156.142,
+   "text": "Yes, hello there. I’m ringing just to make enquiries about renting a new property and I came across a listing on your website that I’m interested in.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c3",
+   "start": 156.142,
+   "end": 157.354,
+   "text": "Oh yes.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c4",
+   "start": 157.354,
+   "end": 161.692,
+   "text": "I’d like to find out a few more details, if I may.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c5",
+   "start": 161.692,
+   "end": 163.703,
+   "text": "Yes, of course. Can I take your name?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c6",
+   "start": 163.703,
+   "end": 165.608,
+   "text": "It’s  Mary Collins.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c7",
+   "start": 165.608,
+   "end": 171.154,
+   "text": "Okay, Mary. I’m just searching our system for the  property  details.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c8",
+   "start": 171.154,
+   "end": 175.046,
+   "text": "Is there any information in particular that you were wanting?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c9",
+   "start": 175.046,
+   "end": 176.62,
+   "text": "Does the house have a gym?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c10",
+   "start": 176.62,
+   "end": 186.0,
+   "text": "No, the house doesn’t have a gym, however the house has a large swimming pool, which will be great for exercise and really refreshing during summer.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c11",
+   "start": 186.689,
+   "end": 192.037,
+   "text": "Oh wow, that sounds lovely. What is the general layout of the house?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c12",
+   "start": 192.037,
+   "end": 204.651,
+   "text": "This house is rather unusual as the living room is located upstairs with   the bedrooms, and downstairs at ground ﬂoor is the dining room, which has a lovely view out over the swimming pool.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c13",
+   "start": 204.651,
+   "end": 208.28,
+   "text": "Does the house come with a car parking space on the street?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c14",
+   "start": 208.28,
+   "end": 216.697,
+   "text": "Oh, there’s no need for that. The house comes with a big Q3 garage  where you can park your cars and there’s also a lot of room for storage.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c15",
+   "start": 216.697,
+   "end": 219.605,
+   "text": "It’s attached to the house through a door in the kitchen.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c16",
+   "start": 219.605,
+   "end": 225.762,
+   "text": "Oh, that’s perfect, it’ll make it far easier to cany my food shopping into  the house.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c17",
+   "start": 225.762,
+   "end": 234.492,
+   "text": "Oh yes, absolutely. You actually don’t even need to take your car to do the shopping as the local supermarket is just down the street.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c18",
+   "start": 234.492,
+   "end": 236.978,
+   "text": "You can walk the distance easily.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c19",
+   "start": 236.978,
+   "end": 244.14,
+   "text": "Really? How convenient! Is there anywhere near to the house where I can take my children to play?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c20",
+   "start": 244.14,
+   "end": 252.762,
+   "text": "Unfortunately there aren’t any playgrounds nearby, but there is a park near the supermarket that would be great for taking your children for a walk.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c21",
+   "start": 252.762,
+   "end": 256.737,
+   "text": "It would also be a great place for you to meet your neighbours.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c22",
+   "start": 256.737,
+   "end": 260.995,
+   "text": "Yes, that’s true, I love taking long walks in the park.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c23",
+   "start": 260.995,
+   "end": 264.355,
+   "text": "I’m sure there will be a playground at the local school anyway.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c24",
+   "start": 264.355,
+   "end": 277.396,
+   "text": "Yes, absolutely. The community has its own primary school and there is a secondary school in the neighbouring community, so there are plenty of resources nearby for your children’s education.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c25",
+   "start": 313.695,
+   "end": 317.678,
+   "text": "OK, great. What are the rental costs for the property?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c26",
+   "start": 317.678,
+   "end": 326.467,
+   "text": "The monthly rent is $980, which is very reasonable considering the size  of the house and the amenities that it has to offer.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c27",
+   "start": 326.467,
+   "end": 330.37,
+   "text": "Does that figure include maintenance fees and bills?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c28",
+   "start": 330.37,
+   "end": 336.535,
+   "text": "The bills are not included in that ﬁgure, but it does include any maintenance fees for the garden.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c29",
+   "start": 336.535,
+   "end": 343.126,
+   "text": "That sounds like a very reasonable price. We were hoping to move in on the 20th of April.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c30",
+   "start": 343.126,
+   "end": 345.567,
+   "text": "Will the house be vacant for that date?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c31",
+   "start": 345.567,
+   "end": 354.883,
+   "text": "The current tenants of the property are due to leave on the 20th, but the cleaners will need a few days to make sure that the house is clean and tidy.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c32",
+   "start": 354.883,
+   "end": 359.705,
+   "text": "This would make the house officially available on the 23rd April.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c33",
+   "start": 359.705,
+   "end": 365.072,
+   "text": "Well everything about the house sounds perfect... exactly what I’m  looking for.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c34",
+   "start": 365.072,
+   "end": 368.666,
+   "text": "What date would it be possible to view the property?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c35",
+   "start": 368.666,
+   "end": 375.675,
+   "text": "I have arranged for the tenant to leave the property on Friday so I can show the house to prospective renters.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c36",
+   "start": 375.675,
+   "end": 377.86,
+   "text": "Would you be able to make that day?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c37",
+   "start": 377.86,
+   "end": 383.248,
+   "text": "Yes, I’m sure I could come on my lunch break. Would 1 o’clock be OK?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c38",
+   "start": 383.248,
+   "end": 392.159,
+   "text": "I’m afraid that I have a meeting at 12.30, so I won’t be able to make that time. I have available appointments at 10.15 and 3.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c39",
+   "start": 392.159,
+   "end": 396.589,
+   "text": "OK, in that case can we schedule the appointment for 10.15?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c40",
+   "start": 396.589,
+   "end": 399.514,
+   "text": "No problem, I’ll book it into my schedule.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c41",
+   "start": 399.619,
+   "end": 406.0,
+   "text": "If you wouldn’t mind arriving 5 minutes early that would be great, just so we can get started on time.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c42",
+   "start": 406.331,
+   "end": 408.992,
+   "text": "Sure. What is the address?",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c43",
+   "start": 408.992,
+   "end": 417.453,
+   "text": "The postcode is GA58ER and the house is number 8 on Spring Street.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c44",
+   "start": 417.453,
+   "end": 420.921,
+   "text": "It’s the second right off of Bath Street.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c45",
+   "start": 420.921,
+   "end": 422.788,
+   "text": "OK, that’s great.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c46",
+   "start": 422.788,
+   "end": 425.082,
+   "text": "Do you have any more questions?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c47",
+   "start": 425.082,
+   "end": 427.797,
+   "text": "Nope.. .thank you for your help.",
+   "speaker": "CLIENT"
+  },
+  {
+   "id": "c48",
+   "start": 427.797,
+   "end": 431.263,
+   "text": "No problem. See you on Friday. Bye!",
+   "speaker": "AGENT"
+  }
+ ]
+}

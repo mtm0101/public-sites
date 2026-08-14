@@ -1,0 +1,320 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 158.964,
+   "end": 162.673,
+   "text": "Good morning. World Tours. My name is Jamie. How can I help you?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c2",
+   "start": 162.673,
+   "end": 169.892,
+   "text": "Good morning. I want some information on self-drive tours in the USA. Could you send me a brochure?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c3",
+   "start": 169.892,
+   "end": 172.232,
+   "text": "Of course. Could I have your name please?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c4",
+   "start": 172.232,
+   "end": 173.735,
+   "text": "Andrea Brown.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c5",
+   "start": 173.735,
+   "end": 176.261,
+   "text": "Thank you. And your address?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c6",
+   "start": 176.261,
+   "end": 178.775,
+   "text": "24, Ardleigh Road.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c7",
+   "start": 178.775,
+   "end": 179.935,
+   "text": "Can you spell that?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c8",
+   "start": 179.935,
+   "end": 185.34,
+   "text": "A-R-D-L-E-I-G-H Road.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c9",
+   "start": 185.34,
+   "end": 186.639,
+   "text": "Postcode?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c10",
+   "start": 186.639,
+   "end": 190.378,
+   "text": "BH5 2OP",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c11",
+   "start": 190.378,
+   "end": 193.061,
+   "text": "Thanks. And can I have your phone number?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c12",
+   "start": 193.061,
+   "end": 194.319,
+   "text": "Is a mobile alright?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c13",
+   "start": 194.483,
+   "end": 195.159,
+   "text": "Fine.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c14",
+   "start": 195.159,
+   "end": 202.364,
+   "text": "It’s 07786643091.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c15",
+   "start": 202.364,
+   "end": 208.871,
+   "text": "Thank you. And can I ask you where you heard about World Tours? From a friend? Or did you see an advert somewhere?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c16",
+   "start": 208.871,
+   "end": 211.404,
+   "text": "No, I read about you in the newspaper.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c17",
+   "start": 211.404,
+   "end": 219.903,
+   "text": "OK, I’ll get the brochures in the post to you but can I give you some information over the phone. What kinds of things do you want to do on your holiday?",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c18",
+   "start": 219.903,
+   "end": 226.836,
+   "text": "I’m interested in going to California with my family. I’ve got two children and we want to hire a car.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c19",
+   "start": 226.836,
+   "end": 238.535,
+   "text": "OK. We have a couple of self-drive tours there visiting different places of interest in California. The first one begins in Los Angeles and there’s plenty of time to visit some of the theme parks there.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c20",
+   "start": 238.535,
+   "end": 242.683,
+   "text": "That’s something on my children’s list so I’d want to include that.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c21",
+   "start": 242.683,
+   "end": 254.5,
+   "text": "Good. Then you drive to San Francisco. From San Francisco you can drive to Yosemite Park where you spend a couple of nights. You can choose to stay in a lodge or on the campsite.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c22",
+   "start": 254.5,
+   "end": 258.841,
+   "text": "I don’t like the idea of staying in a tent. It’d be too hot.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c23",
+   "start": 258.841,
+   "end": 261.909,
+   "text": "Right. And the tour ends in Las Vegas.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c24",
+   "start": 261.909,
+   "end": 262.902,
+   "text": "OK.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c25",
+   "start": 262.902,
+   "end": 270.101,
+   "text": "The other trip we can arrange is slightly different. It starts in San Francisco. Then you drive south to Cambria.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c26",
+   "start": 270.101,
+   "end": 275.325,
+   "text": "Someone told me there’s a really nice castle near Cambria. Will we go near that?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c27",
+   "start": 275.325,
+   "end": 278.765,
+   "text": "Hearst Castle is on that road so you could stop there.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c28",
+   "start": 278.765,
+   "end": 283.658,
+   "text": "Good. I’d like to do that. Does this trip also go into the desert?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c29",
+   "start": 283.658,
+   "end": 288.621,
+   "text": "No, it continues to Santa Monica where most people like to stop and do some shopping.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c30",
+   "start": 288.621,
+   "end": 292.551,
+   "text": "We have enough of that at home so that doesn’t interest us.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c31",
+   "start": 292.551,
+   "end": 296.147,
+   "text": "OK. Well you could go straight on to San Diego.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c32",
+   "start": 296.147,
+   "end": 298.509,
+   "text": "That’s good for beaches isn’t it?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c33",
+   "start": 298.509,
+   "end": 304.652,
+   "text": "That’s right, that’s a good place to relax and your children might like to visit the zoo before flying home.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c34",
+   "start": 304.652,
+   "end": 309.312,
+   "text": "I don’t think so. We want some time for sunbathing and swimming.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c35",
+   "start": 346.886,
+   "end": 350.42,
+   "text": "So how many days are the trips and how much do they cost?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c36",
+   "start": 350.42,
+   "end": 375.313,
+   "text": "The first one I told you about is a self-drive tour through California which lasts twelve days and covers 2,020 kilometres. The shortest journey is 206 km and the longest is 632 kilometres. The cost is £525 per person. That includes accommodation, car rental and a flight but no meals.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c37",
+   "start": 375.313,
+   "end": 377.793,
+   "text": "OK. And the other trip?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c38",
+   "start": 377.793,
+   "end": 385.174,
+   "text": "That lasts nine days but you spend only three days on the road. You cover about 980 kilometres altogether.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c39",
+   "start": 385.174,
+   "end": 386.932,
+   "text": "So is that cheaper then?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c40",
+   "start": 386.932,
+   "end": 392.839,
+   "text": "Yes, it’s almost a hundred pounds cheaper. It’s £429 per person, which is a good deal.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c41",
+   "start": 392.839,
+   "end": 397.964,
+   "text": "So that covers accommodation and car hire. What about flights?",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c42",
+   "start": 397.964,
+   "end": 402.024,
+   "text": "They aren’t included. But these hotels offer dinner in the price.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c43",
+   "start": 402.024,
+   "end": 407.797,
+   "text": "OK. Well, thank you very much. I’ll be in touch when I’ve had a chance to look at the brochure.",
+   "speaker": "ANDREA"
+  },
+  {
+   "id": "c44",
+   "start": 407.797,
+   "end": 409.77,
+   "text": "I’m pleased to help. Goodbye.",
+   "speaker": "TRAVEL AGENT"
+  },
+  {
+   "id": "c45",
+   "start": 409.77,
+   "end": 410.657,
+   "text": "Goodbye.",
+   "speaker": "ANDREA"
+  }
+ ]
+}

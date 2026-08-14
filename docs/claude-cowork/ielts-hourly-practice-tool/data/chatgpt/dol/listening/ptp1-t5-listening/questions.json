@@ -1,0 +1,2221 @@
+{
+ "schema": 1,
+ "id": "ptp1-t5-listening",
+ "title": "Practice Test Plus 1 - Listening Test 5",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 5,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-practice-test-plus-1-test-5-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-practice-test-plus-1-test-5-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Millenium Office Supplies",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "5502db87-7734-11ef-bcc1-ab975cb7693d",
+     "questions": [
+      {
+       "uuid": "GtjYnMrGNbDuFR-yISp_X",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"số tài khoản\",\"bold\":true},{\"text\":\" (account number ____ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"can I just confirm your \"},{\"text\":\"account number\",\"bold\":true},{\"text\":\"...\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người đàn ông nói rằng \\\"\"},{\"text\":\"The account number is 6 9 2 4 double 1.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 692411\",\"bold\":true},{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 160,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "4/160422-165784",
+            "startTimeInSeconds": 160,
+            "endTimeInSeconds": 165,
+            "text": " Right - can I just confirm your account number and the name of your company, John?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "5/165784-170282",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 170,
+            "text": " Sure! The account number is 6 9 2 4 double 1",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "6/170282-177416",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 177,
+            "text": " Six nine two four one one. Right, and you're from 'Rainbow Computers?'",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "692411",
+         "blankId": "-n2nSM5TMuePgq_oOfpU5"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên công ty \",\"bold\":true},{\"text\":\"(company name ....)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"and you are from\"},{\"text\":\" 'Rainbow Computers'\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người đàn ông sau đó đã \"},{\"text\":\"sửa lại \",\"bold\":true},{\"text\":\"tên công ty của mình \\\"No, the company is\"},{\"text\":\" Rainbow Communications\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Rainbow Communications \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 170,
+          "endTimeInSeconds": 190,
+          "transcripts": [
+           {
+            "id": "6/170282-177416",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 177,
+            "text": " Six nine two four one one. Right, and you're from 'Rainbow Computers?'",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "7/177416-181056",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 181,
+            "text": " No. The company is Rainbow Communications",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "8/181056-190084",
+            "startTimeInSeconds": 181,
+            "endTimeInSeconds": 190,
+            "text": " Oh, OK, I'll just fix that on the system ... communications. And what would you like to order, John?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "Rainbow Communications/Rainbow Communication",
+         "blankId": "ao3xx98R9icFjOgCE8BIt"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" màu sắc của envelope\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Envelopes\",\"bold\":true},{\"text\":\". We need a \"},{\"text\":\"box of A4\",\"bold\":true},{\"text\":\" - that is, \"},{\"text\":\"normal size envelopes\",\"bold\":true},{\"text\":\"\\\" (ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó người phụ nữ đưa ra\",\"marks\":[]},{\"text\":\" 3 lựa chọn \\\"white, yellow, or vanilla?\\\"\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Người đàn ông nói \\\"we'll have the\"},{\"text\":\" plain white \",\"bold\":true},{\"text\":\"please\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: white \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 190,
+          "endTimeInSeconds": 202,
+          "transcripts": [
+           {
+            "id": "9/190084-195203",
+            "startTimeInSeconds": 190,
+            "endTimeInSeconds": 195,
+            "text": " Envelopes. We need a box of A4 - that is, normal size envelopes",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "10/195203-197545",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 197,
+            "text": " White, yellow or vanilla?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "11/197545-202166",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 202,
+            "text": " We'll have the plain white please - but the ones with the little windows",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "white",
+         "blankId": "nDVQxDLymgDIKCSAAqCn4"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" số lượng envelope \",\"bold\":true},{\"text\":\"(quantity ____ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi người phụ nữ xác nhận rằng \\\"ok... \"},{\"text\":\"one\",\"bold\":true},{\"text\":\" box of A4 - that is, normal size envelopes\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đàn ông đổi ý rằng \\\"on \"},{\"text\":\"second thoughts\",\"bold\":true},{\"text\":\" make that\"},{\"text\":\" two boxes.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người đàn ông \",\"marks\":[]},{\"text\":\"nghĩ lại\",\"marks\":[],\"bold\":true},{\"text\":\", và\",\"marks\":[]},{\"text\":\" yêu cầu 2 hộp\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: two/2 boxes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 202,
+          "endTimeInSeconds": 218,
+          "transcripts": [
+           {
+            "id": "12/202166-209218",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 209,
+            "text": " OK ... One box - A4 - white - just the one box, was it?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "13/209218-218840",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 218,
+            "text": " Um, on second thoughts make that two boxes. We go through heaps of envelopes. As a matter of interest. Are they made from recycled paper?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "2/two/2 boxes/two boxes",
+         "blankId": "yF6sGb45ArEzbXu8-0hqE"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"màu sắc của photocopy paper \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi người phụ nữ\"},{\"text\":\" liệt kê ra một số màu\",\"bold\":true},{\"text\":\", người đàn ông nói \\\"we're going to need a lot of\"},{\"text\":\" blue paper\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Tuy nhiên ông lấy nói lại tiếp \\\"make sure it's the\"},{\"text\":\" light blue \",\"bold\":true},{\"text\":\"though\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ông ấy muốn màu xanh, nhưng \",\"marks\":[]},{\"text\":\"chính xác hơn là xanh nhạt\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: light blue \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\" \"}]},{\"text\":\" Người phụ nữ cũng xác nhận rằng \\\"\"},{\"text\":\"ten packs of the light blue\",\"bold\":true},{\"text\":\"\\\" => đáp án cho câu 6 là: \"},{\"text\":\"10 packs/10 packets\",\"bold\":true},{\"text\":\". \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "17/230171-234705",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 234,
+            "text": " Yes, we need some coloured photocopy paper. What colours do you have?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "18/234705-243639",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 243,
+            "text": " We've got purple, light blue, blue, light green - whatever you want, pretty much. There are 500 sheets to the pack.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "19/243639-253864",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 253,
+            "text": " Let's see ...we're going to need a lot of blue paper for our new price lists so can you give us ten packs, please. Make sure it's the light blue though...",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "20/253864-256332",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 256,
+            "text": " Ten packs of the light blue.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "light blue",
+         "blankId": "dmCPJBhT_3oMTLQRfOZb4"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \",\"marks\":[]},{\"text\":\"số lượng photocopy paper\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó người phụ nữ cũng xác nhận rằng \\\"\"},{\"text\":\"ten packs of the light blue\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => \"},{\"text\":\"Đáp án là: 10 packs/10 packets\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "17/230171-234705",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 234,
+            "text": " Yes, we need some coloured photocopy paper. What colours do you have?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "18/234705-243639",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 243,
+            "text": " We've got purple, light blue, blue, light green - whatever you want, pretty much. There are 500 sheets to the pack.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "19/243639-253864",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 253,
+            "text": " Let's see ...we're going to need a lot of blue paper for our new price lists so can you give us ten packs, please. Make sure it's the light blue though...",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "20/253864-256332",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 256,
+            "text": " Ten packs of the light blue.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "ten/10/10 packs/10 packets",
+         "blankId": "qxYaAJMoaaJ2l_5EiToxM"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "-n2nSM5TMuePgq_oOfpU5",
+         "key": 0
+        },
+        {
+         "id": "ao3xx98R9icFjOgCE8BIt",
+         "key": 1
+        },
+        {
+         "id": "nDVQxDLymgDIKCSAAqCn4",
+         "key": 2
+        },
+        {
+         "id": "yF6sGb45ArEzbXu8-0hqE",
+         "key": 3
+        },
+        {
+         "id": "dmCPJBhT_3oMTLQRfOZb4",
+         "key": 4
+        },
+        {
+         "id": "qxYaAJMoaaJ2l_5EiToxM",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"OslEvkqC1CSt-MbRjPZib\",\"cellsWidth\":[900],\"children\":[{\"type\":\"tr\",\"id\":\"y4P9jJj8sDEevShfZsljv\",\"children\":[{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example:\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"ORDER PLACED BY\",\"bold\":true},{\"text\":\"            \"},{\"text\":\"John Carter\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"bcVqfSEOxbjrV4g7J-ePv\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"CpXensQ3gP3gCSK0AqBDy\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"ACCOUNT NUMBER\",\"bold\":true},{\"text\":\"         \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"-n2nSM5TMuePgq_oOfpU5\",\"text\":\"\"}]},{\"text\":\"\\n\"},{\"text\":\"COMPANY NAME                   \",\"bold\":true},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ao3xx98R9icFjOgCE8BIt\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"JnO406C7z9JKoNw9mmQ7q\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"v1eGcgGz8wak0Go7inOGY\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Envelopes\",\"bold\":true},{\"text\":\"\\nSize                                       \"},{\"text\":\"A4 normal\",\"bold\":true},{\"text\":\"\\nColour                                 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"nDVQxDLymgDIKCSAAqCn4\",\"text\":\"\"}]},{\"text\":\"\\nQuantity                              \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"yF6sGb45ArEzbXu8-0hqE\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"PDIGF8MRygxZIWwEvooU8\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"OFIC-YRlynxmI5Cf6CFK7\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Photocopy paper\",\"bold\":true},{\"text\":\"\\nColour                                 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dmCPJBhT_3oMTLQRfOZb4\",\"text\":\"\"}]},{\"text\":\"\\nQuantity                              \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qxYaAJMoaaJ2l_5EiToxM\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"XEe56YvWPPVSXbhw2G4dZ\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":900,\"border\":true}]",
+       "question": "CUSTOMER ORDER FORM"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "5502db88-7734-11ef-bcc1-ab975cb7693d",
+     "questions": [
+      {
+       "uuid": "5502db89-7734-11ef-bcc1-ab975cb7693d",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" ba thứ người đàn ông cần thêm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Let me think…what else do we need? I’m sure \"},{\"text\":\"there was something else.\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ông tiếp tục nói \\\"Oh yes! We need \"},{\"text\":\"floppy disks - do you have those nice colored ones\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Đáp án \"},{\"text\":\"có thể là floppy disks\",\"bold\":true},{\"text\":\", tuy nhiên bạn \"},{\"text\":\"phải nghe đến khi người phụ nữ xác nhận\",\"bold\":true},{\"text\":\" để tránh sai sót nhé. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phụ nữ xác nhận rằng \\\"\"},{\"text\":\"Right. Floppy disks\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: floppy disks \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 291,
+          "endTimeInSeconds": 323,
+          "transcripts": [
+           {
+            "id": "22/291345-297491",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 297,
+            "text": " Let me think ... what else do we need? I'm sure there was something else.",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "23/297491-303064",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 303,
+            "text": " Pens, paper clips, fax paper, computer supplies, office furniture?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "24/303064-307432",
+            "startTimeInSeconds": 303,
+            "endTimeInSeconds": 307,
+            "text": " Oh, yes! We need floppy disks - do you have those nice coloured ones?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "25/307432-310922",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 310,
+            "text": " Yes, but they're a bit more expensive than the black ones.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "26/310922-313195",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 313,
+            "text": " That's alright. I'm not paying, anyway!",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "27/313195-323779",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 323,
+            "text": " Right. Floppy disks. And what about diaries for next year? We've got them in stock already and it's a good idea to order early.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "coloured floppy disks/floppy disks",
+         "blankId": "qTl6AjtPoogackUCnAHbC"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phụ nữ có để cập đến \\\"\"},{\"text\":\"diaries\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nhưng người đàn ông từ chối \\\"No – I think \"},{\"text\":\"we’re alright\",\"bold\":true},{\"text\":\" for\"},{\"text\":\" diaries \",\"bold\":true},{\"text\":\"but s\"},{\"text\":\"omething we do need\",\"bold\":true},{\"text\":\" is one of those big\"},{\"text\":\" wall calendars ...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đàn ông sau đó xác nhận là \\\"ok - can you\"},{\"text\":\" include a wall calendar \",\"bold\":true},{\"text\":\"then?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người đàn ông\",\"marks\":[]},{\"text\":\" không cần diaries\",\"marks\":[],\"bold\":true},{\"text\":\", mà \",\"marks\":[]},{\"text\":\"cần thêm wall calendars\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: wall calendars \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 313,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "27/313195-323779",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 323,
+            "text": " Right. Floppy disks. And what about diaries for next year? We've got them in stock already and it's a good idea to order early.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "28/323779-334187",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 334,
+            "text": " No - I think we're alright for diaries but something we do need is one of those big wall calendars - you know, one that shows the whole year at a glance. Do you stock those?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "29/334187-335502",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 335,
+            "text": " We certainly do.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "30/335502-342752",
+            "startTimeInSeconds": 335,
+            "endTimeInSeconds": 342,
+            "text": " OK - can you include a wall calendar then, with the other stuff. Just make sure it's got the whole year on the one side.",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "wall calendar/a wall calendar/one wall calendar",
+         "blankId": "74_sEP1yL_vZ2-gZMyPBm"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phụ nữ có gợi ý \\\"do you have\"},{\"text\":\" a copy of our catalogue\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và người đàn ông đáp rằng \\\"No, I don’t, but \"},{\"text\":\"could you send one\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phụ nữ xác nhận \\\"\"},{\"text\":\"Yes! I'll pop one in with the order\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: catalogue \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 360,
+          "transcripts": [
+           {
+            "id": "31/342752-345939",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 345,
+            "text": " Sure - and do you have a copy of our new catalogue?",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "32/345939-348044",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 348,
+            "text": " No, I don't, but could you send one.",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "33/348044-355847",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 355,
+            "text": " Yes! I'll pop one in with the order. You'll find it a lot easier to remember what you need if you have our catalogue in front of you next time.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "34/355847-360144",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 360,
+            "text": " Yes, good idea. And when can you deliver this?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "catalogue/a catalogue/new catalogue",
+         "blankId": "6wkdoOn1yjgWa6YSZ303n"
+        }
+       ],
+       "heading": "List THREE additional things that the man requests.",
+       "paragraph": {
+        "id": "IUslfalyn_5vpdAtvXfO_",
+        "editorValue": "[{\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qTl6AjtPoogackUCnAHbC\"},{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"74_sEP1yL_vZ2-gZMyPBm\"},{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"6wkdoOn1yjgWa6YSZ303n\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "qTl6AjtPoogackUCnAHbC",
+          "key": 0
+         },
+         {
+          "id": "74_sEP1yL_vZ2-gZMyPBm",
+          "key": 1
+         },
+         {
+          "id": "6wkdoOn1yjgWa6YSZ303n",
+          "key": 2
+         }
+        ]
+       }
+      },
+      {
+       "uuid": "5502db8a-7734-11ef-bcc1-ab975cb7693d",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"việc giao hàng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đàn ông hỏi rằng \\\"Can you make sure that\"},{\"text\":\" it's not after 11:30 am \",\"bold\":true},{\"text\":\"because I have to go out at 12 there's only myself here on Fridays\\\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người đàn ông yêu cầu\",\"marks\":[]},{\"text\":\" giao sớm hơn 11:30 \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phụ nữ xác nhận rằng \\\"\"},{\"text\":\"I'll make a note \",\"bold\":true},{\"text\":\"on the delivery docket that they should deliver\"},{\"text\":\" before half past eleven\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: before 11.30 (am) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 355,
+          "endTimeInSeconds": 375,
+          "transcripts": [
+           {
+            "id": "34/355847-360144",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 360,
+            "text": " Yes, good idea. And when can you deliver this?",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "35/360144-362168",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 362,
+            "text": " Should be with you tomorrow morning.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "36/362168-369013",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 369,
+            "text": " Can you make sure that it's not after 11.30am because I have to go out at 12 there's only myself here on Fridays.",
+            "character": {
+             "id": "Z2HMFvnfu4enu6CHLm3D1",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "37/369013-375541",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 375,
+            "text": " Fine - I'll make a note on the delivery docket that they should deliver before half past eleven. Thanks very much.",
+            "character": {
+             "id": "By2qMfS2ClbZRMJAeS2Ez",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "before 11.30/before 11.30 AM/before 11:30/before 11:30 AM",
+         "blankId": "9MjfasXbT-rXhQAjcJ1pH"
+        }
+       ],
+       "heading": "Special instructions:",
+       "paragraph": {
+        "id": "9-RbjEwMOMc9aUHZ71VPE",
+        "editorValue": "[{\"children\":[{\"text\":\"Deliver goods\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"9MjfasXbT-rXhQAjcJ1pH\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "9MjfasXbT-rXhQAjcJ1pH",
+          "key": 0
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for your answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for your answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Artist’s Exhibition",
+   "duration": 6,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "ad2e4802-28e0-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "ad2e4803-28e0-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"một địa điểm nào đó. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói rằng \\\"it's being \"},{\"text\":\"held at the Royal Museum\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Royal Museum \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "1/88808-120317",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 120,
+            "text": "It's being held at the Royal Museum which - for those of you who are unfamiliar with the area - is located opposite the library in West Street, right on the corner... the actual address is number 1. Queen's Park Road - it isn't difficult to find. The exhibition will run for 9 weeks and will begin on the 6th of October and continue until the 10th December. So there's plenty of time for you to go along and have a look and I'm sure that will be worth doing."
+           }
+          ]
+         },
+         "value": "Royal Museum",
+         "blankId": "nabzvHCgkZPcz-qQ7Nja4"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Từ câu hỏi, câu trả lời phải là\"},{\"text\":\" một số địa chỉ. \",\"bold\":true},{\"text\":\"(No. 1 ____ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau khi chỉ dẫn về đường đi, người đọc nói rằng \\\"\"},{\"text\":\"the actual address is number 1, Queen's Park Road\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Queen's Park Road/Rd \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "1/88808-120317",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 120,
+            "text": "It's being held at the Royal Museum which - for those of you who are unfamiliar with the area - is located opposite the library in West Street, right on the corner... the actual address is number 1. Queen's Park Road - it isn't difficult to find. The exhibition will run for 9 weeks and will begin on the 6th of October and continue until the 10th December. So there's plenty of time for you to go along and have a look and I'm sure that will be worth doing."
+           }
+          ]
+         },
+         "value": "Queen's Park Road/Queen's Park Rd",
+         "blankId": "ZjaCDuC6bF509-hj9brKb"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"có thể là ngày tháng/ cái gì liên quan tới thời gian. \",\"bold\":true},{\"text\":\"(Dates: 6th October - ____ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi người đọc nói về khoảng thời gian của cuộc triễn lãm \\\"\"},{\"text\":\"the exhibition \",\"bold\":true},{\"text\":\"will run for\"},{\"text\":\" 9 weeks\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc cũng đề cập về thời gian cụ thể \\\"will\"},{\"text\":\" begin on the 6th of October\",\"bold\":true},{\"text\":\" and continue\"},{\"text\":\" until the 10th of December\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Triển lãm mở từ 6th October tới 10th of December \\n=> \"},{\"text\":\"Đáp án: 10th of December\",\"bold\":true},{\"text\":\".  \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "1/88808-120317",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 120,
+            "text": "It's being held at the Royal Museum which - for those of you who are unfamiliar with the area - is located opposite the library in West Street, right on the corner... the actual address is number 1. Queen's Park Road - it isn't difficult to find. The exhibition will run for 9 weeks and will begin on the 6th of October and continue until the 10th December. So there's plenty of time for you to go along and have a look and I'm sure that will be worth doing."
+           }
+          ]
+         },
+         "value": "10th December/10th Dec/10 December/December 10",
+         "blankId": "kasjd7mDweMnGT4qHXGAf"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"các item được trưng bày\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, người phụ nữ hỏi rằng \\\"\"},{\"text\":\"What will you see there\",\"bold\":true},{\"text\":\"\\\" (nói về những thứ được trưng bày ở triễn lãm) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc tiếp tục nói rằng \\\"amongst the items on display will be some exciting\"},{\"text\":\" pieces of modern jewelry, furniture, ceramics, metal work \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"sculpture\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Theo thứ tự trong câu hỏi\",\"bold\":true},{\"text\":\" thì sau ceramics là metal work\\n=> \"},{\"text\":\"Đáp án: metal work\",\"bold\":true},{\"text\":\".\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 155,
+          "transcripts": [
+           {
+            "id": "2/120317-155012",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 155,
+            "text": "What will you see there? Well, amongst the items on display will be some exciting pieces of modern jewellery, furniture, ceramics, metal work and sculpture. To give you some examples ... Local artist Kate Maine will be there to discuss her collection of pots and bowls that she has made to resemble garden vegetables. They're the sort of thing that would brighten up any dining table, and range from things like yellow cabbage-shaped bowls to round tomatoshaped teapots."
+           }
+          ]
+         },
+         "value": "metal work",
+         "blankId": "oYkKouVQIPDrHm3yBk9y4"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"crockery (dụng cụ ăn uống) trong bài có hình dạng gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc đề cập rằng \\\"Local artist Kate Maine will be there to discuss her\"},{\"text\":\" collection of pots and bowls \",\"bold\":true},{\"text\":\"that she has made to \"},{\"text\":\"resemble garden vegetables.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"collection of pots and bowls\",\"bold\":true},{\"text\":\"\\\" có nghĩa là \\\"\"},{\"text\":\"Crockery\",\"bold\":true},{\"text\":\"\\\" còn \\\"\"},{\"text\":\"resemble\",\"bold\":true},{\"text\":\"\\\" hàm ý là \\\"\"},{\"text\":\"in the shape of\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án: (garden) vegetables\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 155,
+          "transcripts": [
+           {
+            "id": "2/120317-155012",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 155,
+            "text": "What will you see there? Well, amongst the items on display will be some exciting pieces of modern jewellery, furniture, ceramics, metal work and sculpture. To give you some examples ... Local artist Kate Maine will be there to discuss her collection of pots and bowls that she has made to resemble garden vegetables. They're the sort of thing that would brighten up any dining table, and range from things like yellow cabbage-shaped bowls to round tomatoshaped teapots."
+           }
+          ]
+         },
+         "value": "garden vegetables/vegetables",
+         "blankId": "N09_P2ZI-3JPoP9JU5F0a"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"silver rings có cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi người đọc nói về việc \\\"Prize-winner Cynthia Course, will also be there to talk about her\"},{\"text\":\" silver jewelry\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[],\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc tiếp tục nói rằng \\\"Some of her \"},{\"text\":\"rings \",\"bold\":true},{\"text\":\"are quite extraordinary and\"},{\"text\":\" have beautiful colored stones in them.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhẫn \"},{\"text\":\"có colored stones\",\"bold\":true},{\"text\":\" trên nó (have = contain) \\n=>\"},{\"text\":\" Đáp án: colored stones \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 155,
+          "endTimeInSeconds": 195,
+          "transcripts": [
+           {
+            "id": "3/155012-195088",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 195,
+            "text": "Prize-winner Cynthia Course, will also be there to talk about her silver jewellery, all of which she produced using ideas from the rural setting of her country home. Some of her rings are quite extraordinary and have beautiful coloured stones in them. Or if you prefer sculpture, there's plenty of that too. Take, for example, Susan Cup's sculpture of 25 pairs of white paper shoes. It sounds easy, but believe me it looks incredible! All of these items along with many others will be on sale-throughout the exhibition period."
+           }
+          ]
+         },
+         "value": "coloured stones",
+         "blankId": "Ez0rmqur4lDdDiA4WN5c9"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"chất liệu của shoe sculpture\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"if you prefer\"},{\"text\":\" sculpture, \",\"bold\":true},{\"text\":\"there's plenty of that too.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc ví dụ rằng \\\"Take, for example, Susan Cup's\"},{\"text\":\" sculpture of 25 pairs of white paper shoes\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nghĩa là \"},{\"text\":\"có một tượng hình chiếc giày được làm bằng giấy \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: (white) paper\",\"bold\":true},{\"text\":\".\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 155,
+          "endTimeInSeconds": 195,
+          "transcripts": [
+           {
+            "id": "3/155012-195088",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 195,
+            "text": "Prize-winner Cynthia Course, will also be there to talk about her silver jewellery, all of which she produced using ideas from the rural setting of her country home. Some of her rings are quite extraordinary and have beautiful coloured stones in them. Or if you prefer sculpture, there's plenty of that too. Take, for example, Susan Cup's sculpture of 25 pairs of white paper shoes. It sounds easy, but believe me it looks incredible! All of these items along with many others will be on sale-throughout the exhibition period."
+           }
+          ]
+         },
+         "value": "white paper/paper",
+         "blankId": "YEOVwcxCGbm-hrg2CHXI6"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" cái demonstration được gọi là gì \",\"bold\":true},{\"text\":\"(Go to demonstrations called: ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Một phần khác của buổi triển lãm mà người đọc có đề xuất là \\\"\"},{\"text\":\"a series of demonstrations called \\\"Face to Face\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Face to Face\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 195,
+          "endTimeInSeconds": 210,
+          "transcripts": [
+           {
+            "id": "4/195302-210532",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 210,
+            "text": "As part of the exhibition, there will be a series of demonstrations called 'Face to Face' which will take place every Sunday afternoon during the exhibition and these will provide an opportunity for you to meet the artists."
+           }
+          ]
+         },
+         "value": "Face to Face",
+         "blankId": "rP9WeziEHzR2pP7IC7AeJ"
+        }
+       ],
+       "heading": "Artist’s Exhibition",
+       "paragraph": {
+        "id": "M0ItKfM16joBkXyO6jpwJ",
+        "editorValue": "[{\"children\":[{\"text\":\"General details:\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Place: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"11 _____________\"}],\"id\":\"nabzvHCgkZPcz-qQ7Nja4\"},{\"text\":\" No. 1 \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"12_____________\"}],\"id\":\"ZjaCDuC6bF509-hj9brKb\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Dates: 6th October - \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"kasjd7mDweMnGT4qHXGAf\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Display details:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"jewellery\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"furniture\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"ceramics\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"oYkKouVQIPDrHm3yBk9y4\"},{\"text\":\"\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"sculpture\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Expect to see:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"crockery in the shape of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"15 _____________\"}],\"id\":\"N09_P2ZI-3JPoP9JU5F0a\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"silver jewellery, e.g. large rings containing \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"16 _____________\"}],\"id\":\"Ez0rmqur4lDdDiA4WN5c9\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a shoe sculpture made out of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"17 _____________\"}],\"id\":\"YEOVwcxCGbm-hrg2CHXI6\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Go to demonstrations called: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"rP9WeziEHzR2pP7IC7AeJ\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "nabzvHCgkZPcz-qQ7Nja4",
+          "key": 0
+         },
+         {
+          "id": "ZjaCDuC6bF509-hj9brKb",
+          "key": 1
+         },
+         {
+          "id": "kasjd7mDweMnGT4qHXGAf",
+          "key": 2
+         },
+         {
+          "id": "oYkKouVQIPDrHm3yBk9y4",
+          "key": 3
+         },
+         {
+          "id": "N09_P2ZI-3JPoP9JU5F0a",
+          "key": 4
+         },
+         {
+          "id": "Ez0rmqur4lDdDiA4WN5c9",
+          "key": 5
+         },
+         {
+          "id": "YEOVwcxCGbm-hrg2CHXI6",
+          "key": 6
+         },
+         {
+          "id": "rP9WeziEHzR2pP7IC7AeJ",
+          "key": 7
+         }
+        ]
+       }
+      },
+      {
+       "uuid": "ad2e4804-28e0-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền\"},{\"text\":\" một kỹ năng trong khóa học \",\"bold\":true},{\"text\":\"(song song với Chinese brush painting và silk painting)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc đề cập rằng \\\"The courses cover all media and \"},{\"text\":\"include\",\"bold\":true},{\"text\":\" subjects such as\"},{\"text\":\" Chinese brush painting, pencil drawing, and silk painting\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"cover\",\"bold\":true},{\"text\":\"\\\" ở đây nghĩa là \\\"\"},{\"text\":\"include\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án: pencil drawing \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 240,
+          "endTimeInSeconds": 269,
+          "transcripts": [
+           {
+            "id": "5/240021-269323",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 269,
+            "text": "The second set of activities are for those who would prefer to indulge in some artwork themselves ... the Artist's Conservatory are holding a series of courses over the autumn period. The courses cover all media and include subjects such as Chinese brush painting, pencil drawing and silk painting. All the tutors are experienced artists, course sizes are kept to a minimum of 15 and there will be plenty of individual assistance."
+           }
+          ]
+         },
+         "value": "pencil drawing",
+         "blankId": "VWW9J1ytwhL98nNpiqYo0"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" chi phí bao gồm sự cung cấp cái gì \",\"bold\":true},{\"text\":\"(supply of ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi người đọc đề cập \\\"\"},{\"text\":\"Fees \",\"bold\":true},{\"text\":\"are very reasonable and \"},{\"text\":\"include \",\"bold\":true},{\"text\":\"the use of\"},{\"text\":\" an excellent studio and access to the art shop\",\"bold\":true},{\"text\":\"\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói tiếp rằng \\\"and they also\"},{\"text\":\" include the provision of all materials\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" \",\"bold\":true},{\"text\":\"Chi phí còn \"},{\"text\":\"bao gồm cả việc cung cấp vật liệu\",\"bold\":true},{\"text\":\"\\n=> Ở đây \\\"\"},{\"text\":\"provision\",\"bold\":true},{\"text\":\"\\\" có nghĩa là cung cấp \\\"\"},{\"text\":\"supply\",\"bold\":true},{\"text\":\"\\\" \\n=>\"},{\"text\":\" Đáp án: all materials \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 269,
+          "endTimeInSeconds": 309,
+          "transcripts": [
+           {
+            "id": "6/269323-309109",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 309,
+            "text": "All the sessions offer excellent value for money and the opportunity to relax in a delightful rural setting. Fees are very reasonable and include the use of an excellent studio and access to the art shop which you will find sells everything from paper to CDs and they also include the provision of all materials. For more information on dates, cost and availability you should get in touch with the programme co-ordinator on 4592 839584 or go direct to the website ..."
+           }
+          ]
+         },
+         "value": "all materials",
+         "blankId": "Murre7VbBvO5wv9MpNDTk"
+        }
+       ],
+       "heading": "Artist’s Conservatory",
+       "paragraph": {
+        "id": "XfnFZKw8pB995J4lxKWHS",
+        "editorValue": "[{\"children\":[{\"text\":\"Courses include:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Chinese brush painting\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"VWW9J1ytwhL98nNpiqYo0\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"silk painting\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Fees include:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Studio use\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Access to the shop\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Supply of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Murre7VbBvO5wv9MpNDTk\"},{\"text\":\"\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "VWW9J1ytwhL98nNpiqYo0",
+          "key": 0
+         },
+         {
+          "id": "Murre7VbBvO5wv9MpNDTk",
+          "key": 1
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "History Of Bears",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "d5fff53e-28e0-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "d5fff53f-28e0-11ed-af29-83e4ce9ba581",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"tổ tiên của loài gấu xuất hiện vào bao nhiêu năm trước \",\"bold\":true},{\"text\":\"(bear ancestors date back ...)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Interview nói \\\"quick \"},{\"text\":\"overview of the history\",\"bold\":true},{\"text\":\" of the \"},{\"text\":\"bear\",\"bold\":true},{\"text\":\" \"},{\"text\":\"family\",\"bold\":true},{\"text\":\"\\\" => đáp án sắp xuất hiện.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison nói: \\\"Well, the bears we know today actually have as\"},{\"text\":\" \",\"bold\":true},{\"text\":\"their\"},{\"text\":\" ancestor bears \",\"bold\":true},{\"text\":\"which \"},{\"text\":\"have been evolving for some 40 million years\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loài gấu đã \"},{\"text\":\"xuất hiện từ khoảng 40 triệu năm trước \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 40 million. \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 87,
+          "endTimeInSeconds": 110,
+          "transcripts": [
+           {
+            "id": "2/87764-92945",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 92,
+            "text": " First of all, can you give us a quick overview of the history of the bear family?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "3/92945-110641",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 110,
+            "text": " Well, the bears we know today actually have as their ancestors bears which have been evolving for some 40 million years. We have fossils of the earliest 'true bear' - and it's important to emphasise this because some creatures are called bears but are not ...",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         },
+         "value": "40 million",
+         "blankId": "sTbQDWGZ1wnrj1i5XVjMb"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"bear cùng dòng họ với loài nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Alison nói \\\"\"},{\"text\":\"fossils \",\"bold\":true},{\"text\":\"of the true bear show a small dog-size animal with characteristics that show a blending of dogs and bear traits.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"fossils\",\"bold\":true},{\"text\":\"\\\" ở đây có thể liên kết với \\\"\"},{\"text\":\"originally\",\"bold\":true},{\"text\":\"\\\" vì cùng chỉ về nguồn gốc xa xưa\\n\"},{\"text\":\"=> Đáp án sắp xuất hiện.\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người phỏng vấn hỏi rằng \\\"So, the general belief is that\"},{\"text\":\" dogs and bears were of the same family?\",\"bold\":true},{\"text\":\"\\\" và Alison đã xác nhận điều này\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => \\\"\"},{\"text\":\"of the same family\",\"bold\":true},{\"text\":\"\\\" ở đây là cùng một gia đình, dòng họ\\n => Tương ứng với \\\"\"},{\"text\":\"in the same family as\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án: dogs/the dog\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 113,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "5/113273-123278",
+            "startTimeInSeconds": 113,
+            "endTimeInSeconds": 123,
+            "text": " Yes exactly ... fossils of the true bear show a small dog-size animal with characteristics that show a blending of dog and bear traits.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "6/123278-128366",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 128,
+            "text": " So the general belief is that dogs and bears were of the same family?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "7/128366-140911",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 140,
+            "text": " Yes, that's the theory. And then we see the arrival of the early Cave Bear. We know from cave drawings that Neanderthal man used to worship this bear and at the same time fear it.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         },
+         "value": "dogs/the dog",
+         "blankId": "3_4OS7ViWnY5xUf-MYIML"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tại sao Cave Bear không nguy hiểm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Khi Alison đề cập về \\\"\"},{\"text\":\"Cave Bear\",\"bold\":true},{\"text\":\"\\\" => đáp án sắp xuất hiện\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley29\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cô ta nói tiếp rằng \\\"they need not have worried because\"},{\"text\":\" the Cave Bear only ate plants.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người Neanderthals không cần phải quá lo lắng vì \\\"\"},{\"text\":\"Cave Bear only ate plants\",\"bold\":true},{\"text\":\"\\\" \\n=> Loài gấu này \"},{\"text\":\"không nguy hiểm\",\"bold\":true},{\"text\":\" bởi \"},{\"text\":\"vì nó chỉ ăn thực vật \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: only ate plants \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 128,
+          "endTimeInSeconds": 153,
+          "transcripts": [
+           {
+            "id": "7/128366-140911",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 140,
+            "text": " Yes, that's the theory. And then we see the arrival of the early Cave Bear. We know from cave drawings that Neanderthal man used to worship this bear and at the same time fear it.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "8/140911-142659",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 142,
+            "text": " Understandable perhaps ...",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "9/142659-153374",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 153,
+            "text": " Yes, but they need not have worried because the Cave Bear only ate plants. In fact the Cave Bear survived two Ice Ages but then became extinct.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         },
+         "value": "only ate plants",
+         "blankId": "Vrepcmj4XcHAZtsPjLcES"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "knQdyrSTzIIfFqGetyw2_",
+         "editorValue": "[{\"children\":[{\"text\":\"According to Alison Sharp, bear ancestors date back\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"sTbQDWGZ1wnrj1i5XVjMb\"},{\"text\":\" years.\"}]}]",
+         "blanks": [
+          {
+           "id": "sTbQDWGZ1wnrj1i5XVjMb",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "_2-JQ2qjBNhqcA1mEN3vx",
+         "editorValue": "[{\"children\":[{\"text\":\"Scientists think bears were originally in the same family as\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"3_4OS7ViWnY5xUf-MYIML\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "3_4OS7ViWnY5xUf-MYIML",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "r6sAiojEkzj3sD6xO3YXP",
+         "editorValue": "[{\"children\":[{\"text\":\"The Cave Bear was not dangerous because it\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Vrepcmj4XcHAZtsPjLcES\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "Vrepcmj4XcHAZtsPjLcES",
+           "key": 2
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "d5fff540-28e0-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "d5fff541-28e0-11ed-af29-83e4ce9ba581",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "Brown Bear"
+        },
+        {
+         "key": 1,
+         "value": "Giant Panda"
+        },
+        {
+         "key": 2,
+         "value": "Polar Bear"
+        },
+        {
+         "key": 3,
+         "value": "Sloth Bear"
+        },
+        {
+         "key": 4,
+         "value": "Sun Bear"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem đâu là \",\"marks\":[]},{\"text\":\"loài gần đây nhất\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Khi người phỏng vấn hỏi \\\"how many bears can we find \"},{\"text\":\"today?\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> từ khoá \\\"\"},{\"text\":\"today\",\"bold\":true},{\"text\":\"\\\" gợi đến từ khoá \\\"\"},{\"text\":\"recent\",\"bold\":true},{\"text\":\"\\\" trong câu hỏi \\n\"},{\"text\":\"=> Đáp án sắp xuất hiện. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison trả lời rằng \\\"There are eight species of bear in all; among them the American Black Bear and the Brown Bear – from which\"},{\"text\":\" evolved the newest species of bear – the Polar Bear.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"newest\",\"bold\":true},{\"text\":\"\\\" có tương ứng với cụm \\\"\"},{\"text\":\"most recent\",\"bold\":true},{\"text\":\"\\\" trong câu hỏi \\n=> \"},{\"text\":\"Polar Bear\",\"bold\":true},{\"text\":\" is the\"},{\"text\":\" most recent species \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 224,
+          "transcripts": [
+           {
+            "id": "10/204273-210821",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 210,
+            "text": " So how many bears can we find today and are any of them in danger of extinction?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "11/210821-224765",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 224,
+            "text": " Well I'll answer your first question first. There are eight species of bear in all; among them the American Black Bear and the Brown Bear - from which evolved the newest species of bear - the Polar Bear.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"loài gấu nào trông bự nhất\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp xuất hiện khi nghe \\\"which is\"},{\"text\":\" the largest bear \",\"bold\":true},{\"text\":\"for instance\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Alison trả lời rằng \\\"Well,\"},{\"text\":\" the largest bear existing today is either the Polar Bear or the Brown Bear\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án có thể là A hoặc C.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison nói tiếp rằng \\\"\"},{\"text\":\"The Polar Bear is the heaviest; \",\"bold\":true},{\"text\":\"the male weighs up to 1000 pounds but\"},{\"text\":\" his narrow body actually makes him look smaller than the much more robust Brown Bear\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Và người phỏng vấn cũng xác nhận \\\"\"},{\"text\":\"the Brown Bear appears the biggest\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Polar Bear nặng nhất, nhưng\",\"marks\":[]},{\"text\":\" nhìn nhỏ hơn\",\"marks\":[],\"bold\":true},{\"text\":\" Brown Bear \",\"marks\":[]},{\"text\":\"\\n=> \"},{\"text\":\"Brown Bear có vẻ ngoại bự nhất\",\"bold\":true},{\"text\":\" trong các loại gấu, \\\"\"},{\"text\":\"appea\",\"bold\":true},{\"text\":\"r\\\" tương ứng về nghĩa với \\\"\"},{\"text\":\"looking\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 231,
+          "endTimeInSeconds": 264,
+          "transcripts": [
+           {
+            "id": "14/231954-236930",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 236,
+            "text": " And could you tell us a little about them? Which is the largest bear, for instance? ",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "15/236930-243080",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 243,
+            "text": " Well, the largest bear existing today is either the Polar Bear or the Brown Bear.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "16/243080-245460",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 245,
+            "text": " Right ... Don't we know?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "17/245460-260803",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 260,
+            "text": " Well, it depends which criteria you use. The Polar Bear is the heaviest; the male weighs up to 1,500 pounds but his narrow body actually makes him look smaller than the much more robust Brown Bear.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "18/260803-264034",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 264,
+            "text": " So the Brown Bear appears the biggest.",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "19/264034-264662",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 264,
+            "text": " Yes.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"loài gấu nào nhỏ nhất\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp xuất hiện khi nghe \\\"\"},{\"text\":\"And the smallest?\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison đề cập rằng \\\"\"},{\"text\":\"the Sun Bear is the smallest\",\"bold\":true},{\"text\":\" of the eight species\"},{\"text\":\".\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 264,
+          "endTimeInSeconds": 273,
+          "transcripts": [
+           {
+            "id": "20/264662-265946",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 265,
+            "text": " And the smallest?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "21/265946-273980",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 273,
+            "text": " Well, the Sun Bear is the smallest of the eight species. They only weigh between 60 and 145 pounds.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" loài gấu nào là loài ăn cỏ\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi người phỏng vấn hỏi \\\"and are all\"},{\"text\":\" bears meat eaters?\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison nói rằng \\\"not at all. In fact, the \"},{\"text\":\"Giant Panda\",\"bold\":true},{\"text\":\" is \"},{\"text\":\"almost entirely herbivorous \",\"bold\":true},{\"text\":\"living on a diet of 30 types of bamboo.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"herbivorous\",\"bold\":true},{\"text\":\"\\\" có nghĩa là \\\"\"},{\"text\":\"eat plants\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 284,
+          "endTimeInSeconds": 295,
+          "transcripts": [
+           {
+            "id": "24/284609-287257",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 287,
+            "text": " And are all bears meat eaters?",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "25/287257-295432",
+            "startTimeInSeconds": 287,
+            "endTimeInSeconds": 295,
+            "text": " No, not at all. In fact the Giant Panda is almost entirely herbivorous living on a diet of 30 types of bamboo.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Cuối cung mình cần nghe xem\",\"marks\":[]},{\"text\":\" loài nào ăn côn trùng\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi đề cập về \"},{\"text\":\"những loài gấu không ăn thịt\",\"bold\":true},{\"text\":\", Alison nói tiếp rằng \\\"another interesting bear is the\"},{\"text\":\" Sloth Bear which eats insects\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 298,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "27/298446-310275",
+            "startTimeInSeconds": 298,
+            "endTimeInSeconds": 310,
+            "text": " And another interesting bear is the Sloth Bear which eats insects, particularly termites. He can turn his mouth into a tube and suck the insects out of their nests.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Which is the most recent species?"
+        },
+        {
+         "key": 1,
+         "value": "Which is the largest looking bear?"
+        },
+        {
+         "key": 2,
+         "value": "Which is the smallest bear?"
+        },
+        {
+         "key": 3,
+         "value": "Which bear eats plants?"
+        },
+        {
+         "key": 4,
+         "value": "Which bear eats insects?"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct bear species in each question."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct bear species in each question."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "d5fff542-28e0-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "d5fff543-28e0-11ed-af29-83e4ce9ba581",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO actions are mentioned to help bears survive?",
+       "options": [
+        {
+         "key": 0,
+         "value": "breeding bears in captivity"
+        },
+        {
+         "key": 1,
+         "value": "encouraging a more humane attitude"
+        },
+        {
+         "key": 2,
+         "value": "keeping bears in national parks"
+        },
+        {
+         "key": 3,
+         "value": "enforcing international laws"
+        },
+        {
+         "key": 4,
+         "value": "buying the speaker’s book"
+        },
+        {
+         "key": 5,
+         "value": "writing to the United Nations"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"Can anything be done to \"},{\"text\":\"reduce the threat to these endangered species\",\"bold\":true},{\"text\":\"?\\\"  => biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley29\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó interviewer nói tiếp \\\" I know for instance it’s very hard to \"},{\"text\":\"breed bears in captivity.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Khó \",\"bold\":true},{\"text\":\"để \"},{\"text\":\"breed in captivity\",\"bold\":true},{\"text\":\" (nhân giống trong môi trường bị giam giữ) \\n=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison nói \\\"by \"},{\"text\":\"raising’s people awareness\",\"bold\":true},{\"text\":\", we can reduce conflict between human and animals…to \"},{\"text\":\"stop the slaughter in parts of the world \",\"bold\":true},{\"text\":\"where bears are still hunted\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Và  \\\"And we can also\"},{\"text\":\" encourage governments\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" preserve the natural environment of the bear.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hàm ý nói rằng con người\"},{\"text\":\" cần phải đối xử với động vật tốt hơn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Khuyến khích những thái độ nhân đạo\",\"bold\":true},{\"text\":\" hơn với động vật \\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 329,
+          "endTimeInSeconds": 377,
+          "transcripts": [
+           {
+            "id": "30/329629-338503",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 338,
+            "text": " Can anything be done to reduce the threat to these endangered species? I know for instance that it's very hard to breed bears in captivity.",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "31/338503-368180",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 368,
+            "text": " Yes, well ... I think that by raising people's awareness generally we can reduce conflict between humans and animals ...to stop the slaughter in parts of the world where bears are still hunted - supposedly in self- defense or to protect livestock, but ... often quite unnecessarily. And we can also encourage governments to preserve the natural environment of the bear rather than allow the areas where they live to be systematically destroyed in the name of progress.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "32/368180-369275",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 369,
+            "text": " Yes, of course.",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "33/369275-377151",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 377,
+            "text": " And in addition to these global efforts, all profits from the sale of my book will go towards the United Nations Bear Protection program.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Alison tiếp tục nói rằng \\\"And in addition to these global efforts, \"},{\"text\":\"all profits from the sale of my book will go towards the United Nations Bear Protection program\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Lợi nhuận từ quyển sách\",\"bold\":true},{\"text\":\" sẽ đưa vào chương trình \"},{\"text\":\"bảo vệ gấu \",\"bold\":true},{\"text\":\"\\n=> Giải pháp là \"},{\"text\":\"mua sách của cô ta. \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nếu bạn nghe không kỹ có thể chọn phải đáp án F (\"},{\"text\":\"United Nations\",\"bold\":true},{\"text\":\"), nhưng bài \"},{\"text\":\"không yêu cầu mọi người viết lên UN.\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 329,
+          "endTimeInSeconds": 377,
+          "transcripts": [
+           {
+            "id": "30/329629-338503",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 338,
+            "text": " Can anything be done to reduce the threat to these endangered species? I know for instance that it's very hard to breed bears in captivity.",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "31/338503-368180",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 368,
+            "text": " Yes, well ... I think that by raising people's awareness generally we can reduce conflict between humans and animals ...to stop the slaughter in parts of the world where bears are still hunted - supposedly in self- defense or to protect livestock, but ... often quite unnecessarily. And we can also encourage governments to preserve the natural environment of the bear rather than allow the areas where they live to be systematically destroyed in the name of progress.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           },
+           {
+            "id": "32/368180-369275",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 369,
+            "text": " Yes, of course.",
+            "character": {
+             "id": "Kof6XibH7Mn30lci9zopq",
+             "name": "Interviewer"
+            }
+           },
+           {
+            "id": "33/369275-377151",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 377,
+            "text": " And in addition to these global efforts, all profits from the sale of my book will go towards the United Nations Bear Protection program.",
+            "character": {
+             "id": "Vtv1sCt-cSZ1u6kbQT1T7",
+             "name": "Alison"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-F.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-F",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Solar Eclipse",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "16992058-28e1-11ed-916d-19cae05489a1",
+     "questions": [
+      {
+       "uuid": "16992059-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "The speaker compares a solar eclipse today to a",
+       "options": [
+        {
+         "key": 0,
+         "value": "religious experience."
+        },
+        {
+         "key": 1,
+         "value": "scientific event."
+        },
+        {
+         "key": 2,
+         "value": "popular spectacle."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"tác giả so sánh solar eclipse với cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"a thousand years ago, \"},{\"text\":\"a total eclipse of the sun \",\"bold\":true},{\"text\":\"was a terrifying religious experience.\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói tiếp rằng \\\"but these days\"},{\"text\":\" an eclipse is more likely to be viewed as a tourist attraction \",\"bold\":true},{\"text\":\"than as a scientific or spiritual event.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \\\"\"},{\"text\":\"to be viewed as\",\"bold\":true},{\"text\":\"\\\" có nghĩa là \\\"\"},{\"text\":\"compares\",\"bold\":true},{\"text\":\"\\\" \\n=> người đọc đã \"},{\"text\":\"so sánh\",\"bold\":true},{\"text\":\" giữa \\\"\"},{\"text\":\"solar eclipse today\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"tourist attraction\",\"bold\":true},{\"text\":\"\\\" \\n=> \\\"\"},{\"text\":\"tourist attraction\",\"bold\":true},{\"text\":\"\\\" tương ứng về nghĩa với \\\"\"},{\"text\":\"popular spectacle\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 76,
+          "endTimeInSeconds": 98,
+          "transcripts": [
+           {
+            "id": "1/76638-98373",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 98,
+            "text": "A thousand years ago, a total eclipse of the sun was a terrifying religious experience - but these days an eclipse is more likely to be viewed as a tourist attraction than as a scientific or spiritual event. People will travel literally miles to be in the right place at the right time - to get the best view of their eclipse."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1699205a-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "The speaker says that the dark spot of an eclipse is",
+       "options": [
+        {
+         "key": 0,
+         "value": "simple to predict."
+        },
+        {
+         "key": 1,
+         "value": "easy to explain."
+        },
+        {
+         "key": 2,
+         "value": "randomly occurring."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" speaker nói gì về dark spot\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói rằng \\\"Scientifically speaking,\"},{\"text\":\" the dark spot itself is easy to explain\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"...each time \",\"marks\":[]},{\"text\":\"along a differen\",\"marks\":[],\"bold\":true},{\"text\":\"t and,  to all intents and purposes, a \",\"marks\":[]},{\"text\":\"seemingly random piece of the globe\",\"marks\":[],\"bold\":true},{\"text\":\"\\\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Solar eclipse \",\"marks\":[]},{\"text\":\"xuất hiện ngẫu nhiên\",\"marks\":[],\"bold\":true},{\"text\":\" ở \",\"marks\":[]},{\"text\":\"những chỗ khác nhau\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> \",\"marks\":[]},{\"text\":\"Không dễ predict\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> \",\"marks\":[]},{\"text\":\"Loại đáp án A\",\"marks\":[],\"bold\":true},{\"text\":\" \",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Solar eclipse xuất hiện ở những nơi random, chứ \"},{\"text\":\"không phải xảy ra random\",\"bold\":true},{\"text\":\", nó vẫn\"},{\"text\":\" xảy ra 1-2 lần/ năm đều đặn\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Loại đáp án C\",\"marks\":[],\"bold\":true},{\"text\":\" \",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 98,
+          "endTimeInSeconds": 123,
+          "transcripts": [
+           {
+            "id": "2/98373-123563",
+            "startTimeInSeconds": 98,
+            "endTimeInSeconds": 123,
+            "text": "Well. What exactly causes a solar eclipse - when the world goes dark for a few minutes in the middle of the day? Scientifically speaking, the dark spot itself is easy to explain: it is the shadow of the moon streaking across the earth. This happens every year or two, each time along a different and, to all intents and purposes, a seemingly random piece of the globe."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1699205b-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "Concerning an eclipse, the ancient Chinese were",
+       "options": [
+        {
+         "key": 0,
+         "value": "fascinated."
+        },
+        {
+         "key": 1,
+         "value": "rational."
+        },
+        {
+         "key": 2,
+         "value": "terrified."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Dựa vào đáp án, mình biết mình cần nghe\"},{\"text\":\" thái độ của the ancient Chinese với eclipse\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \"},{\"text\":\"\\\"in the past\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói rằng \\\"people often interpreted\"},{\"text\":\" an eclipse as a danger signal heralding disaster\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người xưa\"},{\"text\":\" coi eclipse\",\"bold\":true},{\"text\":\" như \"},{\"text\":\"là 1 mối nguy hiểm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, cụ thể hơn \"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\"and in fact, \"},{\"text\":\"the Chinese were so disturbed by these events\\\" \",\"bold\":true},{\"text\":\"và muốn\"},{\"text\":\" \\\"prevent eclipses\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người Trung Quốc \"},{\"text\":\"muốn ngăn chặn nó \",\"bold\":true},{\"text\":\"\\n=> Người Trung quốc\"},{\"text\":\" rất sợ hãi khi nói về nhật thực \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 123,
+          "endTimeInSeconds": 149,
+          "transcripts": [
+           {
+            "id": "3/123563-149268",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 149,
+            "text": "In the past people often interpreted an eclipse as a danger signal heralding disaster and in fact, the Chinese were so disturbed by these events that they included among their gods one whose job it was to prevent eclipses. But whether or not you are superstitious or take a purely scientific view, our earthly eclipses are special in three ways."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1699205c-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "For the speaker, the most impressive aspect of an eclipse is the",
+       "options": [
+        {
+         "key": 0,
+         "value": "exceptional beauty of the sky."
+        },
+        {
+         "key": 1,
+         "value": "chance for scientific study."
+        },
+        {
+         "key": 2,
+         "value": "effect of the moon on the sun."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"khía cạnh ấn tượng nhất của eclipse là gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp vào khi nghe \\\"Firstly, there can be no doubt that they are very \"},{\"text\":\"beautiful\",\"bold\":true},{\"text\":\".\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói rằng \\\"beyond this, \"},{\"text\":\"total eclipses possess a second more compelling beauty in the eyes of us scientists...\",\"bold\":true},{\"text\":\"for they offer\"},{\"text\":\" a unique opportunity for research\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Total eclipse đẹp trong mắt scientists bởi vì \"},{\"text\":\"nó là cơ hội để nghiên cứu khoa học \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 149,
+          "endTimeInSeconds": 183,
+          "transcripts": [
+           {
+            "id": "4/149268-164550",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 164,
+            "text": "Firstly, there can be no doubt that they are very beautiful. It's as if a deep blue curtain had fallen over the daytime sky as the sun becomes a black void surrounded by the glow of its outer atmosphere."
+           },
+           {
+            "id": "5/164550-183144",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 183,
+            "text": "But beyond this, total eclipses possess a second more compelling beauty in the eves of us scientists ... for they offer a unique opportunity for research. Only during an eclipse can we study the corona and other dim things that are normally lost in the sun's glare."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1699205d-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "Eclipses occur rarely because of the size of the",
+       "options": [
+        {
+         "key": 0,
+         "value": "moon."
+        },
+        {
+         "key": 1,
+         "value": "sun."
+        },
+        {
+         "key": 2,
+         "value": "earth."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe nguyên nhân \"},{\"text\":\"vì sao eclipse hiếm\",\"bold\":true},{\"text\":\" (rare) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"And thirdly, they are \"},{\"text\":\"rare\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  Người đọc nói rằng \\\"if the \"},{\"text\":\"moon were any larger\",\"bold\":true},{\"text\":\", \"},{\"text\":\"eclipses \",\"bold\":true},{\"text\":\"would become a \"},{\"text\":\"monthly bore\",\"bold\":true},{\"text\":\"; if it were \"},{\"text\":\"smaller\",\"bold\":true},{\"text\":\", they simply \"},{\"text\":\"would not be possible\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu mặt trăng \"},{\"text\":\"lớn\",\"bold\":true},{\"text\":\", thì \"},{\"text\":\"eclipse xảy ra nhiều (hàng tháng)\",\"bold\":true},{\"text\":\", nếu \"},{\"text\":\"nhỏ \",\"bold\":true},{\"text\":\"thì dường như nó \"},{\"text\":\"không xảy ra \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Tần suất\",\"bold\":true},{\"text\":\" của nhật thực \"},{\"text\":\"phụ thuộc vào kích thước của mặt trăng\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 206,
+          "transcripts": [
+           {
+            "id": "6/183144-206327",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 206,
+            "text": "And thirdly, they are rare. Even though an eclipse of the sun occurs somewhere on earth every year or two, if you sit in your garden and wait, it will take 375 years on average for one to come to you. If the moon were any larger, eclipses would become a monthly bore: if it were smaller, they simply would not be possible."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "1699205e-28e1-11ed-916d-19cae05489a1",
+       "type": "SINGLE_ANSWER",
+       "question": "In predicting eclipses, the Babylonians were restricted by their",
+       "options": [
+        {
+         "key": 0,
+         "value": "religious attitudes."
+        },
+        {
+         "key": 1,
+         "value": "inaccurate observations."
+        },
+        {
+         "key": 2,
+         "value": "limited ability to calculate."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Babylonian bị ràng buộc về cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi người đọc đề cập về \\\"\"},{\"text\":\"the ancient Babylonian priests\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được \\\"but they \"},{\"text\":\"didn't have the mathematics to predict\",\"bold\":true},{\"text\":\" an eclipse accurately\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong việc dự đoán nhật thực, \"},{\"text\":\"họ bị giới hạn bởi khả năng toán học\",\"bold\":true},{\"text\":\" (ability to calculate) \\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 206,
+          "endTimeInSeconds": 222,
+          "transcripts": [
+           {
+            "id": "7/206327-222960",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 222,
+            "text": "The ancient Babylonian priests, who spent a fair bit of time staring at the sky, had already noted that there was an 18- year pattern in their recurrence but they didn't have the mathematics to predict an eclipse accurately."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters "
+         },
+         {
+          "text": "A-C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "1699205f-28e1-11ed-916d-19cae05489a1",
+     "questions": [
+      {
+       "uuid": "j8OmVWWWTItoR_UV_Pj_R",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" việc quan sát của scientist Hally\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Khi nghe \\\"\"},{\"text\":\"Edmund Haley\",\"bold\":true},{\"text\":\"\\\" => chuẩn bị chú ý nghe\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi kể về những thành tựu của ông, người đọc nói rằng \\\"in 1715\"},{\"text\":\" he became the first person to make an accurate eclipse prediction.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Halley là \"},{\"text\":\"người đầu tiên dự đoán chính xác nhật thực \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: first person \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 259,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "8/259241-274727",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 274,
+            "text": "It was Edmund Halley, the English astronomer, who knew his maths well enough to predict the return of the comet which, incidentally bears his name, and in 1715 he became the first person to make an accurate eclipse prediction."
+           }
+          ]
+         },
+         "value": "first person",
+         "blankId": "wNI-NdNdbgcZq1VUi72-b"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Janssen and Lockyer đã phát hiện ra cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị đến khi nghe \\\"In the eclipse of 1868 two scientists\"},{\"text\":\", Janssen and Lockyer\",\"bold\":true},{\"text\":\", were observing the sun's atmosphere\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp \\\"and it was these observations that ultimately\"},{\"text\":\" led to the discovery of a new element\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Observation dẫn đến khám phá ra element mới \\n=> \"},{\"text\":\"Đáp án: (a) new element \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó người đọc có nêu tên của nguyên tố này là \\\"\"},{\"text\":\"helium\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án còn có thể là: helium \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 274,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "9/274727-310179",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 310,
+            "text": "This brought eclipses firmly into the scientific domain and they have since allowed a number of important scientific discoveries to be made. For instance, in the eclipse of 1868 two scientists, Janssen and Lockyer, were observing the sun's atmosphere and it was these observations that ultimately led to the discovery of a new element. They named the element helium after the Greek god of the sun. This was a major find, because helium turned out to be the most common element in the universe after hydrogen."
+           }
+          ]
+         },
+         "value": "new element/helium/a new element",
+         "blankId": "6Djrn4T21zg4YhKYRokdq"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" Watson tin rằng ông tìm ra cái gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói rằng \\\"During the eclipse of 1878, an American astronomer, James \"},{\"text\":\"Watson\",\"bold\":true},{\"text\":\", thought \"},{\"text\":\"he had spotted\",\"bold\":true},{\"text\":\" this\"},{\"text\":\" so-called 'lost' planet.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Waston tin rằng ông ta đã \"},{\"text\":\"phát hiện ra \\\"lost planet\\\". \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án:\",\"bold\":true},{\"text\":\" \"},{\"text\":\"(the) lost planet/(the) new planet\",\"bold\":true},{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 310,
+          "endTimeInSeconds": 356,
+          "transcripts": [
+           {
+            "id": "10/310179-356961",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 356,
+            "text": "Another great triumph involved Mercury ... I'll just put that up on the board for you now. See - there's Mercury - the planet closest to the Sun - then Venus, Earth, etc. For centuries, scientists had been unable to understand why Mercury appeared to rotate faster than it should. Some astronomers suggested that there might be an undiscovered planet causing this unusual orbit and even gave it the name 'Vulcan'. During the eclipse of 1878, an American astronomer, James Watson, thought he had spotted this so-called 'lost' planet. But, alas for him, he was later obliged to admit that he had been wrong about Vulcan and withdrew his claim."
+           }
+          ]
+         },
+         "value": "lost planet/new planet/the lost planet/the new planet",
+         "blankId": "duk1NNOdMbVy1j4LVdjwL"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Einstein phát hiện astronomers hiểu sai cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"Then \"},{\"text\":\"Albert Einstein\",\"bold\":true},{\"text\":\" came on the scene\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đọc nói tiếp rằng \\\"Einstein suggested that \"},{\"text\":\"rather than being wrong about the number of planets\",\"bold\":true},{\"text\":\", \"},{\"text\":\"astronomers were actually wrong about gravity.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Einstein nhận ra\"},{\"text\":\" thay vì sai số planets\",\"bold\":true},{\"text\":\", các phi hành gia đã \"},{\"text\":\"hiểu sai về trọng lực \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: gravity \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 356,
+          "endTimeInSeconds": 391,
+          "transcripts": [
+           {
+            "id": "11/356961-391888",
+            "startTimeInSeconds": 356,
+            "endTimeInSeconds": 391,
+            "text": "Then Albert Einstein came on the scene. Einstein suggested that rather than being wrong about the number of planets, astronomers were actually wrong about gravity. Einstein's theory of relativity - for which he is so famous - disagreed with Newton's law of gravity in just the right way to explain Mercury's odd orbit. He also realised that a definitive test would be possible during the total eclipse of 1919 and this is indeed when his theory was finally proved correct."
+           }
+          ]
+         },
+         "value": "gravity",
+         "blankId": "qeLF2cLGO50pIWhsqIUP5"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "wNI-NdNdbgcZq1VUi72-b",
+         "key": 0
+        },
+        {
+         "id": "6Djrn4T21zg4YhKYRokdq",
+         "key": 1
+        },
+        {
+         "id": "duk1NNOdMbVy1j4LVdjwL",
+         "key": 2
+        },
+        {
+         "id": "qeLF2cLGO50pIWhsqIUP5",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"OslEvkqC1CSt-MbRjPZib\",\"cellsWidth\":[176,194,290],\"children\":[{\"type\":\"tr\",\"id\":\"y4P9jJj8sDEevShfZsljv\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date of eclipse\",\"bold\":true}]}]}],\"id\":\"-TdAUj2EUeO4XXgv9VzQ5\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Scientists\",\"bold\":true}]}]}],\"id\":\"kQCIbmRSxaSRzaGszgawy\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Observation\",\"bold\":true}]}]}],\"id\":\"PgXobEB9Pji9s91F_deym\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"CpXensQ3gP3gCSK0AqBDy\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1715\"}]}]}],\"id\":\"jmq1ox9WE5O4kz12yRLdM\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Halley\"}]}]}],\"id\":\"JhbyIQAWZYdnkdmHTF7pk\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"wNI-NdNdbgcZq1VUi72-b\",\"text\":\"\"}]},{\"text\":\" who accurately predicted an eclipse\"}]}]}],\"id\":\"M4Rm_3K7Xacd9xNQcaEqX\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"fav8mBYSJ6qvwFKCD7sYQ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1868\"}]}]}],\"id\":\"iWzWvs8k2rOUpfj4P6Vt9\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Janssen and Lockyer\"}]}]}],\"id\":\"Aqw30gJyu4ke7SGETmAuY\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"discovered\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"6Djrn4T21zg4YhKYRokdq\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"8gjUNCoTOE-YCesFN7E7H\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"dhS_D1JrMusQk3nNnRcDs\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1878\"}]}]}],\"id\":\"YvfaEz-w2d_QdClY8h38K\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Watson\"}]}]}],\"id\":\"fCs2qnc3cDvGT1xreMN3W\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"believed he had found\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"duk1NNOdMbVy1j4LVdjwL\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"5PhQuuaXe60AEJm9BdHUI\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"gj3CPlHr5jYF0naElvc--\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1919\"}]}]}],\"id\":\"H-topOwLjMX37ASrSoAwV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Einstein\"}]}]}],\"id\":\"4pwFZn7K2CmklfCM3tNRN\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"realised astronomers had misunderstood\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qeLF2cLGO50pIWhsqIUP5\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"XJNw46bEPKbVgf3Ygetwp\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":660,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:43Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

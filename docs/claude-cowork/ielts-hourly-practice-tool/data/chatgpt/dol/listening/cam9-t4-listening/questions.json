@@ -1,0 +1,2120 @@
+{
+ "schema": 1,
+ "id": "cam9-t4-listening",
+ "title": "CAM IELTS 9 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 9",
+ "testNum": 4,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-9-test-4-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-9-test-4-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Health Centres",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "b34fa924-592c-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "7sE0iZTxLijdDtbAZZ4sL",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"đối tượng phù hợp nhất\",\"bold\":true},{\"text\":\" với trung tâm\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"The Harvey Clinic\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"Doctor Green\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"We always\"},{\"text\":\" recommend her for babies because she’s very good with them\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cô ấy rất tốt với trẻ em/trẻ sơ sinh \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"babies\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\nNếu bạn bắt keyword và đợi tới từ \\\"\"},{\"text\":\"good with them\\\"\",\"bold\":true},{\"text\":\" là sẽ bị trễ nhé, chú ý nghe sau khi nói tới Doctor Green liền\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 148,
+          "endTimeInSeconds": 159,
+          "transcripts": [
+           {
+            "id": "2/148967-159150",
+            "startTimeInSeconds": 148,
+            "endTimeInSeconds": 159,
+            "text": " Okay. Well, there's (Example) Doctor Green at The Harvey Clinic. We always recommend her for babies, because she's very good with them and she runs a special clinic.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "babies",
+         "blankId": "M4todgFK1DuZP4P3pTmDr"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"tên\",\"bold\":true},{\"text\":\" của trung tâm sức khỏe\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"Is there \"},{\"text\":\"anywhere else \",\"bold\":true},{\"text\":\"I could try?\\\" là biết \"},{\"text\":\"chuẩn bị nhắc đến tên trung tâm\",\"bold\":true},{\"text\":\" thứ 2\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe đáp án và phần đánh vần để viết đúng tên riêng \\\"Yes, \"},{\"text\":\"the Eshcol Health Practice\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>Từ cần điền là \\\"\"},{\"text\":\"Eshcol\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 166,
+          "endTimeInSeconds": 186,
+          "transcripts": [
+           {
+            "id": "5/166141-169026",
+            "startTimeInSeconds": 166,
+            "endTimeInSeconds": 169,
+            "text": " Is there anywhere else I could try?",
+            "character": {
+             "id": "kCpyQpKJJoo_janCOG8wm",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "6/169026-174431",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 174,
+            "text": " Yes, the Eshcol Health Practice is the next one on my list.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "7/174431-175478",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 175,
+            "text": " How do you spell that?",
+            "character": {
+             "id": "kCpyQpKJJoo_janCOG8wm",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "8/175478-186902",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 186,
+            "text": " E-S-H-C-O-L. And it's Doctor Fuller, who has space on his list. The clinic only opened a year ago, so the facilities are all very modern.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Eshcol",
+         "blankId": "vshHv6cLmzDVbAOPbtwrN"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun/adj\",\"bold\":true},{\"text\":\" bổ nghĩa cho \\\"\"},{\"text\":\"appointments\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"Doctor Fuller\\\" và \\\"it’s particularly good \"},{\"text\":\"if you’re busy during the day\\\"\",\"bold\":true},{\"text\":\" >> dự đoán sắp nói đến \\\"\"},{\"text\":\"appointment\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"they also do \"},{\"text\":\"appointments in the evening\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ cũng có lịch khám vào buổi tối.\\\" >> Từ cần điền là \\\"\"},{\"text\":\"evening\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 211,
+          "transcripts": [
+           {
+            "id": "8/175478-186902",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 186,
+            "text": " E-S-H-C-O-L. And it's Doctor Fuller, who has space on his list. The clinic only opened a year ago, so the facilities are all very modern.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "9/186902-187926",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 187,
+            "text": " That sounds good.",
+            "character": {
+             "id": "kCpyQpKJJoo_janCOG8wm",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "10/187926-211831",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 211,
+            "text": " And it's particularly good if you're busy during the day, because they also do appointments in the evening. They're closed on Saturday, though. The only other place on the list is the Health Centre on Shore Lane. You can register with Doctor Gormley, that's G-O-R-M-L-E-Y. He's new there, but the centre has a very good reputation.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "evening",
+         "blankId": "ENbKg473qCyUrBAb-Ll_4"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"tên của bác sĩ\",\"bold\":true},{\"text\":\" ở trung tâm \\\"\"},{\"text\":\"Shore Lane\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"Health Centre on \"},{\"text\":\"Shore Lane\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe tên bác sĩ và phần đánh vần để viết đáp án \\\"You can register with \"},{\"text\":\"Doctor Gormley\",\"bold\":true},{\"text\":\", that’s \"},{\"text\":\"G-O-R-M-L-E-Y.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Gormley\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 187,
+          "endTimeInSeconds": 211,
+          "transcripts": [
+           {
+            "id": "10/187926-211831",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 211,
+            "text": " And it's particularly good if you're busy during the day, because they also do appointments in the evening. They're closed on Saturday, though. The only other place on the list is the Health Centre on Shore Lane. You can register with Doctor Gormley, that's G-O-R-M-L-E-Y. He's new there, but the centre has a very good reputation.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Gormley",
+         "blankId": "D6ND0GlBoV46QTqyifkU-"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "M4todgFK1DuZP4P3pTmDr",
+         "key": 0
+        },
+        {
+         "id": "vshHv6cLmzDVbAOPbtwrN",
+         "key": 1
+        },
+        {
+         "id": "ENbKg473qCyUrBAb-Ll_4",
+         "key": 2
+        },
+        {
+         "id": "D6ND0GlBoV46QTqyifkU-",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ta0EbcDv0LOax9pcWuvOU\",\"cellsWidth\":[221,155,264.013],\"children\":[{\"type\":\"tr\",\"id\":\"NPGCQ9O8uNpzk8h8V1dp3\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name of centre\",\"bold\":true}]}]}],\"id\":\"1zqqihi4kIoTXSSTW-de1\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Doctor's name\",\"bold\":true}]}]}],\"id\":\"KECqCWg7ELCmnJA2qtF_X\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Advantage\",\"bold\":true}]}]}],\"id\":\"IoetDkF0-PLhHmuWARn7W\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"7pW-JzzoWqIqAMF90aImP\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The Harvey Clinic\"}]}]}],\"id\":\"3URYgz2TL-2A2OMaclNWs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\nDr \"},{\"text\":\"Green\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"pD_8auJY3z_JBlvsfw-xP\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Especially good with\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"M4todgFK1DuZP4P3pTmDr\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"LPF-PkEncwi_bOiNdbbbZ\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"p10GS5P-jjC-zigv3ryFc\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"vshHv6cLmzDVbAOPbtwrN\",\"text\":\"\"}]},{\"text\":\" Health Practice\"}]}]}],\"id\":\"Q_nT8MazkWwykD4w24JVe\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Dr Fuller\"}]}]}],\"id\":\"S3aXxIakxoMDXyk1AYUlK\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Offers\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ENbKg473qCyUrBAb-Ll_4\",\"text\":\"\"}]},{\"text\":\" appointments\"}]}]}],\"id\":\"bYd9jHDDeP7k79ZwSnUPN\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"A6qdGWCB0OJQWwOGnEBG5\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The Shore Lane Health Centre\"}]}]}],\"id\":\"GFeIMUyNmMjX2tQm5w63_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Dr\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"D6ND0GlBoV46QTqyifkU-\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"imTbAJGJeEnjI7Xl6hTof\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"OMp0xOicwh93WJX4GyaYo\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":640.0129999999999,\"border\":true,\"hasRowHeading\":true}]",
+       "question": "HEALTH CENTRES"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "b34fd035-592c-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "b34fd036-592c-11ef-930b-595176b94802",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO of the following are offered free of charge at Shore Lane Health Centre?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Acupuncture"
+        },
+        {
+         "key": 1,
+         "value": "Employment medicals"
+        },
+        {
+         "key": 2,
+         "value": "Sports injury therapy"
+        },
+        {
+         "key": 3,
+         "value": "Travel advice"
+        },
+        {
+         "key": 4,
+         "value": "Vaccinations"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi về 2 dịch vụ được \\\"\"},{\"text\":\"Shore Lane Health Centre\",\"bold\":true},{\"text\":\"\\\" làm \"},{\"text\":\"miễn phí\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe về \\\"\"},{\"text\":\"charges\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"chuẩn bị có đáp án\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"If you need to be \"},{\"text\":\"vaccinated \",\"bold\":true},{\"text\":\"before and trips abroad,you \"},{\"text\":\"won’t have to pay for this\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu bạn cần phải chủng ngừa trước và đi du lịch nước ngoài, bạn sẽ không phải trả tiền cho việc này. >> \"},{\"text\":\"Chọn E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp theo nghe \\\"\"},{\"text\":\"The sports injury treatment service operates on a paying basis\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Dịch vụ điều trị chấn thương thể thao phải trả phí >> \"},{\"text\":\"Loại C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó là \\\"Some health centres do offer alternative therapies like homeopathy as \"},{\"text\":\"part of their pay-to-use service\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Homeopathy là một phần của dịch vụ trả tiền để sử dụng. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \\\"Shore Lane are hoping to do this soon – I think they may start with \"},{\"text\":\"acupuncture\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> có thể bắt đầu bằng châm cứu\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Loại A \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Cuối cùng nghe \\\"if you need to \"},{\"text\":\"prove you’re healthy or haven’t had any serious injuries before a new employer \",\"bold\":true},{\"text\":\"will \"},{\"text\":\"accept \",\"bold\":true},{\"text\":\"you, you can \"},{\"text\":\"get a free fitness check-up \",\"bold\":true},{\"text\":\"there\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu bạn cần chứng minh mình khỏe mạnh để làm việc, bạn có thể được kiểm tra sức khỏe miễn phí tại đó >> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 220,
+          "endTimeInSeconds": 270,
+          "transcripts": [
+           {
+            "id": "12/220877-270397",
+            "startTimeInSeconds": 220,
+            "endTimeInSeconds": 270,
+            "text": " Erm...there are usually some small charges that doctors make. Let me see what it says bout the Shore Lane Centre. If you need to be vaccinated before and trips abroad, you won't have to pay for this. Erm, what else? The sports injury treatment service operates on a paying basis, as does the nutritional therapy service. Some health centres do offer alternative therapies like homeopathy as part of their pay-to-use service. Shore Lane are hoping to do this soon - I think they may start with acupuncture. And finally, if you need to prove you're healthy or haven't had any serious injuries before a new employer will accept you, you can get a free fitness check-up there, but you'd most likely have to pay for insurance medicals though.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu hỏi về 2 dịch vụ được \\\"\"},{\"text\":\"Shore Lane Health Centre\",\"bold\":true},{\"text\":\"\\\" làm \"},{\"text\":\"miễn phí\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe về \\\"\"},{\"text\":\"charges\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"chuẩn bị có đáp án \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"If you need to be \"},{\"text\":\"vaccinated \",\"bold\":true},{\"text\":\"before and trips abroad,you \"},{\"text\":\"won’t have to pay for this\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu bạn cần phải chủng ngừa trước và đi du lịch nước ngoài, bạn sẽ không phải trả tiền cho việc này. >> \"},{\"text\":\"Chọn E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe \\\"\"},{\"text\":\"The sports injury treatment service operates on a paying basis\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Dịch vụ điều trị chấn thương thể thao phải trả phí >> \"},{\"text\":\"Loại C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó là \\\"Some health centres do offer alternative therapies like homeopathy as \"},{\"text\":\"part of their pay-to-use service\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Homeopathy là một phần của dịch vụ trả tiền để sử dụng. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \\\"Shore Lane are hoping to do this soon – I think they may start with \"},{\"text\":\"acupuncture\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> có thể bắt đầu bằng châm cứu\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Loại A \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng nghe \\\"if you need to \"},{\"text\":\"prove you’re healthy or haven’t had any serious injuries before a new employer \",\"bold\":true},{\"text\":\"will \"},{\"text\":\"accept \",\"bold\":true},{\"text\":\"you, you can \"},{\"text\":\"get a free fitness check-up \",\"bold\":true},{\"text\":\"there\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu bạn cần chứng minh mình khỏe mạnh để làm việc, bạn có thể được kiểm tra sức khỏe miễn phí tại đó >> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 220,
+          "endTimeInSeconds": 270,
+          "transcripts": [
+           {
+            "id": "12/220877-270397",
+            "startTimeInSeconds": 220,
+            "endTimeInSeconds": 270,
+            "text": " Erm...there are usually some small charges that doctors make. Let me see what it says bout the Shore Lane Centre. If you need to be vaccinated before and trips abroad, you won't have to pay for this. Erm, what else? The sports injury treatment service operates on a paying basis, as does the nutritional therapy service. Some health centres do offer alternative therapies like homeopathy as part of their pay-to-use service. Shore Lane are hoping to do this soon - I think they may start with acupuncture. And finally, if you need to prove you're healthy or haven't had any serious injuries before a new employer will accept you, you can get a free fitness check-up there, but you'd most likely have to pay for insurance medicals though.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "b34fd037-592c-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "dMjLDOA-_8_fR4F-gLWD7",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ vấn đề về sức khỏe, song song với \"},{\"text\":\"asthma\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"giving up smoking\\\" \",\"bold\":true},{\"text\":\"là biết \"},{\"text\":\"sắp có đáp án\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"the talk will stress the health benefits \"},{\"text\":\"particularly for people with asthma or heart disease\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"heart\",\"bold\":true},{\"text\":\"\\\" (lưu ý là ở đây mình không điền từ \"},{\"text\":\"disease\",\"bold\":true},{\"text\":\" vì đã có từ \"},{\"text\":\"problems\",\"bold\":true},{\"text\":\" rồi) \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 325,
+          "endTimeInSeconds": 341,
+          "transcripts": [
+           {
+            "id": "16/325360-341337",
+            "startTimeInSeconds": 325,
+            "endTimeInSeconds": 341,
+            "text": " Well, the first one's about giving up smoking. It's next week, the twenty-fifth of February, at 7 pm, and that's in Room 4. It says, the talk will stress the health benefits particularly for people with asthma or heart disease.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "heart",
+         "blankId": "eUaU4G7ZnyAemnO0ROfnR"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"địa điểm \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe về \"},{\"text\":\"\\\"Healthy Eating\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Will that be at the Health Centre?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bắt đầu hỏi về địa điểm tổ chức \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>  Tiếp đó nghe \\\"actually it’s \"},{\"text\":\"at the primary school on Shore Lane\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"primary school\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "18/342900-351610",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 351,
+            "text": " There's also a talk for families with children. It's on Healthy Eating, and takes place on the first of March at five o'clock.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "19/351610-353315",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 353,
+            "text": " Will that be at the Health Centre?",
+            "character": {
+             "id": "kCpyQpKJJoo_janCOG8wm",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "20/353315-361855",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 361,
+            "text": " Erm, actually it's at the primary school on Shore Lane. I imagine they're inviting the parents of pupils there - it says here 'all welcome'.",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "primary school",
+         "blankId": "81V9EamYW_8OYpqIbvoM7"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"number\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"thời gian\",\"bold\":true},{\"text\":\" buổi nói chuyện \"},{\"text\":\"ngày 9/3\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"avoid injuries while doing exercise\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"the ninth of March\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"sắp có đáp án\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"it’s a late afternoon talk, \"},{\"text\":\"at four thirty\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"4:30\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 364,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "22/364551-389289",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 389,
+            "text": " There's a couple of other talks - one giving advice about how to avoid injuries while doing exercise. It's on the ninth of March. Oh, it's a late afternoon talk, at four thirty, and it'll be in Room 6. It also says the talk is suitable for all ages. And finally, there's a talk called 'Stress Management' which is...",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "4:30/4.30",
+         "blankId": "UnFufGniW9gsdbhVrQThw"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"đối tượng phù hợp\",\"bold\":true},{\"text\":\" để nghe buổi nói chuyện.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the talk is suitable \"},{\"text\":\"for all ages\",\"bold\":true},{\"text\":\"\\\" (bài nói chuyện phù hợp với mọi lứa tuổi.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"ages\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 364,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "22/364551-389289",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 389,
+            "text": " There's a couple of other talks - one giving advice about how to avoid injuries while doing exercise. It's on the ninth of March. Oh, it's a late afternoon talk, at four thirty, and it'll be in Room 6. It also says the talk is suitable for all ages. And finally, there's a talk called 'Stress Management' which is...",
+            "character": {
+             "id": "i57DEVODo1rm52ete2X1a",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "ages",
+         "blankId": "ylV_bRev2iy3i-Ad--N8j"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "eUaU4G7ZnyAemnO0ROfnR",
+         "key": 0
+        },
+        {
+         "id": "81V9EamYW_8OYpqIbvoM7",
+         "key": 1
+        },
+        {
+         "id": "UnFufGniW9gsdbhVrQThw",
+         "key": 2
+        },
+        {
+         "id": "ylV_bRev2iy3i-Ad--N8j",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ta0EbcDv0LOax9pcWuvOU\",\"cellsWidth\":[145,133,171,212.01],\"children\":[{\"type\":\"tr\",\"id\":\"NPGCQ9O8uNpzk8h8V1dp3\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Subject of talk\",\"bold\":true}]}]}],\"id\":\"LM-3uZODOhq6DYGzofDaX\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date/Time\",\"bold\":true}]}]}],\"id\":\"czO2y6paDxZP_SdxQh4zJ\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Location\",\"bold\":true}]}]}],\"id\":\"7VUBT6LWq085ljNrh8-oM\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Notes\",\"bold\":true}]}]}],\"id\":\"pWPkNUPgGA--sgQysAnYV\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"7pW-JzzoWqIqAMF90aImP\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Giving up smoking\"}]}]}],\"id\":\"xfn5mlkbsWsS0S06yi5l5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"25th Feb at 7pm\"}]}]}],\"id\":\"8xAABRKNrOqmvhk5SOckO\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Room 4\"}]}]}],\"id\":\"3KjO6ft0_rLHBK_QQNHGm\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Useful for people with asthma or\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"eUaU4G7ZnyAemnO0ROfnR\",\"text\":\"\"}]},{\"text\":\" problems\"}]}]}],\"id\":\"uqdd926wvFcotEdzUxZ6w\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"gZJOo5Clu2hkcDaAewgKD\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Health eating\"}]}]}],\"id\":\"kKeHihtoJwymuK379pUIW\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1st March at 5pm\"}]}]}],\"id\":\"7ECOdY_qOOdYrHaqjaMS5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"81V9EamYW_8OYpqIbvoM7\",\"text\":\"\"}]},{\"text\":\" (Shore Lane)\"}]}]}],\"id\":\"CUan6S7KujS42Mbau3qxy\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Anyone welcome\"}]}]}],\"id\":\"boPoEoacK9PKELy-eIDoB\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"o8YpkHwiBy883zKKXDiZP\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Avoiding injuries during exercise\"}]}]}],\"id\":\"fqi6wd9gVKNx075F0CrNa\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"9th March at\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"UnFufGniW9gsdbhVrQThw\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"PjtTd18rhqpHY042irsZ1\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Room 6\"}]}]}],\"id\":\"Rqq616Iog40L-a9Co_hOW\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"For all\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ylV_bRev2iy3i-Ad--N8j\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"E4xbPWBCoAQ1B1CNubcPa\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":661.01,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Talks for patients at Shore Lane Health Centre"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Water Heater",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "30e0ddff-5930-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "xUOJKJbctpk4sXZallKw4",
+       "type": "DRAG_IN",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/7cf99762-b173-47f9-9bfe-7e35e29f308f.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/7cf99762-b173-47f9-9bfe-7e35e29f308f.png",
+        "name": "CAM9_L4_P2_WATER HEATER_NoOpt.png",
+        "uploadedDate": "2021-11-02T03:36:11.665+0000",
+        "size": 13883,
+        "width": 375,
+        "height": 245
+       },
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định vị trí là cái nút hình tròn đầu tiên bên trái\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe miêu tả \\\"The first one – \"},{\"text\":\"the round one on the far left\",\"bold\":true},{\"text\":\"\\\" là biết đúng vị trí mình cần >> \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"It’s the \"},{\"text\":\"main control switch\",\"bold\":true},{\"text\":\"\\\" (Đó là công tắc điều khiển chính) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 62,
+          "endTimeInSeconds": 95,
+          "transcripts": [
+           {
+            "id": "2/62044-95376",
+            "startTimeInSeconds": 62,
+            "endTimeInSeconds": 95,
+            "text": " Oh right! That's easy. Don't worry. In the upstairs cupboard, you'll find the water heater. You'll see three main controls on the left at the bottom of the heater. The first one - the round one on the far left - is the most important one for the heating and hot water. It's the main control switch. Make sure it's in the 'on' position.The switch is 'off'. That's probably what's happened - it's got switched off by mistake",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định vị trí là cái nút tròn ở giữa ngay bên dưới nút tròn \\\"\"},{\"text\":\"central heat radiators\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe miêu tả \\\"\"},{\"text\":\"Below the heating controls\",\"bold\":true},{\"text\":\" in the \"},{\"text\":\"middle\",\"bold\":true},{\"text\":\" is a small \"},{\"text\":\"round\",\"bold\":true},{\"text\":\" plastic \"},{\"text\":\"button\",\"bold\":true},{\"text\":\"\\\" là biết đúng vị trí cần >> \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"you’ll need to press this button\"},{\"text\":\" to reset the heater\",\"bold\":true},{\"text\":\".\\\" (bạn sẽ cần nhấn nút này để đặt lại lò sưởi) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 118,
+          "endTimeInSeconds": 146,
+          "transcripts": [
+           {
+            "id": "4/118578-146296",
+            "startTimeInSeconds": 118,
+            "endTimeInSeconds": 146,
+            "text": " Below the heating controls in the middle is a small round plastic button. If there isn't enough water in the pipes, sometimes the heater goes out.If this happens you'll need to press this button to reset the heater. Hold it in for about five seconds and the heater should come on again. Then there's a little square indicator under the third knob that's kind of alarm light. It'll flash if you need to reset the heater.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định vị trí là nút hình vuông/ chữ nhật ngay bên phải\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe miêu tả \\\"there’s a little \"},{\"text\":\"square indicator\",\"bold\":true},{\"text\":\" under the \"},{\"text\":\"third knob\",\"bold\":true},{\"text\":\"\\\" (có một chỉ báo hình vuông nhỏ dưới núm thứ ba) là biết đúng vị trí mình cần >> \"},{\"text\":\"sắp có đáp án\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"that’s kind of \"},{\"text\":\"alarm light\",\"bold\":true},{\"text\":\".\\\" (đó là loại đèn báo) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 118,
+          "endTimeInSeconds": 146,
+          "transcripts": [
+           {
+            "id": "4/118578-146296",
+            "startTimeInSeconds": 118,
+            "endTimeInSeconds": 146,
+            "text": " Below the heating controls in the middle is a small round plastic button. If there isn't enough water in the pipes, sometimes the heater goes out.If this happens you'll need to press this button to reset the heater. Hold it in for about five seconds and the heater should come on again. Then there's a little square indicator under the third knob that's kind of alarm light. It'll flash if you need to reset the heater.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "questions": [
+        {
+         "text": "1",
+         "id": "Bw9fDh87rvn2tnpver-FN",
+         "x": -7,
+         "y": 150
+        },
+        {
+         "text": "2",
+         "id": "vE-N4MSg2-lB-0g_pXzX-",
+         "x": -7,
+         "y": 192
+        },
+        {
+         "text": "3",
+         "id": "qcUCKMs7xAO3lZarz_qjP",
+         "x": 288,
+         "y": 166
+        }
+       ],
+       "options": [
+        "Electricity indicator",
+        "On/off switch",
+        "Reset button",
+        "Time control",
+        "Warning indicator"
+       ]
+      }
+     ],
+     "questionType": "DRAG_IN",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Label the diagram below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct answer and drag it to the gap."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct answer and drag it to the gap."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "30e0de00-5930-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "30e0de01-5930-11ef-930b-595176b94802",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "In box on washing machine"
+        },
+        {
+         "key": 1,
+         "value": "In cupboard on landing"
+        },
+        {
+         "key": 2,
+         "value": "In chest of drawers"
+        },
+        {
+         "key": 3,
+         "value": "Next to window in living room"
+        },
+        {
+         "key": 4,
+         "value": "On shelf of back door"
+        },
+        {
+         "key": 5,
+         "value": "On top of television"
+        },
+        {
+         "key": 6,
+         "value": "Under kitchen sink"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"kqBm1pxKRz3D2EU6bjzUp\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"pillows\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"If you\"},{\"text\":\" look in the cupboard\",\"bold\":true},{\"text\":\", the large white one upstairs – to the left of the bathroom door – \"},{\"text\":\"there should be four or five on the top shelf\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Trong cái tủ lớn màu trắng ở tầng trên có bốn hoặc năm chiếc trên kệ trên cùng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 246,
+          "transcripts": [
+           {
+            "id": "9/215866-246866",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 246,
+            "text": " Pillows... yes. If you look in the cupboard, the large white one upstairs - to the left of the bathroom door - there should be four or five on the top shelf. And if you want to do some washing, there's some powder for that... probably by the back door. There's a kind of shelf there above the sink. In fact, I'm sure there's some there, in a large blue box. You need about half a cup full for each wash.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"Z4xV1ek2scD1VndpvgA5e\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"washing\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"powder\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"sắp có đáp án\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" probably \"},{\"text\":\"by the back door\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 246,
+          "transcripts": [
+           {
+            "id": "9/215866-246866",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 246,
+            "text": " Pillows... yes. If you look in the cupboard, the large white one upstairs - to the left of the bathroom door - there should be four or five on the top shelf. And if you want to do some washing, there's some powder for that... probably by the back door. There's a kind of shelf there above the sink. In fact, I'm sure there's some there, in a large blue box. You need about half a cup full for each wash.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"DGbBzOMODhCWGaEwMjgeJ\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"key\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the \"},{\"text\":\"spare key\",\"bold\":true},{\"text\":\" to the back door is \"},{\"text\":\"hanging on a hook on the wall by the sitting room window.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chìa khóa treo trên móc bên cạnh cửa sổ>> \"},{\"text\":\"Chọn D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 246,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "10/246866-276849",
+            "startTimeInSeconds": 246,
+            "endTimeInSeconds": 276,
+            "text": " And that reminds me, the spare key to the back door is hanging on a hook on the wall by the sitting room window. Please make sure to put it back when you've used it. The previous guests lost it in the garden and I had to find some spare bulbs in a large cardboard box. It's on top of the washing machine with all kinds of useful things in it. Oh, and another thing I forgot to mention when we last spoke...",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"bulbs\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"It’s on top of the washing machine\",\"bold\":true},{\"text\":\" with all kinds of useful things in it.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nó nằm trên đầu máy giặt >> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 246,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "10/246866-276849",
+            "startTimeInSeconds": 246,
+            "endTimeInSeconds": 276,
+            "text": " And that reminds me, the spare key to the back door is hanging on a hook on the wall by the sitting room window. Please make sure to put it back when you've used it. The previous guests lost it in the garden and I had to find some spare bulbs in a large cardboard box. It's on top of the washing machine with all kinds of useful things in it. Oh, and another thing I forgot to mention when we last spoke...",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"ZEBF-JIrHPxRxrf2y06wL\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"map\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"I put it in the top drawer of the chest \",\"bold\":true},{\"text\":\"under the TV in your bedroom.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đặt trong ngăn kéo tủ trên cùng dưới TV trong phòng ngủ >> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 277,
+          "endTimeInSeconds": 292,
+          "transcripts": [
+           {
+            "id": "12/277756-292078",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 292,
+            "text": " I've left you a local map, so you'll be able to find your way around easily. It shows the whole area. I put it in the top drawer of the chest under the TV in your bedroom. There's a whole file of local information in there too.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Pillows"
+        },
+        {
+         "key": 1,
+         "value": "Washing powder"
+        },
+        {
+         "key": 2,
+         "value": "Key"
+        },
+        {
+         "key": 3,
+         "value": "Light bulbs"
+        },
+        {
+         "key": 4,
+         "value": "Map"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Where can each of the following items be found?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "<Reading Passage Number> has <numberOfParagraphs> sections <firstLabel> to <lastLabel>."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections <firstLabel>-<lastLabel> from the list of headings below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "30e0de02-5930-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "30e0de03-5930-11ef-930b-595176b94802",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"number\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"số điện thoại đặt pizza\",\"bold\":true},{\"text\":\" mang về\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"takeaway\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe số điện thoại \\\"Call \"},{\"text\":\"7-3 double 2.8-1 for that one, or 7 double 6,double 1,9\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"732281\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 296,
+          "endTimeInSeconds": 333,
+          "transcripts": [
+           {
+            "id": "14/296656-333133",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 333,
+            "text": " Yes. You'll need to take the car. It's too far to walk from the flat really. You have to pay to leave your car in all the car parks now I'm afraid... I like the one that's by the station best and you can walk to the town centre from there in five minutes. That's where all the best restaurants are. But if you want a takeaway, the Italian one does really good pasta and pizzas. Call 7-3 double 2.8-1 for that one, or 7 double 6, double 1,9 for the Chinese.They's both good and they'll both deliver to the flat.",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         },
+         "value": "732281",
+         "blankId": "P2Xy7qhJnUNfs0mwB4Z4j"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"time\",\"bold\":true},{\"text\":\" chỉ thời gian \\\"\"},{\"text\":\"railway museum\",\"bold\":true},{\"text\":\"\\\" đóng cửa\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"It gets very \"},{\"text\":\"crowded on Sundays\",\"bold\":true},{\"text\":\"\\\" là biết\"},{\"text\":\" loại Sunday\",\"bold\":true},{\"text\":\" vì ngày này khách rất đông\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"but not on \"},{\"text\":\"Thursdays\\\"\",\"bold\":true},{\"text\":\" >>\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nghe thấy \\\"and it’s also \"},{\"text\":\"the only day of the week when they’re not open\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đó cũng là ngày duy nhất trong tuần không mở cửa \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Thursdays\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 333,
+          "endTimeInSeconds": 359,
+          "transcripts": [
+           {
+            "id": "15/333133-359519",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 359,
+            "text": " As for places to visit, yes, do go and see the railway museum. The exhibition is small but really good. It gets very crowded on Sundays, so I suggest you visit it on a quieter day, later in the week, but not on Thursdays which is market day - you won't find anywhere to park and it's also the only day of the week when they're not open! Anything else?",
+            "character": {
+             "id": "y5p1Aq6SxWjhJbuh3l6gc",
+             "name": "MAN"
+            }
+           }
+          ]
+         },
+         "value": "Thursday/Thursdays",
+         "blankId": "jY7uhrJCjo9oBh0Ql5SA_"
+        }
+       ],
+       "paragraph": {
+        "id": "NmERQ4eOlgZxGiEywZdjG",
+        "editorValue": "[{\"children\":[{\"text\":\"The best place to park in town – next to station\"}]},{\"children\":[{\"text\":\"Phone number for takeaway pizzas – \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"P2Xy7qhJnUNfs0mwB4Z4j\"},{\"text\":\".\"}]},{\"children\":[{\"text\":\"Railway museum closed on \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"jY7uhrJCjo9oBh0Ql5SA_\"},{\"text\":\".\"}]}]",
+        "blanks": [
+         {
+          "id": "P2Xy7qhJnUNfs0mwB4Z4j",
+          "key": 0
+         },
+         {
+          "id": "jY7uhrJCjo9oBh0Ql5SA_",
+          "key": 1
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Kira - The Exchange Student",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "6517eead-5944-11ef-bccc-cf034d0a21af",
+     "questions": [
+      {
+       "uuid": "6517eeae-5944-11ef-bccc-cf034d0a21af",
+       "type": "SINGLE_ANSWER",
+       "question": "In her home country, Kira had",
+       "options": [
+        {
+         "key": 0,
+         "value": "completed a course."
+        },
+        {
+         "key": 1,
+         "value": "done two years of a course."
+        },
+        {
+         "key": 2,
+         "value": "found her course difficult."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi nhằm xác định \"},{\"text\":\"ở đất nước của Kira\",\"bold\":true},{\"text\":\", cô ấy đã làm gì và các đáp án đều liên quan đến \\\"\"},{\"text\":\"course\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"What \"},{\"text\":\"course\",\"bold\":true},{\"text\":\" did you enrol in?\\\" (Bạn đã đăng ký khóa học nào?) là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó bạn nghe \\\"I went straight into \"},{\"text\":\"third year Pharmacy\",\"bold\":true},{\"text\":\"\\\" (Tôi vào thẳng ngành Dược năm thứ ba) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> 'They \"},{\"text\":\"credited me with two years\",\"bold\":true},{\"text\":\", \"},{\"text\":\"which probably made it more difficult for me\",\"bold\":true},{\"text\":\".\\\" (Họ ghi nhận tôi hai năm, điều này có lẽ khiến tôi khó khăn hơn.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Loại B và C \",\"bold\":true},{\"text\":\"vì đây không phải việc Kira làm ở đất nước cô ấy\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"as\"},{\"text\":\" I’d already finished a course in it in my country\",\"bold\":true},{\"text\":\"\\\" (vì tôi đã hoàn thành một khóa học về nó ở đất nước của tôi) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 58,
+          "endTimeInSeconds": 84,
+          "transcripts": [
+           {
+            "id": "4/58295-60950",
+            "startTimeInSeconds": 58,
+            "endTimeInSeconds": 60,
+            "text": " What course did you enrol in?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "5/60950-70962",
+            "startTimeInSeconds": 60,
+            "endTimeInSeconds": 70,
+            "text": " Actually, I went straight into third year Pharmacy. They credited me with two years, which probably made it more difficult for me.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           },
+           {
+            "id": "6/70962-75533",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 75,
+            "text": " On the other hand, you were lucky to be granted credits. Is that why you chose the course?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "7/75533-84277",
+            "startTimeInSeconds": 75,
+            "endTimeInSeconds": 84,
+            "text": " Yes. And, as I'd already finished a course in it in my country. I thought it would be easier if I studied something I already knew.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "6517eeaf-5944-11ef-bccc-cf034d0a21af",
+       "type": "SINGLE_ANSWER",
+       "question": "To succeed with assignments, Kira had to",
+       "options": [
+        {
+         "key": 0,
+         "value": "read faster."
+        },
+        {
+         "key": 1,
+         "value": "write faster."
+        },
+        {
+         "key": 2,
+         "value": "change her way of thinking."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Đáp án là 1 việc Kira phải làm để \\\"succeed with assignments\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi Kira nhắc đến \\\"I’ve found it very \"},{\"text\":\"difficult to write assignments\",\"bold\":true},{\"text\":\"\\\" là biết\"},{\"text\":\" sắp có đáp án\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó Kira chỉ rõ sự khó khăn là ở chỗ \\\"\"},{\"text\":\"lecturers expect you to be critical\",\"bold\":true},{\"text\":\".\\\" (giảng viên mong đợi bạn là người phản biện.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Kira sẽ cần khắc phục việc này\\n>> Sau đó nghe \\\"People \"},{\"text\":\"expect \",\"bold\":true},{\"text\":\"you to \"},{\"text\":\"have problems with the process of reading and writing\",\"bold\":true},{\"text\":\" but\"},{\"text\":\", in fact, it is more a question of altering your viewpoint \",\"bold\":true},{\"text\":\"towards academic study.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mọi người nghĩ rằng bạn sẽ gặp vấn đề trong quá trình đọc và viết, nhưng trên thực tế, vấn đề là thay đổi quan điểm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 96,
+          "endTimeInSeconds": 139,
+          "transcripts": [
+           {
+            "id": "9/96787-120200",
+            "startTimeInSeconds": 96,
+            "endTimeInSeconds": 120,
+            "text": " Well, I've found it very difficult to write assignments, because I wasn't familiar with that aspect of the system here. The main problem is that the lecturers expect you to be critical. That made me feel really terrible. I thought \"How can I possibly do it? How can I comment on someone else's research when they probably spent five years doing it?\"",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           },
+           {
+            "id": "10/120200-139608",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 139,
+            "text": " I think a lot of people who come from overseas countries have similar problems. But after a while it became easier for me. People expect you to have problems with the process of reading and writing but, in fact, it is more a question of altering your viewpoint towards academic study.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "6517eeb0-5944-11ef-bccc-cf034d0a21af",
+     "questions": [
+      {
+       "uuid": "6517eeb1-5944-11ef-bccc-cf034d0a21af",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"verb\",\"bold\":true},{\"text\":\". Kira đang so sánh giảng viên ở dây \"},{\"text\":\"dễ dàng để làm gì hơn\",\"bold\":true},{\"text\":\" là ở đất nước của cô ấy\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"Are they essentially\"},{\"text\":\" the same as lecturers in your country?\",\"bold\":true},{\"text\":\"\\\" >> câu hỏi so sánh giảng viên >>\"},{\"text\":\" Đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Here, \"},{\"text\":\"they’re much easier to approach\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ dễ tiếp cận hơn nhiều \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"approach\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "13/151408-156741",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 156,
+            "text": " And what about the lecturers themselves? Are they essentially the same as lecturers in your country?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "14/156741-169464",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 169,
+            "text": " Well actually, no. Here, they're much easier to approach. After every lecture you can go and ask them something you didn't understand. Or you can make an appointment and talk to them about anything in the course.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "approach",
+         "blankId": "AUT8t_SMZvpJPGnah-SRE"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj \",\"bold\":true},{\"text\":\"chỉ việc \"},{\"text\":\"Paul so sánh\",\"bold\":true},{\"text\":\" Kira của bây giờ với trước đây \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vì là \"},{\"text\":\"Paul đưa ra nhận xét\",\"bold\":true},{\"text\":\" nên ta cần chú ý đến thoại của Paul\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"\"},{\"text\":\"you’re a more mature student now, whereas when you were studying in your country you were younger and not so assertive.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bây giờ Kira là một sinh viên trưởng thành hơn) >> Từ cần điền là \\\"\"},{\"text\":\"mature\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 169,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "15/169464-177346",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 177,
+            "text": " Maybe you found them different because you're a more mature student now, whereas when you were studying in your country you were younger and not so assertive.",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           }
+          ]
+         },
+         "value": "mature",
+         "blankId": "ZG4pBRCGvjr6HT83hzgXL"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"verb, \",\"bold\":true},{\"text\":\"song song với từ \"},{\"text\":\"worry them\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"make appointments – usually to \"},{\"text\":\"talk about something in the course\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"something in the course that’s \"},{\"text\":\"worrying \",\"bold\":true},{\"text\":\"them, but sometimes just about something\"},{\"text\":\" that might really interest them\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"interest\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 177,
+          "endTimeInSeconds": 201,
+          "transcripts": [
+           {
+            "id": "16/177346-201667",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 201,
+            "text": " No, I don't think that's the difference. Most of the students here do it.In my faculty, they all seem to make appointments - usually to talk about something in the course that's worrying them, but sometimes just about something that might really interest them, something they might want to specialise in.The lecturers must set aside certain times every week when they're available for students.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "interest",
+         "blankId": "zoxWOYKgdaO778Ts30tLB"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "zbdiXEzYH-JxSQoRGb31R",
+         "editorValue": "[{\"children\":[{\"text\":\"Kira says that lecturers are easier to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"AUT8t_SMZvpJPGnah-SRE\"},{\"text\":\" than those in her home country.\"}]}]",
+         "blanks": [
+          {
+           "id": "AUT8t_SMZvpJPGnah-SRE",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "mCN7fSNGJvypQgRmPsIwP",
+         "editorValue": "[{\"children\":[{\"text\":\"Paul suggests that Kira may be more \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ZG4pBRCGvjr6HT83hzgXL\"},{\"text\":\" than when she was studying before.\"}]}]",
+         "blanks": [
+          {
+           "id": "ZG4pBRCGvjr6HT83hzgXL",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "73eIsmOLG6ihFytnCSc-m",
+         "editorValue": "[{\"children\":[{\"text\":\"Kira says that students want to discuss things that worry them or that \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"zoxWOYKgdaO778Ts30tLB\"},{\"text\":\" them very much.\"}]}]",
+         "blanks": [
+          {
+           "id": "zoxWOYKgdaO778Ts30tLB",
+           "key": 2
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "6517eeb2-5944-11ef-bccc-cf034d0a21af",
+     "questions": [
+      {
+       "uuid": "6517eeb3-5944-11ef-bccc-cf034d0a21af",
+       "type": "SHORT_ANSWER",
+       "sentences": [
+        {
+         "key": 0,
+         "text": "How did the students do their practical sessions?"
+        },
+        {
+         "key": 1,
+         "text": "In the second semester how often did Kira work in a hospital?"
+        },
+        {
+         "key": 2,
+         "text": "How much full-time work did Kira do during the year?"
+        },
+        {
+         "key": 3,
+         "text": "Having completed the year, how does Kira feel?"
+        },
+        {
+         "key": 4,
+         "text": "In addition to the language, what do overseas students need to become familiar with?"
+        }
+       ],
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định đáp án là \"},{\"text\":\"cụm từ chỉ cách thức\",\"bold\":true},{\"text\":\" vì câu hỏi là \\\"\"},{\"text\":\"how\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"Apart from lectures, \"},{\"text\":\"we had practical sessions in a lot of subjects\",\"bold\":true},{\"text\":\".\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"We did these\"},{\"text\":\" in small groups\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"groups\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 244,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "19/244666-288086",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 288,
+            "text": " Very, very busy. They make you work very hard. Apart from lectures, we had practical sessions in a lot of subjects. We did these in small groups. I had to go and work four hours every week in a community pharmacy. Actually,I enjoyed this very much - meeting new people all the time. Then in second semester, we had to get experience in hospital dispensaries, so every second day we went to one of the big hospitals and worked there. And on top of all that we had our assignments, which took me a lot of time. Oh, I nearly forgot, between first and second semesters, we had to work full-time for two weeks in a hospital.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "groups"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định đáp án là\"},{\"text\":\" cụm từ chỉ tần suất\",\"bold\":true},{\"text\":\" do câu hỏi là \\\"\"},{\"text\":\"how often\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"in \"},{\"text\":\"second semester\",\"bold\":true},{\"text\":\", we had to \"},{\"text\":\"get experience in hospital\",\"bold\":true},{\"text\":\" dispensaries\\\" >> \"},{\"text\":\"Đáp án sắp vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"so \"},{\"text\":\"every second day we went to one of the big hospitals and worked there\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cứ sau hai ngày chúng tôi lại đến một trong những bệnh viện lớn và làm việc ở đó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"every 2 days\",\"bold\":true},{\"text\":\"' \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 244,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "19/244666-288086",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 288,
+            "text": " Very, very busy. They make you work very hard. Apart from lectures, we had practical sessions in a lot of subjects. We did these in small groups. I had to go and work four hours every week in a community pharmacy. Actually,I enjoyed this very much - meeting new people all the time. Then in second semester, we had to get experience in hospital dispensaries, so every second day we went to one of the big hospitals and worked there. And on top of all that we had our assignments, which took me a lot of time. Oh, I nearly forgot, between first and second semesters, we had to work full-time for two weeks in a hospital.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "every 2 days"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định đáp án là \"},{\"text\":\"cụm từ chỉ khoảng thời gian\",\"bold\":true},{\"text\":\" Kira làm \\\"\"},{\"text\":\"full time\",\"bold\":true},{\"text\":\"\\\" ở bệnh viện \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"between first and second semesters, \"},{\"text\":\"we had to work full-time for two weeks in a hospital.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chúng tôi phải làm việc toàn thời gian trong hai tuần trong bệnh viện.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"2 weeks\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 244,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "19/244666-288086",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 288,
+            "text": " Very, very busy. They make you work very hard. Apart from lectures, we had practical sessions in a lot of subjects. We did these in small groups. I had to go and work four hours every week in a community pharmacy. Actually,I enjoyed this very much - meeting new people all the time. Then in second semester, we had to get experience in hospital dispensaries, so every second day we went to one of the big hospitals and worked there. And on top of all that we had our assignments, which took me a lot of time. Oh, I nearly forgot, between first and second semesters, we had to work full-time for two weeks in a hospital.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "2 weeks"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định đáp án là \"},{\"text\":\"tính từ\",\"bold\":true},{\"text\":\" chỉ cảm xúc của Kira \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"Do you \"},{\"text\":\"feel some sense\",\"bold\":true},{\"text\":\" of achievement?\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Yeah, \"},{\"text\":\"I do feel much more confident\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"confident\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 288,
+          "endTimeInSeconds": 300,
+          "transcripts": [
+           {
+            "id": "20/288086-294657",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 294,
+            "text": " That does sound a very heavy year. So are you pleased now that you did it? Do you feel some sense of achievement?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "21/294657-300546",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 300,
+            "text": " Yeah, I do feel much more confident, which I suppose is the most important thing.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "confident"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định đáp án là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ việc sinh viên nước ngoài phải tập làm quen bên cạnh ngoại ngữ \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe hỏi \\\"have you got any \"},{\"text\":\"recommendations for\",\"bold\":true},{\"text\":\" people \"},{\"text\":\"who are studying from overseas\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Kira cho biết \\\"I suppose they need \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"very good English\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\" = \\\"\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"language\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\\\" >> Biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Paul hỏi \\\"Anything else?\\\" >> Chuẩn bị nói tới\"},{\"text\":\" cái thứ 2 ngoài English\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"the biggest problem for me was \"},{\"text\":\"a lack of familiarity with the education system here\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vấn đề lớn nhất là thiếu hiểu biết về hệ thống giáo dục ở đây\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"education system\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 300,
+          "endTimeInSeconds": 329,
+          "transcripts": [
+           {
+            "id": "22/300546-304438",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 304,
+            "text": " And have you got any recommendations for people who are studying from overseas?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "23/304438-320265",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 320,
+            "text": " Well, I suppose they need very good English. It would be much better if they spent more time learning English before they enter the university, because you can be in big trouble if you don't understand what people are saying and you haven't got time to translate.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           },
+           {
+            "id": "24/320265-321594",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 321,
+            "text": " Anything else?",
+            "character": {
+             "id": "CZHc2DCE8ZtlVHJwQVj7_",
+             "name": "PAUL"
+            }
+           },
+           {
+            "id": "25/321594-329286",
+            "startTimeInSeconds": 321,
+            "endTimeInSeconds": 329,
+            "text": " Well, as I said before, the biggest problem for me was a lack of familiarity with the education system here.",
+            "character": {
+             "id": "968vDnYO5A4DWJv9H_tgg",
+             "name": "KIRA"
+            }
+           }
+          ]
+         },
+         "value": "education system"
+        }
+       ]
+      }
+     ],
+     "questionType": "SHORT_ANSWER",
+     "displayedQuestionType": "Short Answer",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the questions below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Wildlife In City Gardens",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "d0d6f3d4-5948-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "d0d6f3d5-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "What led the group to choose their topic?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Wildlife in city gardens"
+        },
+        {
+         "key": 1,
+         "value": "They were interested in the effects of city growth"
+        },
+        {
+         "key": 2,
+         "value": "They wanted to investigate a recent phenomenon"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi nhằm xác định lý do nhóm chọn lựa topic của họ\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"How did we choose the topic\",\"bold\":true},{\"text\":\"?\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"two of the group mentioned that they had seen yet more sparrow-hawks in their own city centre gardens and wondered why they were turning up in these gardens in great numbers\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thấy more sparrow-hawks ở city centre gardens và thắc mắc vì sao có nhiều ở đó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp theo nghe được phản ứng của nhóm \\\"\"},{\"text\":\" We were all very engaged by the idea of why wild animals would choose to inhabit a city garden\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Hứng thú vì sao wild animals chọn ở city garden; \\\"\"},{\"text\":\"Why is it so popular with wildlife when the countryside itself is becoming less so\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>Tại sao ở vùng countryside wildlife lại trở nên ít hơn? \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhóm muốn nghiên cứu về hiện tượng vì sao wildlife ở nhiều ở city và ít ở countryside \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" investigated a phenomenon\",\"bold\":true},{\"text\":\" >> \"},{\"text\":\"Đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 78,
+          "endTimeInSeconds": 111,
+          "transcripts": [
+           {
+            "id": "1/78728-99953",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 99,
+            "text": "First of all, how did we choose our topic? Well, there are four of us in the group and one day while we were discussing a possible focus, two of the group mentioned that they had seen yet more sparrow-hawks-one of Britain's most interesting birds of prey - in their own city centre gardens and wondered why they were turning up in these gardens in great numbers."
+           },
+           {
+            "id": "2/99953-111708",
+            "startTimeInSeconds": 99,
+            "endTimeInSeconds": 111,
+            "text": "We were all very engaged by the idea of why wild animals would choose to inhabit a city garden. Why is it so popular with wildlife when the countryside itself is becoming less so?"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d0d6f3d6-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "The exact proportion of land devoted to private gardens was confirmed by",
+       "options": [
+        {
+         "key": 0,
+         "value": "consulting some official documents."
+        },
+        {
+         "key": 1,
+         "value": "taking large-scale photos."
+        },
+        {
+         "key": 2,
+         "value": "discussions with town surveyors."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Cần nghe thông tin \"},{\"text\":\"tỷ lệ \",\"bold\":true},{\"text\":\"chính xác đất dành cho private garden đã được \"},{\"text\":\"xác nhận bởi cái gì\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"what \"},{\"text\":\"proportion\",\"bold\":true},{\"text\":\" of the urban land is taken up by \"},{\"text\":\"private gardens\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"We estimated that it was about one fifth, and \"},{\"text\":\"this was endorsed by looking at large-scale usage maps in the town land survey office\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Điều này được chứng thực khi xem các bản đồ sử dụng khổ lớn tại văn phòng khảo sát đất đai thị trấn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cái để xác nhận tỷ lệ chính xác đất dành cho vườn tư nhân là \\\"\"},{\"text\":\"usage maps\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"bản đồ sử dụng đất\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \\\"\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"official documents\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\\\" >> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 111,
+          "endTimeInSeconds": 129,
+          "transcripts": [
+           {
+            "id": "3/111708-129612",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 129,
+            "text": "The first thing we did was to establish what proportion of the urban land is taken up by private gardens. We estimated that it was about one fifth, and this was endorsed by looking at large-scale usage maps in the town land survey office - 24% to be precise."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d0d6f3d7-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "The group asked garden owners to",
+       "options": [
+        {
+         "key": 0,
+         "value": "take part in formal interviews"
+        },
+        {
+         "key": 1,
+         "value": "keep a record of animals they saw"
+        },
+        {
+         "key": 2,
+         "value": "get in contact when they saw a rare species"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi nhằm xác định nhóm yêu cầu các chủ vườn làm gì.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"garden owners\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"Our own \"},{\"text\":\"informal discussions\",\"bold\":true},{\"text\":\" with neighbours and friends\"},{\"text\":\" \",\"bold\":true},{\"text\":\"led us to believe that many garden owners had interesting experiences to relate regarding wild animal sightings\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \\\"\"},{\"text\":\"informal discussions\",\"bold\":true},{\"text\":\"\\\" chứ không phải là formal interview >> \"},{\"text\":\"Loại A\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"we decided to survey garden owners from different areas of the city\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" >> \\\"\"},{\"text\":\"ticking off species they had seen from a pro forma list – and adding the names of any rarer ones\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đánh dấu các loài mà họ đã thấy từ danh sách chiếu lệ - và thêm tên của bất kỳ loài nào hiếm hơn. >>\"},{\"text\":\" Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 129,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "4/129612-157134",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 157,
+            "text": "Our own informal discussions with neighbours and friends led us to believe that many garden owners had interesting experiences to relate regarding wild animal sightings so we decided to survey garden owners from different areas of the city. Just over 100 of them completed a survey once every two weeks for twelve months - ticking off species they had seen from a pro forma list - and adding the names of any rarer ones."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d0d6f3d8-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "The group made their observations in gardens",
+       "options": [
+        {
+         "key": 0,
+         "value": "which had a large number of animal species"
+        },
+        {
+         "key": 1,
+         "value": "which they considered to be representative"
+        },
+        {
+         "key": 2,
+         "value": "which had stable populations of rare animals"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định câu hỏi nhằm chỉ ra nhóm \"},{\"text\":\"thực hiện quan sát\",\"bold\":true},{\"text\":\" của họ trong các khu vườn \"},{\"text\":\"như thế nào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"observations in selected gardens\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"We chose smaller ones because they were the \"},{\"text\":\"most typical\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn con \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"typical (tiêu biểu)\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"representative (đại diện)\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> \"},{\"text\":\"Có thể là đáp án B \",\"bold\":true},{\"text\":\"\\n>> Tiếp tục nghe \\\"The whole point of the project was to \"},{\"text\":\"look at the norm not the exception\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Phải chọn những mẫu là chung nhất chứ không chọn những cái ngoại lệ  >> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 181,
+          "transcripts": [
+           {
+            "id": "5/157134-181878",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 181,
+            "text": "Meanwhile, we were doing our own observations in selected gardens throughout the city. We deliberately chose smaller ones because they were by far the most typical in the city. The whole point of the project was to look at the norm not the exception. Alongside this primary research on urban gardens, we were studying a lot of books about the decline of wild animals in the countryside and thinking of possible causes for this."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d0d6f3d9-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "The group did extensive reading on",
+       "options": [
+        {
+         "key": 0,
+         "value": "wildlife problems in rural areas"
+        },
+        {
+         "key": 1,
+         "value": "urban animal populations"
+        },
+        {
+         "key": 2,
+         "value": "current gardening practices"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi nhằm xác định nhóm đã \"},{\"text\":\"đọc nhiều \",\"bold\":true},{\"text\":\"về những loại nào\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi nghe bạn nghe \\\"Alongside this primary research on urban gardens, \"},{\"text\":\"we were studying a lot of books\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"about \"},{\"text\":\"the decline of wild animals in the countryside \",\"bold\":true},{\"text\":\"and thinking of possible causes for this.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"wild animals' problems in the countryside\",\"bold\":true},{\"text\":\" >> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 181,
+          "transcripts": [
+           {
+            "id": "5/157134-181878",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 181,
+            "text": "Meanwhile, we were doing our own observations in selected gardens throughout the city. We deliberately chose smaller ones because they were by far the most typical in the city. The whole point of the project was to look at the norm not the exception. Alongside this primary research on urban gardens, we were studying a lot of books about the decline of wild animals in the countryside and thinking of possible causes for this."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d0d6f3da-5948-11ef-930b-595176b94802",
+       "type": "SINGLE_ANSWER",
+       "question": "The speaker focuses on three animal species because",
+       "options": [
+        {
+         "key": 0,
+         "value": "a lot of data has been obtained about them."
+        },
+        {
+         "key": 1,
+         "value": "the group were most interested in them."
+        },
+        {
+         "key": 2,
+         "value": "they best indicated general trends."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi nhằm xác định \"},{\"text\":\"nguyên nhân\",\"bold\":true},{\"text\":\" người nói tập trung vào ba loài động vật \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"... \"},{\"text\":\"information about just three species – because\",\"bold\":true},{\"text\":\" ...\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"because we felt these \"},{\"text\":\"gave a good indication of the processes at work in rural and urban settings\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bởi vì những điều này cho một dấu hiệu tốt về các quy trình làm việc ở nông thôn và thành thị \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cho thấy được xu hướng chung (\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"good indication of the processes\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \",\"bold\":true},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"best indicate general trend\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\")>> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 200,
+          "endTimeInSeconds": 214,
+          "transcripts": [
+           {
+            "id": "7/200346-214487",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 214,
+            "text": "What we've decided to present today is information about just three species - because we felt these gave a good indication of the processes at work in rural and urban settings as a whole."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "d0d6f3db-5948-11ef-930b-595176b94802",
+     "questions": [
+      {
+       "uuid": "aCA3yeFc6B814toeB_W6L",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"tên động vật\",\"bold\":true},{\"text\":\" đầu tiên\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"The \"},{\"text\":\"first species\",\"bold\":true},{\"text\":\" to generate a lot of interesting information was \"},{\"text\":\"frogs\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loài đầu tiên tạo ra nhiều thông tin thú vị là ếch >> Từ cần điền là \\\"\"},{\"text\":\"frogs\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 217,
+          "endTimeInSeconds": 232,
+          "transcripts": [
+           {
+            "id": "8/217235-232428",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 232,
+            "text": "The first species to generate a lot of interesting information was frogs. And there was a clear pattern here - they proliferate where there is suitable water. Garden ponds are on the increase, rural ponds are disappearing, leading to massive migration to the towns."
+           }
+          ]
+         },
+         "value": "frog/frogs",
+         "blankId": "tfTlAsnEhq9JZTSNrT2fA"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ con \\\"hedgehog\\\" được an toàn khỏi cái gì ở thành phố\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"hedgehogs are also finding it easier to live in urban areas – this time because\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án sắp vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"because \"},{\"text\":\"their predators are not finding it quite so attractive to leave their rural environment\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bởi vì những kẻ thù của nó không thích phải rời khỏi môi trường nông thôn) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"predators\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 232,
+          "endTimeInSeconds": 252,
+          "transcripts": [
+           {
+            "id": "9/232428-252138",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 252,
+            "text": "Hedgehogs are also finding it easier to live in urban areas - this time because their predators are not finding it quite so attractive to leave their rural environment, so hedgehogs have a better survival rate in cities. We had lots of sightings, so all in all we had no difficulties with our efforts to count their numbers precisely."
+           }
+          ]
+         },
+         "value": "predators",
+         "blankId": "jT-4cN4ZlRGIkP7ioRxDG"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"verb\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"hành động\",\"bold\":true},{\"text\":\" nào đó có thể dễ dàng làm 1 cách chính xác \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"we had \"},{\"text\":\"no difficulties with our efforts to count their numbers precisely\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không gặp khó khăn với việc đếm chính xác số lượng của chúng. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"precisely\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"accurately\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> Từ cần điền là \\\"\"},{\"text\":\"count\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 232,
+          "endTimeInSeconds": 252,
+          "transcripts": [
+           {
+            "id": "9/232428-252138",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 252,
+            "text": "Hedgehogs are also finding it easier to live in urban areas - this time because their predators are not finding it quite so attractive to leave their rural environment, so hedgehogs have a better survival rate in cities. We had lots of sightings, so all in all we had no difficulties with our efforts to count their numbers precisely."
+           }
+          ]
+         },
+         "value": "count",
+         "blankId": "A1yLSKHfLlKc3gMCQgCxM"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ tên 1 loại\"},{\"text\":\" thức ăn\",\"bold\":true},{\"text\":\" nào đó rất nhiều, đa dạng cho con chim \\\"\"},{\"text\":\"song thrush\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"song thrush\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"there’s an \"},{\"text\":\"extensive range of seeds\",\"bold\":true},{\"text\":\" around, which is what they feed on.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"feed on\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \",\"bold\":true},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"eat\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"seeds\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 252,
+          "endTimeInSeconds": 271,
+          "transcripts": [
+           {
+            "id": "10/252138-271625",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 271,
+            "text": "Our final species is the finest of bird singers, the song thrush.On the decline in the countryside, they are experiencing a resurgence in urban gardens because these days gardeners are buying lots of different plants which means there's an extensive range of seeds around, which is what they feed on."
+           }
+          ]
+         },
+         "value": "seed/seeds",
+         "blankId": "o6G8TIw3Cc3HeB-1RBY56"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "tfTlAsnEhq9JZTSNrT2fA",
+         "key": 0
+        },
+        {
+         "id": "jT-4cN4ZlRGIkP7ioRxDG",
+         "key": 1
+        },
+        {
+         "id": "A1yLSKHfLlKc3gMCQgCxM",
+         "key": 2
+        },
+        {
+         "id": "o6G8TIw3Cc3HeB-1RBY56",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ta0EbcDv0LOax9pcWuvOU\",\"cellsWidth\":[140,263.013,267.013],\"children\":[{\"type\":\"tr\",\"id\":\"NPGCQ9O8uNpzk8h8V1dp3\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Animals\",\"bold\":true}]}]}],\"id\":\"bL4jVr-Ignv2d8L8zSwrw\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Reason for population increase in gardens\",\"bold\":true}]}]}],\"id\":\"iY-VPIha_jjZhWaA8v8vv\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Comments\",\"bold\":true}]}]}],\"id\":\"Ffnf8LBwP5oH4mHC3Lr_H\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"7pW-JzzoWqIqAMF90aImP\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"tfTlAsnEhq9JZTSNrT2fA\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"achNW8C0Cau4y-GjmB5aF\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Suitable stretches of water\"}]}]}],\"id\":\"Zq5BnUqtZXHwXSk-vjW_S\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Massive increase in urban population\"}]}]}],\"id\":\"ZsVof61JoATNmLR-Belau\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"0e7zCYuXornzuyHdo2d7i\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hedgehogs\"}]}]}],\"id\":\"Tmiie1UluHtICVFkrXtWb\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Safe from\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"jT-4cN4ZlRGIkP7ioRxDG\",\"text\":\"\"}]},{\"text\":\" when in cities\"}]}]}],\"id\":\"jGEsxZApXi_TpvM0JuU8d\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Easy to\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"A1yLSKHfLlKc3gMCQgCxM\",\"text\":\"\"}]},{\"text\":\" them accurately\"}]}]}],\"id\":\"0Q48oD10Mvp8Tq1tz1aWN\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"6o28vmWS9p2WBp594Rxzy\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Song thrushes\"}]}]}],\"id\":\"1VQZ47CamrCWjYh-iJXDX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- A variety of\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"o6G8TIw3Cc3HeB-1RBY56\",\"text\":\"\"}]},{\"text\":\" to eat\\n- More nesting places available\"}]}]}],\"id\":\"FIBaXgu7rYrbsh6qrK8O4\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Large survey starting soon\"}]}]}],\"id\":\"JLYfqHOM27dZ8o181xcf5\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":670.026,\"border\":true,\"hasRowHeading\":true,\"caption\":\"[{\\\"type\\\":\\\"p\\\",\\\"id\\\":\\\"ytECRGVVqHiuNTk2Ryh1J\\\",\\\"children\\\":[{\\\"text\\\":\\\"\\\"}]}]\"}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:35Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

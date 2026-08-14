@@ -1,0 +1,101 @@
+{
+  "_comments": {
+    "purpose": "Annotated skeleton for BBC 6 Minute English lessons in the IELTS Hourly Practice Tool. Files named with 'template' are ignored by convert_lessons.py and the app.",
+    "appTab": "Items appear under #/bbc when format is bbc-6min or category matches bbc-6-minute-english",
+    "fullSpec": "See specs/02-bbc-6min.md",
+    "dialogue": "Try original BBC transcript first (PDF). original mode = transcript EN as written + VI translation; paraphrase mode = fallback only when no full transcript. Full length: 1 EN + 1 VI per sentence. See specs/02-bbc-6min.md section 4.3"
+  },
+  "schema": 2,
+  "format": "bbc-6min",
+  "id": "bbc-gpt-211021-what-makes-us-laugh",
+  "type": "lesson",
+  "source": "chatgpt",
+  "category": "bbc-6-minute-english",
+  "topicNumber": 0,
+  "title": "What Makes Us Laugh?",
+  "titleVi": "Điều gì khiến chúng ta cười?",
+  "band": "7.0–8.0",
+  "dateTime": "2021-10-21T00:00",
+  "contentUpdatedAt": "2026-07-15T12:40:00-04:00",
+  "dialogueMode": "original",
+  "episode": {
+    "id": "ep-211021",
+    "date": "2021-10-21",
+    "title": "What Makes Us Laugh?",
+    "url": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2021/ep-211021",
+    "savedAt": "2026-07-01"
+  },
+  "links": {
+    "bbc": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2021/ep-211021",
+    "transcript": "http://downloads.bbc.co.uk/learningenglish/features/6min/211021_6min_english_what_makes_us_laugh.pdf",
+    "sounds": "https://www.bbc.co.uk/sounds",
+    "spotify": "https://open.spotify.com/search/BBC%206%20Minute%20English%20What%20Makes%20Us%20Laugh"
+  },
+  "summary": {
+    "en": [
+      "Laughter is one of the most universal human behaviours — yet scientists are only beginning to understand why we find things funny.",
+      "This episode explores the psychology and biology of humour, from stand-up comedy to neuroscience laboratories."
+    ],
+    "vi": [
+      "Tiếng cười là một trong những hành vi phổ quát nhất của con người — nhưng các nhà khoa học mới chỉ bắt đầu hiểu tại sao chúng ta thấy mọi thứ buồn cười.",
+      "Tập này khám phá tâm lý học và sinh học của sự hài hước, từ hài độc thoại đến phòng thí nghiệm khoa học thần kinh."
+    ]
+  },
+  "words": ["contagious", "inhibit", "incongruity", "spontaneous", "gelotology", "self-deprecating", "bond"],
+  "sections": [
+    {
+      "id": "vocab",
+      "title": "Vocabulary",
+      "level": 1,
+      "html": "<div class=\"vocab-card\"><div class=\"vocab-header\"><span class=\"vocab-word\">contagious</span><span class=\"vocab-ipa\">/kənˈteɪdʒəs/</span><span class=\"vocab-vi-meaning vi\">dễ lây lan</span></div><div class=\"vocab-row\"><span class=\"vocab-label\">Definition</span><div class=\"vocab-content\"><p class=\"en\">Spreading very quickly from one person to another.</p><p class=\"vi\">Lây lan rất nhanh từ người này sang người khác.</p></div></div><div class=\"vocab-row\"><span class=\"vocab-label\">Example</span><div class=\"vocab-content\"><p class=\"en\">Laughter is <strong>contagious</strong>.</p><p class=\"vi\">Tiếng cười rất <strong>dễ lây lan</strong>.</p></div></div><div class=\"vocab-row ielts-row\"><span class=\"vocab-label\">IELTS</span><div class=\"vocab-content\"><p class=\"en\">In IELTS Speaking Part 2: \"Her enthusiasm was <strong>contagious</strong>.\"</p><p class=\"vi\">Trong IELTS Speaking Part 2: \"Sự nhiệt tình của cô ấy rất <strong>dễ lan truyền</strong>.\"</p></div></div></div>"
+    },
+    {
+      "id": "dialogue",
+      "title": "Bilingual Dialogue",
+      "level": 1,
+      "html": "<div class=\"disclaimer\"><p class=\"en\">This dialogue follows the official BBC episode transcript with Vietnamese translation for study.</p><p class=\"vi\">Hội thoại này theo bản ghi chính thức của tập BBC, kèm bản dịch tiếng Việt phục vụ học tập.</p><p class=\"en\"><a class=\"ext-link\" href=\"http://downloads.bbc.co.uk/learningenglish/features/6min/211021_6min_english_what_makes_us_laugh.pdf\" target=\"_blank\" rel=\"noopener\">↗ View original transcript (PDF)</a></p><p class=\"vi\">↗ Xem bản ghi gốc (PDF)</p></div><div class=\"dialogue-turn\"><div class=\"speaker-avatar neil\">N</div><div class=\"dialogue-body\"><p class=\"speaker-name\">Presenter</p><p class=\"en\">Hello and welcome to 6 Minute English.</p><p class=\"vi\">Xin chào và chào mừng đến với 6 Minute English.</p></div></div>"
+    },
+    {
+      "id": "speaking-1",
+      "title": "Speaking Part 1",
+      "level": 2,
+      "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Speaking Part 1</span><span class=\"ielts-sub-title\">Sample question</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\">Question: Do you enjoy watching comedies?</div><p class=\"en\">Yes, I really enjoy them — there is something almost <strong>contagious</strong> about watching a great comedy with other people.</p><p class=\"vi\">Có, tôi rất thích — có điều gì đó gần như <strong>dễ lan truyền</strong> khi xem phim hài hay cùng người khác.</p><p class=\"en\">I love <strong>self-deprecating</strong> humour in particular because it feels more genuine than jokes that mock others.</p><p class=\"vi\">Tôi đặc biệt yêu thích sự hài hước <strong>tự chế giễu</strong> vì nó chân thực hơn những câu đùa chế nhạo người khác.</p><p class=\"en\">Watching something that makes me laugh <strong>spontaneously</strong> is one of my favourite ways to relax after a stressful week.</p><p class=\"vi\">Xem thứ gì đó khiến tôi cười <strong>tự phát</strong> là một trong những cách yêu thích để thư giãn sau tuần căng thẳng.</p></div></div>"
+    },
+    {
+      "id": "speaking-2",
+      "title": "Speaking Part 2",
+      "level": 2,
+      "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Speaking Part 2</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\">Cue card: Describe a funny moment.</div><p class=\"en\">Model answer paragraph.</p><p class=\"vi\">Đoạn trả lời mẫu.</p></div></div>"
+    },
+    {
+      "id": "speaking-3",
+      "title": "Speaking Part 3",
+      "level": 2,
+      "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-body\"><p class=\"en\">Linear answer: main idea → cause → example → result.</p><p class=\"vi\">Câu trả lời theo trình tự: ý chính → nguyên nhân → ví dụ → kết quả.</p></div></div>"
+    },
+    {
+      "id": "patterns",
+      "title": "Sentence Patterns",
+      "level": 2,
+      "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Sentence Patterns</span><span class=\"ielts-sub-title\">Band 7–8 structures from this episode</span></div><div class=\"ielts-sub-body\"><div class=\"pattern-block\"><p class=\"pattern-label\">Pattern 1 — Highlighting contrast with \"rather than\"</p><p class=\"en pattern-formula\">[Main clause] + rather than + [contrasting clause/phrase]</p><p class=\"en\">Most laughter arises from natural conversation <strong>rather than</strong> from jokes deliberately told to be funny.</p><p class=\"vi\">Hầu hết tiếng cười xuất phát từ cuộc trò chuyện tự nhiên <strong>hơn là</strong> từ những câu chuyện cười được kể cố ý.</p><p class=\"en\">Cities should invest in public spaces, <strong>rather than</strong> relying solely on entertainment industries.</p><p class=\"vi\">Các thành phố nên đầu tư vào không gian công cộng, <strong>hơn là</strong> chỉ dựa vào các ngành giải trí.</p></div><div class=\"pattern-block\"><p class=\"pattern-label\">Pattern 2 — Explaining mechanism with \"in that\"</p><p class=\"en pattern-formula\">[Main claim] + in that + [specific explanation]</p><p class=\"en\">Laughter is unique <strong>in that</strong> it serves both a biological and a social function.</p><p class=\"vi\">Tiếng cười là độc đáo <strong>ở chỗ</strong> nó phục vụ cả chức năng sinh học và xã hội.</p><p class=\"en\">Remote working differs from office work <strong>in that</strong> it removes spontaneous social interactions.</p><p class=\"vi\">Làm việc từ xa khác với làm việc tại văn phòng <strong>ở chỗ</strong> nó loại bỏ những tương tác xã hội tự phát.</p></div></div></div>"
+    },
+    {
+      "id": "writing",
+      "title": "Writing Task 2",
+      "level": 2,
+      "html": "<div class=\"question-block\">Some people believe … Discuss both views and give your own opinion.</div><p class=\"en\">Thesis sentence.</p><p class=\"vi\">Câu luận điểm.</p><p class=\"en\">Body paragraph mini-example.</p><p class=\"vi\">Đoạn thân bài mẫu.</p>"
+    },
+    {
+      "id": "grammar",
+      "title": "Grammar Band 7–8",
+      "level": 1,
+      "html": "<div class=\"grammar-card\"><div class=\"grammar-card-header\"><span class=\"grammar-num\">1</span><span class=\"grammar-card-title\">Hedging with may, might, could</span></div><div class=\"grammar-row\"><span class=\"grammar-row-label\">Structure</span><div class=\"grammar-row-content structure-formula\">Subject + may/might/could + base verb</div></div><div class=\"grammar-row\"><span class=\"grammar-row-label\">Example</span><div class=\"grammar-row-content\"><p class=\"en\">Laughter may help people bond.</p><p class=\"vi\">Tiếng cười có thể giúp mọi người gắn kết.</p></div></div><div class=\"grammar-row error-row\"><span class=\"grammar-row-label\">Incorrect</span><div class=\"grammar-row-content\"><p class=\"en\">Laughter always help people bond.</p></div></div><div class=\"grammar-row\"><span class=\"grammar-row-label\">Corrected</span><div class=\"grammar-row-content\"><p class=\"en\">Laughter always helps people bond.</p><p class=\"vi\">Luôn cần chia động từ số ít với laughter.</p></div></div></div>"
+    },
+    {
+      "id": "sources",
+      "title": "Sources & Disclaimer",
+      "level": 1,
+      "html": "<p class=\"en\">Official sources: BBC Learning English episode page. This lesson uses a paraphrased study dialogue for personal IELTS learning only.</p><p class=\"vi\">Nguồn chính thức: trang BBC Learning English. Bài học này dùng hội thoại diễn giải cho mục đích học IELTS cá nhân.</p>"
+    }
+  ]
+}

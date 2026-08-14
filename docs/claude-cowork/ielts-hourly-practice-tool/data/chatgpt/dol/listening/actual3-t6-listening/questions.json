@@ -1,0 +1,1959 @@
+{
+ "schema": 1,
+ "id": "actual3-t6-listening",
+ "title": "Actual Test 3 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 6,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-3-test-6-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-3-test-6-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "House Rental",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "afed4681-774e-11ec-923b-ed2e9c1b97b5",
+     "questions": [
+      {
+       "uuid": "mPVuyQFQNJ9uPD6xw6_RW",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"cơ sở vật chất có ở đó\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đầu tiên nghe client hỏi \"},{\"text\":\"có phòng gym hay không\",\"bold\":true},{\"text\":\" và agent đã confirm là \\\"\"},{\"text\":\"no\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó nghe \\\"\"},{\"text\":\"however the house has a large swimming pool\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có bể bơi lớn \\n=> Đáp án: swimming pool \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 176,
+          "endTimeInSeconds": 186,
+          "transcripts": [
+           {
+            "id": "9/176620-186000",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 186,
+            "text": " No, the house doesn’t have a gym, however the house has a large swimming pool, which will be great for exercise and really refreshing during summer.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "swimming pool",
+         "blankId": "zYM-fBHJoXeR8zlC0kROv"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"phòng có ở tầng dưới\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên speaker nói ở\"},{\"text\":\" tầng trên có bedrooms và living room\",\"bold\":true},{\"text\":\" và \\\"and \"},{\"text\":\"downstairs \",\"bold\":true},{\"text\":\"at ground floor is the \"},{\"text\":\"dining room\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tầng dưới có dining room\\n=> Đáp án: dining room \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 204,
+          "transcripts": [
+           {
+            "id": "10/186689-192037",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 192,
+            "text": " Oh wow, that sounds lovely. What is the general layout of the house?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "11/192037-204651",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 204,
+            "text": " This house is rather unusual as the living room is located upstairs with   the bedrooms, and downstairs at ground ﬂoor is the dining room, which has a lovely view out over the swimming pool.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "dining room",
+         "blankId": "QDokfPCjxDST6YU0gVh8J"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"nơi đỗ xe\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\"Does the house come with a car \"},{\"text\":\"parking space\",\"bold\":true},{\"text\":\" on the street?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe người agent trả lời \"},{\"text\":\"không cần chỗ đỗ xe trên đường\",\"bold\":true},{\"text\":\" vì \"},{\"text\":\"\\\"The house comes with a big garage\",\"bold\":true},{\"text\":\" where you can park your cars\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Căn nhà \"},{\"text\":\"có big garage\",\"bold\":true},{\"text\":\" để đỗ xe\"},{\"text\":\" \\n=> Đáp án: garage \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 219,
+          "transcripts": [
+           {
+            "id": "12/204651-208280",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 208,
+            "text": " Does the house come with a car parking space on the street?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "13/208280-216697",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 216,
+            "text": "Oh, there’s no need for that. The house comes with a big Q3 garage  where you can park your cars and there’s also a lot of room for storage.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "14/216697-219605",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 219,
+            "text": "It’s attached to the house through a door in the kitchen.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "garage",
+         "blankId": "Q_lHHRaQ0d1Hif5LuenO7"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"nơi shopping\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy được agent nói \"},{\"text\":\"không cần đi xe khi shopping\",\"bold\":true},{\"text\":\" bởi \\\" as the\"},{\"text\":\" local supermarket is just down the street\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Local supermarket ở ngay cuối phố \\n=> Đáp án: local supermarket\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 225,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "16/225762-234492",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 234,
+            "text": " Oh yes, absolutely. You actually don’t even need to take your car to do the shopping as the local supermarket is just down the street.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "17/234492-236978",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 236,
+            "text": "You can walk the distance easily.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "local supermarket",
+         "blankId": "QVy5vqwS1sZ7g7lOQ3mBM"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" nơi vui chơi cho trẻ em\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"Is there \"},{\"text\":\"anywhere \",\"bold\":true},{\"text\":\"near to the house \"},{\"text\":\"where I can take my children to play\",\"bold\":true},{\"text\":\"?' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Agent nói \"},{\"text\":\"không có playground\",\"bold\":true},{\"text\":\" nhưng \\\" but there is \"},{\"text\":\"a park \",\"bold\":true},{\"text\":\"near the supermarket that would be\"},{\"text\":\" great for taking your children for a walk.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có công viên\",\"bold\":true},{\"text\":\" gần supermarket để đưa trẻ em đi dạo\"},{\"text\":\" \\n=> Đáp án: park \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "18/236978-244140",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 244,
+            "text": "\tReally? How convenient! Is there anywhere near to the house where I can take my children to play?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "19/244140-252762",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 252,
+            "text": "Unfortunately there aren’t any playgrounds nearby, but there is a park near the supermarket that would be great for taking your children for a walk. ",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "20/252762-256737",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 256,
+            "text": "It would also be a great place for you to meet your neighbours.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "park",
+         "blankId": "3N_qmp71rpKX8K3kYcoiL"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"loại trường học ở community\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe được agent nói luôn \\\"T\"},{\"text\":\"he community has its own primary school \",\"bold\":true},{\"text\":\"and there is a \"},{\"text\":\"secondary school in the neighbouring community\",\"bold\":true},{\"text\":\",\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Community có primary school\",\"bold\":true},{\"text\":\" và có \"},{\"text\":\"secondary school ở community lân cận \\n=> Loại secondary school \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Đáp án: primary school \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 264,
+          "endTimeInSeconds": 277,
+          "transcripts": [
+           {
+            "id": "23/264355-277396",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 277,
+            "text": " Yes, absolutely. The community has its own primary school and there is a secondary school in the neighbouring community, so there are plenty of resources nearby for your children’s education.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "primary school",
+         "blankId": "NP2310DVavtVNv-543Cyf"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"tiền thuê bao gồm phí maintenance của cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\" Does that figure include \"},{\"text\":\"maintenance fees and bills\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"but \",\"bold\":true},{\"text\":\"it does\"},{\"text\":\" include any maintenance fees for the garden\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có bao gồm maintenance fees cho garden. \\n=> Đáp án: garden \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 326,
+          "endTimeInSeconds": 336,
+          "transcripts": [
+           {
+            "id": "26/326467-330370",
+            "startTimeInSeconds": 326,
+            "endTimeInSeconds": 330,
+            "text": " Does that figure include maintenance fees and bills?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "27/330370-336535",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 336,
+            "text": " The bills are not included in that ﬁgure, but it does include any maintenance fees for the garden.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "garden",
+         "blankId": "DVKf1SWw1Vr6ThK482jQj"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"ngày căn nhà sẽ available\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe\"},{\"text\":\" client nói\",\"bold\":true},{\"text\":\" họ muốn chuyển đến \"},{\"text\":\"vào 20th April\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên người agent trả lời \"},{\"text\":\"người chủ cũ sẽ trả nhà vào ngày 20\",\"bold\":true},{\"text\":\" và họ cần dọn dẹp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Nên \\\"This would make \"},{\"text\":\"the house officially available on the 23rd April.\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Căn nhà sẽ\"},{\"text\":\" chính thức available vào 23rd April\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án: 23rd April \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 336,
+          "endTimeInSeconds": 354,
+          "transcripts": [
+           {
+            "id": "28/336535-343126",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 343,
+            "text": "That sounds like a very reasonable price. We were hoping to move in on the 20th of April. ",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "29/343126-345567",
+            "startTimeInSeconds": 343,
+            "endTimeInSeconds": 345,
+            "text": "Will the house be vacant for that date?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "30/345567-354883",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 354,
+            "text": " The current tenants of the property are due to leave on the 20th, but the cleaners will need a few days to make sure that the house is clean and tidy.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "23 April/23rd April/April 23/April 23rd",
+         "blankId": "MpyJi2p3qnXGZh-LBHidB"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thời gian họ hẹn gặp\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi client đề xuất 1 giờ, agent bảo \\\"I'm afraid that I have a meeting at 12:30 [...] I have \"},{\"text\":\"available\",\"bold\":true},{\"text\":\" appointments\"},{\"text\":\" at 10.15 and 3.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Agent \"},{\"text\":\"có cuộc họp vào 12:30\",\"bold\":true},{\"text\":\" nên ta \"},{\"text\":\"loại 1 giờ  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Có \"},{\"text\":\"lịch rảnh vào 10:15\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"3 giờ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó client trả lời  \\\"OK, in that case can \"},{\"text\":\"we schedule the appointment for 10.15?\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đặt lịch hẹn vào 10:15 \\n=> Đáp án:  10:15 am \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 377,
+          "endTimeInSeconds": 396,
+          "transcripts": [
+           {
+            "id": "36/377860-383248",
+            "startTimeInSeconds": 377,
+            "endTimeInSeconds": 383,
+            "text": "Yes, I’m sure I could come on my lunch break. Would 1 o’clock be OK?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "37/383248-392159",
+            "startTimeInSeconds": 383,
+            "endTimeInSeconds": 392,
+            "text": " I’m afraid that I have a meeting at 12.30, so I won’t be able to make that time. I have available appointments at 10.15 and 3.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "38/392159-396589",
+            "startTimeInSeconds": 392,
+            "endTimeInSeconds": 396,
+            "text": "OK, in that case can we schedule the appointment for 10.15?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           }
+          ]
+         },
+         "value": "10.15/10:15/10,15/10 15/1015",
+         "blankId": "c9dfI7DBoNBk52LOKTxX2"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"địa chỉ của căn nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"What is the \"},{\"text\":\"address\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó nghe agent trả lời về postcode và \"},{\"text\":\"\\\"the house is number 8 on Spring Street\",\"bold\":true},{\"text\":\". It’s the second right off of Bath Street.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Căn nhà ở số\"},{\"text\":\" 8 Spring Street\",\"bold\":true},{\"text\":\", chọn ngã rẽ phải thứ 2 từ Bath Street\"},{\"text\":\"\\n=> Đáp án: Spring Street \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Chú ý \"},{\"text\":\"tránh bị nhầm với Bath Street\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 406,
+          "endTimeInSeconds": 420,
+          "transcripts": [
+           {
+            "id": "41/406331-408992",
+            "startTimeInSeconds": 406,
+            "endTimeInSeconds": 408,
+            "text": "Sure. What is the address?",
+            "character": {
+             "id": "rMqslm6hds1PlK0k38bDI",
+             "name": "CLIENT"
+            }
+           },
+           {
+            "id": "42/408992-417453",
+            "startTimeInSeconds": 408,
+            "endTimeInSeconds": 417,
+            "text": "The postcode is GA58ER and the house is number 8 on Spring Street. ",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           },
+           {
+            "id": "43/417453-420921",
+            "startTimeInSeconds": 417,
+            "endTimeInSeconds": 420,
+            "text": "It’s the second right off of Bath Street.",
+            "character": {
+             "id": "6Zoi4efejfCJ0jjkv5r-7",
+             "name": "AGENT"
+            }
+           }
+          ]
+         },
+         "value": "Spring Street",
+         "blankId": "EUsb_ZO-SyoYcUB1iM_Mn"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "zYM-fBHJoXeR8zlC0kROv",
+         "key": 0
+        },
+        {
+         "id": "QDokfPCjxDST6YU0gVh8J",
+         "key": 1
+        },
+        {
+         "id": "Q_lHHRaQ0d1Hif5LuenO7",
+         "key": 2
+        },
+        {
+         "id": "QVy5vqwS1sZ7g7lOQ3mBM",
+         "key": 3
+        },
+        {
+         "id": "3N_qmp71rpKX8K3kYcoiL",
+         "key": 4
+        },
+        {
+         "id": "NP2310DVavtVNv-543Cyf",
+         "key": 5
+        },
+        {
+         "id": "DVKf1SWw1Vr6ThK482jQj",
+         "key": 6
+        },
+        {
+         "id": "MpyJi2p3qnXGZh-LBHidB",
+         "key": 7
+        },
+        {
+         "id": "c9dfI7DBoNBk52LOKTxX2",
+         "key": 8
+        },
+        {
+         "id": "EUsb_ZO-SyoYcUB1iM_Mn",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"LmR7tIR8lCRILimoL8gx2\",\"cellsWidth\":[234,300],\"children\":[{\"type\":\"tr\",\"id\":\"2rxu9yusAgZUTtI74yfvp\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\\n\",\"italic\":true},{\"text\":\"Name:\",\"bold\":true}]}]}],\"id\":\"lHLcFk-2Mz5ln90oxq6Ox\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\\n\",\"italic\":true},{\"italic\":true,\"text\":\"Mary Collins\",\"underline\":true}]}]}],\"id\":\"xujxdty2ZSQ4ppMfU1iRN\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"NsniujbY74NBaU3dVRTCr\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Factility available:\"}]}]}],\"id\":\"Mr2_QKDbG1m1oIHmbL4yx\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zYM-fBHJoXeR8zlC0kROv\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"TM5-4ViZCZNtPri1W0Mu1\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"MSpgxBU2cFPfYQ8CuKHS-\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"General layout:\"}]}]}],\"id\":\"byY1iW1Kf-BherT6uRyot\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"upstairs: living room\\n               bedrooms \\ndownstairs:\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"QDokfPCjxDST6YU0gVh8J\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"YRF-cqTm8wDYg_hhzLFmq\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"i9GXvAu73fKsW6TKeeq20\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Car park:\"}]}]}],\"id\":\"RkxpfePMN8JpOod0f83d_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"availability of a large\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Q_lHHRaQ0d1Hif5LuenO7\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"91rRmhVcycvGpf-hrWeDf\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"-8ud3wMMJCLVnKK77Il4m\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Shopping:\"}]}]}],\"id\":\"9BLIkgigs033pCKD840GJ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"at the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"QVy5vqwS1sZ7g7lOQ3mBM\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"4Smu38V9BTZiXGVt_yqdr\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"2utXLS3xzFqajCMmB6avw\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Place for children playing:\"}]}]}],\"id\":\"an4fpld7CU0JaTjWZulkD\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"3N_qmp71rpKX8K3kYcoiL\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"lf13PQm5rTPlBcTO-5idm\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"QZclf8Xg4rvuMO-Ab0Tk_\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Education resources:\"}]}]}],\"id\":\"trmk2GShaDlenkhiXSQiq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"NP2310DVavtVNv-543Cyf\",\"text\":\"\"}]},{\"text\":\"\\t   in the community\"}]}]}],\"id\":\"o8NRHRIv915QgSGiGVICy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"ND7P5sUY5bV_THnPKwdmT\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rent:\"}]}]}],\"id\":\"eI6jy1oS80qV9ELdzpbZi\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$980 a month\\n(including the maintenance fees of the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"DVKf1SWw1Vr6ThK482jQj\",\"text\":\"\"}]},{\"text\":\")\"}]}]}],\"id\":\"3dQeJEHnpRopuNc5g423g\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hrTKUI4dBahhghPWSejUE\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date of house available:\"}]}]}],\"id\":\"mVs4qB5a_RkVVPEwBgPk0\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"MpyJi2p3qnXGZh-LBHidB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"b-bHHMQQx-Wdx3NgpXH6I\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"dd4kWfFVyfBw2JfGRkpV9\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Viewing arrangement (time):\"}]}]}],\"id\":\"Zlhgniav8mBpJsOZ73DI_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"meet at \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"c9dfI7DBoNBk52LOKTxX2\",\"text\":\"\"}]},{\"text\":\"a.m.\"}]}]}],\"id\":\"xMqvkUTv_Kp02jYdr7M0V\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"vw02DHOAHFgXif-8UC7w-\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Postcode\"}]}]}],\"id\":\"HMbMIb7Ss7FIICopmWUM4\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"GA58ER\"}]}]}],\"id\":\"ullV48ozL3ENrhg1Tadzq\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"0llXP-CoEe4WuOdVsVAFd\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address:\"}]}]}],\"id\":\"FIatpDEX2pqGABj8vnz-q\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"8\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"EUsb_ZO-SyoYcUB1iM_Mn\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"r8-lp--yjJEhMin3Pm_eV\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":534,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]",
+       "question": "HOUSE RENTAL"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Australian Wild Zoo",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "d74217c9-774e-11ec-8b42-85a415d10412",
+     "questions": [
+      {
+       "uuid": "d74217ca-774e-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "What’s the new improvement about the zoo this time?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The zoo has built a new dog-walking area. "
+        },
+        {
+         "key": 1,
+         "value": "The zoo has brought a new batch of animals"
+        },
+        {
+         "key": 2,
+         "value": "The zoo has expanded its exhibition area."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \",\"marks\":[]},{\"text\":\"những cải tiến mới của zoo lần này\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe \\\"During our \"},{\"text\":\"previous renovation \",\"bold\":true},{\"text\":\"we \"},{\"text\":\"expanded the exhibition centre.\",\"bold\":true},{\"text\":\"..\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc \"},{\"text\":\"mở rộng zoo\",\"bold\":true},{\"text\":\" là của \"},{\"text\":\"lần\",\"bold\":true},{\"text\":\" \"},{\"text\":\"trước \\n=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"so we felt that \"},{\"text\":\"this time \",\"bold\":true},{\"text\":\"the zoo would benefit most from introducing\"},{\"text\":\" a new batch of animals,\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Lần này sở thú sẽ\",\"bold\":true},{\"text\":\" được lợi từ việc \"},{\"text\":\"giới thiệu batch of animals mới \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 93,
+          "endTimeInSeconds": 112,
+          "transcripts": [
+           {
+            "id": "5/93483-112605",
+            "startTimeInSeconds": 93,
+            "endTimeInSeconds": 112,
+            "text": "During our previous renovation we expanded the exhibition centre and so we felt that this time the zoo would benefit most from introducing a new batch of animals, so visitors can now see a whole range of new additions at the Australian Wild Zoo, including lions and bears."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d74217cb-774e-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the change for the new regulation enacted in June?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The zoo is not open during the weekdays."
+        },
+        {
+         "key": 1,
+         "value": "Visitors are allowed to feed the animals at night"
+        },
+        {
+         "key": 2,
+         "value": "Visitors are allowed to see the animals until the late night"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"quy định được thực thi vào tháng 6 có gì thay đổi\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nói \\\"now \"},{\"text\":\"allow visitors\",\"bold\":true},{\"text\":\" access to the zoo \"},{\"text\":\"during weekdays \",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cho phép\",\"bold\":true},{\"text\":\" khách tham quan\"},{\"text\":\" tới vào cuối tuần\\n=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Speaker nói tiếp \\\"guests may also \"},{\"text\":\"now visit \",\"bold\":true},{\"text\":\"the animals l\"},{\"text\":\"ate at night\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách có thể đến \"},{\"text\":\"thăm vào tối muộn \\n=> Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker cũng nói thêm là có nhiều khách \\\"\"},{\"text\":\"feeding the animals \",\"bold\":true},{\"text\":\"during these \"},{\"text\":\"late night viewing times\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nên họ phải \"},{\"text\":\"cấm đồ ăn ở khu vực này \\n=> Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 112,
+          "endTimeInSeconds": 134,
+          "transcripts": [
+           {
+            "id": "6/112595-122149",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 122,
+            "text": "With this huge improvement to our facilities, we also found it necessary to change our regulations, which we put into action in June."
+           },
+           {
+            "id": "7/122149-134121",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 134,
+            "text": "We now allow visitors access to the zoo during weekdays and, as some of our newly added animals are nocturnal, guests may also now visit the animals late at night."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d74217cc-774e-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "While visiting the kangaroo, which behaviour is forbidden?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Photo-taking"
+        },
+        {
+         "key": 1,
+         "value": "Shouting"
+        },
+        {
+         "key": 2,
+         "value": "Feeding"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \",\"marks\":[]},{\"text\":\"hành động nào bị cấm khi xem kangaroo\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nhắc đến \"},{\"text\":\"native kangaroo\",\"bold\":true},{\"text\":\", speaker có nói thêm là \\\"visitors \"},{\"text\":\"can have their photo taken \",\"bold\":true},{\"text\":\"with him \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Được phép chụp ảnh\\n=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy \\\"\"},{\"text\":\"however \",\"bold\":true},{\"text\":\"some\"},{\"text\":\" guests started feeding\",\"bold\":true},{\"text\":\" him \"},{\"text\":\"hamburgers \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"chips \",\"bold\":true},{\"text\":\"so we were\"},{\"text\":\" forced to forbid visitors from feeding him\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách cho ăn hamburgers và chips \"},{\"text\":\"nên bắt buộc cấm cho ăn\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker cũng nói thêm nó là calm animal nên sẽ \"},{\"text\":\"không bị disturbed \",\"bold\":true},{\"text\":\"by the noises and \"},{\"text\":\"shouting \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 165,
+          "endTimeInSeconds": 181,
+          "transcripts": [
+           {
+            "id": "11/165407-181942",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 181,
+            "text": "At first, visitors were also allowed to feed Frisbee items that we provided, such as carrots and leaves,  however some guests started feeding him hamburgers and chips so we were forced to forbid visitors from feeding him."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d74217cd-774e-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "Why is the pye-dog zone temporarily closed?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Because the fence is broken."
+        },
+        {
+         "key": 1,
+         "value": "Because the pye-dogs are in hibernation"
+        },
+        {
+         "key": 2,
+         "value": "Because the pye-dog zone is under construction."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem vì \",\"marks\":[]},{\"text\":\"pye-dog zone bị đóng cửa tạm thời\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe \\\"The pye-dog zone has been \"},{\"text\":\"permanently closed\",\"bold\":true},{\"text\":\" [...] to allow dogs to \"},{\"text\":\"hibernate \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án B vì không phải đóng cửa tạm thời mà là dài hạn (permanently) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe được \\\"however unfortunately we have been\"},{\"text\":\" forced to close it temporarily\",\"bold\":true},{\"text\":\" as the result of a \"},{\"text\":\"broken fence\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Phải đóng cửa tạm thời bởi broken fence \\n=> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 193,
+          "endTimeInSeconds": 216,
+          "transcripts": [
+           {
+            "id": "13/193774-203544",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 203,
+            "text": "The pye-dog zone has been permanently closed throughout the winter period to allow the dogs to hibernate as they would in their natural habitat."
+           },
+           {
+            "id": "14/203544-216827",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 216,
+            "text": "We were very excited to be reopening the zone, however unfortunately we have been forced to close it temporarily as the result of a broken fence, which will take about one week to fix."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "d74217ce-774e-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "Where can the visitors buy the discounted ticket?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Gift shop "
+        },
+        {
+         "key": 1,
+         "value": "Photo shop"
+        },
+        {
+         "key": 2,
+         "value": "Reception desk"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe được speaker nói sẽ \\\"offer a \"},{\"text\":\"discounted price\",\"bold\":true},{\"text\":\" on our \"},{\"text\":\"tickets\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe \\\" If you ask at the \"},{\"text\":\"reception desk\",\"bold\":true},{\"text\":\", they will happily \"},{\"text\":\"direct you to the photo shop where you can purchase the ticket\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tới hỏi reception desk sẽ chỉ cách \"},{\"text\":\"đến photo shop nơi có thể mua được vé \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Có nhiều bạn nghe tới \"},{\"text\":\"reception desk\",\"bold\":true},{\"text\":\" sẽ \"},{\"text\":\"nhầm đây là đáp án \",\"bold\":true},{\"text\":\"nhưng đây chỉ là \"},{\"text\":\"nơi chỉ đường bạn đến photo shop \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 226,
+          "endTimeInSeconds": 243,
+          "transcripts": [
+           {
+            "id": "16/226159-236553",
+            "startTimeInSeconds": 226,
+            "endTimeInSeconds": 236,
+            "text": "We understand that this temporary closure may disappoint our visitors, and so we have decided to offer a discounted price on our tickets for the next week."
+           },
+           {
+            "id": "17/236553-243407",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 243,
+            "text": "If you ask at the reception desk, they will happily direct you to the photo shop where you can purchase the ticket."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter,"
+         },
+         {
+          "text": " A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "d74217cf-774e-11ec-8b42-85a415d10412",
+     "questions": [
+      {
+       "uuid": "CVYdJDVPm3Rhb0l_MHBnT",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/441152a1-8545-4008-aec0-8350cef037e2.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/441152a1-8545-4008-aec0-8350cef037e2.png",
+        "name": "AT3_L6_P2_the Australian Wild Zoo_NoOpt.png",
+        "uploadedDate": "2021-11-01T05:29:04.452+0000",
+        "size": 33143,
+        "width": 376,
+        "height": 320
+       },
+       "correctOptions": [
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên mình nghe được speaker nói luôn \\\"Out to the \"},{\"text\":\"east\",\"bold\":true},{\"text\":\", just\"},{\"text\":\" across the grass\",\"bold\":true},{\"text\":\", there is the \"},{\"text\":\"bird hide \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phía đông , \"},{\"text\":\"qua bãi cỏ là bird hide\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án đúng là G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 301,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "21/301248-310219",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 310,
+            "text": "Out to the east, just across the grass, there is the bird hide where we have over one hundred species of birds for you to watch."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp \\\"And up the path to the \"},{\"text\":\"north\",\"bold\":true},{\"text\":\", if you look\"},{\"text\":\" in front of \",\"bold\":true},{\"text\":\"you now, there is the\"},{\"text\":\" pye-dog zone\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Con đường dẫn đến \"},{\"text\":\"phía bắc\",\"bold\":true},{\"text\":\", nếu \"},{\"text\":\"nhìn thẳng\",\"bold\":true},{\"text\":\" sẽ \"},{\"text\":\"thấy pye-dog zone \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 320,
+          "endTimeInSeconds": 327,
+          "transcripts": [
+           {
+            "id": "24/320355-327140",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 327,
+            "text": "And up the path to the north, if you look in front of you now, there is the pye-dog zone. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\" I suggest that you all visit the\"},{\"text\":\" rest area\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe thấy \\\"It is just at the \"},{\"text\":\"northwest corner \",\"bold\":true},{\"text\":\"of the zoo.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Ở góc tây bắc\",\"bold\":true},{\"text\":\" của sở thú \"},{\"text\":\"\\n=> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 344,
+          "endTimeInSeconds": 355,
+          "transcripts": [
+           {
+            "id": "28/344042-352555",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 352,
+            "text": "And after that, I suggest that you all visit the rest area for some cold drinks and snacks as it is very hot outside."
+           },
+           {
+            "id": "29/352555-355640",
+            "startTimeInSeconds": 352,
+            "endTimeInSeconds": 355,
+            "text": "It is just at the northwest corner of the zoo."
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói tiếp \\\"And around to the \"},{\"text\":\"west\",\"bold\":true},{\"text\":\", for those of you who want to visit \"},{\"text\":\"Frisbee, our native kangaroo\",\"bold\":true},{\"text\":\", he is in the \"},{\"text\":\"circular shaped hut\",\"bold\":true},{\"text\":\" just up the path to the \"},{\"text\":\"left\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phía tây, cho những ai muốn đến thăm \"},{\"text\":\"native kangaroo\",\"bold\":true},{\"text\":\" thì nó \"},{\"text\":\"nằm trong một khu vực có hình tròn\",\"bold\":true},{\"text\":\" phía \"},{\"text\":\"bên trái con đường \\n=> Đáp án đúng là F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 370,
+          "endTimeInSeconds": 380,
+          "transcripts": [
+           {
+            "id": "32/370480-380663",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 380,
+            "text": "nd around to the west, for those of you who want to visit Frisbee, our native kangaroo, he is in the circular shaped hut just up the path to the left."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"you can purchase your discounted tickets at the \"},{\"text\":\"photo shop\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo speaker nói \\\"The \"},{\"text\":\"photo shop is located at the southwest corner\",\"bold\":true},{\"text\":\" of the zoo.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nằm ở \"},{\"text\":\"góc phía tây nam\",\"bold\":true},{\"text\":\" của sở thú \"},{\"text\":\"\\n=> Đáp án là D\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 383,
+          "endTimeInSeconds": 395,
+          "transcripts": [
+           {
+            "id": "34/383239-395819",
+            "startTimeInSeconds": 383,
+            "endTimeInSeconds": 395,
+            "text": "Now, as I mentioned before, you can purchase your discounted tickets at the photo shop and this is also where you will come to collect any photos you have had taken at the zoo during your visit."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "XYV5E1pHX20KunV5K4mOd",
+         "x": 32,
+         "y": 26
+        },
+        {
+         "text": "B",
+         "id": "9SzUOeVWiYkYW4oOsGiaJ",
+         "x": 193,
+         "y": 38
+        },
+        {
+         "text": "C",
+         "id": "_I78hvo75mVxcZlpyTOaP",
+         "x": 20,
+         "y": 155
+        },
+        {
+         "text": "D",
+         "id": "3ucWbaKmw0GsNjrubsRMA",
+         "x": 30,
+         "y": 289
+        },
+        {
+         "text": "E",
+         "id": "advQeXoCn7iJi-QEWm4EQ",
+         "x": 161,
+         "y": 283
+        },
+        {
+         "text": "F",
+         "id": "2D9Vn81JX7b1OPrEUNTc5",
+         "x": 111,
+         "y": 92
+        },
+        {
+         "text": "G",
+         "id": "3nA9PuQk6LypWGdmrXM9J",
+         "x": 339,
+         "y": 270
+        },
+        {
+         "text": "H",
+         "id": "P7jbrz-qlM36-Hb9UbXqs",
+         "x": 334,
+         "y": 29
+        }
+       ],
+       "questions": [
+        "Bird hide",
+        "Pye-dog zone",
+        "Rest area",
+        "Kangaroo visiting site",
+        "Photo shop"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Label the map below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A-H.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A-H.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Summer Course",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "23095ac0-774f-11ec-8b42-85a415d10412",
+     "questions": [
+      {
+       "uuid": "23095ac1-774f-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "The course has improved the environment since",
+       "options": [
+        {
+         "key": 0,
+         "value": "it was regulated by law."
+        },
+        {
+         "key": 1,
+         "value": "more students were involved."
+        },
+        {
+         "key": 2,
+         "value": "more species were brought from other places"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"the course bắt đầu cải thiên environment từ khi nào\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Has the \"},{\"text\":\"course \",\"bold\":true},{\"text\":\"been effective in\"},{\"text\":\" improving the environment\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"Since we were regulated by law\",\"bold\":true},{\"text\":\" last month, we are now able to \"},{\"text\":\"hugely enhance our efforts\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau khi được điều chỉnh giờ đã có thể tăng cường effort\"},{\"text\":\" \\n=> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker có nhắc đến \\\"\"},{\"text\":\"more tree species\\\"\",\"bold\":true},{\"text\":\" tuy nhiên đây chỉ là \"},{\"text\":\"goal chứ không phải improvement \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Còn \"},{\"text\":\"\\\"more students involved\\\"\",\"bold\":true},{\"text\":\" cũng được nhắc đến nhưng đây chỉ là\"},{\"text\":\" cách để họ thực hiện được điều này \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 76,
+          "endTimeInSeconds": 100,
+          "transcripts": [
+           {
+            "id": "5/76879-79803",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 79,
+            "text": "Has the course been effective in improving the environment?",
+            "character": {
+             "id": "aDYk2mBZhK6I_WqKcubCu",
+             "name": "JONES"
+            }
+           },
+           {
+            "id": "6/79803-84303",
+            "startTimeInSeconds": 79,
+            "endTimeInSeconds": 84,
+            "text": " Yes, absolutely. We have seen great results. ",
+            "character": {
+             "id": "dlbGhsZn_LsuX5dj9yxuF",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "7/84303-93694",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 93,
+            "text": "Last year we planted a small field of trees and we have been measuring their oxygen outputs to see the benefits that they have provided to the environment.",
+            "character": {
+             "id": "dlbGhsZn_LsuX5dj9yxuF",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "8/93694-100000",
+            "startTimeInSeconds": 93,
+            "endTimeInSeconds": 100,
+            "text": "Since we were regulated by law last month, we are now able to hugely enhance our efforts. ",
+            "character": {
+             "id": "dlbGhsZn_LsuX5dj9yxuF",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "23095ac2-774f-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the biggest reason why the organisation improved greatly?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It was funded by a private investor."
+        },
+        {
+         "key": 1,
+         "value": "It sold out its shares."
+        },
+        {
+         "key": 2,
+         "value": "It got the governmental fund in the first year."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" lý do chính mà tổ chức phát triển mạnh là gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe Jone nói \\\"the project \"},{\"text\":\"sounds fascinating\",\"bold\":true},{\"text\":\"\\\" (đang nói về thành công của project) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án có thể chuẩn bị vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó nghe Thompson nói \\\"Absolutely. Over the years we have \"},{\"text\":\"received funding from private investors\",\"bold\":true},{\"text\":\" and from selling shares\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Ứng với đáp án A \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhưng sau đó nghe được \\\"\"},{\"text\":\"but \",\"bold\":true},{\"text\":\"the \"},{\"text\":\"biggest improvement\",\"bold\":true},{\"text\":\" in our research \"},{\"text\":\"came from a government fund\",\"bold\":true},{\"text\":\" that we received in the\"},{\"text\":\" first year\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Improvement lớn nhất\",\"bold\":true},{\"text\":\" đến từ\"},{\"text\":\" fund của chính phủ \",\"bold\":true},{\"text\":\"trong năm đầu tiên \"},{\"text\":\"\\n=> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 138,
+          "transcripts": [
+           {
+            "id": "11/120751-125657",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 125,
+            "text": "Well, the project sounds fascinating. I would definitely like to be involved,",
+            "character": {
+             "id": "aDYk2mBZhK6I_WqKcubCu",
+             "name": "JONES"
+            }
+           },
+           {
+            "id": "12/125657-138770",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 138,
+            "text": " Absolutely. Over the years we have received funding from private investors and from selling shares, but the biggest improvement in our research came from a government fund that we received in the first year.",
+            "character": {
+             "id": "dlbGhsZn_LsuX5dj9yxuF",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "23095ac3-774f-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "What is suggested from the reports?\n",
+       "options": [
+        {
+         "key": 0,
+         "value": "Resources still need management."
+        },
+        {
+         "key": 1,
+         "value": "Teachers and the students have benefitted from the field trips."
+        },
+        {
+         "key": 2,
+         "value": "The environment has been terribly damaged."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" reports suggest điều gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"but from reports \",\"bold\":true},{\"text\":\"taken of our studies\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe được \\\"we have found that \"},{\"text\":\"teachers and students\",\"bold\":true},{\"text\":\" have greatly \"},{\"text\":\"benefitted \",\"bold\":true},{\"text\":\"from\"},{\"text\":\" field trips to \",\"bold\":true},{\"text\":\"the tree plantation.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Teachers and students được hưởng lợi rất nhiều từ field trip \",\"bold\":true},{\"text\":\"đến tree plantation.\"},{\"text\":\" \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 138,
+          "transcripts": [
+           {
+            "id": "11/120751-125657",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 125,
+            "text": "Well, the project sounds fascinating. I would definitely like to be involved,",
+            "character": {
+             "id": "aDYk2mBZhK6I_WqKcubCu",
+             "name": "JONES"
+            }
+           },
+           {
+            "id": "12/125657-138770",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 138,
+            "text": " Absolutely. Over the years we have received funding from private investors and from selling shares, but the biggest improvement in our research came from a government fund that we received in the first year.",
+            "character": {
+             "id": "dlbGhsZn_LsuX5dj9yxuF",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "23095ac4-774f-11ec-8b42-85a415d10412",
+       "type": "SINGLE_ANSWER",
+       "question": "Who did obtain the special experience from the field trip carried out\nby the organisation?",
+       "options": [
+        {
+         "key": 0,
+         "value": "students "
+        },
+        {
+         "key": 1,
+         "value": "teachers "
+        },
+        {
+         "key": 2,
+         "value": "reachers "
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nhắc đến cả 3 đối tượng \\\"\"},{\"text\":\"teachers, researchers and students\",\"bold\":true},{\"text\":\" alike \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Speaker nói thêm\\\" I know that the visits are \"},{\"text\":\"useful and engaging for students\",\"bold\":true},{\"text\":\" and that\"},{\"text\":\" their experience is particularly special\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chuyến đi \"},{\"text\":\"hữu ích và thú vị với students\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"experience \",\"bold\":true},{\"text\":\"của họ \"},{\"text\":\"vô cùng đặc biệt\\n=> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 182,
+          "endTimeInSeconds": 205,
+          "transcripts": [
+           {
+            "id": "18/182330-193042",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 193,
+            "text": " We have received a lot of feedback from visiting groups telling us how impressed teachers, researchers and students alike have been during their visits. ",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "19/193042-205479",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 205,
+            "text": "Due to the educational facilities that we have carefully structured, I know that the visits are useful and engaging for students and that their experience is particularly special.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "23095ac5-774f-11ec-8b42-85a415d10412",
+     "questions": [
+      {
+       "uuid": "23095ac6-774f-11ec-8b42-85a415d10412",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO problems does the report focus on?",
+       "options": [
+        {
+         "key": 0,
+         "value": "air pollution"
+        },
+        {
+         "key": 1,
+         "value": "soil erosion"
+        },
+        {
+         "key": 2,
+         "value": "overgrazing"
+        },
+        {
+         "key": 3,
+         "value": "forest exploitation"
+        },
+        {
+         "key": 4,
+         "value": "water pollution"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"So what is \"},{\"text\":\"the particular focus of the organisation \",\"bold\":true},{\"text\":\"and the reports that it provides?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe được Mr. Thompson nói \\\"I am personally very \"},{\"text\":\"interested in soil erosion\",\"bold\":true},{\"text\":\", so I knew that I definitely wanted to \"},{\"text\":\"focus some of the report on this area\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn focus vào lĩnh vực\"},{\"text\":\" soil erosion \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 242,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "20/242713-247000",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 247,
+            "text": "So what is the particular focus of the organisation and the reports that it provides?",
+            "character": {
+             "id": "1koxjdEIFNxcQ24cWUj1C",
+             "name": "JONES"
+            }
+           },
+           {
+            "id": "21/247697-256568",
+            "startTimeInSeconds": 247,
+            "endTimeInSeconds": 256,
+            "text": "  I am personally very interested in soil erosion, so I knew that I definitely wanted to focus some of the report on this area. ",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe \\\" I looked up information on \"},{\"text\":\"what areas were\",\"bold\":true},{\"text\":\" currently \"},{\"text\":\"being researched\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết thông tin câu hỏi đang chuẩn bị vào \\n\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Air pollution\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"water pollution\",\"bold\":true},{\"text\":\" cũng được nhắc đến\"},{\"text\":\" tuy nhiên\",\"bold\":true},{\"text\":\" đã có nghiên cứu về nó và speaker nói \\\"\"},{\"text\":\"these were no good\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án A và E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"bold\":true,\"text\":\"\\n\\n\"},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker cũng đề cập đến \"},{\"text\":\"overgrazing \",\"bold\":true},{\"text\":\"nhưng  \\\"but the impacts of\"},{\"text\":\" forest exploitation are far more devastating\",\"bold\":true},{\"text\":\" and very little research has been carried out on this subject, so I decided that this should also\"},{\"text\":\" form some focus for the report\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Impact của forest exploitation nghiêm trọng\",\"bold\":true},{\"text\":\" hơn và \"},{\"text\":\"có \",\"bold\":true},{\"text\":\"rất \"},{\"text\":\"ít nghiên cứu về nó\",\"bold\":true},{\"text\":\" nên \"},{\"text\":\"quyết định form some focus \\n=> Đáp án đúng là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 256,
+          "endTimeInSeconds": 292,
+          "transcripts": [
+           {
+            "id": "22/256568-268263",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 268,
+            "text": "Before I set up the organisation, I looked up information on what areas were currently being researched and I found that there were already studies into air pollution and water pollution.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "23/268263-275573",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 275,
+            "text": "I obviously wanted to find a unique area to research and so these were no good.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "24/275676-292723",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 292,
+            "text": "I was tempted to look into the background of overgrazing, Q26 but the impacts of forest exploitation are far more devastating and very little research has been carried out on this subject, so I decided that this should also form some focus for the report.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "23095ac7-774f-11ec-8b42-85a415d10412",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO benefits of this activity to the students are mentioned by the professor?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They become more punctual"
+        },
+        {
+         "key": 1,
+         "value": "They feel more confident."
+        },
+        {
+         "key": 2,
+         "value": "They get practical experience. "
+        },
+        {
+         "key": 3,
+         "value": "They learn how to collect data."
+        },
+        {
+         "key": 4,
+         "value": "They know the importance of environment protection"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The people who take part in the summer course \"},{\"text\":\"already know \",\"bold\":true},{\"text\":\"the importance of environmental protection\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nên \\\"It is \"},{\"text\":\"not important \",\"bold\":true},{\"text\":\"that we spend time teaching them this\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Những người tham gia \"},{\"text\":\"đã biết về việc bảo việc môi trường\",\"bold\":true},{\"text\":\" rồi nên \"},{\"text\":\"không cần dạy về phần này \\n=> Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục có \\\"\"},{\"text\":\"Students instead benefit\",\"bold\":true},{\"text\":\" from learning the importance of \"},{\"text\":\"punctuality\",\"bold\":true},{\"text\":\",\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thay vào đó được \"},{\"text\":\"hưởng lợi từ việc học được tầm quan trọng của punctuality \\n=> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Có nhắc đến \"},{\"text\":\"practical experience \",\"bold\":true},{\"text\":\"nhưng đây chỉ là họ có thể \"},{\"text\":\"đến đúng giờ để không lỡ session \",\"bold\":true},{\"text\":\"đó chứ không phải thứ họ nhận được sau khóa học\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 325,
+          "endTimeInSeconds": 348,
+          "transcripts": [
+           {
+            "id": "28/325565-336384",
+            "startTimeInSeconds": 325,
+            "endTimeInSeconds": 336,
+            "text": "The people who partake in the summer course already know the importance of environmental protection, so it is not important that we spend time teaching them this.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "29/336479-348722",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 348,
+            "text": "Students instead benefit from learning the importance of punctuality, as each day they have to wake up early to make sure that they are not late for their practical experience sessions.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"What have you found to be the \"},{\"text\":\"greatest benefits of the activities\",\"bold\":true},{\"text\":\" carried out by the organisation?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên Mr Thompson nói \\\"I have found that\"},{\"text\":\" the greatest benefits are not the ones\",\"bold\":true},{\"text\":\" that anyone can\"},{\"text\":\" learn from a book, like how to collect data\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói tiếp \\\"\"},{\"text\":\"Students \",\"bold\":true},{\"text\":\"who have partaken in the summer course have massively \"},{\"text\":\"enhanced their confidence\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Học sinh tham gia khóa có thể \"},{\"text\":\"cải thiện sự tự tin \\n\",\"bold\":true},{\"text\":\"=> Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 325,
+          "transcripts": [
+           {
+            "id": "27/314707-325565",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 325,
+            "text": "Students who have partaken in the summer course have massively enhanced their confidence, which will prove invaluable for the rest of their lifetime. ",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "23095ac8-774f-11ec-8b42-85a415d10412",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO things will the woman do in the rest of the time when no activities are going on?",
+       "options": [
+        {
+         "key": 0,
+         "value": "read more reference books"
+        },
+        {
+         "key": 1,
+         "value": "study in library"
+        },
+        {
+         "key": 2,
+         "value": "interview some teachers"
+        },
+        {
+         "key": 3,
+         "value": "participate in one of fun hobbies"
+        },
+        {
+         "key": 4,
+         "value": "join in some tutorials\n"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo speaker cũng nói \\\"We do \"},{\"text\":\"not\",\"bold\":true},{\"text\":\" offer \"},{\"text\":\"tutorials\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên \"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\\"however you are f\"},{\"text\":\"ree to interview \",\"bold\":true},{\"text\":\"teachers\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có thể interview teacher \\n=> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 379,
+          "endTimeInSeconds": 390,
+          "transcripts": [
+           {
+            "id": "33/379117-390773",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 390,
+            "text": "We do not offer tutorials outside of the scheduled classes, however you are free to interview teachers and ask them any questions you may have about the research.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"what will I be \"},{\"text\":\"doing for the rest of the time\",\"bold\":true},{\"text\":\" when no activities are going on?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên speaker nói \\\"\"},{\"text\":\"unable \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"read reference books\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là \\\" \"},{\"text\":\"don’t \",\"bold\":true},{\"text\":\"yet \"},{\"text\":\"have a library\",\"bold\":true},{\"text\":\" on site\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nói \\\"We \"},{\"text\":\"offer\",\"bold\":true},{\"text\":\" a range of fun \"},{\"text\":\"hobbies\",\"bold\":true},{\"text\":\",\\\" và \\\"so you \"},{\"text\":\"could participate\",\"bold\":true},{\"text\":\" in \"},{\"text\":\"one of these activities\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nhiều hobbies mà bạn có thể tham gia \\n=> Đáp án đúng là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 348,
+          "endTimeInSeconds": 379,
+          "transcripts": [
+           {
+            "id": "30/348722-355862",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 355,
+            "text": "If I decide to attend the summer course, what will I be doing for the rest of the time when no activities are going on?",
+            "character": {
+             "id": "1koxjdEIFNxcQ24cWUj1C",
+             "name": "JONES"
+            }
+           },
+           {
+            "id": "31/355862-367648",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 367,
+            "text": " Well, we unfortunately don’t yet have a library on site, so you would be unable to read reference books although you are obviously welcome to bring some books of your own with you.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           },
+           {
+            "id": "32/367648-379117",
+            "startTimeInSeconds": 367,
+            "endTimeInSeconds": 379,
+            "text": "We offer a range of fun hobbies, such as games and painting, for students to participate in outside of their classes. So you could participate in one of these activities.",
+            "character": {
+             "id": "cevbuLCOTzSNejwlGXphH",
+             "name": "MR THOMPSON"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters,"
+         },
+         {
+          "text": " A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Roberts Company",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "38d7c85f-774f-11ec-8777-2d24176c0ac5",
+     "questions": [
+      {
+       "uuid": "38d7c860-774f-11ec-8777-2d24176c0ac5",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là một \"},{\"text\":\"danh từ,\",\"bold\":true},{\"text\":\" về \"},{\"text\":\"development của camera technology.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nghe \\\" The company has been \"},{\"text\":\"founded on a series of principals\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe \\\" the \"},{\"text\":\"most important \",\"bold\":true},{\"text\":\"of these being to \"},{\"text\":\"enhance the present development of camera technology\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Điều quan trọng nhất là \"},{\"text\":\"enhance development của camera technology\",\"bold\":true},{\"text\":\", mình có \"},{\"text\":\"(enhance=improve)\\n=> Đáp án: present \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 101,
+          "transcripts": [
+           {
+            "id": "3/88788-101309",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 101,
+            "text": "The company has been founded on a series of principals by which the company operates in its day-to-day business, the most important of these being to enhance the present development of camera technology."
+           }
+          ]
+         },
+         "value": "present",
+         "blankId": "XYWfTuNmEz5qsn-alVZVN"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"công ty được thành lập với mục tiêu là explore cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nghe \\\" it was \"},{\"text\":\"founded by Dwayne Roberts \",\"bold\":true},{\"text\":\"in 1957.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe speaker nói \\\" It has achieved many of its aims over the years, but its \"},{\"text\":\"principal and founding aim\",\"bold\":true},{\"text\":\" persists through time, which is to \"},{\"text\":\"explore new facts\",\"bold\":true},{\"text\":\" and imagine the unimaginable\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đạt được nhiều mục tiêu nhưng\"},{\"text\":\" mục tiêu chính \",\"bold\":true},{\"text\":\"vẫn không thay đổi, đó là \"},{\"text\":\"explore new facts\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án: new facts \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 103,
+          "endTimeInSeconds": 126,
+          "transcripts": [
+           {
+            "id": "4/103594-113585",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 113,
+            "text": "Roberts has a philosophy pioneering and innovation, having been responsible for the invention of numerous technologies since it was founded by Dwayne Roberts in 1957."
+           },
+           {
+            "id": "5/113585-126000",
+            "startTimeInSeconds": 113,
+            "endTimeInSeconds": 126,
+            "text": "It has achieved many of its aims over the years, but its principal and founding aim persists through time, which is to explore new facts and imagine the unimaginable."
+           }
+          ]
+         },
+         "value": "new facts",
+         "blankId": "hGVchS73F-GS9jVQrRMou"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" thứ được khám phá\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\" it will record live,\"},{\"text\":\" high-definition video \",\"bold\":true},{\"text\":\"\\\" (ý tới trước đáp án) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe \\\" It could \"},{\"text\":\"also \",\"bold\":true},{\"text\":\"prove useful\"},{\"text\":\" in exploring other planets \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó cũng\"},{\"text\":\" \",\"bold\":true},{\"text\":\"có ích trong việc \"},{\"text\":\"exploring (=discovering) other planets\\n=> Đáp án: other planets \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 147,
+          "endTimeInSeconds": 156,
+          "transcripts": [
+           {
+            "id": "8/147741-156000",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 156,
+            "text": "It could also prove useful in exploring other planets by providing researchers with never before seen images of the universe. "
+           }
+          ]
+         },
+         "value": "other planets",
+         "blankId": "H1z9OFfWWJTLhq5KNZo4p"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thứ được thử nghiệm\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\" Roberts are also \"},{\"text\":\"experimenting\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp \\\"attaching the cameras to small drones that will fly through the rainforest\"},{\"text\":\" in search of plants\",\"bold\":true},{\"text\":\" that could be used to \"},{\"text\":\"develop future medicine\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tìm kiếm cây\",\"bold\":true},{\"text\":\" trong rừng nhiệt đới mà có thể sử dụng để \"},{\"text\":\"phát triển future medicine \",\"bold\":true},{\"text\":\"(develop ~ experiment)\"},{\"text\":\"\\n=> Đáp án: future medicine \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 156,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "9/156575-169247",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 169,
+            "text": "Roberts are also experimenting with attaching the cameras to small drones that will fly through the rainforest in search of plants that could be used to develop future medicine. "
+           }
+          ]
+         },
+         "value": "future medicine",
+         "blankId": "pitV-as-6eXgCQpFY5Yas"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"phân bổ nhiều camera trên road network để control cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"this means that more of them could be \"},{\"text\":\"distributed across the road network\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"where \"},{\"text\":\"they \",\"bold\":true},{\"text\":\"can \"},{\"text\":\"control traffic \",\"bold\":true},{\"text\":\"by making sure that all cars abide by the speed regulations.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"control traffic\",\"bold\":true},{\"text\":\" bằng cách đảm bảo các xe tuân thủ luật \\n=> \"},{\"text\":\"Đáp án: traffic\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 173,
+          "endTimeInSeconds": 189,
+          "transcripts": [
+           {
+            "id": "11/173356-189161",
+            "startTimeInSeconds": 173,
+            "endTimeInSeconds": 189,
+            "text": "As it is 20% cheaper than the speed cameras that are currently in operation, this means that more of them could be distributed across the road network where they can control traffic by making sure that all cars abide by the speed regulations."
+           }
+          ]
+         },
+         "value": "traffic",
+         "blankId": "co56HuaKG0rCo9v0RR6Z8"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"thứ bán chạy nhất trong công ty\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được luôn speaker nói \\\"The \"},{\"text\":\"highest sales of the company \",\"bold\":true},{\"text\":\"are in \"},{\"text\":\"toys \",\"bold\":true},{\"text\":\"that have the cameras hidden within them.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Toys \",\"bold\":true},{\"text\":\"có gắn camera ẩn \"},{\"text\":\"là bán chạy nhất \\n=> Đáp án: toys \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 223,
+          "endTimeInSeconds": 229,
+          "transcripts": [
+           {
+            "id": "15/223532-229000",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 229,
+            "text": "The highest sales of the company are in  toys that have the cameras hidden within them. "
+           }
+          ]
+         },
+         "value": "toys",
+         "blankId": "kVUDq0eHz6b436XTD_nzA"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"toys được thiết kế giống cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker có nói luôn \\\"The toys are \"},{\"text\":\"designed \",\"bold\":true},{\"text\":\"to\"},{\"text\":\" look like animals\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Được thiết kế \"},{\"text\":\"giống animals \\n=> Đáp án: animals \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 254,
+          "transcripts": [
+           {
+            "id": "18/245064-254631",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 254,
+            "text": "The toys are designed to look like animals and come in a range of shapes, sizes and colours as well as different animal species such as monkeys and bears. "
+           }
+          ]
+         },
+         "value": "animals",
+         "blankId": "xp4XKLGvJaOl8U_LAfk3E"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"công ty đang nghiên cứu cái gì có kích thước nhỏ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Roberts are now \"},{\"text\":\"working on a product \",\"bold\":true},{\"text\":\"that will change the way people see photography.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp theo nghe \\\"This \"},{\"text\":\"new contraption is a mini camera\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sản phẩm mới này là\"},{\"text\":\" mini camera\",\"bold\":true},{\"text\":\" (tiny=mini)\"},{\"text\":\" \\n=> Đáp án: camera \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 261,
+          "endTimeInSeconds": 281,
+          "transcripts": [
+           {
+            "id": "20/261994-271000",
+            "startTimeInSeconds": 261,
+            "endTimeInSeconds": 271,
+            "text": "Always eager to be constantly improving their products, Roberts are now working on a product that will change the way people see photography. "
+           },
+           {
+            "id": "21/271110-281144",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 281,
+            "text": "This new contraption is a mini camera that is built into eyewear such as glasses and sunglasses where it can capture the world as you see it."
+           }
+          ]
+         },
+         "value": "camera",
+         "blankId": "LuM8ghwlli3eqymq7ffIj"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"surgeries có thể trở nên faster và gì nữa\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"This innovative application for the camera could make \"},{\"text\":\"surgeries a lot faster\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp tục nghe \\\" the saved time and energy will also\"},{\"text\":\" make it far more efficient\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thời gian và công sức được tiết kiệm sẽ \"},{\"text\":\"khiến nó more efficient\\n=> Đáp án: efficient \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 324,
+          "transcripts": [
+           {
+            "id": "26/314417-324000",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 324,
+            "text": "This innovative application for the camera could make surgeries a lot faster and the saved time and energy will also make it far more efficient."
+           }
+          ]
+         },
+         "value": "efficient",
+         "blankId": "OiqGYOTv2tlC91MlfAkfl"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thứ mà học sinh tham gia được tổ chức hàng năm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói luôn \"},{\"text\":\"\\\"Every year\",\"bold\":true},{\"text\":\" they organise a series of \"},{\"text\":\"competitions \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mỗi năm họ\"},{\"text\":\" tổ chức một loạt competitions\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: competitions \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 350,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "29/350093-361881",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 361,
+            "text": "Every year they organise a series of competitions where entrants stand the chance of winning a place in their internship programme, so I would suggest that all of you enter."
+           }
+          ]
+         },
+         "value": "competitions",
+         "blankId": "UP8FKJkiRShyITCobGJMy"
+        }
+       ],
+       "heading": "ROBERTS COMPANY",
+       "paragraph": {
+        "id": "oTkkemq2Q9UNzjSQK9roV",
+        "editorValue": "[{\"children\":[{\"text\":\"Founding \",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The most important principal of the company is to improve the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31\"}],\"id\":\"XYWfTuNmEz5qsn-alVZVN\"},{\"text\":\" development of camera technology. \"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Aim\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"It was founded by Dwayne Roberts in 1957 and mainly explore \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"32\"}],\"id\":\"hGVchS73F-GS9jVQrRMou\"},{\"text\":\" \"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Potential applications\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"recording high-definition video \"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"discovering \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"33 \"}],\"id\":\"H1z9OFfWWJTLhq5KNZo4p\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"searching plants in the rainforest to experiment \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"34 \"}],\"id\":\"pitV-as-6eXgCQpFY5Yas\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"distributing more across the road network to control \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"35 \"}],\"id\":\"co56HuaKG0rCo9v0RR6Z8\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"At present\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36\"}],\"id\":\"kVUDq0eHz6b436XTD_nzA\"},{\"text\":\" are the best sellers in the company. \"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They are designed to look like\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 37\"}],\"id\":\"xp4XKLGvJaOl8U_LAfk3E\"},{\"text\":\" \"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The company is working on a tiny \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38\"}],\"id\":\"LuM8ghwlli3eqymq7ffIj\"},{\"text\":\" to change the way people see photography. \"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Other applications\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Surgeries could be faster and more \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39 \"}],\"id\":\"OiqGYOTv2tlC91MlfAkfl\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Internship opportunity\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"To get it, the students can participate in the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"40\"}],\"id\":\"UP8FKJkiRShyITCobGJMy\"},{\"text\":\" organised by the company every year. \"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "XYWfTuNmEz5qsn-alVZVN",
+          "key": 0
+         },
+         {
+          "id": "hGVchS73F-GS9jVQrRMou",
+          "key": 1
+         },
+         {
+          "id": "H1z9OFfWWJTLhq5KNZo4p",
+          "key": 2
+         },
+         {
+          "id": "pitV-as-6eXgCQpFY5Yas",
+          "key": 3
+         },
+         {
+          "id": "co56HuaKG0rCo9v0RR6Z8",
+          "key": 4
+         },
+         {
+          "id": "kVUDq0eHz6b436XTD_nzA",
+          "key": 5
+         },
+         {
+          "id": "xp4XKLGvJaOl8U_LAfk3E",
+          "key": 6
+         },
+         {
+          "id": "LuM8ghwlli3eqymq7ffIj",
+          "key": 7
+         },
+         {
+          "id": "OiqGYOTv2tlC91MlfAkfl",
+          "key": 8
+         },
+         {
+          "id": "UP8FKJkiRShyITCobGJMy",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:22Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

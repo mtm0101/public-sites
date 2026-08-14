@@ -1,0 +1,1808 @@
+{
+ "schema": 1,
+ "id": "cam9-t2-listening",
+ "title": "CAM IELTS 9 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 9",
+ "testNum": 2,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-9-test-2-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-9-test-2-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Accommodation Form",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "329ea47b-0c5b-11f0-bcc2-0d0189943bbb",
+     "questions": [
+      {
+       "uuid": "lVcUC22K-KtNqaak9EznO",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"danh từ riêng\",\"bold\":true},{\"text\":\" chỉ tên họ của Anu\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\" So first of all, \"},{\"text\":\"can I take your name?\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe câu trả lời và phần đánh vần để điền chính xác \\\"\"},{\"text\":\"A-N-U…B-H-A double T.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Bhatt\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 165,
+          "endTimeInSeconds": 178,
+          "transcripts": [
+           {
+            "id": "4/165790-169141",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 169,
+            "text": " So first of all, can I take your name?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "5/169141-170957",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 170,
+            "text": " It's Anu Bhatt.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "6/170957-172258",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 172,
+            "text": " Could you spell your name please?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "7/172258-178782",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 178,
+            "text": " Yes.A-N-U...B-H-A double T.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Bhatt",
+         "blankId": "4UNSk0xKIRQqACF3ZLBbu"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"ngày tháng năm sinh\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"could I ask your \"},{\"text\":\"date of birth?\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe trả lời \\\"\"},{\"text\":\"31 March\",\"bold\":true},{\"text\":\" 1972.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"31 March\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 178,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "8/178782-181476",
+            "startTimeInSeconds": 178,
+            "endTimeInSeconds": 181,
+            "text": " Thanks, and could I ask your date of birth?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "9/181476-184936",
+            "startTimeInSeconds": 181,
+            "endTimeInSeconds": 184,
+            "text": " 31st March 1972.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "31 March/31st March/March 31/March 31st",
+         "blankId": "vfZa8V75k8J_H_fKozoPn"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"tên khóa học\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"what will you be studying?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào.\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"I’m doing a course in \"},{\"text\":\"nursing\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"nursing\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 188,
+          "endTimeInSeconds": 193,
+          "transcripts": [
+           {
+            "id": "12/188003-191327",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 191,
+            "text": " Oh right.And what will you be studying?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "13/191327-193616",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 193,
+            "text": " I'm doing a course in nursing.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "nursing",
+         "blankId": "f3MbmhJm55FvK2L7b5THm"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"number\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"số năm\",\"bold\":true},{\"text\":\" sinh viên sẽ ở lại kí túc xá.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"And \"},{\"text\":\"how long\",\"bold\":true},{\"text\":\" would you want to stay in hall, do you think?\\\" (Và bạn muốn ở lại kí túc xá bao lâu?) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Well,it’ll take three years but \"},{\"text\":\"I’d only like to stay in hall for two\",\"bold\":true},{\"text\":\". I’d like to think about living outside for the third year.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chỉ muốn ở 2 năm đầu  >> Từ cần điền là \\\"\"},{\"text\":\"2\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 193,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "14/193616-198218",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 198,
+            "text": " Right, thank you. And how long would you want to stay in hall, do you think?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "15/198218-208129",
+            "startTimeInSeconds": 198,
+            "endTimeInSeconds": 208,
+            "text": " Well, it'll take three years but I'd only like to stay in hall for two. I'd like to think about living outside for the third year.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "2",
+         "blankId": "mgNB1_AVxxm3xbRZ-d3Ta"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ loại \"},{\"text\":\"thực phẩm\",\"bold\":true},{\"text\":\" mà sinh viên không ăn (có màu đỏ)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"do you have any \"},{\"text\":\"special diet\",\"bold\":true},{\"text\":\"?\\\" (chế độ ăn kiêng đặc biệt) là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Yes, I don’t take\"},{\"text\":\" red meat\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"meat\",\"bold\":true},{\"text\":\"\\\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 224,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "20/224337-231757",
+            "startTimeInSeconds": 224,
+            "endTimeInSeconds": 231,
+            "text": " Yes, a lot of students opt for that. Now, with that in mind, do you have any special diet, anything we should know about?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "21/231757-234919",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 234,
+            "text": " Yes, I don't take red meat.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "meat",
+         "blankId": "b2tKv-DNzMyfiGNHxkWi7"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"loại phòng\",\"bold\":true},{\"text\":\" yêu thích\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"thinking \"},{\"text\":\"about the room\",\"bold\":true},{\"text\":\" itself, we have a number of options\\\" là biết sắp có \"},{\"text\":\"giới thiệu về các loại phòng\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tên từng loại phòng: Thứ nhất là \\\"\"},{\"text\":\"simple rooms\",\"bold\":true},{\"text\":\"\\\": \\\"You can have \"},{\"text\":\"a single study bedroom\",\"bold\":true},{\"text\":\" or you can \"},{\"text\":\"have a shared one\",\"bold\":true},{\"text\":\".\\\" và Thứ hai là \\\"\"},{\"text\":\"bedsit\",\"bold\":true},{\"text\":\"\\\": \\\"has \"},{\"text\":\"more space and better facilities\",\"bold\":true},{\"text\":\". There’s about ￡20 a week difference between them.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Dự đoán \"},{\"text\":\"sau đó sinh viên sẽ chọn loại phòng\",\"bold\":true},{\"text\":\" nên nghe kĩ.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"Well, actually my grant is quite generous and \"},{\"text\":\"I think the bedsit sounds the best option\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"bedsit\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 284,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "23/284167-304908",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 304,
+            "text": " Now, thinking about the room itself, we have a number of options. You can have a single study bedroom or you can have a shared one. These are both what we call simple rooms. The other alternative is to opt for a single bedsit which actually has more space and better facilities. There's about ￡20 a week difference between them.",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "24/304908-310802",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 310,
+            "text": " Well, actually my grant is quite generous and I think the bedsit sounds the best option.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "bedsit",
+         "blankId": "FUaYb5brZMsZP0RNC9PlN"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ 1 \"},{\"text\":\"loại hình giải trí\",\"bold\":true},{\"text\":\" mà sinh viên yêu thích.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"I wonder if you could let us know \"},{\"text\":\"what your interests are.\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"I love the \"},{\"text\":\"theatre\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"theatre\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 320,
+          "endTimeInSeconds": 331,
+          "transcripts": [
+           {
+            "id": "27/320338-327409",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 327,
+            "text": " I wonder if you could let us know what your interests are. This might help us get a closer match for placing you in a particular hall.",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "28/327409-331265",
+            "startTimeInSeconds": 327,
+            "endTimeInSeconds": 331,
+            "text": " Ummm. Well. I love the theatre.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "theatre/theater",
+         "blankId": "0zU1hdXsiaWsDu8f7NZfv"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adjective\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"đặc điểm của người\",\"bold\":true},{\"text\":\" mà sinh viên muốn ở cùng.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"what your \"},{\"text\":\"priorities\",\"bold\":true},{\"text\":\" are in choosing a hall.\\\" (ưu tiên khi chọn kí túc xá là gì) là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Well, the first thing is\"},{\"text\":\" I’d prefer a hall where there are other mature students\",\"bold\":true},{\"text\":\", if possible.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thích một kí túc xá có những sinh viên trưởng thành >> Từ cần điền là \\\"\"},{\"text\":\"mature\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 336,
+          "endTimeInSeconds": 357,
+          "transcripts": [
+           {
+            "id": "31/336237-346484",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 346,
+            "text": " That's worth knowing. Now, what we finish with on the form is really a list from you of what your priorities are in choosing a hall and we'll do our best to take these into account.",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "32/346484-353637",
+            "startTimeInSeconds": 346,
+            "endTimeInSeconds": 353,
+            "text": " Well, the first thing is I'd prefer a hall where there are other mature students, if possible.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "33/353637-357595",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 357,
+            "text": " Yes, we do have halls which tend to cater for slightly older students.",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           }
+          ]
+         },
+         "value": "mature/older",
+         "blankId": "r_FL5mi51DLOrMWNflc1c"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"địa điểm bên ngoài cái gì đó\",\"bold\":true},{\"text\":\" được sinh viên ưu tiên lựa chọn\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"I’d prefer to be \"},{\"text\":\"out of town\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở ngoài thị trấn >> Từ cần điền là \\\"\"},{\"text\":\"town\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 357,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "34/357595-362571",
+            "startTimeInSeconds": 357,
+            "endTimeInSeconds": 362,
+            "text": " Ummm and I'd prefer to be out of town.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "town",
+         "blankId": "saIpiK-J_MCdiRC5F89hG"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adjective\",\"bold\":true},{\"text\":\" bổ nghĩa cho \\\"area\\\" chỉ 1 khu vực có thể đến để giao tiếp xã hội\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"Anything else?\\\" là biết đây là \"},{\"text\":\"điều cuối cùng\",\"bold\":true},{\"text\":\" trong những \\\"\"},{\"text\":\"priorities\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"I would like somewhere with a shared area\",\"bold\":true},{\"text\":\", a TV room for example, or something like that. It’s a good way to socialise.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Muốn có khu vực chung >> Từ cần điền là \\\"\"},{\"text\":\"shared\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 368,
+          "endTimeInSeconds": 379,
+          "transcripts": [
+           {
+            "id": "37/368498-370785",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 370,
+            "text": " Yes. Anything else?",
+            "character": {
+             "id": "YDewK01znmnzejRIp-PYk",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "38/370785-379442",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 379,
+            "text": " Well, I would like somewhere with a shared area, a TV room for example, or something like that. It's a good way to socialise.",
+            "character": {
+             "id": "CtkRMtLY_pNGCK21UHAWn",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "shared",
+         "blankId": "IBL0aKFxbwaxXIBtEID1Q"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "4UNSk0xKIRQqACF3ZLBbu",
+         "key": 0
+        },
+        {
+         "id": "vfZa8V75k8J_H_fKozoPn",
+         "key": 1
+        },
+        {
+         "id": "f3MbmhJm55FvK2L7b5THm",
+         "key": 2
+        },
+        {
+         "id": "mgNB1_AVxxm3xbRZ-d3Ta",
+         "key": 3
+        },
+        {
+         "id": "b2tKv-DNzMyfiGNHxkWi7",
+         "key": 4
+        },
+        {
+         "id": "FUaYb5brZMsZP0RNC9PlN",
+         "key": 5
+        },
+        {
+         "id": "0zU1hdXsiaWsDu8f7NZfv",
+         "key": 6
+        },
+        {
+         "id": "r_FL5mi51DLOrMWNflc1c",
+         "key": 7
+        },
+        {
+         "id": "saIpiK-J_MCdiRC5F89hG",
+         "key": 8
+        },
+        {
+         "id": "IBL0aKFxbwaxXIBtEID1Q",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"a31uDjK05omf39JR4fuIN\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"M_EsKRtdAoSS5Nsj119Pg\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"E\"},{\"text\":\"xample\",\"italic\":true},{\"text\":\"\\nType of accommodation:\"}]}]}],\"id\":\"oqjWtLAcocUx8M5elIc-I\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"hall\",\"italic\":true,\"underline\":true},{\"text\":\" of residence\\n\"}]}]}],\"id\":\"wa6-xlYrx00uEYmldJKzq\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"_nEYZwQAWhGy1yKD6mZIE\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name:\"}]}]}],\"id\":\"FFv6JezuLyd7oTUM76HBp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Anu\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"4UNSk0xKIRQqACF3ZLBbu\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"PGURpCZWnOcNJpH8klc5r\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"ezn6LX0toT64Vb6h4v7GG\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date of birth:\"}]}]}],\"id\":\"i9q86UMynENHdyXfTi3BS\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"vfZa8V75k8J_H_fKozoPn\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"UawuMVfHsgdRkj0rkQ1jv\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"na5samfJxIR6QO8HXC6pM\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Country of origin:\"}]}]}],\"id\":\"6l2gslgD1jCzj92EFOFdj\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"India\"}]}]}],\"id\":\"tB40G1twXzR2yaXywVl5z\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"nY8QTiZ-QoE89lE0fzs57\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Course of study:       \"}]}]}],\"id\":\"i2di7H7k24wn8BdwCIfko\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"f3MbmhJm55FvK2L7b5THm\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"2x2daIoEXekVo715a50eW\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hPBaIAYr0tYmcSyyaE8yG\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Number of years planned in hall:   \"}]}]}],\"id\":\"KTpiZLsynjIuV2N6CL5YZ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"mgNB1_AVxxm3xbRZ-d3Ta\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"bRMdePJWy1_QnEzwTU6IB\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"s4ByC1UNk2RraHDrdN_0C\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Preferred catering arrangement:   \"}]}]}],\"id\":\"HJmE-qXoudVB4qG8KzY7l\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Half board\"}]}]}],\"id\":\"B0zID1e8UGsqrnR-s-kmh\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"EQUoF9eMyqtHxNBBpS1M6\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Special dietary requirements:  \"}]}]}],\"id\":\"pLS7t4bmE1g3IYespfLpJ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"no \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"b2tKv-DNzMyfiGNHxkWi7\",\"text\":\"\"}]},{\"text\":\" (red)\"}]}]}],\"id\":\"dJao5giNJtsIQWYvsCupY\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"joPDiQP-IQacVhwobqVww\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Preferred room type:       \"}]}]}],\"id\":\"ZN-7PqQU9MM5qNFKS5JFI\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A single \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"FUaYb5brZMsZP0RNC9PlN\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Q30QOVQ6dXXzIoAypanlC\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"-mtiLEPEnlNo4BM_jt7uT\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Interests:           \"}]}]}],\"id\":\"tyOqrOcRg-GYFdVy-LpWR\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"0zU1hdXsiaWsDu8f7NZfv\",\"text\":\"\"}]},{\"text\":\" and badminton\"}]}]}],\"id\":\"0qlcO0ifm-D9HeGTaJMWA\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"GmTjW0_Vq6U0-5o7Q1IAQ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Priorities in choice of hall:\"}]}]}],\"id\":\"M__ZOeCIljYnK44Do5D_T\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- To be with other students who are\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"r_FL5mi51DLOrMWNflc1c\",\"text\":\"\"}]},{\"text\":\"\\n- To live outside the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"saIpiK-J_MCdiRC5F89hG\",\"text\":\"\"}]},{\"text\":\"\\n- To have a\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"IBL0aKFxbwaxXIBtEID1Q\",\"text\":\"\"}]},{\"text\":\" area for socializing\"}]}]}],\"id\":\"rEgN_lSaQHAQHbMCktfDy\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "ACCOMODATION FORM – STUDENT INFORMATION"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Parks & Open Spaces",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "3f56deeb-6c17-11ef-bc9d-0f15b30b654b",
+     "questions": [
+      {
+       "uuid": "YhixN65ncAvqFb3gPRPUj",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" số nhiều đếm được chỉ \"},{\"text\":\"cái gì đó được quan tâm đặc biệt \",\"bold\":true},{\"text\":\"ở Holt Island\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe thấy keyword \\\"Holt Island\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Then there’s Holt Island, which\"},{\"text\":\" is noted for its great range of trees\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Được nổi tiếng với nhiều loại cây xanh >> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"a great range of\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"many different\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> Từ cần điền là \\\"\"},{\"text\":\"trees\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 90,
+          "endTimeInSeconds": 116,
+          "transcripts": [
+           {
+            "id": "2/90594-116372",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 116,
+            "text": "Then there's Holt Island, which is noted for its great range of trees. In the past willows were grown here commercially for basket-making, and this ancient craft has recently been reintroduced. The island is only open to the public from Friday to Sunday, because it's quite small, and if there were people around every day, much of the wildlife would keep away."
+           }
+          ]
+         },
+         "value": "trees",
+         "blankId": "0FuH1Ptz6nJTDMo8SZxCn"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"thời gian mở cửa\",\"bold\":true},{\"text\":\" của địa điểm nổi tiếng trên Holt Island.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\" The island is only \"},{\"text\":\"open\",\"bold\":true},{\"text\":\" to the public from \"},{\"text\":\"Friday to Sunday\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Friday\",\"bold\":true},{\"text\":\" \"},{\"text\":\"and\",\"bold\":true},{\"text\":\" \"},{\"text\":\"Sunday\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\\n\",\"marks\":[]},{\"marks\":[],\"text\":\"Lưu ý\",\"bold\":true,\"underline\":true},{\"marks\":[],\"text\":\": vì pattern của Between là \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"Between A and B\"}],\"highlightKey\":\"yellow40\"},{\"marks\":[],\"text\":\" nên bạn phải dùng \\\"\"},{\"marks\":[],\"text\":\"and\",\"bold\":true},{\"marks\":[],\"text\":\"\\\" thay vì \\\"\"},{\"marks\":[],\"text\":\"to\",\"bold\":true},{\"marks\":[],\"text\":\"\\\" như khi nghe trong Audio nhé.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 90,
+          "endTimeInSeconds": 116,
+          "transcripts": [
+           {
+            "id": "2/90594-116372",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 116,
+            "text": "Then there's Holt Island, which is noted for its great range of trees. In the past willows were grown here commercially for basket-making, and this ancient craft has recently been reintroduced. The island is only open to the public from Friday to Sunday, because it's quite small, and if there were people around every day, much of the wildlife would keep away."
+           }
+          ]
+         },
+         "value": "Friday and Sunday",
+         "blankId": "2PTtad9YZ3d3o9yUMlzwe"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"địa điểm 2000 năm tuổi \",\"bold\":true},{\"text\":\"nổi bật ở Longfield Country Park được tái xây dựng.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"Longfield Country Park\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Longfield has \"},{\"text\":\"a modern replica of a farm\",\"bold\":true},{\"text\":\" from over two thousand years ago.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Longfield có tái tạo lại farm từ hơn hai nghìn năm trước, \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"reconstruction \"}],\"colorKey\":\"blue100\",\"annotationText\":\"quá trình\"},{\"text\":\"-> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"replica\"},{\"text\":\" \"},{\"text\":\" \"}],\"annotationText\":\"kết quả\",\"colorKey\":\"blue100\"},{\"text\":\" >> Từ cần điền là \\\"\"},{\"text\":\"farm\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 116,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "3/116372-140539",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 140,
+            "text": "From there it's just a short walk across the bridge to Longfield Country Park. Longfield has a modern replica of a farm from over two thousand years ago. Children's activities are often arranged there, like bread-making and face-painting. The park is only open during daylight hours, so bear that in mind if you decide to go there."
+           }
+          ]
+         },
+         "value": "farm",
+         "blankId": "Fm71mtmbJbs2_xcTj2RCG"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "0FuH1Ptz6nJTDMo8SZxCn",
+         "key": 0
+        },
+        {
+         "id": "2PTtad9YZ3d3o9yUMlzwe",
+         "key": 1
+        },
+        {
+         "id": "Fm71mtmbJbs2_xcTj2RCG",
+         "key": 2
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ta0EbcDv0LOax9pcWuvOU\",\"cellsWidth\":[175,266,195],\"children\":[{\"type\":\"tr\",\"id\":\"NPGCQ9O8uNpzk8h8V1dp3\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name of places\",\"bold\":true}]}]}],\"id\":\"NpHJc6q7gK5B5XGO_guMj\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Of particular interest\",\"bold\":true}]}]}],\"id\":\"9wVrJIKg6zcP21ZHRiimg\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Open\",\"bold\":true}]}]}],\"id\":\"zbG37iaeyIC8I_6F5cKiT\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"7pW-JzzoWqIqAMF90aImP\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Halland Common\"}]}]}],\"id\":\"6FCaMAxSh5atn58JdxR7_\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Source of River Ouse\"}]}]}],\"id\":\"SpeWj1VrNo3J4s9vz_3nj\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"24 hours\"}]}]}],\"id\":\"4dooNoSzlziQgV__NsXwj\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"3lMj3qfxjk5xRtBXMnZ1Y\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Holt Island\"}]}]}],\"id\":\"Y-2TcyzmCYcT8GfvZPkmW\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Many different\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"0FuH1Ptz6nJTDMo8SZxCn\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"81CPDD7qGrSDBZpUy-Utw\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Between\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"2PTtad9YZ3d3o9yUMlzwe\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"SUrZnoZl-0Aca2qu_vD6E\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"U_baknfHhpv_Vx6rjZlhm\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Longfield Country Park\"}]}]}],\"id\":\"89Y4rg-efEvD9XhOH0OoI\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Reconstruction of a 2,000-year-old\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Fm71mtmbJbs2_xcTj2RCG\",\"text\":\"\"}]},{\"text\":\" with activities for children\"}]}]}],\"id\":\"9e3qY2j-rfDay6jPwFUO6\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Daylight hours\"}]}]}],\"id\":\"76c83NqDyxKhvzAevjrxu\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":636,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]",
+       "question": "PARKS AND OPEN SPACES"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "3f56deec-6c17-11ef-bc9d-0f15b30b654b",
+     "questions": [
+      {
+       "uuid": "3f56deed-6c17-11ef-bc9d-0f15b30b654b",
+       "type": "SINGLE_ANSWER",
+       "question": "As part of Monday’s activity, visitors will",
+       "options": [
+        {
+         "key": 0,
+         "value": "prepare food with herbs."
+        },
+        {
+         "key": 1,
+         "value": "meet a well-known herbalist."
+        },
+        {
+         "key": 2,
+         "value": "dye cloth with herbs."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"Monday\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"You’ll start with a tour of our herb garden,\"},{\"text\":\" practise the technique of using them as colour dyes for cloth\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn C \",\"bold\":true},{\"text\":\"vì được thực hành kỹ thuật sử dụng làm màu sắc cho vải \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn cũng có thể nghe \\\"and listen to \"},{\"text\":\"an illustrated talk\",\"bold\":true},{\"text\":\" about their use in cooking and medicine.\\\" (nghe một bài nói chuyện minh họa về công dụng của chúng trong nấu ăn và y học.)\\n>> \"},{\"text\":\"Loại A\",\"bold\":true},{\"text\":\" vì chỉ được nghe giới thiệu thôi chứ không được \\\"prepare\\\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 189,
+          "endTimeInSeconds": 216,
+          "transcripts": [
+           {
+            "id": "4/189790-216567",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 216,
+            "text": "Longfield Park has a programme of activities throughout the year, and to give you a sample, this is what's happening in the next few days. On Monday you can learn about herbs, and how they've been used over the centuries. You'll start with a four of our herb garden, practise the technique of using them as colour dyes for cloth, and listen to an illustrated talk about their about their use in cooking and medicine."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3f56deee-6c17-11ef-bc9d-0f15b30b654b",
+       "type": "SINGLE_ANSWER",
+       "question": "For the activity on Wednesday,",
+       "options": [
+        {
+         "key": 0,
+         "value": "only group bookings are accepted."
+        },
+        {
+         "key": 1,
+         "value": "visitors should book in advance."
+        },
+        {
+         "key": 2,
+         "value": "attendance is free."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe keyword \\\"\"},{\"text\":\"Wednesday\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"We keep to a small number of people in the group, so \"},{\"text\":\"if you want to go you’ll need to phone the park ranger a few days ahead\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu bạn muốn đi, bạn sẽ cần gọi điện cho kiểm lâm viên trước vài ngày >> \"},{\"text\":\"Chọn B/ loại A\",\"bold\":true},{\"text\":\" (không nói gì về việc book theo group) \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"There’s \"},{\"text\":\"a small charge\",\"bold\":true},{\"text\":\", which you should pay when you turn up.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có một khoản phí nhỏ phải trả >> \"},{\"text\":\"Loại C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 216,
+          "endTimeInSeconds": 237,
+          "transcripts": [
+           {
+            "id": "5/216567-237299",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 237,
+            "text": "Then on Wednesday you can join local experts to discover the variety of insects and birds that appear in the evening. We keep to a small number of people in the group, so if you want to go you'll need to phone the park ranger a few days ahead. There's a small charge, which you should pay when you turn up."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3f56deef-6c17-11ef-bc9d-0f15b30b654b",
+       "type": "SINGLE_ANSWER",
+       "question": "For the activity on Saturday, visitors should",
+       "options": [
+        {
+         "key": 0,
+         "value": "come in suitable clothing."
+        },
+        {
+         "key": 1,
+         "value": "make sure they are able to stay for the whole day."
+        },
+        {
+         "key": 2,
+         "value": "tell the rangers before the event what they wish to do."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe thấy keyword \\\"\"},{\"text\":\"Saturday\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó bạn nghe được keyword \\\"\"},{\"text\":\"rangers\",\"bold\":true},{\"text\":\"\\\" nên có thể bạn sẽ chọn C.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên, \\\"The \"},{\"text\":\"rangers \",\"bold\":true},{\"text\":\"will be hard at work all day, but do come and join in, even for just a short while.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không nhắc gì tới việc thông báo cho ranger, và không cần tham gia cả ngày, chỉ cần một lúc thôi là cũng được >> \"},{\"text\":\"Loại B và C\\n\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, bạn sẽ nghe \\\"One thing, though, is to \"},{\"text\":\"make sure you’re wearing something that you don’t mind getting dirty or torn\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mặc thứ gì đó mà bạn không ngại bị bẩn hoặc rách >> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 237,
+          "endTimeInSeconds": 270,
+          "transcripts": [
+           {
+            "id": "6/237299-270731",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 270,
+            "text": "I'm sure you're all keen to help with the practical task of looking after the park, so on Saturday you can join a working party. You'll have a choice of all sorts of activities, from planting hedges to picking up litter, so you'll be able to change from one to another when you feel like it. The rangers will be hard at work all day, but do come and join in, even for just a short while. One thing, though, is to make sure you're wearing something that you don't mind getting dirty or torn."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "3f56def0-6c17-11ef-bc9d-0f15b30b654b",
+     "questions": [
+      {
+       "uuid": "HnObcrIUo96OSbDiSD5pq",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/123a818b-c913-4504-aec7-e1b926384e46.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/123a818b-c913-4504-aec7-e1b926384e46.png",
+        "name": "CAM9_L2_P2_PARKS & OPEN SPACES_NoOpt.png",
+        "uploadedDate": "2021-11-02T05:01:32.172+0000",
+        "size": 40285,
+        "width": 375,
+        "height": 335
+       },
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"Hinchingbrooke Park\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"bird hide\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe hướng dẫn đường \\\"there’s a \"},{\"text\":\"lake \",\"bold\":true},{\"text\":\"in the north west of the park\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn tìm \\\"lake\\\" trên bản đồ\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"with a \"},{\"text\":\"bird hide\",\"bold\":true},{\"text\":\" to the west of it, \"},{\"text\":\"at the end of a path\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bird hide ở cuối đường >> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 270,
+          "endTimeInSeconds": 301,
+          "transcripts": [
+           {
+            "id": "7/270731-301476",
+            "startTimeInSeconds": 270,
+            "endTimeInSeconds": 301,
+            "text": "And finally I'd like to tell you about our new wildlife area, Hinchingbrooke Park, which will be opened to the public next month. This slide doesn't really indicate how big it is, but anyway, you can see the two gates into the park, and the main paths. As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a path. So it'll be a nice quiet place for watching the birds on the lake."
+           }
+          ]
+         }
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"dog-walking area\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe chỉ dẫn \\\"Fairly close to where \"},{\"text\":\"refreshments\",\"bold\":true},{\"text\":\" are available\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn hãy khoanh vùng những điểm gần \\\"\"},{\"text\":\"refreshments\",\"bold\":true},{\"text\":\"\\\" gồm I và G\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"a dog-walking area \"},{\"text\":\"in the southern part of the park, leading off from the path\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có một khu vực dành cho chó đi dạo ở phía nam của công viên, dẫn ra khỏi lối đi >> \"},{\"text\":\"Chọn I \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 301,
+          "endTimeInSeconds": 320,
+          "transcripts": [
+           {
+            "id": "8/301476-320145",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 320,
+            "text": "Fairly close to where refreshments are available, there's a dog-walking area in the southern part of the park, leading off from the path. And if you just want to sit and relax, you can go to the flower garden; that's the circular area on the map surrounded by paths."
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"flower garden\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe hướng dẫn \\\" that’s \"},{\"text\":\"the circular area on the map surrounded by paths\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Khu vực hình tròn trên bản đồ được bao quanh bởi các đường đi \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn nhìn trên bản đồ sẽ thấy ngay chỉ có F nằm trong khu hình tròn và có các con đường bao quanh >> \"},{\"text\":\"Chọn F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 301,
+          "endTimeInSeconds": 320,
+          "transcripts": [
+           {
+            "id": "8/301476-320145",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 320,
+            "text": "Fairly close to where refreshments are available, there's a dog-walking area in the southern part of the park, leading off from the path. And if you just want to sit and relax, you can go to the flower garden; that's the circular area on the map surrounded by paths."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"wooded area\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe chỉ dẫn \\\"\"},{\"text\":\"in the western section\",\"bold\":true},{\"text\":\" of the park, \"},{\"text\":\"between two paths\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở phần phía tây của công viên, giữa hai con đường \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chỉ có E là phù hợp (vừa ở phía tây vừa nằm giữa 2 con đường) >> \"},{\"text\":\"Chọn E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 270,
+          "endTimeInSeconds": 301,
+          "transcripts": [
+           {
+            "id": "7/270731-301476",
+            "startTimeInSeconds": 270,
+            "endTimeInSeconds": 301,
+            "text": "And finally I'd like to tell you about our new wildlife area, Hinchingbrooke Park, which will be opened to the public next month. This slide doesn't really indicate how big it is, but anyway, you can see the two gates into the park, and the main paths. As you can see, there's a lake in the north west of the park, with a bird hide to the west of it, at the end of a path. So it'll be a nice quiet place for watching the birds on the lake."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "vtD6CGq7fcvv93pk3I_zT",
+         "x": 23,
+         "y": 48
+        },
+        {
+         "text": "B",
+         "id": "e-t_Ic5adVfC7PezrJWKT",
+         "x": 29,
+         "y": 93
+        },
+        {
+         "text": "C",
+         "id": "0vANWzQVrDT4G83P11gWJ",
+         "x": 92,
+         "y": 100
+        },
+        {
+         "text": "D",
+         "id": "EljoPuN4nVw-iC9YdN0Qj",
+         "x": 215,
+         "y": 87
+        },
+        {
+         "text": "E",
+         "id": "v0eNlHt6hPDsuwC7gdJro",
+         "x": 25,
+         "y": 173
+        },
+        {
+         "text": "F",
+         "id": "k5oUFbNcQUDdi3NHHkW6J",
+         "x": 104,
+         "y": 150
+        },
+        {
+         "text": "G",
+         "id": "n2cgS0M536EC12BommBNO",
+         "x": 255,
+         "y": 140
+        },
+        {
+         "text": "H",
+         "id": "iYhfqWoY2AnO1Pv54Vzr6",
+         "x": 70,
+         "y": 297
+        },
+        {
+         "text": "I",
+         "id": "q4fPz569d1oUROrsf6IRB",
+         "x": 265,
+         "y": 243
+        }
+       ],
+       "questions": [
+        "Bird hide",
+        "Dog-walking area",
+        "Flower garden",
+        "Wooded area"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A - I",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A - I",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Self-Access Centre",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "62e8fb2f-59f5-11ef-b920-c17c2ade724e",
+     "questions": [
+      {
+       "uuid": "62e8fb30-59f5-11ef-b920-c17c2ade724e",
+       "type": "SINGLE_ANSWER",
+       "question": "Students want to keep the Self-Access Centre because",
+       "options": [
+        {
+         "key": 0,
+         "value": "they enjoy the variety of equipment"
+        },
+        {
+         "key": 1,
+         "value": "they like being able to work on their own"
+        },
+        {
+         "key": 2,
+         "value": "it is an important part of their studies"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Câu hỏi là về lí do \\\"\"},{\"text\":\"Student want to keep the Self-Access Centre\",\"bold\":true},{\"text\":\"\\\". Bạn sẽ nghe được \\\"\"},{\"text\":\"from the students’ point of view, we would like to keep it\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe được lí do luôn \\\"because it \"},{\"text\":\"provides a variation on the classroom routine\",\"bold\":true},{\"text\":\" and they see it as\"},{\"text\":\" a pretty major component of their course\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bởi vì nó cung cấp một sự thay đổi về thói quen trong lớp học và họ xem nó như một thành phần chính trong khóa học của họ >> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Bạn sẽ \"},{\"text\":\"loại A\",\"bold\":true},{\"text\":\" khi nghe tiếp và thấy \\\"we would like to see \"},{\"text\":\"some improvements to the equipment\",\"bold\":true},{\"text\":\"\\\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 75,
+          "endTimeInSeconds": 99,
+          "transcripts": [
+           {
+            "id": "1/75294-99454",
+            "startTimeInSeconds": 75,
+            "endTimeInSeconds": 99,
+            "text": " Well, from the students' point of view, we would like to keep it. The majority of students say that they enjoy using it because it provides a variation on the classroom routine and they see it as a pretty major component of their course, but we would like to see some improvements to the equipment, particularly the computers; there aren't enough for one each at the moment and we always have to share.",
+            "character": {
+             "id": "9ExVUm9H2_PyVCf_DW2YZ",
+             "name": "JUN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "62e8fb31-59f5-11ef-b920-c17c2ade724e",
+       "type": "SINGLE_ANSWER",
+       "question": "Some teachers would prefer to",
+       "options": [
+        {
+         "key": 0,
+         "value": "close the Self-Access Centre"
+        },
+        {
+         "key": 1,
+         "value": "move the Self-Access Centre elsewhere"
+        },
+        {
+         "key": 2,
+         "value": "restrict access to the Self-Access Centre"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn bắt đầu nghe về \\\"\"},{\"text\":\"teacher\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó bạn nghe \\\"We \"},{\"text\":\"don’t want to stop you students using it\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không muốn ngăn học sinh sử dụng >> Họ không đề xuất việc đóng cửa >> \"},{\"text\":\"Loại A\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\" Some of us also think that \"},{\"text\":\"we could benefit a lot more by relocating the Self-Access Centre to the main University library building\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chúng ta có thể hưởng lợi nhiều hơn bằng cách di dời Self-Access Centre đến tòa nhà thư viện chính của trường Đại học >> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"relocate\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"move elsewhere\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 99,
+          "endTimeInSeconds": 126,
+          "transcripts": [
+           {
+            "id": "2/99454-126966",
+            "startTimeInSeconds": 99,
+            "endTimeInSeconds": 126,
+            "text": " Well yes, the teachers agree that it is a very valuable resource but one thing we have noticed is that a lot of the students are using it to check their personal emails.We don't want to stop you students using it, but we think the computers should be used as a learning resource, not for emails. Some of us also think that we could benefit a lot more by relocating the Self-Access Centre to the main University library building.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "62e92242-59f5-11ef-b920-c17c2ade724e",
+       "type": "SINGLE_ANSWER",
+       "question": "The students’ main concern about using the library would be",
+       "options": [
+        {
+         "key": 0,
+         "value": "the size of the library"
+        },
+        {
+         "key": 1,
+         "value": "difficulty in getting help"
+        },
+        {
+         "key": 2,
+         "value": "the lack of materials"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"library\\\" là biết \"},{\"text\":\"đáp án sắp tớ\",\"bold\":true},{\"text\":\"i\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Đầu tiên bạn nghe \\\"\"},{\"text\":\"the library is big enough\",\"bold\":true},{\"text\":\" to incorporate the Self-Access Centre, but it wouldn’t be like a class activity anymore\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thư viện đủ lớn để kết hợp Self-Access Centre >> \"},{\"text\":\"Loại A\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Our \"},{\"text\":\"main worry \",\"bold\":true},{\"text\":\"would be\"},{\"text\":\" not being able to go to a teacher for advice\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Lo lắng chính là không thể đến gặp một giáo viên để được tư vấn >> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Our main worry\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \",\"bold\":true},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"student's main concern\",\"bold\":true},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 129,
+          "endTimeInSeconds": 149,
+          "transcripts": [
+           {
+            "id": "4/129356-149373",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 149,
+            "text": " Well, the library is big enough to incorporate the Self-Access Centre, but it wouldn't be like a class activity anymore. Our main worry would be not being able to go to a teacher for advice. I'm sure there would be plenty of things to do but we really need teachers to help us choose the best activities.",
+            "character": {
+             "id": "9ExVUm9H2_PyVCf_DW2YZ",
+             "name": "JUN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "62e92243-59f5-11ef-b920-c17c2ade724e",
+       "type": "SINGLE_ANSWER",
+       "question": "The Director of Studies is concerned about",
+       "options": [
+        {
+         "key": 0,
+         "value": "the cost of upgrading the centre"
+        },
+        {
+         "key": 1,
+         "value": "the lack of space in the centre"
+        },
+        {
+         "key": 2,
+         "value": "the difficulty in supervising the centre"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Đầu tiên bạn nghe \\\"It’s \"},{\"text\":\"not so much the expense \",\"bold\":true},{\"text\":\"that I’m worried about\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không lo về cho phí >> \"},{\"text\":\"Loại A\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"we’ve certainly got room to do it\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không lo về thiếu \\\"space\\\" >> \"},{\"text\":\"Loại B\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"but it’s the problem of\"},{\"text\":\" timetabling a teacher to be in there outside class hours\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng vấn đề là sắp xếp thời gian để giáo viên có mặt ở đó ngoài giờ lên lớp >> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "7/175914-199235",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 199,
+            "text": " It's not so much the expense that I'm worried about, and we've certainly got room to do it, but it's the problem of timetabling a teacher to be in there outside class hours. If we're going to spend a lot of money on equipment and resources, we really need to make sure that everything is looked after properly. Anyway, let's make some notes to see just what needs doing to improve the Centre.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "62e92244-59f5-11ef-b920-c17c2ade724e",
+     "questions": [
+      {
+       "uuid": "62e92245-59f5-11ef-b920-c17c2ade724e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun/adj \",\"bold\":true},{\"text\":\"bổ nghĩa cho loại material \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe hỏi \\\"What about \"},{\"text\":\"other resources\",\"bold\":true},{\"text\":\"?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe trả lời \\\"\"},{\"text\":\"they find it difficult to find materials that are appropriate for their level, especially reading resources, so I think we need to label them more clearly.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nên label tài liệu reading rõ hơn cho phù hợp level >> Từ cần điền là \\\"\"},{\"text\":\"reading\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "10/263881-269909",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " What about other resources? Do you have a list of things that the students would like to see improved?",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           },
+           {
+            "id": "11/269909-282852",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 282,
+            "text": " Yes, one of the comments that students frequently make is that they find it difficult to find materials that are appropriate for their level, especially reading resources, so I think we need to label them more clearly. ",
+            "character": {
+             "id": "9ExVUm9H2_PyVCf_DW2YZ",
+             "name": "JUN"
+            }
+           }
+          ]
+         },
+         "value": "reading",
+         "blankId": "ps3jbpBjBvdSm-Z0TrKTM"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"bộ sưu tập cái gì đó\",\"bold\":true},{\"text\":\" cần được cập nhật\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"I think we should review all of the study resources as some of them are\"},{\"text\":\" looking a bit out-of-date\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một số trong study resources có vẻ hơi lỗi thời. >> là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"Definitely. The \"},{\"text\":\"CD section especially needs to be more current.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Phần CD đặc biệt cần được cập nhật nhiều hơn >> Từ cần điền là \\\"\"},{\"text\":\"CD\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 282,
+          "endTimeInSeconds": 304,
+          "transcripts": [
+           {
+            "id": "12/282852-292849",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 292,
+            "text": " Well that's easy enough, we can get that organised very quickly. In fact I think we should review all of the study resources as some of them are looking a bit out-of-date.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           },
+           {
+            "id": "13/292849-304415",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 304,
+            "text": " Definitely. The CD section especially needs to be more current. I think we should get some of the ones that go with our latest course books and also make multiple copies.",
+            "character": {
+             "id": "9ExVUm9H2_PyVCf_DW2YZ",
+             "name": "JUN"
+            }
+           }
+          ]
+         },
+         "value": "CD",
+         "blankId": "Z7klY-IiqNp2yfuu969nA"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ  cái gì đó cần mua và sau đó phân chia ra.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"What do you think of the idea of introducing some workbooks?\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đang đề cập tới \"},{\"text\":\"\\\"workbooks\\\"\",\"bold\":true},{\"text\":\" nên đó có thể là câu trả lời (và câu này cũng nói lên việc họ sẽ mua workbooks)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"If we break them up into separate pages and laminate them, they’d be a great resource\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nếu ta chia chúng ra thành các trang tách biệt và đóng chúng lại, chúng sẽ là một nguồn tư liệu quý giá >> từ cần điền là \"},{\"text\":\"\\\"workbooks\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 304,
+          "endTimeInSeconds": 327,
+          "transcripts": [
+           {
+            "id": "14/304415-327859",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 327,
+            "text": " Good, now I was also thinking about some different materials that we haven't got in there at all. What do you think of the idea of introducing some workbooks? If we break them up into separate pages and laminate them, they'd be a great resource. The students could study the main course book in class and then do follow-up practice in the Self-Access Centre.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         },
+         "value": "workbooks",
+         "blankId": "zEgIAsyspcZqrfywctBjh"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"now finally we need to think about \"},{\"text\":\"how the room is used\",\"bold\":true},{\"text\":\"\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào \",\"bold\":true},{\"text\":\"vì đây là phần \\\"\"},{\"text\":\"use of the room\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\" \"}]},{\"text\":\"Sau đó bạn nghe \\\"I’ll have to talk to the teachers and \"},{\"text\":\"make sure we can all reach some agreement on a timetable to supervise the centre after class\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cần đảm bảo rằng có thể đạt được một số thống nhất về timetable để giám sát trung tâm sau giờ học >> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"reach agreement \"}],\"colorKey\":\"blue100\"},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"organize\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> Từ cần điền là\"},{\"text\":\" \\\"timetable\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 328,
+          "endTimeInSeconds": 347,
+          "transcripts": [
+           {
+            "id": "16/328771-347750",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 347,
+            "text": " Okay, now finally we need to think about how the room is used. I'll have to talk to the teachers and make sure we can all reach some agreement on a timetable to supervise the centre after class. But we also need to think about security, too. Especially if we're going to invest in some new equipment.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         },
+         "value": "timetable/schedule",
+         "blankId": "zMkCQdH-GO1cR5PNuE8nL"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ cái gì đó cần được lắp đặt\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"\"},{\"text\":\"need to think about security\",\"bold\":true},{\"text\":\"\\\" (cần nghĩ về sự an toàn) và \\\"going to\"},{\"text\":\" invest in some new equipment\",\"bold\":true},{\"text\":\".\\\" (sẽ đầu tư vào một số thiết bị mới) là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"What about putting in an alarm\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Gợi ý lắp alarm và sau đó nghe confirm là \\\"Good idea\\\">> Từ cần điền là \\\"\"},{\"text\":\"alarm\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 328,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "16/328771-347750",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 347,
+            "text": " Okay, now finally we need to think about how the room is used. I'll have to talk to the teachers and make sure we can all reach some agreement on a timetable to supervise the centre after class. But we also need to think about security, too. Especially if we're going to invest in some new equipment.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           },
+           {
+            "id": "17/347750-350656",
+            "startTimeInSeconds": 347,
+            "endTimeInSeconds": 350,
+            "text": " What about putting in an alarm?",
+            "character": {
+             "id": "9ExVUm9H2_PyVCf_DW2YZ",
+             "name": "JUN"
+            }
+           },
+           {
+            "id": "18/350656-362797",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 362,
+            "text": " Good idea. The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email. I really don't want to see that resource misused.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         },
+         "value": "alarm",
+         "blankId": "dBPz2hIAH1nQwquuhM4QK"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ cái gì đó \"},{\"text\":\"bị giới hạn\",\"bold\":true},{\"text\":\" việc sử dụng trên máy tính\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nghe \\\"The other thing I’d like to do is talk to our technicians\\\" >> có thể \"},{\"text\":\"đáp án sắp đến\",\"bold\":true},{\"text\":\" (đang chuyển sang mục mới)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"whether we could somehow \"},{\"text\":\"limit the access to email\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giới hạn quyền truy cập vào email bằng cách nào đó  >> Từ cần điền là \\\"\"},{\"text\":\"email\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 350,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "18/350656-362797",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 362,
+            "text": " Good idea. The other thing I'd like to do is talk to our technicians and see whether we could somehow limit the access to email. I really don't want to see that resource misused.",
+            "character": {
+             "id": "gK9v_gUE62xh2seBWSwMq",
+             "name": "PAM"
+            }
+           }
+          ]
+         },
+         "value": "email/emails",
+         "blankId": "1DGBG7lE53adHbdz5wF8p"
+        }
+       ],
+       "heading": "Necessary improvements to the existing Self-Access Centre",
+       "paragraph": {
+        "id": "X10xHKmaIAHiyExQKefGG",
+        "editorValue": "[{\"children\":[{\"text\":\"Equipment\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Replace computers to create more space\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Resources\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The level of the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ps3jbpBjBvdSm-Z0TrKTM\"},{\"text\":\" materials, in particular, should be more clearly shown.\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Update the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Z7klY-IiqNp2yfuu969nA\"},{\"text\":\" collection.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Buy some \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"zEgIAsyspcZqrfywctBjh\"},{\"text\":\" and divide them up.\"}]}]}]},{\"children\":[{\"text\":\"Use of the room\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Speak to the teachers and organize a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"zMkCQdH-GO1cR5PNuE8nL\"},{\"text\":\" for supervising the centre.\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Install an \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"dBPz2hIAH1nQwquuhM4QK\"},{\"text\":\"\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Restrict personal use of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"1DGBG7lE53adHbdz5wF8p\"},{\"text\":\" on computers.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "ps3jbpBjBvdSm-Z0TrKTM",
+          "key": 0
+         },
+         {
+          "id": "Z7klY-IiqNp2yfuu969nA",
+          "key": 1
+         },
+         {
+          "id": "zEgIAsyspcZqrfywctBjh",
+          "key": 2
+         },
+         {
+          "id": "zMkCQdH-GO1cR5PNuE8nL",
+          "key": 3
+         },
+         {
+          "id": "dBPz2hIAH1nQwquuhM4QK",
+          "key": 4
+         },
+         {
+          "id": "1DGBG7lE53adHbdz5wF8p",
+          "key": 5
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Business Culture",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "6687b7a1-5b7b-11ef-aebe-37abc78a9fc1",
+     "questions": [
+      {
+       "uuid": "6687deb2-5b7b-11ef-aebe-37abc78a9fc1",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj\",\"bold\":true},{\"text\":\" bổ nghĩa cho \\\"power source\\\" chỉ \"},{\"text\":\"đặc điểm của tổ chức\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn bắt đầu nghe nhắc đến \\\"\"},{\"text\":\"Power Culture\",\"bold\":true},{\"text\":\"\\\" và tiếp đó là ý đầu tiên của \\\"characteristics\\\" it’s usually found in \"},{\"text\":\"small organisations\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"It’s the type of culture that needs \"},{\"text\":\"a central source of power\",\"bold\":true},{\"text\":\" to be effective\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đó là kiểu văn hóa cần nguồn sức mạnh trung tâm để hoạt động hiệu quả >> Từ cần điền là \\\"\"},{\"text\":\"central\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 101,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "2/101672-120869",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 120,
+            "text": "The first type is called the Power Culture, and it's usually found in small organisations. It's the type of culture that needs a central source of power to be effective, and because control is in the hands of just one or two people there aren't many rules or procedures."
+           }
+          ]
+         },
+         "value": "central",
+         "blankId": "Q5oRyi5nce01l-KfsCfaC"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ phương thức giao tiếp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"Another characteristic is that \"},{\"text\":\"communication usually takes the form of conversations\",\"bold\":true},{\"text\":\" rather than, say, formal meetings or written memos.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giao tiếp thường diễn ra dưới hình thức hội thoại hơn là các cuộc họp chính thức hoặc các bản ghi nhớ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" >> Từ cần điền là \\\"\"},{\"text\":\"conversations\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 143,
+          "transcripts": [
+           {
+            "id": "3/120869-143611",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 143,
+            "text": "Another characteristic is that communication usually takes the form of conversations rather than, say, formal meetings or written memos. Now one of the benefits of this culture is that the organisation has the ability to act quickly, so it responds well to threat, or danger on the one hand, and opportunity on the other."
+           }
+          ]
+         },
+         "value": "conversation/conversations",
+         "blankId": "17JCxlglO-p6klEo6NXg1"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adverb\",\"bold\":true},{\"text\":\" bổ nghĩa cho động từ \\\"act\\\" chỉ sự bất lợi. Tuy nhiên ở trong câu đã có sẵn từ \\\"\"},{\"text\":\"not\",\"bold\":true},{\"text\":\"\\\" nên dự đoán đây sẽ là 1 từ \"},{\"text\":\"mang nghĩa positive\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"negative side\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"But\"},{\"text\":\" on the negative side\",\"bold\":true},{\"text\":\", this type of organisation\"},{\"text\":\" doesn’t always act effectively\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"effectively\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "4/143611-169094",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 169,
+            "text": "But on the negative side, this type of organisation doesn't always act effectively, because it depends too much on one or two people at the top, and when these people make poor decisions there's no-one else who can influence them. And the kind of person who does well in this type of business culture is one who is happy to take risks, and for whom job security is a low priority."
+           }
+          ]
+         },
+         "value": "effectively",
+         "blankId": "lKlp5icPYqGFJ7kNX7--t"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ cái mà 1 người nhân viên phù hợp không lo ngại tới.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"the \"},{\"text\":\"kind of person\",\"bold\":true},{\"text\":\" who does well in this type of business culture\"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"suitable employee\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" >> \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"is one who is \"},{\"text\":\"happy to take risks\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Là một người vui vẻ chấp nhận rủi ro >> Từ cần điền là \\\"\"},{\"text\":\"risks\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "4/143611-169094",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 169,
+            "text": "But on the negative side, this type of organisation doesn't always act effectively, because it depends too much on one or two people at the top, and when these people make poor decisions there's no-one else who can influence them. And the kind of person who does well in this type of business culture is one who is happy to take risks, and for whom job security is a low priority."
+           }
+          ]
+         },
+         "value": "risk/risks",
+         "blankId": "U9DK3pyxA3Fay4bJ4m2j3"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" đếm được số nhiều chỉ đặc điểm của tổ chức có \\\"Role Culture\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn bắt đầu nghe nhắc đến \\\"Role Culture\\\" và ý \\\"this type is usually found in \"},{\"text\":\"large companies\",\"bold\":true},{\"text\":\"\\\" là biết đáp án chuẩn bị vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"have \"},{\"text\":\"lots of different levels\",\"bold\":true},{\"text\":\" in them\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có rất nhiều cấp độ khác nhau >> Từ cần điền là \\\"\"},{\"text\":\"levels\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 169,
+          "endTimeInSeconds": 192,
+          "transcripts": [
+           {
+            "id": "5/169094-192791",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 192,
+            "text": "The next type is known as Role Culture - that's R-O-L-E, not R-O-double L, by the way, and this type is usually found in large companies, which have Q35 lots of different levels in them. These organisations usually have separate departments that specialise in things like finance, or sales, or maintenance, or whatever."
+           }
+          ]
+         },
+         "value": "levels",
+         "blankId": "WjwZpqmO7xOt667PxWGtv"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" song song với rules chỉ \"},{\"text\":\"đặc điểm của tổ chức\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe thấy cụm từ \\\"rules and procedures\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó bạn nghe \\\"for example, there are specific \"},{\"text\":\"job descriptions, rules for discipline\",\"bold\":true},{\"text\":\", and so on.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có các mô tả công việc cụ thể, các quy tắc về kỷ luật, v.v. >> Từ cần điền là \\\"\"},{\"text\":\"descriptions\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 192,
+          "endTimeInSeconds": 209,
+          "transcripts": [
+           {
+            "id": "6/192791-209712",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 209,
+            "text": "Each one is co-ordinated at the top by a small group of senior managers, and typically everyone's job is controlled by sets of rules and procedures - for example, there are specific job descriptions, rules for discipline, and so on."
+           }
+          ]
+         },
+         "value": "description/descriptions",
+         "blankId": "XZ3WMbfvQhEJjMA4pdmbv"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj \",\"bold\":true},{\"text\":\"bổ nghĩa cho \\\"ability\\\" chỉ khả năng nào đó quan trọng được coi là \"},{\"text\":\"lợi thế của \\\"Role culture\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"benefits\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó bạn nghe ý đầu tiên trong phần advantages là \\\"it can achieve \"},{\"text\":\"economies of scale\",\"bold\":true},{\"text\":\"\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó người nói dùng \\\"\"},{\"text\":\"secondly\",\"bold\":true},{\"text\":\"\\\" để chỉ benefit thứ 2 là \\\"it is particularly \"},{\"text\":\"successful in business markets where technical expertise is important.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nó đặc biệt thành công trong các thị trường kinh doanh nơi chuyên môn kỹ thuật là quan trọng >> \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"expertise\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"ability \"}],\"colorKey\":\"blue100\"},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"technical\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 209,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "7/209712-236797",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 236,
+            "text": "What are the benefits of this kind of culture? Well firstly, because it's found in large organisations, its fixed costs, or overheads as they're known, are low in relation to its output, or what it produces. In other words it can achieve economies of scale. And secondly, it is particularly successful in business markets where technical expertise is important."
+           }
+          ]
+         },
+         "value": "technical",
+         "blankId": "L5aTT3jhcYYCIP6ACzOYx"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun, \",\"bold\":true},{\"text\":\"một disadvantage là chậm phát hiện khi cần cái gì đó\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Ngay trước đó, người nói còn đang nhắc đến \\\"\"},{\"text\":\"benefits\",\"bold\":true},{\"text\":\"\\\" thì bây giờ họ dùng cụm \\\"\"},{\"text\":\"On the other hand\",\"bold\":true},{\"text\":\"\\\" để chỉ \\\"\"},{\"text\":\"disadvantages\",\"bold\":true},{\"text\":\"\\\" >> \"},{\"text\":\"đáp án sắp vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đó nghe \\\"this culture is often very \"},{\"text\":\"slow to recognise the need for change, and even slower to react.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thường rất chậm nhận ra nhu cầu thay đổi, và thậm chí phản ứng chậm hơn >> \\\"\"},{\"text\":\"the need for change\",\"bold\":true},{\"text\":\"\\\" = \\\" \"},{\"text\":\"change is needed\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"change\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "8/236797-255829",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 255,
+            "text": "On the other hand, this culture is often very slow to recognise the need for change, and even slower to react. What kind of person does this type of culture suit? Well it suits employees who value security, and who don't particularly want to have responsibility."
+           }
+          ]
+         },
+         "value": "change",
+         "blankId": "h1Fi-u3veBj6n9iChgHjL"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ đặc điểm nào đó (không mong muốn) có ở \\\"suitable employee\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"What \"},{\"text\":\"kind of person does this type of culture suit\",\"bold\":true},{\"text\":\"?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"it suits employees \"},{\"text\":\"who value security,\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"who don’t particularly want to have responsibility\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Phù hợp với những nhân viên coi trọng bảo mật và những người đặc biệt không muốn có trách nhiệm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"responsibility\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "8/236797-255829",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 255,
+            "text": "On the other hand, this culture is often very slow to recognise the need for change, and even slower to react. What kind of person does this type of culture suit? Well it suits employees who value security, and who don't particularly want to have responsibility."
+           }
+          ]
+         },
+         "value": "responsibility",
+         "blankId": "zj664hEn6AJIMm5fyQcw7"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun/adj \",\"bold\":true},{\"text\":\"chỉ \\\"advantage\\\" của \\\"Task Cultures\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"\"},{\"text\":\"Task Cultures\",\"bold\":true},{\"text\":\"\\\" và \\\"\"},{\"text\":\"benefits\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"one of the major benefits of this culture is \"},{\"text\":\"that it’s flexible\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một trong những lợi ích chính của nền văn hóa này là nó linh hoạt\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"flexible\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 291,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "10/291434-310897",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 310,
+            "text": "Now one of the major benefits of this culture is that it's flexible. But it does have some major disadvantages too. For instance, it can't produce economies of scale or great depth of expertise. People who like working in groups or teams refer this type of culture."
+           }
+          ]
+         },
+         "value": "flexible",
+         "blankId": "Z5jjEVtnJU3E4ytbm2eHp"
+        }
+       ],
+       "heading": "BUSINESS CULTURE",
+       "paragraph": {
+        "id": "YxXD-d7FVUChWwxmOsjlb",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"a-cIlA6j97niadNXUTw8A\",\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Power Culture\",\"bold\":true}]},{\"children\":[{\"text\":\"Characteristics of organization:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Small\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Q5oRyi5nce01l-KfsCfaC\"},{\"text\":\" power source\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Few rules and procedures\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Communication by \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"17JCxlglO-p6klEo6NXg1\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Advantage:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Can act quickly\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Disadvantage:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Might not act\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"lKlp5icPYqGFJ7kNX7--t\"},{\"text\":\" \"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Suitable employee: not afraid of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"U9DK3pyxA3Fay4bJ4m2j3\"},{\"text\":\" \"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Does not need job security\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Role Culture\",\"bold\":true}],\"id\":\"Gsws9qiiWfIm9MS3\"},{\"children\":[{\"text\":\"Characteristic of organization:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Large, many \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"WjwZpqmO7xOt667PxWGtv\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Specialized departments\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Rules and procedures e.g. job \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"XZ3WMbfvQhEJjMA4pdmbv\"},{\"text\":\" and rules for discipline\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Advantages:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Economies of scale\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Successful when \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"L5aTT3jhcYYCIP6ACzOYx\"},{\"text\":\" ability is important\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Disadvantages:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Slow to see when \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"h1Fi-u3veBj6n9iChgHjL\"},{\"text\":\" is needed\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Slow to react\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Suitable employee:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Values security\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Does not want\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"zj664hEn6AJIMm5fyQcw7\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Task Culture\",\"bold\":true}],\"id\":\"pIADIGcyxGpvS6WF\"},{\"children\":[{\"text\":\"Characteristic of organization:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Project oriented\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"In competitive market or making product with short life\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A lot of delegation\"}]}]}]},{\"children\":[{\"text\":\"Advantages:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"Z5jjEVtnJU3E4ytbm2eHp\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"Disadvantages:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"No economies of scale or special expertise\",\"marks\":[]}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"Suitable employee:\",\"marks\":[],\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Likes to work in groups\",\"marks\":[]}]}]}]}]",
+        "blanks": [
+         {
+          "id": "Q5oRyi5nce01l-KfsCfaC",
+          "key": 0
+         },
+         {
+          "id": "17JCxlglO-p6klEo6NXg1",
+          "key": 1
+         },
+         {
+          "id": "lKlp5icPYqGFJ7kNX7--t",
+          "key": 2
+         },
+         {
+          "id": "U9DK3pyxA3Fay4bJ4m2j3",
+          "key": 3
+         },
+         {
+          "id": "WjwZpqmO7xOt667PxWGtv",
+          "key": 4
+         },
+         {
+          "id": "XZ3WMbfvQhEJjMA4pdmbv",
+          "key": 5
+         },
+         {
+          "id": "L5aTT3jhcYYCIP6ACzOYx",
+          "key": 6
+         },
+         {
+          "id": "h1Fi-u3veBj6n9iChgHjL",
+          "key": 7
+         },
+         {
+          "id": "zj664hEn6AJIMm5fyQcw7",
+          "key": 8
+         },
+         {
+          "id": "Z5jjEVtnJU3E4ytbm2eHp",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:33Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

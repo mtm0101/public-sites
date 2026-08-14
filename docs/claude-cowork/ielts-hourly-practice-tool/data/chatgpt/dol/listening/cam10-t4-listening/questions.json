@@ -1,0 +1,2115 @@
+{
+ "schema": 1,
+ "id": "cam10-t4-listening",
+ "title": "CAM IELTS 10 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 10",
+ "testNum": 4,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-10-test-4-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-10-test-4-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Thorndyke's Builders",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "0f3bc09d-546c-11ef-8222-c5fee1afdfb9",
+     "questions": [
+      {
+       "uuid": "0f3bc09e-546c-11ef-8222-c5fee1afdfb9",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"họ\",\"bold\":true},{\"text\":\" của Edith\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"And what’s your name, please?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, vị khách trả lời \\\" \"},{\"text\":\"It’s Edith Pargetter\",\"bold\":true},{\"text\":\"\\\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đến đây chưa biết cách viết sao cho đúng chính tả thì hãy nhớ là sẽ luôn có phần spelling nha \\\"\"},{\"text\":\"It’s P-A-R-G-E-double T-E-R\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Pargetter\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 197,
+          "transcripts": [
+           {
+            "id": "10/183699-185994",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 185,
+            "text": " And what’s your name, please?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "11/185994-187813",
+            "startTimeInSeconds": 185,
+            "endTimeInSeconds": 187,
+            "text": " It’s Edith Pargetter.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           },
+           {
+            "id": "12/187813-191845",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 191,
+            "text": " Edith … can you spell your surname, please?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "13/191845-197534",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 197,
+            "text": " It’s P-A-R-G-E-double T-E-R.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "Pargetter",
+         "blankId": "wmc-94q8jAH76NQ8rvrwo"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun/adj\",\"bold\":true},{\"text\":\" để hoàn thành phần còn lại của \"},{\"text\":\"tên khu căn hộ\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"And \"},{\"text\":\"do you live in West Park Flats\",\"bold\":true},{\"text\":\" as well?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\" và có thể từ cần điền là \\\"West\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"No, \"},{\"text\":\"actually it’s East Park\",\"bold\":true},{\"text\":\", Flat 4\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"East\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 197,
+          "endTimeInSeconds": 206,
+          "transcripts": [
+           {
+            "id": "14/197534-202403",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 202,
+            "text": " Double T, right. And do you live in West Park Flats as well?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "15/202403-206610",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 206,
+            "text": " No, actually it’s East Park, Flat 4.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "East",
+         "blankId": "kRtjCMoxi8beEIGoYxmp-"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"địa điểm\",\"bold\":true},{\"text\":\" nằm trước khu căn hộ.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"Oh, right, that’s over the road, I seem to remember – \"},{\"text\":\"quite difficult to get to\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bởi vì đường khó đi nên có thể ở đây sau đó sẽ có hướng dẫn cách đi tới dễ dàng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\" Yes, it’s \"},{\"text\":\"at the back of the library\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"library\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 206,
+          "endTimeInSeconds": 214,
+          "transcripts": [
+           {
+            "id": "16/206610-211561",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 211,
+            "text": " Oh, right, that’s over the road, I seem to remember – quite difficult to get to.",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "17/211561-214680",
+            "startTimeInSeconds": 211,
+            "endTimeInSeconds": 214,
+            "text": " Yes, it’s at the back of the library.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "library",
+         "blankId": "yCOTWXos7fNe9y3ZT0kVl"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ \"},{\"text\":\"thời gian liên hệ\",\"bold\":true},{\"text\":\" phù hợp nhất\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"would the \"},{\"text\":\"best time to ring you be in the morning\",\"bold\":true},{\"text\":\"?\\\" thì biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\" và có thể đáp án là \"},{\"text\":\"morning\",\"bold\":true},{\"text\":\" luôn.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, vị khách confirm là \\\"\"},{\"text\":\"Yes\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"morning\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 225,
+          "endTimeInSeconds": 229,
+          "transcripts": [
+           {
+            "id": "20/225617-229172",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 229,
+            "text": " So would the best time to ring you be in the morning?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "21/229172-229877",
+            "startTimeInSeconds": 229,
+            "endTimeInSeconds": 229,
+            "text": " Yes.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "morning/mornings",
+         "blankId": "f3rV_E-mCa7vD9e1DMeQP"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"đối tượng nằm cạnh chỗ đậu xe\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"Can I just ask, I’ll be in a van and \"},{\"text\":\"I know parking’s rather difficult round your flats\",\"bold\":true},{\"text\":\". Where would you recommend?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đang nhờ giới thiệu chỗ đậu xe \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I always tell people in larger vehicles to \"},{\"text\":\"park by the postbox on the other side of the road from the entrance\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Khuyên những người đi xe lớn đậu ở ngay cạnh hòm thư phía bên đường từ cổng vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"postbox\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 229,
+          "endTimeInSeconds": 248,
+          "transcripts": [
+           {
+            "id": "22/229877-239771",
+            "startTimeInSeconds": 229,
+            "endTimeInSeconds": 239,
+            "text": " Fine. I’ve made a note of that. Can I just ask, I’ll be in a van and I know parking’s rather difficult round your flats. Where would you recommend?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "23/239771-248053",
+            "startTimeInSeconds": 239,
+            "endTimeInSeconds": 248,
+            "text": " Well, I always tell people in larger vehicles to park by the postbox on the other side of the road from the entrance.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "postbox",
+         "blankId": "I8J1qg3I4u86ea30CO8y1"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ thông tin được bao gồm trong bảng báo giá.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"will you be able to \"},{\"text\":\"give me a full itemised quote\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đang hỏi bảng báo giá\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"yes. \"},{\"text\":\"I’ll list all the jobs separately with individual prices\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sẽ liệt kê tất cả các công việc một cách riêng biệt với các mức giá riêng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"prices\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 249,
+          "endTimeInSeconds": 257,
+          "transcripts": [
+           {
+            "id": "25/249487-253640",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 253,
+            "text": " And will you be able to give me a full itemised quote?",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           },
+           {
+            "id": "26/253640-257959",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 257,
+            "text": " Oh, yes, I’ll list all the jobs separately with individual prices. ",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           }
+          ]
+         },
+         "value": "prices",
+         "blankId": "2DIVMfJpW3KEYd8X-7sy9"
+        }
+       ],
+       "heading": "THORNDYKE’S BUILDERS",
+       "paragraph": {
+        "id": "42LsH3qTaK0-aYKuI-8t0",
+        "editorValue": "[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"marks\":[],\"italic\":true}]},{\"children\":[{\"text\":\"Customer heard about Thorndyke’s from a \"},{\"text\":\"friend\",\"italic\":true,\"underline\":true}]},{\"children\":[{\"text\":\"Name:\",\"bold\":true},{\"text\":\" Edith\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"wmc-94q8jAH76NQ8rvrwo\"},{\"text\":\"\"}]},{\"children\":[{\"text\":\"Address:\",\"bold\":true},{\"text\":\" Flat 4,\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"kRtjCMoxi8beEIGoYxmp-\"},{\"text\":\" Park Flats (Behind the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"yCOTWXos7fNe9y3ZT0kVl\"},{\"text\":\" )\"}]},{\"children\":[{\"text\":\"Phone number:\",\"bold\":true},{\"text\":\" 875934\"}]},{\"children\":[{\"text\":\"Best time to contact customer:\",\"bold\":true},{\"text\":\" during the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"f3rV_E-mCa7vD9e1DMeQP\"},{\"text\":\"\"}]},{\"children\":[{\"text\":\"Where to park:\",\"bold\":true},{\"text\":\" opposite entrance next to the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"I8J1qg3I4u86ea30CO8y1\"},{\"text\":\"\"}]},{\"children\":[{\"text\":\"Need full quote showing all the jobs and the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"2DIVMfJpW3KEYd8X-7sy9\"},{\"text\":\"\"}]},{\"type\":\"p\",\"id\":\"OC1O3jChfY7rrs9nwjCa4\",\"children\":[{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "wmc-94q8jAH76NQ8rvrwo",
+          "key": 0
+         },
+         {
+          "id": "kRtjCMoxi8beEIGoYxmp-",
+          "key": 1
+         },
+         {
+          "id": "yCOTWXos7fNe9y3ZT0kVl",
+          "key": 2
+         },
+         {
+          "id": "f3rV_E-mCa7vD9e1DMeQP",
+          "key": 3
+         },
+         {
+          "id": "I8J1qg3I4u86ea30CO8y1",
+          "key": 4
+         },
+         {
+          "id": "2DIVMfJpW3KEYd8X-7sy9",
+          "key": 5
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "0f3bc09f-546c-11ef-8222-c5fee1afdfb9",
+     "questions": [
+      {
+       "uuid": "X0eoqblJ4WU-RRnOSWn4a",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ 1 \"},{\"text\":\"bộ phận nào đó của cái cửa\",\"bold\":true},{\"text\":\" cần được sửa chữa.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\" what would you like me to do?\\\" và \\\"kitchen\\\" thì \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"With all the weather damage, \"},{\"text\":\"the glass in the door has cracked and I’d need that fixing\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Kính trong cửa đã nứt và cần sửa chữa\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"glass\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 320,
+          "transcripts": [
+           {
+            "id": "29/308376-310408",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 310,
+            "text": " Now, what would you like me to do?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "30/310408-320967",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 320,
+            "text": " Firstly and most urgently is in the kitchen. With all the weather damage, the glass in the door has cracked and I’d need that fixing …",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "glass",
+         "blankId": "8aQ8mUNsUAeXY-3pWgT_l"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ 1 thứ mà khu vực tường phía trên cần sơn lại\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"- \"}]},{\"text\":\"Khi bạn nghe \\\"Well, in the \"},{\"text\":\"kitchen I’d like some painting\",\"bold\":true},{\"text\":\" doing.\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"All the kitchen walls?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Khách trả lời \\\"Just the area \"},{\"text\":\"over the cooker\",\"bold\":true},{\"text\":\"\\\" >> Từ cần điền là \\\"\"},{\"text\":\"cooker\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 337,
+          "endTimeInSeconds": 347,
+          "transcripts": [
+           {
+            "id": "36/337255-341525",
+            "startTimeInSeconds": 337,
+            "endTimeInSeconds": 341,
+            "text": " Well, in the kitchen I’d like some painting doing. ",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           },
+           {
+            "id": "37/341525-343393",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 343,
+            "text": " All the kitchen walls?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "38/343393-347442",
+            "startTimeInSeconds": 343,
+            "endTimeInSeconds": 347,
+            "text": " Just the area over the cooker. It’s very greasy …",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "cooker",
+         "blankId": "fGu2b3ozCjdO0tTTm-Ehx"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"thời gian\",\"bold\":true},{\"text\":\" mà người thợ cần cạo sơn và trát hồ trước.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"Mr. Thorndyke: Well, if you want a proper job done what I’d need to do is strip the old paint and plaster it \"},{\"text\":\"about a week before I paint it\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cần trát lại khoảng một tuần trước khi sơn nó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"week\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 350,
+          "endTimeInSeconds": 358,
+          "transcripts": [
+           {
+            "id": "41/350783-358446",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 358,
+            "text": " Well, if you want a proper job done what I’d need to do is strip the old paint and plaster it about a week before I paint it.",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           }
+          ]
+         },
+         "value": "week",
+         "blankId": "9aWHBxst_a7M_KOrLI1jz"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"1 thứ ở cuối vườn\",\"bold\":true},{\"text\":\" cần thay thế.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"May tells me you also do work in the \"},{\"text\":\"garden\",\"bold\":true},{\"text\":\".\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"I’d like you to \"},{\"text\":\"replace a fence\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đến đây 1 số bạn vội điền luôn từ \\\"fence\\\" tuy nhiên chúng ta chưa biết cái \\\"fence\\\" có đúng là ở cuối vườn hay không, nên có thể đáp án này chưa đúng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tiếp đó vị khách lại nói \\\"Yes, \"},{\"text\":\"at the far end\",\"bold\":true},{\"text\":\"\\\" (ở cuối vườn) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"fence\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 358,
+          "endTimeInSeconds": 371,
+          "transcripts": [
+           {
+            "id": "42/358446-363408",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 363,
+            "text": " Of course. Now, May tells me you also do work in the garden.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           },
+           {
+            "id": "43/363408-364764",
+            "startTimeInSeconds": 363,
+            "endTimeInSeconds": 364,
+            "text": " That’s right.",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "44/364764-367491",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 367,
+            "text": " Well, I’d like you to replace a fence.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           },
+           {
+            "id": "45/367491-369231",
+            "startTimeInSeconds": 367,
+            "endTimeInSeconds": 369,
+            "text": " Just one?",
+            "character": {
+             "id": "yfVFFZ3BFrt1xNGK7W4Fg",
+             "name": "MR THORNDYKE"
+            }
+           },
+           {
+            "id": "46/369231-371029",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 371,
+            "text": " Yes, at the far end.",
+            "character": {
+             "id": "zROqjUi8hd9mS2LyaxVj7",
+             "name": "EDITH"
+            }
+           }
+          ]
+         },
+         "value": "fence",
+         "blankId": "QhoYEaUs4RlwkDVlvPx9r"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "8aQ8mUNsUAeXY-3pWgT_l",
+         "key": 0
+        },
+        {
+         "id": "fGu2b3ozCjdO0tTTm-Ehx",
+         "key": 1
+        },
+        {
+         "id": "9aWHBxst_a7M_KOrLI1jz",
+         "key": 2
+        },
+        {
+         "id": "QhoYEaUs4RlwkDVlvPx9r",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"LzB-NPXzOron5AcDXBPsv\",\"cellsWidth\":[83,300,267.013],\"children\":[{\"type\":\"tr\",\"id\":\"k88Kn7qLrgVd3QuRZjiMR\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Area\",\"bold\":true}]}]}],\"id\":\"Y-evUnJL2NSYbbsxR2D64\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Work to be done\",\"bold\":true}]}]}],\"id\":\"l0l0NPQBFLiTMOXCsEwSv\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Notes\",\"bold\":true}]}]}],\"id\":\"QOU59vORnqvPC9gDmiEYJ\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"47kxWsfPS8Xzl5To4F9be\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Kitchen\",\"bold\":true}]}]}],\"id\":\"yp9Mt0tevWoY0ZE5XHjgw\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Replace the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"8aQ8mUNsUAeXY-3pWgT_l\",\"text\":\"\"}]},{\"text\":\" in the door\\n\\nPaint wall above the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"fGu2b3ozCjdO0tTTm-Ehx\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"iR5CT_FtQR5Ph_Pr35haX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Fix tomorrow\\n\\nStrip paint and plaster approximately one\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"9aWHBxst_a7M_KOrLI1jz\",\"text\":\"\"}]},{\"text\":\" in advance\"}]}]}],\"id\":\"vkYF8PMWapQYfYKyWlB7n\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"C5GTPH2XQzwIHhuiDjyZV\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Garden\",\"bold\":true}]}]}],\"id\":\"Tts4OluVGQ_LOvTiIdQGr\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"One\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"QhoYEaUs4RlwkDVlvPx9r\",\"text\":\"\"}]},{\"text\":\" needs replacing ( end of garden)\"}]}]}],\"id\":\"PRZRdqwcJow4RF__rK6gZ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"aagBobSVovF0pFFH_23Sg\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":650.0129999999999,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Manham Port",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "761fe1c3-7419-11ef-906e-bb30961c2fb8",
+     "questions": [
+      {
+       "uuid": "761fe1c4-7419-11ef-906e-bb30961c2fb8",
+       "type": "SINGLE_ANSWER",
+       "question": "Why did a port originally develop at Manham?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It was safe from enemy attack."
+        },
+        {
+         "key": 1,
+         "value": "It was convenient for river transport."
+        },
+        {
+         "key": 2,
+         "value": "It had a good position on the sea coast."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe đến \\\"\"},{\"text\":\"The port of Manham\",\"bold\":true},{\"text\":\"\\\" là bạn biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"and \"},{\"text\":\"developed here because it’s the highest navigable point of the Avon – boats can go no higher up this river – and proved a handy place to load and unload cargo\",\"bold\":true},{\"text\":\" to and from the sea, which is over 23 miles away.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Và nó được phát triển ở đây vì nó là điểm điều hướng cao nhất của Avon - thuyền có thể đi không cao lên con sông này - và chứng tỏ là một nơi thuận tiện để tải hàng hóa\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vì đây là nơi điều hướng và thuận tiện vận tải hàng hóa nên sẽ là nơi thuận tiện cho vận tải trên biển \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 81,
+          "endTimeInSeconds": 104,
+          "transcripts": [
+           {
+            "id": "1/81299-104937",
+            "startTimeInSeconds": 81,
+            "endTimeInSeconds": 104,
+            "text": "The port of Manham is located in beautiful and peaceful countryside, on a bend in the great River Avon, and developed here because it’s the highest navigable point of the Avon – boats can go no higher up this river – and proved a handy place to load and unload cargo to and from the sea, which is over 23 miles away."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "761fe1c5-7419-11ef-906e-bb30961c2fb8",
+       "type": "SINGLE_ANSWER",
+       "question": "What caused Manham’s sudden expansion during the Industrial Revolution?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The improvement in mining techniques"
+        },
+        {
+         "key": 1,
+         "value": "The increase in demand for metals"
+        },
+        {
+         "key": 2,
+         "value": "The discovery of tin in the area"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe thấy cụm từ \\\"Industrial Revolution\\\" là biết \"},{\"text\":\"chuẩn bị có đáp án\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"it wasn’t \"},{\"text\":\"until the Industrial Revolution\",\"bold\":true},{\"text\":\", \"},{\"text\":\"when a tremendous need for metals\",\"bold\":true},{\"text\":\" of all kinds developed, that \"},{\"text\":\"Manham expanded to become one of the busiest ports\",\"bold\":true},{\"text\":\" in the country\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Phải đến cuộc Cách mạng Công nghiệp, khi nhu cầu lớn về kim loại các loại phát triển, Manham mới mở rộng để trở thành một trong những cảng bận rộn nhất. trong nước \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 104,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "2/104937-124169",
+            "startTimeInSeconds": 104,
+            "endTimeInSeconds": 124,
+            "text": "A small port was already established here when, about 900 years ago, tin was discovered nearby, though it wasn’t until the Industrial Revolution, when a tremendous need for metals of all kinds developed, that Manham expanded to become one of the busiest ports in the country."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "761fe1c6-7419-11ef-906e-bb30961c2fb8",
+       "type": "SINGLE_ANSWER",
+       "question": "Why did rocks have to be sent away from Manham to be processed?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Shortage of fuel"
+        },
+        {
+         "key": 1,
+         "value": "Poor transport systems"
+        },
+        {
+         "key": 2,
+         "value": "Lack of skills among local people"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn bắt đầu thấy \\\"the ores had been smelted – or processed \\\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"But, as demand grew, the smelting process required huge factory furnaces or fires to melt the metal from the rock and \"},{\"text\":\"there was not enough coal in the local area, so the rocks containing minerals had to be shipped long distances\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không có đủ than trong khu vực địa phương, vì vậy những tảng đá chứa khoáng chất phải được vận chuyển một quãng đường dài.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 161,
+          "transcripts": [
+           {
+            "id": "4/137618-161476",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 161,
+            "text": "In the early days, the ores had been smelted – or processed – in the same area they were mined. But, as demand grew, the smelting process required huge factory furnaces or fires to melt the metal from the rock and there was not enough coal in the local area, so the rocks containing minerals had to be shipped long distances."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "761fe1c7-7419-11ef-906e-bb30961c2fb8",
+       "type": "SINGLE_ANSWER",
+       "question": "What happened when the port declined in the twentieth century?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The workers went away"
+        },
+        {
+         "key": 1,
+         "value": "Traditional skills were lost"
+        },
+        {
+         "key": 2,
+         "value": "Buildings were used for new purposes"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe được mốc thời gian \\\"\"},{\"text\":\"twentieth century\",\"bold\":true},{\"text\":\"\\\" và sự kiện \\\"\"},{\"text\":\"the great port of Manham declined\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"thousands of workers were forced to emigrate out of the area\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Hàng ngàn công nhân buộc phải di cư ra khỏi khu vực \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 161,
+          "endTimeInSeconds": 182,
+          "transcripts": [
+           {
+            "id": "5/161476-182769",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 182,
+            "text": "Sadly, in the twentieth century, the great port of Manham declined, and thousands of workers were forced to emigrate out of the area. The building at the port fell into disrepair, and the place became almost forgotten. But then, the Manham Trust was formed to conserve the historical resources of the area. "
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "761fe1c8-7419-11ef-906e-bb30961c2fb8",
+       "type": "SINGLE_ANSWER",
+       "question": "What did the Manham Trust hope to do?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Discover the location of the original port"
+        },
+        {
+         "key": 1,
+         "value": "Provide jobs for the unemployed"
+        },
+        {
+         "key": 2,
+         "value": "Rebuild the port complex"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe được \\\"\"},{\"text\":\"Manham Trust\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"It \"},{\"text\":\"organised scores of local volunteers\",\"bold\":true},{\"text\":\" to remove undergrowth to find the original outlines of the installations.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bao gồm nhiều tình nguyện viên\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Loại B\",\"bold\":true},{\"text\":\" vì ở đây nhắc đến tình nguyện viên chứ không phải người \\\"unemployed\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn lại nghe \\\"It then brought in paid professionals to \"},{\"text\":\"match installations with maps of the original port complex and to set about reconstructing it\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thu hút các chuyên gia để bắt đầu xây dựng lại nó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 161,
+          "endTimeInSeconds": 200,
+          "transcripts": [
+           {
+            "id": "5/161476-182769",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 182,
+            "text": "Sadly, in the twentieth century, the great port of Manham declined, and thousands of workers were forced to emigrate out of the area. The building at the port fell into disrepair, and the place became almost forgotten. But then, the Manham Trust was formed to conserve the historical resources of the area. "
+           },
+           {
+            "id": "6/182769-200629",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 200,
+            "text": "It organised scores of local volunteers to remove undergrowth to find the original outlines of the installations. It then brought in paid professionals to match installations with maps of the original port complex and to set about reconstructing it."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "761fe1c9-7419-11ef-906e-bb30961c2fb8",
+     "questions": [
+      {
+       "uuid": "1Y8qNaXbYnOMh8GvI1co5",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền vào chỗ trống là một \"},{\"text\":\"danh từ và có thể là một thứ có thể đưa người tham quan \\\"into the mountain\\\".\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sau khi nghe\"},{\"text\":\" \\\"But what can you do and see on your visit today?\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Travel on converted mining trains \",\"bold\":true},{\"text\":\"and journey into the depths of the mountain along seams once worked by hundreds of miners.\"},{\"text\":\"\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đi trên những chuyến tàu khai khoáng mỏ, \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"specially adapted\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"converted\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"trains\",\"bold\":true},{\"text\":\"\\\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 251,
+          "endTimeInSeconds": 269,
+          "transcripts": [
+           {
+            "id": "8/251555-269351",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 269,
+            "text": "But what can you do and see on your visit today? Here are just a few highlights. We suggest you start with the visit to the copper mine. Travel on converted mining trains and journey into the depths of the mountain along seams once worked by hundreds of miners"
+           }
+          ]
+         },
+         "value": "trains",
+         "blankId": "luJpAw7WbD2p0t7ImYC43"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền trong câu này là một \"},{\"text\":\"danh từ, một lời khuyên liên quan tới tính chất của mỏ quặng\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"But please be warned that\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Câu trên đã được thay cho từ \"},{\"text\":\"\\\"advice\\\"\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"like all mines, ours is very dark and closed in and we do say that children under five and also dogs should NOT be taken into the mine.\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Quặng của chúng tôi cũng rất tối và xung quanh được bao phủ nên trẻ em và chó nuôi không nên được vào sâu trong quặng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án của câu này là \"},{\"text\":\"\\\"dark\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 269,
+          "endTimeInSeconds": 286,
+          "transcripts": [
+           {
+            "id": "9/269351-286705",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 286,
+            "text": "Watch out especially for the great pumping machines which rid the mine of water. But please be warned that, like all mines, ours is very dark and closed in and we do say that children under five and also dogs should NOT be taken into the mine."
+           }
+          ]
+         },
+         "value": "dark",
+         "blankId": "lkq2CYgjDsTM7E9kUCBkP"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền vào câu trên là một \"},{\"text\":\"danh từ liên quan tới vật được trưng bày trong triển lãm đặc biệt \\\"special exhibition\\\"\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"The next recommended visit is to the village school.\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"While looking round the classrooms, take a special look at our display of games\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Khi quan sát xung quanh lớp học, chú ý vào cuộc triển lãm của các bộ trò chơi, \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"display\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"exhibition\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \"},{\"text\":\"\\\"games\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 286,
+          "endTimeInSeconds": 307,
+          "transcripts": [
+           {
+            "id": "10/286705-307342",
+            "startTimeInSeconds": 286,
+            "endTimeInSeconds": 307,
+            "text": "The next recommended visit is to the village school. While looking round the classrooms, take a special look at our display of games, which is one of the largest in the world. And it’s recommended that you time your visit to coincide with a guided tour. This will give you the opportunity to ask lots of questions."
+           }
+          ]
+         },
+         "value": "games",
+         "blankId": "R4AH5jqWz7h-v3iCsn6p9"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền trong câu là một \"},{\"text\":\"danh từ liên quan tới một điều gì đó đã được khuyến nghị\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu \"},{\"text\":\"\\\"And it’s recommended that you time your visit to coincide with a guided tour.\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Và chúng tôi khuyên rằng bạn nên canh giờ tham quan của bạn trùng khớp với một chuyến tham quan đã được hướng dẫn mấu \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án trong câu này là \"},{\"text\":\"\\\"guided tour\\\". \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Có thể nhiều bạn sẽ chọn từ \"},{\"text\":\"\\\"time\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng \"},{\"text\":\"\\\"time\\\"\",\"bold\":true},{\"text\":\" không đi với mạo từ\"},{\"text\":\" \\\"a\\\" \",\"bold\":true},{\"text\":\"vì là danh từ không đếm được.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 286,
+          "endTimeInSeconds": 307,
+          "transcripts": [
+           {
+            "id": "10/286705-307342",
+            "startTimeInSeconds": 286,
+            "endTimeInSeconds": 307,
+            "text": "The next recommended visit is to the village school. While looking round the classrooms, take a special look at our display of games, which is one of the largest in the world. And it’s recommended that you time your visit to coincide with a guided tour. This will give you the opportunity to ask lots of questions."
+           }
+          ]
+         },
+         "value": "guided tour",
+         "blankId": "qYCgXY4GqhqnLH_Dj4PMK"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền vào chỗ trống là một \"},{\"text\":\"danh từ liên quan tới một thứ mà trẻ em không nên sử dụng\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \\\"Look out for \"},{\"text\":\"the ship’s wheel \",\"bold\":true},{\"text\":\"which was missing until only five years ago when it was dredged out of the silt by a local fisherman.\"},{\"text\":\" We have no idea how it got there but it’s been polished and proudly restored to its original place on the boat.\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Please take care going down the ladders if you wish to visit the lower deck – we don’t recommend you allow young children to use them.\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Hãy cẩn thận khi bước xuống thang nếu bạn muốn đi thăm tầng dưới - chúng tôi không khuyến nghị cho phép trẻ em sử dụng chúng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" >> Trẻ em không nên sử dụng ladders >> Đáp án là \"},{\"text\":\"\\\"ladder/ladders\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Ở câu này nhiều bạn có thể không làm được vì không nhớ thông tin ở vế trước. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Trong câu \"},{\"text\":\"\\\"we don’t recommend you allow young children to use them.\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ \"},{\"text\":\"\\\"them\\\"\",\"bold\":true},{\"text\":\" ở đây là \"},{\"text\":\"ladders\",\"bold\":true},{\"text\":\" đã được đề cập ở câu \"},{\"text\":\"\\\"Please take care going down the ladders if you wish to visit the lower deck\\\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 307,
+          "endTimeInSeconds": 344,
+          "transcripts": [
+           {
+            "id": "11/307342-324276",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 324,
+            "text": "Near the school is the beautiful old sailing ketch called ‘The George’. You are welcome to board the boat and look round the cabins. Look out for the shop’s wheel which was missing until only five years ago when it was dredged out of the silt by a local fisherman."
+           },
+           {
+            "id": "12/324276-344821",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 344,
+            "text": "We have no idea how it got there but it’s been polished and proudly restored to its original place on the boat. Please take care going down the ladders if you wish to visit the lower deck – we don’t recommend you allow young children to use them. So we hope you have a memorable visit to Manham Port and will tell your friends all about us. "
+           }
+          ]
+         },
+         "value": "ladder/ladders",
+         "blankId": "7hhZuRomyhGYi5F2N7dcT"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "luJpAw7WbD2p0t7ImYC43",
+         "key": 0
+        },
+        {
+         "id": "lkq2CYgjDsTM7E9kUCBkP",
+         "key": 1
+        },
+        {
+         "id": "R4AH5jqWz7h-v3iCsn6p9",
+         "key": 2
+        },
+        {
+         "id": "qYCgXY4GqhqnLH_Dj4PMK",
+         "key": 3
+        },
+        {
+         "id": "7hhZuRomyhGYi5F2N7dcT",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"LzB-NPXzOron5AcDXBPsv\",\"cellsWidth\":[110,235.01299999999998,281.013],\"children\":[{\"type\":\"tr\",\"id\":\"k88Kn7qLrgVd3QuRZjiMR\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Place\",\"bold\":true}]}]}],\"id\":\"D_uyl3fq-oBmPA_JwP666\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Features and activities\",\"bold\":true}]}]}],\"id\":\"EaTgWlOXIhkzIfS-iqsOr\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Advice\",\"bold\":true}]}]}],\"id\":\"2RvCMtNIsyPLsOt4flz1g\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"47kxWsfPS8Xzl5To4F9be\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Copper mine\"}]}]}],\"id\":\"SNDcT6P3LviKzlqxPIDSj\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Specially adapted miners' \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"luJpAw7WbD2p0t7ImYC43\",\"text\":\"\"}]},{\"text\":\" take visitors into the mountain\"}]}]}],\"id\":\"B8K8n1CEnPV3628809inH\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The mine is \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"lkq2CYgjDsTM7E9kUCBkP\",\"text\":\"\"}]},{\"text\":\" and enclosed - unsuitable for children and animals\"}]}]}],\"id\":\"8rae0Ge4VDMN8JRA9DUoJ\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"YT8DP53-FfgE5pbm62eXb\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Village school\"}]}]}],\"id\":\"Inardf9wXTXIjdPMqBFaO\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Classrooms and a special exhibition of\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"R4AH5jqWz7h-v3iCsn6p9\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"yMXMBQ5dyeO6kA9qpVoVp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qYCgXY4GqhqnLH_Dj4PMK\",\"text\":\"\"}]},{\"text\":\" is recommended\"}]}]}],\"id\":\"xPSFev0rwKp6rauNWjiTQ\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"a6HhuABXTVHmobfjreFM_\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"'The George' ( old sailing ship)\"}]}]}],\"id\":\"PcMLZ6ZTG167bcar_cZl-\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The ship's wheel (was lost but has now been restored)\"}]}]}],\"id\":\"JLHnTNU9XhcD2f_OuqgcY\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Children shouldn't use the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"7hhZuRomyhGYi5F2N7dcT\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ApW5GY12jALx_02AvybvB\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":626.026,\"border\":true}]",
+       "question": "Tourists attractions in Manham"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Placement In The Workplace",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "cb697351-2761-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "cb697352-2761-11ed-9917-6b4c6718aa1d",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO skills did Laura improve as a result of her work placement?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Communication"
+        },
+        {
+         "key": 1,
+         "value": "Design"
+        },
+        {
+         "key": 2,
+         "value": "IT"
+        },
+        {
+         "key": 3,
+         "value": "Marketing"
+        },
+        {
+         "key": 4,
+         "value": "Organisation"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"What kind of skills do you think you developed on the placement?\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn sau khi nghe thấy \"},{\"text\":\"\\\"I did have to use my IT skills to a certain extent because I cut and pasted text from marketing leaflets\\\"\",\"bold\":true},{\"text\":\" thì chọn câu trả lời là \"},{\"text\":\"C\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng mà sau đó \"},{\"text\":\"Laura\",\"bold\":true},{\"text\":\" đã nói rằng những việc này cô đều đã làm hết rồi, câu này cho thấy đây không phải là một kỹ năng mà cô ấy muốn \"},{\"text\":\"\\\"improve\\\"\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại C \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Do you think you got any better at managing your time and prioritising things? You always used to say you had trouble with that…\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sau đó \"},{\"text\":\"Laura đã xác nhận là đúng \\\"Oh, definitely\\\"\",\"bold\":true},{\"text\":\", \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"organisation\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"managing your time and prioritising things \"}],\"colorKey\":\"blue100\"},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 78,
+          "endTimeInSeconds": 129,
+          "transcripts": [
+           {
+            "id": "4/78033-90443",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 90,
+            "text": " What kind of skills do you think you developed on the placement? I mean, apart from the ones you already had … Did you have to do all the artwork for the brochure, the layout and everything?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "5/90443-105307",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 105,
+            "text": " We hired the services of a professional photographer for that. I did have to use my IT skills to a certain extent because I cut and pasted text from marketing leaflets, but that didn’t involve anything I hadn’t done before.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "6/105307-113193",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 113,
+            "text": " Do you think you got any better at managing your time and prioritizing things? You always used to say you had trouble with that …",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "7/113193-129775",
+            "startTimeInSeconds": 113,
+            "endTimeInSeconds": 129,
+            "text": " Oh, definitely. There was so much pressure to meet the project deadline. And I also got better at explaining things and asserting my opinions, because I had to have weekly consultations with the marketing manager and give him a progress report.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I also \"},{\"text\":\"got better at explaining things and asserting my opinions\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giỏi giao tiếp hơn >> \",\"marks\":[]},{\"marks\":[],\"text\":\"chọn A\",\"bold\":true},{\"marks\":[],\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 78,
+          "endTimeInSeconds": 129,
+          "transcripts": [
+           {
+            "id": "4/78033-90443",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 90,
+            "text": " What kind of skills do you think you developed on the placement? I mean, apart from the ones you already had … Did you have to do all the artwork for the brochure, the layout and everything?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "5/90443-105307",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 105,
+            "text": " We hired the services of a professional photographer for that. I did have to use my IT skills to a certain extent because I cut and pasted text from marketing leaflets, but that didn’t involve anything I hadn’t done before.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "6/105307-113193",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 113,
+            "text": " Do you think you got any better at managing your time and prioritizing things? You always used to say you had trouble with that …",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "7/113193-129775",
+            "startTimeInSeconds": 113,
+            "endTimeInSeconds": 129,
+            "text": " Oh, definitely. There was so much pressure to meet the project deadline. And I also got better at explaining things and asserting my opinions, because I had to have weekly consultations with the marketing manager and give him a progress report.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "cb699a63-2761-11ed-9917-6b4c6718aa1d",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO immediate benefits did the company get from Laura’s work placement?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Updates for its software"
+        },
+        {
+         "key": 1,
+         "value": "Cost savings"
+        },
+        {
+         "key": 2,
+         "value": "An improved image"
+        },
+        {
+         "key": 3,
+         "value": "New clients"
+        },
+        {
+         "key": 4,
+         "value": "A growth in sales"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe\"},{\"text\":\" \\\"But you know, the company benefited too…\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Yes, they must have done. After all, if they’d used a professional advertising agency to produce their brochure instead of doing it in-house, presumably they’d have paid a lot more?\\\"\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"\\\"Oh, yes. I worked it out – it would have been 250 per cent more.\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ý của Tim là nếu để một bên thứ 3 làm sách quảng cáo thì phải tốn thêm tiền và Laura cũng đã đồng ý là nó sẽ giúp công ty tiếp kiệm nếu cô tự làm được. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án câu này là \"},{\"text\":\"B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 132,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "9/132554-139780",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 139,
+            "text": " Absolutely. It was really worthwhile … But you know, the company benefited too …",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "10/139780-152271",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 152,
+            "text": " Yes, they must have done. After all, if they’d used a professional advertising agency to produce their brochure instead of doing it in-house, presumably they’d have paid a lot more?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "11/152271-176506",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 176,
+            "text": " Oh, yes. I worked it out – it would have been 250 per cent more. And I thought the end result was good, even though we did everything on site. The company has quite a powerful computer and I managed to borrow some scanning software from the university. The new brochure looks really professional; it enhances the image of the company straight away",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "12/176506-182879",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 182,
+            "text": " So in the long run it should help them to attract clients, and improve their sales figures?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "13/182879-184550",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 184,
+            "text": " That’s the idea. Yeah.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau câu \"},{\"text\":\"\\\"The new brochure looks really professional. It enhances the image of the company straight away.\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cải thiện hình ảnh của công ty\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án tiếp theo là câu \"},{\"text\":\"C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn có thể chọn câu \"},{\"text\":\"D\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"E\",\"bold\":true},{\"text\":\" sau khi nghe câu \"},{\"text\":\"\\\"So in the long run it should help them to attract clients, and improve their sales figures\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng chúng ta đang nói tới \"},{\"text\":\"\\\"immediate benefits\\\"(straight away),\",\"bold\":true},{\"text\":\" chứ không phải \"},{\"text\":\"\\\"in the long run\\\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 132,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "9/132554-139780",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 139,
+            "text": " Absolutely. It was really worthwhile … But you know, the company benefited too …",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "10/139780-152271",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 152,
+            "text": " Yes, they must have done. After all, if they’d used a professional advertising agency to produce their brochure instead of doing it in-house, presumably they’d have paid a lot more?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "11/152271-176506",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 176,
+            "text": " Oh, yes. I worked it out – it would have been 250 per cent more. And I thought the end result was good, even though we did everything on site. The company has quite a powerful computer and I managed to borrow some scanning software from the university. The new brochure looks really professional; it enhances the image of the company straight away",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "12/176506-182879",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 182,
+            "text": " So in the long run it should help them to attract clients, and improve their sales figures?",
+            "character": {
+             "id": "AdVIkB8KeBKDafWSmhMzH",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "13/182879-184550",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 184,
+            "text": " That’s the idea. Yeah.",
+            "character": {
+             "id": "9c8fsvGRSK5xD4opcK9A7",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "cb699a64-2761-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "cb699a65-2761-11ed-9917-6b4c6718aa1d",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "Company manager"
+        },
+        {
+         "key": 1,
+         "value": "Company’s personnel department"
+        },
+        {
+         "key": 2,
+         "value": "Personal tutor"
+        },
+        {
+         "key": 3,
+         "value": "Psychology department"
+        },
+        {
+         "key": 4,
+         "value": "Mentor"
+        },
+        {
+         "key": 5,
+         "value": "University careers officer"
+        },
+        {
+         "key": 6,
+         "value": "Internet"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"8rcNPFVxy--jBNCGqaYot\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"that organises placements for students. You should start by getting their booklet with all the details\\\"\",\"bold\":true},{\"text\":\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":null,\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"getting\"},{\"text\":\" \"},{\"text\":\" \"}]},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":null,\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"obtaining \"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"they’ve got copies in the psychology department – I’ve seen them there\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cho câu hỏi này là \"},{\"text\":\"D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 233,
+          "endTimeInSeconds": 265,
+          "transcripts": [
+           {
+            "id": "14/233094-241257",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 241,
+            "text": " Well, all in all it sounds very positive – I think I will go ahead and apply for a placement myself. How do I go about it?",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "15/241257-258154",
+            "startTimeInSeconds": 241,
+            "endTimeInSeconds": 258,
+            "text": " It’s easy enough to do, because there’s a government agency called STEP – S-T-E-P – that organises placements for students. You should start by getting their booklet with all the details – I expect you can download one from their website.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "16/258154-265945",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 265,
+            "text": " Actually, they’ve got copies in the psychology department – I’ve seen them there. I’ll just go to the office and pick one up.",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"Wrcc0kSqARoUdBB1oEmT9\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"I’d go over all the options with someone\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở đây cụm \"},{\"text\":\"\\\"discussing options\\\"\",\"bold\":true},{\"text\":\" đã được thay thế bằng\"},{\"text\":\" \\\"go over all the options\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"One of the career officers would be better\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhiều bạn sau khi nghe \"},{\"text\":\"\\\"I suppose I should ask my tutor’s advice. He knows more about me than anyone.\\\" \",\"bold\":true},{\"text\":\"thì sẽ chọn câu \"},{\"text\":\"C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng sau đó \"},{\"text\":\"Laura đã phản bác lại là \\\"career officers\\\" sẽ tốt hơn\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại \"},{\"text\":\"C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 265,
+          "endTimeInSeconds": 286,
+          "transcripts": [
+           {
+            "id": "17/265945-272206",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 272,
+            "text": " Right. And then if I were you, after I’d looked at it I’d go over all the options with someone …",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "18/272206-278550",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 278,
+            "text": " I suppose I should ask my tutor’s advice. He knows more about me than anyone.",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "19/278550-285541",
+            "startTimeInSeconds": 278,
+            "endTimeInSeconds": 285,
+            "text": " One of the career officers would be better, they’ve got more knowledge about the jobs market than your personal tutor would have.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           },
+           {
+            "id": "20/285541-286557",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 286,
+            "text": " OK …",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"DIQCsgoyIQyXUhuIOZEwJ\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"get updates yourself\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"by checking the websites for new placement alerts\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Trong câu trên, đoạn audio không nói rõ là \"},{\"text\":\"\\\"internet\\\"\",\"bold\":true},{\"text\":\" mà đã paraphrase thành \"},{\"text\":\"\\\"websites\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là câu \"},{\"text\":\"G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhiều bạn sau khi nghe \"},{\"text\":\"\\\"Your mentor is supposed to keep you informed, but you can’t rely on that.\\\"\",\"bold\":true},{\"text\":\" thì chọn câu\"},{\"text\":\" E \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng Laura đã nói rằng bạn không thể phụ thuộc vào đó \"},{\"text\":\"\\\"you can't rely on that\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại E \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 298,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "22/298702-303383",
+            "startTimeInSeconds": 298,
+            "endTimeInSeconds": 303,
+            "text": " And then I suppose you just sit back and wait till you hear something?",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "23/303383-317111",
+            "startTimeInSeconds": 303,
+            "endTimeInSeconds": 317,
+            "text": " They told me at the careers office that it’s best to be proactive, and get updates yourself by checking the website for new placement alerts. Your mentor is supposed to keep you informed, but you can’t rely on that.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"Z32YN4gF4APurG4fMWn2d\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"But it is the company who notifies you if they want you to go for an interview.\\\"\",\"bold\":true},{\"text\":\" là biết\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ \"},{\"text\":\"\\\"inform\\\"\",\"bold\":true},{\"text\":\" ở đây đã được paraphrase thành từ \"},{\"text\":\"\\\"notify\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"You get a letter of invitation or an email from personnel departments\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 323,
+          "endTimeInSeconds": 334,
+          "transcripts": [
+           {
+            "id": "25/323034-334134",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 334,
+            "text": " Not really … But it is the company who notifies you if they want you to go for an interview. You get a letter of invitation or an email from personnel departments.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"5AJ0C17AjFVqTA0HlI4ic\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe\"},{\"text\":\" \\\"once you've had an interview\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"you should let your mentor know what the outcome is?\\\" \",\"bold\":true},{\"text\":\"và lời xác nhận của Laura\"},{\"text\":\" \\\"That's right\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":null,\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"inform\"},{\"text\":\" \"},{\"text\":\" \"}]},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":null,\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"let someone know\"},{\"text\":\" \"},{\"text\":\" \"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Câu trả lời là câu \"},{\"text\":\"E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 341,
+          "endTimeInSeconds": 360,
+          "transcripts": [
+           {
+            "id": "28/341419-353260",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 353,
+            "text": " Right … So, once you’ve had an interview you should let your mentor know what the outcome is? I mean whether you’re offered a job, and whether you’ve decided to accept it?",
+            "character": {
+             "id": "PykKiH9Nvebbtk09IW7hm",
+             "name": "TIM"
+            }
+           },
+           {
+            "id": "29/353260-360398",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 360,
+            "text": " That’s right. They’ll inform the careers office once a placement has been agreed, so you don’t have to do that.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"EjdYXjaS7WPVDMTnHGHvR\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"Only once you’ve accepted an offer you’ll probably have to supply a reference, because the placement will be conditional on that.\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"And that’s something you should ask your own tutor to provide\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 362,
+          "endTimeInSeconds": 380,
+          "transcripts": [
+           {
+            "id": "31/362489-380951",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 380,
+            "text": " More or less. Only once you’ve accepted an offer you’ll probably have to supply a reference, because the placement will be conditional on that. And that’s something you should ask your own tutor to provide. He knows about your academic ability and also about your qualities, like reliability.",
+            "character": {
+             "id": "yJHNRx4Nh9nG3NvHaIaCZ",
+             "name": "LAURA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Obtaining booklet"
+        },
+        {
+         "key": 1,
+         "value": "Discussing options"
+        },
+        {
+         "key": 2,
+         "value": "Getting updates"
+        },
+        {
+         "key": 3,
+         "value": "Responding to invitation for interview"
+        },
+        {
+         "key": 4,
+         "value": "Informing about outcome of interview"
+        },
+        {
+         "key": 5,
+         "value": "Requesting a reference"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What source of information should Tim use at each of the following stages of the work placement?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "<Reading Passage Number> has <numberOfParagraphs> sections <firstLabel> to <lastLabel>."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections <firstLabel>-<lastLabel> from the list of headings below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Nanotechnology",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "733dc701-54a5-11ef-9485-9f0266c1333d",
+     "questions": [
+      {
+       "uuid": "733dc702-54a5-11ef-9485-9f0266c1333d",
+       "type": "SINGLE_ANSWER",
+       "question": "The speaker says that one problem with nanotechnology is that",
+       "options": [
+        {
+         "key": 0,
+         "value": "it could threaten our way of life."
+        },
+        {
+         "key": 1,
+         "value": "it could be used to spy on people."
+        },
+        {
+         "key": 2,
+         "value": "it is misunderstood by the public."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe thấy \\\"However, all new technologies have their teething \"},{\"text\":\"problems\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"with \"},{\"text\":\"nanotechnology\",\"bold\":true},{\"text\":\", \"},{\"text\":\"society often gets the wrong idea about its capabilities\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Với công nghệ nano, xã hội thường hiểu sai về khả năng của nó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 97,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "1/97353-114550",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 114,
+            "text": "There’s no doubt that nanotechnology promises so much for civilisation. However, all new technologies have their teething problems. And with nanotechnology, society often gets the wrong idea about its capabilities. "
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "733dc703-54a5-11ef-9485-9f0266c1333d",
+       "type": "SINGLE_ANSWER",
+       "question": "According to the speaker, some scientists believe that nano-particles",
+       "options": [
+        {
+         "key": 0,
+         "value": "should be restricted to secure environments."
+        },
+        {
+         "key": 1,
+         "value": "should be used with more caution."
+        },
+        {
+         "key": 2,
+         "value": "should only be developed for essential products."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"scientists\\\" và \\\"nano-particles\\\" là biết\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Some \"},{\"text\":\"scientists \",\"bold\":true},{\"text\":\"recommend that \"},{\"text\":\"nano-particles be treated as new chemicals with separate safety tests and clear labelling\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một số nhà khoa học khuyến nghị rằng các hạt nano được coi như hóa chất mới với các thử nghiệm an toàn riêng biệt và ghi nhãn rõ ràng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tiếp đó bạn lại nghe \\\"They believe that \"},{\"text\":\"greater care should also be taken with nano-particles\",\"bold\":true},{\"text\":\" in laboratories and factories \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ tin rằng cũng nên quan tâm nhiều hơn đến các hạt nano trong các phòng thí nghiệm và nhà máy\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chúng ta cần thận trọng khi sử dụng loại hóa chất này >> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 135,
+          "endTimeInSeconds": 167,
+          "transcripts": [
+           {
+            "id": "3/135631-167815",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 167,
+            "text": "So how do we safeguard such a potentially powerful technology? Some scientists recommend that nano-particles be treated as new chemicals with separate safety tests and clear labelling. They believe that greater care should also be taken with nano-particles in laboratories and factories. Others have called for a withdrawal of new nano products such as cosmetics and a temporary halt to many kinds of nanotech research."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "733dc704-54a5-11ef-9485-9f0266c1333d",
+       "type": "SINGLE_ANSWER",
+       "question": "In the speaker’s opinion, research into nanotechnology",
+       "options": [
+        {
+         "key": 0,
+         "value": "has yet to win popular support."
+        },
+        {
+         "key": 1,
+         "value": "could be seen as unethical."
+        },
+        {
+         "key": 2,
+         "value": "ought to be continued."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"But as far as I’m concerned \"},{\"text\":\"there’s a need to plough ahead with the discoveries and applications of nanotechnology\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng theo như tôi thì cần phải tiếp tục phát triển những khám phá và ứng dụng của công nghệ nano\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \\\"\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"plough ahead\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\\\"=\\\"\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"continue\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\"},{\"text\":\"\\\" >> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 167,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "4/167815-199661",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 199,
+            "text": "But as far as I’m concerned there’s a need to plough ahead with the discoveries and applications of nanotechnology. I really believe that most scientists would welcome a way to guard against unethical uses of such technology. We can’t go around thinking that all innovation is bad, all advancement is bad. As with the debate about any new technology, it is how you use it that’s important. So let’s look at some of its possible uses."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A, B or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "D.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "733dc705-54a5-11ef-9485-9f0266c1333d",
+     "questions": [
+      {
+       "uuid": "733dc706-54a5-11ef-9485-9f0266c1333d",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"transportation\\\" là biết đang nói về phần \\\"transport\\\" và \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"there could be a major breakthrough in the field of \"},{\"text\":\"transportation with the production of more durable metals\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có thể có một bước đột phá lớn trong lĩnh vực giao thông vận tải với việc sản xuất các kim loại bền hơn\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"metals\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 199,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "5/199661-236031",
+            "startTimeInSeconds": 199,
+            "endTimeInSeconds": 236,
+            "text": "Thanks to nanotechnology, there could be a major breakthrough in the field of transportation with the production of more durable metals. These could be virtually unbreakable, lighter and much more pliable leading to planes that are 50 times lighter than at present. Those same improved capabilities will dramatically reduce the cost of travelling into space making it more accessible to ordinary people and opening up to totally new holiday destination."
+           }
+          ]
+         },
+         "value": "metal/metals",
+         "blankId": "IOyZDo1V7yXN8cloRsxMD"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun/adj \",\"bold\":true},{\"text\":\"bổ nghĩa cho \\\"travel\\\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"Those same improved capabilities will dramatically reduce the cost of\"},{\"text\":\" travelling into space making it more accessible to ordinary people\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giảm đáng kể chi phí du hành vào vũ trụ, khiến người bình thường dễ tiếp cận hơn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"space\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 199,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "5/199661-236031",
+            "startTimeInSeconds": 199,
+            "endTimeInSeconds": 236,
+            "text": "Thanks to nanotechnology, there could be a major breakthrough in the field of transportation with the production of more durable metals. These could be virtually unbreakable, lighter and much more pliable leading to planes that are 50 times lighter than at present. Those same improved capabilities will dramatically reduce the cost of travelling into space making it more accessible to ordinary people and opening up to totally new holiday destination."
+           }
+          ]
+         },
+         "value": "space",
+         "blankId": "RRSKXKLv1r0wQC79OZt7Y"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền là một \"},{\"text\":\"danh từ là một thứ mà computer thời nay hơn thời xưa\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi bạn nghe \"},{\"text\":\"\\\"In terms of technology, the computer industry will be able to shrink computer parts down to minute sizes\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe được \"},{\"text\":\"\\\"a new generation of computers that will work even faster and will have a million times more memory but will be about the size of a sugar cube\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thế hệ máy tính mới sẽ làm việc nhanh hơn, có bộ nhớ nhiều gấp một triệu lần nhưng với kích thước chỉ bằng một viên đường \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền ở đây là \"},{\"text\":\"\\\"memory\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 259,
+          "transcripts": [
+           {
+            "id": "6/236031-259537",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 259,
+            "text": "In terms of technology, the computer industry will be able to shrink computer parts down to minute sizes. We need nanotechnology in order to create a new generation of computers that will work even faster and will have a million times more memory but will be about the size of a sugar cube"
+           }
+          ]
+         },
+         "value": "memory",
+         "blankId": "bAWYNlJ4VQtjFvQxXYuQO"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền trong câu này là một \"},{\"text\":\"tính từ liên quan tới 1 loại năng lượng (solar, wind, coal, ...)\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe tới \"},{\"text\":\"\\\"we generate power\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"The cost of solar cells will be drastically reduced so harnessing this energy will be far more economical than at present.\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giá của các viên pin mặt trời sẽ giảm một cách đáng kể, vì thế khai thác loại năng lượng này sẽ rẻ hơn hiện nay \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \"},{\"text\":\"\\\"solar\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 259,
+          "endTimeInSeconds": 273,
+          "transcripts": [
+           {
+            "id": "7/259537-273221",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 273,
+            "text": "Nanotechnology could also revolutionise the way that we generate power. The cost of solar cells will be drastically reduced so harnessing this energy will be far more economical than at present."
+           }
+          ]
+         },
+         "value": "solar",
+         "blankId": "0IJQE8czi2ZeWLdKaM_B8"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền là một \"},{\"text\":\"danh từ liên quan tới việc loại bỏ danh từ đó khỏi nguồn nước\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe về \\\"nano-robots could be programmed to actually rebuild the ozone layer\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Là ý thứ nhất >> sau đó nghe tiếp \\\"On a more local scale\\\" là biết sang ý mới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"nanotechnology will allow us to remove oil and other contaminants from the water far more effectively.\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Công nghệ nano sẽ cho phép chúng ta loại bỏ dầu và các chất độc hại khác ra khỏi nước một cách hiệu quả hơn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \"},{\"text\":\"\\\"oil\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn có thể điền \"},{\"text\":\"\\\"contaminants\\\"\",\"bold\":true},{\"text\":\" từ này đồng nghĩa với \"},{\"text\":\"\\\"pollutants\\\"\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 295,
+          "endTimeInSeconds": 313,
+          "transcripts": [
+           {
+            "id": "9/295296-313651",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 313,
+            "text": "That’s a pretty amazing thought, isn’t it? On a more local scale, this new technology could help with the clean-up of environmental disasters as nanotechnology will allow us to remove oil and other contaminants from the water far more effectively"
+           }
+          ]
+         },
+         "value": "oil",
+         "blankId": "D220gYtNLyDr4HeBncF_i"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền là một danh từ và \"},{\"text\":\"danh từ này sẽ không còn xuất hiện trong quá trình sản xuất (no ... from manufacturing)\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \\\"In terms of \"},{\"text\":\"production\",\"bold\":true},{\"text\":\",\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"In terms of production, this means that you only use what you need and so there wouldn’t be any waste\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Trong việc sản xuất, điều này có nghĩa là bạn chỉ dùng những gì bạn cần và sẽ không còn chất thải nữa \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền vào khoảng trống là \"},{\"text\":\"\\\"waste\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 313,
+          "endTimeInSeconds": 334,
+          "transcripts": [
+           {
+            "id": "10/313651-334412",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 334,
+            "text": "And, if nanotechnology progresses as expected – as a sort of building block set of about 90 atoms – then you could build anything you wanted from the bottom up. In terms of production, this means that you only use what you need and so there wouldn’t be any waste."
+           }
+          ]
+         },
+         "value": "waste",
+         "blankId": "RgqBOFwNEkS5c4RptArH2"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ cần điền vào chỗ trống là một \"},{\"text\":\"danh từ liên quan tới việc phân tích trong y học\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Đáp án tới sau khi nghe \\\"in the \"},{\"text\":\"area of medicine\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"tiny biosensors are developed to analyse tests in minutes rather than days\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chip cảm ứng sinh học được phát triển để phân tích các bài xét nghiệm trong vòng vài phút thay vì vài ngày \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \"},{\"text\":\"\\\"tests\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 356,
+          "endTimeInSeconds": 380,
+          "transcripts": [
+           {
+            "id": "12/356446-380820",
+            "startTimeInSeconds": 356,
+            "endTimeInSeconds": 380,
+            "text": "But it’s in the area of medicine that nanotechnology may have its biggest impact. How we detect disease will change as tiny biosensors are developed to analyse tests in minutes rather than days. There’s even speculation nano-robots could be used to slow the ageing process, lengthening life expectancy."
+           }
+          ]
+         },
+         "value": "tests",
+         "blankId": "NYkwuoi030Zm-H92K9hor"
+        }
+       ],
+       "heading": "Uses of Nanotechnology",
+       "paragraph": {
+        "id": "9lrj8_UTY311xBuQpWrc8",
+        "editorValue": "[{\"children\":[{\"text\":\"Transport\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Nanotechnology could allow the development of stronger\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(34) \"}],\"id\":\"IOyZDo1V7yXN8cloRsxMD\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Planes would be much lighter in weight.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (35)  \"}],\"id\":\"RRSKXKLv1r0wQC79OZt7Y\"},{\"text\":\" travel will be made available to the masses.\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Technology\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Computers will be even smaller, faster, and will have a greater\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (36) \"}],\"id\":\"bAWYNlJ4VQtjFvQxXYuQO\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(37)  \"}],\"id\":\"0IJQE8czi2ZeWLdKaM_B8\"},{\"text\":\" energy will become more affordable.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"The Environment\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Nano-robots could rebuild the ozone layer.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Pollutants such as\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (38)  \"}],\"id\":\"D220gYtNLyDr4HeBncF_i\"},{\"text\":\" could be removed from water more easily.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There will be no\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (39)  \"}],\"id\":\"RgqBOFwNEkS5c4RptArH2\"},{\"text\":\" from manufacturing.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Health and Medicine\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"New methods of food production could eradicate famine.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Analysis of medical\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (40) \"}],\"id\":\"NYkwuoi030Zm-H92K9hor\"},{\"text\":\" will be speeded up.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Life expectancy could be increased.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "IOyZDo1V7yXN8cloRsxMD",
+          "key": 0
+         },
+         {
+          "id": "RRSKXKLv1r0wQC79OZt7Y",
+          "key": 1
+         },
+         {
+          "id": "bAWYNlJ4VQtjFvQxXYuQO",
+          "key": 2
+         },
+         {
+          "id": "0IJQE8czi2ZeWLdKaM_B8",
+          "key": 3
+         },
+         {
+          "id": "D220gYtNLyDr4HeBncF_i",
+          "key": 4
+         },
+         {
+          "id": "RgqBOFwNEkS5c4RptArH2",
+          "key": 5
+         },
+         {
+          "id": "NYkwuoi030Zm-H92K9hor",
+          "key": 6
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:29Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

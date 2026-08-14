@@ -1,0 +1,411 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 91.164,
+   "end": 92.197,
+   "text": "Hello?",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c2",
+   "start": 92.207,
+   "end": 94.788,
+   "text": "Oh hello. My name's Jan.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c3",
+   "start": 94.798,
+   "end": 99.986,
+   "text": "Are you the right person to talk to about the Buckworth Conservation Group?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c4",
+   "start": 99.996,
+   "end": 102.402,
+   "text": "Yes, I'm Peter. I'm the secretary.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c5",
+   "start": 102.412,
+   "end": 108.214,
+   "text": "Good. I've just moved to this area, and I'm interested in getting involved.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c6",
+   "start": 108.224,
+   "end": 111.095,
+   "text": "I was in a similar group where I used to live.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c7",
+   "start": 111.105,
+   "end": 114.725,
+   "text": "Could you tell me something about your activities, please?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c8",
+   "start": 114.735,
+   "end": 119.883,
+   "text": "Of course. Well, we have a mixture of regular activities and special events.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c9",
+   "start": 119.893,
+   "end": 123.974,
+   "text": "One of the regular ones is trying to keep the beach free of litter.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c10",
+   "start": 123.984,
+   "end": 129.304,
+   "text": "A few of us spend a couple of hours a month on it, and it's awful how much there is to clear.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c11",
+   "start": 129.314,
+   "end": 132.951,
+   "text": "I wish people would be more responsible and take it home with them.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c12",
+   "start": 132.961,
+   "end": 134.53,
+   "text": "I totally agree.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c13",
+   "start": 134.54,
+   "end": 137.03,
+   "text": "I'd be happy to help with that.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c14",
+   "start": 137.04,
+   "end": 139.227,
+   "text": "Is it OK to take dogs?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c15",
+   "start": 139.237,
+   "end": 142.514,
+   "text": "I'm afraid not, as they're banned from the beach itself.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c16",
+   "start": 142.524,
+   "end": 146.454,
+   "text": "You can take them along the cliffs, though. And children are welcome.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c17",
+   "start": 146.464,
+   "end": 147.544,
+   "text": "Right.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c18",
+   "start": 147.554,
+   "end": 152.134,
+   "text": "We also manage a nature reserve, and there's a lot to do there all year round.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c19",
+   "start": 152.144,
+   "end": 160.852,
+   "text": "For example, because it's a popular place to visit, we spend a lot of time looking after the paths and making sure they're in good condition for walking.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c20",
+   "start": 160.862,
+   "end": 163.309,
+   "text": "I could certainly help with that.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c21",
+   "start": 163.319,
+   "end": 167.67,
+   "text": "Good. And we have a programme of creating new habitats there.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c22",
+   "start": 167.68,
+   "end": 179.36,
+   "text": "We've just finished making and installing nesting boxes for birds to use, and next we're going to work on encouraging insects - they're important for the biodiversity of the reserve.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c23",
+   "start": 179.37,
+   "end": 180.74,
+   "text": "They certainly are.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c24",
+   "start": 180.75,
+   "end": 187.539,
+   "text": "Oh, and we're also running a project to identify the different species of butterflies that visit the reserve.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c25",
+   "start": 187.549,
+   "end": 190.056,
+   "text": "You might be interested in taking part in that.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c26",
+   "start": 190.066,
+   "end": 197.398,
+   "text": "Sure. I was involved in something similar where I used to live, counting all the species of moths.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c27",
+   "start": 197.408,
+   "end": 198.639,
+   "text": "I'd enjoy that.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c28",
+   "start": 198.649,
+   "end": 206.228,
+   "text": "Another job we're doing at the reserve is replacing the wall on the southern side, between the parking area and our woodshed.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c29",
+   "start": 206.238,
+   "end": 209.329,
+   "text": "It was badly damaged in a storm last month.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c30",
+   "start": 209.339,
+   "end": 210.009,
+   "text": "ОK.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c31",
+   "start": 250.806,
+   "end": 257.052,
+   "text": "Then as I said, we have a programme of events as well, both at the weekend, and during the week.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c32",
+   "start": 257.062,
+   "end": 261.378,
+   "text": "Right. I presume you have guided walks?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c33",
+   "start": 261.388,
+   "end": 265.968,
+   "text": "I'd like to get to know the local countryside, as I'm new to the area.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c34",
+   "start": 265.978,
+   "end": 266.946,
+   "text": "Yes, we do.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c35",
+   "start": 266.956,
+   "end": 270.836,
+   "text": "The next walk is to Ruston Island, a week on Saturday.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c36",
+   "start": 270.846,
+   "end": 279.576,
+   "text": "We'll be meeting in the car park at Dunsmore Beach at low tide - that's when the sands are dry enough for us to walk to the island without getting wet.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c37",
+   "start": 279.586,
+   "end": 280.857,
+   "text": "Sounds good.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c38",
+   "start": 280.867,
+   "end": 283.587,
+   "text": "The island's a great place to explore.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c39",
+   "start": 283.597,
+   "end": 286.868,
+   "text": "It's quite small, and it's got a range of habitats.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c40",
+   "start": 286.878,
+   "end": 292.677,
+   "text": "It's also an ideal location for seeing seals just off the coast, or even on the beach.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c41",
+   "start": 292.687,
+   "end": 299.095,
+   "text": "OK. And is there anything we should bring, like a picnic, for instance?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c42",
+   "start": 299.105,
+   "end": 302.405,
+   "text": "Yes, do bring one, as it's a full-day walk.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c43",
+   "start": 302.415,
+   "end": 308.655,
+   "text": "And of course it'll be wet walking across and back, so make sure your boots are waterproof.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c44",
+   "start": 308.665,
+   "end": 313.164,
+   "text": "I must buy a new pair - there's a hole in one of my current ones!",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c45",
+   "start": 313.174,
+   "end": 316.933,
+   "text": "Well, I'd definitely like to come on the walk.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c46",
+   "start": 316.943,
+   "end": 323.251,
+   "text": "Great. Then later this month we're having a one-day woodwork session in Hopton Wood.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c47",
+   "start": 323.261,
+   "end": 325.351,
+   "text": "I've never tried that before.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c48",
+   "start": 325.361,
+   "end": 328.409,
+   "text": "Is it OK for beginners to take part?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c49",
+   "start": 328.419,
+   "end": 336.896,
+   "text": "Definitely. There'll be a couple of experts leading the session, and we keep the number of participants down, so you'll get as much help as you need.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c50",
+   "start": 336.906,
+   "end": 340.537,
+   "text": "Excellent! I'd love to be able to make chairs.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c51",
+   "start": 340.547,
+   "end": 343.435,
+   "text": "That's probably too ambitious for one day!",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c52",
+   "start": 343.445,
+   "end": 349.055,
+   "text": "You'll be starting with wooden spoons, and of course learning how to use the tools.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c53",
+   "start": 349.065,
+   "end": 352.368,
+   "text": "And anything you make is yours to take home with you.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c54",
+   "start": 352.378,
+   "end": 355.678,
+   "text": "That sounds like fun. When is it?",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c55",
+   "start": 355.688,
+   "end": 359.216,
+   "text": "It's on the 17th, from 10 a.m. until 3.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c56",
+   "start": 359.226,
+   "end": 367.127,
+   "text": "There's a charge of £35, including lunch, or £40 if you want to camp in the wood.",
+   "speaker": "PETER"
+  },
+  {
+   "id": "c57",
+   "start": 367.137,
+   "end": 369.859,
+   "text": "I should think I'll come home the same day.",
+   "speaker": "JAN"
+  },
+  {
+   "id": "c58",
+   "start": 369.869,
+   "end": 373.131,
+   "text": "Well, I'd certainly like to join the group.",
+   "speaker": "JAN"
+  }
+ ]
+}

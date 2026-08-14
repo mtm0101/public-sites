@@ -1,0 +1,81 @@
+{
+ "schema": 1,
+ "id": "actual2-t12-listening",
+ "title": "Actual Test 2 - Listening Test 12",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 12,
+ "order": 75,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-2-test-12-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Hotel Recommendation",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a7607e89-207c-4ac4-b5a1-4ec36606c197.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 16157301
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4b2b92a8-59ef-4735-9bc2-4dc3151e4353.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Durham County Car Show",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/14485ad4-5ad2-4b67-aaad-f78ba0e26eb4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13935848
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8d227a60-b699-43d6-afc5-702222c49643.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 28
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Role Of Sleep In Humans And Animals",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aa23dcc6-27d6-458c-b24e-f6952d2d2879.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 16763342
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/83414e20-8391-4ff6-9426-e7d3e6cc1899.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 37
+   },
+   "id": "s3",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:43:52Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 30,
+  "availableLocal": true
+ }
+}

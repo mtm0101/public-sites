@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam10-t2-listening",
+ "title": "CAM IELTS 10 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 10",
+ "testNum": 2,
+ "order": 42,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-10-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Transport Survey",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7b7ae22d-be13-4c47-aabe-dd8c61e3ee8d.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 9498122
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1acab81e-960a-444d-8697-65804240a515.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "New City Development",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/bec95791-4904-4ec3-b173-4d7f286b0ae8.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 8686863
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a6714895-f58f-42eb-88df-62eee9d5377e.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Life Of Thor Heyerdahl",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5f3444fd-728d-47e3-8568-aa01caef4860.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 10773942
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/21d61073-9761-476b-932b-78a5fbeffae6.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 28
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Future Of Management",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d35a50cb-759e-429f-9d8f-243ab2c0ebae.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 9917544
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2ce01f22-dd8c-4ad2-925f-b750ef2854db.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 12
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:46:07Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

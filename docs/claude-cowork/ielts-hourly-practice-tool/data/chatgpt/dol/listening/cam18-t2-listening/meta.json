@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam18-t2-listening",
+ "title": "CAM IELTS 18 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 18",
+ "testNum": 2,
+ "order": 10,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-18-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Working at Milo's Restaurants",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/dbbec77a-d85c-4f72-85b2-40eeacacfaec.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7501009
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/f3aa4382-1dce-442c-8090-fe7ed529d677.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The new housing development",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/8c8d76a5-b172-460e-9265-924564d8fd78.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6995696
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/7d59094b-5bb1-4e5c-8e17-d21b346e732b.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 11
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Laki eruption",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/9d950d2b-329c-431e-959b-b3a4cc07dfd8.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6848575
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/19ec67de-6856-43a7-b13b-16b09e38de86.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Pockets",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/bc0aa70b-02b4-4637-bfdf-39ba66f0b685.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6815556
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/7a9c2862-86df-4f38-9fc7-7c81860bcaab.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 5
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:34:53Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

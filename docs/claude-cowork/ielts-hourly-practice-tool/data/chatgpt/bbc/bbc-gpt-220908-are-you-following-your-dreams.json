@@ -1,0 +1,128 @@
+{
+ "schema": 1,
+ "format": "bbc-6min",
+ "id": "bbc-gpt-220908-are-you-following-your-dreams",
+ "title": "Are you following your dreams?",
+ "episode": {
+  "title": "Are you following your dreams?",
+  "date": "2022-09-08",
+  "code": "ep-220908",
+  "summary": "This episode explores what happens when adults continue to pursue childhood dreams. It presents a shared community in New Zealand and a family who travelled around the world, showing how unusual choices can produce meaning, humility and fewer regrets. The programme encourages listeners to balance courage with reflection."
+ },
+ "dialogueMode": "paraphrase",
+ "transcriptSourceSentenceCount": 50,
+ "dialogueRenderedSentenceCount": 50,
+ "links": {
+  "bbc": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220908",
+  "transcript": "https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220908",
+  "sounds": "https://www.bbc.co.uk/sounds/search?q=Are%20you%20following%20your%20dreams",
+  "spotify": "https://open.spotify.com/search/Are%20you%20following%20your%20dreams"
+ },
+ "quiz": {
+  "question": "What was the top regret reported in The Top Five Regrets of the Dying?",
+  "options": [
+   "I wish I had not worked so hard.",
+   "I wish I had followed my dreams.",
+   "I wish I had made more money."
+  ],
+  "answer": "I wish I had followed my dreams."
+ },
+ "vocabulary": [
+  {
+   "word": "utopia",
+   "ipa": "/juːˈtoʊpiə/",
+   "definition": "a perfect, ideal society where everyone is happy",
+   "vi": "xã hội lý tưởng nơi mọi người hạnh phúc"
+  },
+  {
+   "word": "struggle with",
+   "ipa": "/ˈstrʌɡəl wɪð/",
+   "definition": "find something difficult to accept or think about",
+   "vi": "cảm thấy khó chấp nhận hoặc suy nghĩ về điều gì"
+  },
+  {
+   "word": "outlandish",
+   "ipa": "/aʊtˈlændɪʃ/",
+   "definition": "strange, unusual and hard to accept",
+   "vi": "kỳ lạ, khác thường và khó chấp nhận"
+  },
+  {
+   "word": "conquer",
+   "ipa": "/ˈkɑːŋkər/",
+   "definition": "control something by force",
+   "vi": "chinh phục hoặc kiểm soát bằng sức mạnh"
+  },
+  {
+   "word": "humble",
+   "ipa": "/ˈhʌmbəl/",
+   "definition": "not proud or arrogant",
+   "vi": "khiêm tốn, không kiêu ngạo"
+  },
+  {
+   "word": "a grain of sand",
+   "ipa": "/ə ɡreɪn əv sænd/",
+   "definition": "a tiny but meaningful part of a larger whole",
+   "vi": "một phần rất nhỏ nhưng có ý nghĩa trong tổng thể lớn"
+  }
+ ],
+ "sections": [
+  {
+   "id": "vocab",
+   "title": "Vocabulary",
+   "level": 1,
+   "html": "<div class=\"vocab-list\"><p class=\"en\"><strong>utopia</strong>: a perfect society where everyone is happy.</p><p class=\"vi\"><strong>utopia</strong>: xã hội lý tưởng nơi mọi người hạnh phúc.</p><p class=\"en\"><strong>struggle with</strong>: find something difficult to accept.</p><p class=\"vi\"><strong>struggle with</strong>: cảm thấy khó chấp nhận điều gì.</p><p class=\"en\"><strong>outlandish</strong>: strange and unusual.</p><p class=\"vi\"><strong>outlandish</strong>: kỳ lạ và khác thường.</p><p class=\"en\"><strong>conquer</strong>: control something by force.</p><p class=\"vi\"><strong>conquer</strong>: chinh phục bằng sức mạnh.</p><p class=\"en\"><strong>humble</strong>: not proud or arrogant.</p><p class=\"vi\"><strong>humble</strong>: khiêm tốn, không kiêu ngạo.</p><p class=\"en\"><strong>a grain of sand</strong>: a tiny but meaningful part of a whole.</p><p class=\"vi\"><strong>a grain of sand</strong>: một phần rất nhỏ nhưng có ý nghĩa trong tổng thể.</p></div>"
+  },
+  {
+   "id": "dialogue",
+   "title": "Bilingual Study Dialogue",
+   "level": 1,
+   "html": "<div class=\"dialogue-disclaimer\"><p class=\"en\">This is a paraphrased learning version based on the complete episode transcript.</p><p class=\"vi\">Đây là bản diễn giải để học dựa trên toàn bộ bản ghi của tập.</p><p class=\"en\"><a class=\"ext-link\" href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220908\" target=\"_blank\" rel=\"noopener\">↗ View original transcript</a></p><p class=\"vi\">↗ Xem bản ghi gốc</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Presenter</span><p class=\"en\">Welcome to 6 Minute English.</p><p class=\"vi\">Chào mừng bạn đến với 6 Minute English.</p><p class=\"en\">Today we are discussing childhood dreams.</p><p class=\"vi\">Hôm nay chúng ta thảo luận về ước mơ thời thơ ấu.</p><p class=\"en\">Many children imagine exciting futures.</p><p class=\"vi\">Nhiều trẻ em hình dung tương lai thú vị.</p><p class=\"en\">Adult responsibilities often change those plans.</p><p class=\"vi\">Trách nhiệm khi trưởng thành thường làm thay đổi những kế hoạch đó.</p><p class=\"en\">Some people still follow their dreams.</p><p class=\"vi\">Một số người vẫn theo đuổi ước mơ.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Co-presenter</span><p class=\"en\">The programme presents two examples.</p><p class=\"vi\">Chương trình đưa ra hai ví dụ.</p><p class=\"en\">They wanted more meaningful lives.</p><p class=\"vi\">Họ muốn có cuộc sống ý nghĩa hơn.</p><p class=\"en\">One dream was to create a <strong>utopia</strong>.</p><p class=\"vi\">Một ước mơ là tạo ra một <strong>xã hội lý tưởng</strong>.</p><p class=\"en\">A utopia is an ideal society.</p><p class=\"vi\">Utopia là một xã hội lý tưởng.</p><p class=\"en\">The quiz asks about people’s greatest regret.</p><p class=\"vi\">Câu đố hỏi về điều con người hối tiếc nhất.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Presenter</span><p class=\"en\">One option is working too hard.</p><p class=\"vi\">Một lựa chọn là làm việc quá chăm chỉ.</p><p class=\"en\">Another is not following dreams.</p><p class=\"vi\">Một lựa chọn khác là không theo đuổi ước mơ.</p><p class=\"en\">The final option is not making enough money.</p><p class=\"vi\">Lựa chọn cuối là không kiếm đủ tiền.</p><p class=\"en\">The guess is not following dreams.</p><p class=\"vi\">Dự đoán là không theo đuổi ước mơ.</p><p class=\"en\">The first dreamer lives in New Zealand.</p><p class=\"vi\">Người theo đuổi ước mơ đầu tiên sống ở New Zealand.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Co-presenter</span><p class=\"en\">She belongs to a shared community.</p><p class=\"vi\">Cô thuộc về một cộng đồng chia sẻ.</p><p class=\"en\">Members work in community businesses.</p><p class=\"vi\">Các thành viên làm việc trong các cơ sở kinh doanh cộng đồng.</p><p class=\"en\">Their income is shared equally.</p><p class=\"vi\">Thu nhập của họ được chia đều.</p><p class=\"en\">Sharing resources can benefit everyone.</p><p class=\"vi\">Chia sẻ nguồn lực có thể mang lợi ích cho mọi người.</p><p class=\"en\">Many outsiders <strong>struggle with</strong> this idea.</p><p class=\"vi\">Nhiều người bên ngoài <strong>khó chấp nhận</strong> ý tưởng này.</p></div><div class=\"dialogue-turn guest\"><span class=\"speaker-name\">Guest expert</span><p class=\"en\">Some attach a political label to the community.</p><p class=\"vi\">Một số người gắn nhãn chính trị cho cộng đồng.</p><p class=\"en\">They consider the system <strong>outlandish</strong>.</p><p class=\"vi\">Họ cho rằng hệ thống này <strong>kỳ lạ</strong>.</p><p class=\"en\">Outlandish means strange and unusual.</p><p class=\"vi\">Outlandish nghĩa là kỳ lạ và khác thường.</p><p class=\"en\">The second story concerns a travelling family.</p><p class=\"vi\">Câu chuyện thứ hai nói về một gia đình đi du lịch.</p><p class=\"en\">They left Argentina in a vintage car.</p><p class=\"vi\">Họ rời Argentina bằng một chiếc xe cổ.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Presenter</span><p class=\"en\">They began with very little money.</p><p class=\"vi\">Họ bắt đầu với rất ít tiền.</p><p class=\"en\">They visited more than one hundred countries.</p><p class=\"vi\">Họ đã thăm hơn một trăm quốc gia.</p><p class=\"en\">They met countless people.</p><p class=\"vi\">Họ gặp vô số người.</p><p class=\"en\">At first, the traveller wanted to <strong>conquer</strong> the world.</p><p class=\"vi\">Ban đầu, người lữ hành muốn <strong>chinh phục</strong> thế giới.</p><p class=\"en\">Later, experience changed him.</p><p class=\"vi\">Sau đó, trải nghiệm đã thay đổi anh.</p></div><div class=\"dialogue-turn guest\"><span class=\"speaker-name\">Guest expert</span><p class=\"en\">Travel made him more <strong>humble</strong>.</p><p class=\"vi\">Việc đi lại khiến anh <strong>khiêm tốn</strong> hơn.</p><p class=\"en\">A humble person is not arrogant.</p><p class=\"vi\">Người khiêm tốn không kiêu ngạo.</p><p class=\"en\">Each person is like <strong>a grain of sand</strong>.</p><p class=\"vi\">Mỗi người giống như <strong>một hạt cát</strong>.</p><p class=\"en\">A grain is tiny but important.</p><p class=\"vi\">Một hạt rất nhỏ nhưng quan trọng.</p><p class=\"en\">Every individual belongs to a larger whole.</p><p class=\"vi\">Mỗi cá nhân thuộc về một tổng thể lớn hơn.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Co-presenter</span><p class=\"en\">Both stories show personal transformation.</p><p class=\"vi\">Cả hai câu chuyện cho thấy sự thay đổi cá nhân.</p><p class=\"en\">Their choices brought satisfaction.</p><p class=\"vi\">Những lựa chọn của họ mang lại sự hài lòng.</p><p class=\"en\">Following a dream can be uncertain.</p><p class=\"vi\">Theo đuổi ước mơ có thể không chắc chắn.</p><p class=\"en\">Ignoring a dream can create regret.</p><p class=\"vi\">Phớt lờ ước mơ có thể tạo ra hối tiếc.</p><p class=\"en\">The quiz answer confirms this point.</p><p class=\"vi\">Đáp án câu đố xác nhận điều này.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Presenter</span><p class=\"en\">Not following dreams was the top regret.</p><p class=\"vi\">Không theo đuổi ước mơ là điều hối tiếc lớn nhất.</p><p class=\"en\">Not every dream is easy.</p><p class=\"vi\">Không phải ước mơ nào cũng dễ dàng.</p><p class=\"en\">People should reflect on what matters.</p><p class=\"vi\">Mọi người nên suy ngẫm về điều quan trọng.</p><p class=\"en\">A realistic plan creates achievable steps.</p><p class=\"vi\">Một kế hoạch thực tế tạo ra các bước có thể đạt được.</p><p class=\"en\">Supportive communities make change easier.</p><p class=\"vi\">Cộng đồng hỗ trợ khiến thay đổi dễ dàng hơn.</p></div><div class=\"dialogue-turn\"><span class=\"speaker-name\">Co-presenter</span><p class=\"en\">New experiences challenge fixed beliefs.</p><p class=\"vi\">Trải nghiệm mới thách thức niềm tin cố định.</p><p class=\"en\">The episode encourages courage.</p><p class=\"vi\">Tập này khuyến khích lòng can đảm.</p><p class=\"en\">It also encourages reflection.</p><p class=\"vi\">Nó cũng khuyến khích sự suy ngẫm.</p><p class=\"en\">Each person is small but meaningful.</p><p class=\"vi\">Mỗi người nhỏ bé nhưng có ý nghĩa.</p><p class=\"en\">Our six minutes are over.</p><p class=\"vi\">Sáu phút của chúng ta đã kết thúc.</p></div><div class=\"dialogue-turn recap\"><span class=\"speaker-name\">Recap</span><p class=\"en\">Quiz answer: the greatest regret was not following one’s dreams.</p><p class=\"vi\">Đáp án: điều hối tiếc lớn nhất là không theo đuổi ước mơ.</p></div>"
+  },
+  {
+   "id": "speaking-1",
+   "title": "IELTS Speaking Part 1",
+   "level": 2,
+   "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Speaking Part 1</span><span class=\"ielts-sub-title\">Dreams and ambitions</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\"><p class=\"en\">Did you have a childhood dream?</p><p class=\"vi\">Bạn có ước mơ thời thơ ấu không?</p></div><p class=\"en\">Yes, I wanted to build useful technology.</p><p class=\"vi\">Có, tôi muốn xây dựng công nghệ hữu ích.</p><p class=\"en\">The ambition seemed slightly <strong>outlandish</strong> when I was young.</p><p class=\"vi\">Tham vọng đó hơi <strong>khác thường</strong> khi tôi còn nhỏ.</p><p class=\"en\">Over time, I turned it into a practical career goal.</p><p class=\"vi\">Theo thời gian, tôi biến nó thành mục tiêu nghề nghiệp thực tế.</p><p class=\"en\">I still <strong>struggle with</strong> uncertainty, but the dream motivates me.</p><p class=\"vi\">Tôi vẫn <strong>gặp khó khăn với</strong> sự bất định, nhưng ước mơ tạo động lực cho tôi.</p></div></div>"
+  },
+  {
+   "id": "speaking-2",
+   "title": "IELTS Speaking Part 2",
+   "level": 2,
+   "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Speaking Part 2</span><span class=\"ielts-sub-title\">Describe a dream you want to achieve</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\"><p class=\"en\">Describe a dream you want to achieve. Say what it is, when you formed it, what steps are needed, and why it matters.</p><p class=\"vi\">Hãy mô tả một ước mơ bạn muốn đạt được. Nói đó là gì, hình thành khi nào, cần những bước nào và vì sao quan trọng.</p></div><p class=\"en\">My dream is to become an expert technology architect.</p><p class=\"vi\">Ước mơ của tôi là trở thành chuyên gia kiến trúc công nghệ.</p><p class=\"en\">I formed this ambition after leading complex software projects.</p><p class=\"vi\">Tôi hình thành tham vọng này sau khi lãnh đạo các dự án phần mềm phức tạp.</p><p class=\"en\">I need deeper knowledge of cloud systems and security.</p><p class=\"vi\">Tôi cần kiến thức sâu hơn về hệ thống đám mây và bảo mật.</p><p class=\"en\">I plan to earn advanced certifications.</p><p class=\"vi\">Tôi dự định đạt các chứng chỉ nâng cao.</p><p class=\"en\">I sometimes <strong>struggle with</strong> limited study time.</p><p class=\"vi\">Đôi khi tôi <strong>gặp khó khăn với</strong> thời gian học hạn chế.</p><p class=\"en\">Achieving the goal would make me more <strong>humble</strong> and useful.</p><p class=\"vi\">Đạt mục tiêu sẽ khiến tôi <strong>khiêm tốn</strong> và hữu ích hơn.</p></div></div>"
+  },
+  {
+   "id": "speaking-3",
+   "title": "IELTS Speaking Part 3",
+   "level": 2,
+   "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Speaking Part 3</span><span class=\"ielts-sub-title\">Should people always follow their dreams?</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\"><p class=\"en\">Should people always follow their dreams?</p><p class=\"vi\">Mọi người có nên luôn theo đuổi ước mơ không?</p></div><p class=\"en\">People should respect dreams while evaluating risks realistically.</p><p class=\"vi\">Mọi người nên tôn trọng ước mơ đồng thời đánh giá rủi ro thực tế.</p><p class=\"en\">Some ambitions require money and skills they do not yet have.</p><p class=\"vi\">Một số tham vọng đòi hỏi tiền bạc và kỹ năng họ chưa có.</p><p class=\"en\">Leaving a stable job immediately may harm family finances.</p><p class=\"vi\">Bỏ việc ổn định ngay lập tức có thể ảnh hưởng tài chính gia đình.</p><p class=\"en\">A staged plan lets someone test a dream safely.</p><p class=\"vi\">Kế hoạch theo giai đoạn cho phép thử ước mơ an toàn.</p><p class=\"en\">Courage works best with preparation and responsibility.</p><p class=\"vi\">Lòng can đảm hiệu quả nhất khi đi cùng chuẩn bị và trách nhiệm.</p></div></div>"
+  },
+  {
+   "id": "patterns",
+   "title": "Sentence Patterns",
+   "level": 2,
+   "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Sentence Patterns</span><span class=\"ielts-sub-title\">Band 7–8 structures</span></div><div class=\"ielts-sub-body\"><div class=\"pattern-block\"><p class=\"pattern-label\">Pattern 1 — Contrast with rather than</p><p class=\"en pattern-formula\">[Main clause] + rather than + [contrasting phrase]</p><p class=\"en\">The travellers changed themselves <strong>rather than</strong> trying to conquer the world.</p><p class=\"vi\">Những người lữ hành thay đổi bản thân <strong>thay vì</strong> cố chinh phục thế giới.</p><p class=\"en\">Governments should support practical training <strong>rather than</strong> promise a <strong>utopia</strong>.</p><p class=\"vi\">Chính phủ nên hỗ trợ đào tạo thực tế <strong>thay vì</strong> hứa hẹn một <strong>xã hội lý tưởng</strong>.</p></div><div class=\"pattern-block\"><p class=\"pattern-label\">Pattern 2 — Concession with even though</p><p class=\"en pattern-formula\">Even though + [concession clause], + [main clause]</p><p class=\"en\"><strong>Even though</strong> the plan seemed <strong>outlandish</strong>, the family followed it.</p><p class=\"vi\"><strong>Mặc dù</strong> kế hoạch có vẻ <strong>kỳ lạ</strong>, gia đình vẫn theo đuổi nó.</p><p class=\"en\"><strong>Even though</strong> career changes involve risk, preparation reduces uncertainty.</p><p class=\"vi\"><strong>Mặc dù</strong> thay đổi nghề nghiệp có rủi ro, chuẩn bị giúp giảm bất định.</p></div></div></div>"
+  },
+  {
+   "id": "writing",
+   "title": "IELTS Writing Task 2",
+   "level": 2,
+   "html": "<div class=\"ielts-sub\"><div class=\"ielts-sub-header\"><span class=\"ielts-badge\">Writing Task 2</span><span class=\"ielts-sub-title\">Dreams and practical responsibilities</span></div><div class=\"ielts-sub-body\"><div class=\"question-block\"><p class=\"en\">Some people believe individuals should follow their dreams regardless of practical difficulties. To what extent do you agree?</p><p class=\"vi\">Một số người tin rằng cá nhân nên theo đuổi ước mơ bất chấp khó khăn thực tế. Bạn đồng ý ở mức độ nào?</p></div><p class=\"en\"><strong>Thesis:</strong> I partly agree because dreams create motivation, but major decisions need realistic planning.</p><p class=\"vi\"><strong>Luận điểm:</strong> Tôi đồng ý một phần vì ước mơ tạo động lực, nhưng quyết định lớn cần kế hoạch thực tế.</p><p class=\"en\"><strong>Model body paragraph:</strong> Personal ambitions give people direction.</p><p class=\"vi\"><strong>Đoạn thân bài mẫu:</strong> Tham vọng cá nhân mang lại định hướng.</p><p class=\"en\">A meaningful goal encourages skill development and perseverance.</p><p class=\"vi\">Mục tiêu có ý nghĩa khuyến khích phát triển kỹ năng và kiên trì.</p><p class=\"en\">However, unprepared decisions can create financial pressure.</p><p class=\"vi\">Tuy nhiên, quyết định thiếu chuẩn bị có thể tạo áp lực tài chính.</p><p class=\"en\">Career changers should save money and gain qualifications first.</p><p class=\"vi\">Người đổi nghề nên tiết kiệm và đạt bằng cấp trước.</p><p class=\"en\">This protects responsibilities while preserving ambition.</p><p class=\"vi\">Điều này bảo vệ trách nhiệm đồng thời duy trì tham vọng.</p><p class=\"en\">Well-planned courage is better than impulsive risk-taking.</p><p class=\"vi\">Lòng can đảm có kế hoạch tốt hơn việc liều lĩnh bốc đồng.</p></div></div>"
+  },
+  {
+   "id": "grammar",
+   "title": "Grammar Focus",
+   "level": 2,
+   "html": "<div class=\"grammar-section\"><p class=\"en\"><strong>Third conditional:</strong> If + past perfect, would have + past participle.</p><p class=\"vi\"><strong>Câu điều kiện loại ba:</strong> If + quá khứ hoàn thành, would have + quá khứ phân từ.</p><p class=\"en\">If they had ignored their dreams, they <strong>would have regretted</strong> the decision.</p><p class=\"vi\">Nếu họ phớt lờ ước mơ, họ <strong>đã có thể hối tiếc</strong> về quyết định đó.</p><p class=\"en\">Use it for unreal past situations and imagined results.</p><p class=\"vi\">Dùng cấu trúc này cho tình huống không có thật trong quá khứ và kết quả giả định.</p></div>"
+  },
+  {
+   "id": "sources",
+   "title": "Sources",
+   "level": 1,
+   "html": "<div class=\"sources\"><p class=\"en\">BBC Learning English, “Are you following your dreams?”, 8 September 2022.</p><p class=\"vi\">BBC Learning English, “Are you following your dreams?”, ngày 8 tháng 9 năm 2022.</p><p class=\"en\"><a class=\"ext-link\" href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220908\" target=\"_blank\" rel=\"noopener\">BBC episode page</a></p><p class=\"vi\"><a class=\"ext-link\" href=\"https://www.bbc.co.uk/learningenglish/english/features/6-minute-english_2022/ep-220908\" target=\"_blank\" rel=\"noopener\">Trang tập BBC</a></p></div>"
+  }
+ ],
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "category": "bbc-6-minute-english"
+}

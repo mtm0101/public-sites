@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual3-t4-listening",
+ "title": "Actual Test 3 - Listening Test 4",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 4,
+ "order": 82,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-3-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Job Enouiry",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6ead19b3-7e37-4634-9d78-8748cbd9c379.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 4033122
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7d130b16-fc31-4cfb-adfd-3aa6c399a317.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 52
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Connection",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1224f16c-9b48-421b-9211-80c0e9e6334c.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3794668
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5964231d-3f2c-4c86-90c5-ea00ae496d1e.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 30
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research In Preparation For Final Essay",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aac284ae-68ae-429a-bb6d-e712c4f90c9d.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3700412
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b18054c3-7527-49d7-bfa7-fce4d4bdcc19.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 50
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Graphical Symbol",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f0b046d4-25cd-4494-8cc8-4653dae9d99c.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 3740956
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8c0d37f6-a442-4b3e-b3b9-6057481fb12c.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 33
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:47:12Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

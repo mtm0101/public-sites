@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam14-t2-listening",
+ "title": "CAM IELTS 14 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 14",
+ "testNum": 2,
+ "order": 26,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-14-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Total Health Clinic",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM14_L2_S1.MP3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 11090596
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/43ada416-2eeb-4bcb-a5a4-caa0b7f76aac.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Visit To Branley Castle",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9dede863-03e7-4db1-bbff-b2ea48c16eda.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3589443
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/df8351b7-cd3b-4eaf-bb7f-3f8f3cacfb4a.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 15
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Woolly Mammoths On St Paul’s Island",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a0fd8293-2c63-41e3-bb51-82ee97a82d35.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3741650
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c583d44e-be73-4ad2-b5c4-6a4609e98850.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 32
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The History Of Weather Forecasting",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/99d9940e-236f-4380-acb0-95824fd5a6c2.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7593418
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/72da06b8-301d-4f28-ab4e-f02a516d83b8.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 17
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:40:33Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,126 @@
+{
+ "spec": "ielts-study-content",
+ "version": 5,
+ "updated": "2026-07-15",
+ "readme": "AUTHORITATIVE CONTRACT for any AI agent (Claude, ChatGPT, Codex, ...) that publishes study content for the IELTS practice web app. Human-readable specs live in specs/ — start at specs/README.md or AGENTS.md. This JSON file is the machine-readable platform summary. Sibling files lesson-template.json (schema 1) and dynamic-template.json (schema 2) show annotated examples. v5: contentUpdatedAt records the last meaningful content edit so the app can skip unchanged files efficiently.",
+ "specsFolder": {
+  "entryPoint": "specs/README.md",
+  "index": "specs/INDEX.json",
+  "agentsEntryPoint": "AGENTS.md",
+  "pagesBase": "https://mtm0101.github.io/public-sites/claude-cowork/ielts-hourly-practice-tool/specs/README.md"
+ },
+
+ "publishing": {
+  "repo": "mtm0101/public-sites, branch main",
+  "contentRoot": "docs/claude-cowork/ielts-hourly-practice-tool/data/",
+  "layout": "One folder per source under the content root: claude-cowork/, chatgpt/, codex/, <your-agent-name>/. Inside your folder organize freely (e.g. lessons/, news/, speaking/, quizzes/). The 'source' field in your JSON (or your folder name) is the source label shown in the app.",
+  "write": {
+   "method": "Local agents write files directly into the content root and run convert_lessons.py from the tool folder to refresh manifest.json, then push to GitHub. Remote agents (e.g. ChatGPT) commit their .json via the GitHub connector to main; the repository owner's hourly pipeline pulls, re-indexes the manifest, and publishes.",
+   "rules": ["ADD or UPDATE only — never delete", "never overwrite files you did not create", "never touch other sources' folders, templates/, ipa/, index.html, manifest.json, or the app files", "any cadence: several files per hour, daily, weekly, adhoc", "filename stems must be unique across ALL sources (use an agent marker like -gpt- in the stem)"]
+  },
+  "read": "Public reads (templates, state, existing content) use GitHub Pages: https://mtm0101.github.io/public-sites/claude-cowork/ielts-hourly-practice-tool/<path-under-tool-folder>?t=<timestamp>. Example: .../data/templates/template-spec.json. Pages lags commits by a minute or two.",
+  "discovery": "The app loads content ONLY from manifest.json next to index.html, rebuilt by convert_lessons.py on the owner's machine each run (it indexes every study .json under the content root by SHAPE: sections[] = study item; items[] with questions = speaking set; templates/ipa/state files are skipped). A committed file appears in the app after the owner's next pipeline run.",
+  "userData": "The S3 bucket (https://t-do-not-delete-ihp-7xf29m4kq9vnb1zt8we5yu3hj6kf0fd4jh1sa9vr2mn.s3.amazonaws.com) stores exactly one object: user-data.json — the app's own progress sync. NO agent may ever read, write, or overwrite it."
+ },
+
+ "fileNaming": "Free-form, but must end .json and the filename stem (without .json) must be UNIQUE across ALL sources — it becomes the item id when 'id' is omitted. Recommended: <type>-YYYY-MM-DD-HHMM-<slug>.json, e.g. ielts-2026-07-09-1500-topic05-education.json or news-2026-07-10-daily-headlines.json.",
+
+ "schemas": {
+  "studyItem": {
+   "description": "Any lesson, news article, quiz, test, reading/listening set, email exercise, etc. Schema 1 (full IELTS lesson) and schema 2 (generic) share this shape; only conventions differ.",
+   "required": {
+    "sections": "array of section objects (min 1) — see 'section' below. THIS is what makes a file a study item."
+   },
+   "stronglyRecommended": {
+    "id": "string, unique; defaults to filename stem",
+    "title": "string, display title (English), short, no dates",
+    "type": "free label: lesson | news | quiz | test | listening | reading | writing | email | ... (shown as chip + filter)",
+    "source": "free label: claude-cowork | chatgpt | codex | ...; defaults to your bucket folder name",
+    "category": "free grouping label, e.g. ielts-hourly, daily-news, worldcup",
+    "dateTime": "YYYY-MM-DDTHH:MM local; defaults to the S3 upload time",
+    "contentUpdatedAt": "ISO 8601 timestamp with timezone for the last meaningful content edit. Set it when creating the file and advance it whenever content changes; never advance it for reads, downloads, manifest rebuilds, formatting-only no-ops, or unchanged republishes.",
+    "words": "array of plain-text vocabulary headwords (used by search); [] if none"
+   },
+   "optionalIeltsLessonFields": {
+    "schema": 1,
+    "fullTitle": "IELTS Hourly Practice — Topic <N>: <name>",
+    "topicNumber": "1..17 (enables the topic filter)",
+    "angle": "short sub-angle text",
+    "band": "7.5–8.0"
+   },
+   "section": {
+    "id": "string, unique within the item, [a-zA-Z0-9_-] only (e.g. vocab, reading, s1, s1-1)",
+    "title": "string, human heading (the app renders it — do NOT repeat it inside html)",
+    "level": "1 (default), 2 or 3 — level>1 renders as an indented sub-section; every level gets its own nav link, confidence buttons and bookmark",
+    "html": "string of section body HTML following htmlConventions below"
+   },
+   "fullIeltsLessonConvention": "exactly 6 sections with ids in order: vocab, reading, listening, writing, speaking, strategy — titles: Vocabulary / Reading / Listening / Writing (Task 2) / Speaking / Strategy Note. See lesson-template.json."
+  },
+  "speakingSource": {
+   "description": "Speaking Q&A practice sets (rendered in the app's dedicated Speaking section with per-question confidence rating).",
+   "shape": {
+    "source": "optional string label",
+    "items": [
+     {
+      "item_no": "integer, unique within the file",
+      "topic": "short topic name shown in lists",
+      "title": "longer title",
+      "questions": [
+       {
+        "question_no": "integer",
+        "question": "English question text",
+        "question_vi": "Vietnamese translation of the question",
+        "answers": [ { "label": "Answer", "english": "model answer (English)", "vietnamese": "bản dịch tiếng Việt" } ]
+       }
+      ]
+     }
+    ]
+   }
+  }
+ },
+
+ "htmlConventions": {
+  "bilingualRule": "THE core rule: every English sentence goes in its own <p class=\"en\">…</p>, IMMEDIATELY followed by its Vietnamese translation in its own <p class=\"vn\">…</p>. ONE sentence per .en element — never merge a paragraph into one element, never mix EN and VN in the same element. The app attaches per-sentence flagging, audio and word tap-to-pronounce to each .en. A missing .vn line is a defect.",
+  "allowedClasses": ["en", "vn", "ipa", "note", "vocab", "head", "card", "key", "label", "band", "prep", "q (as <ol class=\"q\">)"],
+  "forbiddenContent": ["<html>, <head>, <body>, <style>, <script> tags", "the section's own <h2> (the app renders section headers)", "literal marker words anywhere: 'Meaning:', 'Definition:', 'Example:', 'Nghĩa:', 'Ý nghĩa:', 'Ví dụ:', 'VD:' — the app colour-codes definition vs example lines automatically by position"],
+  "headings": "use <h3> and <h4> for sub-headings inside a section; bold with <strong>",
+  "ipa": "US (General American) IPA in slashes inside class=\"ipa\" elements; IPA lines are the only untranslated lines",
+  "vocabCard": "<div class=\"vocab\"><div class=\"head\">headword <span class=\"ipa\">/IPA/</span></div><p class=\"vn\">VN of headword</p><p class=\"en\">simple English definition</p><p class=\"ipa\">/IPA of definition/</p><p class=\"vn\">VN of definition</p><p class=\"en\">example sentence</p><p class=\"ipa\">/IPA of example/</p><p class=\"vn\">VN of example</p></div> — exactly one div.head per card (it powers the app's word-flag star and UK/US pronunciation buttons); first p.en in a card = definition (teal), later p.en = examples (violet)",
+  "questions": "<h4>Questions 1–5</h4><ol class=\"q\"><li><p class=\"en\"><strong>TYPE LABEL:</strong> question…</p><p class=\"vn\">…</p></li>…</ol>",
+  "answerKey": "<div class=\"key\"><span class=\"label\">Answer Key</span><p class=\"en\"><strong>1. ANSWER.</strong> explanation…</p><p class=\"vn\">…</p>…</div>",
+  "speakerLines": "<p class=\"en\"><strong>Speaker:</strong> sentence…</p><p class=\"vn\"><strong>Người nói:</strong> …</p>",
+  "scenarioNote": "<p class=\"note en\">…</p><p class=\"note vn\">…</p>",
+  "promptCard": "<div class=\"card\"><p class=\"en\"><strong>Prompt:</strong> …</p><p class=\"vn\"><strong>Đề bài:</strong> …</p></div>",
+  "prepNotes": "<div class=\"prep\"><p class=\"en\"><strong>Preparation notes (1-minute plan):</strong> keyword · keyword</p><p class=\"vn\">…</p></div>",
+  "encoding": "file must be valid UTF-8 JSON; inside JSON strings escape double quotes as \\\" and newlines as \\n",
+  "tables": "Use plain <table><tr><th>…</th></tr><tr><td>…</td></tr></table> inside sections[].html — the app styles borders automatically. Do NOT rely on bare columns/rows JSON without html.",
+  "sectionsHtmlRequired": "Every section MUST include a non-empty html string. The app does NOT render raw stories[], items[], or {en,vi} objects — only sections[].html. Section title must be a plain string, not {en,vi}."
+ },
+
+ "minimalValidExample": {
+  "id": "news-2026-07-10-example",
+  "type": "news",
+  "source": "chatgpt",
+  "category": "daily-news",
+  "title": "Example Daily News",
+  "dateTime": "2026-07-10T08:00",
+  "words": ["headline"],
+  "sections": [
+   {
+    "id": "story",
+    "title": "Today's story",
+    "level": 1,
+    "html": "<p class=\"en\">This is one English sentence.</p>\n<p class=\"vn\">Đây là một câu tiếng Việt.</p>"
+   }
+  ]
+ },
+
+ "fullExamples": {
+  "ieltsLessonSkeleton": "templates/lesson-template.json (same folder on this bucket)",
+  "genericContentSkeleton": "templates/dynamic-template.json",
+  "bbcLessonSkeleton": "templates/bbc-lesson-template.json",
+  "realLesson": "claude-cowork/lessons/ielts-2026-07-05-1000-topic16-sports-hobbies-arts.json",
+  "realNewsItem": "claude-cowork/news/news-2026-07-09-worldcup-quarterfinals.json",
+  "realSpeakingSource": "claude-cowork/speaking/0.speaking.json"
+ }
+}

@@ -1,0 +1,1958 @@
+{
+ "schema": 1,
+ "id": "cam13-t2-listening",
+ "title": "CAM IELTS 13 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 13",
+ "testNum": 2,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-13-test-2-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-13-test-2-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "South City Cycling Club",
+   "duration": 9,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "76e7882a-55f8-11ef-bf91-b79eb8cb7973",
+     "questions": [
+      {
+       "uuid": "76e7882b-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"và đi song song với từ \"},{\"text\":\"cycling \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe thấy “Full membership”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục thấy nói đến giá là \"},{\"text\":\"260 dollar\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"cover not just\",\"bold\":true},{\"text\":\" ordinary cycling\"},{\"text\":\" but also \",\"bold\":true},{\"text\":\"for races ... \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình thấy có cấu trúc song song \"},{\"text\":\"not only ... but also\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ song song với \"},{\"text\":\"cycling \",\"bold\":true},{\"text\":\"là \"},{\"text\":\"races\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là races \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 166,
+          "endTimeInSeconds": 189,
+          "transcripts": [
+           {
+            "id": "6/166395-189591",
+            "startTimeInSeconds": 166,
+            "endTimeInSeconds": 189,
+            "text": " OK. Well there are basically two types of adult membership. If you’re pretty serious about cycling, there’s the Full membership. That costs 260 dollars and that covers you not just for ordinary cycling but also for races both here in the city and also in other parts of Australia. ",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "races",
+         "blankId": "FkHs3nC18TeKvUG-mha3q"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" đi song song với \"},{\"text\":\"club fee \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu đầu thấy “\"},{\"text\":\"include \",\"bold\":true},{\"text\":\"the club fee of 20 dollars” biết \"},{\"text\":\"đáp án đang chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe được “they \"},{\"text\":\"also \",\"bold\":true},{\"text\":\"provide \"},{\"text\":\"insurance\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình thấy có từ \"},{\"text\":\"also\",\"bold\":true},{\"text\":\": họ cũng\"},{\"text\":\" provide insurance \",\"bold\":true},{\"text\":\"bên cạnh club fee\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là insurance \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 235,
+          "transcripts": [
+           {
+            "id": "10/215177-235849",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 235,
+            "text": " OK. It’s paid quarterly, and you can upgrade it later to the Full membership if you want to, of course. Now both types of membership include the club fee of 20 dollars. They also provide insurance in case you have an accident, though we hope you won’t need that, of course.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "insurance",
+         "blankId": "UVk-Nhs8LfbTGCDvIRGCY"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định từ cần điền là tên riêng của một công ty \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên nghe “you're also permitted to wear \"},{\"text\":\"our kit\",\"bold\":true},{\"text\":\"” có nhắc đến club kit\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo mình có nghe nhắc đến công ty “order by a \"},{\"text\":\"company \",\"bold\":true},{\"text\":\"in Brisbane” họ sẽ chuẩn bị nói tên công ty \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Người nói sẽ nói tên công ty trước rồi mới spell “they're \"},{\"text\":\"called \",\"bold\":true},{\"text\":\"Jerriz” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là Jerriz \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 277,
+          "transcripts": [
+           {
+            "id": "12/245037-254257",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 254,
+            "text": " That’s right. And once you’re a member of the club, you’re also permitted to wear our kit when you’re out cycling. It’s green and white.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           },
+           {
+            "id": "13/254390-259010",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 259,
+            "text": " Yes, I’ve seen cyclists wearing it. So, can I buy that at the club?",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "14/259293-277493",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 277,
+            "text": " No, it’s made to order by a company in Brisbane. You can find them online: they’re called Jerriz. That’s J-E-R-R-I-Z. You can use your membership number to put in an order on their website.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "Jerriz",
+         "blankId": "zRlMeBqkf8U8iGAqUvuJo"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"số\",\"bold\":true},{\"text\":\", ở đây là \"},{\"text\":\"số vận tốc\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trước tiên Jim có nói về “Level A” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nhắc\"},{\"text\":\" level A từ 30-35 km\",\"bold\":true},{\"text\":\" Jim tiếp tục nói “ If you can \"},{\"text\":\"do about 25 kilometers \",\"bold\":true},{\"text\":\"an hour, you'd probably \"},{\"text\":\"be level B.\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở đây Jim nói số trước rồi mới nhắc đến level B, nên nếu đợi keyword level B thì đã trễ câu trả lời rồi nha\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là 25\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ngoài ra Jim cũng nhắc đến tốc độ của level C là 15km\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có nhiều số trong đoạn này nên tránh bị nhầm\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 281,
+          "endTimeInSeconds": 315,
+          "transcripts": [
+           {
+            "id": "16/281952-315932",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 315,
+            "text": " Sure. So we have training rides pretty well every morning, and they’re a really good way of improving your cycling skills as well as your general level of fitness, but they’re different levels. Level A is pretty fast – you’re looking at about 30 or 35 kilometres an hour. If you can do about 25 kilometres an hour, you’d probably be level B, and then level C are the novices, who stay at about 15 kilometres per hour.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "25/twenty-five",
+         "blankId": "FD-uPL1C9ZFLo0WAZ8U_T"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là\"},{\"text\":\" noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe giới thiệu có \"},{\"text\":\"2 early morning sessions\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jim nhắc đến session đầu tiên vào\"},{\"text\":\" Tuesday, 5.30am\",\"bold\":true},{\"text\":\" và the\"},{\"text\":\" meeting point’s the stadium\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Meeting point = meet at \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là stadium \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 316,
+          "endTimeInSeconds": 338,
+          "transcripts": [
+           {
+            "id": "17/316267-322058",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 322,
+            "text": " Right. Well I reckon I’d be level B. So, when are the sessions for that level?",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "18/322780-338036",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 338,
+            "text": " There are a couple each week. They’re both early morning sessions. There’s one on Tuesdays, and for that one you meet at 5.30 am, and the meeting point’s the stadium – do you know where that is?",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "stadium",
+         "blankId": "i27nLKsg2FbunoLzMNNmi"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe người phụ nữ hỏi “how about \"},{\"text\":\"the other one”\",\"bold\":true},{\"text\":\" mình biết \"},{\"text\":\"đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe Jim nói về ngày tổ chức và thời gian, sau đó là “but they \"},{\"text\":\"meet at the main gate to the Park\",\"bold\":true},{\"text\":\".” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Gate = entrance\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là Park  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 338,
+          "endTimeInSeconds": 349,
+          "transcripts": [
+           {
+            "id": "19/338169-342831",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 342,
+            "text": " Yes, it’s quite near my home, in fact. OK, and how about the other one?",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "20/343087-349997",
+            "startTimeInSeconds": 343,
+            "endTimeInSeconds": 349,
+            "text": " That’s on Thursdays. It starts at the same time, but they meet at the main gate to the park.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "park",
+         "blankId": "pbQirvYef27S8_c4w5A8G"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “They're about an hour and a half” là số giờ của the rides\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chuyển sang gạch thứ 2\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo mình nghe “the \"},{\"text\":\"members \",\"bold\":true},{\"text\":\"often \"},{\"text\":\"go somewhere for coffee afterward\",\"bold\":true},{\"text\":\"”, ở đây \"},{\"text\":\"go for = have \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là coffee \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 391,
+          "endTimeInSeconds": 407,
+          "transcripts": [
+           {
+            "id": "23/391155-392859",
+            "startTimeInSeconds": 391,
+            "endTimeInSeconds": 392,
+            "text": " So how long are the rides?",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "24/393186-407495",
+            "startTimeInSeconds": 393,
+            "endTimeInSeconds": 407,
+            "text": " They’re about an hour and a half. So, if you have a job it’s easy to fit in before you go to work. And the members often go somewhere for coffee afterwards, so it’s quite a social event.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "coffee",
+         "blankId": "LsGdiKYevGS6t-aDNbne0"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe người phụ nữ hỏi “And does each ride\"},{\"text\":\" have a leader\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình thấy câu trả lời sẽ liên quan đến leader \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jim trả lời “\"},{\"text\":\"Sometimes, but not always.” = there is not always\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là \"},{\"text\":\"leader\",\"bold\":true},{\"text\":\", sau đó nghe thêm you don't really need \"},{\"text\":\"one\",\"bold\":true},{\"text\":\", \"},{\"text\":\"one \",\"bold\":true},{\"text\":\"ở đây chính là \"},{\"text\":\"leader \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nếu đợi “Sometimes, but not always.” Mới chờ đáp án thì bạn đã bị trễ rồi nha\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 416,
+          "endTimeInSeconds": 428,
+          "transcripts": [
+           {
+            "id": "27/416687-419193",
+            "startTimeInSeconds": 416,
+            "endTimeInSeconds": 419,
+            "text": "  And does each ride have a leader? ",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "28/419287-428133",
+            "startTimeInSeconds": 419,
+            "endTimeInSeconds": 428,
+            "text": " Sometimes, but not always. But you don’t really need one; the group members on the ride support one another, anyway.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "leader",
+         "blankId": "7Fh7qiQkQy9plVZR8QOFp"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “you’ll \"},{\"text\":\"see \",\"bold\":true},{\"text\":\"that the \"},{\"text\":\"route for each ride \",\"bold\":true},{\"text\":\"is clearly marked” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Hướng dẫn người phụ nữ xem \"},{\"text\":\"route for each ride = check the route\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó Jim nói “ you can just \"},{\"text\":\"print that \",\"bold\":true},{\"text\":\"out and take it along with you.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" That \",\"bold\":true},{\"text\":\"ở trong câu chính là \"},{\"text\":\"route \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần tìm là\"},{\"text\":\" route \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nếu đợi print mới chờ đáp án thì sẽ bị lỡ nha \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 428,
+          "endTimeInSeconds": 446,
+          "transcripts": [
+           {
+            "id": "29/428133-429931",
+            "startTimeInSeconds": 428,
+            "endTimeInSeconds": 429,
+            "text": " How would we know where to go?",
+            "character": {
+             "id": "fLKIqf13K3zxNlK33o0NQ",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "30/430216-446479",
+            "startTimeInSeconds": 430,
+            "endTimeInSeconds": 446,
+            "text": " If you check the club website, you’ll see that the route for each ride is clearly marked. So you can just print that out and take it along with you. It’s similar from one week to another, but it’s not always exactly the same.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "route",
+         "blankId": "qJW1Erc14ealv4Vtkj-CS"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\", làm tân ngữ cho động từ \\\"have\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"▶️ Bắt đầu nghe từ:  \\n\\\"And in winter, it’s well before sunrise when we set out, so you need to make sure your bike’s got lights.\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Jim giải thích rằng vào mùa đông các buổi đạp xe \"},{\"text\":\"bắt đầu trước bình minh\",\"bold\":true},{\"text\":\", tức là \"},{\"text\":\"trời vẫn còn tối\",\"bold\":true},{\"text\":\". Do đó, để đảm bảo an toàn khi di chuyển trong bóng đêm, bạn phải trang bị \"},{\"text\":\"đèn (lights)\",\"bold\":true},{\"text\":\" cho xe.  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"🧐 \"},{\"text\":\"Lưu ý\",\"bold\":true},{\"text\":\":  \"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Tránh nhầm với các thông tin khác như \"},{\"text\":\"insurance (bảo hiểm)\",\"bold\":true},{\"text\":\" hay \"},{\"text\":\"route (lộ trình)\",\"bold\":true},{\"text\":\" vì chúng đề cập đến dịch vụ và hướng đi, không phải \"},{\"text\":\"vật dụng cần mang theo khi trời tối\",\"bold\":true},{\"text\":\".\"}]}]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 457,
+          "endTimeInSeconds": 464,
+          "transcripts": [
+           {
+            "id": "34/457405-464647",
+            "startTimeInSeconds": 457,
+            "endTimeInSeconds": 464,
+            "text": " And in winter, it’s well before sunrise when we set out, so you need to make sure your bike’s got lights.",
+            "character": {
+             "id": "BmGEQviqYUUjtbhG8Uj7E",
+             "name": "JIM"
+            }
+           }
+          ]
+         },
+         "value": "lights",
+         "blankId": "ANwRcJcojerRanF2FhGTx"
+        }
+       ],
+       "heading": "South City Cycling Club",
+       "paragraph": {
+        "id": "AGT1EFDEVLtoPu0PhcK71",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"GcODmxZQLcakYu9Qe_kX7\",\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Example\",\"italic\":true}]},{\"children\":[{\"text\":\"Name of club secretary: Jim \"},{\"text\":\"Hunter\",\"underline\":true,\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Membership\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Full membership costs $260; this covers cycling and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(1)  \"}],\"id\":\"FkHs3nC18TeKvUG-mha3q\"},{\"text\":\" all over Australia\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Recreational membership costs $108\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Cost of membership includes the club fee and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (2) \"}],\"id\":\"UVk-Nhs8LfbTGCDvIRGCY\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The club kit is made by a company called\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (3) \"}],\"id\":\"zRlMeBqkf8U8iGAqUvuJo\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Training rides\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Chance to improve cycling skills and fitness\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Level B: speed about\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (4)  \"}],\"id\":\"FD-uPL1C9ZFLo0WAZ8U_T\"},{\"text\":\" kilometres.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Weekly sessions\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Tuesdays at 5.30 am, meet at the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (5) \"}],\"id\":\"i27nLKsg2FbunoLzMNNmi\"},{\"text\":\"\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Thursdays at 5.30 am, meet at the entrance to the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (6) \"}],\"id\":\"pbQirvYef27S8_c4w5A8G\"},{\"text\":\"\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Further information\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rides are about an hour and half\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Members often have \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(7)  \"}],\"id\":\"LsGdiKYevGS6t-aDNbne0\"},{\"text\":\" together afterwards\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There is not always a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (8)  \"}],\"id\":\"7Fh7qiQkQy9plVZR8QOFp\"},{\"text\":\" with the group on these rides\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Check and print the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (9)  \"}],\"id\":\"qJW1Erc14ealv4Vtkj-CS\"},{\"text\":\" on the website beforehand\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Bikes must have \"},{\"id\":\"ANwRcJcojerRanF2FhGTx\",\"blankId\":\"ANwRcJcojerRanF2FhGTx\",\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}]},{\"text\":\".\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "FkHs3nC18TeKvUG-mha3q",
+          "key": 0
+         },
+         {
+          "id": "UVk-Nhs8LfbTGCDvIRGCY",
+          "key": 1
+         },
+         {
+          "id": "zRlMeBqkf8U8iGAqUvuJo",
+          "key": 2
+         },
+         {
+          "id": "FD-uPL1C9ZFLo0WAZ8U_T",
+          "key": 3
+         },
+         {
+          "id": "i27nLKsg2FbunoLzMNNmi",
+          "key": 4
+         },
+         {
+          "id": "pbQirvYef27S8_c4w5A8G",
+          "key": 5
+         },
+         {
+          "id": "LsGdiKYevGS6t-aDNbne0",
+          "key": 6
+         },
+         {
+          "id": "7Fh7qiQkQy9plVZR8QOFp",
+          "key": 7
+         },
+         {
+          "id": "qJW1Erc14ealv4Vtkj-CS",
+          "key": 8
+         },
+         {
+          "id": "ANwRcJcojerRanF2FhGTx",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD OR A NUMBER.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Company Volunteering Project",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "805fd836-55f8-11ef-bf91-b79eb8cb7973",
+     "questions": [
+      {
+       "uuid": "805fd837-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "How much time for volunteering does the company allow per employee?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Two hours per week"
+        },
+        {
+         "key": 1,
+         "value": "One day per month"
+        },
+        {
+         "key": 2,
+         "value": "8 hours per year"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Sau khi nghe “The idea is that we allow staff to give up some of their work time to help on various charity projects ” là biết \"},{\"text\":\"các câu tiếp theo sẽ chứa thông tin liên quan đến câu trả lời\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Hai câu tiếp theo là câu dẫn đến câu trả lời, tuy nhiên sau câu thứ 2, mình đã rút ra được ý: \"},{\"text\":\"\\\"doesn't necessarily involve a huge time commitment\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Câu trả lời đang chuẩn bị vào\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Sau đó nghe “The company will pay for eight hours of your time.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình thấy có nhắc đến\"},{\"text\":\" 8 hours\\n\",\"bold\":true},{\"text\":\">> Đến câu sau “\"},{\"text\":\"That \",\"bold\":true},{\"text\":\"can be used over one or two days all at once, or spread over several months\"},{\"text\":\" throughout the year\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> That trong câu chính là thay thế cho 8 hours, mình thấy họ nhắc đến 1,2 ngày và vài tháng nhưng cuối cùng lại có cụm \"},{\"text\":\"\\\"throughout the year”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> 8 giờ này sẽ được dùng trong cả 1 năm >>\"},{\"text\":\" đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Một số bạn nghe one or two days sẽ có thể chọn B\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>  Tuy nhiên câu đầy đủ là \"},{\"text\":\"“one or two days all at once\",\"bold\":true},{\"text\":\"”, nghĩa bạn có thể sử dụng 8 giờ này trong 1, 2 ngày luôn chứ không phải 1 ngày/tháng\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 68,
+          "endTimeInSeconds": 109,
+          "transcripts": [
+           {
+            "id": "0/68825-93486",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 93,
+            "text": "Thanks for coming, everyone. OK, so this meeting is for new staff and staff who haven’t been involved with our volunteering projects yet. So basically, the idea is that we allow staff to give up some of their work time to help on various charity projects to benefit the local community. We’ve been doing this for the last five years and it’s been very successful."
+           },
+           {
+            "id": "1/94567-109943",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 109,
+            "text": "Participating doesn’t necessarily involve a huge time commitment. The company will pay for eight hours of your time. That can be used over one or two days all at once, or spread over several months throughout the year."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "805fd838-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "In feedback almost all employees said that volunteering improved their",
+       "options": [
+        {
+         "key": 0,
+         "value": "chances of promotion"
+        },
+        {
+         "key": 1,
+         "value": "job satisfaction"
+        },
+        {
+         "key": 2,
+         "value": "relationships with colleagues"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"“Feedback from staff \",\"bold\":true},{\"text\":\"has been overwhelmingly positive.”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Là biết đáp án đang chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe “nearly everyone agreed that volunteering made them feel more motivated at work.”\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Nearly everyone =  almost all employees, feel more motivated at work = job satisfaction\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Một số bạn nghe được “They also liked building relationships” sẽ chọn đáp án C\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên nếu nghe tiếp sẽ thấy người mà họ xây dựng mối quan hệ là \"},{\"text\":\"the people in the local community\",\"bold\":true},{\"text\":\": chứ không phải là colleagues \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án C\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Một số bạn nghe “was a good thing to have on their \"},{\"text\":\"CVs\",\"bold\":true},{\"text\":\"” có thể chọn đáp án A\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên số người có feed back này chỉ chiếm \"},{\"text\":\"“One or two people” \",\"bold\":true},{\"text\":\"và chỉ làm đẹp CV chứ không nhắc gì về thăng tiến trong công việc \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 129,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "3/129526-152837",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 152,
+            "text": "Feedback from staff has been overwhelmingly positive. Because they felt they were doing something really useful, nearly everyone agreed that volunteering made them feel more motivated at work. They also liked building relationships with the people in the local community and felt valued by them. One or two people also said it was a good thing to have on their CVs."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "805fd839-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "Last year some staff helped unemployed people with their",
+       "options": [
+        {
+         "key": 0,
+         "value": "Literacy skills"
+        },
+        {
+         "key": 1,
+         "value": "Job applications"
+        },
+        {
+         "key": 2,
+         "value": "Communication skills"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Sau khi nghe “This was aimed at\"},{\"text\":\" helping unemployed\",\"bold\":true},{\"text\":\" people .” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Là biết \"},{\"text\":\"đáp án đang chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"help them\"},{\"text\":\" improve their telephone skills\",\"bold\":true},{\"text\":\", such as\"},{\"text\":\" writing down messages and speaking with confidence \",\"bold\":true},{\"text\":\"to potential customers”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giúp cải thiện kỹ năng telephone như ghi lại lời nhắn và nói chuyện tự tin với khách hàng tiềm năng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Một số bạn khi nghe “writing down messages” sẽ chọn đáp án A: kỹ năng đọc viết\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên việc viết lại lời nhắn ở đây là bổ trợ cho kỹ năng telephone, giao tiếp với khách hàng bởi mình có từ ‘\"},{\"text\":\"such as”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án A\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tiếp đến là câu “This is something many employers look for in job applicants - and something we all do without even thinking about, every day at work.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một số bạn sẽ chọn đáp án B vì có từ job applicants tuy nhiên câu này chỉ để khẳng định tầm quan trọng của communication skills vì mình có cụm “\"},{\"text\":\"This is something many employers look for” \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> This ở trong câu chính là \"},{\"text\":\"communication skills\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">>\"},{\"text\":\" Loại đáp án B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 154,
+          "endTimeInSeconds": 187,
+          "transcripts": [
+           {
+            "id": "4/154846-187455",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 187,
+            "text": "One particularly successful project last year was the Get Working Project. This was aimed at helping unemployed people in the area get back to work. Our staff were able to help them improve their telephone skills, such as writing down messages and speaking with confidence to potential customers, which they had found quite difficult. This is something many employers look for in job applicants – and something we all do without even thinking about, every day at work"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "805fd83a-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "This year the company will start a new volunteering project with a local",
+       "options": [
+        {
+         "key": 0,
+         "value": "School"
+        },
+        {
+         "key": 1,
+         "value": "Park"
+        },
+        {
+         "key": 2,
+         "value": "Charity"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \\\"Sau khi nghe câu “We've got an exciting new project starting this year.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Là biết \"},{\"text\":\"đáp án đang chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu tiếp theo có cụm “Up until now, “chỉ là đưa thêm thông tin về những kế hoạch mà họ đã tập trung vào cho tới thời điểm này\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một số bạn khi nghe được schools và \"},{\"text\":\"local charities\",\"bold\":true},{\"text\":\" sẽ chọn đáp án A hoặc C \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên trong câu tiếp theo mình có “But we've also agreed to help out on \"},{\"text\":\"a conservation project in Redfern Park\",\"bold\":true},{\"text\":\".” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình thấy có agreed to help out\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Dự án này sẽ diễn ra ở Redfern Park \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 189,
+          "endTimeInSeconds": 215,
+          "transcripts": [
+           {
+            "id": "5/189218-215136",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 215,
+            "text": "We’ve got an exciting new project starting this year. Up until now, we’re mainly focused on projects to do with education and training. And we’ll continue without reading projects in schools and our work with local charities. But we’re also agreed to help out on a conservation project in Redfern Park. So if any of you fancy being outside and getting your hands dirty, this is the project for you."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "805fd83b-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "Where will the Digital inclusion Day be held?",
+       "options": [
+        {
+         "key": 0,
+         "value": "At the company’s training facility"
+        },
+        {
+         "key": 1,
+         "value": "At a college"
+        },
+        {
+         "key": 2,
+         "value": "In a community centre"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu đầu có “\"},{\"text\":\"annual Digital Inclusion Day\",\"bold\":true},{\"text\":\",” là biết \"},{\"text\":\"đáp án đang chuẩn bị vào\",\"bold\":true},{\"text\":\".\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Nghe tiếp đến “And this year, \"},{\"text\":\"instead of\",\"bold\":true},{\"text\":\" hosting the event in our own training facility” một số bạn sẽ chọn đáp án A vì có cụm “\"},{\"text\":\"our own training facility”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên nếu để ý ngay trước cụm đó có từ \"},{\"text\":\"“instead of”:\",\"bold\":true},{\"text\":\" thay vì tổ chức ở đây\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vậy nên có thể\"},{\"text\":\" loại đáp án A. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe tiếp họ có nói “\"},{\"text\":\"we're using \",\"bold\":true},{\"text\":\"the ICT suite at \"},{\"text\":\"Hill College,\",\"bold\":true},{\"text\":\" as \"},{\"text\":\"it \",\"bold\":true},{\"text\":\"can hold far more people” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có “we’re using” họ sẽ sử dụng phòng ICT, it ở vế sau thay cho ICT suite\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Một số bạn khi nghe đến “ We’ve invited over 60 people from the Silver Age Community Centre to take part, so well need a lot of volunteers to help with this event.” sẽ chọn đáp án C bởi có cụm “Silver Age Community Centre”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>  Tuy nhiên nếu nghe kỹ thì họ sẽ mời 60 người từ nơi này đến tham dự chứ không phải là địa điểm tổ chức bởi mình có từ \"},{\"text\":\"“invited over 60 people from”\",\"bold\":true},{\"text\":\" ngay trước tên địa điểm đó \"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 216,
+          "endTimeInSeconds": 254,
+          "transcripts": [
+           {
+            "id": "6/216261-236547",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 236,
+            "text": "I also want to mention the annual Digital Inclusion Day, which is coming up next month. The aim of this is to help older people keep up with technology. And this year, instead of hosting the event in our own training facility, we’re using the ICT suite at Hill College, as it can hold far more people."
+           },
+           {
+            "id": "7/237717-254142",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 254,
+            "text": "We’ve invited over 60 people from the Silver Age Community Centre to take part, so we’ll need a lot of volunteers to help with this event. If you’re interested in taking part, please go to the volunteering section of our website and complete the relevant form"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "805fd83c-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "SINGLE_ANSWER",
+       "question": "What should staff do if they want to take part in the Digital Inclusion Day?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Fill in a form"
+        },
+        {
+         "key": 1,
+         "value": "Attend a training workshop"
+        },
+        {
+         "key": 2,
+         "value": "Get permission from their managers"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Sau khi nghe “If you're\"},{\"text\":\" interested in taking part” \",\"bold\":true},{\"text\":\"mình biết \"},{\"text\":\"câu trả lời đang chuẩn bị vào\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\\t\"}]},{\"text\":\" Sau khi nghe đến “please go to the volunteering section of our website and \"},{\"text\":\"complete the relevant form\",\"bold\":true},{\"text\":\".”có nhắc đến \"},{\"text\":\"“complete the relevant form” = fill in a form\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đươc đap án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Một số bạn khi nghe câu tiếp theo “We won't be providing any training for this ” có thể sẽ chọn đáp án B vì có nghe thấy từ “\"},{\"text\":\"training\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng thực chất cụm đầy đủ là won't be providing any training: sẽ không có buổi training nào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án B.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe tiếp đến “ don't forget to tell your manager about any volunteering activities you decide to do.” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một số bạn sẽ chọn đáp án C vì có \"},{\"text\":\"“tell your manager”,\",\"bold\":true},{\"text\":\" tuy nhiên người nói chỉ yêu cầu nhân viên thông báo “\"},{\"text\":\"tell\",\"bold\":true},{\"text\":\"” cho manager, chứ không yêu cầu xin \"},{\"text\":\"permission \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án C \\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 237,
+          "endTimeInSeconds": 269,
+          "transcripts": [
+           {
+            "id": "7/237717-254142",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 254,
+            "text": "We’ve invited over 60 people from the Silver Age Community Centre to take part, so we’ll need a lot of volunteers to help with this event. If you’re interested in taking part, please go to the volunteering section of our website and complete the relevant form"
+           },
+           {
+            "id": "8/255003-269834",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 269,
+            "text": "We won’t be providing any training for this but you’ll be paired with an experienced volunteer if you’ve never done it before. By the way, don’t forget to tell your manager about any volunteering activities you decide to do."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "805fd83d-55f8-11ef-bf91-b79eb8cb7973",
+     "questions": [
+      {
+       "uuid": "805fd83e-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO things are mentioned about the participants on the last Digital Inclusion Day?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They were all over 70"
+        },
+        {
+         "key": 1,
+         "value": "They never used their computer"
+        },
+        {
+         "key": 2,
+         "value": "Their phones were mostly old fashioned"
+        },
+        {
+         "key": 3,
+         "value": "They only used their phones for making calls"
+        },
+        {
+         "key": 4,
+         "value": "They initially showed little interest"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “The \"},{\"text\":\"majority \",\"bold\":true},{\"text\":\"were in their \"},{\"text\":\"seventies\",\"bold\":true},{\"text\":\"” nhiều bạn sẽ chọn A \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng nếu nghe tiếp sẽ có though: tuy nhiên, sau đó là “\"},{\"text\":\"younger\",\"bold\":true},{\"text\":\"”, “\"},{\"text\":\"in their nineties\",\"bold\":true},{\"text\":\"”, đáp án A là \"},{\"text\":\"all\",\"bold\":true},{\"text\":\" over 70\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> L\"},{\"text\":\"oại đáp án A\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp đến “Quite a \"},{\"text\":\"few owned \",\"bold\":true},{\"text\":\"both a \"},{\"text\":\"computer\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ có own computer >>\"},{\"text\":\" loại đáp án B\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp có nhắc đến\"},{\"text\":\" mobile phone \",\"bold\":true},{\"text\":\"và thông tin đi sau “but these \"},{\"text\":\"tended \",\"bold\":true},{\"text\":\"to be\"},{\"text\":\" outdated models\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình có \"},{\"text\":\"tended to = mostly\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"outdated = old fashioned \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 306,
+          "endTimeInSeconds": 341,
+          "transcripts": [
+           {
+            "id": "9/306251-322647",
+            "startTimeInSeconds": 306,
+            "endTimeInSeconds": 322,
+            "text": "The participants on the Digital Inclusion Day really benefited. The majority were in their seventies, though some where younger and a few were even in their nineties! Quite a few owned both a computer and a mobile phone, but these tended to be outdated model"
+           },
+           {
+            "id": "10/323242-341553",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 341,
+            "text": "They generally knew how to do simple things, like send texts, but weren’t aware of recent developments in mobile phone technology. A few were keen to learn but most were quite dismissive at first – they couldn’t see the point of updating their skills. But that soon changed."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe tiếp đến simple things mà họ có thể làm với điện thoại và thấy có \"},{\"text\":\"“send texts” \",\"bold\":true},{\"text\":\"nhưng đáp án chỉ có \"},{\"text\":\"making call \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án D\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"A few were keen to learn but \"},{\"text\":\"most were quite dismissive at first\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Lúc đầu đa số không có hứng thú, không muốn học\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn E \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 306,
+          "endTimeInSeconds": 341,
+          "transcripts": [
+           {
+            "id": "9/306251-322647",
+            "startTimeInSeconds": 306,
+            "endTimeInSeconds": 322,
+            "text": "The participants on the Digital Inclusion Day really benefited. The majority were in their seventies, though some where younger and a few were even in their nineties! Quite a few owned both a computer and a mobile phone, but these tended to be outdated model"
+           },
+           {
+            "id": "10/323242-341553",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 341,
+            "text": "They generally knew how to do simple things, like send texts, but weren’t aware of recent developments in mobile phone technology. A few were keen to learn but most were quite dismissive at first – they couldn’t see the point of updating their skills. But that soon changed."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "805fd83f-55f8-11ef-bf91-b79eb8cb7973",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO activities on the last Digital Inclusion Day did participants describe as useful?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Learning to use tablets"
+        },
+        {
+         "key": 1,
+         "value": "Communicating with family"
+        },
+        {
+         "key": 2,
+         "value": "Shopping online"
+        },
+        {
+         "key": 3,
+         "value": "Playing online games"
+        },
+        {
+         "key": 4,
+         "value": "Sending emails"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “\\\"The feedback was very positive. “ biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe đến ngừoi già dùng \"},{\"text\":\"social media\",\"bold\":true},{\"text\":\" để giữ liên lạc với con cháu\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Keep in touch = communicating,  grandchildren = family\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 358,
+          "transcripts": [
+           {
+            "id": "11/342323-358489",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 358,
+            "text": "The feedback was very positive. The really encouraging thing was that participants all said they felt much more confident about using social media to keep in touch with their grandchildren, who prefer this form of communication to phoning or sending emails."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe nhắc đến \"},{\"text\":\"playing online games\",\"bold\":true},{\"text\":\" giúp họ quen bạn mới và đầu óc họ \"},{\"text\":\"active \",\"bold\":true},{\"text\":\"hơn\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Play game is useful\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe tiếp có nhắc “\"},{\"text\":\"groceries online” = shopping online \",\"bold\":true},{\"text\":\"và trước đó là\"},{\"text\":\" werent impressed \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ không ấn tượng về việc mua sắm online, vế sau còn nhắc thêm về việc họ thích ra ngoài mua sắm và chỉ thấy useful = handy khi bị ốm và thời tiết tệ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu tiếp theo mình thấy họ được tặng \"},{\"text\":\"tablets \",\"bold\":true},{\"text\":\"nhưng chưa bao giờ dùng, tuy nhiên đây chỉ là điều mà họ \"},{\"text\":\"asked about\",\"bold\":true},{\"text\":\" chứ không hề đề cập là nó \"},{\"text\":\"useful \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 359,
+          "endTimeInSeconds": 393,
+          "transcripts": [
+           {
+            "id": "12/359364-378753",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 378,
+            "text": "A lot of them also said playing online games would help them make new friends and keep their brains active. They weren’t that impressed with being able to order their groceries online, as they liked going out to the shops, but some said it would come in handy if they were ill or the weather was really bad."
+           },
+           {
+            "id": "13/379948-393099",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 393,
+            "text": "One thing they asked about was using tablets for things like reading newspapers – some people had been given tablets as presents but had never used them, so that’s something we’ll make sure we include this time …"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Planning a presentation on nanotechnology",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "67a9a0b2-276a-11ed-9762-a3ae25ae22f6",
+     "questions": [
+      {
+       "uuid": "67a9c7c3-276a-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "Russ says that his difficulty in planning the presentation is due to",
+       "options": [
+        {
+         "key": 0,
+         "value": "his lack of knowledge about the topic."
+        },
+        {
+         "key": 1,
+         "value": "his uncertainty about what he should try to achieve."
+        },
+        {
+         "key": 2,
+         "value": "the short time that he has for preparation."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “ \"},{\"text\":\"And I'm really struggling” = difficulty\",\"bold\":true},{\"text\":\" biết\"},{\"text\":\" đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình nghe được Russ chọn topic vì không biết nhiều về lĩnh vực mày và muốn học thêm, nhiều bạn sẽ chọn đáp án A\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">>  Tuy nhiên nếu nghe hết sẽ thấy vế sau “\"},{\"text\":\"now \",\"bold\":true},{\"text\":\"I’ve read\"},{\"text\":\" so much \",\"bold\":true},{\"text\":\"about it, in a way there's \"},{\"text\":\"too much to say \",\"bold\":true},{\"text\":\"“ \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Giờ Russ đã đọc và biết nhiều về topic này\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án A \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đến câu tiếp theo nhiều bạn sẽ chọn C vì có\"},{\"text\":\" talk longer than twenty minutes\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng vế này chỉ để bổ sung cho vế Russ đã hiểu về topic>> Russ có thể nói nhiều 20 phút chứ không nhắc gì đến việc anh ấy không có thời gian chuẩn bị\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến mới là câu hỏi của Russ cho tutor liệu sẽ give general introduction hay sẽ share particular aspect \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Don't know what he should achieve\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 67,
+          "endTimeInSeconds": 103,
+          "transcripts": [
+           {
+            "id": "2/67520-74982",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 74,
+            "text": " Now you wanted to consult me about your class presentation on nanotechnology – you’re due to give it in next week, aren’t you?",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           },
+           {
+            "id": "3/75286-103013",
+            "startTimeInSeconds": 75,
+            "endTimeInSeconds": 103,
+            "text": " That’s right. And I’m really struggling. I chose the topic because I didn’t know much about it and wanted to learn more, but now I’ve read so much about it, in a way there’s too much to say – I could talk for much longer than the twenty minutes I’ve been allocated. Should I assume the other students don’t know much, and give them a kind of general introduction, or should I try and make them share my fascination with a particular aspect?",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "67a9c7c4-276a-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "Russ and his tutor agree that his approach in the presentation will be",
+       "options": [
+        {
+         "key": 0,
+         "value": "to concentrate on how nanotechnology is used in one field."
+        },
+        {
+         "key": 1,
+         "value": "to follow the chronological development of nanotechnology."
+        },
+        {
+         "key": 2,
+         "value": "to show the range of applications of nanotechnology."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu đầu\"},{\"text\":\" “one way of approaching” = approach\",\"bold\":true},{\"text\":\" mình biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên tutor nhắc đến cách thứ 1 “work through developments” tuy nhiên không thấy Russ agree \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án B\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tutor đề cập cách 2: nói về cách ứng dụng nanotechnology, nhiều bạn sau khi nghe \"},{\"text\":\"numerous ways\",\"bold\":true},{\"text\":\" sẽ chọn C \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng Russ chỉ hỏi kỹ hơn về chứ không agree \"},{\"text\":\"“you mean”\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại C\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng cách 3 mà tutor đề cập là tập trung kỹ vào ảnh hưởng của nanotechnology trong 1 lĩnh vực cụ thể, sau đó Russ có trả lời\"},{\"text\":\" “make it easier”, “perhaps I should do that”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> That \",\"bold\":true},{\"text\":\"trong câu chính là cách \"},{\"text\":\"approach số 3\",\"bold\":true},{\"text\":\", mình có \"},{\"text\":\"focus on = concentrate on, how it is used = its impact, one field = one particular area \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 111,
+          "endTimeInSeconds": 149,
+          "transcripts": [
+           {
+            "id": "6/111193-117478",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 117,
+            "text": " OK. Now, one way of approaching this is to work through developments in chronological order.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           },
+           {
+            "id": "7/117613-118235",
+            "startTimeInSeconds": 117,
+            "endTimeInSeconds": 118,
+            "text": " Uh-huh.            ",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "8/118371-123718",
+            "startTimeInSeconds": 118,
+            "endTimeInSeconds": 123,
+            "text": " On the other hand, you could talk about the numerous ways that nanotechnology is being applied.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           },
+           {
+            "id": "9/124016-133166",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 133,
+            "text": " You mean things like thin films on camera displays to make them water-repellent, and additives to make motorcycle helmets stronger and lighter.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "10/133353-142556",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 142,
+            "text": " Exactly. Or another way would be to focus on its impact in one particular area, say medicine, or space exploration.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           },
+           {
+            "id": "11/142757-146804",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 146,
+            "text": " That would make it easier to focus. Perhaps I should do that.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "12/146981-149134",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 149,
+            "text": " I think that would be a good idea.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "67a9c7c5-276a-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "In connection with slides, the tutor advises Russ to",
+       "options": [
+        {
+         "key": 0,
+         "value": "talk about things that he can find slides to illustrate."
+        },
+        {
+         "key": 1,
+         "value": "look for slides to illustrate the points he makes."
+        },
+        {
+         "key": 2,
+         "value": "consider omitting slides altogether."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “ How important is it to include \"},{\"text\":\"slides\",\"bold\":true},{\"text\":\"” biết \"},{\"text\":\"đáp án đang chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó thấy tutor trả lời nó không hề quan trọng, tiếp sau có nhắc đến “you say to fit whatever slides you can find” nhiều bạn sẽ chọn A \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng nếu nghe kỹ sẽ thấy cụm \"},{\"text\":\"“there’s a danger”: rất nguy hiểm nếu làm điều đó\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án A\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình nghe “ it can be \"},{\"text\":\"good \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"include slides\",\"bold\":true},{\"text\":\"” “\"},{\"text\":\"looking for suitable ones” \",\"bold\":true},{\"text\":\" nhiều bạn sau khi nghe sẽ chọn B \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng nếu nghe kỹ sẽ thấy từ “\"},{\"text\":\"While\",\"bold\":true},{\"text\":\"” chỉ sự tương phản trong câu, và \"},{\"text\":\"end up spending too long\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có thể tốn nhiều thời gian tìm slides phù hợp, không advise làm điều này\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án B\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình có cụm “find it \"},{\"text\":\"better \",\"bold\":true},{\"text\":\"to l\"},{\"text\":\"eave them out\",\"bold\":true},{\"text\":\"” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở đây l\"},{\"text\":\"eave out = omit \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 149,
+          "endTimeInSeconds": 171,
+          "transcripts": [
+           {
+            "id": "13/149233-154419",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 154,
+            "text": " Right. How important is it to include slides in the presentation?",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "14/154652-171681",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 171,
+            "text": " They aren’t essential, by any means. And there’s a danger of tailoring what you say to fit whatever slides you can find. While it can be good to includes slides, you could end up spending too long looking for suitable ones. You might find it better to leave them out.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "67a9c7c6-276a-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "They both agree that the best way for Russ to start his presentation is",
+       "options": [
+        {
+         "key": 0,
+         "value": "to encourage the audience to talk."
+        },
+        {
+         "key": 1,
+         "value": "to explain what Russ intends to do."
+        },
+        {
+         "key": 2,
+         "value": "to provide an example."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “how to start” biết\"},{\"text\":\" đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp nghe được Russ đề xuất “\"},{\"text\":\"asking\",\"bold\":true},{\"text\":\" the \"},{\"text\":\"audience \",\"bold\":true},{\"text\":\"what they know about nanotechnology”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên ở câu sau tutor phản bác và nói nó chỉ phù hợp khi có 1-2 tiếng thuyết trình và điều này sẽ làm tốn thời gian \"},{\"text\":\"eats into the short time \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án A\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"Tiếp Russ đề xuất “\"},{\"text\":\"mention a particular way”= provide an example \",\"bold\":true},{\"text\":\"và người tutor đồng ý \"},{\"text\":\"“That sounds sensible.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "15/171846-188490",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 188,
+            "text": " I see. Another thing I was wondering about was how to start. I know presentations often begin with ‘First I’m going to talk about this, and then I’ll talk about that’, but I thought about asking the audience what they know about nanotechnology.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "16/189217-200012",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 200,
+            "text": " That would be fine if you had an hour or two for the presentation, but you might find that you can’t do anything with the answers you get, and it simply eats into the short time that’s available.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           },
+           {
+            "id": "17/200156-206535",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 206,
+            "text": " So, maybe I should mention a particular way that nanotechnology is used, to focus people’s attention.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "18/206692-208180",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 208,
+            "text": " That sounds sensible.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "67a9c7c7-276a-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "What does the tutor advise Russ to do next while preparing his presentation?",
+       "options": [
+        {
+         "key": 0,
+         "value": "summarise the main point he wants to make"
+        },
+        {
+         "key": 1,
+         "value": "read the notes he has already made"
+        },
+        {
+         "key": 2,
+         "value": "list the topics he wants to cover"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “What do you think I should do next? “ biết \"},{\"text\":\"câu trả lời chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó mình nghe được “the \"},{\"text\":\"notes \",\"bold\":true},{\"text\":\"you've made” nhiều bạn sẽ chọn B \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng nếu nghe kỹ sẽ thấy cụm “you should \"},{\"text\":\"ignore\",\"bold\":true},{\"text\":\"”\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nên mặc kệ các note\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án B \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó người tutor advise lấy một tờ giấy, viết 1 câu ngắn bao quát toàn bộ chủ đề và “start planning the \"},{\"text\":\"content around \",\"bold\":true},{\"text\":\"that” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Summarise \"},{\"text\":\"the main point \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 208,
+          "endTimeInSeconds": 237,
+          "transcripts": [
+           {
+            "id": "19/208319-214362",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 214,
+            "text": " What do you think I should do next? I really have to plan the presentation today and tomorrow.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "20/214657-237466",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 237,
+            "text": " Well, initially I think you should ignore all the notes you’ve made, take a small piece of paper, and write a single short sentence that ties together the whole presentation: it can be something as simple as ‘Nanotechnology is already improving our lives’. Then start planning the content around that. You can always modify that sentence later, if you need to.  ",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A, B or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "67a9c7c8-276a-11ed-9762-a3ae25ae22f6",
+     "questions": [
+      {
+       "uuid": "67a9c7c9-276a-11ed-9762-a3ae25ae22f6",
+       "type": "MATCHING_FEATURE_NAME",
+       "optionTitle": "Comment",
+       "options": [
+        {
+         "key": 0,
+         "value": "lacked a conclusion"
+        },
+        {
+         "key": 1,
+         "value": "useful in the future"
+        },
+        {
+         "key": 2,
+         "value": "not enough"
+        },
+        {
+         "key": 3,
+         "value": "sometimes distracting"
+        },
+        {
+         "key": 4,
+         "value": "showed originality"
+        },
+        {
+         "key": 5,
+         "value": "covered a wide range"
+        },
+        {
+         "key": 6,
+         "value": "not too technical"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “With regard to the\"},{\"text\":\" structure\",\"bold\":true},{\"text\":\".” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết\"},{\"text\":\" đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu tiếp theo mình thấy có \"},{\"text\":\"ended rather abruptly, without rounding it off:\",\"bold\":true},{\"text\":\" kết thúc đột ngột, không hoàn thiện\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án sẽ là \"},{\"text\":\"lacked a conclusion\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 293,
+          "endTimeInSeconds": 306,
+          "transcripts": [
+           {
+            "id": "24/293818-306670",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 306,
+            "text": " Let’s say it was better in some respects than in others. With regard to the structure. I felt that you ended rather abruptly, without rounding it off. Be careful not to do that in next week’s presentation.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người tutor nói luôn Russ made \"},{\"text\":\"little eye contact = not enough eye contact\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở phía sau có khuyên thêm nên nhìn audience và nhìn notes ít hơn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 307,
+          "endTimeInSeconds": 319,
+          "transcripts": [
+           {
+            "id": "26/307767-319706",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 319,
+            "text": " And you made very little eye contact with the audience, because you were looking down at your notes most of the time. You need to be looking at the audience and only occasionally glancing at your notes.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “Your body language was a little odd” biết \"},{\"text\":\"câu trả lời sắp vào\",\"bold\":true},{\"text\":\" và có thể sẽ mang tính negative vì có từ\"},{\"text\":\" odd: lạ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo tutor nhắc đến các hành động của Russ “turned your back on the audience”, “kept scratching your head” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tiếp mình thấy có\"},{\"text\":\" found myself wondering instead of listening\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Hành động của Russ gây \"},{\"text\":\"distracting\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 320,
+          "endTimeInSeconds": 337,
+          "transcripts": [
+           {
+            "id": "28/320407-337990",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 337,
+            "text": " Your body language was a little odd. Every time you showed a slide, you turned your back on the audience so you could look at it – you should have been looking at your laptop. And you kept scratching your head, so I found myself wondering when you were next going to do that, instead of listening to what you were saying!",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe “What did you think of the \"},{\"text\":\"language\",\"bold\":true},{\"text\":\"?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết \"},{\"text\":\"đáp án chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp nghe ngừoi tutor trả lời\"},{\"text\":\" “few words” = choice of words \",\"bold\":true},{\"text\":\"và “ \"},{\"text\":\"specific to the field” = technical\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tuy nhiên Russ luôn giải thích nên không khó hiểu “\"},{\"text\":\"wouldn't \",\"bold\":true},{\"text\":\"have had\"},{\"text\":\" any difficulty understanding” \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 338,
+          "endTimeInSeconds": 359,
+          "transcripts": [
+           {
+            "id": "29/338132-348197",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 348,
+            "text": " Oh dear. What did you think of the language? I knew that not everyone was familiar with the subject, so I tried to make it as simple as I could.",
+            "character": {
+             "id": "N9435F2s0yTQuq5W8b1dn",
+             "name": "RUSS"
+            }
+           },
+           {
+            "id": "30/348339-359354",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 359,
+            "text": " Yes, that came across. You used a few words that are specific to the field, but you always explained what they meant, so the audience wouldn’t have had any difficulty understanding.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình nghe người tutor khen “I must say the handouts you prepared were well thought out” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết câu trả lời sắp và và sẽ mang tính positive vì có \"},{\"text\":\"thought-out = cẩn thận, kĩ lưỡng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu tiếp đến mình thấy có people would be \"},{\"text\":\"able \",\"bold\":true},{\"text\":\"to\"},{\"text\":\" refer \",\"bold\":true},{\"text\":\"to\"},{\"text\":\" later on:\",\"bold\":true},{\"text\":\" có thể tham khảo trong tương lai\"},{\"text\":\" = useful in the future\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 360,
+          "endTimeInSeconds": 371,
+          "transcripts": [
+           {
+            "id": "32/360516-371268",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 371,
+            "text": " I must say the handouts you prepared were well thought out. They were a good summary of your presentation, which people would be able to refer to later on. So well done on that.",
+            "character": {
+             "id": "ea0zG8rPYzhV-5qET7HSC",
+             "name": "TUTOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "structure"
+        },
+        {
+         "key": 1,
+         "value": "eyes contact"
+        },
+        {
+         "key": 2,
+         "value": "body language"
+        },
+        {
+         "key": 3,
+         "value": "choice of words "
+        },
+        {
+         "key": 4,
+         "value": "handouts"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What comments do the speakers make about each of the following aspects of Russ’s previous presentation?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FIVE",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         },
+         {
+          "text": " next to questions"
+         },
+         {
+          "text": ".",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FIVE ",
+          "bold": true
+         },
+         {
+          "text": "answers from the box and write the correct letter "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         },
+         {
+          "text": " next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Episodic Memory",
+   "duration": 10,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "80673f74-276a-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "80673f75-276a-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" đi song song với\"},{\"text\":\" the time \",\"bold\":true},{\"text\":\"và thuộc về \"},{\"text\":\"past events\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu đầu tiên thấy \\\" event from the past\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án đang chuẩn bị vào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe được Episodic memories include details về những \"},{\"text\":\"events \",\"bold\":true},{\"text\":\"này như là khi sự kiện xảy ra \"},{\"text\":\"\\\"when an event happened\\\"= the time\",\"bold\":true},{\"text\":\" và những thông tin khác \"},{\"text\":\"such as location\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ location đi song song với the time trong ví dụ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là location \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 92,
+          "endTimeInSeconds": 134,
+          "transcripts": [
+           {
+            "id": "1/92134-113757",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 113,
+            "text": "Episodic memories allow us to mentally travel back in time to an event from the past. Episodic memories include various details about these events, for example, when an event happened and other information such as the location."
+           },
+           {
+            "id": "2/115243-134094",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 134,
+            "text": "To help understand this concept, try to remember the last time you ate dinner at a restaurant. The ability to remember where you at, who you were with and the items you ordered are all features of an episodic memory."
+           }
+          ]
+         },
+         "value": "location",
+         "blankId": "wGFju5TiGOhhAhU82W0pm"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe câu đầu mình thấy \\\"is \"},{\"text\":\"distinct from \",\"bold\":true},{\"text\":\"another type of memory called\"},{\"text\":\" semantic memory\",\"bold\":true},{\"text\":\"\\\" \"},{\"text\":\"= Different to semantic memory\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo có nhắc đến đây là loại trí mớ mà có điểm chung với tất cả mọi người, đó chính là\"},{\"text\":\" general knowledge of the world, \",\"bold\":true},{\"text\":\"trong đó \"},{\"text\":\"general knowledge=general information\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là world \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 135,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "3/135163-154069",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 154,
+            "text": "Episodic memory is distinct from another type of memory called semantic memory. This is the type of factual memory that we have in common with everyone else – that is your general knowledge of the world"
+           },
+           {
+            "id": "4/155519-184497",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 184,
+            "text": "To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of sematic memory. Unlike episodic memory, semantic memory isn’t dependent on recalling personal experiences."
+           }
+          ]
+         },
+         "value": "world",
+         "blankId": "s0q38iED5P7xp_AHBUuxm"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun/adj\",\"bold\":true},{\"text\":\" và có liên quan bổ nghĩa cho information\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"\"},{\"text\":\"Unlike \",\"bold\":true},{\"text\":\"episodic memory\\\" họ sẽ nói điểm khác biệt giữa hai loại trí nhớ \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết đáp án sẽ chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe tiếp thấy loại trí nhớ này không phụ thuộc vào \"},{\"text\":\"recalling personal experiences\",\"bold\":true},{\"text\":\". \"},{\"text\":\"isn't dependent = not involve \",\"bold\":true},{\"text\":\"và từ \"},{\"text\":\"recalling \",\"bold\":true},{\"text\":\"được nhắc đến trong bài\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là personal \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 155,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "4/155519-184497",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 184,
+            "text": "To build upon a previous example, remembering where you parked your car is an example of episodic memory, but your understanding of what a car is and how an engine works are examples of sematic memory. Unlike episodic memory, semantic memory isn’t dependent on recalling personal experiences."
+           }
+          ]
+         },
+         "value": "personal",
+         "blankId": "awM9rLmIS9UCUYNmmY5Bg"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"và nó sẽ là một thứ gì đó được cho đi\"},{\"text\":\" = given\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình nghe thấy\"},{\"text\":\" degree encode \",\"bold\":true},{\"text\":\"thành công phụ thuộc vào\"},{\"text\":\" level of attention you give\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn càng give nhiều \"},{\"text\":\"attention\",\"bold\":true},{\"text\":\" bạn càng \"},{\"text\":\"encode \",\"bold\":true},{\"text\":\"thành công \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là \"},{\"text\":\"attention \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 219,
+          "endTimeInSeconds": 246,
+          "transcripts": [
+           {
+            "id": "6/219771-246825",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 246,
+            "text": "The degree to which you can successfully encode information depends on the level of attention you give to an event while it’s actually happening. Being distracted can make effective encoding very difficult. Encoding of episodic memories is also influenced by how you process the event."
+           }
+          ]
+         },
+         "value": "attention",
+         "blankId": "pPZOkijahlaXpyYc8_lh7"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở đây sẽ là một thứ gì đó mà mình có thể nhớ dễ dàng hơn bằng cách có\"},{\"text\":\" 1 strategy for encoding\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu đầu tiên nói về việc cách bạn \"},{\"text\":\"process event \",\"bold\":true},{\"text\":\"có thể ảnh hưởng đến quá trình \"},{\"text\":\"encode\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó speaker nêu ví dụ: introduced to\"},{\"text\":\" someone called Charlie\",\"bold\":true},{\"text\":\" và tạo connection với your \"},{\"text\":\"uncle has the same name\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn thấy ở đây ví dụ đang nói về \"},{\"text\":\"tên\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sang đến câu tiếp theo mình sẽ thấy \"},{\"text\":\"future collection (= remember)\",\"bold\":true},{\"text\":\" of Charlie’s name is much \"},{\"text\":\"easier (=useful) \",\"bold\":true},{\"text\":\" bởi có \"},{\"text\":\"1 strategy để encode\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thứ bạn cần nhớ ở đây là\"},{\"text\":\" name\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là name \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 219,
+          "endTimeInSeconds": 267,
+          "transcripts": [
+           {
+            "id": "6/219771-246825",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 246,
+            "text": "The degree to which you can successfully encode information depends on the level of attention you give to an event while it’s actually happening. Being distracted can make effective encoding very difficult. Encoding of episodic memories is also influenced by how you process the event."
+           },
+           {
+            "id": "7/247661-267425",
+            "startTimeInSeconds": 247,
+            "endTimeInSeconds": 267,
+            "text": "For example, if you were introduced to someone called Charlie, you might make the connection that your uncle has the same name. Future recollection of Charlie’s name is much easier if you have a strategy to help you encode it."
+           }
+          ]
+         },
+         "value": "name",
+         "blankId": "bE9-uwuvdP7O7VhLp45Se"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\", đây sẽ là một thứ gì đó mà memories được thêm vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe mình thấy \\\"consolidation, the next step \\\" là biết chuyển sang câu hỏi tiếp theo\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe tiếp thấy Consolidation hiệu quả nhất khi mà các thông tin đang được stored có thể\"},{\"text\":\" linked to\",\"bold\":true},{\"text\":\" một mạng lưới thông tin có sẵn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ở đây \"},{\"text\":\"information \",\"bold\":true},{\"text\":\"chính là \"},{\"text\":\"memories \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"can be linked to = can be added to \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là network \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 269,
+          "endTimeInSeconds": 299,
+          "transcripts": [
+           {
+            "id": "8/269920-299818",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 299,
+            "text": "Memory consolidation, the next step in forming an episodic memory, is the process by which memories of encoded information are strengthened, stabilised and stored to facilitate later retrieval. Consolidation is most effective when the information being stored can be linked to an existing network of information"
+           }
+          ]
+         },
+         "value": "network",
+         "blankId": "cfx7hhUXzxjjFV-dE-mUT"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền ở đây là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\", một cái gì đó của retrival ảnh hưởng đến độ mạnh của trí nhớ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ngay khi nghe câu store memories for later \"},{\"text\":\"retrieval \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp mình nghe thấy \\\" Forming \"},{\"text\":\"strong memories \",\"bold\":true},{\"text\":\"depends on the \"},{\"text\":\"frequency \",\"bold\":true},{\"text\":\"with \"},{\"text\":\"which \",\"bold\":true},{\"text\":\"you try to \"},{\"text\":\"retrieve \",\"bold\":true},{\"text\":\"them\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Việc forming strong memories phụ thuộc vào tần suất bạn cố gắng retrieve nó \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Strength \",\"bold\":true},{\"text\":\"của \"},{\"text\":\"memories \",\"bold\":true},{\"text\":\"ảnh hưởng bởi\"},{\"text\":\" frequency you try to retrieve \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là frequency \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 301,
+          "endTimeInSeconds": 324,
+          "transcripts": [
+           {
+            "id": "9/301228-324937",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 324,
+            "text": "Consolidation makes it possible for you to store memories for later retrieval indefinitely. Forming strong memories depends on the frequency with which you try to retrieve them. Memories can fade or become harder to retrieve if they aren’t used very often"
+           }
+          ]
+         },
+         "value": "frequency",
+         "blankId": "A2dmBJMVnKDd1deqRy3uy"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"(thuộc ví dụ, là một thứ gì đó của sự vật cạnh nơi bạn để xe)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi thấy \\\"For example,\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Biết đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe thấy speaker nói \\\" recalling \"},{\"text\":\"where you parked your car \",\"bold\":true},{\"text\":\"you may \"},{\"text\":\"use the colour of a sign close \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"where you parked\",\"bold\":true},{\"text\":\".\\\" (nhớ lại bạn để xe ở đâu bạn có thể dựa vào màu sắc bảng hiện gần chỗ đỗ xe) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sign \",\"bold\":true},{\"text\":\"ở đây là \"},{\"text\":\"object \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"close to where park = near to the place you left your car\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thứ bạn cần nhớ là \"},{\"text\":\"color of the sign\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là colour \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 350,
+          "endTimeInSeconds": 374,
+          "transcripts": [
+           {
+            "id": "11/350904-374441",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 374,
+            "text": "These help episodic memory retrieval by acting as a prompt. For example, when recalling where you parked your car you may use the colour of a sign close to where you parked. You actually have to mentally travel back to the moment you parked."
+           }
+          ]
+         },
+         "value": "colour/color",
+         "blankId": "7vn7uB-oRxGzwkFx78Ehb"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"(là một thứ được kích thích bởi \"},{\"text\":\"games\",\"bold\":true},{\"text\":\")\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe đến \\\"\"},{\"text\":\"schizophrenia \",\"bold\":true},{\"text\":\"\\\" mình \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu đầu tiên speaker nói về những người mắc bệnh này có thể kiểm soát bằng thuốc nhưng không thể quay lại học hay làm việc\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sau đó mình nghe thấy các nhà nghiên cứu phát hiện \\\"computer-assisted \"},{\"text\":\"games \",\"bold\":true},{\"text\":\"designed to \"},{\"text\":\"keep the brain active\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mình có cụm \"},{\"text\":\"keep sth active = stimulate\",\"bold\":true},{\"text\":\" và thứ mà nó keep active là \"},{\"text\":\"the brain\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là brain \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 405,
+          "endTimeInSeconds": 463,
+          "transcripts": [
+           {
+            "id": "13/405990-426503",
+            "startTimeInSeconds": 405,
+            "endTimeInSeconds": 426,
+            "text": "For example, the symptoms of schizophrenia can be reasonably well controlled by medication; however, patients’ episodic memory may still be impaired and so they are often unable to return to university or work."
+           },
+           {
+            "id": "14/428042-463500",
+            "startTimeInSeconds": 428,
+            "endTimeInSeconds": 463,
+            "text": "Recent studies have shown that computer- assisted games designed to keep the brain active can help improve their episodic memory. Episodic memories can help people connect with others, for instance by sharing intimate details about their past; something individuals with autism often have problems with. This may be caused by an absence of a sense of self"
+           }
+          ]
+         },
+         "value": "brain",
+         "blankId": "eOYFXYmr4O5Todh5Dys0E"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Xác định loại từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"(là một thứ gì đó mà concept: khái niệm của nó không có mặt, \"},{\"text\":\"absent\",\"bold\":true},{\"text\":\")\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau speaker nhắc đến \\\"\"},{\"text\":\"Episodic memories\",\"bold\":true},{\"text\":\"\\\" và individuals with \"},{\"text\":\"autism \",\"bold\":true},{\"text\":\"often have \"},{\"text\":\"problems \",\"bold\":true},{\"text\":\"with\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Children with \"},{\"text\":\"autism \",\"bold\":true},{\"text\":\"may have \"},{\"text\":\"difficulty \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo speaker nói \\\"This may be \"},{\"text\":\"caused \",\"bold\":true},{\"text\":\"by an \"},{\"text\":\"absence\",\"bold\":true},{\"text\":\" of \"},{\"text\":\"a sense of self\",\"bold\":true},{\"text\":\"\\\" (Điều này có thể do sự vắng mặt của sự ý thức về bản thân)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Trong đó this chính là vấn đề mà trẻ tự kỷ gặp và nguyên nhân \"},{\"text\":\"(because =caused by) \",\"bold\":true},{\"text\":\"chính là absence of a sense of self\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Thứ absent ở đáp án là\"},{\"text\":\" concept of self\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là self \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 428,
+          "endTimeInSeconds": 490,
+          "transcripts": [
+           {
+            "id": "14/428042-463500",
+            "startTimeInSeconds": 428,
+            "endTimeInSeconds": 463,
+            "text": "Recent studies have shown that computer- assisted games designed to keep the brain active can help improve their episodic memory. Episodic memories can help people connect with others, for instance by sharing intimate details about their past; something individuals with autism often have problems with. This may be caused by an absence of a sense of self"
+           },
+           {
+            "id": "15/464655-490093",
+            "startTimeInSeconds": 464,
+            "endTimeInSeconds": 490,
+            "text": "This is essential for the storage of episodic memory, and has been found to be impaired in children with autism. Research has shown that treatments that improve memory may also have a positive impact on children’s social development. One study looked at a …"
+           }
+          ]
+         },
+         "value": "self",
+         "blankId": "4j5lxf5Yt4hDxCzMT6bNl"
+        }
+       ],
+       "paragraph": {
+        "id": "OnoMEFvbBCl5hP4RtOd3T",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"9PXWx0bP0wRYJAb0T2Kb4\",\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Episodic memory\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The ability to recall details e.g. the time and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(31) \"}],\"id\":\"wGFju5TiGOhhAhU82W0pm\"},{\"text\":\" of past events\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Different to semantic memory- the ability to remember general information about the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(32)  \"}],\"id\":\"s0q38iED5P7xp_AHBUuxm\"},{\"text\":\" which does not involve recalling\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (33)  \"}],\"id\":\"awM9rLmIS9UCUYNmmY5Bg\"},{\"text\":\" information.\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Forming episodic memories involves three steps:\",\"bold\":true}]},{\"children\":[{\"text\":\"Encoding\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Involves receiving and processing information\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The more\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (34)  \"}],\"id\":\"pPZOkijahlaXpyYc8_lh7\"},{\"text\":\" given to an event the more successfully it can be encoded\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"To remember a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(35) \"}],\"id\":\"bE9-uwuvdP7O7VhLp45Se\"},{\"text\":\" it is useful to have a strategy for encoding such information\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Consolidation\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"How memories are strengthened and stored\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Most effective when memories can be added to a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (36) \"}],\"id\":\"cfx7hhUXzxjjFV-dE-mUT\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"The \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(37)  \"}],\"id\":\"A2dmBJMVnKDd1deqRy3uy\"},{\"text\":\" of retrieval affects the strength of memories.\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Retrieval\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Memory retrieval often depends on using a prompt e.g. the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(38)  \"}],\"id\":\"7vn7uB-oRxGzwkFx78Ehb\"},{\"text\":\" of an object near to the place where you left your car\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Episodic memory impairments\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"These affect people with a wide range of medical conditions.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Games which stimulate the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (39)  \"}],\"id\":\"eOYFXYmr4O5Todh5Dys0E\"},{\"text\":\" have been found to help people with schizophrenia.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Children with autism may have difficulty forming episodic memories – possibly because their concept of the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (40) \"}],\"id\":\"4j5lxf5Yt4hDxCzMT6bNl\"},{\"text\":\" may be absent.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Memory training may help autistic children to develop social skills.\"}],\"type\":\"p\"}]}]}]",
+        "blanks": [
+         {
+          "id": "wGFju5TiGOhhAhU82W0pm",
+          "key": 0
+         },
+         {
+          "id": "s0q38iED5P7xp_AHBUuxm",
+          "key": 1
+         },
+         {
+          "id": "awM9rLmIS9UCUYNmmY5Bg",
+          "key": 2
+         },
+         {
+          "id": "pPZOkijahlaXpyYc8_lh7",
+          "key": 3
+         },
+         {
+          "id": "bE9-uwuvdP7O7VhLp45Se",
+          "key": 4
+         },
+         {
+          "id": "cfx7hhUXzxjjFV-dE-mUT",
+          "key": 5
+         },
+         {
+          "id": "A2dmBJMVnKDd1deqRy3uy",
+          "key": 6
+         },
+         {
+          "id": "7vn7uB-oRxGzwkFx78Ehb",
+          "key": 7
+         },
+         {
+          "id": "eOYFXYmr4O5Todh5Dys0E",
+          "key": 8
+         },
+         {
+          "id": "4j5lxf5Yt4hDxCzMT6bNl",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:08Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

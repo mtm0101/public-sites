@@ -1,0 +1,54 @@
+apply plugin: 'com.android.application'
+
+// Increase releaseMinor once per release. Both installable apps then advance
+// together, for example 1.6.1/1.6.2 -> 1.7.1/1.7.2.
+def releaseMajor = 1
+def releaseMinor = 6
+def releaseVersionCode = releaseMajor * 10000 + releaseMinor * 100
+def primaryVersionName = "${releaseMajor}.${releaseMinor}.1"
+def secondaryVersionName = "${releaseMajor}.${releaseMinor}.2"
+
+android {
+    namespace 'com.ieltshourly.practice'
+    compileSdk 35
+
+    defaultConfig {
+        applicationId 'com.ieltshourly.practice'
+        minSdk 26
+        targetSdk 35
+        versionCode releaseVersionCode + 1
+        versionName primaryVersionName
+    }
+
+    flavorDimensions 'installation'
+    productFlavors {
+        primary {
+            dimension 'installation'
+        }
+        secondary {
+            dimension 'installation'
+            applicationIdSuffix '.secondary'
+            versionCode releaseVersionCode + 2
+            versionName secondaryVersionName
+        }
+    }
+
+    buildTypes {
+        release {
+            signingConfig signingConfigs.debug
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
+        }
+    }
+
+    compileOptions {
+        sourceCompatibility JavaVersion.VERSION_17
+        targetCompatibility JavaVersion.VERSION_17
+    }
+
+    applicationVariants.configureEach { variant ->
+        variant.outputs.configureEach { output ->
+            output.outputFileName = "ielts-hourly-${variant.flavorName}-${variant.buildType.name}-${variant.versionName}.apk"
+        }
+    }
+}

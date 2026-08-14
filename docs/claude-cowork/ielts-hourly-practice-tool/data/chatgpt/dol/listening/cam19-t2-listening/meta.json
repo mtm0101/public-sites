@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam19-t2-listening",
+ "title": "CAM IELTS 19 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 19",
+ "testNum": 2,
+ "order": 6,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-19-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Guitar Group",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/P1_Guitar_Group_2025-03-22130643.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 8668190
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM19_L2_S1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 74
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Working as a lifeboat volunteer",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/P2_Working_as_a_lifeboat_volunteer_2025-03-22131032.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6385696
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM19_L2_P2.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 41
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Challenges in Footwear Recycling",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/P3_Don___recycling_footwear_might_be_too_2025-03-22131301.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 7094554
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM19_L2_S3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 73
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Tardigrades",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/P4_Tardigrades_2025-03-22131552.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7788386
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM19_L2_P4_2024-06-21023647.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 47
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:33:26Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

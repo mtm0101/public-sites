@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual2-t8-listening",
+ "title": "Actual Test 2 - Listening Test 8",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 8,
+ "order": 77,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-2-test-8-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Phone Interview",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8e9f1ccd-008a-4658-b57d-8bcb50e4ca13.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14974476
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/02046276-29e3-4f3c-a5ea-30625c110b96.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Free Class About Safety Around Campus",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/315303b9-4186-411c-a547-099613388c0c.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 15504240
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4f54c4c7-2213-40e1-a654-60b50e0b0143.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 38
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Football Research",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f547ab0e-f9e5-404c-9b99-4d903d87645b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13086346
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/af5eb411-3171-43b7-bcfe-ad280e654f89.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 33
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Giving A Speech",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fc08c827-e8b0-412d-a2ed-1e3f43e1c74f.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 13845987
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/41cfaf79-22ce-408e-b72e-a02e4da4365c.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 30
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:44:52Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual2-t7-listening",
+ "title": "Actual Test 2 - Listening Test 7",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 7,
+ "order": 76,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-2-test-7-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Tourism Survey",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/44b54236-a409-4bdc-bda9-faf6c1ee1729.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 15147929
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e4b83ed7-7bbf-4737-ba50-daadae45c322.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Improvement Plan",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2569ff05-9227-478f-954d-52ce59b850fc.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14227375
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d913ea60-6a24-4e12-8f62-9534e91ea417.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 34
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Project Assignments",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2cd35503-2aab-42e3-9ddc-e3ad324f1280.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13201285
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9f804fe7-04d2-4560-a5bc-541b350b2dbb.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 42
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Advertising Effect",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a35570e5-c393-4f34-8c02-2c13a160078e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 19002558
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2acf6b4d-5218-4454-ab92-1a9266b3f02b.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 47
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:44:24Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

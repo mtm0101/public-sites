@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "cam20-t2-listening",
+ "title": "CAM IELTS 20 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 20",
+ "testNum": 2,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/tu-vung-cam-ielts-20-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Caring for elderly people",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S1.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 3212744
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 67
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Role of the volunteers",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S2.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3936359
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S2.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 45
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Human geography",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S3.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3703012
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 90
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Developing food trends",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S4.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7592388
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T2S4.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 46
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T20:02:11Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

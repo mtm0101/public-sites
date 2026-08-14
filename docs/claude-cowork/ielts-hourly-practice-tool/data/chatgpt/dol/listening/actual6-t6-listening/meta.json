@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual6-t6-listening",
+ "title": "Actual Test 6 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 6",
+ "testNum": 6,
+ "order": 102,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-6-test-6-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "New Flatmate",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/57be6d08-1dfe-49a5-af0f-22eace2475f6.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6123564
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/382927f1-566d-496b-8be4-16aecd6d105f.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 20
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Emergency First Aid",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f87b135d-8c6b-450f-adbd-33cb764fdfd1.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5139270
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/28ed6b25-2d41-4453-ad36-ea28fa8c59ce.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 13
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On University Waste",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6951e93d-86ad-43fe-bfe2-dd2dc6cde11c.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5471129
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f01db61c-6219-4373-879e-1914311ca509.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 25
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Techniques For Removing Carbon Dioxide From The Atmosphere",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a6411d4c-cfd5-4601-bcce-1f52c4dd84fb.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6378101
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ee8ec87f-7060-4dd0-92e6-d36260f7e2ed.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 15
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:56:31Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

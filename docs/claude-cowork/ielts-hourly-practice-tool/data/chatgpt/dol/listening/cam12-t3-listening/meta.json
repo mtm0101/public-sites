@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam12-t3-listening",
+ "title": "CAM IELTS 12 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 12",
+ "testNum": 3,
+ "order": 35,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-12-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Public Libraries",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b0ed985b-29f2-4dca-ba7a-0c4f1a627550.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 13131772
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d0298498-5207-4d86-8ca5-a6ad8e59c781.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 34
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "BC Travel Agency",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b53c23b2-e2d0-48a1-ae5a-0acd2d82c30d.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 10449735
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a61d6619-2ae6-425e-9e58-1e3238f7b8c9.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 15
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Tourism Case Study",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e0aeaf01-60a1-4f37-98c3-04dc8500fc8b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12234629
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9d9f2844-8b4c-400f-aa59-f1a85822d2e3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Effects Of Environmental Change On Birds",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a5b5051e-7695-4db3-9f5f-ddb46674c9d6.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 11786368
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e84f4973-7a97-4cf6-9253-cdfcb5981050.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 13
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:43:37Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

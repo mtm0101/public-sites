@@ -1,0 +1,313 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 101.374,
+   "end": 102.314,
+   "text": "Good morning!",
+   "speaker": "Student"
+  },
+  {
+   "id": "c2",
+   "start": 102.314,
+   "end": 104.362,
+   "text": "Good morning - can I help you?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c3",
+   "start": 104.362,
+   "end": 108.741,
+   "text": "Yes, is this where we register for the Beyond 2000 Conference?",
+   "speaker": "Student"
+  },
+  {
+   "id": "c4",
+   "start": 108.741,
+   "end": 111.929,
+   "text": "Yes? What's your name and I'll get your conference bag.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c5",
+   "start": 111.929,
+   "end": 120.132,
+   "text": "Well ... I haven't actually registered yet. I was told I'd be able to register today, so I hope that's OK ... I've just arrived in Melbourne.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c6",
+   "start": 120.132,
+   "end": 126.229,
+   "text": "That should be fine, if you're a student. I'll need to take your details though. So can I have your full name?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c7",
+   "start": 126.229,
+   "end": 129.017,
+   "text": "Yes, sure. It's Melanie Mitchell.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c8",
+   "start": 129.017,
+   "end": 133.954,
+   "text": "Is that M I T C H E double L?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c9",
+   "start": 133.954,
+   "end": 137.433,
+   "text": "Yes, that's right and that's Ms not Miss.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c10",
+   "start": 137.433,
+   "end": 140.606,
+   "text": "OK, fair enough! And what's your address, Melanie?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c11",
+   "start": 140.606,
+   "end": 151.024,
+   "text": "I live in student accommodation at Sydney University. So my address there is Room 66. Women's College. Newtown.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c12",
+   "start": 151.024,
+   "end": 155.708,
+   "text": "OK. And which Faculty are you studying in?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c13",
+   "start": 155.708,
+   "end": 160.798,
+   "text": "I'm in the Faculty of Education - I'm doing a Master's in Primary School Teaching.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c14",
+   "start": 160.798,
+   "end": 166.032,
+   "text": "Right, and may I see your student card because I need to verify that you're a current student?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c15",
+   "start": 166.032,
+   "end": 175.641,
+   "text": "Yes, sure. Here it is. My number is ... 9 9 4 5 7 8 E D.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c16",
+   "start": 224.5,
+   "end": 231.214,
+   "text": "OK - now do you want to attend all three days? The conference runs from Thursday to Saturday.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c17",
+   "start": 231.214,
+   "end": 234.876,
+   "text": "Yes, I think so - if I can afford it. What does it cost?",
+   "speaker": "Student"
+  },
+  {
+   "id": "c18",
+   "start": 234.876,
+   "end": 246.055,
+   "text": "Well, you're eligible for a student discount - which makes it $15 for a day registration or $40 for the three days, though it is possible to register for half a day only.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c19",
+   "start": 246.055,
+   "end": 248.862,
+   "text": "I'll register for all three days. please.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c20",
+   "start": 248.862,
+   "end": 254.022,
+   "text": "Good ... now will you be requiring accommodation while you're here in Melbourne?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c21",
+   "start": 254.022,
+   "end": 257.505,
+   "text": "Yes, I suppose I will. What's available?",
+   "speaker": "Student"
+  },
+  {
+   "id": "c22",
+   "start": 257.505,
+   "end": 264.583,
+   "text": "Well... we have several levels of accommodation. You can share a room with another student for $25 a night.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c23",
+   "start": 264.583,
+   "end": 265.514,
+   "text": "Urn.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c24",
+   "start": 265.514,
+   "end": 272.0,
+   "text": "Or you can have your own room but share the bathroom - I believe it's just down the corridor - that's $45.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c25",
+   "start": 272.65,
+   "end": 273.526,
+   "text": "Right.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c26",
+   "start": 273.526,
+   "end": 276.613,
+   "text": "Or you can have a single room with your own bathroom .",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c27",
+   "start": 276.613,
+   "end": 285.976,
+   "text": "I don't mind sharing a room ... On second thoughts, yes I do - I'll have my own room, but I'll share the bathroom.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c28",
+   "start": 285.976,
+   "end": 302.645,
+   "text": "Right ... Now the conference fee does not include meals though you do get tea and coffee in the breaks. Shall I put you down for lunch - that's an extra $10 a day and there's the conference dinner on Friday night which is $25 ... oh, and what about breakfast?",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c29",
+   "start": 302.645,
+   "end": 313.233,
+   "text": "Hang on a minute ... it's all starting to sound rather expensive! I'll have the lunch but not the dinner or breakfast - if that's OK?",
+   "speaker": "Student"
+  },
+  {
+   "id": "c30",
+   "start": 313.233,
+   "end": 330.892,
+   "text": "Perfectly OK. Now ... a couple of other things - there are a number of special interest groups organised - they're known as SIG's and you're asked to nominate your preference. They'll take place on the Friday afternoon and Saturday morning but they're filling up quickly which is why you need to nominate now.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c31",
+   "start": 330.892,
+   "end": 333.832,
+   "text": "Right. What are the SIG's?",
+   "speaker": "Student"
+  },
+  {
+   "id": "c32",
+   "start": 333.832,
+   "end": 344.327,
+   "text": "Well, there are six altogether. Let's see, on Friday you have a choice between Computers in Education or Teaching Reading Skills...",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c33",
+   "start": 344.327,
+   "end": 345.116,
+   "text": "Urn...",
+   "speaker": "Student"
+  },
+  {
+   "id": "c34",
+   "start": 345.116,
+   "end": 348.531,
+   "text": "... or a session on Catering for the Gifted Child.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c35",
+   "start": 348.531,
+   "end": 362.048,
+   "text": "Oh they all sound interesting but technology in the classroom is really my area of interest rather than reading, so I'll go for that. I can probably read up on the gifted child topic myself.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c36",
+   "start": 362.048,
+   "end": 374.317,
+   "text": "Right ... And then the Saturday options are: a session on Cultural Differences; or there's Music in the Primary Curriculum or you could go to the one on Gender Issues in the Classroom.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c37",
+   "start": 374.317,
+   "end": 378.555,
+   "text": "Wow! Can I go to them all? They all sound fascinating.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c38",
+   "start": 378.555,
+   "end": 379.818,
+   "text": "I'm afraid not.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c39",
+   "start": 379.818,
+   "end": 394.78,
+   "text": "Well, I am really interested in how bovs and girls behave differently, even when they are very young, so I'd better opt for the third session even though the Cultural Differences SIG is probably really interesting, too.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c40",
+   "start": 394.78,
+   "end": 395.438,
+   "text": "Right!",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c41",
+   "start": 395.438,
+   "end": 397.838,
+   "text": "... and the Music option would be ...",
+   "speaker": "Student"
+  },
+  {
+   "id": "c42",
+   "start": 397.838,
+   "end": 410.118,
+   "text": "And how would you like to pay? We accept most credit cards - or bank cheques but not personal cheques, I'm afraid. Been caught out too often before - and cash, of course. We never say 'No' to cash.",
+   "speaker": "Woman"
+  },
+  {
+   "id": "c43",
+   "start": 410.118,
+   "end": 415.051,
+   "text": "I'll have to put it on my card cause I don't have enough cash on me, right now.",
+   "speaker": "Student"
+  },
+  {
+   "id": "c44",
+   "start": 415.051,
+   "end": 418.685,
+   "text": "That's fine. Enjoy your time here with us in Melbourne...",
+   "speaker": "Woman"
+  }
+ ]
+}

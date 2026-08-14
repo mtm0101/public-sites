@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam12-t2-listening",
+ "title": "CAM IELTS 12 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 12",
+ "testNum": 2,
+ "order": 34,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-12-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Events During Kenton Festival",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7a619863-aa28-4209-bcd0-2de151302500.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 12986322
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/58c9745c-781b-4def-b8a0-a5ef93103524.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Theatre Trip To Munich",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/71386287-9a9e-4b65-b622-3e03bea1736b.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 11268517
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9a706396-6414-491d-818a-8a944a810630.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 15
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Scandinavian Studies",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dc8f5e0d-0264-4222-9af2-d85ec1ea8e01.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 10340647
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/77880ccb-4dcf-4aff-a95b-96c005aa85c1.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 36
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Conflict At Work",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4c6dbb7a-8531-41a7-b8bb-7019864c91d1.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 12413307
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6ccd37cb-cb10-49ef-9cce-cba0b6457764.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 13
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:43:17Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

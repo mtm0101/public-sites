@@ -1,0 +1,25 @@
+{
+ "schema": 2,
+ "id": "optional — defaults to the file name without .json; must be unique across all sources",
+ "type": "lesson | news | quiz | test | listening | reading | speaking | email | writing | … (free label, shown as a chip + filter)",
+ "source": "claude-cowork | chatgpt | codex | … (free label; defaults to the S3 folder name the file sits in)",
+ "category": "optional grouping label, e.g. daily-news, worldcup, email-check",
+ "title": "Display title (English)",
+ "dateTime": "YYYY-MM-DDTHH:MM — optional; defaults to the S3 LastModified time. Any cadence works: hourly, daily, weekly, adhoc, several files in the same hour.",
+ "contentUpdatedAt": "ISO 8601 timestamp with timezone — set on creation and update only after a meaningful content change; keep unchanged for no-op republishes",
+ "words": ["optional plain-text word list used by search"],
+ "sections": [
+  {
+   "id": "s1",
+   "title": "Top-level section (level 1) — gets nav link, confidence buttons, 🔖 bookmark",
+   "level": 1,
+   "html": "<p class=\"en\">One English sentence per p.en — gets 📌 flag, 🔊 audio, and word tap-to-pronounce automatically.</p>\n<p class=\"vn\">Bản dịch tiếng Việt ngay sau đó.</p>\n<p class=\"ipa\">/optional IPA line/</p>\n<table><tr><th>Column</th><th>Value</th></tr><tr><td>Row</td><td>Data</td></tr></table>"
+  },
+  {
+   "id": "s1-1",
+   "title": "Sub-section (level 2) — indented, smaller heading, still has its own confidence + bookmark",
+   "level": 2,
+   "html": "<h4>Free sub-headings allowed inside html (h3/h4)</h4>\n<div class=\"vocab\"><div class=\"head\">word <span class=\"ipa\">/IPA/</span></div><p class=\"vn\">nghĩa</p><p class=\"en\">definition</p><p class=\"en\">example sentence</p></div>\n<ol class=\"q\"><li><p class=\"en\">Quiz/test questions use ol.q</p><p class=\"vn\">Câu hỏi</p></li></ol>\n<div class=\"key\"><span class=\"label\">Answer Key</span><p class=\"en\">Answers + explanations</p><p class=\"vn\">Đáp án</p></div>"
+  }
+ ]
+}

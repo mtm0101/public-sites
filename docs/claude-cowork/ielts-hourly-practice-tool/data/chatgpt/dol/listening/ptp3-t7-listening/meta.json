@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp3-t7-listening",
+ "title": "Practice Test Plus 3 - Listening Test 7",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 3",
+ "testNum": 7,
+ "order": 66,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-7-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Notes For Holiday",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/12ddf12d-ece4-436f-b660-b2811ea50586.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14299680
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/84d8a4b6-6a69-4c53-8549-c53378cb124d.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 52
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Camber’s Theme Park",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a13c7991-b7ff-4984-8059-c151910bf5ed.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14967680
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6c497e96-f030-40ce-bf59-4fba93685f21.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 22
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Article On Working Effectively In Groups",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/eca9d0c4-ae7b-43bd-90b6-54ecb4b5389f.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12805030
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1f31a7b1-9e19-4eab-b61b-56c223c530e9.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 55
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Engineering For Sustainable Development",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4744c11c-b438-49fa-b529-3f45152330da.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 14835750
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/659a6091-87e9-4d68-8829-028c0ace8b82.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 21
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:04:45Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

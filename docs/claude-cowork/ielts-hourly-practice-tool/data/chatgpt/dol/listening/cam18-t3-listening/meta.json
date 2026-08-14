@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam18-t3-listening",
+ "title": "CAM IELTS 18 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 18",
+ "testNum": 3,
+ "order": 11,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-18-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Wayside Camera Club membership form",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/7913b594-681c-457c-b06c-0bfce29e8e3c.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7529430
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/b3e4b880-6001-4a01-9008-1d01e6d5a671.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 55
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Picking wild mushrooms",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/330a6d0c-751c-41b1-88a6-fe3ad467bd9d.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 7478857
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/9b8e14cf-74d2-40f4-9527-5c17287d51cc.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Automation and the future of work",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/8d3ef17e-5092-4ff5-a5c5-bb707a95a181.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5684140
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/4d7cb80f-72f5-429f-9a54-50ab595fe8d1.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 26
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Space Traffic Management",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/831921cd-3d58-4158-98af-d26daf6f80fb.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7355559
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/4d163f7e-17b5-45b0-a473-fb22b6994bd2.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 11
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:35:11Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,271 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 112.846,
+   "end": 113.984,
+   "text": "Hello?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c2",
+   "start": 113.984,
+   "end": 116.206,
+   "text": "Hello? Who is this?",
+   "speaker": "Person"
+  },
+  {
+   "id": "c3",
+   "start": 116.206,
+   "end": 124.511,
+   "text": "Hello. I’m a representative of the Tallyho Survey Company, and I’d like to ask you a few questions regarding exercise.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c4",
+   "start": 124.511,
+   "end": 126.577,
+   "text": "Oh, that’s an interesting subject.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c5",
+   "start": 126.577,
+   "end": 128.428,
+   "text": "Yes, we think so, too.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c6",
+   "start": 128.428,
+   "end": 131.042,
+   "text": "But I’m afraid I’m a bit busy at the moment.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c7",
+   "start": 131.042,
+   "end": 139.916,
+   "text": "Don’t worry. This will only take about four minutes at the most. It’s 10:25 now, so it will all be over by 10:30.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c8",
+   "start": 139.916,
+   "end": 143.29,
+   "text": "Well ... alright, if it’s that short.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c9",
+   "start": 143.29,
+   "end": 154.655,
+   "text": "It will be. So, one of the first things I need to know is where you are — that is, which suburb or area of the city? The last client was in Blackburn, for example.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c10",
+   "start": 154.655,
+   "end": 157.731,
+   "text": "Blackburn. That’s close to me. I’m in Box Hill.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c11",
+   "start": 157.731,
+   "end": 173.561,
+   "text": "Another eastern suburb then. I have a friend in Box Hill, too. Interesting place. Now, I need your approximate age for this survey. Are you younger than 20, between 20 and 29, 30 and 39, and so on?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c12",
+   "start": 173.561,
+   "end": 179.016,
+   "text": "I’ll turn 40 in a few months, so that puts me in the 40 to 49 age group.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c13",
+   "start": 179.016,
+   "end": 183.122,
+   "text": "Well, that’s in a few months, so right now you’re in the 30 to 39.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c14",
+   "start": 183.122,
+   "end": 185.928,
+   "text": "Oh, right. So put that then.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c15",
+   "start": 185.928,
+   "end": 194.428,
+   "text": "Okay. Now, I need to know your occupation. The last caller was a housewife, for example; the one before that a teacher.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c16",
+   "start": 194.428,
+   "end": 197.495,
+   "text": "I used to be a teacher, too, teaching cookery.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c17",
+   "start": 197.495,
+   "end": 198.254,
+   "text": "And now?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c18",
+   "start": 198.254,
+   "end": 209.521,
+   "text": "Now you can just put ‘ domestic duties’. Actually, I hope to begin a new job soon, as a cook, but that won’t be for some time yet. I have to wait for my husband’s restaurant to open.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c19",
+   "start": 209.521,
+   "end": 223.927,
+   "text": "Cook? That sounds interesting, but it’s ‘domestic duties’ for now. Okay, that just leaves some information about your family. This is not obligatory at all, so if you don’t want to answer, that’s fine.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c20",
+   "start": 223.927,
+   "end": 226.35,
+   "text": "What sort of information, exactly?",
+   "speaker": "Person"
+  },
+  {
+   "id": "c21",
+   "start": 226.35,
+   "end": 234.279,
+   "text": "Oh, it’s very broad. Married, with children; single mother, that sort of thing. The last customer said she was a single mother.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c22",
+   "start": 234.279,
+   "end": 238.49,
+   "text": "I’m married, and not a mother. Put ‘ married, no children’.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c23",
+   "start": 238.49,
+   "end": 248.833,
+   "text": "I’m married with children, myself. But I’ll put in your details, and that finishes the profile, and just l eaves the actual survey itself, if you’re ready to proceed.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c24",
+   "start": 270.945,
+   "end": 274.983,
+   "text": "Alright, let’s begin the survey now, about your exercise habits.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c25",
+   "start": 274.983,
+   "end": 277.5,
+   "text": "I’m afraid I don’t exercise much at all.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c26",
+   "start": 277.5,
+   "end": 287.254,
+   "text": "Well, the main question is in what form you take your exercise, however little that may be — for example, in just cleaning. Do you clean the house?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c27",
+   "start": 287.254,
+   "end": 293.988,
+   "text": "My husband does the cleaning, actually, but I walk to the supermarket and shops very often, up to four times a week.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c28",
+   "start": 293.988,
+   "end": 297.049,
+   "text": "I’ll put that then, unless there’s something else.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c29",
+   "start": 297.049,
+   "end": 308.918,
+   "text": "Nothing else, really. But I diet. I’m very strict about what I eat. Oh, and I do yoga, although that’s not very energetic—more a form of relaxation, and to tighten my muscles.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c30",
+   "start": 308.918,
+   "end": 319.688,
+   "text": "They’re both important, of course, but what about sport? Do you undertake any sporting activities? This could be very infrequent. In the past, for example.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c31",
+   "start": 319.688,
+   "end": 328.463,
+   "text": "My husband plays basketball at the local school, and I sometimes watch. When he was younger he was in a basketball team, but I never participated.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c32",
+   "start": 328.463,
+   "end": 330.666,
+   "text": "Have you done anything at all?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c33",
+   "start": 330.666,
+   "end": 333.415,
+   "text": "I used to hike in a nearby national park.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c34",
+   "start": 333.415,
+   "end": 349.227,
+   "text": "Well that’s a definite physical activity, so I’ll put that—but not basketball. Alright, that just leaves future exercise intentions. Do you plan, or expect to do, at some stage, any form of exercise?",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c35",
+   "start": 349.227,
+   "end": 365.852,
+   "text": "I once dreamt of doing modern dance, but that’s never going to happen. Realistically, I’m thinking about going swimming, at the local aquatic centre, although my husband thinks we should just jog. I can’t see myself doing that, though—too tiring.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c36",
+   "start": 365.852,
+   "end": 373.269,
+   "text": "I can understand. I used to jog, too, and it really makes you sweat. I’d say swimming’s a much better option.",
+   "speaker": "Rep."
+  },
+  {
+   "id": "c37",
+   "start": 373.269,
+   "end": 385.87,
+   "text": "But I’ll be starting this job as a cook in my husband’s restaurant. I imagine I’ll be very tired doing all those late shifts. But if I have any energy left over, I might go to the aquatic centre to release some stress.",
+   "speaker": "Person"
+  },
+  {
+   "id": "c38",
+   "start": 385.87,
+   "end": 388.87,
+   "text": "Alright. Well, that’s the end of the survey. Thank you very much for your time.",
+   "speaker": "Rep."
+  }
+ ]
+}

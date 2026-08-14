@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp1-t1-listening",
+ "title": "Practice Test Plus 1 - Listening Test 1",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 1,
+ "order": 49,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-1-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Paragliding School Inquiry",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b54a5ffe-cc87-4d73-94e4-8d3d0049957c.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 18253366
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/bb273799-c952-4b8a-aeac-153f266e3b5a.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 46
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Goodwood Car Show",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/044eaeda-9aef-4071-b997-ddf81b94cd37.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13059179
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/361f8d82-4ab0-46b6-817d-c54be612cf7d.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Survey On Local Entertainment",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/68d972f5-3fa0-4d46-9c2b-2100b1f74bf8.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 17213693
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/7b2579d6-e4e5-421e-9e06-bea388fdb728.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 27
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Adverse Effects Of Desert Dust On Global Climate",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/00e8c2da-5a72-4f2e-93da-846cc0de5eae.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 15877269
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/88676a43-45e8-480d-a7bc-0b6a770415fc.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 10
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:56:55Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 42,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual2-t11-listening",
+ "title": "Actual Test 2 - Listening Test 11",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 11,
+ "order": 74,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-2-test-11-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Home Insurance Quotation Form",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e328e389-da85-40c0-a37f-26dc5b31941b.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 16506297
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2730e0a9-96dd-4824-9895-001d803fae0f.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 46
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Pool For The People",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/78843de5-40d6-40ed-b424-8d10138c5905.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 15559620
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ddadf2ab-37c3-4b2b-8823-c7ca2d14e8bc.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 30
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Suggestions For Your Future Presentation",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/829c5691-dad8-4532-b998-8995b7ee8fb0.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 15446771
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/36ff16a5-a3dd-4aad-a511-58d669f9989f.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 44
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "An Overview Of The Research On Amber",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/37230ede-88f2-453e-9ffa-c5efaf536d05.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 18738199
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1dfcd519-ce06-49e8-82a7-c8fce96d092d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 41
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:43:27Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

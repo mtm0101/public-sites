@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t6-listening",
+ "title": "Actual Test 4 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 6,
+ "order": 90,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-6-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Westley Public Librarymembership Application Form",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1e885bff-3fbf-49a0-8eff-7e78798fa358.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14050787
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ef9f4435-15f1-4c08-b82a-486ea39e3a81.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Component Parts",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/46a279db-fd86-4994-a0cf-dc33c3fa002d.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14517856
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5511b98f-cbf8-462e-a986-5b306ff3c0be.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 37
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Computer Labs",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/82368981-412a-44e8-875f-02b4ee9bc999.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12282819
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c9cda8d1-794c-4ef5-8dde-804a35043bc6.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 42
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Shinkansen Or Bullet Train",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f4576484-0dfb-4b98-b7de-0c44335e60f9.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 17352665
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0e2979dc-f9d3-496e-9f4c-d9dea47fe3b4.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 28
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:52:11Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam11-t4-listening",
+ "title": "CAM IELTS 11 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 11",
+ "testNum": 4,
+ "order": 40,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-11-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Festival Activities",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/68f50cc1-2dd7-4c7f-9a85-7fda3e58b4fc.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7852641
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM11_L4_S1_1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 35
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Newly Reopened Museum",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b8c79cbf-b36d-4c2f-819d-5f9294d769a4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5805894
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/790ed4b7-fab4-467b-bcbc-4d4855ba2752.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 13
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On Female Musical Performers",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1dfcdad3-2f06-4b08-bc26-0f4459f014b7.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6992899
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/387187f8-1603-4dc4-aa8f-97ecce1af40b.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 28
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Use Of Soil To Reduce Carbon Dioxide In The Atmosphere",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d1347374-d520-4b55-aec6-bdfaefefb2f0.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 8030273
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/012b7da4-c9c0-442f-b66f-569bad575563.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 11
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:45:22Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

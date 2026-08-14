@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual1-t5-listening",
+ "title": "Actual Test 1 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 5,
+ "order": 71,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-1-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Apartment Rental In Calgary’s Market",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1a9a70bf-8317-4e94-a99e-2752e9107a46.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5671960
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/263adeb4-4e97-4312-99b2-98587b8653c1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 48
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Waste Sorting, Collection, And Disposal",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b8db03d2-0840-468d-a1f6-b1b31c61d31a.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4196146
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/63b3ba08-ea97-4aac-8303-7dd9499324ea.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 16
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "A New Essay In Psychology",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1ec6f5b0-0106-465f-ac3d-d7f459b1101b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3947565
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3b2da993-2c13-4ed0-bac9-9bdeb7939ae1.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "A Lecture In Environmental Science",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/880f4e7f-9622-4355-a2bc-839a7d42033a.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5510209
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9da956ff-5051-4773-87f3-5fe239e4ceb6.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 24
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:42:04Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

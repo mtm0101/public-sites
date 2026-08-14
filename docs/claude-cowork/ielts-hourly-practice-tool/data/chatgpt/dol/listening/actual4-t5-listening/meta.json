@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t5-listening",
+ "title": "Actual Test 4 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 5,
+ "order": 89,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Oakham Surgery New Patient Form",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/91984265-293f-46e7-8843-668836496e60.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 13397725
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/568c2235-56ff-408c-be49-12465b2d4dd5.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 48
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Notes On Library",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a7eeb96c-8a42-4463-b108-81edf2e745d4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 12560763
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4af92382-8695-41eb-8049-0d6525d990f9.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 30
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Essays Discussion",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/68b10d22-edee-4d8f-a56c-e8a516ad33f8.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 12895129
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dcdb5f10-1049-4862-9516-52033eb57442.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 41
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Tsunami",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e5bedfbc-1e79-4fe7-947b-2550e2c97c34.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 19323342
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3feaf445-5ebb-4d53-9155-fd19086d7537.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 33
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:51:35Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

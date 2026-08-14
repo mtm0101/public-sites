@@ -1,0 +1,306 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 137.133,
+   "end": 141.106,
+   "text": "Hello, you have reached the complaints department. How can I help you?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c2",
+   "start": 141.106,
+   "end": 147.152,
+   "text": "Yes, hello there. I am phoning to make a complaint regarding a ﬂight that I took with you recently.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c3",
+   "start": 147.152,
+   "end": 153.176,
+   "text": "OK. There are some details I will need to take from you ﬁrst. May I have your name please?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c4",
+   "start": 153.176,
+   "end": 158.224,
+   "text": "Jack Dawson. That’s D-A-W-S-O-N.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c5",
+   "start": 158.224,
+   "end": 159.649,
+   "text": "And your address?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c6",
+   "start": 159.649,
+   "end": 169.052,
+   "text": "It’s Hillcrest Road. That’s H-I-double-L-C-R-E-S-T.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c7",
+   "start": 169.052,
+   "end": 173.0,
+   "text": "33  Hillcrest Road. Is that in Exeter?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c8",
+   "start": 173.092,
+   "end": 173.565,
+   "text": "Yes.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c9",
+   "start": 173.565,
+   "end": 176.919,
+   "text": "And what is the postcode of the residence?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c10",
+   "start": 176.919,
+   "end": 181.778,
+   "text": "It’s AL698GQ.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c11",
+   "start": 181.778,
+   "end": 184.634,
+   "text": "Thank you. Do you have a telephone number?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c12",
+   "start": 184.634,
+   "end": 190.336,
+   "text": "Yes. The number at my office is 754688.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c13",
+   "start": 190.336,
+   "end": 196.308,
+   "text": "That’s good, and may I just take a home phone number for you in case of emergencies?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c14",
+   "start": 196.308,
+   "end": 200.971,
+   "text": "No problem. It’s 798662.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c15",
+   "start": 200.971,
+   "end": 202.963,
+   "text": "Are they both local numbers?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c16",
+   "start": 202.963,
+   "end": 203.881,
+   "text": "Yes.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c17",
+   "start": 239.855,
+   "end": 245.528,
+   "text": "OK great, thank you for your patience. Now what is the nature of your complaint?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c18",
+   "start": 245.528,
+   "end": 249.393,
+   "text": "I’m phoning to complain about a ﬂight I took recently.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c19",
+   "start": 249.393,
+   "end": 254.033,
+   "text": "I always take certain measures to ensure that I will be comfortable.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c20",
+   "start": 254.033,
+   "end": 265.105,
+   "text": "For example, I always pay the additional cost for extra legroom and I always arrive punctually for the ﬂight to make  sure  that  I  am  seated  beneath  an   air   conditioner.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c21",
+   "start": 265.105,
+   "end": 277.663,
+   "text": "Unfortunately   I was disappointed to ﬁnd that the air conditioning on the plane was broken, so I spent the entire flight in discomfort as it was too hot and the air was stuffy.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c22",
+   "start": 277.663,
+   "end": 282.209,
+   "text": "I see. I do apologise for this fault with the air conditioning.",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c23",
+   "start": 282.209,
+   "end": 289.141,
+   "text": "Now while I have you on the phone, would you mind answering a short questionnaire regarding your recent flight?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c24",
+   "start": 289.141,
+   "end": 290.093,
+   "text": "Sure.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c25",
+   "start": 290.093,
+   "end": 296.622,
+   "text": "OK, let’s get started. What did you think of the food that was served to you during the flight?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c26",
+   "start": 296.622,
+   "end": 300.078,
+   "text": "I thought that it was inexpensive and quite delicious.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c27",
+   "start": 300.078,
+   "end": 307.623,
+   "text": "However I was still very hungry afterwards as it was a very small portion and more of a snack.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c28",
+   "start": 307.623,
+   "end": 310.803,
+   "text": "Providing a snack for lunch is not reasonable.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c29",
+   "start": 310.803,
+   "end": 313.073,
+   "text": "OK, I have noted that down.",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c30",
+   "start": 313.073,
+   "end": 318.646,
+   "text": "What was your opinion of the quality of service that you received from our staff on-board?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c31",
+   "start": 318.646,
+   "end": 327.64,
+   "text": "The staﬀ were very helpful, but each time I pressed the button to  request service it took a long time for a staﬀ member to arrive.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c32",
+   "start": 327.64,
+   "end": 334.917,
+   "text": "I found this frustrating as there just weren’t enough staﬀ on-board the ﬂight to be able to serve all of the customers.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c33",
+   "start": 334.917,
+   "end": 339.517,
+   "text": "OK, that’s great. Thank you very much for answering those questions.",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c34",
+   "start": 339.517,
+   "end": 344.241,
+   "text": "Are there any other parts of your travel experience that you would like to comment on?",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c35",
+   "start": 344.241,
+   "end": 351.504,
+   "text": "Yep. The process of moving through security was very quick and helped to make my travel experience stress-free.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c36",
+   "start": 351.504,
+   "end": 356.69,
+   "text": "Okay. Do you have any extra comments on the services you received during the flight?",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c37",
+   "start": 356.69,
+   "end": 360.863,
+   "text": "Yes, I thought that the seats were very uncomfortable and looked very old.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c38",
+   "start": 360.863,
+   "end": 370.039,
+   "text": "They were also in need of repair as the reclined feature on my chair was broken so I could not go to sleep for the whole ﬂight.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c39",
+   "start": 370.039,
+   "end": 376.89,
+   "text": "Luckily the entertainment facilities were very good so I was able to distract myself by watching movies.",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c40",
+   "start": 376.89,
+   "end": 388.896,
+   "text": "Thank you so much for taking the time to answer all of my questions, we would like to oﬀer you some gifts as a goodwill gesture, with a 20% discount on the cost of your hotel stay.",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c41",
+   "start": 388.896,
+   "end": 403.291,
+   "text": "We also appreciate that international calls to your home country can be expensive and we are sure that you would like  to keep your family updated on your travels, so please accept a phone card, which has a credit of £20.",
+   "speaker": "OPERATOR"
+  },
+  {
+   "id": "c42",
+   "start": 403.291,
+   "end": 407.494,
+   "text": "Oh that’s really great. Thank you so much for the gifts!",
+   "speaker": "JACK"
+  },
+  {
+   "id": "c43",
+   "start": 407.494,
+   "end": 414.706,
+   "text": "No problem, we look forward to having you travel with us again soon! Have a fantastic vacation.",
+   "speaker": "OPERATOR"
+  }
+ ]
+}

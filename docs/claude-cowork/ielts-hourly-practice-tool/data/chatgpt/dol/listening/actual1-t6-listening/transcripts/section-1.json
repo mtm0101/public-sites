@@ -1,0 +1,285 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 118.498,
+   "end": 121.094,
+   "text": "Good morning. City House Services. How may I help you?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c2",
+   "start": 121.094,
+   "end": 124.314,
+   "text": "Good morning. I’d like to arrange to have my house cleaned.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c3",
+   "start": 124.314,
+   "end": 130.142,
+   "text": "Certainly. I just need to ask a few questions. First, could I take your name?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c4",
+   "start": 130.142,
+   "end": 131.937,
+   "text": "Yes, it’s Barbara Hill.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c5",
+   "start": 131.937,
+   "end": 134.947,
+   "text": "Thank you. Next, is your house in London?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c6",
+   "start": 134.947,
+   "end": 138.126,
+   "text": "Yes, it’s in Kingston in Southwest London.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c7",
+   "start": 138.126,
+   "end": 142.548,
+   "text": "OK, Southwest London and... er, what’s the postcode?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c8",
+   "start": 142.548,
+   "end": 144.798,
+   "text": "It's SW105.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c9",
+   "start": 144.798,
+   "end": 148.91,
+   "text": "And what is the square footage and what rooms will we be cleaning?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c10",
+   "start": 148.91,
+   "end": 157.585,
+   "text": "The whole house is 268 square feet, and there is no need to clean all the rooms. I only want to have my bedrooms cleaned.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c11",
+   "start": 157.585,
+   "end": 161.793,
+   "text": "OK, how many bedrooms does the house have?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c12",
+   "start": 161.793,
+   "end": 168.688,
+   "text": "Three bedrooms. Oh no, sorry, we used to have three bedrooms, but we only have two bedrooms now.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c13",
+   "start": 168.688,
+   "end": 171.315,
+   "text": "Are those single bedrooms or doubles?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c14",
+   "start": 171.315,
+   "end": 172.248,
+   "text": "Doubles.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c15",
+   "start": 172.248,
+   "end": 174.34,
+   "text": "Fine, two doubles...",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c16",
+   "start": 174.34,
+   "end": 182.472,
+   "text": "There is one more room which needs cleaning. It was used as a bedroom before, and now we have converted it into an office.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c17",
+   "start": 182.472,
+   "end": 188.783,
+   "text": "I understand. Three rooms have got to be cleaned, and are all of those rooms upstairs?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c18",
+   "start": 188.783,
+   "end": 210.57,
+   "text": "Yes. Then, downstairs we have a kitchen-diner, conservatory, and lounge. The kitchen-diner is quite large and has the usual equipment - cooker with oven, refrigerator, cupboards, and worktops. The conservatory has a lot of plants, but there’s no need to take care of them. The lounge has a leather three- piece suite and a large coffee table.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c19",
+   "start": 210.57,
+   "end": 213.469,
+   "text": "Thank you. And do you keep any pets?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c20",
+   "start": 213.469,
+   "end": 217.976,
+   "text": "Yeah, I really love keeping them. I’ve got two dogs and three cats.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c21",
+   "start": 217.976,
+   "end": 225.504,
+   "text": "OK, then if our staff come over to offer the service, please take your pets away. Have you looked at our services packages?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c22",
+   "start": 225.504,
+   "end": 227.394,
+   "text": "Yes, I have one in front of me.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c23",
+   "start": 227.394,
+   "end": 230.394,
+   "text": "Excellent.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c24",
+   "start": 274.565,
+   "end": 281.79,
+   "text": "Any extra services you need - switching bed linen, working in the garden, cleaning the glass in the conservatory, that kind of thing?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c25",
+   "start": 281.79,
+   "end": 289.225,
+   "text": "Err... no... err....... actually, replacing the bed linen, yes that would be good",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c26",
+   "start": 289.225,
+   "end": 297.887,
+   "text": "No problem. I’ll just make a note of that. How about curtains, mats, and carpets? What would you like us to do with those items?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c27",
+   "start": 297.887,
+   "end": 308.586,
+   "text": "The curtains... I'll have to think about that. I think we should have the carpets cleaned really well every quarter. Mats can just be done with the laundry.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c28",
+   "start": 308.586,
+   "end": 316.509,
+   "text": "Of course. How about clothes? We can have our staff wash and iron them, or we can have them taken to a dry cleaner’s.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c29",
+   "start": 316.509,
+   "end": 320.631,
+   "text": "Washing and ironing. No, just ironing. That’ll be OK..",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c30",
+   "start": 320.631,
+   "end": 330.591,
+   "text": "OK, fine. I know quite a bit about what you want now. I should let you know that we locate on 12 Amyes Road, that’s A-M-Y-E-S.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c31",
+   "start": 330.591,
+   "end": 331.718,
+   "text": "Em.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c32",
+   "start": 331.718,
+   "end": 338.743,
+   "text": "And we work from Monday to Sunday except Tuesday and Wednesday. Could you let me know when is convenient for you?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c33",
+   "start": 338.743,
+   "end": 355.347,
+   "text": "Next Friday... err... no, that’s no good. My son invites his friends over in the afternoon that day. Perhaps next Thursday or next Saturday. Let me check, OK, next Thursday.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c34",
+   "start": 355.347,
+   "end": 364.828,
+   "text": "When is it convenient for us to come over and provide the service? Is it OK if we come in the morning? Or we may come in the afternoon? It depends on your schedule.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c35",
+   "start": 364.828,
+   "end": 370.178,
+   "text": "I'm OK with any time. Just give me a call to let me know you’re coming before you arrive.",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c36",
+   "start": 370.178,
+   "end": 371.635,
+   "text": "Sure, we will.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c37",
+   "start": 371.635,
+   "end": 374.946,
+   "text": "By the way, how long would it take for the service?",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c38",
+   "start": 374.946,
+   "end": 386.156,
+   "text": "We usually work 1-3 hours for house cleaning, and the work will take three hours at most. And of course, if it takes more than three hours, you should pay extra for it.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c39",
+   "start": 386.156,
+   "end": 388.033,
+   "text": "Er... fine",
+   "speaker": "CUSTOMER"
+  },
+  {
+   "id": "c40",
+   "start": 388.033,
+   "end": 390.757,
+   "text": "So, let me just do some calculations…",
+   "speaker": "AGENT"
+  }
+ ]
+}

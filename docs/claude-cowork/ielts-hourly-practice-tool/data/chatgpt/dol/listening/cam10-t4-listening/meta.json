@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam10-t4-listening",
+ "title": "CAM IELTS 10 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 10",
+ "testNum": 4,
+ "order": 44,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-10-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Thorndyke's Builders",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cc1f8aa4-3618-4888-9b04-f3d185c238e6.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 10340728
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f74bf26b-5f05-447f-af7d-6365ebae12b1.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 52
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Manham Port",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/213a9393-14ac-4687-b77e-af670aa14b52.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 9390915
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM10_L4_S2.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 13
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Placement In The Workplace",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c1f28d77-932e-457a-8fcb-c6cdebada76d.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 10392764
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3d0798e7-184b-4546-80bc-6955f94fb434.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 33
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Nanotechnology",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5684543f-d6c3-4154-9232-3b2b46e6b36e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 10767673
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6f893ff6-3372-4f1f-ab4f-43632089eae2.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:46:50Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

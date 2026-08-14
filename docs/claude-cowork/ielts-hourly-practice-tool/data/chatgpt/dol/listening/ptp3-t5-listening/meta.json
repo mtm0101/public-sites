@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp3-t5-listening",
+ "title": "Practice Test Plus 3 - Listening Test 5",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 3",
+ "testNum": 5,
+ "order": 64,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Advice On Plumbers And Decorators",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b8faa431-e81d-4404-8ff9-32b02149a6d5.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14647875
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ea9654ec-8ba4-4697-8ec9-7dfb0bb5d4c7.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Museum Work Placement",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a743c77f-fb91-4c12-9a6c-fb412aa43e98.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13544840
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3c90a137-b437-433d-b171-1b4ed0fa6d90.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Tutor About An IT Project",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9daa025d-2215-47ae-bf18-cd375d6ce996.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 14832410
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/39cedb57-caca-47a1-959c-af4d912fb680.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 41
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Tawny Owl",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/22e94080-9a22-44d2-bab1-d1caede6f6fe.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 11652730
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4360c066-656e-4b82-89be-ee7466eee887.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 9
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:03:59Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

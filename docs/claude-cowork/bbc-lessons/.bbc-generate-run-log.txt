@@ -1,0 +1,437 @@
+[2026-07-11 15:01:22] === BBC lesson generate starting ===
+[2026-07-11 15:01:22] Mode: JSON-only (chatgpt/bbc)
+[2026-07-11 15:01:23] This run processes exactly ONE episode. Close the window anytime; safe to stop.
+[2026-07-11 15:01:23] No git commit/push here. Use update-index-and-push.ps1 when ready.
+[2026-07-11 15:01:23] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:01:23] Output folder: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\bbc
+[2026-07-11 15:01:23] 
+[2026-07-11 15:01:23] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:01:23] PublishOnly: manifest rebuild for existing JSON (no HTML).
+[2026-07-11 15:01:23] 
+[2026-07-11 15:01:23] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:01:25] 
+[2026-07-11 15:01:25] >>> EPISODE COMPLETE : 2022-05-12 (ep-220512) - Can Vr Treat Fears And Phobias [bbc-gpt-220512-can-vr-treat-fears-and-phobias.json]
+[2026-07-11 15:01:25] 
+[2026-07-11 15:01:25] === BBC manifest publish complete ===
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] === BBC lesson generate starting ===
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] Mode: JSON-only (chatgpt/bbc)
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] This run processes exactly ONE episode. Close the window anytime; safe to stop.
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] No git commit/push here. Use update-index-and-push.ps1 when ready.
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] Output folder: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\bbc
+[2026-07-11 15:02:05] [2022-05-19 ep-220519]
+[2026-07-11 15:02:05] [2022-05-19 ep-220519] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:02:06] [2022-05-12 ep-220512] PublishOnly: manifest rebuild for existing JSON (no HTML).
+[2026-07-11 15:02:06] [2022-05-12 ep-220512]
+[2026-07-11 15:02:06] [2022-05-12 ep-220512] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:02:07] [2022-05-12 ep-220512]
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] === BBC lesson generate starting ===
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Mode: JSON-only (chatgpt/bbc)
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] This run processes exactly ONE episode. Close the window anytime; safe to stop.
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] No git commit/push here. Use update-index-and-push.ps1 when ready.
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Output folder: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\bbc
+[2026-07-11 15:03:54] [2022-05-19 ep-220519]
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:03:54] [2022-05-19 ep-220519]
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] >>> EPISODE START : 2022-05-19 (ep-220519)
+[2026-07-11 15:03:54] [2022-05-19 ep-220519]
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:03:54] [2022-05-19 ep-220519]
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Running: codex exec --json --ignore-user-config (streaming live to console + log)
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\bbc-lessons\.bbc-generate-run-log.txt
+[2026-07-11 15:03:54] [2022-05-19 ep-220519] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:03:55] [2022-05-19 ep-220519] codex [thread.started]
+[2026-07-11 15:03:56] [2022-05-19 ep-220519] codex [turn.started]
+[2026-07-11 15:04:01] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:02] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:02] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:03] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:03] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:06] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:06] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:08] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:09] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:12] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:13] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:15] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:16] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:19] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:20] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:23] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:24] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:25] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:26] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:28] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:29] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:30] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:31] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:32] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:33] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:37] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:39] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:43] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:47] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:52] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:54] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:04:55] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:04:57] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:01] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:06] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:10] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:11] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:16] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:17] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:20] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:22] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:25] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] 2026-07-11T19:05:26.063615Z ERROR codex_core::tools::router: error=Exit code: 1
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] Wall time: 0.6 seconds
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] Output:
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] Traceback (most recent call last):
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] File "<stdin>", line 3, in <module>
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] ModuleNotFoundError: No module named 'fitz'
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] System.Management.Automation.RemoteException
+[2026-07-11 15:05:26] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:28] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:05:31] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:05:38] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:07:44] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:07:44] [2022-05-19 ep-220519]
+[2026-07-11 15:07:44] [2022-05-19 ep-220519] >>> EPISODE GENERATED (live) : 2022-05-19 (ep-220519) - Finding your way in space [bbc-gpt-220519-finding-your-way-in-space.json]
+[2026-07-11 15:07:44] [2022-05-19 ep-220519]
+[2026-07-11 15:07:44] [2022-05-19 ep-220519] Updated chatgpt/bbc state after JSON: 2022-05-19 -> bbc-gpt-220519-finding-your-way-in-space.json
+[2026-07-11 15:07:44] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:07:46] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:07:49] [2022-05-19 ep-220519] codex [item.started]
+[2026-07-11 15:07:49] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:07:53] [2022-05-19 ep-220519] codex [item.completed]
+[2026-07-11 15:07:54] [2022-05-19 ep-220519] codex [turn.completed]
+[2026-07-11 15:07:54] [2022-05-19 ep-220519] Codex run finished (exit 0)
+[2026-07-11 15:07:54] [2022-05-19 ep-220519] GPT BBC JSON on disk: 28
+[2026-07-11 15:07:54] [2022-05-19 ep-220519]
+[2026-07-11 15:07:54] [2022-05-19 ep-220519] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:07:55] [2022-05-19 ep-220519]
+[2026-07-11 15:07:55] [2022-05-19 ep-220519] >>> EPISODE COMPLETE : 2022-05-19 (ep-220519) - Finding your way in space
+[2026-07-11 15:07:55] [2022-05-19 ep-220519]
+[2026-07-11 15:07:55] [2022-05-19 ep-220519] === BBC lesson generate complete ===
+[2026-07-11 15:07:55] [2022-05-19 ep-220519] GitHub: run update-index-and-push.ps1 when you want to commit and push
+[2026-07-11 15:12:28] === BBC lesson generate starting ===
+[2026-07-11 15:12:28] Mode: JSON-only (chatgpt/bbc) | Run: batch until queue empty
+[2026-07-11 15:12:28] Close the window anytime to stop safely. No git commit/push here.
+[2026-07-11 15:12:28] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:12:28] Output folder: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\bbc
+[2026-07-11 15:12:28]
+[2026-07-11 15:12:29] [2022-05-19 ep-220519] PublishOnly: manifest rebuild for existing JSON (no HTML).
+[2026-07-11 15:12:29] [2022-05-19 ep-220519]
+[2026-07-11 15:12:29] [2022-05-19 ep-220519] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:12:49] [2022-05-19 ep-220519]
+[2026-07-11 15:12:49] [2022-05-19 ep-220519] >>> EPISODE COMPLETE : 2022-05-19 (ep-220519) - Finding your way in space [bbc-gpt-220519-finding-your-way-in-space.json]
+[2026-07-11 15:12:49] [2022-05-19 ep-220519]
+[2026-07-11 15:12:50] [2022-05-19 ep-220519] === BBC manifest publish complete ===
+[2026-07-11 15:13:18] === BBC lesson generate starting ===
+[2026-07-11 15:13:18] Mode: JSON-only (chatgpt/bbc) | Run: batch until queue empty
+[2026-07-11 15:13:18] Close the window anytime to stop safely. No git commit/push here.
+[2026-07-11 15:13:18] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:13:45] === BBC lesson generate starting ===
+[2026-07-11 15:13:45] Mode: JSON-only (chatgpt/bbc) | Run: batch until queue empty
+[2026-07-11 15:13:45] Close the window anytime to stop safely. No git commit/push here.
+[2026-07-11 15:13:45] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:13:45] Output folder: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\ielts-hourly-practice-tool\data\chatgpt\bbc
+[2026-07-11 15:13:45]
+[2026-07-11 15:13:46] Pending episodes in queue: 477
+[2026-07-11 15:13:46]
+[2026-07-11 15:13:46] Running: codex exec --json --ignore-user-config (streaming live to console + log)
+[2026-07-11 15:13:46] Log file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\bbc-lessons\.bbc-generate-run-log.txt
+[2026-07-11 15:13:46]
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] --- Batch 1 | ~477 episode(s) left in queue ---
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:13:46] [2022-05-26 ep-220526]
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] >>> EPISODE START : 2022-05-26 (ep-220526)
+[2026-07-11 15:13:46] [2022-05-26 ep-220526]
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:13:46] [2022-05-26 ep-220526]
+[2026-07-11 15:13:46] [2022-05-26 ep-220526] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:13:48] [2022-05-26 ep-220526] codex [thread.started]
+[2026-07-11 15:13:48] [2022-05-26 ep-220526] codex [turn.started]
+[2026-07-11 15:13:54] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:13:55] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:13:55] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:13:55] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:13:55] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:13:58] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:13:58] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:02] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:04] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:06] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:07] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:09] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:10] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:15] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:16] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:19] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:25] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:25] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:26] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:26] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:27] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:29] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:32] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:33] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:36] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:37] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:42] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:46] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:46] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:48] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:48] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:53] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:53] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:53] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:14:55] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:14:55] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:00] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:02] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:06] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:08] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:13] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:15] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:17] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:20] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:22] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:23] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:24] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:15:27] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:15:32] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:18:19] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:18:19] [2022-05-26 ep-220526]
+[2026-07-11 15:18:19] [2022-05-26 ep-220526] >>> EPISODE GENERATED (live) : 2022-05-26 (ep-220526) - People who can taste words [bbc-gpt-220526-people-who-can-taste-words.json]
+[2026-07-11 15:18:19] [2022-05-26 ep-220526]
+[2026-07-11 15:18:19] [2022-05-26 ep-220526] Updated chatgpt/bbc state after JSON: 2022-05-26 -> bbc-gpt-220526-people-who-can-taste-words.json
+[2026-07-11 15:18:19] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:18:22] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:18:23] [2022-05-26 ep-220526] codex [item.started]
+[2026-07-11 15:18:24] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:18:31] [2022-05-26 ep-220526] codex [item.completed]
+[2026-07-11 15:18:31] [2022-05-26 ep-220526] codex [turn.completed]
+[2026-07-11 15:18:31] [2022-05-26 ep-220526] Codex run finished (exit 0)
+[2026-07-11 15:18:31] [2022-05-26 ep-220526] GPT BBC JSON on disk: 29
+[2026-07-11 15:18:31] [2022-05-26 ep-220526]
+[2026-07-11 15:18:31] [2022-05-26 ep-220526] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:18:32] [2022-05-26 ep-220526]
+[2026-07-11 15:18:32] [2022-05-26 ep-220526] >>> EPISODE COMPLETE : 2022-05-26 (ep-220526) - People who can taste words
+[2026-07-11 15:18:32] [2022-05-26 ep-220526]
+[2026-07-11 15:18:32] [2022-05-26 ep-220526]
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] --- Batch 2 | ~476 episode(s) left in queue ---
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:18:33] [2022-06-02 ep-220602]
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] >>> EPISODE START : 2022-06-02 (ep-220602)
+[2026-07-11 15:18:33] [2022-06-02 ep-220602]
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:18:33] [2022-06-02 ep-220602]
+[2026-07-11 15:18:33] [2022-06-02 ep-220602] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:18:34] [2022-06-02 ep-220602] codex [thread.started]
+[2026-07-11 15:18:34] [2022-06-02 ep-220602] codex [turn.started]
+[2026-07-11 15:18:43] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:18:43] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:18:43] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:18:44] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:18:44] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] 2026-07-11T19:18:51.747174Z ERROR codex_core::tools::router: error=Exit code: 1
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] Wall time: 0.6 seconds
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] Output:
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] Invoke-WebRequest : A positional parameter cannot be found that accepts argument '+'.
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] At line:2 char:88
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] + ... p-220602'; (Invoke-WebRequest -UseBasicParsing 'https://www.bing.com/ ...
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] +                 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] + CategoryInfo          : InvalidArgument: (:) [Invoke-WebRequest], ParameterBindingException
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] + FullyQualifiedErrorId : PositionalParameterNotFound,Microsoft.PowerShell.Commands.InvokeWebRequestCommand
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] System.Management.Automation.RemoteException
+[2026-07-11 15:18:51] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:18:53] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:00] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:00] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:19:00] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:19:01] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:01] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:08] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:08] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:19:08] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:19:08] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:10] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:13] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:19:15] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:19:24] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:21:43] [2022-06-02 ep-220602] 2026-07-11T19:21:43.660031Z ERROR codex_core::exec: exec error: The filename or extension is too long. (os error 206)
+[2026-07-11 15:21:43] [2022-06-02 ep-220602] 2026-07-11T19:21:43.668660Z ERROR codex_core::tools::router: error=execution error: Io(Os { code: 206, kind: InvalidFilename, message: "The filename or extension is too long." })
+[2026-07-11 15:21:43] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:21:43] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:21:53] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:38] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:23:39] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602] >>> EPISODE GENERATED (live) : 2022-06-02 (ep-220602) - Queen Elizabeth II: What is the Platinum Jubilee? [bbc-gpt-220602-queen-elizabeth-ii-platinum-jubilee.json]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602]
+[2026-07-11 15:23:43] [2022-06-02 ep-220602] Updated chatgpt/bbc state after JSON: 2022-06-02 -> bbc-gpt-220602-queen-elizabeth-ii-platinum-jubilee.json
+[2026-07-11 15:23:48] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:51] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:23:51] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:54] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:23:55] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:23:55] [2022-06-02 ep-220602]
+[2026-07-11 15:23:55] [2022-06-02 ep-220602] >>> EPISODE GENERATED (live) : 2022-06-02 (ep-220602) - Queen Elizabeth II: What is the Platinum Jubilee? [bbc-gpt-220602-platinum-jubilee.json]
+[2026-07-11 15:23:55] [2022-06-02 ep-220602]
+[2026-07-11 15:23:55] [2022-06-02 ep-220602] Updated chatgpt/bbc state after JSON: 2022-06-02 -> bbc-gpt-220602-platinum-jubilee.json
+[2026-07-11 15:23:59] [2022-06-02 ep-220602] codex [item.started]
+[2026-07-11 15:24:00] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:24:03] [2022-06-02 ep-220602] codex [item.completed]
+[2026-07-11 15:24:04] [2022-06-02 ep-220602] codex [turn.completed]
+[2026-07-11 15:24:04] [2022-06-02 ep-220602] Codex run finished (exit 0)
+[2026-07-11 15:24:04] [2022-06-02 ep-220602] GPT BBC JSON on disk: 31
+[2026-07-11 15:24:04] [2022-06-02 ep-220602]
+[2026-07-11 15:24:04] [2022-06-02 ep-220602] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:24:05] [2022-06-02 ep-220602]
+[2026-07-11 15:24:05] [2022-06-02 ep-220602] >>> EPISODE COMPLETE : 2022-06-02 (ep-220602) - Queen Elizabeth II: What is the Platinum Jubilee?
+[2026-07-11 15:24:05] [2022-06-02 ep-220602]
+[2026-07-11 15:24:05] [2022-06-02 ep-220602]
+[2026-07-11 15:24:05] [2022-06-09 ep-220609] --- Batch 3 | ~475 episode(s) left in queue ---
+[2026-07-11 15:24:05] [2022-06-09 ep-220609] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:24:05] [2022-06-09 ep-220609]
+[2026-07-11 15:24:05] [2022-06-09 ep-220609] >>> EPISODE START : 2022-06-09 (ep-220609)
+[2026-07-11 15:24:06] [2022-06-09 ep-220609]
+[2026-07-11 15:24:06] [2022-06-09 ep-220609] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:24:06] [2022-06-09 ep-220609] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:24:06] [2022-06-09 ep-220609]
+[2026-07-11 15:24:06] [2022-06-09 ep-220609] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:24:06] [2022-06-09 ep-220609] codex [thread.started]
+[2026-07-11 15:24:06] [2022-06-09 ep-220609] codex [turn.started]
+[2026-07-11 15:24:12] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:12] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:12] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:13] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:13] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:15] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:15] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:17] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:18] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:21] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:22] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:24] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:25] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:24:26] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:24:30] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:27:19] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:27:19] [2022-06-09 ep-220609]
+[2026-07-11 15:27:19] [2022-06-09 ep-220609] >>> EPISODE GENERATED (live) : 2022-06-09 (ep-220609) - The technology of translation [bbc-gpt-220609-technology-of-translation.json]
+[2026-07-11 15:27:19] [2022-06-09 ep-220609]
+[2026-07-11 15:27:19] [2022-06-09 ep-220609] Updated chatgpt/bbc state after JSON: 2022-06-09 -> bbc-gpt-220609-technology-of-translation.json
+[2026-07-11 15:27:19] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:27:23] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:26] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:28:26] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:31] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:31] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:28:31] [2022-06-09 ep-220609] codex [item.started]
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] 2026-07-11T19:28:32.234023Z ERROR codex_core::tools::router: error=Exit code: 1
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] Wall time: 0.7 seconds
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] Output:
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] System.Management.Automation.RemoteException
+[2026-07-11 15:28:32] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:36] [2022-06-09 ep-220609] codex [item.completed]
+[2026-07-11 15:28:36] [2022-06-09 ep-220609] codex [turn.completed]
+[2026-07-11 15:28:36] [2022-06-09 ep-220609] Codex run finished (exit 0)
+[2026-07-11 15:28:36] [2022-06-09 ep-220609] GPT BBC JSON on disk: 32
+[2026-07-11 15:28:36] [2022-06-09 ep-220609]
+[2026-07-11 15:28:36] [2022-06-09 ep-220609] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:28:38] [2022-06-09 ep-220609]
+[2026-07-11 15:28:38] [2022-06-09 ep-220609] >>> EPISODE COMPLETE : 2022-06-09 (ep-220609) - The technology of translation
+[2026-07-11 15:28:38] [2022-06-09 ep-220609]
+[2026-07-11 15:28:38] [2022-06-09 ep-220609]
+[2026-07-11 15:28:38] [2022-06-16 ep-220616] --- Batch 4 | ~474 episode(s) left in queue ---
+[2026-07-11 15:28:38] [2022-06-16 ep-220616] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:28:38] [2022-06-16 ep-220616]
+[2026-07-11 15:28:38] [2022-06-16 ep-220616] >>> EPISODE START : 2022-06-16 (ep-220616)
+[2026-07-11 15:28:38] [2022-06-16 ep-220616]
+[2026-07-11 15:28:38] [2022-06-16 ep-220616] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:28:38] [2022-06-16 ep-220616] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:28:38] [2022-06-16 ep-220616]
+[2026-07-11 15:28:39] [2022-06-16 ep-220616] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:28:39] [2022-06-16 ep-220616] codex [thread.started]
+[2026-07-11 15:28:39] [2022-06-16 ep-220616] codex [turn.started]
+[2026-07-11 15:28:45] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:28:46] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:28:46] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:28:47] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:28:47] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:28:51] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:28:51] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:28:55] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:28:55] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:28:59] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:29:00] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:29:02] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:29:03] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:29:04] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:29:08] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:29:35] === BBC lesson generate starting ===
+[2026-07-11 15:29:35] Mode: JSON-only (chatgpt/bbc) | Run: batch until queue empty
+[2026-07-11 15:29:35] Close the window anytime to stop safely. No git commit/push here.
+[2026-07-11 15:29:35] Repo: C:\Users\USERNAME\Downloads\gpt-codex\public-sites
+[2026-07-11 15:31:59] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:31:59] [2022-06-16 ep-220616]
+[2026-07-11 15:31:59] [2022-06-16 ep-220616] >>> EPISODE GENERATED (live) : 2022-06-16 (ep-220616) - Island life: Is it paradise? [bbc-gpt-220616-island-paradise.json]
+[2026-07-11 15:31:59] [2022-06-16 ep-220616]
+[2026-07-11 15:31:59] [2022-06-16 ep-220616] Updated chatgpt/bbc state after JSON: 2022-06-16 -> bbc-gpt-220616-island-paradise.json
+[2026-07-11 15:31:59] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:32:03] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:33:07] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:33:07] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:33:12] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:33:12] [2022-06-16 ep-220616] codex [item.started]
+[2026-07-11 15:33:12] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:33:13] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:33:17] [2022-06-16 ep-220616] codex [item.completed]
+[2026-07-11 15:33:18] [2022-06-16 ep-220616] codex [turn.completed]
+[2026-07-11 15:33:18] [2022-06-16 ep-220616] Codex run finished (exit 0)
+[2026-07-11 15:33:18] [2022-06-16 ep-220616] GPT BBC JSON on disk: 33
+[2026-07-11 15:33:18] [2022-06-16 ep-220616]
+[2026-07-11 15:33:18] [2022-06-16 ep-220616] === Rebuild manifest (convert_lessons.py) ===
+[2026-07-11 15:33:19] [2022-06-16 ep-220616]
+[2026-07-11 15:33:19] [2022-06-16 ep-220616] >>> EPISODE COMPLETE : 2022-06-16 (ep-220616) - Island life: Is it paradise?
+[2026-07-11 15:33:19] [2022-06-16 ep-220616]
+[2026-07-11 15:33:19] [2022-06-16 ep-220616]
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] --- Batch 5 | ~473 episode(s) left in queue ---
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] Queue source: chatgpt/bbc/upcoming.json
+[2026-07-11 15:33:20] [2022-06-23 ep-220623]
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] >>> EPISODE START : 2022-06-23 (ep-220623)
+[2026-07-11 15:33:20] [2022-06-23 ep-220623]
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] JSON-only mode: writes bbc-gpt-*.json directly (no HTML, fewer tokens).
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] Expect several minutes for transcript fetch + JSON authoring.
+[2026-07-11 15:33:20] [2022-06-23 ep-220623]
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] Codex runtime: node C:\Users\USERNAME\AppData\Roaming\npm\node_modules\@openai\codex\bin\codex.js (model=gpt-5.4-mini, reasoning=low)
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] codex [thread.started]
+[2026-07-11 15:33:20] [2022-06-23 ep-220623] codex [turn.started]
+[2026-07-11 15:33:26] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:27] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:27] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:27] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:27] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:29] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:29] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:32] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:33] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:35] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:35] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:37] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:33:38] [2022-06-23 ep-220623] codex [item.started]
+[2026-07-11 15:33:41] [2022-06-23 ep-220623] codex [item.completed]
+[2026-07-11 15:57:42] Bootstrapped state file: C:\Users\USERNAME\Downloads\gpt-codex\public-sites\docs\claude-cowork\bbc-lessons\bbc-6min-sent.json (sent=0, upcoming=20, next=2022-06-23)

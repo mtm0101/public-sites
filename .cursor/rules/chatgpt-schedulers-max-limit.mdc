@@ -1,0 +1,34 @@
+---
+description: ChatGPT scheduler MAX LIMIT — behavior in parent prompts only, never re-paste for rule changes
+globs:
+  - docs/claude-cowork/ielts-hourly-practice-tool/prompts/chatgpt/**
+  - docs/claude-cowork/ielts-hourly-practice-tool/prompts/chatgpt/schedulers/**
+alwaysApply: false
+---
+
+# ChatGPT schedulers — MAX LIMIT
+
+When editing ChatGPT scheduled-task prompts in this repo:
+
+## Edit parent `prompts/chatgpt/<task>.md` for
+
+- Queue size, refill order, skip/never-SKIP rules, modes (FULL/CHAT-DELIVERY)
+- Duplicate scan, filename collision, schema, delivery templates, privacy
+- Bump the task prompt's `version:` header
+
+Push to GitHub — the next scheduled run fetches via Pages (`?t=`). **No ChatGPT re-paste.**
+
+## Do NOT edit `schedulers/*.scheduler.md` for behavior
+
+Schedulers are **frozen one-time bootstrap**: connector + ordered fetch URL list only.
+
+**FORBIDDEN:**
+- Adding behavior rules to scheduler COPY blocks
+- Bumping `baseline-version` for behavior/queue/skip changes
+- Telling the user to re-paste the ChatGPT scheduled task after behavior-only changes
+
+**Allowed scheduler edits:** Pages URL path, repo/branch, or mandatory fetch URL list changes → re-paste once.
+
+Authoritative policy: `prompts/chatgpt/schedulers/README.md` § MAX LIMIT.
+
+Also read: `prompts/chatgpt/SHARED.md` (fetched every run by ChatGPT tasks).

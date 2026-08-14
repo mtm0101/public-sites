@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam16-t4-listening",
+ "title": "CAM IELTS 16 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 16",
+ "testNum": 4,
+ "order": 20,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-16-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Holiday Rental",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c939165d-c121-40ed-9424-d80616d58cd1.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 13626365
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/36b9aa30-97a8-45de-a366-7054ac6044c5.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Local Council Report On Traffic And Highways",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/97ebd8e1-e447-45d8-b5fb-033257a5f52f.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 12309570
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8ed25cf5-8a66-4e54-8d50-274dfd486090.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 27
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "City Bike-Sharing Schemes",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7675cc03-ad87-4c8c-a4b6-fd42a66858f3.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13052720
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e146f085-49f2-4bad-8a9d-f6b0f7eb94f0.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 36
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Extinction Of The Dodo Bird",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/70fd9d2a-3076-442d-a767-997539770bcb.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 17707010
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/95d18482-ad2c-4a47-aaae-a66592ceeddf.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 35
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:38:30Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

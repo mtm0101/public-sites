@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp3-t1-listening",
+ "title": "Practice Test Plus 3 - Listening Test 1",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 3",
+ "testNum": 1,
+ "order": 60,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-3-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Health Club Customer Research",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/876ccfd2-b2fa-47f0-93df-74a3102e08ed.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 14603493
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8045b96a-6f21-4d57-9668-5e7f21cb2874.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 56
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Outdoor Survival Skills",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/04470bea-6f55-4609-8345-0da806dc95dd.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13755872
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/29f80666-d5f1-44a1-aef7-7f30d90af5be.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research Project On Attitudes Towards Study",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/899332b1-93de-4bf1-9387-3db1a295f27e.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13501753
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8e34f3ad-a036-40f1-bb1d-cdd83cf6f26f.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 45
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Saving The Juniper Plant",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ce0a6767-388a-4b1a-afde-fe4c98ab55b5.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 9999255
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8a96ea30-6df1-4173-9198-e25bcb002836.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 11
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:02:31Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

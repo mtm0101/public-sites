@@ -1,0 +1,2090 @@
+{
+ "schema": 1,
+ "id": "actual5-t6-listening",
+ "title": "Actual Test 5 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 6,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-5-test-6-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-5-test-6-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Injury Form",
+   "duration": 6,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "c2eaec3d-6b8a-11f0-8976-b523ba13e369",
+     "questions": [
+      {
+       "uuid": "c2eaec3e-6b8a-11f0-8976-b523ba13e369",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" địa chỉ sinh sống \",\"bold\":true},{\"text\":\"(adress: ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And \"},{\"text\":\"where are you currently staying \",\"bold\":true},{\"text\":\"here?''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter trả lời là ''At \"},{\"text\":\"95 Cross Street\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 95 Cross Street \",\"bold\":true},{\"text\":\"(với những tên riêng đơn giản thì người nói sẽ không đánh vần) \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 133,
+          "endTimeInSeconds": 149,
+          "transcripts": [
+           {
+            "id": "2/133600-141716",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 141,
+            "text": "Sure sir, we can take you on as a temporary patient. I'll just take down some personal details of you. May I have your name, please? ",
+            "character": {
+             "id": "4YT1PfSrr740AfHqRGQJp",
+             "name": "Girl"
+            }
+           },
+           {
+            "id": "3/141716-143220",
+            "startTimeInSeconds": 141,
+            "endTimeInSeconds": 143,
+            "text": "Yes, it's Peter Smith. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "4/143220-147172",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 147,
+            "text": "All right, Peter. And where are you currently staying here? ",
+            "character": {
+             "id": "4YT1PfSrr740AfHqRGQJp",
+             "name": "Girl"
+            }
+           },
+           {
+            "id": "5/147172-149635",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 149,
+            "text": "At 95 Cross Street ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "95 Cross Street",
+         "blankId": "37B6HccFZX7mht09DWQ70"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là \"},{\"text\":\"tên hạt\",\"bold\":true},{\"text\":\" (county: ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And the \"},{\"text\":\"county\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"Vậy đầu tiên Peter nói cả tên hạt, ''\"},{\"text\":\"Walkley\",\"bold\":true},{\"text\":\"'' rồi đánh vần là ''That's \"},{\"text\":\"W-a-l-k-l-e-y\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án:  Walkley \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 149,
+          "endTimeInSeconds": 155,
+          "transcripts": [
+           {
+            "id": "6/149635-151413",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 151,
+            "text": "And the county? ",
+            "character": {
+             "id": "4YT1PfSrr740AfHqRGQJp",
+             "name": "Girl"
+            }
+           },
+           {
+            "id": "7/151413-155667",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 155,
+            "text": "Walkley. That's W-a-l-k-l-e-y. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "Walkley",
+         "blankId": "zpquImB3KihZMNpwMtNA9"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là \"},{\"text\":\"số điện thoại\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Đáp án sẽ có sau ''OK, and can I have \"},{\"text\":\"a contact number\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter trả lời là ''Uh, it's \"},{\"text\":\"4689 5324\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 4689 5324 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 155,
+          "endTimeInSeconds": 169,
+          "transcripts": [
+           {
+            "id": "8/155667-159245",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 159,
+            "text": "OK, and can I have a contact number? ",
+            "character": {
+             "id": "4YT1PfSrr740AfHqRGQJp",
+             "name": "Girl"
+            }
+           },
+           {
+            "id": "9/159245-164097",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 164,
+            "text": "Uh, it's 4689 5324. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "10/164097-169437",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 169,
+            "text": "OK, thanks. May you just wait down there! The doctor will see you in a minute.",
+            "character": {
+             "id": "4YT1PfSrr740AfHqRGQJp",
+             "name": "Girl"
+            }
+           }
+          ]
+         },
+         "value": "46895324",
+         "blankId": "kqYFSTR06PvyY1OM-x19u"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần biết\"},{\"text\":\" Peter bị thương ở đâu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Doctor hỏi \\\"Did you hurt\",\"marks\":[]},{\"text\":\" your elbow or wrist\",\"marks\":[],\"bold\":true},{\"text\":\"? \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Peter trả lời \\\"\"},{\"text\":\"Oh no\",\"bold\":true},{\"text\":\". I had my \"},{\"text\":\"knee sprained\",\"bold\":true},{\"text\":\", which was the original problem.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Peter \"},{\"text\":\"bị thương ở đầu gối.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại elbow và wrist \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=>\"},{\"text\":\" Đáp án: knee \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 227,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "15/227633-230857",
+            "startTimeInSeconds": 227,
+            "endTimeInSeconds": 230,
+            "text": "Well, what sport were you doing when you got injured? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "16/230857-233245",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 233,
+            "text": "Playing tennis with my friends. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "17/233245-237742",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 237,
+            "text": "Now, I see. Did you hurt your elbow or wrist? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "18/237742-241794",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 241,
+            "text": "Oh, no. I had my knee sprained, which was the original problem. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "knee",
+         "blankId": "USU3yucCkmVQrzRIjEqwz"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng là \"},{\"text\":\"ngày tháng mà Peter bị thương \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Right, and \"},{\"text\":\"when did this happen\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Peter, ''Uh, that was\"},{\"text\":\" three weeks ago now\",\"bold\":true},{\"text\":\", so it was \"},{\"text\":\"about June 18th\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy bị thương 3 tuần trước, vào \"},{\"text\":\"ngày 18 tháng 6.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: June 18th  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 241,
+          "endTimeInSeconds": 248,
+          "transcripts": [
+           {
+            "id": "19/241794-244895",
+            "startTimeInSeconds": 241,
+            "endTimeInSeconds": 244,
+            "text": "Right, and when did this happen? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "20/244895-248721",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 248,
+            "text": "Uh, that was three weeks ago now, so it was about June 18th. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "June 18th/June 18/18 June ",
+         "blankId": "OKZ7iRaQca0IpbOUf6JW_"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"Peter từng dùng cách gì để chữa trị\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And, you said \"},{\"text\":\"you had medical treatment at home\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Peter, ''The doctor said\"},{\"text\":\" I didn't need an X-ray \",\"bold\":true},{\"text\":\"or things alike, and \"},{\"text\":\"he just told me to use an ice pack\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bác sĩ nói anh ấy \"},{\"text\":\"không cần chụp X-ray \",\"bold\":true},{\"text\":\"hay gì, \"},{\"text\":\"chỉ cần chườm một túi đá thôi.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: an ice pack \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Còn ở sau, Peter có nhắc tới \"},{\"text\":\"walking stick\",\"bold\":true},{\"text\":\", tuy nhiên đây \"},{\"text\":\"không phải là cách chữa trị\",\"bold\":true},{\"text\":\" mà là \"},{\"text\":\"công cụ để giúp anh ấy đi lại \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại walking stick \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 248,
+          "endTimeInSeconds": 264,
+          "transcripts": [
+           {
+            "id": "21/248721-251957",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 251,
+            "text": "Hum. And, you said you had medical treatment at home? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "22/251957-258504",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 258,
+            "text": "Uh, yeah. The doctor said I didn't need an X-ray or things alike, and he just told me to use an ice pack. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "23/258504-260613",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 260,
+            "text": "Fine, anything else? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "24/260613-264848",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 264,
+            "text": "Yes, and I've been using a walking stick to help me get around. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "an ice pack / ice pack",
+         "blankId": "vL-NuMVr1lx9INhEFTNuG"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là về \"},{\"text\":\"các vấn đề mà Peter vẫn gặp phải \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''now what \"},{\"text\":\"problems\",\"bold\":true},{\"text\":\" are you having during walking?''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter nói là ''Well, actually \"},{\"text\":\"I can walk,\",\"bold\":true},{\"text\":\" yet I still \"},{\"text\":\"can't go upstairs'\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy \"},{\"text\":\"vẫn đi được\",\"bold\":true},{\"text\":\", nhưng \"},{\"text\":\"không lên tầng được\",\"bold\":true},{\"text\":\" (unable to = can not)\\n=> \"},{\"text\":\"Loại walk \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án: go upstairs \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 264,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "25/264848-268969",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 268,
+            "text": "Right, now what problems are you having during walking? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "26/268969-274787",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 274,
+            "text": "Well, actually I can walk, yet I still can't go upstairs, so I've been sleeping downstairs. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "go upstairs",
+         "blankId": "g9yOvti_uZrA5t2F-PkQr"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \"},{\"text\":\"bộ phận nào mà Peter vẫn bị đau \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Hum, now you said \"},{\"text\":\"your knee still gets hurt\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter trả lời là không, ''Well, \"},{\"text\":\"no\",\"bold\":true},{\"text\":\". Actually, \"},{\"text\":\"it's getting better.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại knee \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''\"},{\"text\":\"It's my back that's hurting\",\"bold\":true},{\"text\":\", me now. \"},{\"text\":\"It really aches\",\"bold\":true},{\"text\":\" at night, and\"},{\"text\":\" I cannot sleep well\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy \"},{\"text\":\"bị đau lưng\",\"bold\":true},{\"text\":\", \"},{\"text\":\"đặc biệt là về đêm\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án:  back \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 274,
+          "endTimeInSeconds": 285,
+          "transcripts": [
+           {
+            "id": "27/274787-278143",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 278,
+            "text": "Hum, now you said your knee still gets hurt? ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "28/278143-285976",
+            "startTimeInSeconds": 278,
+            "endTimeInSeconds": 285,
+            "text": "Well, no. Actually, it's getting better. It's my back that's hurting, me now. It really aches at night, and I cannot sleep well. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "back",
+         "blankId": "Gf_xdf4vTaZQhCSFjiLVL"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mục cuối cùng là về\"},{\"text\":\" lời khuyên từ bác sĩ \",\"bold\":true},{\"text\":\"(not use the ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Hum, I hav\"},{\"text\":\"e several suggestions \",\"bold\":true},{\"text\":\"for that. ''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Lời khuyên đầu tiên là ''First \"},{\"text\":\"you should put the stick away\",\"bold\":true},{\"text\":\" as \"},{\"text\":\"that's\",\"bold\":true},{\"text\":\" probably the \"},{\"text\":\"source of the problem\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy nên \"},{\"text\":\"không dùng gậy nữa\",\"bold\":true},{\"text\":\" (put the stick away) bởi nó gây ra vấn đề.\\n=> \"},{\"text\":\"Đáp án: stick \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 285,
+          "endTimeInSeconds": 296,
+          "transcripts": [
+           {
+            "id": "29/285976-288393",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 288,
+            "text": "Hum, I have several suggestions for that. ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "30/288393-289361",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 289,
+            "text": "Great. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "31/289361-293566",
+            "startTimeInSeconds": 289,
+            "endTimeInSeconds": 293,
+            "text": "First you should put the stick away as that's probably the source of the problem. ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "32/293566-296113",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 296,
+            "text": "Oh, really? I wish I'd know. ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "stick",
+         "blankId": "MBHEs5rchYpbxxB7X8UxZ"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"bác sĩ khuyên Peter làm gì đó ở nhà\",\"bold\":true},{\"text\":\" (do regular ___ at home) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nói về việc kê thuốc, Peter hỏi ''Would you recommend \"},{\"text\":\"anything else\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết đáp án sẽ tới.\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vậy bác sĩ trả lời là ''We do have a leaflet showing \"},{\"text\":\"some exercises you can do yourself at home\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Peter \"},{\"text\":\"nên tập thể dục ở nhà\",\"bold\":true},{\"text\":\" (do exercises)\\n=> \"},{\"text\":\"Đáp án: exercises \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 296,
+          "endTimeInSeconds": 319,
+          "transcripts": [
+           {
+            "id": "33/296113-300450",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 300,
+            "text": "After that, I can prescribe you something to relax the muscles in your back ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "34/300450-309179",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 309,
+            "text": "Oh, sorry to be difficult, but I've had something like that in the past, and there were many side effects, and I don't want to take it. Would you recommend anything else? ",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "35/309179-318132",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 318,
+            "text": "Well, yes. We do have a leaflet showing some exercises you can do yourself at home. If you do them every day, they'll soon be effective. ",
+            "character": {
+             "id": "gaQuR0EE6nJNzPwR-7O5w",
+             "name": "Doctor"
+            }
+           },
+           {
+            "id": "36/318132-319264",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 319,
+            "text": "Great. I'll do that.",
+            "character": {
+             "id": "Yk6knxQsEAjsGDJySvr1l",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "exercises",
+         "blankId": "SU9kkKOEVDN2eOMAamquk"
+        }
+       ],
+       "heading": "Temporary Patient Record Form",
+       "paragraph": {
+        "id": "2hEH-kpqTPWer7aK_PEQd",
+        "editorValue": "[{\"children\":[{\"text\":\"Example\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Name:\",\"bold\":true},{\"text\":\" \"},{\"text\":\"Peter Smith\",\"underline\":true,\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Address:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"1_____\"}],\"id\":\"37B6HccFZX7mht09DWQ70\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"County:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"2_____\"}],\"id\":\"zpquImB3KihZMNpwMtNA9\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Phone:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"3_____\"}],\"id\":\"kqYFSTR06PvyY1OM-x19u\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Injury Details\",\"bold\":true,\"UNDERLINE_COLOR\":{\"colorKey\":\"red100\"}}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Cause:\",\"bold\":true},{\"text\":\" Sport - Tennis\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Type:\",\"bold\":true},{\"text\":\" Sprained \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"4_____\"}],\"id\":\"USU3yucCkmVQrzRIjEqwz\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Date:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"5_____\"}],\"id\":\"OKZ7iRaQca0IpbOUf6JW_\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Description of Previous Record and Current Situation\",\"bold\":true,\"UNDERLINE_COLOR\":{\"colorKey\":\"red100\"}}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The private doctor of the patient suggested treatment with \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"6_____\"}],\"id\":\"vL-NuMVr1lx9INhEFTNuG\"},{\"text\":\".\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"But the patient is still unable to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 7_____\"}],\"id\":\"g9yOvti_uZrA5t2F-PkQr\"},{\"text\":\" and also getting some pain in his \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"8_____\"}],\"id\":\"Gf_xdf4vTaZQhCSFjiLVL\"},{\"text\":\" at night.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Advice from the Doctor\",\"bold\":true,\"UNDERLINE_COLOR\":{\"colorKey\":\"red100\"}}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Not use the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 9_____\"}],\"id\":\"MBHEs5rchYpbxxB7X8UxZ\"},{\"text\":\".\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Do regular \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"10_____\"}],\"id\":\"SU9kkKOEVDN2eOMAamquk\"},{\"text\":\" at home.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "37B6HccFZX7mht09DWQ70",
+          "key": 0
+         },
+         {
+          "id": "zpquImB3KihZMNpwMtNA9",
+          "key": 1
+         },
+         {
+          "id": "kqYFSTR06PvyY1OM-x19u",
+          "key": 2
+         },
+         {
+          "id": "USU3yucCkmVQrzRIjEqwz",
+          "key": 3
+         },
+         {
+          "id": "OKZ7iRaQca0IpbOUf6JW_",
+          "key": 4
+         },
+         {
+          "id": "vL-NuMVr1lx9INhEFTNuG",
+          "key": 5
+         },
+         {
+          "id": "g9yOvti_uZrA5t2F-PkQr",
+          "key": 6
+         },
+         {
+          "id": "Gf_xdf4vTaZQhCSFjiLVL",
+          "key": 7
+         },
+         {
+          "id": "MBHEs5rchYpbxxB7X8UxZ",
+          "key": 8
+         },
+         {
+          "id": "SU9kkKOEVDN2eOMAamquk",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "An Intro To Pine Garden",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "08fc6c93-2754-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "08fc6c94-2754-11ed-9917-6b4c6718aa1d",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO things are included in the price of the tour?",
+       "options": [
+        {
+         "key": 0,
+         "value": "garden gloves"
+        },
+        {
+         "key": 1,
+         "value": "ladybugs"
+        },
+        {
+         "key": 2,
+         "value": "bush timbering lessons"
+        },
+        {
+         "key": 3,
+         "value": "food"
+        },
+        {
+         "key": 4,
+         "value": "hummingbirds"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần biết \"},{\"text\":\"hai điều gì đã được bao gồm vào giá vé\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''At the very first, I think I should explain to you\"},{\"text\":\" something that you can do with your ticket\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Đầu tiên, người nói bàn về planting area và nói là ''The \"},{\"text\":\"activities of planting are totally free\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc \"},{\"text\":\"trồng cây và hoa là miễn phí\",\"bold\":true},{\"text\":\", nhưng planting \"},{\"text\":\"không ứng với đáp án nào\",\"bold\":true},{\"text\":\" cả nên mình nghe tiếp.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Tuy nhiên,\"},{\"text\":\" với garden gloves\",\"bold\":true},{\"text\":\", '' ... we strongly recommend you to \"},{\"text\":\"buy a pair of garden gloves in order to protect your skin\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vậy là mình\"},{\"text\":\" phải tự mua găng tay làm vườn,\",\"bold\":true},{\"text\":\" tức nó không được included vào giá vé \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Thứ hai, khi nói \"},{\"text\":\"về việc tạc gỗ\",\"bold\":true},{\"text\":\", người nói nhắc về\"},{\"text\":\" bush timbering lessons\",\"bold\":true},{\"text\":\", ''you can\"},{\"text\":\" join one of our bush timbering lessons for free\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Các lớp học này \"},{\"text\":\"đã được included vào giá vé\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 50,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "0/50593-63119",
+            "startTimeInSeconds": 50,
+            "endTimeInSeconds": 63,
+            "text": "Hello, welcome you all to Pine Garden. My name is Manuel. Before you wander off and begin your exploration of the garden, I am going to keep all of you informed of several things about this building. "
+           },
+           {
+            "id": "1/63119-68746",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 68,
+            "text": " I know you are eager to start your wandering and exploring, so I will try to keep this as short as possible."
+           },
+           {
+            "id": "2/68746-82819",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 82,
+            "text": "At the very first, I think I should explain to you something that you can do with your ticket. If you would like to be much more into nature, the optimal section is our planting area, where all the visitors can plant small flowers and bulbs on their own. "
+           },
+           {
+            "id": "3/82819-97275",
+            "startTimeInSeconds": 82,
+            "endTimeInSeconds": 97,
+            "text": "These plants will gradually grow and then become part of our garden. The activities of planting are totally free. However, if your hands are sensitive, we strongly recommend you to buy a pair of garden gloves in order to protect your skin."
+           },
+           {
+            "id": "4/97275-105814",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 105,
+            "text": "Also, here at Pine Garden, we use wooden materials from the trees that have been felled in our very own pine forest to make carved goods!"
+           },
+           {
+            "id": "5/105814-117377",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 117,
+            "text": "If you are interested and want to get involved and try by yourself, you can join one of our bush timbering lessons for free, where you will have the opportunity to make your own key ring with the help of a skilled craftsman."
+           },
+           {
+            "id": "6/117377-130246",
+            "startTimeInSeconds": 117,
+            "endTimeInSeconds": 130,
+            "text": "Our aviary is the most popular attraction, where you can see a whole range of bird species. More surprisingly, it is free to enter this section, yet you should pay a small amount of supplement for the entry to the hummingbird section."
+           },
+           {
+            "id": "7/130246-144992",
+            "startTimeInSeconds": 130,
+            "endTimeInSeconds": 144,
+            "text": "Also, the insect section that is not far from the aviary might arouse your interest. There you will find a number of interesting insects, such as butterflies, pocket ladybugs, dragonflies and so on, and no extra fee for it will be paid."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thứ ba, về \"},{\"text\":\"khu vực chim\",\"bold\":true},{\"text\":\", ''it is \"},{\"text\":\"free to enter this sectio\",\"bold\":true},{\"text\":\"n, yet you \"},{\"text\":\"should pay a small amount\",\"bold\":true},{\"text\":\" of supplement \"},{\"text\":\"for the entry to the hummingbird section\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cả khu vực này là miễn phí\",\"bold\":true},{\"text\":\", chỉ \"},{\"text\":\"trừ khu vực cho hummingbird \",\"bold\":true},{\"text\":\"là mình phải trả thêm \\n=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thứ tư, về khu vực côn trùng, ''There you will find a number of\"},{\"text\":\" interesting insects,\",\"bold\":true},{\"text\":\" such as butterflies, \"},{\"text\":\"pocket ladybugs\",\"bold\":true},{\"text\":\", dragonflies and so on, and\"},{\"text\":\" no extra fee for it will be paid\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong ví dụ người nói có nhắc tới \"},{\"text\":\"ladybugs\",\"bold\":true},{\"text\":\", và nhấn mạnh rằng\"},{\"text\":\" mình không mất thêm phí khi vào khu vực này\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 50,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "0/50593-63119",
+            "startTimeInSeconds": 50,
+            "endTimeInSeconds": 63,
+            "text": "Hello, welcome you all to Pine Garden. My name is Manuel. Before you wander off and begin your exploration of the garden, I am going to keep all of you informed of several things about this building. "
+           },
+           {
+            "id": "1/63119-68746",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 68,
+            "text": " I know you are eager to start your wandering and exploring, so I will try to keep this as short as possible."
+           },
+           {
+            "id": "2/68746-82819",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 82,
+            "text": "At the very first, I think I should explain to you something that you can do with your ticket. If you would like to be much more into nature, the optimal section is our planting area, where all the visitors can plant small flowers and bulbs on their own. "
+           },
+           {
+            "id": "3/82819-97275",
+            "startTimeInSeconds": 82,
+            "endTimeInSeconds": 97,
+            "text": "These plants will gradually grow and then become part of our garden. The activities of planting are totally free. However, if your hands are sensitive, we strongly recommend you to buy a pair of garden gloves in order to protect your skin."
+           },
+           {
+            "id": "4/97275-105814",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 105,
+            "text": "Also, here at Pine Garden, we use wooden materials from the trees that have been felled in our very own pine forest to make carved goods!"
+           },
+           {
+            "id": "5/105814-117377",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 117,
+            "text": "If you are interested and want to get involved and try by yourself, you can join one of our bush timbering lessons for free, where you will have the opportunity to make your own key ring with the help of a skilled craftsman."
+           },
+           {
+            "id": "6/117377-130246",
+            "startTimeInSeconds": 117,
+            "endTimeInSeconds": 130,
+            "text": "Our aviary is the most popular attraction, where you can see a whole range of bird species. More surprisingly, it is free to enter this section, yet you should pay a small amount of supplement for the entry to the hummingbird section."
+           },
+           {
+            "id": "7/130246-144992",
+            "startTimeInSeconds": 130,
+            "endTimeInSeconds": 144,
+            "text": "Also, the insect section that is not far from the aviary might arouse your interest. There you will find a number of interesting insects, such as butterflies, pocket ladybugs, dragonflies and so on, and no extra fee for it will be paid."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "08fc6c95-2754-11ed-9917-6b4c6718aa1d",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO facilities of Pine Garden are open today?",
+       "options": [
+        {
+         "key": 0,
+         "value": "plant care centre"
+        },
+        {
+         "key": 1,
+         "value": "cafe"
+        },
+        {
+         "key": 2,
+         "value": "gift shop"
+        },
+        {
+         "key": 3,
+         "value": "model town"
+        },
+        {
+         "key": 4,
+         "value": "tourist office"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"cơ sở nào còn mở \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Unfortunately, \"},{\"text\":\"some areas\",\"bold\":true},{\"text\":\" are now \"},{\"text\":\"temporarily limited\",\"bold\":true},{\"text\":\" to visitors today.''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về gift shop, ''For example, the\"},{\"text\":\" gift shop\",\"bold\":true},{\"text\":\" that has been closed earlier this year will \"},{\"text\":\"remain out of boundary for another month\",\"bold\":true},{\"text\":\" or so.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Gift shop sẽ vẫn đóng cửa\",\"bold\":true},{\"text\":\" trong một tháng nữa hoặc hơn \\n=>\"},{\"text\":\" Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thứ hai, \"},{\"text\":\"về plant care centre\",\"bold\":true},{\"text\":\", người nói khuyên mình ''and \"},{\"text\":\"if you do feel like purchasing a gift\",\"bold\":true},{\"text\":\", \"},{\"text\":\"why not buy\",\"bold\":true},{\"text\":\" that special potted bush or orchid \"},{\"text\":\"from our plant care centre\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu mình \"},{\"text\":\"có thể mua được đồ ở đây\",\"bold\":true},{\"text\":\" thì rõ ràng là \"},{\"text\":\"nó vẫn đang mở cửa rồi.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 145,
+          "endTimeInSeconds": 193,
+          "transcripts": [
+           {
+            "id": "8/145770-156291",
+            "startTimeInSeconds": 145,
+            "endTimeInSeconds": 156,
+            "text": "Unfortunately, some areas are now temporarily limited to visitors today. For example, the gift shop that has been closed earlier this year will remain out of boundary for another month or so. "
+           },
+           {
+            "id": "9/156291-167637",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 167,
+            "text": "As I have said before, the restaurant still offers free food and snacks for you, and if you do feel like purchasing a gift, why not buy that special potted bush or orchid from our plant care centre? "
+           },
+           {
+            "id": "10/167637-180036",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 180,
+            "text": "What's more, our new treetop cafe is now in the process of construction; it will be very compelling when it's finished. Actually, our model town has already opened in advance, and that is such great interest to the public. "
+           },
+           {
+            "id": "11/180036-193575",
+            "startTimeInSeconds": 180,
+            "endTimeInSeconds": 193,
+            "text": "Also, our tourist office is ordinarily available to give tourists many aids. But the officer is sick at home. Please do not be disappointed by this, since our opening visiting areas also provide quite an experience!"
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thứ ba, \"},{\"text\":\"về cafe\",\"bold\":true},{\"text\":\", ''What's more, our new treetop cafe is now\"},{\"text\":\" in the process of construction;\",\"bold\":true},{\"text\":\" it will be very compelling when it's finished.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Quán cafe vẫn \"},{\"text\":\"đang trong quá trình xây dựng \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Thứ tư, \"},{\"text\":\"về model town\",\"bold\":true},{\"text\":\", ''Actually, our model town \"},{\"text\":\"has already opened in advance\",\"bold\":true},{\"text\":\", and that is such great interest to the public.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó đã \"},{\"text\":\"được mở trước kế hoạch\",\"bold\":true},{\"text\":\" (in advance)\\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Cuối cùng, về tourist office, ''Also, our \"},{\"text\":\"tourist office is ordinarily available\",\"bold\":true},{\"text\":\" to give tourists many aids. But\"},{\"text\":\" the officer is sick at home\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Thông thường thì văn phòng có mở\",\"bold\":true},{\"text\":\", nhưng do hôm nay \"},{\"text\":\"officer bị ốm nên nó đóng cửa\",\"bold\":true},{\"text\":\" (bạn lưu ý đề bài hỏi cơ sở nào mở hôm nay) \\n=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 145,
+          "endTimeInSeconds": 193,
+          "transcripts": [
+           {
+            "id": "8/145770-156291",
+            "startTimeInSeconds": 145,
+            "endTimeInSeconds": 156,
+            "text": "Unfortunately, some areas are now temporarily limited to visitors today. For example, the gift shop that has been closed earlier this year will remain out of boundary for another month or so. "
+           },
+           {
+            "id": "9/156291-167637",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 167,
+            "text": "As I have said before, the restaurant still offers free food and snacks for you, and if you do feel like purchasing a gift, why not buy that special potted bush or orchid from our plant care centre? "
+           },
+           {
+            "id": "10/167637-180036",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 180,
+            "text": "What's more, our new treetop cafe is now in the process of construction; it will be very compelling when it's finished. Actually, our model town has already opened in advance, and that is such great interest to the public. "
+           },
+           {
+            "id": "11/180036-193575",
+            "startTimeInSeconds": 180,
+            "endTimeInSeconds": 193,
+            "text": "Also, our tourist office is ordinarily available to give tourists many aids. But the officer is sick at home. Please do not be disappointed by this, since our opening visiting areas also provide quite an experience!"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose"
+         },
+         {
+          "text": " TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "08fc6c96-2754-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "08fc6c97-2754-11ed-9917-6b4c6718aa1d",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "varieties of desert"
+        },
+        {
+         "key": 1,
+         "value": "edible plants"
+        },
+        {
+         "key": 2,
+         "value": "lawns and lawn alternatives"
+        },
+        {
+         "key": 3,
+         "value": "native plants"
+        },
+        {
+         "key": 4,
+         "value": "storing water"
+        },
+        {
+         "key": 5,
+         "value": "plants attracting wildlife"
+        },
+        {
+         "key": 6,
+         "value": "unified design"
+        },
+        {
+         "key": 7,
+         "value": "soil nutrients"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng đầu tiên là\"},{\"text\":\" Mrs. Mary \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' \"},{\"text\":\"Mrs. Mary\",\"bold\":true},{\"text\":\" is one of our specialists ...''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''who is personally \"},{\"text\":\"in charge of our awesome displays\",\"bold\":true},{\"text\":\" that can all be\"},{\"text\":\" found in the local wild nature.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy\"},{\"text\":\" phụ trách cây cối mọc ở trong khu vực\",\"bold\":true},{\"text\":\", hay còn gọi là \"},{\"text\":\"native plant \",\"bold\":true},{\"text\":\"(thực vật bản địa)\\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 240,
+          "endTimeInSeconds": 254,
+          "transcripts": [
+           {
+            "id": "12/240116-254551",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 254,
+            "text": "I'd also like to introduce our plant experts responsible for the wonderful plant exhibitions here at Pine Garden. Mrs. Mary is one of our specialists, who is personally in charge of our awesome displays that can all be found in the local wild nature. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp theo là \"},{\"text\":\"Mr.Berson \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''Mr. Berson is \"},{\"text\":\"responsible for looking after some varieties of plants\",\"bold\":true},{\"text\":\" that \"},{\"text\":\"grow in much drier and hotter climates \",\"bold\":true},{\"text\":\"than ours'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy \"},{\"text\":\"phụ trách các loài cây sống ở nơi khô và nóng hơn\",\"bold\":true},{\"text\":\" trong khu vực.\\n=> \"},{\"text\":\"Đáp án là A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 254,
+          "endTimeInSeconds": 283,
+          "transcripts": [
+           {
+            "id": "13/254551-266099",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 266,
+            "text": "Mr. Berson is responsible for looking after some varieties of plants that grow in much drier and hotter climates than ours with difficult tasks, which means there is no need to conserve much water for it on site. "
+           },
+           {
+            "id": "14/266099-283482",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 283,
+            "text": "If you go into the glass house, there are a large number of plants that he has managed to grow without any need for raining or irrigation. Mr. Smith is in charge of keeping all the visitors fed at our restaurant, which contains some of the varieties that grow under the ground and those that on trees and bushes. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Về\"},{\"text\":\" Mr. Smith\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy ''Mr. Smith is \"},{\"text\":\"in charge of keeping all the visitors fed at our restaurant,\",\"bold\":true},{\"text\":\" which contains s\"},{\"text\":\"ome of the varieties in the earth and on trees\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"bushes\",\"bold\":true},{\"text\":\" that are \"},{\"text\":\"edible\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mr Smith \"},{\"text\":\"trồng những loài cây ăn được\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"cung cấp chúng cho nhà hàng\",\"bold\":true},{\"text\":\" (du khách sẽ được thưởng thức những loại câu này ở đây)\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 266,
+          "endTimeInSeconds": 283,
+          "transcripts": [
+           {
+            "id": "14/266099-283482",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 283,
+            "text": "If you go into the glass house, there are a large number of plants that he has managed to grow without any need for raining or irrigation. Mr. Smith is in charge of keeping all the visitors fed at our restaurant, which contains some of the varieties that grow under the ground and those that on trees and bushes. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Về \"},{\"text\":\"Mr. Nunee\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói bảo là ''Now, Mr. Nunee here is our\"},{\"text\":\" specialist on the most universally growing plant in the world\",\"bold\":true},{\"text\":\": \"},{\"text\":\"grass\",\"bold\":true},{\"text\":\"!'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"chuyên về cỏ\",\"bold\":true},{\"text\":\" (hay dùng từ khác là lawn, bãi cỏ)\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 283,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "15/283482-310080",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 310,
+            "text": "Now, Mr. Nunee here is our specialist on the most universally growing plant in the world: grass! You may have noticed how beautifully green and lush our grounds are thanks to his specialist knowledge. Mr. Acanlan guarantees our soil is compiled with nutrients; all the specialists' habitat is hence supported and encouraged. He succeeded in doing this by fertilizing the earth with his special formula that originally constructed by himself. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp theo, về \"},{\"text\":\"Mr. Acanlan\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" Mình nghe được là ''Mr. Acanlan \"},{\"text\":\"guarantees our soil is compiled with nutrients\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ông ấy \"},{\"text\":\"chuyên về phân bón và chất dinh dưỡng trong đất.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là H \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn cũng có thể để ý ở sau có từ \"},{\"text\":\"fertilzing\",\"bold\":true},{\"text\":\", ''He succeeded in doing this by \"},{\"text\":\"fertilizing the earth\",\"bold\":true},{\"text\":\" ...'', từ đó mình chắc chắn ông ấy chuyên về đất, hay cụ thể là soil nutrients.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 283,
+          "endTimeInSeconds": 310,
+          "transcripts": [
+           {
+            "id": "15/283482-310080",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 310,
+            "text": "Now, Mr. Nunee here is our specialist on the most universally growing plant in the world: grass! You may have noticed how beautifully green and lush our grounds are thanks to his specialist knowledge. Mr. Acanlan guarantees our soil is compiled with nutrients; all the specialists' habitat is hence supported and encouraged. He succeeded in doing this by fertilizing the earth with his special formula that originally constructed by himself. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Cuối cùng là\"},{\"text\":\" Mr. Mandelson\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''who \"},{\"text\":\"works closely with all other experts\",\"bold\":true},{\"text\":\" to \"},{\"text\":\"make sure everybody works together\",\"bold\":true},{\"text\":\" to create a landscape that is pretty as well as sustainable.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhiệm vụ của ông ấy là \"},{\"text\":\"đảm bảo mọi người làm việc cùng nhau để thiết kế \",\"bold\":true},{\"text\":\"cảnh quan, địa hình (tức unified design, unifed là đồng nhất, thống nhất)\\n=> \"},{\"text\":\"Đáp án là G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 310,
+          "endTimeInSeconds": 327,
+          "transcripts": [
+           {
+            "id": "16/310080-327477",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 327,
+            "text": "At last, I'd like to invite you all to meet Dr. Mandelson, the manager of our landscaping team, who works closely with all other experts to make sure everybody works together to create a landscape that is pretty as well as sustainable.\nWell, that just about rounds it up. Now, if anyone has any questions..."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Mary\t"
+        },
+        {
+         "key": 1,
+         "value": "Berson"
+        },
+        {
+         "key": 2,
+         "value": "Smith\t"
+        },
+        {
+         "key": 3,
+         "value": "Nunee"
+        },
+        {
+         "key": 4,
+         "value": "Acanlan\t"
+        },
+        {
+         "key": 5,
+         "value": "Mandelson"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "A Conversation For An English Literature",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "34c81fa5-2754-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "34c81fa6-2754-11ed-a111-ed4dcd04caf9",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên mình cần biết \"},{\"text\":\"tên tiểu thuyết \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''So\"},{\"text\":\" let's get started\",\"bold\":true},{\"text\":\", shall we?''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''I would like to go through some aspects of the novel, \"},{\"text\":\"The Secret Garden\",\"bold\":true},{\"text\":\"...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tên \",\"bold\":true},{\"text\":\"cuốn tiểu thuyết \"},{\"text\":\"là The Secret Garden\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: The Secret Garden\",\"bold\":true},{\"text\":\" (bạn lưu ý phải viết đủ cả tên) \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 51,
+          "endTimeInSeconds": 70,
+          "transcripts": [
+           {
+            "id": "0/51043-60916",
+            "startTimeInSeconds": 51,
+            "endTimeInSeconds": 60,
+            "text": "Good morning, Lorna and lan! I'm glad that you both chose to make it. You're the only two who take the names down for this literature test. So let's get started, shall we?",
+            "character": {
+             "id": "G96eBtfUpGASnY9hnfYGu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "1/60916-70645",
+            "startTimeInSeconds": 60,
+            "endTimeInSeconds": 70,
+            "text": "I would like to go through some aspects of the novel, The Secret Garden, with you before the test next week. Do take some notes and feel free to interrupt me if you have questions. ",
+            "character": {
+             "id": "G96eBtfUpGASnY9hnfYGu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "The Secret Garden",
+         "blankId": "4oMEVh8RzbDlzJVx9KlAK"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo thứ tự, mình \"},{\"text\":\"sẽ nghe về period of time sau khi \",\"bold\":true},{\"text\":\"giáo viên \"},{\"text\":\"giới thiệu tên nhân vật chính \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' ... as \"},{\"text\":\"protagonists \",\"bold\":true},{\"text\":\"who go by the names of \"},{\"text\":\"Mary Lennox and Colin Craven\",\"bold\":true},{\"text\":\"''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo giáo viên, ''The story is set shortly after \"},{\"text\":\"the turn of the twentieth century\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Câu chuyện lấy bối cảnh vào\"},{\"text\":\" đầu thế kỷ 20.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 20th / twentieth century \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 70,
+          "endTimeInSeconds": 94,
+          "transcripts": [
+           {
+            "id": "2/70645-73404",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 73,
+            "text": "\tHey Lorna, have you got a spare pen? ",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           },
+           {
+            "id": "3/73404-74932",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 74,
+            "text": "Yeah, here you are",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "4/74932-85042",
+            "startTimeInSeconds": 74,
+            "endTimeInSeconds": 85,
+            "text": "\tAll right, so, the story follows two key characters. You should refer to them as protagonists who go by the names of Mary Lennox and Colin Craven.",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "5/85042-94761",
+            "startTimeInSeconds": 85,
+            "endTimeInSeconds": 94,
+            "text": "The story is set shortly after the turn of the twentieth century, and the narrative tracks the development of the protagonists as they learn to overcome their own personal troubles together. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "20th/twentieth century",
+         "blankId": "NW3VcbRxpLpcHDuWe5Ml8"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley44\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Colin nghĩ anh ấy không thể làm gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Exactly, and there she comes across \"},{\"text\":\"Colin \",\"bold\":true},{\"text\":\"...''\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''\"},{\"text\":\"believing himself to be permanently crippled\",\"bold\":true},{\"text\":\" with \"},{\"text\":\"no hope of being ever possible of walking\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Collin \"},{\"text\":\"nghĩ anh ấy mãi mãi không thể đi lại được nữa\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: walking \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 94,
+          "endTimeInSeconds": 133,
+          "transcripts": [
+           {
+            "id": "6/94761-97000",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 97,
+            "text": "That's quite a common storyline, isn't it? ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "7/97141-102602",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 102,
+            "text": "\tYes, you're right, Lorna. So could you share something you've already known about the character of Mary? ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "8/102602-115131",
+            "startTimeInSeconds": 102,
+            "endTimeInSeconds": 115,
+            "text": "Well, in the beginning, she is an angry and rude child who is orphaned after a cholera outbreak and forces to leave India for the United Kingdom to her uncle's house in Yorkshire. ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "9/115131-125606",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 125,
+            "text": "\tExactly, and there she comes across Colin who spends his days in an isolated room, believing himself to be permanently crippled with no hope of being ever possible of walking. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "10/126544-133645",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 133,
+            "text": "The two strike up a friendship and gradually learn by encouraging each other that both of them can have a healthy, happy and fulfilled life.",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "walking",
+         "blankId": "e2tWXObeJphWkt-EC5KxW"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" 'ominiscent narrator' biết điều gì về các nhân vật \",\"bold\":true},{\"text\":\"(knows all about characters’ feelings, opinions and ___ )\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> Đáp án sẽ tới sau '' ... what is called an\"},{\"text\":\" 'omniscient narrator', \",\"bold\":true},{\"text\":\"which means \"},{\"text\":\"all-knowing\",\"bold\":true},{\"text\":\".''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rồi phân tích kỹ hơn, ''So, readers can feel the same as \"},{\"text\":\"how all the characters do about things\",\"bold\":true},{\"text\":\", including \"},{\"text\":\"what they like and don't like\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"what their motivations are\",\"bold\":true},{\"text\":\" in the story.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thông qua 'ominiscent narrator',\"},{\"text\":\" readers có thể biết được về feelings \",\"bold\":true},{\"text\":\"(feel the same as ...), \"},{\"text\":\"opinions \",\"bold\":true},{\"text\":\"(what they like and don't like) \"},{\"text\":\"và motivations\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án: motivations \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 133,
+          "endTimeInSeconds": 166,
+          "transcripts": [
+           {
+            "id": "11/133645-136842",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 136,
+            "text": "\tIs there any need for us to remember these details for the exam? ",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           },
+           {
+            "id": "12/136842-147881",
+            "startTimeInSeconds": 136,
+            "endTimeInSeconds": 147,
+            "text": "\tJust the fundamental structure. Examiners don't want to read a plot summary. They know what the book is about. Focus on narrative techniques instead, such as point of view. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "13/147881-149080",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 149,
+            "text": "What does that mean? ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "14/149080-158021",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 158,
+            "text": "It's all about how we see the story. For example, it's written based on what is called an 'omniscient narrator', which means all-knowing. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "15/158021-166720",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 166,
+            "text": "So, readers can feel the same as how all the characters do about things, including what they like and don't like, and what their motivations are in the story.",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "motivations",
+         "blankId": "p_ONVqgszmQRDWHrM0ZgG"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" symbols \",\"bold\":true},{\"text\":\"(physical items that represent ___ ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Look at the \"},{\"text\":\"symbolism\",\"bold\":true},{\"text\":\", for instance.''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Loma, ''\"},{\"text\":\"Material things\",\"bold\":true},{\"text\":\" like objects \"},{\"text\":\"that stand for abstract ideas\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Các vật dụng \"},{\"text\":\"tượng trưng cho các ý tưởng trừu tượng\",\"bold\":true},{\"text\":\" (material ~ physical)\\n=> \"},{\"text\":\"Đáp án: abstract ideas \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 212,
+          "endTimeInSeconds": 245,
+          "transcripts": [
+           {
+            "id": "16/212016-216565",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 216,
+            "text": "Won't it be that difficult to perform a technical analysis? After all, it's a kid's book. ",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           },
+           {
+            "id": "17/216565-226971",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 226,
+            "text": "\tWell, it was initially pitched at adults, you know, but over the years it has shifted to a more youth-orientated work. In this case, your understanding is correct in some way. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "18/226971-239150",
+            "startTimeInSeconds": 226,
+            "endTimeInSeconds": 239,
+            "text": "The simple lexical items and absence of foreshadowing make the story relatively easy to follow and supposedly suited for children. But that doesn't mean there isn't much to analyse. Look at the symbolism, for instance. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "19/239150-245438",
+            "startTimeInSeconds": 239,
+            "endTimeInSeconds": 245,
+            "text": "Symbols are things, right? Material things like objects that stand for abstract ideas. ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           }
+          ]
+         },
+         "value": "abstract ideas",
+         "blankId": "HSavJsZn058IvR2zf7oBq"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \"},{\"text\":\"một vật được dùng làm symbols \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''The author also \"},{\"text\":\"uses many of them\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nói xong về ''\"},{\"text\":\"the robin redbreast'\",\"bold\":true},{\"text\":\"', giáo sư chuyển sang \"},{\"text\":\"roses\",\"bold\":true},{\"text\":\", ''\"},{\"text\":\"Roses are treated\",\"bold\":true},{\"text\":\" as well \"},{\"text\":\"as a personal symbol for Mistress Craven\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Hoa hồng\",\"bold\":true},{\"text\":\" cũng được dùng như \"},{\"text\":\"là biểu tượng của Mistress Craven.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: roses \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 272,
+          "transcripts": [
+           {
+            "id": "20/245438-260794",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 260,
+            "text": "Absolutely right. The author also uses many of them. There's the robin redbreast, for example, which symbolises the wise and gentle nature that Mary will soon adopt. Note that the robin is regarded as 'not at all like the birds in India'. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "21/260794-272973",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 272,
+            "text": "Roses are treated as well as a personal symbol for Mistress Craven. You'll see they're always mentioned alongside her name. And Mistress Craven's portrait can also be interpreted as a symbol of her spirit. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "roses",
+         "blankId": "zqXb9V-33M_LfG66LckqP"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \"},{\"text\":\"về motif, cụ thể là Secrecy\",\"bold\":true},{\"text\":\" (Secrecy - metaphorical and literal transition from ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''...everything is steeped in \"},{\"text\":\"secrecy\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''...  and slowly the characters \"},{\"text\":\"share their secrets\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"in the process move from darkness to lightness\",\"bold\":true},{\"text\":\", \"},{\"text\":\"metaphorically\",\"bold\":true},{\"text\":\", but also in the case of Colin, quite \"},{\"text\":\"literally\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có sự \"},{\"text\":\"chuyển dịch từ darkness to lightness\",\"bold\":true},{\"text\":\" (Move from ___ to ___ = transition from), sự chuyển dịch này \"},{\"text\":\"mang tính ẩn dụ\",\"bold\":true},{\"text\":\" (metaphorical), và \"},{\"text\":\"theo cả nghĩa đen\",\"bold\":true},{\"text\":\" (literal) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: darkness to lightness  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 272,
+          "endTimeInSeconds": 319,
+          "transcripts": [
+           {
+            "id": "22/272973-276585",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 276,
+            "text": "Are symbols just another name for motifs? ",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           },
+           {
+            "id": "23/276585-286258",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 286,
+            "text": "No, motifs are a bit different. They don't have a direct connection with something the way a symbol does. Motifs are simple recurring elements of the story that support the mood. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "24/286258-288364",
+            "startTimeInSeconds": 286,
+            "endTimeInSeconds": 288,
+            "text": "Are there any in this novel? ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "25/288364-300157",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 300,
+            "text": "Yes, two very key ones. The Garden of Eden is a motif, which comes up a few times in association with the garden of the story. And then you've got the role that secrets play in the story.",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "26/300157-319148",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 319,
+            "text": "At the very beginning, everything is steeped in secrecy, and slowly the characters share their secrets and in the process move from darkness to lightness, metaphorically, but also in the case of Colin, quite literally. His room used to have the curtains drawn, but in the end, he appears in the brightness of the garden ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "darkness to lightness",
+         "blankId": "iQgG0zrWrENbaWmyoXlau"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ba câu cuối cùng là về\"},{\"text\":\" các mối liên hệ \",\"bold\":true},{\"text\":\"(connection between ___ and outlook) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''The Secret Garden has a few themes that all concentrate on the idea of \"},{\"text\":\"connections\",\"bold\":true},{\"text\":\"''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mối quan hệ đầu tiên là ''The novel explores, for example, \"},{\"text\":\"the way that health can determine\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"be determined by our outlook on life\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Sức khỏe\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"quan điểm cuộc sống\",\"bold\":true},{\"text\":\" ảnh hưởng lẫn nhau.\\n=> \"},{\"text\":\"Đáp án: health \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 319,
+          "endTimeInSeconds": 349,
+          "transcripts": [
+           {
+            "id": "27/319148-321000",
+            "startTimeInSeconds": 319,
+            "endTimeInSeconds": 321,
+            "text": "Anything else needed to know about? ",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           },
+           {
+            "id": "28/321211-337000",
+            "startTimeInSeconds": 321,
+            "endTimeInSeconds": 337,
+            "text": "Yes. Nearly all novels explore universal concepts that everyone has witnessed, things like love, family, loneliness, friendship. These are called themes. The Secret Garden has a few themes that all concentrate on the idea of connections. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "29/337914-349426",
+            "startTimeInSeconds": 337,
+            "endTimeInSeconds": 349,
+            "text": "The novel explores, for example, the way that health can determine and be determined by our outlook on life. As Colin's health conditions get improved, so do his perceptions of his strength and possibility. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "health",
+         "blankId": "cd5xjXV3Wfi60D9cPJqgB"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp đến là \",\"marks\":[]},{\"text\":\"mối liên hệ thứ 2 \",\"marks\":[],\"bold\":true},{\"text\":\"( ___ and well-being)\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo giáo viên, ''The author also examines \"},{\"text\":\"the relationship between our surroundings\",\"bold\":true},{\"text\":\" and our \"},{\"text\":\"physical and spiritual prosperity\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mối quan hệ thứ hai là \"},{\"text\":\"giữa môi trường\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"sức khỏe\",\"bold\":true},{\"text\":\" của chúng ta (physical and spiritual prosperity = well-being)\\n=> \"},{\"text\":\"Đáp án: surroundings\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 349,
+          "endTimeInSeconds": 365,
+          "transcripts": [
+           {
+            "id": "30/349426-365241",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 365,
+            "text": "The author also examines the relationship between our surroundings and our physical and spiritual prosperity. The dark, cramped rooms of the manor house stifle the development of our protagonists; the garden and natural environments allow them to blossom, just as the flowers do. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           }
+          ]
+         },
+         "value": "surroundings",
+         "blankId": "p9MfMAB6X6wrIb99B7bA3"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đến với mối liên hệ cuối cùng (Individuals and the need for ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Finally, this book looks at the \"},{\"text\":\"connections between individuals\",\"bold\":true},{\"text\":\", namely Mary and Colin.''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''This \"},{\"text\":\"necessity of human companionship\",\"bold\":true},{\"text\":\" is the novel's \"},{\"text\":\"most important\",\"bold\":true},{\"text\":\" theme ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mối quan hệ là\"},{\"text\":\" giữa các cá nhân\",\"bold\":true},{\"text\":\" (individuals) và \"},{\"text\":\"sự cần thiết có tình bạn\",\"bold\":true},{\"text\":\" (necessity là danh từ của need)\\n=> \"},{\"text\":\"Đáp án: human companionships \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 365,
+          "endTimeInSeconds": 386,
+          "transcripts": [
+           {
+            "id": "31/365241-381953",
+            "startTimeInSeconds": 365,
+            "endTimeInSeconds": 381,
+            "text": "Finally, this book looks at the connections between individuals, namely Mary and Colin. This necessity of human companionship is the novel's most important theme because none of their development as individuals would have appeared without their knowing each other. Well, that about sums it up, I think. ",
+            "character": {
+             "id": "_eR4-s_SpJ6Kt2RZrkplu",
+             "name": "Professor"
+            }
+           },
+           {
+            "id": "32/381953-384486",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 384,
+            "text": "That's a great help, thanks. ",
+            "character": {
+             "id": "f4TmK6Jhbn_sgUI42Urcs",
+             "name": "Lorna"
+            }
+           },
+           {
+            "id": "33/384486-386150",
+            "startTimeInSeconds": 384,
+            "endTimeInSeconds": 386,
+            "text": "Yes, thanks very much.",
+            "character": {
+             "id": "8bZFNCZ2ySXaeU2yrvZ0P",
+             "name": "Ian"
+            }
+           }
+          ]
+         },
+         "value": "human companionship",
+         "blankId": "DFrE2e0C5e720twuyQ0uo"
+        }
+       ],
+       "paragraph": {
+        "id": "OS-IQm6kKrbQOFyrdIyYt",
+        "editorValue": "[{\"children\":[{\"text\":\"Novel:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"21_____\"}],\"id\":\"4oMEVh8RzbDlzJVx9KlAK\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Protagonists: \",\"bold\":true},{\"text\":\"Mary Lennox; Colin Craven\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Period of Time: \",\"bold\":true},{\"text\":\"Early in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"22_____\"}],\"id\":\"NW3VcbRxpLpcHDuWe5Ml8\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Plot: \",\"bold\":true},{\"text\":\"Mary → UK → meet Colin who thinks he’ll never be capable of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"23_____\"}],\"id\":\"e2tWXObeJphWkt-EC5KxW\"},{\"text\":\". But when then they become friends.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Point of view: \",\"bold\":true},{\"text\":\"‘omniscient narrator’ knows all about characters’ feelings, opinions and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"24_____\"}],\"id\":\"p_ONVqgszmQRDWHrM0ZgG\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Audience: \",\"bold\":true},{\"text\":\"Good for children - story simple to follow\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Symbols\",\"bold\":true},{\"text\":\" (physical items that represent \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"25_____\"}],\"id\":\"HSavJsZn058IvR2zf7oBq\"},{\"text\":\")\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The robin redbreast\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"26_____\"}],\"id\":\"zqXb9V-33M_LfG66LckqP\"},{\"text\":\"\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The portrait of Mistress Craven\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Motifs\",\"bold\":true},{\"text\":\" (pattern on the story):\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The Garden of Eden\"}]}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Secrecy - metaphorical and literal transition from \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"27_____\"}],\"id\":\"iQgG0zrWrENbaWmyoXlau\"},{\"text\":\"\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Themes:\",\"bold\":true},{\"text\":\" Connections between\"}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"28_____\"}],\"id\":\"cd5xjXV3Wfi60D9cPJqgB\"},{\"text\":\" and outlook\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"29_____\"}],\"id\":\"p9MfMAB6X6wrIb99B7bA3\"},{\"text\":\" and well-being\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Individuals and the need for \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"30_____\"}],\"id\":\"DFrE2e0C5e720twuyQ0uo\"},{\"text\":\"\"}]}]}]}]}]}]",
+        "blanks": [
+         {
+          "id": "4oMEVh8RzbDlzJVx9KlAK",
+          "key": 0
+         },
+         {
+          "id": "NW3VcbRxpLpcHDuWe5Ml8",
+          "key": 1
+         },
+         {
+          "id": "e2tWXObeJphWkt-EC5KxW",
+          "key": 2
+         },
+         {
+          "id": "p_ONVqgszmQRDWHrM0ZgG",
+          "key": 3
+         },
+         {
+          "id": "HSavJsZn058IvR2zf7oBq",
+          "key": 4
+         },
+         {
+          "id": "zqXb9V-33M_LfG66LckqP",
+          "key": 5
+         },
+         {
+          "id": "iQgG0zrWrENbaWmyoXlau",
+          "key": 6
+         },
+         {
+          "id": "cd5xjXV3Wfi60D9cPJqgB",
+          "key": 7
+         },
+         {
+          "id": "p9MfMAB6X6wrIb99B7bA3",
+          "key": 8
+         },
+         {
+          "id": "DFrE2e0C5e720twuyQ0uo",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Job Satisfaction Study",
+   "duration": 6,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "56dbb9f0-2754-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "56dbb9f1-2754-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"workers làm việc ở đâu \",\"bold\":true},{\"text\":\"(were hired at a ___) \\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''For this reason, \"},{\"text\":\"employees at a call centre had been interviewed\",\"bold\":true},{\"text\":\" by filling in a questionnaire about their work.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ\"},{\"text\":\" làm việc ở call centre\",\"bold\":true},{\"text\":\" (trung tâm cuộc gọi)\\n=>\"},{\"text\":\" Đáp án: call centre \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 52,
+          "endTimeInSeconds": 85,
+          "transcripts": [
+           {
+            "id": "0/52920-67724",
+            "startTimeInSeconds": 52,
+            "endTimeInSeconds": 67,
+            "text": "Hello, everyone! Today, I would like to talk about an assignment that I did recently. The brief of my presentation was to analyse the methods used in a small survey about job satisfaction and then to put forward some suggestions for further researches in the similar field. "
+           },
+           {
+            "id": "1/67724-76576",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 76,
+            "text": "The correlation between differences in gender and differences in working hours, and levels of job satisfaction among employees have been investigated in the study I conducted. "
+           },
+           {
+            "id": "2/76576-85382",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 85,
+            "text": "For this reason, employees at a call centre had been interviewed by filling in a questionnaire about their work. Now, I'll briefly introduce the summary of the study findings."
+           }
+          ]
+         },
+         "value": "call centre",
+         "blankId": "AgD1UyfXizya_O195o1Wb"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, người nói chỉ ra \"},{\"text\":\"sự khác biệt giữa các nhóm\",\"bold\":true},{\"text\":\", '' ... \"},{\"text\":\"female full-time workers\",\"bold\":true},{\"text\":\" gained slightly higher levels of job satisfaction than \"},{\"text\":\"male ones\",\"bold\":true},{\"text\":\".'' \\n=> Ứng với vế trước của câu hỏi (In spite of some obvious\"},{\"text\":\" differences between groups\",\"bold\":true},{\"text\":\" of workers,...) \\n=> Mình biết đáp án sẽ tới\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, người nói kết luận chung là ''...perhaps the most crucial thing to mention here is that\"},{\"text\":\" in statistical terms they were inconclusive\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Về mặt số liệu thống kê\",\"bold\":true},{\"text\":\" thì chúng\"},{\"text\":\" chưa chắc chắn\",\"bold\":true},{\"text\":\" (người nói dùng in \"},{\"text\":\"statistical terms\",\"bold\":true},{\"text\":\" thay cho \"},{\"text\":\"statistically\",\"bold\":true},{\"text\":\")\\n=> \"},{\"text\":\"Đáp án: inconclusive \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 85,
+          "endTimeInSeconds": 122,
+          "transcripts": [
+           {
+            "id": "3/85382-103952",
+            "startTimeInSeconds": 85,
+            "endTimeInSeconds": 103,
+            "text": "One primary conclusion I've got is female full-time workers gained slightly higher levels of job satisfaction than male ones. More interestingly, among all the female workers, female workers on a part-time basis reported somewhat higher levels of satisfaction than the full-time ones did. "
+           },
+           {
+            "id": "4/103952-122017",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 122,
+            "text": "On the contrary, from the perspective of male employees, part-time male workers held slightly less job satisfaction than how much the full-time ones felt. Although it seemed these results sounded interesting and capable of explanation, perhaps the most crucial thing to mention here is that in statistical terms they were inconclusive."
+           }
+          ]
+         },
+         "value": "inconclusive",
+         "blankId": "qkNGyvWIAMZJs9BZQ2B-y"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" người nói phân tích cái gì của bài nghiên cứu để tìm ra vấn đề \",\"bold\":true},{\"text\":\"(The speaker analysed the study’s ___ )\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''Therefore, I can \"},{\"text\":\"pay higher attention to\",\"bold\":true},{\"text\":\" the \"},{\"text\":\"methodology \",\"bold\":true},{\"text\":\"applied by the researchers, to \"},{\"text\":\"figure out where problems may have aroused\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người nói đã \"},{\"text\":\"phân tích phương pháp\",\"bold\":true},{\"text\":\" \"},{\"text\":\"luận \",\"bold\":true},{\"text\":\"của các nhà nghiên cứu \"},{\"text\":\"để tìm ra vấn đề \",\"bold\":true},{\"text\":\"(analyse = pay attention to, identify = figure out) \\n=> \"},{\"text\":\"Đáp án: methodology \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 122,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "5/122017-133027",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 133,
+            "text": "I was personally shocked at the fact that the results hadn't been more definite, because I would have predicted to see both men and women, as well as full and part-time workers, would go into various levels of satisfaction. "
+           },
+           {
+            "id": "6/133027-144601",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 144,
+            "text": "Therefore, I can pay higher attention to the methodology applied by the researchers, to figure out where problems may have aroused. So, the next part of the presentation today is detailed aspects of what I found."
+           }
+          ]
+         },
+         "value": "methodology",
+         "blankId": "sgUzMOcv5CR98LcyYtwwr"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng của câu là \"},{\"text\":\"kích cỡ của subgroups \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''But they had to be divided up into several \"},{\"text\":\"subgroups\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói nhận xét là ''Also, \"},{\"text\":\"between \",\"bold\":true},{\"text\":\"those separate \"},{\"text\":\"subgroups\",\"bold\":true},{\"text\":\", \"},{\"text\":\"the numbers were unequal\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Những subgroups này \"},{\"text\":\"khác nhau về số lượng\",\"bold\":true},{\"text\":\" (unequal).\\n=>\"},{\"text\":\" Đáp án: unequal \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 144,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "7/144601-159427",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 159,
+            "text": "First, it is probable that the sample size was too small since the total number of workers who did the questionnaire in the survey was 223, which perhaps sounds quite a lot. But they had to be divided up into several subgroups."
+           },
+           {
+            "id": "8/159427-174478",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 174,
+            "text": "Also, between those separate subgroups, the numbers were unequal. For instance, in the fulltime group there were 154 samples, but only 69 in the part-time group. And only 10 of them in the part-time group were male, compared to the rest of 59 who were female. "
+           }
+          ]
+         },
+         "value": "unequal",
+         "blankId": "1zDhhHSG31yyTtHhlZMAr"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về các\"},{\"text\":\" workers trong part-time group \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''For instance, in the fulltime group there were 154 samples, but only \"},{\"text\":\"69 in the part-time group\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vậy trong số 69 người này, ''And\"},{\"text\":\" only 10 of them\",\"bold\":true},{\"text\":\" in the part-time group \"},{\"text\":\"were male\",\"bold\":true},{\"text\":\", compared to the rest of \"},{\"text\":\"59 who were female\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong part-time group chỉ có \"},{\"text\":\"10 người là nam,\",\"bold\":true},{\"text\":\" còn \"},{\"text\":\"59 người là nữ,\",\"bold\":true},{\"text\":\" tức \"},{\"text\":\"nữ chiếm đa số.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án:  female \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 159,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "8/159427-174478",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 174,
+            "text": "Also, between those separate subgroups, the numbers were unequal. For instance, in the fulltime group there were 154 samples, but only 69 in the part-time group. And only 10 of them in the part-time group were male, compared to the rest of 59 who were female. "
+           }
+          ]
+         },
+         "value": "female",
+         "blankId": "ZFiZqh5WQYk0TC-oizpuK"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cái gì của workers gây thất vọng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '\"},{\"text\":\"'In addition\",\"bold\":true},{\"text\":\", although quite a large quantity of workers were interviewed in the survey ...'' (bạn có thể để ý từ nối in addition chỉ ý tiếp theo)\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''the \"},{\"text\":\"response has been disappointingly low\",\"bold\":true},{\"text\":\", with a couple of them just ignoring the invitation.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cái mà \"},{\"text\":\"gây thất vọng\",\"bold\":true},{\"text\":\" là \"},{\"text\":\"sự phản hồi của người tham gia.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: response \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 174,
+          "endTimeInSeconds": 197,
+          "transcripts": [
+           {
+            "id": "9/174478-183664",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 183,
+            "text": "In addition, although quite a large quantity of workers were interviewed in the survey, the response has been disappointingly low, with a couple of them just ignoring the invitation."
+           },
+           {
+            "id": "10/183664-197882",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 197,
+            "text": "And workers who did respond may have differed in important perspectives from those who didn't. Also, as the questionnaires had been posted to the call centre for distribution, the researchers had had minimal control over the conditions in which participants completed them. "
+           }
+          ]
+         },
+         "value": "response",
+         "blankId": "PKzBvT_maR542_WrE4hsK"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"researchers đã không thể làm gì \\n\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là '' Also, as the \"},{\"text\":\"questionnaires \",\"bold\":true},{\"text\":\"had been posted to the call centre for distribution, the \"},{\"text\":\"researchers had had minimal control over\",\"bold\":true},{\"text\":\" the \"},{\"text\":\"conditions in which participants completed them\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do bộ câu hỏi được chuyển thẳng tới call centre, các nhà nghiên cứu \"},{\"text\":\"không kiểm soát được môi trường mà người tham gia trả lời questionnaire \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: control \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 210,
+          "transcripts": [
+           {
+            "id": "10/183664-197882",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 197,
+            "text": "And workers who did respond may have differed in important perspectives from those who didn't. Also, as the questionnaires had been posted to the call centre for distribution, the researchers had had minimal control over the conditions in which participants completed them. "
+           },
+           {
+            "id": "11/197882-210830",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 210,
+            "text": "For example, their responses to questions may have caused the results to be biased.\nIn the last part of my assignment, there were some possible suggestions made for a similar study, which attempts to remove the problems that I've just mentioned before."
+           }
+          ]
+         },
+         "value": "control",
+         "blankId": "gs8Sy8x0Ip3CZLyG6f-U3"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ba câu cuối cùng sẽ là về \"},{\"text\":\"cách cải thiện phương pháp luận\",\"bold\":true},{\"text\":\" (the overall size of the ___ should be increased)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''In the last part of my assignment, there were \"},{\"text\":\"some possible suggestions\",\"bold\":true},{\"text\":\" made for a similar study, ...'' (gợi ý để cải thiện)\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ý đầu tiên là ''First, a target \"},{\"text\":\"sample size\",\"bold\":true},{\"text\":\" \"},{\"text\":\"should be much larger\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Nhóm đối tượng nghiên cứu lên lớn hơn \",\"bold\":true},{\"text\":\"(ý nói cần nhiều người tham gia hơn) \\n=> \"},{\"text\":\"Đáp án: sample \",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 197,
+          "endTimeInSeconds": 226,
+          "transcripts": [
+           {
+            "id": "11/197882-210830",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 210,
+            "text": "For example, their responses to questions may have caused the results to be biased.\nIn the last part of my assignment, there were some possible suggestions made for a similar study, which attempts to remove the problems that I've just mentioned before."
+           },
+           {
+            "id": "12/210830-226528",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 226,
+            "text": "First, a target sample size should be much larger, and consideration should be taken to make sure equal numbers of both genders and both full-time and part-time workers are surveyed. Second, the researchers should recheck that they are present to administer the questionnaires to the workers themselves."
+           }
+          ]
+         },
+         "value": "sample",
+         "blankId": "wOJtouXtl5-bzoSYPd97j"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đây là \"},{\"text\":\"cách cải thiện thứ hai \",\"bold\":true},{\"text\":\"(workers should be prevented from having discussions with ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau khi bạn nghe thấy từ nối ''\"},{\"text\":\"Second\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vậy mình nghe được là ''And they \"},{\"text\":\"should require the workers\",\"bold\":true},{\"text\":\" \"},{\"text\":\"to complete\",\"bold\":true},{\"text\":\" the questionnaire \"},{\"text\":\"under supervised conditions\",\"bold\":true},{\"text\":\" so that the likelihood of the impacts from other colleagues is eliminated.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ cần \"},{\"text\":\"giám sát workers, để tránh trao đổi\",\"bold\":true},{\"text\":\" với các đồng nghiệp.\\n=> \"},{\"text\":\"Đáp án: other colleagues \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Các bạn\",\"marks\":[]},{\"text\":\" tránh điền nhầm 'researchers\",\"marks\":[],\"bold\":true},{\"text\":\"' vì trong bài nói\",\"marks\":[]},{\"text\":\" researchers nên có mặt để phát câu hỏi, \",\"marks\":[],\"bold\":true},{\"text\":\"chứ \",\"marks\":[]},{\"text\":\"không phải discuss với workers\",\"marks\":[],\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "12/210830-226528",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 226,
+            "text": "First, a target sample size should be much larger, and consideration should be taken to make sure equal numbers of both genders and both full-time and part-time workers are surveyed. Second, the researchers should recheck that they are present to administer the questionnaires to the workers themselves."
+           },
+           {
+            "id": "13/226528-234503",
+            "startTimeInSeconds": 226,
+            "endTimeInSeconds": 234,
+            "text": "And they should require the workers to complete the questionnaire under supervised conditions so that the likelihood of the impacts from other colleagues is eliminated. "
+           }
+          ]
+         },
+         "value": "other colleagues",
+         "blankId": "g8rOcMto8dfMeaNEvyqd4"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đây là \"},{\"text\":\"cách cuối cùng \",\"bold\":true},{\"text\":\"(Workers should be reassured that their responses to questions are ...)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"Finally\",\"bold\":true},{\"text\":\", ...''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, '' ... it's critical that the\"},{\"text\":\" researchers reassure their responses will keep confidential\",\"bold\":true},{\"text\":\", and also that they have the right to withdraw from the study at any time if they want to.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Workers cần được đảm bảo là \"},{\"text\":\"responses của họ được giữ bí mật\",\"bold\":true},{\"text\":\" (confidential)\\n=> \"},{\"text\":\"Đáp án: confidential \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 234,
+          "endTimeInSeconds": 263,
+          "transcripts": [
+           {
+            "id": "14/234503-249768",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 249,
+            "text": "Finally, as workers may be unwilling to mention the details of their job satisfaction, when they are on work premises, it's critical that the researchers reassure their responses will keep confidential, and also that they have the right to withdraw from the study at any time if they want to. "
+           },
+           {
+            "id": "15/249768-257565",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 257,
+            "text": "In this case, it is possible that the responses to the questionnaires get increasing reliability and any comparisons that are made are more valid."
+           },
+           {
+            "id": "16/257565-263308",
+            "startTimeInSeconds": 257,
+            "endTimeInSeconds": 263,
+            "text": "Well, that was a summary of my assignment, does anyone have any questions?"
+           }
+          ]
+         },
+         "value": "confidential",
+         "blankId": "AK5oCIxGn15OB80bQORgo"
+        }
+       ],
+       "heading": "Job Satisfaction Study",
+       "paragraph": {
+        "id": "LkBEHyPLQTq6JzNfWDuwc",
+        "editorValue": "[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Workers involved in the study were hired at a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31_____\"}],\"id\":\"AgD1UyfXizya_O195o1Wb\"},{\"text\":\".\"}],\"type\":\"p\"}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In spite of some obvious differences between groups of workers, the survey was statistically \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"32_____\"}],\"id\":\"qkNGyvWIAMZJs9BZQ2B-y\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The speaker analysed the study’s \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"33_____\"}],\"id\":\"sgUzMOcv5CR98LcyYtwwr\"},{\"text\":\" to identify any problems with it.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The various subgroups were \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"34_____\"}],\"id\":\"1zDhhHSG31yyTtHhlZMAr\"},{\"text\":\" in size.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Workers in the part-time group were mainly \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"35_____\"}],\"id\":\"ZFiZqh5WQYk0TC-oizpuK\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36_____\"}],\"id\":\"PKzBvT_maR542_WrE4hsK\"},{\"text\":\" of workers who agreed to take part in the study was disappointing.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Researchers were unable to \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"37_____\"}],\"id\":\"gs8Sy8x0Ip3CZLyG6f-U3\"},{\"text\":\" the circumstances where employees filled out the questionnaire.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In future, the overall size of the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38_____\"}],\"id\":\"wOJtouXtl5-bzoSYPd97j\"},{\"text\":\" should be increased.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In the studies, workers should be prevented from having discussions with \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39_____\"}],\"id\":\"g8rOcMto8dfMeaNEvyqd4\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Workers should be reassured that their responses to questions are \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"40_____\"}],\"id\":\"AK5oCIxGn15OB80bQORgo\"},{\"text\":\".\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "AgD1UyfXizya_O195o1Wb",
+          "key": 0
+         },
+         {
+          "id": "qkNGyvWIAMZJs9BZQ2B-y",
+          "key": 1
+         },
+         {
+          "id": "sgUzMOcv5CR98LcyYtwwr",
+          "key": 2
+         },
+         {
+          "id": "1zDhhHSG31yyTtHhlZMAr",
+          "key": 3
+         },
+         {
+          "id": "ZFiZqh5WQYk0TC-oizpuK",
+          "key": 4
+         },
+         {
+          "id": "PKzBvT_maR542_WrE4hsK",
+          "key": 5
+         },
+         {
+          "id": "gs8Sy8x0Ip3CZLyG6f-U3",
+          "key": 6
+         },
+         {
+          "id": "wOJtouXtl5-bzoSYPd97j",
+          "key": 7
+         },
+         {
+          "id": "g8rOcMto8dfMeaNEvyqd4",
+          "key": 8
+         },
+         {
+          "id": "AK5oCIxGn15OB80bQORgo",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write"
+         },
+         {
+          "text": " NO MORE THAN TWO WORDS ",
+          "bold": true
+         },
+         {
+          "text": "for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:34Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

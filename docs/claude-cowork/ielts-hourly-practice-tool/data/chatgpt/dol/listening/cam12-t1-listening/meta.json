@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam12-t1-listening",
+ "title": "CAM IELTS 12 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 12",
+ "testNum": 1,
+ "order": 33,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-12-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Family Excursions",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0cc2a9a5-0eb4-4ec5-aeb4-e250672da0ff.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 12015790
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/a069f55e-8666-4070-b77e-573ff43126db.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 35
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Talk To New Kitchen Assistants",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fd319594-e27c-4073-949e-af3d5d44be3c.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 9802107
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b5e6190a-2fdf-4f58-a22d-46c90aef1e08.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 13
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Paper On Public Libraries",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9a13937e-9780-454b-80da-924cbf7ffd01.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 9558228
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/68dd6c66-c193-4b9e-833f-1211eb0ed331.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 26
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Four Business Values",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/535d7935-08df-4b28-8dc3-8e9a64f4e02e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 12678533
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a0c40bf2-67e3-41c1-be53-7d57ec906f29.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 15
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:42:55Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

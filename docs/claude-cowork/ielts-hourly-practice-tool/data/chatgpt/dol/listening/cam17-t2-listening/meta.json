@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam17-t2-listening",
+ "title": "CAM IELTS 17 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 17",
+ "testNum": 2,
+ "order": 14,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-17-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Opportunities for voluntary work in Southoe village",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/e4d71a20-9529-4ec3-9d4b-7e7796a60655.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 7579822
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/9173f112-3378-495d-9a42-eaf9521f50d5.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 68
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Oniton Hall",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/3bc25646-5bda-43a3-a697-b7d33bf881d0.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 7109446
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/a34759b5-26c6-4f6b-8270-6944d703f287.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 33
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Romeo and Juliet",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/2e1d8d49-0e84-4f90-8455-ee017be97eaf.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 6428485
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/6ee87538-2381-4a6d-9e7b-67557bc8dfa3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 62
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The impact of digital technology on the Icelandic language",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/b3b477e8-7cde-4096-8d84-dbf518684dcd.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6938476
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/b54e3d56-47be-45ac-b798-54bb130b963d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 30
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:36:17Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

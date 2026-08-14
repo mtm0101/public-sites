@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual5-t2-listening",
+ "title": "Actual Test 5 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 2,
+ "order": 92,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-5-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Transport From Bayswater",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/27930ffd-e634-4f03-b325-5acba586dc50.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 1446502
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/474b6bc6-fae7-48bb-afa9-87884e4c4977.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 40
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Advice On Saving Energy",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b73d0eac-0069-4791-be70-2ffd8890f54b.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 1349616
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a422ccd0-8e02-49e4-bc98-6ced762d47df.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 27
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Talking About Geography Assessment",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4cfd3e36-831a-4c90-93c1-177de20cc2e5.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 1232524
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ee7e89d4-c85a-4e5b-971b-5be2628db1a7.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 32
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Bird Of New Zealand",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9d729b7c-c465-413f-9628-d0f3289d180b.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 1053904
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/66ffa602-e917-41e2-9798-6942b75edb37.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 22
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:52:52Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

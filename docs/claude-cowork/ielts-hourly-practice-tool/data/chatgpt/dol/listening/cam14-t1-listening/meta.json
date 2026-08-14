@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam14-t1-listening",
+ "title": "CAM IELTS 14 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 14",
+ "testNum": 1,
+ "order": 25,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-14-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Crime Report Form",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/201a08f0-e82d-417c-a665-541800687f27.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 4237568
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e516394c-5ac3-4be6-82fd-199235a8bc77.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Induction Talk For New Apprentices",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/379bc752-8c64-4525-a136-e6d7dd18e2f8.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3277773
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ea67fe9c-4312-4981-b6c5-178e2d44e5ab.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Cities Built By The Sea",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a4d87882-5013-4f40-a8a0-582ee7dd44e1.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3492815
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5abcba72-26a7-4d2e-b052-45d3e857ce00.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 34
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Marine Renewable Energy (Ocean Energy)",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4aed4f61-239e-46d7-bf29-1d0d7492f83c.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 3951446
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/32d9f02a-e0d7-46e4-8a9c-b426fe922572.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:40:14Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

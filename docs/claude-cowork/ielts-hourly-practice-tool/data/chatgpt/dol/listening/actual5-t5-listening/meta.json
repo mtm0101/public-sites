@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual5-t5-listening",
+ "title": "Actual Test 5 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 5,
+ "order": 95,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-5-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Fruit Picking",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/16e8ea28-b073-440a-9fc9-353902c049f5.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 1250355
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aad38d55-68df-4263-afcb-99c2b5460f53.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 32
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Grace's Creek Activity Camp",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f2983861-1e9c-4a0c-ac53-0cab33f65cda.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 1105593
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1397e545-15b5-4a0c-a371-8084858d6d43.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 21
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Geography Dissertation",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fc16d4b8-a99c-45ad-be5c-c737f680c143.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 1269004
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fe76d34a-feda-412e-bd1d-c646fae428b7.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 61
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Chain Stores In The UK",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3fdb43b2-8129-447b-a35b-fae9fa89b509.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 1013398
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e6335f48-b616-40cf-b069-2260aaa91793.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 28
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:53:49Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

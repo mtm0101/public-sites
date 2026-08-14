@@ -1,0 +1,586 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 4.42,
+   "end": 5.48,
+   "text": "Test 3.",
+   "speaker": ""
+  },
+  {
+   "id": "c2",
+   "start": 6.78,
+   "end": 9.28,
+   "text": "This is the IELTS listening test.",
+   "speaker": ""
+  },
+  {
+   "id": "c3",
+   "start": 10.56,
+   "end": 16.3,
+   "text": "You will hear a number of different recordings and you will have to answer questions on what you hear.",
+   "speaker": ""
+  },
+  {
+   "id": "c4",
+   "start": 17.32,
+   "end": 24.26,
+   "text": "There will be time for you to read the instructions and questions and you will have a chance to check your work.",
+   "speaker": ""
+  },
+  {
+   "id": "c5",
+   "start": 25.3,
+   "end": 28.3,
+   "text": "All the recordings will be played once only.",
+   "speaker": ""
+  },
+  {
+   "id": "c6",
+   "start": 29.24,
+   "end": 31.4,
+   "text": "The test is in four parts.",
+   "speaker": ""
+  },
+  {
+   "id": "c7",
+   "start": 32.42,
+   "end": 38.78,
+   "text": "At the end of the test, you will be given ten minutes to transfer your answers to an answer sheet.",
+   "speaker": ""
+  },
+  {
+   "id": "c8",
+   "start": 41.02,
+   "end": 42.54,
+   "text": "Now turn to part one.",
+   "speaker": ""
+  },
+  {
+   "id": "c9",
+   "start": 47.68,
+   "end": 48.34,
+   "text": "Part one.",
+   "speaker": ""
+  },
+  {
+   "id": "c10",
+   "start": 49.96,
+   "end": 57.3,
+   "text": "You will hear a woman phoning the owner of a house she is going to rent about companies that she could rent furniture from.",
+   "speaker": ""
+  },
+  {
+   "id": "c11",
+   "start": 58.46,
+   "end": 62.5,
+   "text": "First, you have some time to look at questions one to five.",
+   "speaker": ""
+  },
+  {
+   "id": "c12",
+   "start": 92.59,
+   "end": 97.09,
+   "text": "Now listen carefully and answer questions one to five.",
+   "speaker": ""
+  },
+  {
+   "id": "c13",
+   "start": 100.36,
+   "end": 101.38,
+   "text": "Good morning.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c14",
+   "start": 101.94,
+   "end": 103.98,
+   "text": "Hi, this is Shelley Meyer.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c15",
+   "start": 104.38,
+   "end": 106.76,
+   "text": "I'm renting your house on Archwood Avenue.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c16",
+   "start": 107.32,
+   "end": 109.02,
+   "text": "I'm due to move in next week.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c17",
+   "start": 109.58,
+   "end": 111.2,
+   "text": "Oh yes, hello Ms. Meyer.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c18",
+   "start": 111.68,
+   "end": 112.7,
+   "text": "What can I do for you?",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c19",
+   "start": 113.22,
+   "end": 122.88,
+   "text": "When I viewed the house, I told you I'll most probably need to rent some furniture, at least until I know whether my temporary work contract is going to be made permanent.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c20",
+   "start": 123.58,
+   "end": 125.1,
+   "text": "Yes, of course, I remember.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c21",
+   "start": 125.66,
+   "end": 130.36,
+   "text": "And I said I could give you some information about furniture rental companies in the city.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c22",
+   "start": 130.8,
+   "end": 131.62,
+   "text": "That's right.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c23",
+   "start": 132.18,
+   "end": 135.4,
+   "text": "Well, the biggest company is called Peak Rentals.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c24",
+   "start": 135.98,
+   "end": 140.2,
+   "text": "I've recommended them to other people and have always heard positive reports about them.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c25",
+   "start": 140.54,
+   "end": 143.14,
+   "text": "Could you give me an idea of their costs?",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c26",
+   "start": 143.94,
+   "end": 144.3,
+   "text": "Sure.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c27",
+   "start": 144.56,
+   "end": 146.98,
+   "text": "I actually have one of their brochures here.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c28",
+   "start": 147.74,
+   "end": 155.0,
+   "text": "It says the monthly price per room starts at $105 and goes up to $239.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c29",
+   "start": 155.5,
+   "end": 159.3,
+   "text": "That depends on which rooms you need furniture for, of course.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c30",
+   "start": 159.72,
+   "end": 160.22,
+   "text": "Sure.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c31",
+   "start": 160.56,
+   "end": 164.22,
+   "text": "It's just to get a general idea of how much it's going to cost.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c32",
+   "start": 164.86,
+   "end": 168.82,
+   "text": "And you said you had some positive feedback about this company?",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c33",
+   "start": 169.54,
+   "end": 169.86,
+   "text": "Yes.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c34",
+   "start": 170.5,
+   "end": 177.0,
+   "text": "People have mentioned that the furniture from Peak Rentals is more modern than any of the other companies.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c35",
+   "start": 177.2,
+   "end": 183.54,
+   "text": "And also, once you place an order, the furniture will be delivered to you in just one or two days.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c36",
+   "start": 183.9,
+   "end": 185.52,
+   "text": "That would be really helpful.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c37",
+   "start": 186.44,
+   "end": 190.64,
+   "text": "Oh, and the brochure says that there's a special offer at the moment.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c38",
+   "start": 190.92,
+   "end": 201.0,
+   "text": "If you rent living room furniture, I believe that's a set of chairs and a TV table, you'll also get a lamp at no extra cost.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c39",
+   "start": 201.18,
+   "end": 206.6,
+   "text": "Okay, but you know, that price range you gave is more than I was hoping to pay.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c40",
+   "start": 207.14,
+   "end": 209.7,
+   "text": "Then you could try Aaron and Oliver.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c41",
+   "start": 210.06,
+   "end": 210.52,
+   "text": "Sorry.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c42",
+   "start": 211.1,
+   "end": 212.92,
+   "text": "What and Oliver?",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c43",
+   "start": 213.68,
+   "end": 214.04,
+   "text": "Aaron.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c44",
+   "start": 214.56,
+   "end": 217.0,
+   "text": "Double A-R-O-N.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c45",
+   "start": 217.14,
+   "end": 217.6,
+   "text": "Okay.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c46",
+   "start": 218.12,
+   "end": 219.36,
+   "text": "Are they cheaper?",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c47",
+   "start": 219.92,
+   "end": 222.24,
+   "text": "I'd say they're a mid-price company.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c48",
+   "start": 222.78,
+   "end": 230.0,
+   "text": "But if you chose them, you need to be aware that they charge an extra 12% every month in case of damage.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c49",
+   "start": 230.0,
+   "end": 231.32,
+   "text": "Oh, I see.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c50",
+   "start": 231.86,
+   "end": 234.08,
+   "text": "I'd have to do the math carefully then.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c51",
+   "start": 234.4,
+   "end": 234.82,
+   "text": "Right.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c52",
+   "start": 235.4,
+   "end": 239.36,
+   "text": "But one helpful thing is that they also do cleaning for customers.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c53",
+   "start": 239.78,
+   "end": 240.58,
+   "text": "For the furniture?",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c54",
+   "start": 241.14,
+   "end": 242.02,
+   "text": "For the house.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c55",
+   "start": 242.54,
+   "end": 243.36,
+   "text": "Oh, I see.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c56",
+   "start": 243.74,
+   "end": 245.36,
+   "text": "I probably won't need that.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c57",
+   "start": 248.33,
+   "end": 254.93,
+   "text": "Before you hear the rest of the conversation, you have some time to look at questions six to ten.",
+   "speaker": ""
+  },
+  {
+   "id": "c58",
+   "start": 289.93,
+   "end": 293.45,
+   "text": "Now listen and answer questions six to ten.",
+   "speaker": ""
+  },
+  {
+   "id": "c59",
+   "start": 296.66,
+   "end": 299.94,
+   "text": "There's another company called Larch Furniture.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c60",
+   "start": 300.38,
+   "end": 303.92,
+   "text": "It's quite new and it has the lowest prices in town.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c61",
+   "start": 304.6,
+   "end": 309.0,
+   "text": "That's for both furniture and also electronic equipment.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c62",
+   "start": 309.0,
+   "end": 310.08,
+   "text": "Well, that would be good.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c63",
+   "start": 310.84,
+   "end": 317.16,
+   "text": "I'm not bringing much with me and I won't have much time to go shopping after I start my job.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c64",
+   "start": 317.94,
+   "end": 321.24,
+   "text": "There are two things you need to know about Larch Furniture.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c65",
+   "start": 322.2,
+   "end": 328.0,
+   "text": "First of all, you have to take out insurance on the furniture and you need to organize that yourself.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c66",
+   "start": 328.0,
+   "end": 330.0,
+   "text": "That wouldn't be too hard.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c67",
+   "start": 330.16,
+   "end": 333.86,
+   "text": "Also, you can't take out a contract for less than six months.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c68",
+   "start": 334.36,
+   "end": 337.12,
+   "text": "But I figure that might not be a problem for you.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c69",
+   "start": 337.12,
+   "end": 340.88,
+   "text": "You're renting the house for 12 months after all, aren't you?",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c70",
+   "start": 341.22,
+   "end": 344.2,
+   "text": "Yes, okay, well...",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c71",
+   "start": 344.2,
+   "end": 345.1,
+   "text": "Sorry to interrupt.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c72",
+   "start": 345.8,
+   "end": 348.16,
+   "text": "I just thought of another furniture rental company.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c73",
+   "start": 348.62,
+   "end": 353.2,
+   "text": "It's called Space Rentals and it's located very near to the house.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c74",
+   "start": 353.64,
+   "end": 354.18,
+   "text": "Okay.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c75",
+   "start": 354.8,
+   "end": 363.02,
+   "text": "I don't have any information about their charges, so it's best to use their app to find out what it would cost you to use them.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c76",
+   "start": 363.2,
+   "end": 364.38,
+   "text": "Okay, thanks.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c77",
+   "start": 364.56,
+   "end": 365.3,
+   "text": "I'll do that.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c78",
+   "start": 366.0,
+   "end": 376.12,
+   "text": "One good thing about that company is that if you don't like the furniture once it's delivered, you can request exchanges, as long as you do that within a week of receiving it.",
+   "speaker": "LANDLORD"
+  },
+  {
+   "id": "c79",
+   "start": 376.42,
+   "end": 378.58,
+   "text": "That sounds really great.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c80",
+   "start": 379.24,
+   "end": 381.84,
+   "text": "Okay, well, thanks very much.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c81",
+   "start": 382.12,
+   "end": 383.24,
+   "text": "That's so helpful.",
+   "speaker": "SHELLEY"
+  },
+  {
+   "id": "c82",
+   "start": 386.68,
+   "end": 388.96,
+   "text": "That is the end of Part 1.",
+   "speaker": ""
+  },
+  {
+   "id": "c83",
+   "start": 389.42,
+   "end": 393.74,
+   "text": "You now have one minute to check your answers to Part 1.",
+   "speaker": ""
+  }
+ ]
+}

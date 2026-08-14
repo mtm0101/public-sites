@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam15-t2-listening",
+ "title": "CAM IELTS 15 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 15",
+ "testNum": 2,
+ "order": 22,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-15-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Festival Information",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L2_S1.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5890486
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6cf6b27e-5f31-48dc-9033-51415e8daf89.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Minster Park",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L2_S2.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5124726
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e8251927-6908-4b56-8f1f-f3ece38a64fc.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 19
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Cathy And Graham",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L2_S3.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 5173230
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/70a4ea7e-c843-447e-aaa8-c03cf4567476.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 41
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Agricultural Programme In Mozambique",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L2_S4.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6348182
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1b867147-32d7-4e96-a7d9-9fe2e6580bab.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 19
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:39:12Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

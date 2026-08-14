@@ -1,0 +1,292 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 128.935,
+   "end": 130.362,
+   "text": "Hello, is this John Murphy?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c2",
+   "start": 130.362,
+   "end": 131.728,
+   "text": "Hi, yes it is.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c3",
+   "start": 131.728,
+   "end": 139.958,
+   "text": "Hi John, this is Ed Heisenburg from the Wild Dunes Spa and Resort calling about your application for our lifeguard position.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c4",
+   "start": 139.958,
+   "end": 142.073,
+   "text": "Do you have a few minutes to talk?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c5",
+   "start": 142.073,
+   "end": 143.982,
+   "text": "Yes, absolutely",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c6",
+   "start": 143.982,
+   "end": 145.729,
+   "text": "Great. Could you give me your address?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c7",
+   "start": 145.729,
+   "end": 150.916,
+   "text": "Sure. My address is 45 Elsinore Court.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c8",
+   "start": 150.916,
+   "end": 153.738,
+   "text": "I’m sorry, was that Eleanor? Could you spell that for me?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c9",
+   "start": 153.738,
+   "end": 159.55,
+   "text": "Sure - it’s Elsinore. E-L-S-I-N-O-R-E.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c10",
+   "start": 159.55,
+   "end": 166.918,
+   "text": "Okay, thanks. And is this the number we should reach you at in the future? 099885767?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c11",
+   "start": 166.918,
+   "end": 176.63,
+   "text": "No, this is my home phone, but let me give you my mobile phone number instead: 077896245. Call me on that one.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c12",
+   "start": 176.63,
+   "end": 180.529,
+   "text": "Okay - I’ll make a note of that. Could you tell me your availability?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c13",
+   "start": 180.529,
+   "end": 184.465,
+   "text": "Sure. I am usually available during afternoons or weekends.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c14",
+   "start": 184.465,
+   "end": 189.695,
+   "text": "I would prefer not to be scheduled on weeknights because I work part-time as a waiter.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c15",
+   "start": 189.695,
+   "end": 196.289,
+   "text": "That shouldn’t be a problem, since we don’t stay open very late anyway. And do you have any other employment experience?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c16",
+   "start": 196.289,
+   "end": 203.852,
+   "text": "Yes, I have worked at a few other places. I was the baseball coach at Ridgemont High School last season.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c17",
+   "start": 203.852,
+   "end": 209.686,
+   "text": "I see. And do you have any other experience that you would like us to note on your application?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c18",
+   "start": 209.686,
+   "end": 213.677,
+   "text": "Yes. Last year I worked at the beach as a rescue diver.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c19",
+   "start": 213.677,
+   "end": 216.072,
+   "text": "Rescue diver? That sounds intense!",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c20",
+   "start": 216.072,
+   "end": 225.394,
+   "text": "Well, it’s really just like being a lifeguard, except in the ocean instead of a pool. So kind if like being a lifeguard at the world’s largest pool.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c21",
+   "start": 225.394,
+   "end": 226.227,
+   "text": "Haha. I see.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c22",
+   "start": 261.579,
+   "end": 267.017,
+   "text": "So could you tell me about the relevant skills you have? I’m guessing a lot, given your experience.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c23",
+   "start": 267.017,
+   "end": 271.007,
+   "text": "I am CPR certified and have 2 years of diving experience.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c24",
+   "start": 271.007,
+   "end": 278.36,
+   "text": "Great! It sounds like you are well qualified for this position. When does your CPR certification expire?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c25",
+   "start": 278.36,
+   "end": 287.541,
+   "text": "Hm. I think in November, but let me quickly check my CPR card… actually, it expires in October.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c26",
+   "start": 287.541,
+   "end": 293.295,
+   "text": "Okay, so regardless you have it through the end of the summer. When is your ideal time to work?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c27",
+   "start": 293.389,
+   "end": 300.249,
+   "text": "Since I work in the restaurant on weeknights, I like weekends best - specifically Saturday mornings.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c28",
+   "start": 300.249,
+   "end": 308.846,
+   "text": "I see. We do already have a lot of staff available on Saturdays, but I do need an early morning shift lifeguard.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c29",
+   "start": 308.846,
+   "end": 311.373,
+   "text": "How early could you work Saturday morning?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c30",
+   "start": 311.373,
+   "end": 315.29,
+   "text": "I can get there by 6.00 if need be.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c31",
+   "start": 315.29,
+   "end": 321.184,
+   "text": "You’ll be happy to know we open a little later than that, but I’ll put you down for Saturday morning here.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c32",
+   "start": 321.184,
+   "end": 324.032,
+   "text": "Oh awesome! I can’t wait to get started.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c33",
+   "start": 324.032,
+   "end": 327.487,
+   "text": "How about you come in next Saturday, the 12th?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c34",
+   "start": 327.487,
+   "end": 328.467,
+   "text": "That sounds good.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c35",
+   "start": 328.467,
+   "end": 337.73,
+   "text": "Great - We can figure out other shifts for you to work when you come in then. One last thing - just out of curiosity, where did you hear about us?",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c36",
+   "start": 337.73,
+   "end": 341.515,
+   "text": "I heard your ad on the radio while I was driving this morning.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c37",
+   "start": 341.515,
+   "end": 346.42,
+   "text": "You know, I think you’re the first person who has responded to our radio ads.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c38",
+   "start": 346.42,
+   "end": 349.641,
+   "text": "It’s almost always people who have seen us in the newspaper.",
+   "speaker": "Employer"
+  },
+  {
+   "id": "c39",
+   "start": 349.641,
+   "end": 353.162,
+   "text": "Yeah, I don’t have time to read through the newspaper every morning.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c40",
+   "start": 353.162,
+   "end": 356.788,
+   "text": "I have plenty of time in the car to listen to radio ads.",
+   "speaker": "Applicant"
+  },
+  {
+   "id": "c41",
+   "start": 356.788,
+   "end": 362.056,
+   "text": "That makes sense. Well, thanks for your time, and we’ll look forward to seeing you on the 12th.",
+   "speaker": "Employer"
+  }
+ ]
+}

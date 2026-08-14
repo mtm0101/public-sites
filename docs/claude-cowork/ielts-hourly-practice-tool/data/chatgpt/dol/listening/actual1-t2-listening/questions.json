@@ -1,0 +1,1995 @@
+{
+ "schema": 1,
+ "id": "actual1-t2-listening",
+ "title": "Actual Test 1 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 2,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-1-test-2-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-1-test-2-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Notes Of Customer Information",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "657955e7-75af-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "657955e8-75af-11ec-bae1-ff5a5f528e78",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"một dịch vụ được bao gồm \",\"bold\":true},{\"text\":\"(Included services: ___ and accommodation)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Khi bạn nghe \\\"Would you like to arrange \"},{\"text\":\"flights and accommodation\",\"bold\":true},{\"text\":\" with us, \"},{\"text\":\"or just accommodation?\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó khách hàng trả lời \\\"OK, \"},{\"text\":\"flights and accommodation\",\"bold\":true},{\"text\":\" then.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng yêu cầu cả \"},{\"text\":\"flights \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"accommodation\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: flights \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 139,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "3/139938-146932",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 146,
+            "text": " These holidays are becoming increasingly popular. Would you like to arrange flights and accommodation with us, or just accommodation?",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "4/146932-149250",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 149,
+            "text": " Can you arrange flights from Sydney? ",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "5/149250-150282",
+            "startTimeInSeconds": 149,
+            "endTimeInSeconds": 150,
+            "text": " Certainly.",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "6/150282-152631",
+            "startTimeInSeconds": 150,
+            "endTimeInSeconds": 152,
+            "text": " OK, flight and accommodation then.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "flights",
+         "blankId": "a8X1YDGnsiUk34HmIrYbp"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" thời gian tới Sydney \",\"bold\":true},{\"text\":\"( 15th of ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Well, we \",\"marks\":[]},{\"text\":\"arrive in Sydney\",\"marks\":[],\"bold\":true},{\"text\":\" on the \",\"marks\":[]},{\"text\":\"15th of April\",\"marks\":[],\"bold\":true},{\"text\":\"\\\" \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Đáp án: April\",\"marks\":[],\"bold\":true},{\"text\":\" \",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 152,
+          "endTimeInSeconds": 171,
+          "transcripts": [
+           {
+            "id": "7/152631-163648",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 163,
+            "text": " Right. You said that you wanted to travel next month. Which date would you prefer? I should point out that there are no daily ﬂights available, so if you have a flexible itinerary, that’s better.",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "8/163648-171937",
+            "startTimeInSeconds": 163,
+            "endTimeInSeconds": 171,
+            "text": " Well, we arrive in Sydney on the 15th of April and we were thinking of travelling to the Outback on the 18th of August, er... I mean April.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "April",
+         "blankId": "sU-9JFbrf5Zg_dKj94eTn"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"tiêu chí chỗ ở \",\"bold\":true},{\"text\":\"(Accomadation criteria: ___ )\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"we can’t decide between \"},{\"text\":\"the budget and standard options\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chưa quyết định được nên chọn \"},{\"text\":\"budget hay standard \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhưng sau đó lại nghe \\\"there is \"},{\"text\":\"no standard accommodation available\",\"bold\":true},{\"text\":\". It’s \"},{\"text\":\"fully booked\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không còn \\\"\"},{\"text\":\"standard\",\"bold\":true},{\"text\":\"\\\" \\n=> \"},{\"text\":\"Chỉ còn budget \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"We think that \"},{\"text\":\"the cheapest\",\"bold\":true},{\"text\":\" one should be fine for us.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng muốn chọn \"},{\"text\":\"gói rẻ nhất\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: cheapest/ budget\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (budget cũng là gói rẻ nhất trong 3 gói) \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 228,
+          "transcripts": [
+           {
+            "id": "11/183359-204632",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 204,
+            "text": " As for your stay in the Outback, you can see from the brochure that we oﬀer three packages - budget, standard, and luxury. The budget package is about 500 Australian dollars. The standard package is about 700 and the luxury one is approximately 1,000, though it does depend on exactly what you would like regarding extras. Which one would you prefer?",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "12/204632-208104",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 208,
+            "text": " Well, we can’t decide between the budget and standard options.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "13/208104-218018",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 218,
+            "text": " Ah, well, actually, just looking at my computer here, on the date that you want to ﬂy into Alice Springs, there is no standard accommodation available. It’s fully booked, I’m afraid.",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "14/218018-228926",
+            "startTimeInSeconds": 218,
+            "endTimeInSeconds": 228,
+            "text": " That’s OK. We think that the cheapest one should be ﬁne for us. We don’t mind roughing it for a few days and we don’t expect to be spending much time at the accommodation. We prefer the outdoors.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "cheapest/budget",
+         "blankId": "fZ8rc2BPJsw4L4tAL2U0r"
+        }
+       ],
+       "heading": "NOTES OF CUSTOMER INFORMATION",
+       "paragraph": {
+        "id": "AGs36PtCYmRag3r0vvDyz",
+        "editorValue": "[{\"type\":\"p\",\"children\":[{\"text\":\"Example                                                         Answer\",\"marks\":[],\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Information source:                                      found the \"},{\"text\":\"brochure\",\"underline\":true,\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Included services                                     \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"a8X1YDGnsiUk34HmIrYbp\"},{\"text\":\"and accommodation.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sydney arrival date:                                    15th of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"sU-9JFbrf5Zg_dKj94eTn\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Accommodation criteria:                          \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"fZ8rc2BPJsw4L4tAL2U0r\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "a8X1YDGnsiUk34HmIrYbp",
+          "key": 0
+         },
+         {
+          "id": "sU-9JFbrf5Zg_dKj94eTn",
+          "key": 1
+         },
+         {
+          "id": "fZ8rc2BPJsw4L4tAL2U0r",
+          "key": 2
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below write "
+         },
+         {
+          "text": "ONE WORD only ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "657955e9-75af-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "YA1zyq2LZ_y1vC84Efu7m",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" loại phòng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Let’s look at the \"},{\"text\":\"room options\",\"bold\":true},{\"text\":\".\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"would you prefer a \"},{\"text\":\"non-smoking room\",\"bold\":true},{\"text\":\"?\\\"  và sau đó vị khách đồng ý \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: non-smoking \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 228,
+          "endTimeInSeconds": 280,
+          "transcripts": [
+           {
+            "id": "15/228983-231268",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 231,
+            "text": " Right. Let’s look at the room options. ",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "16/275777-278272",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 278,
+            "text": " First of all, would you prefer a non smoking room?",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "17/278272-280355",
+            "startTimeInSeconds": 278,
+            "endTimeInSeconds": 280,
+            "text": " Yes. Neither of us smokes.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "non-smoking",
+         "blankId": "-2FeTBfVsfE9vzP9JWngo"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên riêng\",\"bold\":true},{\"text\":\" \"},{\"text\":\"chủ sở hữu thẻ tín dụng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"I’ll need your \"},{\"text\":\"husband’s name\",\"bold\":true},{\"text\":\" exactly as\"},{\"text\":\" it appears on the card\",\"bold\":true},{\"text\":\".\\\" (Tôi sẽ cần tên của chồng bạn chính xác như tên trên thẻ.) là biết đáp án sắp vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"It's \"},{\"text\":\"John A. Smyth\",\"bold\":true},{\"text\":\".\\\"  và nghe phần đánh vần \\\"\"},{\"text\":\"S-M-Y-T-H\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: John A. Smyth \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 288,
+          "endTimeInSeconds": 308,
+          "transcripts": [
+           {
+            "id": "22/288150-292347",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 292,
+            "text": " In that case, I’ll need your husband’s name exactly as it appears on the card. ",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "23/292347-296565",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 296,
+            "text": " Of course. It’s John A. Smyth. That’s Smyth with a “Y”.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "24/296565-307165",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 307,
+            "text": " John ... middle initial “A”... surname Smyth, S-M-Y-T-H. Is that correct? ",
+            "character": {
+             "id": "VyQBiPQz5X_a7J1qoDP78",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "25/307165-308635",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 308,
+            "text": " Correct.",
+            "character": {
+             "id": "ewDopioc1ew17J8t_fXTs",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "John A. Smyth/John A Smyth",
+         "blankId": "4bhTmUdRXswyZE044txoP"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"giá phòng một đêm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"I’ll just check the \"},{\"text\":\"price\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The room will cost 100 dollars a night plus 10 dollars tax,\"},{\"text\":\" so 110 dollars per night in total.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phòng sẽ có giá 100 đô la một đêm cộng với 10 đô la thuế, như vậy tổng cộng \"},{\"text\":\"110 đô la một đêm\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 110 dollars/$110 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 318,
+          "transcripts": [
+           {
+            "id": "26/308635-318553",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 318,
+            "text": " Thank you. I’ll just check the price. The room will cost 100 dollars a night plus 10 dollars tax, so 110 dollars per night in total. Is that OK?",
+            "character": {
+             "id": "J2utdA7CaHOPkoefsIueG",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "110 dollars/$110",
+         "blankId": "yaXwQUd806iINrVDFH6vr"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "-2FeTBfVsfE9vzP9JWngo",
+         "key": 0
+        },
+        {
+         "id": "4bhTmUdRXswyZE044txoP",
+         "key": 1
+        },
+        {
+         "id": "yaXwQUd806iINrVDFH6vr",
+         "key": 2
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"hlgIW3e2hKnutGajxl6l1\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"CgTEFjCJ8cXEqzwlk5ZmG\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Room type:\"}]}]}],\"id\":\"DR38BA-FOZsGh0_qpjWfF\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"-2FeTBfVsfE9vzP9JWngo\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"p2UlJe6sA5jMFd7QqxxBy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pjWls83edz4qaLSVH0B1U\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Credit card holder:\"}]}]}],\"id\":\"cbFjg16QJDnkFMH7d85Ge\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"4bhTmUdRXswyZE044txoP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"6YeihfBFrobJ5P2kLwvcz\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"M0iUh-EtsRiD6KNJ_zPnZ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Total cost for one night:\"}]}]}],\"id\":\"pTlgEAP8ZOZba_8s7YpE5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"yaXwQUd806iINrVDFH6vr\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"hp1SN3B4D_imtD3ZEd1yn\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true,\"hasRowHeading\":false,\"hasColumnHeading\":true}]",
+       "question": "BOOKING INFORMATION"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "65797cfa-75af-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "65797cfb-75af-11ec-bae1-ff5a5f528e78",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"một địa điểm ở gần \",\"bold\":true},{\"text\":\"(The ___ is within walking distance of the accommodation) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\\"there are several\"},{\"text\":\" things we’d like to see and do\",\"bold\":true},{\"text\":\"\\\" (đề cập tới nơi để đi) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe \\\"We’d definitely like to visit \"},{\"text\":\"the Cultural Centre\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe \\\"It’s \"},{\"text\":\"within walking distance of the accommodation\",\"bold\":true},{\"text\":\" and it’s free.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cultural Centre ở gần chỗ ở \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: Cultural Centre/Cultural Center \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 345,
+          "transcripts": [
+           {
+            "id": "29/330765-336670",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 336,
+            "text": " Yes, there are several things we’d like to see and do. We’d deﬁnitely like to visit the Cultural Centre.",
+            "character": {
+             "id": "L0pO4C7fujz1Z1exKbAuj",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "30/336670-345302",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 345,
+            "text": " Yes, that’s very popular. It’s within walking distance of the accommodation and it’s free. It’s also a great place to pick up souvenirs of your trip.",
+            "character": {
+             "id": "J2utdA7CaHOPkoefsIueG",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "Cultural Centre/Cultural Center",
+         "blankId": "xCFk5aLYUrRcB7USBoTIN"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"thứ mà khách hàng đặt chỗ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên khách hàng được giới thiệu về 2 hoạt động là \",\"marks\":[]},{\"text\":\"\\\"camel ride\\\"\",\"marks\":[],\"bold\":true},{\"text\":\" và \",\"marks\":[]},{\"text\":\"\\\"kangaroo farm\\\" \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó hàng đã chọn \\\"OK, we’ll go on \"},{\"text\":\"the camel ride\",\"bold\":true},{\"text\":\" and see the kangaroos in their natural habitat.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng \"},{\"text\":\"muốn đặt chương trình cưỡi lạc đà,\",\"bold\":true},{\"text\":\" kangaroo thì xem ngoài tự nhiên không đến nông trại\\n=>\"},{\"text\":\" Đáp án: camel ride \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 357,
+          "endTimeInSeconds": 384,
+          "transcripts": [
+           {
+            "id": "33/357292-363606",
+            "startTimeInSeconds": 357,
+            "endTimeInSeconds": 363,
+            "text": " No, but it sounds like fun. Could you give me some more details about the kangaroo farm and the camel ride?",
+            "character": {
+             "id": "L0pO4C7fujz1Z1exKbAuj",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "34/363606-377932",
+            "startTimeInSeconds": 363,
+            "endTimeInSeconds": 377,
+            "text": " Certainly. The kangaroo farm includes information on how the animals are raised whilst the camel ride provides information on desert ﬂora and fauna. Which would you prefer? You can arrange to see the kangaroos in the wild if you like, rather than on a farm.",
+            "character": {
+             "id": "J2utdA7CaHOPkoefsIueG",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "35/377932-384493",
+            "startTimeInSeconds": 377,
+            "endTimeInSeconds": 384,
+            "text": " That sounds perfect. OK, we’ll go on the camel ride and see the kangaroos in their natural habitat.",
+            "character": {
+             "id": "L0pO4C7fujz1Z1exKbAuj",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "camel ride",
+         "blankId": "19kXfT7YOferc3cbtvbeu"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cân nghe về \"},{\"text\":\"vị trí của \\\"Aboriginals stone carvings\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"a stop at\"},{\"text\":\" a place of aboriginal art­work\",\"bold\":true},{\"text\":\"\\\" \\n \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"Are the carvings in the desert\",\"bold\":true},{\"text\":\"?\\\" và được confirm là \"},{\"text\":\"\\\"Yes\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: desert \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 384,
+          "endTimeInSeconds": 399,
+          "transcripts": [
+           {
+            "id": "36/384493-395021",
+            "startTimeInSeconds": 384,
+            "endTimeInSeconds": 395,
+            "text": " OK. I’ll arrange that for you. I forgot to mention that the journey also includes a stop at a place of aboriginal artwork. It’s a place well-known for its stone carvings of animals and mythical creatures.",
+            "character": {
+             "id": "J2utdA7CaHOPkoefsIueG",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "37/395021-398740",
+            "startTimeInSeconds": 395,
+            "endTimeInSeconds": 398,
+            "text": " That sounds great! Are the carvings in the desert?",
+            "character": {
+             "id": "L0pO4C7fujz1Z1exKbAuj",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "38/398740-399775",
+            "startTimeInSeconds": 398,
+            "endTimeInSeconds": 399,
+            "text": " Yes.",
+            "character": {
+             "id": "J2utdA7CaHOPkoefsIueG",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "desert",
+         "blankId": "K4mAtwiAyCaAgj3_mF8oY"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền là \"},{\"text\":\"danh từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"We really want to try to \"},{\"text\":\"experience the Dreamtime under the stars\",\"bold\":true},{\"text\":\".\\\" \"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: stars  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (under = beneath) \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 406,
+          "endTimeInSeconds": 413,
+          "transcripts": [
+           {
+            "id": "41/406316-413487",
+            "startTimeInSeconds": 406,
+            "endTimeInSeconds": 413,
+            "text": " Yes. We’re really looking forward to our trip. We really want to try to experience the Dreamtime under the stars.",
+            "character": {
+             "id": "L0pO4C7fujz1Z1exKbAuj",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "stars",
+         "blankId": "7VtYtrUYwXKrHezF6CS5o"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "Avdj3w3y-oXHdbbClVTgH",
+         "editorValue": "[{\"children\":[{\"text\":\"The\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"xCFk5aLYUrRcB7USBoTIN\"},{\"text\":\" Is within walking distance of the accommodation.\"}]}]",
+         "blanks": [
+          {
+           "id": "xCFk5aLYUrRcB7USBoTIN",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "pVePV4p2rFwO7pR7Y2Aoz",
+         "editorValue": "[{\"children\":[{\"text\":\"The customer books\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"19kXfT7YOferc3cbtvbeu\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "19kXfT7YOferc3cbtvbeu",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "UBJhWUTz4MrQqNSrzxvRR",
+         "editorValue": "[{\"children\":[{\"text\":\"Aboriginals stone carvings are in the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"K4mAtwiAyCaAgj3_mF8oY\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "K4mAtwiAyCaAgj3_mF8oY",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "qw1m-dKttRk0-h6o2oKtp",
+         "editorValue": "[{\"children\":[{\"text\":\"The Dreamtime can be experienced beneath the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"7VtYtrUYwXKrHezF6CS5o\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "7VtYtrUYwXKrHezF6CS5o",
+           "key": 3
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentence below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "no more than TWO words",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "no more than TWO words",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Public Service Broadcast",
+   "duration": 6,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "f7d75e3d-162d-11ee-81c3-757734593eee",
+     "questions": [
+      {
+       "uuid": "f7d75e3e-162d-11ee-81c3-757734593eee",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"số tuổi tối thiểu của volunteer worker\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"applicants must be over \"},{\"text\":\"18 years of age\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng viên phải\"},{\"text\":\" trên 18 tuổi\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 18  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 68,
+          "endTimeInSeconds": 76,
+          "transcripts": [
+           {
+            "id": "1/68020-76560",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 76,
+            "text": "First of all, applicants must be over 18 years of age. The company apologises, but there can be no exceptions to this rule."
+           }
+          ]
+         },
+         "value": "18",
+         "blankId": "IW6ceMF3PHKlQVXnW0Os9"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" cái mà applicant không nên có\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"Second, per­sons interested in these positions\"},{\"text\":\" may not have police records\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhưng người quan tâm đến những vị trí này \"},{\"text\":\"không nên có police records (tiền án) \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: police records \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 76,
+          "endTimeInSeconds": 86,
+          "transcripts": [
+           {
+            "id": "2/76560-86780",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 86,
+            "text": "Second, persons interested in these positions may not have police records. Minor traﬃc oﬀences like a parking ticket are, of course, no problem."
+           }
+          ]
+         },
+         "value": "police records",
+         "blankId": "gLEH5R-dxcD6eTWSs5zyX"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cần nộp cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"applicants \"},{\"text\":\"must supply references\",\"bold\":true},{\"text\":\" from past or present employers or teachers \"},{\"text\":\"along with their recent CV \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng viên phải nộp 2 thứ:\"},{\"text\":\" references và CV\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: references và CV \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 97,
+          "endTimeInSeconds": 111,
+          "transcripts": [
+           {
+            "id": "4/97437-111257",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 111,
+            "text": "In addition, applicants must supply references from past or present employers or teachers along with their recent CV. These references must testify as to the applicant’s work habits and/or character."
+           }
+          ]
+         },
+         "value": "references",
+         "blankId": "6W8xIBggW6VaeOTxUxT87"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cần nộp cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"applicants \"},{\"text\":\"must supply references\",\"bold\":true},{\"text\":\" from past or present employers or teachers \"},{\"text\":\"along with their recent CV \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng viên phải nộp 2 thứ: \"},{\"text\":\"references và CV\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: references và CV \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 97,
+          "endTimeInSeconds": 111,
+          "transcripts": [
+           {
+            "id": "4/97437-111257",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 111,
+            "text": "In addition, applicants must supply references from past or present employers or teachers along with their recent CV. These references must testify as to the applicant’s work habits and/or character."
+           }
+          ]
+         },
+         "value": "recent CV/CV",
+         "blankId": "0BCLAq7X-VZuR_gEv3rja"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" loại chi phí mà employer sẽ trả \",\"bold\":true},{\"text\":\"(ngoài phone call) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"the employer will \"},{\"text\":\"reimburse some of your expenses.\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"they will pay for transportation\",\"bold\":true},{\"text\":\" to and from the job site. \"},{\"text\":\"Aside from tha\",\"bold\":true},{\"text\":\"t, \"},{\"text\":\"the cost of phone calls is covered\\\" \",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ sẽ\"},{\"text\":\" trả tiền đi lại\",\"bold\":true},{\"text\":\" và chi phí cuộc gọi  \\n=> \"},{\"text\":\"Đáp án: transportation \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 124,
+          "endTimeInSeconds": 139,
+          "transcripts": [
+           {
+            "id": "6/124871-139430",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 139,
+            "text": "Although all positions are volunteer, the employer will reimburse some of your expenses. For example, they will pay for transportation to and from the job site. Aside from that, the cost of phone calls is covered."
+           }
+          ]
+         },
+         "value": "transportation",
+         "blankId": "fPcBx2gT0eUBf6AKrrS4c"
+        }
+       ],
+       "heading": "Public Service broadcast",
+       "paragraph": {
+        "id": "d1btT3TN4lf5PZI3Xbsmu",
+        "editorValue": "[{\"children\":[{\"text\":\"Volunteer workers must be at least \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"IW6ceMF3PHKlQVXnW0Os9\"},{\"text\":\"years old.\"}]},{\"children\":[{\"text\":\"Job applicants should not have \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"gLEH5R-dxcD6eTWSs5zyX\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Job applicants are asked to submit \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"6W8xIBggW6VaeOTxUxT87\"},{\"text\":\" and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"0BCLAq7X-VZuR_gEv3rja\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"The employer will pay the expenses of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"fPcBx2gT0eUBf6AKrrS4c\"},{\"text\":\" and phone calls.\"}]}]",
+        "blanks": [
+         {
+          "id": "IW6ceMF3PHKlQVXnW0Os9",
+          "key": 0
+         },
+         {
+          "id": "gLEH5R-dxcD6eTWSs5zyX",
+          "key": 1
+         },
+         {
+          "id": "6W8xIBggW6VaeOTxUxT87",
+          "key": 2
+         },
+         {
+          "id": "0BCLAq7X-VZuR_gEv3rja",
+          "key": 3
+         },
+         {
+          "id": "fPcBx2gT0eUBf6AKrrS4c",
+          "key": 4
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the Notes Below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN 2 WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN 2 WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "f7d75e3f-162d-11ee-81c3-757734593eee",
+     "questions": [
+      {
+       "uuid": "n6d2s5kJpNk1RDktf7gSx",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" nơi cung cấp \\\"First Aid certificate\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\"volunteers must \"},{\"text\":\"be physically fit \",\"bold\":true},{\"text\":\"and in \"},{\"text\":\"excellent health\\\"\",\"bold\":true},{\"text\":\" (ý tới trước đáp án) ư\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"They should also have a current\"},{\"text\":\" First Aid certificate from the Red Cross\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ cũng phải có \"},{\"text\":\"First Aid certificate từ Red Cross\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: Red Cross \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 180,
+          "endTimeInSeconds": 206,
+          "transcripts": [
+           {
+            "id": "7/180421-192835",
+            "startTimeInSeconds": 180,
+            "endTimeInSeconds": 192,
+            "text": "As for the positions themselves, there are three types. The ﬁrst involves assisting persons conﬁned to wheelchairs. For this position, volunteers must be physically ﬁt and in excellent health."
+           },
+           {
+            "id": "8/192835-206714",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 206,
+            "text": "They must be able to lift at least 150 pounds. They should also have a current First Aid certiﬁcate from the Red Cross. But the most important  requirement  is  that  the  volunteer  must  have  his  own  car."
+           }
+          ]
+         },
+         "value": "Red Cross",
+         "blankId": "F71mfwtgF9NJZlYuuCHt0"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" thời gian của dịch vụ\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"On \"},{\"text\":\"Tuesday afternoons\",\"bold\":true},{\"text\":\", the volunteers take their clients to various scenic spots around the city to experience and enjoy nature.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Volunteers sẽ làm việc \"},{\"text\":\"vào các buổi chiều thứ Ba\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: Tuesday afternoons \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 206,
+          "endTimeInSeconds": 215,
+          "transcripts": [
+           {
+            "id": "9/206714-215731",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 215,
+            "text": "On Tuesday afternoons, the volunteers take their clients to various scenic spots around the city to experience and enjoy nature."
+           }
+          ]
+         },
+         "value": "Tuesday afternoons",
+         "blankId": "Eregrv2VAGArzvSdj5vww"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"không có gì là một lợi thế\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"read to the blinds\\\" (ý ở cột 'duties') \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe yêu cầu thứ 1 là \\\"Readers must, of course, \"},{\"text\":\"read English clearly.\",\"bold\":true},{\"text\":\" Persons with \"},{\"text\":\"no foreign accent\",\"bold\":true},{\"text\":\" are pre­ferred\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không có \"},{\"text\":\"foreign accent \",\"bold\":true},{\"text\":\"là một lợi thế  (\"},{\"text\":\"are pre­ferred ~ is an advantage)\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: foreign accent  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "10/215731-227600",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 227,
+            "text": "If you don’t drive, but you’d still like to get involved, the centre has a number of openings for people to read to the blind. Readers must, of course, read English clearly."
+           },
+           {
+            "id": "11/227600-241486",
+            "startTimeInSeconds": 227,
+            "endTimeInSeconds": 241,
+            "text": "Persons with no foreign accent are preferred. For these positions, you must be available on Monday mornings. Oh, wait, I see a note here. There is one opening for someone who can read Urdu."
+           }
+          ]
+         },
+         "value": "foreign accent",
+         "blankId": "czj-bx49EAl6OWeLHKudf"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"người cần giúp đỡ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"And \"},{\"text\":\"finally\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết chuẩn bị nói đến \"},{\"text\":\"đối tượng cần giúp đỡ cuối cùng\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"there are a limited number of volunteers needed to\"},{\"text\":\" care for disabled children\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cần volunteer để \"},{\"text\":\"chăm sóc cho trẻ em khuyết tật \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: disabled children  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 250,
+          "endTimeInSeconds": 263,
+          "transcripts": [
+           {
+            "id": "13/250158-263115",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 263,
+            "text": "And ﬁnally, there are a limited number of volunteers needed to care for disabled children. I'm sorry, but the information I’ve been given does not say how many children or what disabilities they have."
+           }
+          ]
+         },
+         "value": "Disabled Children",
+         "blankId": "VVSBWATpF96NBepAyWKQc"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"cân nặng tối đa có thể nâng được\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"volunteers for this position must know\",\"bold\":true},{\"text\":\"\\\" (=Requirement for volunteers)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"....must know basic First Aid, be in good health, and \"},{\"text\":\"be able to lift up to 75 pounds\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 75/seventy-five pounds/75 lb/75 pounds \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"(lift up = elevate) \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 276,
+          "endTimeInSeconds": 285,
+          "transcripts": [
+           {
+            "id": "15/276337-285618",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 285,
+            "text": "Again, volunteers for this position must know basic First Aid, be in good health, and be able to lift up to 75 pounds."
+           }
+          ]
+         },
+         "value": "75/seventy-five pounds/75 lbs/75 pounds",
+         "blankId": "-5muUchTcGgkMXGr9QD-F"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "F71mfwtgF9NJZlYuuCHt0",
+         "key": 0
+        },
+        {
+         "id": "Eregrv2VAGArzvSdj5vww",
+         "key": 1
+        },
+        {
+         "id": "czj-bx49EAl6OWeLHKudf",
+         "key": 2
+        },
+        {
+         "id": "VVSBWATpF96NBepAyWKQc",
+         "key": 3
+        },
+        {
+         "id": "-5muUchTcGgkMXGr9QD-F",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"hlgIW3e2hKnutGajxl6l1\",\"cellsWidth\":[140.009765625,162.009765625,215.009765625,142.009765625],\"children\":[{\"type\":\"tr\",\"id\":\"CgTEFjCJ8cXEqzwlk5ZmG\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"People need help\",\"bold\":true}]}]}],\"id\":\"H8dL37aNcgVl1oOhfT1uT\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Duties\",\"bold\":true}]}]}],\"id\":\"yiJ07KM0ix3PeJr8LDqAu\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Requirement for volunteers\",\"bold\":true}]}]}],\"id\":\"jFkTHXRkErgW4QSTilqte\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Service Time\",\"bold\":true}]}]}],\"id\":\"3khMWWU83aGz9WbinkVbv\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pjWls83edz4qaLSVH0B1U\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Wheelchair users\"}]}]}],\"id\":\"yzxRH6_MYGldCLAgn0ING\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Drive clients to scenic locations\"}]}]}],\"id\":\"XiDFAdXvBeTGtlvlEZERq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- Excellent health\\n- must own a First Aid certificate from the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"F71mfwtgF9NJZlYuuCHt0\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"7MDmMuLD2sCfVAKKQddZC\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Eregrv2VAGArzvSdj5vww\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"dt1wxde7ARfecBfstvyk6\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"jCkJYtNgsvdSCZp15IjRU\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The blind\"}]}]}],\"id\":\"H-9ji-gq0gjzIaStyCkoQ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Read books to blind people\\n\"}]}]}],\"id\":\"gpZ3S7akhjjmZfKscZ7bq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- Read English clearly\\n- No  \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"czj-bx49EAl6OWeLHKudf\",\"text\":\"\"}]},{\"text\":\"is an advantage\"}]}]}],\"id\":\"tC7Kw76bEEPP0ssQYjPPk\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Monday mornings\"}]}]}],\"id\":\"VWXFyxDuO0EPpt1P-SYcZ\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"2lhN9LtLQ3MHYCYW41VKt\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"VVSBWATpF96NBepAyWKQc\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"AUC8bgjm2zwX-2V7s9Ay5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Take care of them on holiday\\n\"}]}]}],\"id\":\"HxCkUErlXRZB78MJxAHB-\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- have knowledge of basic first aid\\n- good health\\n- can elevate to a maximum of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"-5muUchTcGgkMXGr9QD-F\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"heLWKOgyqaunK_ev3vZW8\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1 week in August\"}]}]}],\"id\":\"VLSA1piS83SQzdhfADwt6\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":659.0390625,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Environmental Change Discussion",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "e93ae3b9-75af-11ec-9854-896cf294704c",
+     "questions": [
+      {
+       "uuid": "e93ae3ba-75af-11ec-9854-896cf294704c",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"nông dân làm gì mà khiến môi trường bị hủy hoại\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Agriculture \",\"bold\":true},{\"text\":\"is having a really \"},{\"text\":\"adverse impact\",\"bold\":true},{\"text\":\" on the \"},{\"text\":\"environ­ment\",\"bold\":true},{\"text\":\".\\\" (Agriculture ám chỉ Farmers) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"too many \"},{\"text\":\"farmers doing too much farming\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Tiếp đó nghe \\\"It’s really \"},{\"text\":\"destroying the forests\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"ruining the soil\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"\\\"farming\\\" phá hủy môi trường \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: farming \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 95,
+          "endTimeInSeconds": 107,
+          "transcripts": [
+           {
+            "id": "9/95357-107201",
+            "startTimeInSeconds": 95,
+            "endTimeInSeconds": 107,
+            "text": " Agriculture is having a really adverse impact on the environment. There are too many farmers doing too much farming. It’s really destroying the forests and ruining the soil. Deforestation is a major problem there now.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "farming",
+         "blankId": "0GU69Cki1axCmF7HWqKAy"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"theo Dick, vegetation problem gây ra cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Dick\",\"bold\":true},{\"text\":\", Harry's twin\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"how few trees\",\"bold\":true},{\"text\":\" there were now and how much \"},{\"text\":\"empty ground that grows al­most nothing\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dick nói bây giờ \"},{\"text\":\"chỉ còn lại vài loại cây\",\"bold\":true},{\"text\":\" và có \"},{\"text\":\"nhiều đất trống\",\"bold\":true},{\"text\":\" \"},{\"text\":\"nhưng không trồng trọt được\",\"bold\":true},{\"text\":\"\\n=> Đây là \\\"\"},{\"text\":\"vegetation problem\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\" It brought \"},{\"text\":\"environmental damage\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó mang lại thiệt hại môi trường\\n=> \"},{\"text\":\"Đáp án: environmental damage \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 123,
+          "endTimeInSeconds": 142,
+          "transcripts": [
+           {
+            "id": "13/123497-142074",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 142,
+            "text": " No, Dick, Harry’s twin. Anyway, he told me how few trees there were now and how much empty ground that grows almost nothing. He said the place looked more like the desert than jungle in some parts. It brought environmental damage. So I started looking for materials in the library. Here, look at this magazine.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "environmental damage",
+         "blankId": "e18bPR6kQzAtoXx1MGiGC"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"đối tượng cuộc phỏng vấn định kì của 1 vấn đề cũ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Biết đáp án sắp tới khi nghe \\\"It's and \"},{\"text\":\"old issue...\\\" (=back issue) \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"It includes\"},{\"text\":\" inter­views with tourists\",\"bold\":true},{\"text\":\" who’ve been there in the\"},{\"text\":\" past few years\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó bao gồm các cuộc \"},{\"text\":\"phỏng vấn với khách du lịch\",\"bold\":true},{\"text\":\" đã ở đó trong \"},{\"text\":\"vài năm qua\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: tourists \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "15/143312-152339",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 152,
+            "text": " It's an old issue of “National Geographic”. It includes interviews with tourists who’ve been there in the past few years. It’s pretty bad. See the photos?",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "tourists",
+         "blankId": "AtLpbjC7TaQVJ6P10uCsE"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"danh từ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe nhắc đến \\\"read what \"},{\"text\":\"the article\",\"bold\":true},{\"text\":\" says\\\" là biết đáp án sắp vào\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The first thing it points out is how \"},{\"text\":\"soil samples show it is hard for anything to grow there.\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó chỉ ra là cách các \"},{\"text\":\"soil samples \",\"bold\":true},{\"text\":\"cho thấy khó có thứ gì có thể mọc ở đó (\"},{\"text\":\"tough for plant growth\",\"bold\":true},{\"text\":\") \\n=>\"},{\"text\":\" Đáp án: samples \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 156,
+          "endTimeInSeconds": 179,
+          "transcripts": [
+           {
+            "id": "17/156595-179005",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 179,
+            "text": " Then read what the article says. Right there. The first thing it points out is how soil samples show it is hard for anything to grow there. It says how an area of 21,000 square kilometres has lost most of its forest in the past ten years. See, there are graphs. As the number of farmers increases, the acres of forest has decreased. It’s an inverse relation.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "samples",
+         "blankId": "y2s8gfCyq-TgL1hKgxltR"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"diện tích rừng biến mất trong 10 năm qua \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"an area of \"},{\"text\":\"21,000 square kilometres\",\"bold\":true},{\"text\":\" has l\"},{\"text\":\"ost most of its forest in the past ten years\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"21.000 kilômét\",\"bold\":true},{\"text\":\" \"},{\"text\":\"vuông rừng đã mất\",\"bold\":true},{\"text\":\" trong mười năm qua\\n=>\"},{\"text\":\" Đáp án: 21,000 square \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 156,
+          "endTimeInSeconds": 179,
+          "transcripts": [
+           {
+            "id": "17/156595-179005",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 179,
+            "text": " Then read what the article says. Right there. The first thing it points out is how soil samples show it is hard for anything to grow there. It says how an area of 21,000 square kilometres has lost most of its forest in the past ten years. See, there are graphs. As the number of farmers increases, the acres of forest has decreased. It’s an inverse relation.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "21,000 square",
+         "blankId": "a6tvhbmlGaB2c-AYrgvQ5"
+        }
+       ],
+       "heading": "Environmental change Discussion",
+       "paragraph": {
+        "id": "za2kB-ka6UKnCCKSFKX4V",
+        "editorValue": "[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"In Southeast Mexico, farmers did too much \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"0GU69Cki1axCmF7HWqKAy\"},{\"text\":\" so the environment has been destroyed.\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"According to Dick, vegetation problems caused \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"e18bPR6kQzAtoXx1MGiGC\"},{\"text\":\".\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A back issue of a periodical reported interviews with \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"23_____\"}],\"id\":\"AtLpbjC7TaQVJ6P10uCsE\"},{\"text\":\".\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"According to one of the articles in the periodical, land \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"24_____ \"}],\"id\":\"y2s8gfCyq-TgL1hKgxltR\"},{\"text\":\" show it is very tough for plant growth there.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In the past ten years, almost \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"25____ \"}],\"id\":\"a6tvhbmlGaB2c-AYrgvQ5\"},{\"text\":\" kilometers of forest has disappeared.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "0GU69Cki1axCmF7HWqKAy",
+          "key": 0
+         },
+         {
+          "id": "e18bPR6kQzAtoXx1MGiGC",
+          "key": 1
+         },
+         {
+          "id": "AtLpbjC7TaQVJ6P10uCsE",
+          "key": 2
+         },
+         {
+          "id": "y2s8gfCyq-TgL1hKgxltR",
+          "key": 3
+         },
+         {
+          "id": "a6tvhbmlGaB2c-AYrgvQ5",
+          "key": 4
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "e93ae3bb-75af-11ec-9854-896cf294704c",
+     "questions": [
+      {
+       "uuid": "e93ae3bc-75af-11ec-9854-896cf294704c",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"diện tích của “Growing Area”\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\" 'growing area' of about \"},{\"text\":\"10.5 square kilometres\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 10.5 square \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 240,
+          "transcripts": [
+           {
+            "id": "21/230838-240604",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 240,
+            "text": " There’s lots of else. Scientists say there’s a “growing area” of about 10.5 square kilometres where nothing can grow at all. It’s like the beginning of a desert.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "10.5 square",
+         "blankId": "REMIStSMuCykm7PqGDm9M"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" scientists đã làm gì với đất ở Yucatan\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là  \\\"\"},{\"text\":\"Scientists who’ve gone there have taken measurements\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Scientists have taken measurements\",\"bold\":true},{\"text\":\" of the soil in the Yucatan\\n=> \"},{\"text\":\"Đáp án: measurements \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 275,
+          "endTimeInSeconds": 304,
+          "transcripts": [
+           {
+            "id": "25/275118-304037",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 304,
+            "text": " Saline is salt dissolved in water. Scientists who’ve gone there have taken measurements. They do this by gathering a sample of the soil and running a simple test that shows the ionisation of the solution. The Geology Department in our own university has reviewed the soil at the site, too. They’re right. It looks pretty bad. The level of salinity is going up. But the plants that would solve that problem can’t be planted in soil like that. There is a narrow spectrum of salinity in which the plants will grow.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "measurements",
+         "blankId": "90JY62Wc9NI4b55XT_dwx"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"cái được phân tích bởi khoa địa chất của trường\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"The \"},{\"text\":\"Geology Departmen\",\"bold\":true},{\"text\":\"t in our own university\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"The Geology Department in our own university has \"},{\"text\":\"reviewed the soil\",\"bold\":true},{\"text\":\" at the site, too\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khoa Địa chất của trường cũng đã \"},{\"text\":\"phân tích đất tại địa điểm này\",\"bold\":true},{\"text\":\" (review = analyse)\\n=> \"},{\"text\":\"Đáp án: soil \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 275,
+          "endTimeInSeconds": 304,
+          "transcripts": [
+           {
+            "id": "25/275118-304037",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 304,
+            "text": " Saline is salt dissolved in water. Scientists who’ve gone there have taken measurements. They do this by gathering a sample of the soil and running a simple test that shows the ionisation of the solution. The Geology Department in our own university has reviewed the soil at the site, too. They’re right. It looks pretty bad. The level of salinity is going up. But the plants that would solve that problem can’t be planted in soil like that. There is a narrow spectrum of salinity in which the plants will grow.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "soil ",
+         "blankId": "4cpselqWknegDoGAZ5kVj"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"phần nào trong cuốn sách của Dr.Horst's hữu ích và đáng học tập.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"Here, \"},{\"text\":\"study these photographs\",\"bold\":true},{\"text\":\" and check the damage your­self. That’s what \"},{\"text\":\"Dr Horst who wrote this book \",\"bold\":true},{\"text\":\"here did.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Photographs là phần hữu ích nhất\",\"bold\":true},{\"text\":\" trong sách của Dr Horst \\n=> \"},{\"text\":\"Đáp án: photographs  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 325,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "29/325256-342544",
+            "startTimeInSeconds": 325,
+            "endTimeInSeconds": 342,
+            "text": " Oh they're definitely reliable. They include four members of the faculty from the Geology Department right here at MIT. Here, study these photographs and check the damage yourself. That’s what Dr. Horst who wrote this book here did. He’s newly appointed, but Dr. Schnee says he’s brilliant.",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "photographs",
+         "blankId": "4bUnOdGOA7HpRn4eXe4Tg"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"cái mà sinh viên cần để thực hiện bài thuyết trình\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"I’m headed over to the Geography Department to \"},{\"text\":\"borrow a map for my presentation\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tôi đang đến Khoa Địa lý để \"},{\"text\":\"mượn bản đồ cho bài thuyết trình của mình\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: map \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 344,
+          "endTimeInSeconds": 352,
+          "transcripts": [
+           {
+            "id": "31/344906-352734",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 352,
+            "text": " I’m headed over to the Geography Department to borrow a map for my presentation. You know, this whole problem could have been avoided! The farmers there in the Yucatan…",
+            "character": {
+             "id": "tFEBikL0Xls4mGly0oQ3I",
+             "name": "PETE"
+            }
+           }
+          ]
+         },
+         "value": "map",
+         "blankId": "i7Q33xQME-xOyEIxs2MbT"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "g84zOucKUD9YbaIicM-z0",
+         "editorValue": "[{\"children\":[{\"text\":\"“Growing Area” is about\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"REMIStSMuCykm7PqGDm9M\"},{\"text\":\" kilometers.\"}]}]",
+         "blanks": [
+          {
+           "id": "REMIStSMuCykm7PqGDm9M",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "QpvpsG5vRljprLOQOeUQG",
+         "editorValue": "[{\"children\":[{\"text\":\"Scientists have taken\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"90JY62Wc9NI4b55XT_dwx\"},{\"text\":\" of the soil in the Yucatan.\"}]}]",
+         "blanks": [
+          {
+           "id": "90JY62Wc9NI4b55XT_dwx",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "tVbN8KsH29QAu_wlU3XvH",
+         "editorValue": "[{\"children\":[{\"text\":\"The university’s own Geology Department has also analysed the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4cpselqWknegDoGAZ5kVj\"},{\"text\":\" at the site.\"}]}]",
+         "blanks": [
+          {
+           "id": "4cpselqWknegDoGAZ5kVj",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "tVaZzopxXIHbvY3tYesGK",
+         "editorValue": "[{\"children\":[{\"text\":\"The \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4bUnOdGOA7HpRn4eXe4Tg\"},{\"text\":\" in Dr. Horst’s book are very useful and worth studying.\"}]}]",
+         "blanks": [
+          {
+           "id": "4bUnOdGOA7HpRn4eXe4Tg",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "-qwaD9U_DXQaiUF2ivIe6",
+         "editorValue": "[{\"children\":[{\"text\":\"The student needs a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"i7Q33xQME-xOyEIxs2MbT\"},{\"text\":\" to do the presentation.\"}]}]",
+         "blanks": [
+          {
+           "id": "i7Q33xQME-xOyEIxs2MbT",
+           "key": 4
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "How To Kill Bad Insects",
+   "duration": 10,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "852dfc49-75b0-11ec-9854-896cf294704c",
+     "questions": [
+      {
+       "uuid": "852dfc4a-75b0-11ec-9854-896cf294704c",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cái gì có lợi từ việc pollination của ong \",\"bold\":true},{\"text\":\"(ngoại trừ flowers)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Bees\",\"bold\":true},{\"text\":\" help plants in the \"},{\"text\":\"process of pollination\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"thus are \"},{\"text\":\"necessary to most flowers and fruit-producing trees\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có lợi cho \"},{\"text\":\"flowers \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"fruit-producing trees \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: fruit trees \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 87,
+          "endTimeInSeconds": 100,
+          "transcripts": [
+           {
+            "id": "1/87624-100676",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 100,
+            "text": "Probably the most important insect for humans, and maybe for all other life, is the bee. Bees help plants in the process of pollination, and thus are necessary to most flowers and fruit-producing trees."
+           }
+          ]
+         },
+         "value": "fruit trees",
+         "blankId": "agcfIYnumDFFcKkjZz-JJ"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"cái được làm từ beeswax\",\"bold\":true},{\"text\":\" (ngoại trừ candles)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"they produce \"},{\"text\":\"beeswax\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"is \"},{\"text\":\"useful in candles\",\"bold\":true},{\"text\":\" and it’s also \"},{\"text\":\"used as a first-rate furniture polish\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dùng cho \"},{\"text\":\"candles \",\"bold\":true},{\"text\":\"và cũng được dùng như là\"},{\"text\":\" furniture polish \",\"bold\":true},{\"text\":\"(chất đánh bóng nội thất) \\n=> \"},{\"text\":\"Đáp án: polish/ furniture polish \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 125,
+          "endTimeInSeconds": 137,
+          "transcripts": [
+           {
+            "id": "4/125341-137213",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 137,
+            "text": "A little less dramatic is the fact that bees also make the honey we eat. Moreover, they produce beeswax, which is useful in candles and it’s also used as a first-rate furniture polish."
+           }
+          ]
+         },
+         "value": "polish/ furniture polish",
+         "blankId": "8Zzcr6Gf4usu-EKGCdX5e"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley39\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thức ăn của con dragonflies \",\"bold\":true},{\"text\":\"(chuồng chuồng) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"So let's look at \"},{\"text\":\"dragonflies \",\"bold\":true},{\"text\":\"first\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"If there were \"},{\"text\":\"no dragonflies\",\"bold\":true},{\"text\":\", there would be even \"},{\"text\":\"more mosquitoes\",\"bold\":true},{\"text\":\"!\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu không có chuồn chuồn, sẽ có nhiều muỗi hơn\\n=> \"},{\"text\":\"Có khả năng mosquitoes là thức ăn của dragonflies\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe \\\"\"},{\"text\":\"Dragonflies mainly eat mosqui­toes\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: mosquitoes/mosquitos\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (mainly = primarily)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 152,
+          "endTimeInSeconds": 185,
+          "transcripts": [
+           {
+            "id": "6/152970-170215",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 170,
+            "text": "Now, here in Michigan, what’s the worst part of summer? Yep, that’s right - mosquitoes. But I’m talking about helpful insects, right? So let’s look at the dragonfly first. If there were no dragonflies, there would be even more mosquitoes!"
+           },
+           {
+            "id": "7/170215-185849",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 185,
+            "text": "Dragonflies mainly eat mosquitoes and also a few other insects. Yes, that’s right. They don’t just fly around, and they also help to eliminate harmful insects. So, the next time you see a dragonfly, don’t you dare kill it!"
+           }
+          ]
+         },
+         "value": "mosquitoes/mosquitos",
+         "blankId": "9YbDM_OInriDBcTdZbbbT"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên 1 loại bệnh gây chết người mà côn trùng mang tới\",\"bold\":true},{\"text\":\" (song song với malaria hoặc sleeping sickness)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"harmful insects\",\"bold\":true},{\"text\":\"\\\", \\\"\"},{\"text\":\"some were even deadly\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"They carried \"},{\"text\":\"malaria and yellow fever\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: yellow fever \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 185,
+          "endTimeInSeconds": 216,
+          "transcripts": [
+           {
+            "id": "8/185849-200857",
+            "startTimeInSeconds": 185,
+            "endTimeInSeconds": 200,
+            "text": "Now let’s talk a little about those harmful insects. Take the mosquitoes I just mentioned as an example. Not so many years ago, mosquitoes here in America weren’t just annoying. Some were even deadly."
+           },
+           {
+            "id": "9/200857-216486",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 216,
+            "text": "They carried malaria and yellow fever. My own ancestor, the Confederate General John Bell Hood, lived through the worst battles of Civil War only to die at age thirty-eight from yellow fever. A pest, not a bullet!"
+           }
+          ]
+         },
+         "value": "yellow fever",
+         "blankId": "OeL8O7JY6fsOyDEz_P6Ij"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thứ  bị côn trùng gây hại phá hủy\",\"bold\":true},{\"text\":\" (bên cạnh crops, clothes và furniture)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\"insects \"},{\"text\":\"destroy food crops\",\"bold\":true},{\"text\":\"\\\" \\\"moths \"},{\"text\":\"eat people’s clothes\",\"bold\":true},{\"text\":\" and dust mites slowly \"},{\"text\":\"destroy carpets\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"If they are not stopped, they can eventually \"},{\"text\":\"destroy the whole building\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu chúng không bị ngăn chặn, chúng cuối cùng \"},{\"text\":\"có thể phá hủy toàn bộ tòa nhà\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: (whole) building  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 252,
+          "endTimeInSeconds": 278,
+          "transcripts": [
+           {
+            "id": "12/252197-268404",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 268,
+            "text": "Other insects, of course, destroy food crops. In China, for instance, locusts continue to be a danger to the harvest in some areas. Less important, but still annoying, moths eat people’s clothes and dust mites slowly destroy carpets."
+           },
+           {
+            "id": "13/268404-278648",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 278,
+            "text": "Worse, but still in the home, termites or “white ants” eat wood - the wood of your house. If they are not stopped, they can eventually destroy the whole building. "
+           }
+          ]
+         },
+         "value": "whole building/building",
+         "blankId": "mTgCVUFRrIrenRjX3yCFR"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "s0bbFPcKsUTSU1C6yCxyq",
+         "editorValue": "[{\"children\":[{\"text\":\"Bees that help with pollination benefit flowers and   \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"agcfIYnumDFFcKkjZz-JJ\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "agcfIYnumDFFcKkjZz-JJ",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "EELChdoONI7E03Vp2oNOM",
+         "editorValue": "[{\"children\":[{\"text\":\"Bees produce wax that can be made into candles and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"8Zzcr6Gf4usu-EKGCdX5e\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "8Zzcr6Gf4usu-EKGCdX5e",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "ZTZNMR0uzVYJftNhRCB53",
+         "editorValue": "[{\"children\":[{\"text\":\"Dragonflies primarily eat \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"9YbDM_OInriDBcTdZbbbT\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "9YbDM_OInriDBcTdZbbbT",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "csvfHkReCyaUZZN_7Lre7",
+         "editorValue": "[{\"children\":[{\"text\":\"Insects in summer can be harmful because they can carry such deadly diseases as malaria, \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"OeL8O7JY6fsOyDEz_P6Ij\"},{\"text\":\" and sleeping sickness.\"}]}]",
+         "blanks": [
+          {
+           "id": "OeL8O7JY6fsOyDEz_P6Ij",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "GD9pqSF_4PQ8F4US_Kvuy",
+         "editorValue": "[{\"children\":[{\"text\":\"Harmful insects may destroy crops, clothes, furniture, and even the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"mTgCVUFRrIrenRjX3yCFR\"},{\"text\":\".\"}]}]",
+         "blanks": [
+          {
+           "id": "mTgCVUFRrIrenRjX3yCFR",
+           "key": 4
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "852dfc4b-75b0-11ec-9854-896cf294704c",
+     "questions": [
+      {
+       "uuid": "852dfc4c-75b0-11ec-9854-896cf294704c",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền là\"},{\"text\":\" danh từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"chemicals\",\"bold\":true},{\"text\":\" can only be \"},{\"text\":\"used in a limited area for a limited time\",\"bold\":true},{\"text\":\". It’s a \"},{\"text\":\"small-scale\",\"bold\":true},{\"text\":\" solution\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chemicals \",\"marks\":[]},{\"text\":\"chỉ hiệu quả\",\"marks\":[],\"bold\":true},{\"text\":\" khi sử dụng trên \",\"marks\":[]},{\"text\":\"quy mô nhỏ \",\"marks\":[],\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: small-scale \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "15/314372-326962",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 326,
+            "text": "For some decades in the West, to kill insects with chemicals seemed a good remedy. Unfortunately, chemicals can only be used in a limited area for a limited time. It’s a small-scale solution."
+           }
+          ]
+         },
+         "value": "small scale",
+         "blankId": "tkjbrUslmsD06EEsK2jqI"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"đối tượng bị ảnh hưởng xấu bởi hóa chất\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"It’s no secret that \"},{\"text\":\"the chem­icals remain harmful to humans\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hóa chất \"},{\"text\":\"gây hại cho con người\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: humans \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 364,
+          "transcripts": [
+           {
+            "id": "17/345831-364930",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 364,
+            "text": "It’s no secret that the chemicals remain harmful to humans. Like all species, insects adapt to their changing environments at an amazing rate. When a new chemical is introduced to their habitat, the insects that survive are generally the ones with some way of resisting the harmful effects."
+           }
+          ]
+         },
+         "value": "humans",
+         "blankId": "zYRRv4dfZFRcgjCKVQYbL"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Loại từ cần điền là\"},{\"text\":\" tính từ \",\"bold\":true},{\"text\":\"(Insects become ___ to the chemicals quickly) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"insects \"},{\"text\":\"adapt to their changing environments at an amazing rate\",\"bold\":true},{\"text\":\".\\\" (nói về khả năng thích nghi của insects)  \\n \"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"insects become resistant to most poison\",\"bold\":true},{\"text\":\" in a few generations.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Côn trùng \"},{\"text\":\"trở nên resistant với hầu hết các poison \",\"bold\":true},{\"text\":\"(poison ~ chemicals) \\n=> \"},{\"text\":\"Đáp án: resistant \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 378,
+          "transcripts": [
+           {
+            "id": "17/345831-364930",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 364,
+            "text": "It’s no secret that the chemicals remain harmful to humans. Like all species, insects adapt to their changing environments at an amazing rate. When a new chemical is introduced to their habitat, the insects that survive are generally the ones with some way of resisting the harmful effects."
+           },
+           {
+            "id": "18/364930-378083",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 378,
+            "text": "They then breed with the other survivors, and just like that insects become resistant to most poison in a few generations. An insect generation, remember, is a couple of months at most!"
+           }
+          ]
+         },
+         "value": "resistant",
+         "blankId": "TRqHz8iyytfqs0J3K8kku"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"sự khác nhau giữa hai phương pháp \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Well, there are \"},{\"text\":\"biological solu­tions\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"This is a \"},{\"text\":\"cheaper\",\"bold\":true},{\"text\":\" \"},{\"text\":\"alternative\",\"bold\":true},{\"text\":\" to chemicals\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là một \"},{\"text\":\"giải pháp thay thế rẻ hơn\",\"bold\":true},{\"text\":\" cho hóa chất\\n=> \"},{\"text\":\"Đáp án: cheaper \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 378,
+          "endTimeInSeconds": 426,
+          "transcripts": [
+           {
+            "id": "19/378083-392557",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 392,
+            "text": "So, again we have to ask: what to do? Well, there are biological solutions. Some of these are pretty simple. One is destroying the insects’ habitat. You take away their home or food."
+           },
+           {
+            "id": "20/392557-409482",
+            "startTimeInSeconds": 392,
+            "endTimeInSeconds": 409,
+            "text": "Cleaning your kitchen is the best way to prevent roaches. No garbage: no food. Getting rid of marshes and swamps eliminates mosquitoes. Other solutions might include bringing in dragonflies or bats in areas where mosquitoes are many. "
+           },
+           {
+            "id": "21/409482-426735",
+            "startTimeInSeconds": 409,
+            "endTimeInSeconds": 426,
+            "text": "This is a cheaper alternative to chemicals. Biological methods like this also bring no extra pollution to the environment. But you have to be careful. If you change the environment too much, you might be hurting other forms of life accidentally."
+           }
+          ]
+         },
+         "value": "cheaper",
+         "blankId": "qltfgkIHBCCSYz4tR1b7w"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"cái mà con người cần hiểu để thực hiện breeding control method\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"method of controlling insect populations\",\"bold\":true},{\"text\":\" involves inter­rupting their breeding cycle\\\" (\"},{\"text\":\"Breeding control method) \",\"bold\":true},{\"text\":\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình được nghe là \\\"It’s clear that we must have an\"},{\"text\":\" understanding of the life cycle of the insect\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chúng ta phải có \"},{\"text\":\"hiểu biết về vòng đời của côn trùng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: life cycle \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 426,
+          "endTimeInSeconds": 474,
+          "transcripts": [
+           {
+            "id": "22/426735-443095",
+            "startTimeInSeconds": 426,
+            "endTimeInSeconds": 443,
+            "text": "One recent method of controlling insect populations involves interrupting their breeding cycle. What does that mean? It means \"birth control for bugs”. Insects are provided with food that makes them unable to reproduce."
+           },
+           {
+            "id": "23/443095-455957",
+            "startTimeInSeconds": 443,
+            "endTimeInSeconds": 455,
+            "text": "Since they can’t have babies, the population disappears, or nearly so. And since no young are born, resistance is not a problem with no young insects developing increased resistance."
+           },
+           {
+            "id": "24/455957-474715",
+            "startTimeInSeconds": 455,
+            "endTimeInSeconds": 474,
+            "text": "Interrupt the life cycle, eliminate the bug! It’s clear that we must have an understanding of the life cycle of the insect. At least, that’s the plan. We’ll go into more details as this course goes along. Now I will stop here to see whether you have any questions or not."
+           }
+          ]
+         },
+         "value": "life cycle",
+         "blankId": "uBOLrs5haPH0Q6KWEW2be"
+        }
+       ],
+       "heading": "How to kill bad Insects",
+       "paragraph": {
+        "id": "XX_dq5PhunS5xD8bAeiaY",
+        "editorValue": "[{\"children\":[{\"text\":\"Chemical Method\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"These solutions to insect problems are often not worthwhile because:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They are effective on a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"tkjbrUslmsD06EEsK2jqI\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They Can bring harm to \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"zYRRv4dfZFRcgjCKVQYbL\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Insects become \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"TRqHz8iyytfqs0J3K8kku\"},{\"text\":\" to the chemicals quickly.\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Biological methods\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"These Methods are \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qltfgkIHBCCSYz4tR1b7w\"},{\"text\":\" than chemical methods of eliminating harmful insects.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Breeding control method\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In order to control the breeding of insects, one needs to understand the insects’ \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"uBOLrs5haPH0Q6KWEW2be\"},{\"text\":\".\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "tkjbrUslmsD06EEsK2jqI",
+          "key": 0
+         },
+         {
+          "id": "zYRRv4dfZFRcgjCKVQYbL",
+          "key": 1
+         },
+         {
+          "id": "TRqHz8iyytfqs0J3K8kku",
+          "key": 2
+         },
+         {
+          "id": "qltfgkIHBCCSYz4tR1b7w",
+          "key": 3
+         },
+         {
+          "id": "uBOLrs5haPH0Q6KWEW2be",
+          "key": 4
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:00Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

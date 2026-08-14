@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam15-t3-listening",
+ "title": "CAM IELTS 15 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 15",
+ "testNum": 3,
+ "order": 23,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-15-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Employment Agency: Possible Jobs",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L3_S1.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5692342
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/59e5e17a-27af-4f8d-9c0b-e83aefa847ec.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 49
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Street Play Scheme",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L3_S2.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 5135046
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/484dea5b-4d46-4604-b7cf-2c503b794776.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 22
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Hazel Analysed Items In Newspapers",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L3_S3.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 4960122
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dc2d0ffd-ef0c-4911-bde6-c804d7b12a4c.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Early History Of Keeping Clean",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM15_L3_S4.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 5649490
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ce73c590-4a0a-4351-9ba8-dd06b587054d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 21
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:39:32Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp1-t5-listening",
+ "title": "Practice Test Plus 1 - Listening Test 5",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 5,
+ "order": 53,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-1-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Millenium Office Supplies",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5a6fb093-4fc1-48c2-9499-cde4cfdf7c52.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 15468713
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/53d6e6e8-9b96-4fd2-8b34-2723410f6fa2.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Artist’s Exhibition",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8b94ddd6-8086-4763-a233-1d27e63a14c3.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 12793775
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5bcaafbb-5476-4c29-9f7d-014c1e5a52cc.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 7
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "History Of Bears",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6ec18277-e2d5-4f79-b7a6-c3c4ecd6c976.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 15865775
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/97357099-b126-4181-b7b4-c40670923fb6.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 36
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Solar Eclipse",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/bcab8e7c-25e8-49f8-a886-3e8c2e3750dc.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 18394428
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/df5f2905-cf53-444b-9c7a-733bb366adb4.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 13
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:59:56Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

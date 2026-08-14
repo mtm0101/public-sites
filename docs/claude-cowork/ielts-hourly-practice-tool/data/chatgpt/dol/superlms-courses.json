@@ -1,0 +1,21 @@
+{
+ "schema": 1,
+ "_readme": "DOL SuperLMS course vocab sources. Auth: scripts/.dol-jwt or env DOL_JWT.",
+ "courses": [
+  {
+   "courseId": "403ca28a16",
+   "group": "Giai đoạn 1 - học Writing - Online-IELTS-7.0-25.04.2025-18:00",
+   "landingUrl": "https://superlms.dolenglish.vn/my-classes/403ca28a16/vocab"
+  },
+  {
+   "courseId": "403ca28a17",
+   "group": "Giai đoạn 2 - học Reading - Online-IELTS-7.0-02.06.2025-18:00",
+   "landingUrl": "https://superlms.dolenglish.vn/my-classes/403ca28a17/vocab"
+  },
+  {
+   "courseId": "403ca28a18",
+   "group": "Giai đoạn 3 - học Speaking, Listening - Online-IELTS-7.0-18.06.2025-18:00",
+   "landingUrl": "https://superlms.dolenglish.vn/my-classes/403ca28a18/vocab"
+  }
+ ]
+}

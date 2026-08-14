@@ -1,0 +1,2081 @@
+{
+ "schema": 1,
+ "id": "actual6-t2-listening",
+ "title": "Actual Test 6 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 6",
+ "testNum": 2,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-6-test-2-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-6-test-2-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "New Diet",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "2a4d07fc-2841-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "2a4d07fd-2841-11ed-9917-6b4c6718aa1d",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"một tính từ\",\"bold\":true},{\"text\":\" (both sensible and ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"And that's part of the \"},{\"text\":\"sensible eating plan\\\"\",\"bold\":true},{\"text\":\" (eating plan = diet)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \",\"marks\":[]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"That's right, \"},{\"text\":\"sensible and practical\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: practical\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 123,
+          "endTimeInSeconds": 138,
+          "transcripts": [
+           {
+            "id": "3/123626-130279",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 130,
+            "text": " And that’s part of the sensible eating plan that we have agreed we need to formulate—one that we can both follow.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "4/130279-138424",
+            "startTimeInSeconds": 130,
+            "endTimeInSeconds": 138,
+            "text": " That’s right, sensible, and practical — allowing us to indulge in some sweet foods on occasions.",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           }
+          ]
+         },
+         "value": "practical",
+         "blankId": "y-jQw4nPnnA19FfwCf5Qq"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"họ có thể ăn gì mỗi 2 tháng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe các từ chỉ đồ ăn như \"},{\"text\":\"pizza \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"hamburger \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"pizzas could be eaten once a week\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Nhưng sau đó nghe Mary sửa lại là \\\"\"},{\"text\":\"once every two months\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là \"},{\"text\":\"có thể ăn pizza mỗi 2 tháng\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: pizzas \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 138,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "5/138424-143373",
+            "startTimeInSeconds": 138,
+            "endTimeInSeconds": 143,
+            "text": " On rare occasions, and we’re going to cut out all the pizzas and hamburgers. ",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "6/143373-151203",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 151,
+            "text": " Well, not totally. I thought you said pizzas could be eaten once a week. You know how I like pizzas.",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "7/151203-157353",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 157,
+            "text": " No. I said once every two months. Once a week was ice cream, not pizza.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         },
+         "value": "pizzas/pizza",
+         "blankId": "ja-qubs90QvTrTWs6cTNP"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" họ đi đâu vào thứ 7\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter hỏi \\\"and \"},{\"text\":\"hiking on Saturdays, right\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Mary trả lời \\\"No, \"},{\"text\":\"hiking is Sundays, allowing Saturdays for the light walking exercise\\\"  \",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hiking là của Chủ nhật, còn\"},{\"text\":\" Thứ bảy sẽ là light walking\\n=> Đáp án: walk/ light walking \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 190,
+          "transcripts": [
+           {
+            "id": "10/171515-177467",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 177,
+            "text": " That’s right. So, jogging twice a week, and hiking on Saturdays, right?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "11/177467-190685",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 190,
+            "text": " No, hiking is Sundays, allowing Saturdays for the light walking exercise. I’ve investigated, and discovered there are a lot of walking trails around this suburb, with many beautiful places if you just look around.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         },
+         "value": "walking/light walking",
+         "blankId": "KUGIRbjmDqmlsPpFP7OJT"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"họ sẽ đi đâu vào thứ bảy tới\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"what's happening\"},{\"text\":\" this Saturday\",\"bold\":true},{\"text\":\"?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"this Saturday we'll visit Pine Park\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án có thể là \"},{\"text\":\"Pine Park\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Peter nói là \\\"\"},{\"text\":\"Hill Park is nicer\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Nhưng nghe Mary nói tiếp là \\\"We have to travel\"},{\"text\":\" too far\",\"bold\":true},{\"text\":\" to reach Hill Park, so\"},{\"text\":\" I ruled that out \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mary đã loại Hill Park ra rồi\\n=> \"},{\"text\":\"Đáp án: Pine Park  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 190,
+          "endTimeInSeconds": 210,
+          "transcripts": [
+           {
+            "id": "12/190685-195335",
+            "startTimeInSeconds": 190,
+            "endTimeInSeconds": 195,
+            "text": " So what’s happening this Saturday? A walk around the city? ",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "13/195335-199474",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 199,
+            "text": " That’s later in the month. This Saturday we’ll visit Pine Park.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "14/199474-203197",
+            "startTimeInSeconds": 199,
+            "endTimeInSeconds": 203,
+            "text": " Hill Park is nicer, with great views, too.",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "15/203197-210292",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 210,
+            "text": " Yes, but we have to travel too far to reach Hill Park, so I ruled that out, and I love the smell of pines.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         },
+         "value": "Pine Park",
+         "blankId": "PP9bpOGMN2RNhPVGVjerp"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" trong mỗi bữa ăn sẽ có gì \",\"bold\":true},{\"text\":\"(in every meal, there will be ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"And what about the weekday \"},{\"text\":\"meals\",\"bold\":true},{\"text\":\"? \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"it's important to \"},{\"text\":\"vary the meals\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Nhưng \\\"the only\"},{\"text\":\" common factor is the fruit juice\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bữa ăn sẽ thay đổi đa dạng nhưng \"},{\"text\":\"fruit juice là common factor, ý là lúc nào cũng có\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: fruit juice  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 229,
+          "transcripts": [
+           {
+            "id": "16/210292-215437",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 215,
+            "text": " And what about the weekday meals? Salads every night, I suppose?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "17/215437-229585",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 229,
+            "text": " No, it’s important to vary the meals so that the food remains interesting and fun. The only common factor is the fruit juice, but otherwise we’ll have a variety of healthy fare, from salads, to fish, to lean meat.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         },
+         "value": "fruit juice",
+         "blankId": "fvtlWpkrW11LPIBXtjeLi"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "XrEBBJO_S0F3i0vWHsw4V",
+         "editorValue": "[{\"children\":[{\"text\":\"Peter and Mary’s diet will be both sensible and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"y-jQw4nPnnA19FfwCf5Qq\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "y-jQw4nPnnA19FfwCf5Qq",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "egbabnja4STf6chbwexl5",
+         "editorValue": "[{\"children\":[{\"text\":\"Every two months, they can eat\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ja-qubs90QvTrTWs6cTNP\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "ja-qubs90QvTrTWs6cTNP",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "BpWyK_bE0w-HhTlxhjLBm",
+         "editorValue": "[{\"children\":[{\"text\":\"On Saturdays, they will go\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"KUGIRbjmDqmlsPpFP7OJT\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "KUGIRbjmDqmlsPpFP7OJT",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "1pBcL_tEZcX-w4XrhUrtT",
+         "editorValue": "[{\"children\":[{\"text\":\"This coming Saturday, they will go to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"PP9bpOGMN2RNhPVGVjerp\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "PP9bpOGMN2RNhPVGVjerp",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "9bO2B5C77k1Ph930NTrAv",
+         "editorValue": "[{\"children\":[{\"text\":\"In every meal, there will be \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"fvtlWpkrW11LPIBXtjeLi\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "fvtlWpkrW11LPIBXtjeLi",
+           "key": 4
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Example"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Peter consumes far too much "
+         },
+         {
+          "text": "soft drink.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "2a4d07fe-2841-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "GJiIXb3WcSJsE-h4lQc3u",
+       "type": "DRAG_IN",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/b5ad9b2f-7fd6-46d0-9053-ef783524d91b.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/b5ad9b2f-7fd6-46d0-9053-ef783524d91b.png",
+        "name": "AT6_L2_P1_new diet_NoOpt.png",
+        "uploadedDate": "2021-11-02T04:26:46.846+0000",
+        "size": 6544,
+        "width": 375,
+        "height": 208
+       },
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"So, on \"},{\"text\":\"Tuesdays\",\"bold\":true},{\"text\":\", what can I choose?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Peter nói  \\\"\"},{\"text\":\"I'll go for the biscuits [...]\",\"bold\":true},{\"text\":\" \"},{\"text\":\"so do you, right? \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Mary trả lời là \\\"\"},{\"text\":\"I do indeed\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Peter hỏi \"},{\"text\":\"Mary có ăn biscuits giống anh ấy không\",\"bold\":true},{\"text\":\" và Mary trả lời \"},{\"text\":\"có\\n=> Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 273,
+          "endTimeInSeconds": 295,
+          "transcripts": [
+           {
+            "id": "23/273974-277244",
+            "startTimeInSeconds": 273,
+            "endTimeInSeconds": 277,
+            "text": " So, on Tuesdays, what can I choose?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "24/277244-282265",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 282,
+            "text": " You have a choice between a small serving of chocolate, ice cream, or biscuits.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "25/282265-290380",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 290,
+            "text": " Okay, well, I’ll go for the biscuits. I love those crunchy little things with my cup of tea. So do you, right?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "26/290380-295072",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 295,
+            "text": " I do indeed, so I’ll have them, too, saving the ice cream for later.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy Peter nói \\\"\"},{\"text\":\"I'll eat the ice cream\",\"bold\":true},{\"text\":\" on \"},{\"text\":\"Thursday\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"chọn B\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 295,
+          "endTimeInSeconds": 320,
+          "transcripts": [
+           {
+            "id": "27/295072-306430",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 306,
+            "text": " But I know how much you like ice cream, so why don’t you save it for the end of the week? That will give you the motivation to keep going, and you can have chocolate midweek?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "28/306430-313970",
+            "startTimeInSeconds": 306,
+            "endTimeInSeconds": 313,
+            "text": " That’s a good idea, but I think the most important thing is for you and I to eat different things on those other two days.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "29/313970-320155",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 320,
+            "text": " Well, if you think that way, I’ll eat the ice cream on Thursdays, not the chocolate. Okay?",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mary nói \\\"Well, if you're having that, then I can't have ice cream [...]. \"},{\"text\":\"I'll have the chocolate\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do họ phải ăn khác nhau nên Peter ăn ice cream thì\",\"marks\":[]},{\"text\":\" Mary ăn chocolate \\n\",\"marks\":[],\"bold\":true},{\"text\":\"=>\",\"marks\":[]},{\"text\":\" Đáp án là A \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 320,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "30/320155-326697",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 326,
+            "text": " Well, if you’re having that, then I can’t have ice cream. In order to be different, I’ll have the chocolate.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết đáp án sắp tới khi nghe \\\"And then you can have the chocolate on \"},{\"text\":\"Sunday\",\"bold\":true},{\"text\":\", right?\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Peter nói \\\"\"},{\"text\":\"I want biscuits again\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án có thể là B\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mary phản đối là \\\"\"},{\"text\":\"we can't repeat\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Peter trả lời là \\\"\"},{\"text\":\"this isn't fixed\",\"bold\":true},{\"text\":\" in concrete. \"},{\"text\":\"I can have them again instead of chocolate\\\" \",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Peter\"},{\"text\":\" vẫn sẽ ăn biscuits\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 339,
+          "endTimeInSeconds": 363,
+          "transcripts": [
+           {
+            "id": "34/339948-342889",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 342,
+            "text": " And then you can have the chocolate on Sunday, right?",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "35/342889-348787",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 348,
+            "text": " But I like biscuits? Actually, I want biscuits again—to have with my cup of tea.",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           },
+           {
+            "id": "36/348787-353207",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 353,
+            "text": " But you have the biscuits on Monday, remember, and we can’t repeat.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           },
+           {
+            "id": "37/353207-363213",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 363,
+            "text": " Ah come on! This isn’t fixed in concrete. I can have them again instead of chocolate. You might like variety, but I don’t. I’m a creature of habit.",
+            "character": {
+             "id": "KrS7DT6nwqv7OJ1TVTK1B",
+             "name": "Peter"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy Mary nói \\\"I, for one, am sticking to the original plan, \"},{\"text\":\"with ice cream to finish the week\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"not another dose of chocolate\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mary \"},{\"text\":\"sẽ ăn ice cream vào Sunday\",\"bold\":true},{\"text\":\" (=to finish the week), chứ \"},{\"text\":\"không ăn chocolate \\n=> Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 363,
+          "endTimeInSeconds": 377,
+          "transcripts": [
+           {
+            "id": "38/363213-377387",
+            "startTimeInSeconds": 363,
+            "endTimeInSeconds": 377,
+            "text": " Well, the whole point of this was to taste different snacks, but if you want the same thing, okay. I, for one, am sticking to the original plan, with ice cream to finish the week, and not another dose of chocolate.",
+            "character": {
+             "id": "oBqd58AFHPu8KwMGkARAq",
+             "name": "Mary"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "questions": [
+        {
+         "text": "1",
+         "id": "V1k-uSFpzMtmlxRmDn8AL",
+         "x": 243,
+         "y": 79
+        },
+        {
+         "text": "2",
+         "id": "FlhL5t3NESeZ7SsQrl9Y5",
+         "x": 111,
+         "y": 117
+        },
+        {
+         "text": "3",
+         "id": "l7aZTuPgwhk4S4L3qDe03",
+         "x": 246,
+         "y": 115
+        },
+        {
+         "text": "4",
+         "id": "Tk79_0l3v7AbUBbVqatxk",
+         "x": 111,
+         "y": 155
+        },
+        {
+         "text": "5",
+         "id": "pP7lkUbL8nnysAOA7eejx",
+         "x": 246,
+         "y": 152
+        }
+       ],
+       "options": [
+        "Chocolate",
+        "Ice cream",
+        "Biscuits"
+       ]
+      }
+     ],
+     "questionType": "DRAG_IN",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Advantages Of Stanfield Childcare Centre",
+   "duration": 6,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "5130e82a-2814-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "yPMUKqQhQd8YaIHsIZ02i",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"walls \",\"bold\":true},{\"text\":\"(walls are ___) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"Look around and you'll see that \"},{\"text\":\"every room has padded walls\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Walls are padded (được đệm) \\n=> \"},{\"text\":\"Đáp án: padded \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 27,
+          "endTimeInSeconds": 63,
+          "transcripts": [
+           {
+            "id": "0/27968-43003",
+            "startTimeInSeconds": 27,
+            "endTimeInSeconds": 43,
+            "text": "Hello everyone, and welcome to the Stanﬁeld Childcare Centre. Now I know you're all new mothers, and you like to cling to your children. You’ve certainly spent a lot of time raising them to the age of four and are perhaps reluctant to leave them here at our centre."
+           },
+           {
+            "id": "1/43003-63402",
+            "startTimeInSeconds": 43,
+            "endTimeInSeconds": 63,
+            "text": "Well, one of the ﬁrst things you should understand is that here it is safe — very safe. Look around and  you'll see that every room has padded walls. Other centres have standard painted walls, but here, we have invested a lot to ensure your children will not hurt themselves when running around and possibly tripping over."
+           }
+          ]
+         },
+         "value": "padded",
+         "blankId": "RgEZ009mh525gHB6HZUuo"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"ensure your children will not hurt themselves\\\"  \",\"bold\":true},{\"text\":\"(có liên quan tới đệm (padded)) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"this\"},{\"text\":\" padding extends around all corners\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Các góc tường cũng được bao đệm lại\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án:  corners \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 43,
+          "endTimeInSeconds": 78,
+          "transcripts": [
+           {
+            "id": "1/43003-63402",
+            "startTimeInSeconds": 43,
+            "endTimeInSeconds": 63,
+            "text": "Well, one of the ﬁrst things you should understand is that here it is safe — very safe. Look around and  you'll see that every room has padded walls. Other centres have standard painted walls, but here, we have invested a lot to ensure your children will not hurt themselves when running around and possibly tripping over."
+           },
+           {
+            "id": "2/63402-78291",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 78,
+            "text": "This padding extends around all corners — that is, the areas most likely to bruise and cut your active little child. So, you can rest assured that any accidents of a physical nature are not likely to happen here."
+           }
+          ]
+         },
+         "value": "corners",
+         "blankId": "alYQevKCSoLnzbAwSCAB0"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" giáo viên có thể dạy cái gì \",\"bold\":true},{\"text\":\"(Teachers are able to teach a ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"our staff are not only trained childcare workers, but all of them \"},{\"text\":\"have a special skill\",\"bold\":true},{\"text\":\",\"},{\"text\":\" which they can impart to your child\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Các nhân viên đều có \"},{\"text\":\"special skill để dạy cho trẻ\",\"bold\":true},{\"text\":\" (impart to = teach) \\n=> \"},{\"text\":\"Đáp án: special skill \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 78,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "3/78291-89216",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 89,
+            "text": "Now, you don't want to dump your child at this centre and let them waste their time. You want them to learn, and that’s one of the greatest assets of our establishment. "
+           },
+           {
+            "id": "4/89216-114487",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 114,
+            "text": "Our staﬀ are not only trained childcare workers, but all of them have a special skill, which they can imparl to your child, whether it be teaching the ABC, some basic mathematics, artistic skills, or physical education. We are particularly known for our pre-school literacy program and have a wealth of learning toys, specially designed to develop your child's potential."
+           }
+          ]
+         },
+         "value": "special skill",
+         "blankId": "K_dxXksTTHYX8fpbUc8PJ"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"có cái gì đặc biệt \",\"bold\":true},{\"text\":\"(there are many special ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"... \"},{\"text\":\"have a wealth of learning toys, speacially designed \",\"bold\":true},{\"text\":\"to develop your child's potential\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có một kho \"},{\"text\":\"(= many) learning toys được thiết kế đặc biệt\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: learning toys \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 89,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "4/89216-114487",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 114,
+            "text": "Our staﬀ are not only trained childcare workers, but all of them have a special skill, which they can imparl to your child, whether it be teaching the ABC, some basic mathematics, artistic skills, or physical education. We are particularly known for our pre-school literacy program and have a wealth of learning toys, specially designed to develop your child's potential."
+           }
+          ]
+         },
+         "value": "learning toys",
+         "blankId": "DbpmLUEZ4YCwmi2nGBvnP"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"unlike most centres\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\"  \",\"bold\":true},{\"text\":\"(đề cập tới điểm khác biệt với nơi khác) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we \"},{\"text\":\"disinfect every surface\",\"bold\":true},{\"text\":\" at the end of \"},{\"text\":\"every day\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Disinfect surfaces every day\",\"bold\":true},{\"text\":\" (=daily) \\n=> \"},{\"text\":\"Đáp án: disinfect \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 133,
+          "endTimeInSeconds": 153,
+          "transcripts": [
+           {
+            "id": "6/133110-153380",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 153,
+            "text": "For a start, unlike most centres which clean with standard detergents, we disinfect every surface at the end of every day, using a special disinfectant wash. Some places just wipe surfaces daily with a damp cloth, but not us. And that’s just the start."
+           }
+          ]
+         },
+         "value": "disinfect",
+         "blankId": "eEVTrntpWm4tbHyWv0yYI"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"trường có quy trình để hạn chế sự lây lan của cái gì \",\"bold\":true},{\"text\":\"(procedures to limit the spread of ___)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe thấy \\\"and if we feel your child is sick, we \"},{\"text\":\"ask him or her to wear a face mask\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" ensure germs are not transmitted\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu học sinh bị bệnh thì sẽ phải mang khẩu trang \"},{\"text\":\"để hạn chế sự phát tán của vi khuẩn\",\"bold\":true},{\"text\":\" (transmit = spread)\\n=> \"},{\"text\":\"Đáp án: germs \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 153,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "7/153380-165022",
+            "startTimeInSeconds": 153,
+            "endTimeInSeconds": 165,
+            "text": "We also physically check your children when they arrive every day, and if we feel your child is sick, we ask him or her to wear a face mask to ensure germs are not transmitted. "
+           }
+          ]
+         },
+         "value": "germs",
+         "blankId": "k5B5NZ0j7_7I-naKKGlR9"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "RgEZ009mh525gHB6HZUuo",
+         "key": 0
+        },
+        {
+         "id": "alYQevKCSoLnzbAwSCAB0",
+         "key": 1
+        },
+        {
+         "id": "K_dxXksTTHYX8fpbUc8PJ",
+         "key": 2
+        },
+        {
+         "id": "DbpmLUEZ4YCwmi2nGBvnP",
+         "key": 3
+        },
+        {
+         "id": "eEVTrntpWm4tbHyWv0yYI",
+         "key": 4
+        },
+        {
+         "id": "k5B5NZ0j7_7I-naKKGlR9",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"LCNBo579ZjgptfNfRS4wJ\",\"cellsWidth\":[80,285,300],\"children\":[{\"type\":\"tr\",\"id\":\"3OGs5uYs0GX-AsIrxOsn8\",\"children\":[{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"0rm56TOr74Wwk5I99DMmV\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Detail\",\"bold\":true}]}]}],\"id\":\"H-xIAXNs6ZJAGWie9ux53\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Another Detail\",\"bold\":true}]}]}],\"id\":\"iewRiOQodWcChkUR4RLN_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"SSpnsShK_94R6ntfj__SX\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"zAzDClm1ohdPUimiZsu7v\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Walls are\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"RgEZ009mh525gHB6HZUuo\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"byS7A6JGRm0HpblCUS6Sp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"includes the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"alYQevKCSoLnzbAwSCAB0\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"1H_Wtq-71E69OBs1RB8Ti\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"PKodHvJy7dJDzADprWgXN\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"2\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"9dC5X7ZaF3gtsV_CTm4kM\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Teachers are able to teach a\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"K_dxXksTTHYX8fpbUc8PJ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"iSXkzIn7RqkRRj1KmzRxF\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There are many special\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"DbpmLUEZ4YCwmi2nGBvnP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"1zhH9uKO-kvUTdZEY0HP3\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"BjQki8Fb6J8k81TrsOhCe\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"3\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"xTIpq7rNs63hny9RHiMkn\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"eEVTrntpWm4tbHyWv0yYI\",\"text\":\"\"}]},{\"text\":\"surfaces daily.\"}]}]}],\"id\":\"_PymnES_32xPWufJ5p82a\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"procedures to limit the spread of\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"k5B5NZ0j7_7I-naKKGlR9\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"nLG4FPeXFcac7yoFSt2bB\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":665,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Advantages of Stanfield Childcare Centre"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "5130e82b-2814-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "5130e82c-2814-11ed-9917-6b4c6718aa1d",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "Andrea"
+        },
+        {
+         "key": 1,
+         "value": "Bella"
+        },
+        {
+         "key": 2,
+         "value": "Cathy"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \",\"marks\":[]},{\"text\":\"ai là người có con\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley11\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tới tên các nhân viên \"},{\"text\":\"Andrea, Bella, Cathy \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Bella [...] knows children very well, having worked here for five years\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ nói\"},{\"text\":\" Bella hiểu trẻ em\",\"bold\":true},{\"text\":\", không nhắc tới Bella có gia đình hay không \\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"Cathy has her own family\",\"bold\":true},{\"text\":\" — \"},{\"text\":\"two little girls\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cathy có con \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 199,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "9/199774-219261",
+            "startTimeInSeconds": 199,
+            "endTimeInSeconds": 219,
+            "text": "Now, at Stanﬁeld Childcare Centre we have excellent childcare oﬃcers, and let me brieﬂy introduce them. We have Susan, Andrea, Bella, Cathy, Lisa, and Liz. They’re all fully trained and come with some individual assets which make them even better."
+           },
+           {
+            "id": "10/219261-234495",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 234,
+            "text": "Bella, for instance, knows children very well, having worked here for five years, and Cathy has her own family — two little girls — so she can talk to you with ﬁrst-hand knowledge of what it’s really like to raise children."
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\",\"marks\":[]},{\"text\":\" ai thường ngủ ở trung tâm\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"Bella \",\"bold\":true},{\"text\":\"[...] often \"},{\"text\":\"relaxes here after work\",\"bold\":true},{\"text\":\", spending long hours \"},{\"text\":\"chatting to parents\",\"bold\":true},{\"text\":\", \"},{\"text\":\"as does Cathy\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Bella và Cathy\",\"bold\":true},{\"text\":\" \"},{\"text\":\"ở lại sau giờ làm\",\"bold\":true},{\"text\":\", nhưng không phải để ngủ mà \"},{\"text\":\"để nói chuyện với phụ huynh\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B  và C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"Andrea\",\"bold\":true},{\"text\":\", who will \"},{\"text\":\"sometimes spend the night here\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Andrea có \"},{\"text\":\"qua đêm tại centre \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 234,
+          "endTimeInSeconds": 253,
+          "transcripts": [
+           {
+            "id": "11/234495-253251",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 253,
+            "text": "But getting back to Bella, she often relaxes here after work, spending long hours chatting to parents, as does Cathy in fact. But in terms of hours, nothing can compare to Andrea, who will sometimes spend the night here, staying in our overnight room."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem ai \"},{\"text\":\"dạy shy children tốt \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy speaker nói là \\\"\"},{\"text\":\"Bella used to be shy\",\"bold\":true},{\"text\":\" but now is [...] as outgoing as any of them\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bella trước đậy khá ngại ngùng, nhưng đó là nói \"},{\"text\":\"về bản thân Bella\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"Cathy deal with the particularly quiet and introverted children\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cathy là người dạy\",\"bold\":true},{\"text\":\" những đứa trẻ \"},{\"text\":\"quiet and introverted \",\"bold\":true},{\"text\":\"(= shy)\\n=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 253,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "12/253251-269662",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 269,
+            "text": "Why? Because this centre is very friendly, and simply a great place to be. Bella, for example, used to be quite shy herself but now is marvelous with the little kiddies, as outgoing as any of them."
+           },
+           {
+            "id": "13/269662-279399",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 279,
+            "text": "We let Cathy, though, deal with the particularly quiet and introverted children, since having her own family,  she knows what can really bring them out."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"ai nấu ăn ngon\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"yummie homemade cakes\\\" \",\"bold\":true},{\"text\":\"(liên quan tới việc nấu ăn)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"Cathy gets these from Bella\",\"bold\":true},{\"text\":\", who \"},{\"text\":\"can make some of the best in town\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cathy lấy bánh từ Bella, và \"},{\"text\":\"Bella là người làm bánh ngon nhất \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 279,
+          "endTimeInSeconds": 297,
+          "transcripts": [
+           {
+            "id": "14/279399-297363",
+            "startTimeInSeconds": 279,
+            "endTimeInSeconds": 297,
+            "text": "Of course, what better way to do this than with yummie homemade cakes, and Cathy often gets these from Bella, who can make some of the best in town. Yes, everyone here brings something special, which is why we’re one of the best childcare centres in the business."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 4,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "has her own children?"
+        },
+        {
+         "key": 1,
+         "value": "often sleeps at the center?"
+        },
+        {
+         "key": 2,
+         "value": "is good with shy children?"
+        },
+        {
+         "key": 3,
+         "value": "is a good cook?"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, ",
+          "bold": true
+         },
+         {
+          "text": "or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "NB",
+          "bold": true
+         },
+         {
+          "text": " You may use a letter more than once."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": ", or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Foundation For Essay Writing",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "ac0db1d6-2840-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "AUkL9EWskBOxVKwMxjxD_",
+       "type": "FLOWCHART_ANSWER",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"bước đầu tiên của việc viết Essay \",\"bold\":true},{\"text\":\"(Decide on ___ you like) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau  \\\"I'm not sure on the \"},{\"text\":\"best way to start\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"Start with\"},{\"text\":\" a topic\",\"bold\":true},{\"text\":\", [...] You will \"},{\"text\":\"always write better\",\"bold\":true},{\"text\":\" when doing so on \"},{\"text\":\"a topic you are interested in\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là trước hết\"},{\"text\":\" cần bắt đầu bằng chủ đề người viết yêu thích \",\"bold\":true},{\"text\":\"(like = are interested in) \\n=> \"},{\"text\":\"Đáp án: topic\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 56,
+          "endTimeInSeconds": 82,
+          "transcripts": [
+           {
+            "id": "4/56910-67135",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 67,
+            "text": " Yes, I have a few issues to discuss. Obviously I want a good essay, and I want to achieve high marks. But I’m not sure on the best way to start.",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "5/67135-82732",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 82,
+            "text": " That’s an easy question. Start with a topic, but not one that I necessarily suggest, but one that you want to explore. You will always write better when doing so on a topic you are interested in, not one imposed upon you by others.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "topic",
+         "blankId": "PLx-QbcCPE2k6OenJLsEw"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"cần focus vào cái gì \",\"bold\":true},{\"text\":\"(focus on ___ area of interest) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"break it into\",\"bold\":true},{\"text\":\" various \"},{\"text\":\"current areas of discussion and relevance\",\"bold\":true},{\"text\":\", then \"},{\"text\":\"look more carefully\",\"bold\":true},{\"text\":\" \"},{\"text\":\"at one of them\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tách ra thành các \"},{\"text\":\"current areas\",\"bold\":true},{\"text\":\" và sau đó\"},{\"text\":\" tập trung kĩ vào một vấn đề nhất định\",\"bold\":true},{\"text\":\" (look more carefully = focus on) \\n=> \"},{\"text\":\"Đáp án: current \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 82,
+          "endTimeInSeconds": 109,
+          "transcripts": [
+           {
+            "id": "6/82732-86172",
+            "startTimeInSeconds": 82,
+            "endTimeInSeconds": 86,
+            "text": " Well, I’m interested in management theory.",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "7/86172-109220",
+            "startTimeInSeconds": 86,
+            "endTimeInSeconds": 109,
+            "text": " Then pursue that. However, that alone is far too broad. Break it into various current areas of discussion and relevance, then look more carefully at one of them — say, management and cultural differences, or management and motivation, or other aspects, such as the role of salary, group cohesion, or leadership.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "current",
+         "blankId": "ktxVPCW554bQ8Fme0j8ym"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" một loại statement \",\"bold\":true},{\"text\":\"(write ___ statement) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"you'll have to\"},{\"text\":\" think of a thesis\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"this statement\",\"bold\":true},{\"text\":\" could be of several types\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe tiếp có thấy \\\"The \"},{\"text\":\"thesis statement\",\"bold\":true},{\"text\":\" will make that very clear...\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: thesis  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 115,
+          "endTimeInSeconds": 151,
+          "transcripts": [
+           {
+            "id": "9/115604-129663",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 129,
+            "text": " Well, that’s a start, but you can’t then just write planlessly, without defining exactly what you intend to do within the area you’ve chosen. You’ll have to think of a thesis, and this statement could be of several types.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           },
+           {
+            "id": "10/129663-130762",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 130,
+            "text": " Such as what?",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "11/130762-151446",
+            "startTimeInSeconds": 130,
+            "endTimeInSeconds": 151,
+            "text": " Oh, you could argue a point, something that you believe in; or discuss an issue, looking at its various perspectives; or critique the opinions of others, pointing out the pitfalls and flaws. The thesis statement will make that very clear because it will say, in simple terms, what you intend to achieve in your essay.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "thesis",
+         "blankId": "qUDbNIhl79LSuiyyIgUlV"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp theo mình cần nghe xem\"},{\"text\":\" cần create cái gì \",\"bold\":true},{\"text\":\"(create ___ ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"And \"},{\"text\":\"then \",\"bold\":true},{\"text\":\"I can just begin writing, rirght?\\\" (hỏi việc cần làm tiếp theo) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"... it needs to be logical and organised, this means\"},{\"text\":\" you'll need an outline \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cần phải tạo dàn bài \\n=> \"},{\"text\":\"Đáp án: outline \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "12/151446-154977",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 154,
+            "text": " I see. And then I can just begin writing, right?",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "13/154977-177003",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 177,
+            "text": " Wrong! [Uh?] If your essay is going to be clear, it needs to be logical and organised, and this means you’ll need an outline. This could be written as a flowchart, or spider graph — that is, a series of connected lines, but whatever shape the outline takes, there must be a sense of progress, in, more or less, a straight line, towards a goal.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "outline",
+         "blankId": "B-MJgos6tOI9fIOpEL9rp"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" This \",\"bold\":true},{\"text\":\"ở trong question \"},{\"text\":\"đang chỉ về outline\",\"bold\":true},{\"text\":\" ở câu trước \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án câu này sẽ theo sát câu trên\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"whatever shape the outline takes, \"},{\"text\":\"there must be a sense of progress\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cho dù outline có như thế nào, cũng cần \"},{\"text\":\"phải cho thấy tiến độ của outline \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: progress \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 154,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "13/154977-177003",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 177,
+            "text": " Wrong! [Uh?] If your essay is going to be clear, it needs to be logical and organised, and this means you’ll need an outline. This could be written as a flowchart, or spider graph — that is, a series of connected lines, but whatever shape the outline takes, there must be a sense of progress, in, more or less, a straight line, towards a goal.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "progress",
+         "blankId": "a19GqiL1458GUYwfWtcb7"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "-evDG00u4NLulIAgmmTu7",
+         "title": "STEP 1",
+         "editorValue": "[{\"children\":[{\"text\":\"Decide on\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"PLx-QbcCPE2k6OenJLsEw\"},{\"text\":\"you like\"}]}]",
+         "blanks": [
+          {
+           "id": "PLx-QbcCPE2k6OenJLsEw",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "skpE9BkGTe_YCQEzE2ElX",
+         "title": "STEP 2",
+         "editorValue": "[{\"children\":[{\"text\":\"Focus on\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ktxVPCW554bQ8Fme0j8ym\"},{\"text\":\"area of interest\"}]}]",
+         "blanks": [
+          {
+           "id": "ktxVPCW554bQ8Fme0j8ym",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "3DrIcjN0979AHJ7JxlUQK",
+         "title": "STEP 3",
+         "editorValue": "[{\"children\":[{\"text\":\"Write\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qUDbNIhl79LSuiyyIgUlV\"},{\"text\":\"statement\"}]}]",
+         "blanks": [
+          {
+           "id": "qUDbNIhl79LSuiyyIgUlV",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "L5KZvdoSG-Tbssi4ynKBV",
+         "title": "STEP 4",
+         "editorValue": "[{\"children\":[{\"text\":\"Create \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"B-MJgos6tOI9fIOpEL9rp\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "B-MJgos6tOI9fIOpEL9rp",
+           "key": 3
+          }
+         ]
+        },
+        {
+         "id": "XPZBP-tX-EHa1jcoNPm5g",
+         "title": "STEP 5",
+         "editorValue": "[{\"children\":[{\"text\":\"Ensure this\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"a19GqiL1458GUYwfWtcb7\"},{\"text\":\"clearly\"}]}]",
+         "blanks": [
+          {
+           "id": "a19GqiL1458GUYwfWtcb7",
+           "key": 4
+          }
+         ]
+        }
+       ],
+       "heading": "Foundation for Essay Writing"
+      }
+     ],
+     "questionType": "FLOWCHART_ANSWER",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the flowchart."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write"
+         },
+         {
+          "text": " ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "ac0db1d7-2840-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "ac0db1d8-2840-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền: \"},{\"text\":\"plural noun\",\"bold\":true},{\"text\":\" (There are several ___ involved in producing a good essay) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"what consitutues the \"},{\"text\":\"best essay\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang hỏi \"},{\"text\":\"cách để produce a good essay\",\"bold\":true},{\"text\":\" giống như trong đề \\n=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"there are many aspects\",\"bold\":true},{\"text\":\" to consider\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nhiều \"},{\"text\":\"aspects \",\"bold\":true},{\"text\":\"cần phải xem xét \\n=> \"},{\"text\":\"Đáp án: aspects \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 238,
+          "transcripts": [
+           {
+            "id": "16/210416-223764",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 223,
+            "text": " Well, Ms Harris, your advice about essay writing all sounds very useful: solid, and step by step, so I’ll certainly follow that. But can you tell me in more general terms, what constitutes the best essay?",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "17/223764-238194",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 238,
+            "text": " Oh, there are many aspects to consider, but one of the most important is certainly, original thinking. The best essays are written by people who think for themselves, and not just copy or imitate established views.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "aspects",
+         "blankId": "F1GssmWUYHcHg9j6U0AQj"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"phải cho những example như thế nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"people who think for themselves \",\"bold\":true},{\"text\":\"(= think independently)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Ms Harris giải thích là \\\"there needs to be \"},{\"text\":\"support\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó nghe thấy là \\\"For that, \"},{\"text\":\"you need examples, from real life\\\"\",\"bold\":true},{\"text\":\"\\n=> Cần \"},{\"text\":\"ví dụ thực tiễn từ đời sống \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: real-life \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 223,
+          "endTimeInSeconds": 262,
+          "transcripts": [
+           {
+            "id": "17/223764-238194",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 238,
+            "text": " Oh, there are many aspects to consider, but one of the most important is certainly, original thinking. The best essays are written by people who think for themselves, and not just copy or imitate established views.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           },
+           {
+            "id": "18/238194-239603",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 239,
+            "text": " I think I can do that.",
+            "character": {
+             "id": "M1jd5zqmSksrBXDCMfghN",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "19/239603-262432",
+            "startTimeInSeconds": 239,
+            "endTimeInSeconds": 262,
+            "text": " But remember, you can’t just give a list of unsupported assertions. There needs to be support as well — a chain of logic linking each step in your argument. [Right] Yet that alone is not enough. Your argument may be logically sound, but is it practically so? For that, you need examples, from real-life, to illustrate your points or sub-points.",
+            "character": {
+             "id": "26XpMjrX6VKEzX6eRt7KX",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "real-life",
+         "blankId": "3IElOmmGMzjDZF2uI8PEx"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" reference là gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"...you must give a \"},{\"text\":\"reference\",\"bold\":true},{\"text\":\". \"},{\"text\":\"That's an academic necessity\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do \"},{\"text\":\"đề cho từ a\",\"bold\":true},{\"text\":\" ở trước chứ \"},{\"text\":\"không phải an\",\"bold\":true},{\"text\":\" nên bạn \"},{\"text\":\"không điền từ academic được \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Reference là necssity \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: necessity \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 267,
+          "endTimeInSeconds": 280,
+          "transcripts": [
+           {
+            "id": "21/267330-280537",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 280,
+            "text": " But remember, whenever you use an example, or facts or figures that are not commonly known, you must give a reference. That’s an academic necessity, without which your writing will automatically fail.",
+            "character": {
+             "id": "pz5sW9KBaRiHKfy1AKASM",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "necessity",
+         "blankId": "m-ulKfq7MKYIiuAAtS8fv"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" phần formatting phải tuân theo cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"but always ensure that you \",\"marks\":[]},{\"text\":\"format\",\"marks\":[],\"bold\":true},{\"text\":\" it clearly\\\" \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy  \\\"I mean the practical considerations, \"},{\"text\":\"written in the university style guide \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Formatting phải \"},{\"text\":\"dựa vào style guide \",\"bold\":true},{\"text\":\"do trường cung cấp \\n=> \"},{\"text\":\"Đáp án: style guide \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 283,
+          "endTimeInSeconds": 307,
+          "transcripts": [
+           {
+            "id": "23/283787-290167",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 290,
+            "text": " Absolutely—and with that, your essay will be fine, but always ensure that you format it clearly.",
+            "character": {
+             "id": "pz5sW9KBaRiHKfy1AKASM",
+             "name": "Ms Harris"
+            }
+           },
+           {
+            "id": "24/290167-291253",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 291,
+            "text": " What do you mean?",
+            "character": {
+             "id": "f2RO3ue-Iqa1GVct56aln",
+             "name": "Eric"
+            }
+           },
+           {
+            "id": "25/291253-307904",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 307,
+            "text": " I mean the practical considerations, as written in the university style guide, such as leaving appropriate margins, using double spacing, Arial font, and so on. You see, your writing must look good, as well as be good.",
+            "character": {
+             "id": "pz5sW9KBaRiHKfy1AKASM",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "style guide",
+         "blankId": "G7qwXnyol3-oDRr-M2h0N"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"you need to respect \"},{\"text\":\"number of words require\\\"\",\"bold\":true},{\"text\":\" (=word count trong đề) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"...a word-count figure, so follow what they say, \"},{\"text\":\"making your essays neither too long or too short — perhaps 10% either way should be acceptable \\\"\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chênh lệch 10% so với word count \",\"bold\":true},{\"text\":\"là \"},{\"text\":\"chấp nhận được \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 10% \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"Nghe tiếp thấy có nhắc tới \"},{\"text\":\"15% \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"20% \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tuy nhiên \"},{\"text\":\"15% là tiêu chuẩn trước đây\",\"bold\":true},{\"text\":\", còn \"},{\"text\":\"20% là bị lố nhiều quá\",\"bold\":true},{\"text\":\" \\n=> Không phải là đáp án \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 309,
+          "endTimeInSeconds": 336,
+          "transcripts": [
+           {
+            "id": "27/309739-336156",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 336,
+            "text": " And, finally, related to the previous point, you need to respect the number of words required. Your individual lecturers will give you a word-count figure, so follow what they say, making your essay neither too long, nor too short— perhaps 10% either way should be acceptable. 15% was common when I was younger, but it’s a lot stricter now, and 20% would be pushing the boundaries just a little too far.",
+            "character": {
+             "id": "pz5sW9KBaRiHKfy1AKASM",
+             "name": "Ms Harris"
+            }
+           }
+          ]
+         },
+         "value": "10%",
+         "blankId": "EKx0yTsEnY9fZFYlk0nyT"
+        }
+       ],
+       "paragraph": {
+        "id": "ZBXDeoEPD-kT3VS9_Lpkz",
+        "editorValue": "[{\"children\":[{\"text\":\"There are several\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"F1GssmWUYHcHg9j6U0AQj\"},{\"text\":\"involved in producing a good essay. The writer must think independently and give \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"3IElOmmGMzjDZF2uI8PEx\"},{\"text\":\"examples as support, each one with a reference (which is a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"m-ulKfq7MKYIiuAAtS8fv\"},{\"text\":\"). The formatting must follow the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"G7qwXnyol3-oDRr-M2h0N\"},{\"text\":\"issued by the university, as well as the word count decided by the lecturer, although it can vary by\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"EKx0yTsEnY9fZFYlk0nyT\"},{\"text\":\".\"}]}]",
+        "blanks": [
+         {
+          "id": "F1GssmWUYHcHg9j6U0AQj",
+          "key": 0
+         },
+         {
+          "id": "3IElOmmGMzjDZF2uI8PEx",
+          "key": 1
+         },
+         {
+          "id": "m-ulKfq7MKYIiuAAtS8fv",
+          "key": 2
+         },
+         {
+          "id": "G7qwXnyol3-oDRr-M2h0N",
+          "key": 3
+         },
+         {
+          "id": "EKx0yTsEnY9fZFYlk0nyT",
+          "key": 4
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the summary."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Geocentrism Vs Heliocentrism",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "a81f8beb-2814-11ed-b09c-ff167f498640",
+     "questions": [
+      {
+       "uuid": "a81f8bec-2814-11ed-b09c-ff167f498640",
+       "type": "SINGLE_ANSWER",
+       "question": "Geocentrism",
+       "options": [
+        {
+         "key": 0,
+         "value": "has a long history."
+        },
+        {
+         "key": 1,
+         "value": "is similar to heliocentrism."
+        },
+        {
+         "key": 2,
+         "value": "took some time to be deduced."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"This is known as '\"},{\"text\":\"geocentrism\",\"bold\":true},{\"text\":\"'...\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"all pre-modern civilisations\",\"bold\":true},{\"text\":\" drew this conclusion\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tất cả các nền văn hóa cổ đại \",\"bold\":true},{\"text\":\"đều nghĩ thế, tức là \"},{\"text\":\"thuyết địa tâm đã có từ lâu đời \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy định nghĩa \"},{\"text\":\"heliocentrism \",\"bold\":true},{\"text\":\"ngược với \"},{\"text\":\"geocentrism \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hai thuyết này \"},{\"text\":\"không giống nhau \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"heliocentrism \",\"bold\":true},{\"text\":\"[...] took quite a while to be deduced\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không phải là geocentrism \\n=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 36,
+          "endTimeInSeconds": 77,
+          "transcripts": [
+           {
+            "id": "0/36228-54202",
+            "startTimeInSeconds": 36,
+            "endTimeInSeconds": 54,
+            "text": "In the night sky, the stars appear to revolve around the Earth, rising in the east, and disappearing in the west. The Earth itself seems solid, fixed, and stable, and such common sense perception suggests that the Earth is the centre of the universe."
+           },
+           {
+            "id": "1/54202-77099",
+            "startTimeInSeconds": 54,
+            "endTimeInSeconds": 77,
+            "text": "This is known as ‘geo’ ‘centrism’, with geo meaning Earth, and all pre-modern civilisations drew this conclusion. We now know, of course, that the Earth revolves around the sun, and this is called ‘helio’ ‘centrism’, with helio meaning sun, but historically, it took quite a while for this to be deduced."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "a81f8bed-2814-11ed-b09c-ff167f498640",
+       "type": "SINGLE_ANSWER",
+       "question": "Heliocentrism",
+       "options": [
+        {
+         "key": 0,
+         "value": "was realised only recently."
+        },
+        {
+         "key": 1,
+         "value": "was not generally accepted."
+        },
+        {
+         "key": 2,
+         "value": "fitted the views of the church."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley29\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"throughout \",\"bold\":true},{\"text\":\"subsequent \"},{\"text\":\"history\",\"bold\":true},{\"text\":\", \"},{\"text\":\"isolated individuals proposed this new idea\",\"bold\":true},{\"text\":\", but again, \"},{\"text\":\"no one was listening\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thuyết nhật tâm \"},{\"text\":\"được đưa ra nhiều lần\",\"bold\":true},{\"text\":\" bởi nhiều người \"},{\"text\":\"nhưng không ai quan tâm \",\"bold\":true},{\"text\":\"\\n=> Thuyết \"},{\"text\":\"không được chấp nhận\",\"bold\":true},{\"text\":\" dù đã được nghĩ tới\"},{\"text\":\" từ lâu \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"geocentrism\",\"bold\":true},{\"text\":\" also\"},{\"text\":\" fitted the views of\",\"bold\":true},{\"text\":\" the established\"},{\"text\":\" Christian church\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thuyết địa tâm mới phù hợp với quan điểm của hội thánh lúc bấy giờ \\n=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 77,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "2/77099-99470",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 99,
+            "text": "As early as the third century BC, an ancient Greek astronomer, Aristarchus of Samos, proposed heliocentrism, but received little support from his peers. Similarly, throughout subsequent history, isolated individuals proposed this new idea, but again, no one was listening."
+           },
+           {
+            "id": "3/99470-124387",
+            "startTimeInSeconds": 99,
+            "endTimeInSeconds": 124,
+            "text": "Geocentrism just seemed too logical to refute. Geocentrism also fitted the views of the established Christian church, who could quote biblical passages such as ‘the world also shall be stable, that it be not moved’. Those who dared disagree were subject to accusations of heresy, often with dire punishments to follow."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "a81f8bee-2814-11ed-b09c-ff167f498640",
+       "type": "SINGLE_ANSWER",
+       "question": "The night sky",
+       "options": [
+        {
+         "key": 0,
+         "value": "is relatively simple."
+        },
+        {
+         "key": 1,
+         "value": "remains basically the same."
+        },
+        {
+         "key": 2,
+         "value": "was once used for navigation."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới ' as the \"},{\"text\":\"night sky \",\"bold\":true},{\"text\":\"was observed more closely\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"that simple revolution of the stars proved\"},{\"text\":\" not so simple at all\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Night sky nhìn tưởng đơn giản nhưng thật ra\"},{\"text\":\" không đơn giản chút nào \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the position of the sun and moon \"},{\"text\":\"altered slightly over the year\",\"bold\":true},{\"text\":\", and comets [...] would \"},{\"text\":\"come and go\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có sự thay đổi về vị trí \",\"bold\":true},{\"text\":\"của mặt trời và mặt trăng, và sao chổi cứ \"},{\"text\":\"đến và đi\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Bầu trời đêm không cố định \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"serve\",\"bold\":true},{\"text\":\" the primary\"},{\"text\":\" purpose of navigation for sailing ships\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bầu trời từng\"},{\"text\":\" được dùng để giúp tàu định vị \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 124,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "4/124387-144530",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 144,
+            "text": "The trouble was, as the night sky was observed more closely, that simple revolution of the stars proved not so simple at all. In relation to the others stars, some steadily wandered in given directions, then sometimes reversed for months, and disappeared altogether."
+           },
+           {
+            "id": "5/144530-159649",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 159,
+            "text": "They were called planets, meaning ‘wanderers’. In addition, the position of the sun and moon altered slightly over the year, and comets, those mysterious glowing spots, would come and go."
+           },
+           {
+            "id": "6/159649-174910",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 174,
+            "text": "In order to predict the motion of the planets, and accurately serve the primary purpose of navigation for sailing ships, increasingly elaborate mathematical models were needed—a sure sign that something was not quite right."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B, or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "a81f8bef-2814-11ed-b09c-ff167f498640",
+     "questions": [
+      {
+       "uuid": "4SQl92su0tK2FuOwLU81D",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"...and it was a Polish astronomer, \"},{\"text\":\"Nicolaus Copernicus\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy\"},{\"text\":\" Copernicus published bằng chứng về heliocentrism \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó nghe thấy \\\"This event is sometimes \"},{\"text\":\"referred to as the Copernican revolution\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: revolution \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 197,
+          "endTimeInSeconds": 240,
+          "transcripts": [
+           {
+            "id": "7/197783-216638",
+            "startTimeInSeconds": 197,
+            "endTimeInSeconds": 216,
+            "text": "Heliocentrism, or the belief that the sun is the centre of the solar system, still needed a mathemalically-sound description before it could be scientifically accepted, and it was a Polish astronomer, Nicolaus Copernicus, who, in 1543, first published this."
+           },
+           {
+            "id": "8/216638-240666",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 240,
+            "text": "This event is sometimes referred to as the Copernican revolution. Copernicus himself certainly feared the consequences of his proof, knowing full well it might invoke the anger of the established church. Probably for this reason, he wailed until the last year of his life, when he was sick and dying, to release his findings."
+           }
+          ]
+         },
+         "value": "revolution",
+         "blankId": "QIit-mqu7PkC-j15XrUsC"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" năm Copernicus publish sách\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là  \\\"he \"},{\"text\":\"waited \",\"bold\":true},{\"text\":\"until the last year of his life\"},{\"text\":\", when he was sick and dying\",\"bold\":true},{\"text\":\",\"},{\"text\":\" to release his finding\",\"bold\":true},{\"text\":\"s\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chờ tới năm cuối đời\"},{\"text\":\" lúc ông bệnh và sắp mất\",\"bold\":true},{\"text\":\" để xuất bản (dying = pass away) \\n=> \"},{\"text\":\"Đáp án: sick \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 216,
+          "endTimeInSeconds": 240,
+          "transcripts": [
+           {
+            "id": "8/216638-240666",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 240,
+            "text": "This event is sometimes referred to as the Copernican revolution. Copernicus himself certainly feared the consequences of his proof, knowing full well it might invoke the anger of the established church. Probably for this reason, he wailed until the last year of his life, when he was sick and dying, to release his findings."
+           }
+          ]
+         },
+         "value": "sick",
+         "blankId": "1y1xICdDxZiQ67oLipuig"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền: \"},{\"text\":\"noun\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"there was no 'revolution' whatsoever \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không có cuộc cách mạng nào\\n=> Tức là cuốn \"},{\"text\":\"sách của Copernicus không tạo ra dấu ấn mạnh\",\"bold\":true},{\"text\":\" trong xã hội\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"the book received scant attention\\\" \",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Quyển sách \"},{\"text\":\"không nhận được nhiều sự chú ý \",\"bold\":true},{\"text\":\"(scant = little)\\n=> \"},{\"text\":\"Đáp án: attention \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 240,
+          "endTimeInSeconds": 265,
+          "transcripts": [
+           {
+            "id": "9/240666-265279",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 265,
+            "text": "In addition, the preface of the book, written by a respected member of the church, staled that the model was not necessarily correct. As a result of this, there was no ‘revolution\" whatsoever—in fact, the book received scant attention in the subsequent decades, apart from a few irate clergy men who angrily dismissed the whole scheme as irrelevant."
+           }
+          ]
+         },
+         "value": "attention",
+         "blankId": "u_uEEFHR2FIky6fpVXSli"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"ai đã bị giết\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"the following generations of astronomers \\\" (=\",\"bold\":true},{\"text\":\" other scientists) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Galileo got into trouble,...\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\",\"bold\":true},{\"text\":\" Galileo gặp rắc rối, \"},{\"text\":\"nhưng chưa nói là bị giết \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy\"},{\"text\":\" \\\".\",\"bold\":true},{\"text\":\".as did a fellow Italian,\"},{\"text\":\" with the surname Bruno\",\"bold\":true},{\"text\":\", Giodorno Bruno, \"},{\"text\":\"who was burnt at the stake \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhà khoa học \"},{\"text\":\"Giodorno Bruno bị thiêu\",\"bold\":true},{\"text\":\" (= killed) \\n=> \"},{\"text\":\"Đáp án: Bruno \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 265,
+          "endTimeInSeconds": 287,
+          "transcripts": [
+           {
+            "id": "10/265279-287059",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 287,
+            "text": "Yet the following generations of astronomers did not always fare so well. The Italian scientist, Galileo, got into trouble, as did a fellow Italian, with the surname Bruno, Giordono Bruno, who was burnt at the stake, yet ultimately, nothing could slow the spread of heliocentrism across Europe."
+           }
+          ]
+         },
+         "value": "Bruno",
+         "blankId": "92Igq4te8tXnu7wu2emJu"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...a work which implied that even \"},{\"text\":\"the sun\",\"bold\":true},{\"text\":\"\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"even \"},{\"text\":\"the sun [...] \",\"bold\":true},{\"text\":\"was itself\"},{\"text\":\" in motion\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ngay cả \"},{\"text\":\"mặt trời cũng chuyển động \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: motion \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 287,
+          "endTimeInSeconds": 300,
+          "transcripts": [
+           {
+            "id": "11/287059-300841",
+            "startTimeInSeconds": 287,
+            "endTimeInSeconds": 300,
+            "text": "It formed the basis of lsaac Newton's great work on the motion of the planets — a work which implied that even the sun. around which the Earth circled, was itself in motion around a common centre of gravity."
+           }
+          ]
+         },
+         "value": "motion",
+         "blankId": "0oLrdIDvam-LFd4TNdj8M"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"modern geocentrism dựa trên cái gì\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"modern geocentrism is\",\"bold\":true},{\"text\":\" usually\"},{\"text\":\" the result of literal interpretations of the Bible\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thuyết địa tâm thời hiện đại được \"},{\"text\":\"dựa trên cách hiểu và giải thích kinh thánh theo nghĩa đen\",\"bold\":true},{\"text\":\" \\n=> Do đáp án chỉ cho một từ nên cần điền từ quan trọng nhất ở đây \\n=> Đáp án: \"},{\"text\":\"Bible \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 300,
+          "endTimeInSeconds": 322,
+          "transcripts": [
+           {
+            "id": "12/300841-322989",
+            "startTimeInSeconds": 300,
+            "endTimeInSeconds": 322,
+            "text": "No discourse about heliocentrism could finish without mentioning that, somewhat unbelievably, there still exists those today who choose to believe that the Earth is the centre of the universe. Modern geocentrism is usually the result of literal interpretations of the Bible, which is the cornerstone of these people's beliefs."
+           }
+          ]
+         },
+         "value": "Bible",
+         "blankId": "FHcprfXNmNlhemDHDJBzt"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy keyword \"},{\"text\":\"creationism \",\"bold\":true},{\"text\":\"của ý ở trên \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị được nhắc tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"20% of the USA \",\"bold\":true},{\"text\":\"[...] still hold the \"},{\"text\":\"belief that the sun revolves around the Earth\",\"bold\":true},{\"text\":\"\\\" \"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"20% dân số nước Mỹ\",\"bold\":true},{\"text\":\" vẫn tin rằng \"},{\"text\":\"mặt trời quay quanh trái đất\",\"bold\":true},{\"text\":\" (= geocentrism) \\n=> \"},{\"text\":\"Đáp án: 20% \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 322,
+          "endTimeInSeconds": 352,
+          "transcripts": [
+           {
+            "id": "13/322989-352065",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 352,
+            "text": "They, therefore, also believe in creationism -- that is, that a God created everything, and while we may smile at this, it is sobering to consider that surveys have revealed that up to 10% of British people,12% of Europeans. 20% of the ESA, and 25% of the Middle East, still hold the belief that the sun revolves around the Earth. One can only wonder what Copernicus would have thought of this."
+           }
+          ]
+         },
+         "value": "20%",
+         "blankId": "MfvI-CmZv0GjZ0f3mzwnF"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "QIit-mqu7PkC-j15XrUsC",
+         "key": 0
+        },
+        {
+         "id": "1y1xICdDxZiQ67oLipuig",
+         "key": 1
+        },
+        {
+         "id": "u_uEEFHR2FIky6fpVXSli",
+         "key": 2
+        },
+        {
+         "id": "92Igq4te8tXnu7wu2emJu",
+         "key": 3
+        },
+        {
+         "id": "0oLrdIDvam-LFd4TNdj8M",
+         "key": 4
+        },
+        {
+         "id": "FHcprfXNmNlhemDHDJBzt",
+         "key": 5
+        },
+        {
+         "id": "MfvI-CmZv0GjZ0f3mzwnF",
+         "key": 6
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"LCNBo579ZjgptfNfRS4wJ\",\"cellsWidth\":[165,300],\"children\":[{\"type\":\"tr\",\"id\":\"3OGs5uYs0GX-AsIrxOsn8\",\"children\":[{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\nNicolaus Copernicus\"}]}]}],\"id\":\"BfXt6knPOk1J-WmFWtaGW\"},{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- started the Copernican \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"QIit-mqu7PkC-j15XrUsC\",\"text\":\"\"}]},{\"text\":\" \\n- his book published the year he was \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"1y1xICdDxZiQ67oLipuig\",\"text\":\"\"}]},{\"text\":\"and then passed away.\\n- This book generated little\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"u_uEEFHR2FIky6fpVXSli\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"3xvZtZp-WunYlZgdTS9FT\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"SSpnsShK_94R6ntfj__SX\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\nOther scientists\"}]}]}],\"id\":\"9YqY9Y27Jqujoq1sN2bib\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- Galileo was persecuted.\\n-\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"92Igq4te8tXnu7wu2emJu\",\"text\":\"\"}]},{\"text\":\"was killed.\\n- even the sun believed to be in\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"0oLrdIDvam-LFd4TNdj8M\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"w988U5xaWrD9MvUBtV6Fy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"kZXE1cHmsfg5XkCP9lzyM\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\nModern geocentrism\"}]}]}],\"id\":\"bBp9iErVa_dyznmG-bH47\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- based on the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"FHcprfXNmNlhemDHDJBzt\",\"text\":\"\"}]},{\"text\":\"\\n- Believers also support creationism.\\n-\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"MfvI-CmZv0GjZ0f3mzwnF\",\"text\":\"\"}]},{\"text\":\"of Americans believe in this.\"}]}]}],\"id\":\"3tLJYUk63fRhUs_Ax4VYf\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":465,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:36Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

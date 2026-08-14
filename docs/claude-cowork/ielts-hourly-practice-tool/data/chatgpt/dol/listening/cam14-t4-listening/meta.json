@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam14-t4-listening",
+ "title": "CAM IELTS 14 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 14",
+ "testNum": 4,
+ "order": 28,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-14-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Enquiry about booking hotel room for event",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/03c2911b-a096-448c-a6b5-9a218b6e807f.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 3982646
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2f256174-a2a6-4c30-8129-21d705b6f28a.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 33
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Excursions",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e4164686-c0ba-420c-a5ed-4ef30a07dd0b.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3503663
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/eedf0d30-fb83-4f46-b940-25426629b66b.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 31
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Trevor and Stephanie",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9d76ec2f-0bdc-47cf-93b0-64e17df98a7b.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3751801
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/98aebd1a-004b-4ba8-870b-30564cbb1f85.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 36
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The hunt for sunken settlements and ancient shipwrecks",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b5123cfe-82bd-43e3-b869-fc0f8dbdd990.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 4522548
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b7cb7a32-7dac-469b-9e7b-182a9432fd0c.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 41
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:41:13Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,2276 @@
+{
+ "schema": 1,
+ "id": "cam18-t3-listening",
+ "title": "CAM IELTS 18 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 18",
+ "testNum": 3,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-18-test-3-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-18-test-3-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Wayside Camera Club membership form",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "adc634d1-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "adc634d2-a562-11ee-be6c-d748f6f78a7a",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"tên đường\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"Thanks. And what about your \",\"italic\":true},{\"marks\":[],\"text\":\"home address\",\"bold\":true},{\"marks\":[],\"italic\":true,\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"OK, so what's the \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"house number and street\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\"? It's \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"52 Marrowfield Street\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\". Is that \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"M-A double R-O-W-F-I-E-L-D\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\"?\"},{\"marks\":[],\"text\":\"That's right\",\"bold\":true},{\"marks\":[],\"italic\":true,\"text\":\".\\\"\\n\"},{\"marks\":[],\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"marks\":[],\"text\":\"Home address: 52 \"},{\"marks\":[],\"text\":\"(1) ___\",\"bold\":true},{\"marks\":[],\"text\":\" \"},{\"text\":\" Street, Peacetown\"},{\"text\":\" \"}],\"colorKey\":\"green40\"},{\"marks\":[],\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"52 Marrowfield Street\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"M-A double R-O-W-F-I-E-L-D\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"số 52 đường \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"M-A-R-R-O-W-F-I-E-L-D\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \",\"marks\":[]},{\"marks\":[],\"text\":\"Marrowfield\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 109,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "8/109955-113633",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 113,
+            "text": " Thanks. And what about your home address?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "9/113635-120816",
+            "startTimeInSeconds": 113,
+            "endTimeInSeconds": 120,
+            "text": " Well, I'm about ten miles away from your club in Peacetown. I live in a house there.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "10/120818-124421",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 124,
+            "text": " OK, so what's the house number and street?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "11/124422-128308",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 128,
+            "text": " It's 52 Marrowfield Street.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "12/128309-139637",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 139,
+            "text": " Is that M-A double R-O-W-F-I-E-L-D?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "13/139638-140756",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 140,
+            "text": " That's right.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "14/140758-143540",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 143,
+            "text": " ...and that's Peacetown, you said?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "15/143541-144081",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 144,
+            "text": " Uhuh.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "Marrowfield",
+         "blankId": "liinqnoPv1rhNYBac6Bq5"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"biết đến câu lạc bộ này qua ?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"So \",\"italic\":true},{\"text\":\"how did you hear about our club\",\"bold\":true},{\"italic\":true,\"text\":\"? Did you look on the internet?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"I usually do that, but this time, well, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"I was talking to a relative the other day and he suggested it.\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\"\\\"\\n\"},{\"text\":\"\\nMình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Heard about us: from a \"},{\"text\":\"(2) ___\",\"bold\":true},{\"text\":\"  \"}],\"colorKey\":\"blue100\",\"annotationText\":\"biết đến câu lạc bộ qua ?\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"I was talking to a relative the other day and he suggested it\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"tôi nói chuyện với \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"người thân\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\" và anh ấy giới thiệu câu lạc bộ.\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"relative\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 144,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "16/144082-148958",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 148,
+            "text": " So how did you hear about our club? Did you look on the internet?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "17/148960-157577",
+            "startTimeInSeconds": 148,
+            "endTimeInSeconds": 157,
+            "text": " I usually do that, but this time, well, I was talking to a relative the other day and he suggested it.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "relative",
+         "blankId": "DTxr_rmJq1-5EDLCxyDQE"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"lý do tham gia câu lạc bộ\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"OK. So \",\"italic\":true},{\"text\":\"what do you hope to get from joining\",\"bold\":true},{\"italic\":true,\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Well, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"one thing\",\"bold\":true},{\"italic\":true,\"text\":\" that really \"},{\"text\":\"interests me is the competitions\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" that you have. I enjoy entering those. Well, I also \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"like to socialise with other photographers.\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\"\\\"\\n\"},{\"text\":\"\\nMình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Reasons for joining: to enter competitions to \"},{\"text\":\"(3) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"lý do tham gia: để tham gia các cuộc thi để ?\"},{\"bold\":true,\"text\":\" \"},{\"text\":\">> \"},{\"text\":\"cần 1 động từ\\n\\n\",\"bold\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"one thing\",\"bold\":true},{\"text\":\" that really \",\"italic\":true},{\"text\":\"interests me is the competitions\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"một thứ làm tôi thích thú đó là các cuộc thi\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"text\":\" \"},{\"text\":\">>\"},{\"bold\":true,\"text\":\" lý do 1.\"},{\"text\":\"  \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"like to socialise with other photographers\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"thích \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\"làm quen\",\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\" với các nhiếp ảnh gia khác\"},{\"text\":\" >>\"},{\"bold\":true,\"text\":\" lý do 2.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"socialise/socialize\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 164,
+          "endTimeInSeconds": 183,
+          "transcripts": [
+           {
+            "id": "20/164802-169086",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 169,
+            "text": " OK. So what do you hope to get from joining?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "21/169087-176863",
+            "startTimeInSeconds": 169,
+            "endTimeInSeconds": 176,
+            "text": " Well, one thing that really interests me is the competitions that you have. I enjoy entering those.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "22/176864-179025",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 179,
+            "text": " Right. Anything else?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "23/179027-183197",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 183,
+            "text": " Well, I also like to socialise with other photographers.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "socialise/socialize",
+         "blankId": "ISJTh4kiyIFLCRv3jQqUf"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"loại hình thành viên Dan chọn\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"That's great. So \",\"italic\":true},{\"text\":\"what type of membership would you like\",\"bold\":true},{\"italic\":true,\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"What are the \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"options\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\"? \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"It's £30\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" a year for \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"full membership\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" or \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"£20\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" a year if \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"you're an associate\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\". I think \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"I'll go for the full membership\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\", then.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Type of membership: \"},{\"text\":\"(4) ___ \",\"bold\":true},{\"text\":\"membership (£30)\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"loại membership Dan chọn (30 pounds)\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"It's £30\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"full membership\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"£20\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"you're an associate\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"I'll go for the full membership\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"Dan chọn gói \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"full membership\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\" \"},{\"text\":\"  \"},{\"text\":\" \",\"italic\":true},{\"text\":\"  \"},{\"text\":\" \",\"italic\":true},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"full\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "24/183198-187662",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 187,
+            "text": " That's great. So what type of membership would you like?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "25/187664-189196",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 189,
+            "text": " What are the options?",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "26/189198-196011",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 196,
+            "text": " It's £30 a year for full membership or £20 a year if you're an associate.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "27/196013-199609",
+            "startTimeInSeconds": 196,
+            "endTimeInSeconds": 199,
+            "text": " I think I'll go for the full membership, then.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "full",
+         "blankId": "0WU8Q1810Wjgx8WMC6S7o"
+        }
+       ],
+       "heading": "Wayside Camera Club membership form",
+       "paragraph": {
+        "id": "d2wMse7qkxDKGWNMpgKgE",
+        "editorValue": "[{\"id\":\"PhiztWOl9WLQkQIiqL2Op\",\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"id\":\"nOQQ3S4Qy2TbQLeXuQVth\",\"children\":[{\"type\":\"p\",\"id\":\"0Vx1Ql9HWQDomoMrYLX8k\",\"children\":[{\"text\":\"Name\",\"bold\":true},{\"id\":\"W0SS7jGkidOZOS7V\",\"text\":\": Dan Green\"}]}]},{\"type\":\"li\",\"id\":\"woPKtmI8oF1afEDW\",\"children\":[{\"type\":\"p\",\"id\":\"rmq_jnv1Arb8GJt5\",\"children\":[{\"text\":\"Email address\",\"bold\":true},{\"id\":\"SwSXmum2SZGMaHxN\",\"text\":\": dan1068@market.com\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Home address\",\"bold\":true},{\"id\":\"P8CW7GNKbeAOp3v1\",\"text\":\": 52\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 1…..\"}],\"id\":\"liinqnoPv1rhNYBac6Bq5\"},{\"text\":\" Street, Peacetown\"}],\"id\":\"tdSCp-Fn-_KRu4ew\"}],\"id\":\"aNFhdt9OXRkVfHkv\"},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Heard about us\",\"bold\":true},{\"id\":\"zE3-wpmoqIBSZKfM\",\"text\":\": from a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 2…..\"}],\"id\":\"DTxr_rmJq1-5EDLCxyDQE\"},{\"text\":\"\"}],\"id\":\"Vapax_SwMF_X68bF\"}],\"id\":\"6YCZ7jREHX_CXk2N\"},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Reasons for \",\"bold\":true},{\"id\":\"kD91XTobobj5ZAQU\",\"text\":\"joinin\",\"bold\":true},{\"id\":\"6b_Y4Bx49pTnFYoZ\",\"text\":\"g\",\"bold\":true},{\"id\":\"tWDuNqdOUDEFWUCB\",\"text\":\": to enter competitions to\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 3…..\"}],\"id\":\"ISJTh4kiyIFLCRv3jQqUf\"},{\"text\":\"\"}],\"id\":\"QTYj-NL20sTrjtIh\"}],\"id\":\"ssTDiO1GnhAQgtrR\"},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Type of membership\",\"bold\":true},{\"id\":\"yPdVIL6of2UUNipT\",\"text\":\":\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 4….. \"}],\"id\":\"0WU8Q1810Wjgx8WMC6S7o\"},{\"text\":\" membership (£30)\"}],\"id\":\"z4oR9TA77mWyT27A\"}],\"id\":\"wGcqsrXIB-BM1l1S\"}]}]",
+        "blanks": [
+         {
+          "id": "liinqnoPv1rhNYBac6Bq5",
+          "key": 0
+         },
+         {
+          "id": "DTxr_rmJq1-5EDLCxyDQE",
+          "key": 1
+         },
+         {
+          "id": "ISJTh4kiyIFLCRv3jQqUf",
+          "key": 2
+         },
+         {
+          "id": "0WU8Q1810Wjgx8WMC6S7o",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "adc65be3-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "BLFOsAvp_-XKeA9EDBIqa",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Tiêu đề của cuộc thi thứ nhất\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"So you said you wanted to compete – have you ever won any \",\"italic\":true},{\"text\":\"photography competitions\",\"bold\":true},{\"italic\":true,\"text\":\"? Not yet, but I have \"},{\"text\":\"entered three in the past\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Oh, that's interesting. So why don't you tell me something about those? Let's start with \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"the first one\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\". Well, \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"the theme was entitled 'Domestic Life'.\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\"\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"the first one\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"the theme was entitled 'Domestic Life'\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"cuộc thi đầu tiên + được đặt tên là \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"\\\"Domestic Life\\\"\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"Domestic Life\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 255,
+          "endTimeInSeconds": 278,
+          "transcripts": [
+           {
+            "id": "31/255981-262342",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 262,
+            "text": " So you said you wanted to compete – have you ever won any photography competitions?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "32/262343-266733",
+            "startTimeInSeconds": 262,
+            "endTimeInSeconds": 266,
+            "text": " Not yet, but I have entered three in the past.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "33/266733-274284",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 274,
+            "text": " Oh, that's interesting. So why don't you tell me something about those? Let's start with the first one.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "34/274285-278642",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 278,
+            "text": " Well, the theme was entitled 'Domestic Life'.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "Domestic Life",
+         "blankId": "zXLvOxSA3jig0ZfzpLHlS"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"yêu cầu của cuộc thi thứ 2\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"So what was the theme of \",\"italic\":true},{\"text\":\"the second competition\",\"bold\":true},{\"italic\":true,\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Yes. \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"The instructions were to capture the clouds as well\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" – it \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"couldn't just be blue sky\",\"bold\":true},{\"italic\":true,\"text\":\" and a setting \"},{\"text\":\"sun\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\".\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Scene must show some \"},{\"text\":\"(6) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"ảnh chụp phải có ?\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"The instructions were to capture the clouds as well\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"couldn't just be blue sky\",\"bold\":true},{\"text\":\" and a setting \",\"italic\":true},{\"text\":\"sun\",\"bold\":true}]},{\"text\":\" \\n\",\"italic\":true},{\"text\":\">> \"},{\"text\":\"yêu cầu chụp cả \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"bầu trời\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" + không chỉ mỗi bầu trời và mặt trời.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"clouds\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 311,
+          "endTimeInSeconds": 341,
+          "transcripts": [
+           {
+            "id": "41/311915-315360",
+            "startTimeInSeconds": 311,
+            "endTimeInSeconds": 315,
+            "text": " So what was the theme of the second competition?",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "42/315360-324618",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 324,
+            "text": " Well, my university was on the coast and that area gets a lot of beautiful sunsets, so that was the theme.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "43/324620-328249",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 328,
+            "text": " Oh, sunsets, that's a great theme.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "44/328250-336647",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 336,
+            "text": " Yes. The instructions were to capture the clouds as well – it couldn't just be blue sky and a setting sun.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "45/336649-341003",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 341,
+            "text": " Sure, cause they give you all those amazing pinks and purples.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           }
+          ]
+         },
+         "value": "clouds",
+         "blankId": "titYv7uc1V2kIvZU0M75I"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"? bị sai\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"Yeah – and I thought I'd done that well, but \",\"italic\":true},{\"text\":\"the feedback\",\"bold\":true},{\"italic\":true,\"text\":\" was that \"},{\"text\":\"I should have waited a bit longer to get the shot.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"I see. So \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"the timing wasn't right\",\"bold\":true},{\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\"\\\"\\n\\n\"},{\"text\":\"Mình có:\"},{\"italic\":true,\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"The \"},{\"text\":\"(7) __\",\"bold\":true},{\"text\":\" was wrong\"},{\"text\":\" \"}],\"annotationText\":\"? bị sai\",\"colorKey\":\"yellow40\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"the timing wasn't right\",\"bold\":true},{\"text\":\".\",\"italic\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"thời gian\",\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"bold\":true,\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"bold\":true,\"text\":\" bị sai\"},{\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"timing\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 336,
+          "endTimeInSeconds": 352,
+          "transcripts": [
+           {
+            "id": "45/336649-341003",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 341,
+            "text": " Sure, cause they give you all those amazing pinks and purples.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "46/341004-349489",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 349,
+            "text": " Yeah – and I thought I'd done that well, but the feedback was that I should have waited a bit longer to get the shot.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "47/349490-352998",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 352,
+            "text": " I see. So the timing wasn't right.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           }
+          ]
+         },
+         "value": "timing",
+         "blankId": "tSuVogG_Ufd81SPOBjnI7"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Tiêu đề của cuộc thi thứ 3\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Yes – I took it too soon, basically. And then \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"the third competition I entered was called 'Animal Magic'.\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Mình có:\",\"marks\":[]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"the third competition I entered was called 'Animal Magic'\",\"bold\":true}]},{\"marks\":[],\"text\":\" >> \"},{\"marks\":[],\"text\":\"cuộc thi thứ 3 được gọi là \\\"\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"marks\":[],\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"Animal Magic\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"marks\":[],\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"Animal Magic\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 352,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "48/352999-361694",
+            "startTimeInSeconds": 352,
+            "endTimeInSeconds": 361,
+            "text": " Yes – I took it too soon, basically. And then the third competition I entered was called 'Animal Magic'.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "Animal Magic",
+         "blankId": "zvLk0mmgZ-U-t2hog58AJ"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"yêu cầu của cuộc thi thứ 3\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"I'm sure – \",\"italic\":true},{\"text\":\"because animals move all the time.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"That's \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"what we had to show\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" – \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"there had to be some movement in the scene\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"bold\":true,\"text\":\".\"},{\"italic\":true,\"text\":\" I got a great shot of a fox in the end, but I took it at night and, well, I suspected that it was a bit dark, which is what I was told.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Scene must show \"},{\"text\":\"(9) ___\",\"bold\":true},{\"text\":\" \"}],\"annotationText\":\"ảnh chụp phải có ?\",\"colorKey\":\"blue100\"},{\"italic\":true,\"text\":\"\\n\",\"bold\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"what we had to show\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"there had to be some movement in the scene\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"thứ nhiếp ảnh gia phải cho thấy + phải có \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"chuyển động\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"animal movement/movement\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 361,
+          "endTimeInSeconds": 388,
+          "transcripts": [
+           {
+            "id": "49/361695-364475",
+            "startTimeInSeconds": 361,
+            "endTimeInSeconds": 364,
+            "text": " Well, that's a difficult subject!",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "50/364476-368329",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 368,
+            "text": " I know! I had to take hundreds of shots.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "51/368330-371740",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 371,
+            "text": " I'm sure – because animals move all the time.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "52/371741-388721",
+            "startTimeInSeconds": 371,
+            "endTimeInSeconds": 388,
+            "text": " That's what we had to show – there had to be some movement in the scene. I got a great shot of a fox in the end, but I took it at night and, well, I suspected that it was a bit dark, which is what I was told.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "animal movement/movement",
+         "blankId": "q0vEbt2s6TOkdSHNvnnIz"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"feedback cho Dan về bức ảnh\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"That's what we had to show – there had to be \",\"italic\":true},{\"text\":\"some movement in the scene\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"I got a great shot of a fox in the end, but I \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"took it at night\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" and, well, I suspected that \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"it was a bit dark\",\"bold\":true},{\"italic\":true,\"text\":\",\"}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" which is what I was told.\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"The photograph was too \"},{\"text\":\"(10) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"bức ảnh hơi quá ?\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"took it at night\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"it was a bit dark\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"bức ảnh được chụp buổi tối + bức ảnh hơi \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\"tối\",\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"dark\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 371,
+          "endTimeInSeconds": 400,
+          "transcripts": [
+           {
+            "id": "52/371741-388721",
+            "startTimeInSeconds": 371,
+            "endTimeInSeconds": 388,
+            "text": " That's what we had to show – there had to be some movement in the scene. I got a great shot of a fox in the end, but I took it at night and, well, I suspected that it was a bit dark, which is what I was told.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           },
+           {
+            "id": "53/388723-399231",
+            "startTimeInSeconds": 388,
+            "endTimeInSeconds": 399,
+            "text": " Well Dan – you seem to be really keen and we'd be delighted to have you in our club. I'm sure we can help with all those areas that you've outlined.",
+            "character": {
+             "id": "Rt-bdLqgF8hBMl7Iv-MEt",
+             "name": "BREDA"
+            }
+           },
+           {
+            "id": "54/399231-400871",
+            "startTimeInSeconds": 399,
+            "endTimeInSeconds": 400,
+            "text": " Thanks, that's great.",
+            "character": {
+             "id": "aRpmutMIcp9F8jky-sWPh",
+             "name": "DAN"
+            }
+           }
+          ]
+         },
+         "value": "dark",
+         "blankId": "YU6MBrNWVREhflTnvgkIJ"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "zXLvOxSA3jig0ZfzpLHlS",
+         "key": 0
+        },
+        {
+         "id": "titYv7uc1V2kIvZU0M75I",
+         "key": 1
+        },
+        {
+         "id": "tSuVogG_Ufd81SPOBjnI7",
+         "key": 2
+        },
+        {
+         "id": "zvLk0mmgZ-U-t2hog58AJ",
+         "key": 3
+        },
+        {
+         "id": "q0vEbt2s6TOkdSHNvnnIz",
+         "key": 4
+        },
+        {
+         "id": "YU6MBrNWVREhflTnvgkIJ",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"border\":true,\"id\":\"WmJ_pxxL6YfCr0Sh2fvXE\",\"cellsWidth\":[213,213,213],\"width\":639,\"hasRowHeading\":true,\"hasColumnHeading\":false,\"children\":[{\"type\":\"tr\",\"id\":\"RJ0UOrMG4HOQkgbWYKdsy\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"wKUgMjkIU2O75y-CQBBUY\",\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"text\":\"Photography competitions\",\"bold\":true}]}]}],\"rowSpan\":1,\"colSpan\":3},{\"id\":\"ZNhB6Q7xR5tU80UP-u7T0\",\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"hidden\":true,\"rowRef\":0,\"colRef\":0},{\"id\":\"qbEdYBW8io7zxNL5VJ6-X\",\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"hidden\":true,\"rowRef\":0,\"colRef\":0}]},{\"type\":\"tr\",\"id\":\"NOEjvMXGfuusaGGcCYCcO\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"wRfAJVMruI-sQKvUe-M65\",\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"text\":\"Title of competition\",\"bold\":true}]}]}]},{\"id\":\"joDnDMKFqQeEw0OdrL-s6\",\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"text\":\"Instructions\",\"bold\":true}]}]}]},{\"id\":\"CQa4gJhgrT27GHnQ0cEh6\",\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"text\":\"Feedback to Dan\",\"bold\":true}]}]}]}]},{\"type\":\"tr\",\"id\":\"9IY7XvLaydaPVfuJT9FBN\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"7JAomyWC5WEYpNy5NzygF\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"'\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zXLvOxSA3jig0ZfzpLHlS\",\"text\":\"\"}]},{\"text\":\"'\"}]}]}]},{\"id\":\"ZecRXt4F2BBdxPakSQJkV\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A scene in the home\"}]}]}]},{\"id\":\"OEYAzkczWZgSTZ6NdXEzN\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The picture's composition was not good.\"}]}]}]}]},{\"type\":\"tr\",\"id\":\"fg7MobpYsguK26Molk66a\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"0tE-5r53d9vQDGleamuTA\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"'Beautiful Sunsets'\"}]}]}]},{\"id\":\"XFq_koZMPFOfqsHlWe5O_\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Scene must show some\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"titYv7uc1V2kIvZU0M75I\",\"text\":\"\"}]},{\"text\":\"\"}]}]}]},{\"id\":\"m0p_jDHvn-D-zt5Qp5NMT\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"tSuVogG_Ufd81SPOBjnI7\",\"text\":\"\"}]},{\"text\":\" was wrong.\"}]}]}]}]},{\"type\":\"tr\",\"id\":\"7WAgNdpuHiT0uWliLbBSa\",\"isExpandable\":false,\"isCollapsed\":false,\"children\":[{\"id\":\"3OOtun2rpAuhpg2f6sA0H\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"'\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zvLk0mmgZ-U-t2hog58AJ\",\"text\":\"\"}]},{\"text\":\"'\"}]}]}]},{\"id\":\"A0mH7wbIsrjD-Dnl-skdP\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Scene must show\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"q0vEbt2s6TOkdSHNvnnIz\",\"text\":\"\"}]},{\"text\":\"\"}]}]}]},{\"id\":\"i2CScOvA015MQwK-T486R\",\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The photograph was too\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"YU6MBrNWVREhflTnvgkIJ\",\"text\":\"\"}]},{\"text\":\".\"}]}]}]}]}]}]",
+       "question": ""
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Picking wild mushrooms",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "c266f7d4-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "c266f7d5-a562-11ee-be6c-d748f6f78a7a",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO warnings does Dan give about picking mushrooms?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Don't pick more than one variety of mushroom at a time."
+        },
+        {
+         "key": 1,
+         "value": "Don't pick mushrooms near busy roads."
+        },
+        {
+         "key": 2,
+         "value": "Don't eat mushrooms given to you."
+        },
+        {
+         "key": 3,
+         "value": "Don't eat mushrooms while picking them."
+        },
+        {
+         "key": 4,
+         "value": "Don't pick old mushrooms."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan đưa ra 2 LỜI CẢNH BÁO về việc hái nấm\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"\",\"italic\":true},{\"marks\":[],\"text\":\"The other thing to avoid is\",\"bold\":true},{\"marks\":[],\"italic\":true,\"text\":\" ...\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"The other thing to avoid\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"marks\":[],\"italic\":true,\"text\":\" is \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"mushrooms growing beside busy roads for obvious reasons\",\"bold\":true},{\"marks\":[],\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"blue40\"},{\"marks\":[],\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Mình có: \",\"marks\":[]},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"marks\":[],\"text\":\"B\",\"bold\":true},{\"marks\":[],\"text\":\". Don't pick mushrooms near busy roads.\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"đừng hái nấm gần các con đường đông đúc\"},{\"marks\":[],\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"The other thing to avoid\",\"bold\":true}]},{\"marks\":[],\"text\":\" \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"mushrooms growing beside busy roads for obvious reasons\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"text\":\">> \"},{\"text\":\"điều cần tránh + \",\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"bold\":true},{\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"bold\":true,\"text\":\"nấm mọc bên đường đông đúc vì lý do nguy hiểm\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"bold\":true,\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \",\"marks\":[]},{\"marks\":[],\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 56,
+          "endTimeInSeconds": 122,
+          "transcripts": [
+           {
+            "id": "1/56799-122002",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 122,
+            "text": "Thank you very much. Well, I need to start by talking about safety. You really need to know what you're doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it's really worth doing for the amazing variety of mushrooms available – which you can't get in the shops. But of course, you have to be very careful and that's why I always say you should never consume mushrooms picked by friends or neighbours – always remember that some poisonous mushrooms look very similar to edible ones and it's easy for people to get confused. The other thing to avoid is mushrooms growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms – don't forget that the ones in the shops are often several days old and past their best."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan đưa ra 2 LỜI CẢNH BÁO về việc hái nấm\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"Well, I need to start by \",\"italic\":true},{\"text\":\"talking about safety\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"But of course, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"you have to be very careful\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" and that's why I always say you\"},{\"type\":\"highlightElement\",\"children\":[{\"italic\":true,\"text\":\" \"},{\"text\":\"should never consume mushrooms picked by friends or neighbours\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" – always remember that some poisonous mushrooms look very similar to edible ones and it's easy for people to get confused.\\\"\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". Don't eat mushrooms given to you.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"đừng ăn nắm được người khác cho\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"you have to be very careful\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"should never consume mushrooms picked by friends or neighbours\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> bạn cần cẩn thận + \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"không nên ăn nấm được hái bởi bạn nè hoặc người thân\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\".\"},{\"text\":\"    \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 56,
+          "endTimeInSeconds": 122,
+          "transcripts": [
+           {
+            "id": "1/56799-122002",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 122,
+            "text": "Thank you very much. Well, I need to start by talking about safety. You really need to know what you're doing because some mushrooms are extremely poisonous. Having said that, once you know what to look for, it's really worth doing for the amazing variety of mushrooms available – which you can't get in the shops. But of course, you have to be very careful and that's why I always say you should never consume mushrooms picked by friends or neighbours – always remember that some poisonous mushrooms look very similar to edible ones and it's easy for people to get confused. The other thing to avoid is mushrooms growing beside busy roads for obvious reasons. But nothing beats the taste of freshly picked mushrooms – don't forget that the ones in the shops are often several days old and past their best."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "c2671ee6-a562-11ee-be6c-d748f6f78a7a",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO ideas about wild mushrooms does Dan say are correct?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Mushrooms should always be peeled before eating."
+        },
+        {
+         "key": 1,
+         "value": "Mushrooms eaten by animals may be unsafe."
+        },
+        {
+         "key": 2,
+         "value": "Cooking destroys toxins in mushrooms."
+        },
+        {
+         "key": 3,
+         "value": "Brightly coloured mushrooms can be edible."
+        },
+        {
+         "key": 4,
+         "value": "All poisonous mushrooms have a bad smell."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"hai Ý KIẾN về nấm dại mà Dan nói là đúng\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"There are certain ideas about wild mushrooms\",\"bold\":true},{\"italic\":true,\"text\":\" that it's important to be aware of.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Finally, just because \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"deer or squirrels eat a particular mushroom doesn't mean that you can\",\"bold\":true},{\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"purple40\"},{\"italic\":true,\"text\":\"\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"B.\",\"bold\":true},{\"text\":\" Mushrooms eaten by animals may be unsafe.\"},{\"text\":\" \"}],\"colorKey\":\"purple100\",\"annotationText\":\"nấm mà động vật ăn có thể không an toàn\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"purple40\",\"children\":[{\"text\":\"deer or squirrels eat a particular mushroom doesn't mean that you can\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"hươu hay sóc ăn một loại nấm cụ thể không có nghĩa là bạn có thể\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"purple100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"purple100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 122,
+          "endTimeInSeconds": 179,
+          "transcripts": [
+           {
+            "id": "2/122004-179945",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 179,
+            "text": "There are certain ideas about wild mushrooms that it's important to be aware of. Don't listen to people who tell you that it's only OK to eat mushrooms that are pale or dull – this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won't do you any harm to eat them uncooked in salads – it's not necessary to peel them. Another thing you should remember is that you can't tell if a mushroom is safe to eat by its smell – some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom doesn't mean that you can."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"hai Ý KIẾN về nấm dại mà Dan nói là đúng\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"There are certain ideas about wild mushrooms\",\"bold\":true},{\"text\":\" that it's important to be aware of.\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Don't listen to\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" people who tell you that \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"it's only OK to eat mushrooms that are pale or dull\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" – this is \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"completely untrue\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\". \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Some edible mushrooms are bright red\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\", for example.\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"D. \",\"bold\":true},{\"text\":\"Brightly coloured mushrooms can be edible.\"},{\"text\":\" \"}],\"annotationText\":\"nấm có màu sáng có thể ăn được\",\"colorKey\":\"yellow40\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"Don't listen to\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"it's only OK to eat mushrooms that are pale or dull\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"completely untrue\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> đường nghe nói chỉ nấm có màu nhạt mới ăn được + hoàn toàn sai lầm.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"Some edible mushrooms are bright red\",\"bold\":true}]},{\"text\":\" \"},{\"text\":\">> một số nấm ăn được có màu đỏ sáng.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\" \"},{\"text\":\" \",\"italic\":true},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"D\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 122,
+          "endTimeInSeconds": 179,
+          "transcripts": [
+           {
+            "id": "2/122004-179945",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 179,
+            "text": "There are certain ideas about wild mushrooms that it's important to be aware of. Don't listen to people who tell you that it's only OK to eat mushrooms that are pale or dull – this is completely untrue. Some edible mushrooms are bright red, for example. Personally, I prefer mushrooms cooked but it won't do you any harm to eat them uncooked in salads – it's not necessary to peel them. Another thing you should remember is that you can't tell if a mushroom is safe to eat by its smell – some of the most deadly mushrooms have no smell and taste quite nice, apparently. Finally, just because deer or squirrels eat a particular mushroom doesn't mean that you can."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "c2671ee7-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "c2671ee8-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "What advice does Dan give about picking mushrooms in parks?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Choose wooded areas."
+        },
+        {
+         "key": 1,
+         "value": "Don't disturb wildlife."
+        },
+        {
+         "key": 2,
+         "value": "Get there early."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan đưa ra lời khuyên gì về việc hái nấm trong công viên\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"Of course, mushroom picking is associated with the countryside but if you haven't got a car, \",\"italic\":true},{\"text\":\"your local park can be a great place to start.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"There are usually \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"a range of habitats where mushrooms grow, such as playing fields and wooded areas\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\". But \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"you need to be there first thing in the morning\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\", as there's likely be a lot of competition – not just from people but wildlife too.\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". Get there early.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"đến đó sớm.\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"you need to be there first thing in the morning\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"bạn cần nên tới công viên sớm vào buổi sáng.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" \"},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\">> \"},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"lời khuyên\",\"bold\":true},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"bold\":true,\"text\":\"A\"},{\"text\":\". Choose wooded areas.\"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"chọn chỗ rừng cây\"},{\"text\":\" >< \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"a range of habitats where mushrooms grow, such as playing fields and wooded areas\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"có nhiều chỗ nấm mọc như sân chơi + rừng cây\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\" >> \"},{\"text\":\"fact = sự thật\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 240,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "3/240423-276612",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 276,
+            "text": "Of course, mushroom picking is associated with the countryside but if you haven't got a car, your local park can be a great place to start. There are usually a range of habitats where mushrooms grow, such as playing fields and wooded areas. But you need to be there first thing in the morning, as there's likely be a lot of competition – not just from people but wildlife too. The deer often get the best mushrooms in my local park."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c2671ee9-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "Dan says it is a good idea for beginners to",
+       "options": [
+        {
+         "key": 0,
+         "value": "use a mushroom app."
+        },
+        {
+         "key": 1,
+         "value": "join a group."
+        },
+        {
+         "key": 2,
+         "value": "take a reference book."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan khuyên người mới bắt đầu nên\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"If you're \",\"italic\":true},{\"text\":\"a complete beginner\",\"bold\":true},{\"italic\":true,\"text\":\", I \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"wouldn't recommend going alone or relying on photos in a book\",\"bold\":true}],\"highlightKey\":\"purple40\"},{\"italic\":true,\"text\":\", even the one I've written!\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"There are some really good phone apps for identifying mushrooms, but you can't always rely on getting a good signal in the middle of a wood\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\". If possible, \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"you should go with a group led by an expert\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" – you'll stay safe and learn a lot that way.\\\"\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"B\",\"bold\":true},{\"text\":\". join a group.\"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"gia nhập một nhóm\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"you should go with a group led by an expert\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">>\"},{\"text\":\" bạn nên đi với một nhóm được dẫn dắt bởi một chuyên gia\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\" \\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". take a reference book.\"},{\"text\":\" \"}],\"colorKey\":\"purple100\",\"annotationText\":\"nên dùng sách tham khảo\"},{\"text\":\" >< \"},{\"type\":\"highlightElement\",\"highlightKey\":\"purple40\",\"children\":[{\"text\":\"wouldn't recommend going alone or relying on photos in a book\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"không nên đi một mình hoặc dựa vào hình ảnh trong sách.\\n\\n\",\"bold\":true,\"UNDERLINE_COLOR\":{\"colorKey\":\"purple100\"},\"TEXT_COLOR\":{\"colorKey\":\"purple100\"}},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A\",\"bold\":true},{\"text\":\". use a mushroom app.\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"dùng ứng dụng về nấm\"},{\"text\":\" >< \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"There are some really good phone apps for identifying mushrooms, but you can't always rely on getting a good signal in the middle of a wood\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"Có một số ứng dụng điện thoại tốt để xác định nấm, nhưng không phải lúc nào cũng có thể bắt được tín hiệu tốt ở giữa rừng.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 276,
+          "endTimeInSeconds": 307,
+          "transcripts": [
+           {
+            "id": "4/276613-307149",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 307,
+            "text": "If you're a complete beginner, I wouldn't recommend going alone or relying on photos in a book, even the one I've written! There are some really good phone apps for identifying mushrooms, but you can't always rely on getting a good signal in the middle of a wood. If possible. you should go with a group led by an expert – you'll stay safe and learn a lot that way."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c26745fa-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "What does Dan say is important for conservation?",
+       "options": [
+        {
+         "key": 0,
+         "value": "selecting only fully grown mushrooms"
+        },
+        {
+         "key": 1,
+         "value": "picking a limited amount of mushrooms"
+        },
+        {
+         "key": 2,
+         "value": "avoiding areas where rare mushroom species grow"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan nói ? quan trọng đối với việc bảo tồn\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"Conservation is a really important consideration\",\"bold\":true},{\"italic\":true,\"text\":\" and you must follow a few basic rules.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"You should never pick all the mushrooms in one area\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" – \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"collect only enough\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" for your own needs.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"B\",\"bold\":true},{\"text\":\". picking a limited amount of mushrooms\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"chỉ hái lượng nấm vừa đủ thôi\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"You should never pick all the mushrooms in one area\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"collect only enough\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"không nên hái tất cả các loại nấm trong một khu vực + \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"chỉ thu thập đủ nấm cần\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" \\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". avoiding areas where rare mushroom species grow\"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"tránh khu vực nơi các loại nấm hiếm mọc\"},{\"text\":\" >< \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"And make sure you don't pick any mushrooms that are endangered and protected by law\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"text\":\">> \"},{\"text\":\"đảm bảo rằng bạn không hái bất kỳ loại nấm nào đang bị đe dọa và được pháp luật bảo vệ.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 307,
+          "endTimeInSeconds": 336,
+          "transcripts": [
+           {
+            "id": "5/307151-336992",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 336,
+            "text": "Conservation is a really important consideration and you must follow a few basic rules. You should never pick all the mushrooms in one area – collect only enough for your own needs. Be very careful that you don't trample on young mushrooms or other plants. And make sure you don't pick any mushrooms that are endangered and protected by law."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c26745fb-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "According to Dan, some varieties of wild mushrooms are in decline because there is",
+       "options": [
+        {
+         "key": 0,
+         "value": "a huge demand for them from restaurants."
+        },
+        {
+         "key": 1,
+         "value": "a lack of rain in this part of the country."
+        },
+        {
+         "key": 2,
+         "value": "a rise in building developments locally."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Theo Dan, một số loại nấm hoang dã đang bị suy giảm vì ?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"There's been a decline in some varieties of wild mushrooms\",\"bold\":true},{\"italic\":true,\"text\":\" in this part of the country.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Restaurants are becoming more interested in locally sourced food like wild mushrooms\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\", but \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"the biggest problem is that so many new houses have been built in this area\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" in the last ten years.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". a rise in building developments locally.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"sự phát triển của các tòa nhà tại địa phương\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"the biggest problem is that so many new houses have been built in this area\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"vấn đề lớn nhất là rất nhiều ngôi nhà mới đã được xây dựng trong khu vực này \\n\\n\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A\",\"bold\":true},{\"text\":\". a huge demand for them from restaurants.\"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"nhu cầu nấm rất lớn từ các nhà hàng.\"},{\"text\":\" =  \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"Restaurants are becoming more interested in locally sourced food like wild mushrooms\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"không phải lý do lớn nhất.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 336,
+          "endTimeInSeconds": 368,
+          "transcripts": [
+           {
+            "id": "6/336993-368089",
+            "startTimeInSeconds": 336,
+            "endTimeInSeconds": 368,
+            "text": "There's been a decline in some varieties of wild mushrooms in this part of the country. Restaurants are becoming more interested in locally sourced food like wild mushrooms, but the biggest problem is that so many new houses have been built in this area in the last ten years. And more water is being taken from rivers and reservoirs because of this, and mushroom habitats have been destroyed."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c26745fc-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "Dan says that when storing mushrooms, people should",
+       "options": [
+        {
+         "key": 0,
+         "value": "keep them in the fridge for no more than two days."
+        },
+        {
+         "key": 1,
+         "value": "keep them in a brown bag in a dark room."
+        },
+        {
+         "key": 2,
+         "value": "leave them for a period after washing them."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"lời khuyên cho việc lưu trữ nấm\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"Anyway, \",\"italic\":true},{\"text\":\"a word of advice on storing mushrooms\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Collect them in a brown paper bag and as soon as you get home, put them in the fridge\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\". \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"They'll be fine for a couple of days\",\"bold\":true},{\"italic\":true,\"text\":\", \"},{\"text\":\"but it's best to cook them as soon as possible\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" – after washing them really carefully first, of course.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A\",\"bold\":true},{\"text\":\". keep them in the fridge for no more than two days.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"giữ nấm trong tủ lạnh không quá hai ngày.\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"Collect them in a brown paper bag and as soon as you get home, put them in the fridge\",\"bold\":true}]},{\"text\":\"\\n\",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"They'll be fine for a couple of days\",\"bold\":true},{\"text\":\", \",\"italic\":true},{\"text\":\"but it's best to cook them as soon as possible\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\" \\n>> \"},{\"text\":\"bỏ nấm trong túi giấy màu nâu và ngay khi về đến nhà, hãy cho nấm vào tủ lạnh + \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"nấm sẽ tươi trong vài ngày\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\", \"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"nhưng tốt nhất là nấu nấm càng sớm càng tốt\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 368,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "7/368091-389477",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 389,
+            "text": "Anyway, a word of advice on storing mushrooms. Collect them in a brown paper bag and as soon as you get home, put them in the fridge. They'll be fine for a couple of days, but it's best to cook them as soon as possible – after washing them really carefully first, of course."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "c26745fd-a562-11ee-be6c-d748f6f78a7a",
+       "type": "SINGLE_ANSWER",
+       "question": "What does Dan say about trying new varieties of mushrooms?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Experiment with different recipes."
+        },
+        {
+         "key": 1,
+         "value": "Expect some to have a strong taste."
+        },
+        {
+         "key": 2,
+         "value": "Cook them for a long time."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Dan nói gì về việc thử các loại nấm mới\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin ở \"},{\"text\":\"\\\"So everybody knows what a mushroom tastes like, right? Well, you'll \",\"italic\":true},{\"text\":\"be surprised by the huge variety of wild mushrooms\",\"bold\":true},{\"italic\":true,\"text\":\" there are.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Be adventurous! They're great in so many dishes\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" – stir fries, risottos, pasta. But just \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"be aware that some people can react badly to certain varieties\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\" so it's a good idea not to eat huge quantities to begin with.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A. Experiment with different recipes.\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"Thử nghiệm với các công thức nấu ăn khác nhau.\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"Be adventurous! They're great in so many dishes\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"Hãy mạo hiểm! Nấm rất ngon trong nhiều món ăn\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\" \\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"B\",\"bold\":true},{\"text\":\". Expect some to have a strong taste.\"},{\"text\":\" \"}],\"annotationText\":\"Một số loại nấm có thể có vị rất nồng\",\"colorKey\":\"yellow40\"},{\"text\":\" \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"be aware that some people can react badly to certain varieties\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"lưu ý một số người có thể phản ứng tiêu cực với một số giống nấm nhất định \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 389,
+          "endTimeInSeconds": 420,
+          "transcripts": [
+           {
+            "id": "8/389478-420469",
+            "startTimeInSeconds": 389,
+            "endTimeInSeconds": 420,
+            "text": "So everybody knows what a mushroom tastes like, right? Well, you'll be surprised by the huge variety of wild mushrooms there are. Be adventurous! They're great in so many dishes – stir fries, risottos, pasta. But just be aware that some people can react badly to certain varieties so it's a good idea not to eat huge quantities to begin with."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Automation and the future of work",
+   "duration": 6,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "d783a19e-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "d783a19f-a562-11ee-be6c-d748f6f78a7a",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO opinions about the Luddites do the students express?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Their actions were ineffective."
+        },
+        {
+         "key": 1,
+         "value": "They are still influential today."
+        },
+        {
+         "key": 2,
+         "value": "They have received unfair criticism."
+        },
+        {
+         "key": 3,
+         "value": "They were proved right."
+        },
+        {
+         "key": 4,
+         "value": "Their attitude is understandable."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Học sinh bày tỏ 2 Ý KIẾN nào về Luddites\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"With those \",\"italic\":true},{\"text\":\"protesting workers called the Luddites\",\"bold\":true},{\"italic\":true,\"text\":\" \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"destroying their knitting machines\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\" because they were so worried about losing their jobs.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Yes, and ultimately, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"they didn't achieve anything\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\". And anyway, industrialisation created more jobs than it destroyed.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"destroying their knitting machines\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\"+ \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"they didn't achieve anything\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"phá máy dệt + họ (Luddites) chẳng nhận được gì.\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\" \\n= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A\",\"bold\":true},{\"text\":\". Their actions were ineffective.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"hành động của Luddites không hiệu quả\"},{\"text\":\"   \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \",\"marks\":[]},{\"marks\":[],\"text\":\"A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 39,
+          "endTimeInSeconds": 91,
+          "transcripts": [
+           {
+            "id": "0/39900-56639",
+            "startTimeInSeconds": 39,
+            "endTimeInSeconds": 56,
+            "text": " That seminar yesterday on automation and the future of work was really good, wasn't it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "1/56641-67634",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 67,
+            "text": " Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn't know that first started with workers in the textile industry.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "2/67635-76054",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 76,
+            "text": " With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "3/76055-83789",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 83,
+            "text": " Yes, and ultimately, they didn't achieve anything. And anyway, industrialisation created more jobs than it destroyed.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "4/83790-91655",
+            "startTimeInSeconds": 83,
+            "endTimeInSeconds": 91,
+            "text": " Yes, that's true – but it probably didn't seem a positive thing at the time. I can see why the Luddites felt so threatened.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"Học sinh bày tỏ 2 Ý KIẾN nào về Luddites\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"Yes, that's true – but it probably didn't seem a positive thing\",\"bold\":true},{\"italic\":true,\"text\":\" at the time. I can see why the Luddites felt so threatened.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Yes, that's true – but it probably didn't seem a positive thing at the time. \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"I can see why the Luddites felt so threatened\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\".\\\"\\n\\n\"},{\"text\":\"Mình có:\"},{\"text\":\" \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"I can see why the Luddites felt so threatened\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"Tôi có thể hiểu tại sao Luddites cảm thấy bị đe dọa \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\" \\n= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"E.\",\"bold\":true},{\"text\":\" Their attitude is understandable.\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"Thái độ của họ là điều dễ hiểu\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"E\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 39,
+          "endTimeInSeconds": 91,
+          "transcripts": [
+           {
+            "id": "0/39900-56639",
+            "startTimeInSeconds": 39,
+            "endTimeInSeconds": 56,
+            "text": " That seminar yesterday on automation and the future of work was really good, wasn't it? Looking at the first industrial revolution in Britain in the 19th century and seeing how people reacted to massive change was a real eye-opener.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "1/56641-67634",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 67,
+            "text": " Yes. It was interesting to hear how people felt about automation then and what challenges they faced. I didn't know that first started with workers in the textile industry.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "2/67635-76054",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 76,
+            "text": " With those protesting workers called the Luddites destroying their knitting machines because they were so worried about losing their jobs.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "3/76055-83789",
+            "startTimeInSeconds": 76,
+            "endTimeInSeconds": 83,
+            "text": " Yes, and ultimately, they didn't achieve anything. And anyway, industrialisation created more jobs than it destroyed.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "4/83790-91655",
+            "startTimeInSeconds": 83,
+            "endTimeInSeconds": 91,
+            "text": " Yes, that's true – but it probably didn't seem a positive thing at the time. I can see why the Luddites felt so threatened.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "d783a1a0-a562-11ee-be6c-d748f6f78a7a",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO predictions about the future of work are the students doubtful about?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Work will be more rewarding."
+        },
+        {
+         "key": 1,
+         "value": "Unemployment will fall."
+        },
+        {
+         "key": 2,
+         "value": "People will want to delay retiring."
+        },
+        {
+         "key": 3,
+         "value": "Working hours will be shorter."
+        },
+        {
+         "key": 4,
+         "value": "People will change jobs more frequently."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"2 DỰ ĐOÁN về tương lai của công việc mà sinh viên nghi ngờ\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"No – that's true. And what about \",\"italic\":true},{\"text\":\"lower unemployment\",\"bold\":true},{\"italic\":true,\"text\":\"? \"},{\"text\":\"I'm not so sure about that\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"No – that's true. And what about\",\"italic\":true},{\"text\":\" \"},{\"text\":\"lower unemployment\",\"bold\":true},{\"text\":\"? \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"I'm not so sure about that\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"text\":\". \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Perhaps in the long term - but not in the foreseeable future\",\"bold\":true},{\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\"\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"I'm not so sure about that\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"Perhaps in the long term - but not in the foreseeable future\",\"bold\":true},{\"text\":\".\",\"italic\":true}]},{\"text\":\" >> \"},{\"text\":\"không chắc về việc giảm tỷ lệ thất nghiệp + có lẽ trong thời gian dài - nhưng không phải trong tương lai gần.\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"B. \"},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"Unemployment will fall.\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"tỷ lệ thất nghiệp sẽ giảm\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "7/121507-127520",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 127,
+            "text": " No – that's true. And what about lower unemployment? I'm not so sure about that.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "8/127521-131608",
+            "startTimeInSeconds": 127,
+            "endTimeInSeconds": 131,
+            "text": " Perhaps in the long term - but not in the foreseeable future.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "9/131610-138471",
+            "startTimeInSeconds": 131,
+            "endTimeInSeconds": 138,
+            "text": " Mmm. And I expect most people will be expected to work until they're much older – as everyone's living much longer.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "10/138472-140171",
+            "startTimeInSeconds": 138,
+            "endTimeInSeconds": 140,
+            "text": " That's already happening.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"2 DỰ ĐOÁN về tương lai của công việc mà sinh viên nghi ngờ\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"The discussion about the future of work was really optimistic for a change\",\"bold\":true},{\"italic\":true,\"text\":\". I like the idea that work won't involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Bit too optimistic, don't you think? For example, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"I can't see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\".\\\"\\n\\n\"},{\"text\":\"Mình có:  \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"I can't see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work\\n\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"Tôi không hiểu tại sao mọi người lại có nhiều thời gian nhàn rỗi hơn, khi tất cả các bằng chứng cho thấy mọi người đang làm việc lâu hơn.\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"D\",\"bold\":true},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\". Working hours will be shorter.\"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"Thời gian làm việc sẽ ngắn hơn\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"D\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 91,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "5/91656-110330",
+            "startTimeInSeconds": 91,
+            "endTimeInSeconds": 110,
+            "text": " I know. I'm sure I would have felt the same. The discussion about the future of work was really optimistic for a change. I like the idea that work won't involve doing boring, repetitive tasks, as robots will do all that. Normally, you only hear negative stuff about the future.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "6/110331-121505",
+            "startTimeInSeconds": 110,
+            "endTimeInSeconds": 121,
+            "text": " Bit too optimistic, don't you think? For example, I can't see how people are about to have more leisure time, when all the evidence shows people are spending longer than ever at work.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "d783a1a1-a562-11ee-be6c-d748f6f78a7a",
+     "questions": [
+      {
+       "uuid": "d783c8b2-a562-11ee-be6c-d748f6f78a7a",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "These jobs are likely to be at risk."
+        },
+        {
+         "key": 1,
+         "value": "Their role has become more interesting in recent years."
+        },
+        {
+         "key": 2,
+         "value": "The number of people working in this sector has fallen dramatically."
+        },
+        {
+         "key": 3,
+         "value": "This job will require more qualifications."
+        },
+        {
+         "key": 4,
+         "value": "Higher disposable income has led to a huge increase in jobs."
+        },
+        {
+         "key": 5,
+         "value": "There is likely to be a significant rise in demand for this service."
+        },
+        {
+         "key": 6,
+         "value": "Both employment and productivity have risen."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Accountants = kế toán\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"I enjoyed all that stuff on \",\"italic\":true},{\"text\":\"how technology has changed some jobs and how they're likely to change in the near future\",\"bold\":true},{\"text\":\".\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Yeah, incredible. Like \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"accountants\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}]},{\"text\":\". You might think all the technological innovations would have put them out of a job, but in fact there are more of them than ever. \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"They're still really in demand and have become far more efficient\",\"bold\":true}]},{\"text\":\".\\\"\\n\\n\",\"italic\":true},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"accountants\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"They're still really in demand and have become far more efficient\",\"bold\":true}]},{\"text\":\" \\n\",\"italic\":true},{\"text\":\">> kế toán + họ vẫn còn cần thiết và họ làm việc hiệu quả hơn. \\n= \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"Cả việc làm và năng suất lao động đều tăng\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"G\",\"bold\":true},{\"text\":\". Both employment and productivity have risen.\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"G\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 207,
+          "transcripts": [
+           {
+            "id": "11/186177-193181",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 193,
+            "text": " I enjoyed all that stuff on how technology has changed some jobs and how they're likely to change in the near future.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "12/193182-207794",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 207,
+            "text": " Yeah, incredible. Like accountants. You might think all the technological innovations would have put them out of a job, but in fact there are more of them than ever. They're still really in demand and have become far more efficient.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Hairdressers = nhà tạo mẫu tóc\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"I'd never have thought that \",\"italic\":true},{\"text\":\"demand for hairdressing would have gone up so much\",\"bold\":true},{\"text\":\" in the last hundred years.\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"One hairdresser for every 287 people now, compared to one for over 1,500. \",\"bold\":true}]},{\"text\":\"Yeah \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"because people's earning power has gone up so they can afford to spend more on personal services like that.\",\"bold\":true}]},{\"text\":\"\\\"\\n\\nMình có: \\n\",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"One hairdresser for every 287 people now, compared to one for over 1,500\",\"bold\":true}]},{\"text\":\" \\n>> \"},{\"text\":\"Hiện nay cứ 287 người thì có một thợ làm tóc, so với hơn 1.500 người trước kia.\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"because people's earning power has gone up so they can afford to spend more on personal services like that\",\"bold\":true}]},{\"text\":\" \\n>> \"},{\"text\":\"vì khả năng kiếm tiền của mọi người đã tăng lên nên họ có thể chi tiêu nhiều hơn cho các dịch vụ cá nhân như làm tóc \\n\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"Thu nhập khả dụng cao hơn đã dẫn đến sự gia tăng lớn Hairdressers\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"E\",\"bold\":true},{\"text\":\". Higher disposable income has led to a huge increase in jobs\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"E\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 214,
+          "endTimeInSeconds": 238,
+          "transcripts": [
+           {
+            "id": "14/214515-228080",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 228,
+            "text": " I know. I'd never have thought that demand for hairdressing would have gone up so much in the last hundred years. One hairdresser for every 287 people now, compared to one for over 1,500.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "15/228081-234535",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 234,
+            "text": " Yeah because people's earning power has gone up so they can afford to spend more on personal services like that.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "16/234537-238192",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 238,
+            "text": " But technology hasn't changed the actual job that much.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Administrative staff = nhân viên hành chính\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"But technology hasn't changed \",\"italic\":true},{\"text\":\"the actual job\",\"bold\":true},{\"text\":\" that much.\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"The kind of \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"work\",\"bold\":true},{\"text\":\" that \",\"italic\":true},{\"text\":\"administrative staff do has changed\",\"bold\":true}]},{\"text\":\" enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing. Yes. Really boring compared to these days, when \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"they're given much more responsibility and higher status\",\"bold\":true}]},{\"text\":\".\\\"\\n\\n\",\"italic\":true},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"work\",\"bold\":true},{\"text\":\" that \",\"italic\":true},{\"text\":\"administrative staff do has changed\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"they're given much more responsibility and higher status\\n\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"công việc của nhân viên hành chính đã thay đổi + họ được giao nhiều trách nhiệm hơn và địa vị cao hơn \\n\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"colorKey\":\"yellow40\",\"annotationText\":\"công việc nhân viên hành chính đã trở nên thú vị hơn\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"B\",\"bold\":true},{\"text\":\". Their role has become more interesting in recent years.\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"B\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 234,
+          "endTimeInSeconds": 260,
+          "transcripts": [
+           {
+            "id": "16/234537-238192",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 238,
+            "text": " But technology hasn't changed the actual job that much.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "17/238193-253995",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 253,
+            "text": " No, they've got hairdryers, etc. but it's one job where you don't depend on a computer... The kind of work that administrative staff do has changed enormously, thanks to technology. Even 20 years ago there were secretaries doing dictation and typing.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "18/253996-260836",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 260,
+            "text": " Yes. Really boring compared to these days, when they're given much more responsibility and higher status.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Agricultural workers = người làm nông\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"Mmm. A lot of graduates go in for this kind of work now... I'd expected there to be a much bigger change in \",\"italic\":true},{\"text\":\"the number of agricultural workers\",\"bold\":true},{\"text\":\" in the 19th century.\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"But the 1871 census showed that roughly \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"25% of the population worked on the land\",\"bold\":true}]},{\"text\":\". Yeah, I'd have assumed it would be more than 50%. \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"Now it's less than 0.2%.\",\"bold\":true}]},{\"text\":\"\\\"\\n\\n\",\"italic\":true},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"25% of the population worked on the land\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"Now it's less than 0.2%\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"25% dân số làm nông + bây giờ ít hơn 0.2%\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\". \\n= \"},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"lượng người làm nông đã giảm rất nhiều\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"C\",\"bold\":true},{\"text\":\". The number of people working in this sector has fallen dramatically.\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"C\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 260,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "19/260837-277208",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 277,
+            "text": " Mmm. A lot of graduates go in for this kind of work now... I'd expected there to be a much bigger change in the number of agricultural workers in the 19th century. But the 1871 census showed that roughly 25% of the population worked on the land.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "20/277210-282883",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 282,
+            "text": " Yeah, I'd have assumed it would be more than 50%. Now it's less than 0.2%.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Care workers = người làm dịch vụ chăm sóc\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"What about \",\"italic\":true},{\"text\":\"care workers\",\"bold\":true},{\"text\":\"?\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"They barely existed in the 19th century\",\"bold\":true}]},{\"text\":\" as people's lifespan was so much shorter. But now of course \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"this sector will see huge growth\",\"bold\":true},{\"text\":\".\",\"italic\":true}]},{\"text\":\"\\\"\\n\\n\",\"italic\":true},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"They barely existed in the 19th century\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"this sector will see huge growth\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"có rất ít người chăm sóc vào thế kỉ 19 + lĩnh vực chăm sóc sẽ có sự phát triển mạnh. \\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"colorKey\":\"blue100\",\"annotationText\":\"sẽ có sự phát triển mạnh về nhu cầu về người chăm sóc\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"F.\",\"bold\":true},{\"text\":\" There is likely to be a significant rise in demand for this service.\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"F\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 282,
+          "endTimeInSeconds": 294,
+          "transcripts": [
+           {
+            "id": "21/282885-285180",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 285,
+            "text": " What about care workers?",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "22/285181-294157",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 294,
+            "text": " They barely existed in the 19th century as people's lifespan was so much shorter. But now of course this sector will see huge growth.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"comment của học sinh về Bank clerks = nhân viên ngân hàng\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"Yeah – and it's hard enough to meet current demand. \",\"italic\":true},{\"text\":\"The future looks quite bleak for bank clerks.\",\"bold\":true},{\"text\":\"\\\"\",\"italic\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"They've been in decline\",\"bold\":true}]},{\"text\":\" since ATMs were introduced in the eighties. And \",\"italic\":true},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"technology will certainly make most of the jobs they do now redundant\",\"bold\":true}]},{\"text\":\", I think.\\\"\\n\\n\",\"italic\":true},{\"text\":\"Mình có: \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"They've been in decline\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"technology will certainly make most of the jobs they do now redundant\",\"bold\":true}]},{\"text\":\"\\n\",\"italic\":true},{\"text\":\">> \"},{\"text\":\"nhân viên ngân hàng đang giản sút + công nghệ sẽ làm cho công việc của họ dư thừa. \\n\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"type\":\"roundedElement\",\"colorKey\":\"green40\",\"annotationText\":\"những công việc này sẽ gặp nhiều nguy cơ\",\"firstDelete\":null,\"children\":[{\"text\":\" \"},{\"text\":\"A\",\"bold\":true},{\"text\":\". These jobs are likely to be at risk\"},{\"text\":\" \"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"A\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 294,
+          "endTimeInSeconds": 315,
+          "transcripts": [
+           {
+            "id": "23/294159-304803",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 304,
+            "text": " Yeah – and it's hard enough to meet current demand. The future looks quite bleak for bank clerks. They've been in decline since ATMs were introduced in the eighties.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           },
+           {
+            "id": "24/304805-309652",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 309,
+            "text": " And technology will certainly make most of the jobs they do now redundant, I think.",
+            "character": {
+             "id": "R9GFkqO7run_Mkomknng4",
+             "name": "YOUNG MAN"
+            }
+           },
+           {
+            "id": "25/309653-315410",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 315,
+            "text": " I agree, although the situation may change. It's very hard to predict what will happen.",
+            "character": {
+             "id": "NnzwI4gWuBgEV-clHC0aN",
+             "name": "YOUNG WOMAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Accountants"
+        },
+        {
+         "key": 1,
+         "value": "Hairdressers"
+        },
+        {
+         "key": 2,
+         "value": "Administrative staff"
+        },
+        {
+         "key": 3,
+         "value": "Agricultural workers"
+        },
+        {
+         "key": 4,
+         "value": "Care workers"
+        },
+        {
+         "key": 5,
+         "value": "Bank clerks"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What comments do the students make about each of the following jobs?",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "SIX",
+          "bold": true
+         },
+         {
+          "text": " answers from the list. "
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What comments do the students make about each of the following jobs?",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "SIX",
+          "bold": true
+         },
+         {
+          "text": " answers from the list. "
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Space Traffic Management",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "ebfda25f-a562-11ee-bbab-6d21a96297bd",
+     "questions": [
+      {
+       "uuid": "ebfda260-a562-11ee-bbab-6d21a96297bd",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"h2\",\"children\":[{\"text\":\"Ở bài \",\"marks\":[]},{\"marks\":[],\"text\":\"SENTENCE COMPLETION\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"marks\":[],\"text\":\" này mình chỉ điền \"},{\"marks\":[],\"text\":\"\\\"ONE WORD ONLY\\\"\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"marks\":[],\"text\":\" thôi nha \"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"một ADJ = tính từ miêu tả cách cải thiện sự an toàn\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"In today's astronomy lecture, I'm going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth. In other words, a \",\"italic\":true},{\"marks\":[],\"text\":\"Space Traffic Management system\",\"bold\":true},{\"marks\":[],\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \",\"marks\":[]},{\"marks\":[],\"text\":\"\\\"The aim of such a system would be to \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"prevent the danger of collisions in space between the objects in orbit around the Earth\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\". In order to do \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"this\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\", we'd need to \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"have a set of legal measures\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\", and we'd also have to \"},{\"type\":\"highlightElement\",\"children\":[{\"marks\":[],\"text\":\"develop the technical systems to enable us to prevent such accidents.\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"marks\":[],\"italic\":true,\"text\":\"\\\"\\n\\n\"},{\"marks\":[],\"text\":\"Mình có:\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"prevent the danger of collisions in space between the objects in orbit around the Earth\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"ngăn chặn nguy cơ va chạm trong không gian giữa các vật thể trên quỹ đạo quanh Trái Đất\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\" \\n=  improving safety.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"have a set of legal measures\",\"bold\":true}]},{\"text\":\" \"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"develop the technical systems to enable us to prevent such accidents\\n\",\"bold\":true}]},{\"text\":\">> \",\"bold\":true},{\"bold\":true,\"text\":\"có một loạt các biện pháp pháp lý + phát triển các hệ thống \",\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"kỹ thuật\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\" để cho phép ngăn chặn những tai nạn như vậy\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"\\n\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"= would aim to set up legal and (1) ___ ways of improving safety.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \",\"marks\":[]},{\"marks\":[],\"text\":\"technical\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 73,
+          "endTimeInSeconds": 128,
+          "transcripts": [
+           {
+            "id": "0/73019-106619",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 106,
+            "text": "In today's astronomy lecture, I'm going to talk about the need for a system to manage the movement of satellites and other objects in orbit around the Earth. In other words, a Space Traffic Management system. We already have effective Air Traffic Control systems that are used internationally to ensure that planes navigate our skies safely. Well, Space Traffic Management is a similar concept, but focusing on the control of satellites."
+           },
+           {
+            "id": "1/106621-128508",
+            "startTimeInSeconds": 106,
+            "endTimeInSeconds": 128,
+            "text": "The aim of such a system would be to prevent the danger of collisions in space between the objects in orbit around the Earth. In order to do this, we'd need to have a set of legal measures, and we'd also have to develop the technical systems to enable us to prevent such accidents."
+           }
+          ]
+         },
+         "value": "technical",
+         "blankId": "De3PWpV3-GFnQxbII8l1b"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: một ADJ = tính từ để miêu tả vệ tinh hiện nay\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"But unfortunately, at present we don't actually have a Space Traffic Management system that works. So why not? \",\"italic\":true},{\"text\":\"What are the problems in developing such a system\",\"bold\":true},{\"italic\":true,\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Well, for one thing, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"satellites are relatively cheap these days\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\", compared with how they were in the past, meaning that \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"more people can afford to put them into space\",\"bold\":true},{\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\"\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"italic\":true,\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"satellites are relatively cheap these days\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"vệ tinh ngày nay tương đối \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"rẻ\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\" = \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Satellites are now quite \"},{\"text\":\"(2) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"Vệ tinh ngày nay khá ?\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"cheap\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 142,
+          "endTimeInSeconds": 170,
+          "transcripts": [
+           {
+            "id": "3/142379-170855",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 170,
+            "text": "Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space. So there's a lot more of them out there, and people aren't just launching single satellites but whole constellations, consisting of thousands of them designed to work together. So space is getting more crowded every day."
+           }
+          ]
+         },
+         "value": "cheap",
+         "blankId": "ZpfNLiHuP0sNTzEjlbxn2"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"có những chùm vệ tinh được tạo ra bởi ? vệ tinh\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"meaning that \",\"italic\":true},{\"text\":\"more people can afford to put them into space\",\"bold\":true},{\"italic\":true,\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"So \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"there's a lot more of them out there\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\", and people aren't just launching single satellites but \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"whole constellations\",\"bold\":true},{\"italic\":true,\"text\":\", \"},{\"text\":\"consisting of thousands of them designed to work together\",\"bold\":true},{\"italic\":true,\"text\":\".\"}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" So space is getting more crowded every day.\\\"\\n\\n\"},{\"text\":\"Mình có: \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"there's a lot more of them out there\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"có nhiều vệ tinh ngoài không gian \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"= \"},{\"text\":\"and therefore more widespread\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"\\nwhole constellations\",\"bold\":true},{\"text\":\", \",\"italic\":true},{\"text\":\"consisting of thousands of them designed to work together\",\"bold\":true}]},{\"text\":\" \",\"italic\":true},{\"text\":\">> \"},{\"text\":\"toàn bộ các chùm vệ tinh, bao gồm \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"hàng nghìn\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\" vệ tinh được thiết kế để hoạt động cùng nhau. \\n\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"=\"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"(e.g. there are constellations made up of \"},{\"text\":\"(3) ___\",\"bold\":true},{\"text\":\" of satellites)\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"có những chùm vệ tinh được tạo thành từ ? vệ tinh.\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"thousands\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 142,
+          "endTimeInSeconds": 170,
+          "transcripts": [
+           {
+            "id": "3/142379-170855",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 170,
+            "text": "Well, for one thing, satellites are relatively cheap these days, compared with how they were in the past, meaning that more people can afford to put them into space. So there's a lot more of them out there, and people aren't just launching single satellites but whole constellations, consisting of thousands of them designed to work together. So space is getting more crowded every day."
+           }
+          ]
+         },
+         "value": "thousands",
+         "blankId": "ojUCFeS1V5nGYfZCOpKSg"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: Hiện tại, các vệ tinh không bắt buộc phải truyền thông tin để trợ giúp ?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"But in spite of this,\",\"italic\":true},{\"text\":\" \"},{\"text\":\"one thing you may be surprised to learn\",\"bold\":true},{\"text\":\" \"},{\"text\":\"is that\",\"italic\":true},{\"text\":\" ...\"},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"you can launch a satellite into space and once it's out there,\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\" it doesn't have to send back any information to Earth to allow its identification\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\".\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"italic\":true,\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"it doesn't have to send back any information to Earth to allow its identification\",\"bold\":true}]},{\"text\":\" \\n>> \"},{\"text\":\"vệ tinh không phải gửi lại bất kỳ thông tin nào về Trái đất để \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\"nhận dạng\",\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\" nó. \\n\"},{\"text\":\"= \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"At present, satellites are not required to transmit information to help with their\"},{\"text\":\" \"},{\"text\":\"(4) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"Hiện tại, các vệ tinh không bắt buộc phải truyền thông tin để trợ giúp ?\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"identification\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 170,
+          "endTimeInSeconds": 206,
+          "transcripts": [
+           {
+            "id": "4/170856-206149",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 206,
+            "text": "But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it's out there, it doesn't have to send back any information to Earth to allow its identification. So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don't have anything like enough proper ways of tracking them."
+           }
+          ]
+         },
+         "value": "identification",
+         "blankId": "P_tbPdSYNV64qt6Cte9_m"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: có ít hệ thống để ? vệ tinh\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"So while \",\"italic\":true},{\"text\":\"we have international systems for ensuring we know where the planes in our skies are\",\"bold\":true},{\"italic\":true,\"text\":\", and to prevent them from colliding with one another ...\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"when it comes to the safety of satellites, at present \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"we don't have anything like enough proper ways of tracking them\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\"\\\"\\n\\nMình có: \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"we don't have anything like enough proper ways of tracking them\",\"bold\":true}]},{\"text\":\" >> \"},{\"text\":\"ta không có những phương thức thích hợp để \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"theo dõi\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" vệ tinh.\\n\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"= \"},{\"text\":\" \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"There are few systems for \"},{\"text\":\"(5) ___\",\"bold\":true},{\"text\":\"  satellites\"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"có ít hệ thống để ? vệ tinh\"},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"tracking\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 170,
+          "endTimeInSeconds": 206,
+          "transcripts": [
+           {
+            "id": "4/170856-206149",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 206,
+            "text": "But in spite of this, one thing you may be surprised to learn is that you can launch a satellite into space and, once it's out there, it doesn't have to send back any information to Earth to allow its identification. So while we have international systems for ensuring we know where the planes in our skies are, and to prevent them from colliding with one another, when it comes to the safety of satellites, at present we don't have anything like enough proper ways of tracking them."
+           }
+          ]
+         },
+         "value": "tracking",
+         "blankId": "2Rcmrj8Y0eafI9enrXWo5"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: các tổ chức không muốn chia sẻ các thông tin về vệ tinh dùng cho mục đích ? và thương mại\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"In addition, \",\"italic\":true},{\"text\":\"some operators may be unwilling to share information about the satellites they've launched.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"For example, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"a satellite may be designed for military purposes, or it may have been launched for commercial reasons\",\"bold\":true}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\", and the operators don't want competitors to have information about it.\\\"\\n\\n\"},{\"text\":\"Mình có: \"},{\"italic\":true,\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"a satellite may be designed for military purposes, or it may have been launched for commercial reasons\\n\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"một vệ tinh có thể được thiết kế cho mục đích \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\"quân sự\",\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"},\"text\":\", hoặc nó có thể được phóng lên vì lý do thương mại\\n\"},{\"text\":\"\\n=  \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Operators may be unwilling to share details of satellites used for (6) ___ or commercial reasons\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"các tổ chức không muốn chia sẻ các thông tin về vệ tinh dùng cho mục đích ? và thương mại\"},{\"text\":\"   \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"military\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 250,
+          "transcripts": [
+           {
+            "id": "6/230360-250649",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 250,
+            "text": "In addition, some operators may be unwilling to share information about the satellites they've launched. For example, a satellite may be designed for military purposes, or it may have been launched for commercial reasons, and the operators don't want competitors to have information about it."
+           }
+          ]
+         },
+         "value": "military",
+         "blankId": "8FV_PWvotGVlYqXYE7733"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: rất khó để thu thập thông tin về ? của vệ tinh tại một thời điểm\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"And even \",\"italic\":true},{\"text\":\"if the operators are willing to provide it, the information isn't easy to collect.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"\",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"Details are needed about the object itself, as well as about its location at a particular time\",\"bold\":true}],\"highlightKey\":\"blue40\"},{\"italic\":true,\"text\":\" – and remember that a satellite isn't very big, and it's likely to be moving at thousands of kilometres an hour.\\\"\\n\\nMình có: \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"blue40\",\"children\":[{\"text\":\"Details are needed about the object itself, as well as about its location at a particular time\\n\",\"bold\":true}]},{\"text\":\">> \"},{\"text\":\"Cần có thông tin chi tiết về vệ tinh, cũng như về \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\"vị trí\",\"UNDERLINE_COLOR\":{\"colorKey\":\"blue100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"blue100\"},\"text\":\" của nó tại một thời điểm cụ thể\"},{\"text\":\"   \"},{\"italic\":true,\"text\":\"\\n\\n\"},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"It may be hard to collect details of the object's \"},{\"text\":\"(7) ___\",\"bold\":true},{\"text\":\"  at a given time.\"},{\"text\":\" \"}],\"colorKey\":\"blue100\",\"annotationText\":\"rất khó để thu thập thông tin về ? của vệ tinh tại một thời điểm\"},{\"text\":\"   \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"location\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 250,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "7/250650-288464",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 288,
+            "text": "And even if the operators are willing to provide it, the information isn't easy to collect. Details are needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn't very big, and it's likely to be moving at thousands of kilometres an hour. We don't have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next."
+           }
+          ]
+         },
+         "value": "location",
+         "blankId": "w9hSlPdfVePBEAmuyUWqQ"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"problem: các nhà khoa học chỉ có thể đưa ra ? về vị trí của vệ tinh\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"We don't have any sensors that can constantly follow something moving so fast\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"We don't have any sensors that can constantly follow something moving so fast, so \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"all that the scientists can do is to put forward a prediction concerning where the satellite is heading next\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\"\\\"\\n\\nMình có:\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"all that the scientists can do is to put forward a prediction concerning where the satellite is heading next\",\"bold\":true}]},{\"text\":\"\\n\",\"italic\":true},{\"text\":\">> \"},{\"text\":\"tất cả những gì các nhà khoa học có thể làm là đưa ra \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"dự đoán\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" liên quan đến vị trí tiếp theo của vệ tinh\\n\"},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"},\"text\":\"\\n= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"Scientists can only make a (8) ___  about where the satellite will go.\"},{\"text\":\" \"},{\"text\":\" \"}],\"colorKey\":\"green40\",\"annotationText\":\"các nhà khoa học chỉ có thể đưa ra ? về vị trí của vệ tinh\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"prediction\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 250,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "7/250650-288464",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 288,
+            "text": "And even if the operators are willing to provide it, the information isn't easy to collect. Details are needed about the object itself, as well as about its location at a particular time – and remember that a satellite isn't very big, and it's likely to be moving at thousands of kilometres an hour. We don't have any sensors that can constantly follow something moving so fast, so all that the scientists can do is to put forward a prediction concerning where the satellite is heading next."
+           }
+          ]
+         },
+         "value": "prediction",
+         "blankId": "YsAsRWcNqdPjH-AwWYd5g"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"solution: thông tin cần được tổng hợp vào 1 ?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"\",\"italic\":true},{\"text\":\"Let's consider now some of the solutions that have been suggested.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"Then, as all this information's collected, \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}],\"highlightKey\":\"yellow40\"},{\"italic\":true,\"text\":\".\\\"\\n\\nMình có:\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"yellow40\",\"children\":[{\"text\":\"it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered\\n\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}]},{\"text\":\">> \"},{\"text\":\"thông tin cần phải được tập hợp lại với nhau để có thể sử dụng được và điều đó sẽ liên quan đến việc tạo ra một \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"cơ sở dữ liệu\",\"UNDERLINE_COLOR\":{\"colorKey\":\"yellow100\"},\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\" duy nhất để có thể nhập thông tin vào\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"yellow100\"}},{\"text\":\"\\n  \\n= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"The information should be combined in one \"},{\"text\":\"(9) ___\",\"bold\":true},{\"text\":\" \"}],\"colorKey\":\"yellow40\",\"annotationText\":\"thông tin cần được tổng hợp vào 1 ?\"},{\"bold\":true,\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"database\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 292,
+          "endTimeInSeconds": 343,
+          "transcripts": [
+           {
+            "id": "8/292973-343972",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 343,
+            "text": "So those are some of the problems that we're facing. Let's consider now some of the solutions that have been suggested. One key issue is the way in which information is dealt with. We need more information, but it also needs to be accessible at a global level, so we need to establish shared standards that we can all agree on for the way in which this information is presented. We already do this in other areas of science, so although this is a challenge, it's not an impossible task. Then, as all this information's collected, it needs to be put together so it can be used, and that will involve creating a single database on which it can be entered."
+           }
+          ]
+         },
+         "value": "database",
+         "blankId": "YNeKQxmx1FmB_TZodgkMl"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần nghe \"},{\"text\":\"\\\"solution: một hệ thống điều phối cần được tạo ra nhằm tạo dựng ? trong người dùng\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết sắp có thông tin \"},{\"text\":\"\\\"As we continue to push forward new developments, \",\"italic\":true},{\"text\":\"congestion of the space environment is only going to increase.\",\"bold\":true},{\"italic\":true,\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \"},{\"text\":\"\\\"To cope with this, we need to develop \",\"italic\":true},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"a system like the one I've described to coordinate the work of the numerous spacecraft operators\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\", but \"},{\"type\":\"highlightElement\",\"children\":[{\"text\":\"it's also essential that this system is one that establishes trust in the people that use it\",\"bold\":true}],\"highlightKey\":\"green40\"},{\"italic\":true,\"text\":\", both nationally and at a global level\\\"\\n\\n\"},{\"text\":\"Mình có:  \\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"a system like the one I've described to coordinate the work of the numerous spacecraft operator\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"black100\"}}]},{\"text\":\"\\n>> \"},{\"text\":\"một hệ thống giống để điều phối công việc của nhiều nhà điều hành tàu vũ trụ\",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"text\":\"\\n\"},{\"type\":\"highlightElement\",\"highlightKey\":\"green40\",\"children\":[{\"text\":\"it's also essential that this system is one that establishes trust in the people that use it\",\"bold\":true}]},{\"text\":\" \\n>> \"},{\"text\":\"điều quan trọng là hệ thống này phải là hệ thống thiết lập \",\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\"niềm tin\",\"UNDERLINE_COLOR\":{\"colorKey\":\"green100\"}},{\"bold\":true,\"TEXT_COLOR\":{\"colorKey\":\"green100\"},\"text\":\" đối với những người sử dụng\"},{\"italic\":true,\"text\":\"\\n\\n\"},{\"text\":\"= \"},{\"type\":\"roundedElement\",\"children\":[{\"text\":\" \"},{\"text\":\"A coordinated system must be designed to create (10) ___  in its users. \"}],\"colorKey\":\"green40\",\"annotationText\":\"một hệ thống điều phối cần được tạo ra nhằm tạo dựng ? trong người dùng\"},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án: \"},{\"text\":\"trust\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 343,
+          "endTimeInSeconds": 371,
+          "transcripts": [
+           {
+            "id": "9/343974-371769",
+            "startTimeInSeconds": 343,
+            "endTimeInSeconds": 371,
+            "text": "As we continue to push forward new developments, congestion of the space environment is only going to increase. To cope with this, we need to develop a system like the one I've described to coordinate the work of the numerous spacecraft operators, but it's also essential that this system is one that establishes trust in the people that use it, both nationally and at a global level."
+           }
+          ]
+         },
+         "value": "trust",
+         "blankId": "lRsYcrHcE-ncHhR7NHFJ7"
+        }
+       ],
+       "heading": "Space Traffic Management",
+       "paragraph": {
+        "id": "kjmg3x8I2mO17OqR7rJaO",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"3wpzmAbi9iX8sMNcESQ7J\",\"children\":[{\"text\":\" \"},{\"text\":\"A Space Traffic Management system\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Is a concept similar to Air Traffic Control, but for satellites rather than planes.\"}]}],\"text\":null},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Would aim to set up legal and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 31…..\"}],\"id\":\"De3PWpV3-GFnQxbII8l1b\"},{\"text\":\" ways of improving safety.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Does not actually exist at present.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"Problems in developing effective Space Traffic Management\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Satellites are now quite\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 32…..\"}],\"id\":\"ZpfNLiHuP0sNTzEjlbxn2\"},{\"text\":\" and therefore more widespread (e.g. there are constellations made up of\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 33…..\"}],\"id\":\"ojUCFeS1V5nGYfZCOpKSg\"},{\"text\":\" of satellites).\"}]}],\"text\":null},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"At present, satellites are not required to transmit information to help with their\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 34….. .\"}],\"id\":\"P_tbPdSYNV64qt6Cte9_m\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There are few systems for\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 35…..\"}],\"id\":\"2Rcmrj8Y0eafI9enrXWo5\"},{\"text\":\" satellites.\"}]}],\"text\":null},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Small pieces of debris may be difficult to identify.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Operators may be unwilling to share details of satellites used for\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 36.....\"}],\"id\":\"8FV_PWvotGVlYqXYE7733\"},{\"text\":\" or commercial reasons.\"}]}],\"text\":null},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"It may be hard to collect details of the object's\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 37…..\"}],\"id\":\"w9hSlPdfVePBEAmuyUWqQ\"},{\"text\":\" at a given time.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Scientists can only make a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 38….. \"}],\"id\":\"YsAsRWcNqdPjH-AwWYd5g\"},{\"text\":\" about where the satellite will go.\"}]}]}]},{\"type\":\"p\",\"children\":[{\"text\":\"Solutions\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Common standards should be agreed on for the presentation of information.\"}]}],\"text\":null},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The information should be combined in one\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YNeKQxmx1FmB_TZodgkMl\"},{\"text\":\".\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A coordinated system must be designed to create\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 40…..\"}],\"id\":\"lRsYcrHcE-ncHhR7NHFJ7\"},{\"text\":\" in its users.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "De3PWpV3-GFnQxbII8l1b",
+          "key": 0
+         },
+         {
+          "id": "ZpfNLiHuP0sNTzEjlbxn2",
+          "key": 1
+         },
+         {
+          "id": "ojUCFeS1V5nGYfZCOpKSg",
+          "key": 2
+         },
+         {
+          "id": "P_tbPdSYNV64qt6Cte9_m",
+          "key": 3
+         },
+         {
+          "id": "2Rcmrj8Y0eafI9enrXWo5",
+          "key": 4
+         },
+         {
+          "id": "8FV_PWvotGVlYqXYE7733",
+          "key": 5
+         },
+         {
+          "id": "w9hSlPdfVePBEAmuyUWqQ",
+          "key": 6
+         },
+         {
+          "id": "YsAsRWcNqdPjH-AwWYd5g",
+          "key": 7
+         },
+         {
+          "id": "YNeKQxmx1FmB_TZodgkMl",
+          "key": 8
+         },
+         {
+          "id": "lRsYcrHcE-ncHhR7NHFJ7",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:34:32Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

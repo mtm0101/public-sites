@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual5-t4-listening",
+ "title": "Actual Test 5 - Listening Test 4",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 4,
+ "order": 94,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-5-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "A Conversation After Commencement",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aea2af3d-4a3f-4da6-9b67-ae91cde75bc3.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 1184334
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0dda7824-89ae-4be1-a317-f412cf9677b3.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 25
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Intro To Counselling Services",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b00ab6f4-b715-4b29-b2a9-136f13b0d8bc.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 1156629
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5800d2ff-fef0-432c-a6f9-19d80dc4c7d8.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 23
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Discussion Of An Experiment",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a93f38d7-3827-49b8-a36f-0fcbb1d2293e.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 1225440
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/11edd5be-9868-4c2d-addc-6ee3c4f3785c.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 37
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Expertise In Creative Writing",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4d3b658f-6bbf-4337-82b9-57e48aa6724e.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 939804
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e741a8b7-68bf-4942-a8e7-8fae3ce2c052.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 15
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:53:28Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

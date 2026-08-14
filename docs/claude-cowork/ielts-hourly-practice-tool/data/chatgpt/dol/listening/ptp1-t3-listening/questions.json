@@ -1,0 +1,2031 @@
+{
+ "schema": 1,
+ "id": "ptp1-t3-listening",
+ "title": "Practice Test Plus 1 - Listening Test 3",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 3,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-practice-test-plus-1-test-3-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-practice-test-plus-1-test-3-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Conference Registration Form",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "0e395ddc-28dc-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "0e395ddd-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên riêng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\"So can I have your \"},{\"text\":\"full name?\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy tên \"},{\"text\":\"Melanie Mitchell \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy bên kia hỏi có phải là \\\"\"},{\"text\":\"M-I-T-C-H-E-double L\\\" \",\"bold\":true},{\"text\":\"không  -  Melanie xác nhận là \"},{\"text\":\"đúng \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>  \"},{\"text\":\"Đáp án là Mitchell \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 137,
+          "transcripts": [
+           {
+            "id": "5/120132-126229",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 126,
+            "text": " That should be fine, if you're a student. I'll need to take your details though. So can I have your full name?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "6/126229-129017",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 129,
+            "text": " Yes, sure. It's Melanie Mitchell.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "7/129017-133954",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 133,
+            "text": " Is that M I T C H E double L?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "8/133954-137433",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 137,
+            "text": " Yes, that's right and that's Ms not Miss.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         },
+         "value": "Mitchell",
+         "blankId": "4VH_g4EZ6VX7apZduHajw"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là số phòng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"\"},{\"text\":\"what's your address ?\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"my \"},{\"text\":\"address \",\"bold\":true},{\"text\":\"there is\"},{\"text\":\" Room 66\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là 66 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 151,
+          "transcripts": [
+           {
+            "id": "9/137433-140606",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 140,
+            "text": " OK, fair enough! And what's your address, Melanie?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "10/140606-151024",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 151,
+            "text": " I live in student accommodation at Sydney University. So my address there is Room 66. Women's College. Newtown.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         },
+         "value": "66/women's college/66 women's college",
+         "blankId": "KgUVZeheeDvxzaFkD-VwM"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tên ngành học \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\" And which \"},{\"text\":\"faculty \",\"bold\":true},{\"text\":\"are you studying in?\\\"  \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I'm in the\"},{\"text\":\" Faculty of Education\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là Education \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 160,
+          "transcripts": [
+           {
+            "id": "11/151024-155708",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 155,
+            "text": " OK. And which Faculty are you studying in?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "12/155708-160798",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 160,
+            "text": " I'm in the Faculty of Education - I'm doing a Master's in Primary School Teaching.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         },
+         "value": "Education",
+         "blankId": "SWLhiD8SFCNQs8VsNx6M4"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"mã số học sinh\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"May I see your student card?\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"my number is \"},{\"text\":\"9-9-4-5-7-8-E-D \",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là 994578ED \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 160,
+          "endTimeInSeconds": 175,
+          "transcripts": [
+           {
+            "id": "13/160798-166032",
+            "startTimeInSeconds": 160,
+            "endTimeInSeconds": 166,
+            "text": " Right, and may I see your student card because I need to verify that you're a current student?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "14/166032-175641",
+            "startTimeInSeconds": 166,
+            "endTimeInSeconds": 175,
+            "text": " Yes, sure. Here it is. My number is ... 9 9 4 5 7 8 E D.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         },
+         "value": "994578ED",
+         "blankId": "4dIQpDjBvHl9FGY-89vkW"
+        }
+       ],
+       "heading": "Conference Registration Form",
+       "paragraph": {
+        "id": "zq4ZSE7idewXChvLQE8cz",
+        "editorValue": "[{\"children\":[{\"text\":\"Example\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Name of Conference:\",\"bold\":true},{\"text\":\" \"},{\"text\":\"Beyond 2000\",\"underline\":true,\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Name:\",\"bold\":true},{\"text\":\" Melanie Ms \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"1 _________\"}],\"id\":\"4VH_g4EZ6VX7apZduHajw\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Address:\",\"bold\":true},{\"text\":\" Room \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"2 _________\"}],\"id\":\"KgUVZeheeDvxzaFkD-VwM\"},{\"text\":\", at Women's College Newtown\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Faculty:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"3 _________\"}],\"id\":\"SWLhiD8SFCNQs8VsNx6M4\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Student No:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4dIQpDjBvHl9FGY-89vkW\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "4VH_g4EZ6VX7apZduHajw",
+          "key": 0
+         },
+         {
+          "id": "KgUVZeheeDvxzaFkD-VwM",
+          "key": 1
+         },
+         {
+          "id": "SWLhiD8SFCNQs8VsNx6M4",
+          "key": 2
+         },
+         {
+          "id": "4dIQpDjBvHl9FGY-89vkW",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "0e395dde-28dc-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "0e395ddf-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Registration for:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Half day"
+        },
+        {
+         "key": 1,
+         "value": "Full day"
+        },
+        {
+         "key": 2,
+         "value": "Full conference"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" học sinh đăng ký gói nào\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"do you want to\"},{\"text\":\" attend all three days\",\"bold\":true},{\"text\":\"?\\\" (đang hỏi xem có muốn tham gia cả 3 ngày không để đăng kí)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"yes, I think so - if I can afford it\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu có đủ khả năng tham gia thì sẽ đăng kí cả 3 ngày, tức là full conference \\n=> Đáp án \"},{\"text\":\"có thể là C\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy người mua trả lời \\\"I'll \"},{\"text\":\"register for all three days\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đăng ký \"},{\"text\":\"cả 3 ngày\",\"bold\":true},{\"text\":\", tức là\"},{\"text\":\" hết cả conference \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 224,
+          "endTimeInSeconds": 248,
+          "transcripts": [
+           {
+            "id": "15/224500-231214",
+            "startTimeInSeconds": 224,
+            "endTimeInSeconds": 231,
+            "text": " OK - now do you want to attend all three days? The conference runs from Thursday to Saturday.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "16/231214-234876",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 234,
+            "text": " Yes, I think so - if I can afford it. What does it cost?",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "17/234876-246055",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 246,
+            "text": " Well, you're eligible for a student discount - which makes it $15 for a day registration or $40 for the three days, though it is possible to register for half a day only.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "18/246055-248862",
+            "startTimeInSeconds": 246,
+            "endTimeInSeconds": 248,
+            "text": " I'll register for all three days. please.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "0e395de0-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Accommodation required:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Share room/share bathroom"
+        },
+        {
+         "key": 1,
+         "value": "Own room/share bathroom"
+        },
+        {
+         "key": 2,
+         "value": "Own room with bathroom"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"accomodation\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\",\"bold\":true},{\"text\":\" Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"...\",\"bold\":true},{\"text\":\"now will you be requiring \"},{\"text\":\"accommodation...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy bên bán vé miêu tả từng đáp án \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó người mua trả lời là \\\"I \"},{\"text\":\"don't mind sharing a room\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhưng sau đó nói tiếp là \\\"on second thoughts, yes I do\\\", tức là không muốn share room nữa \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"I'll \"},{\"text\":\"have \",\"bold\":true},{\"text\":\"my\"},{\"text\":\" own room\",\"bold\":true},{\"text\":\", but I'll\"},{\"text\":\" share the bathroom\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở \"},{\"text\":\"phòng riêng\",\"bold\":true},{\"text\":\" nhưng dùng \"},{\"text\":\"chung nhà tắm \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 248,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "19/248862-254022",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 254,
+            "text": " Good ... now will you be requiring accommodation while you're here in Melbourne?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "20/254022-257505",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 257,
+            "text": " Yes, I suppose I will. What's available?",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "21/257505-264583",
+            "startTimeInSeconds": 257,
+            "endTimeInSeconds": 264,
+            "text": " Well... we have several levels of accommodation. You can share a room with another student for $25 a night.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "22/264583-265514",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 265,
+            "text": " Urn.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "23/265514-272000",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 272,
+            "text": " Or you can have your own room but share the bathroom - I believe it's just down the corridor - that's $45.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "24/272650-273526",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 273,
+            "text": " Right.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "25/273526-276613",
+            "startTimeInSeconds": 273,
+            "endTimeInSeconds": 276,
+            "text": " Or you can have a single room with your own bathroom .",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "0e3984f1-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Meals required:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Breakfast"
+        },
+        {
+         "key": 1,
+         "value": "Lunch"
+        },
+        {
+         "key": 2,
+         "value": "Dinner"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\",\"marks\":[]},{\"text\":\" bữa ăn \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"the conference fee does not include \"},{\"text\":\"meals\",\"bold\":true},{\"text\":\"\\\" \\nNghe thấy nhắc tới cả 3 đáp án \"},{\"text\":\"lunch\",\"bold\":true},{\"text\":\", \"},{\"text\":\"dinner \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"breakfast \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe người mua trả lời là \\\"\"},{\"text\":\"I'll have the lunch\",\"bold\":true},{\"text\":\" but \"},{\"text\":\"not the dinner or breakfast\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chỉ muốn dùng bữa trưa \\n=> Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Loại đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 285,
+          "endTimeInSeconds": 330,
+          "transcripts": [
+           {
+            "id": "27/285976-302645",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 302,
+            "text": " Right ... Now the conference fee does not include meals though you d o get tea and coffee in the breaks. Shall I put you down for lunch - that's an extra $10 a day and there's the conference dinner on Friday night which is $25 ... oh, and what about breakfast?",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "28/302645-313233",
+            "startTimeInSeconds": 302,
+            "endTimeInSeconds": 313,
+            "text": " Hang on a minute ... it's all starting to sound rather expensive! I'll have the lunch but not the dinner or breakfast - if that's OK?",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "29/313233-330892",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 330,
+            "text": " Perfectly OK. Now ... a couple of other things - there are a number of special interest groups organised - they're known as SIG's and you're asked to nominate your preference. They'll take place on the Friday afternoon and Saturday morning but they're filling up quickly which is why you need to nominate now.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "0e3984f2-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Friday SIGs:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Computers in Education"
+        },
+        {
+         "key": 1,
+         "value": "Teaching Reading"
+        },
+        {
+         "key": 2,
+         "value": "The Gifted Child"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng cần nghe là \",\"marks\":[]},{\"text\":\"Friday SIG\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Right. What are the SIG's?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy trả lời là \\\"...\"},{\"text\":\"technology in the classroom\",\"bold\":true},{\"text\":\" is really \"},{\"text\":\"my area of interest \",\"bold\":true},{\"text\":\"rather than reading, \"},{\"text\":\"so I'll go for that\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn tìm hiểu thêm về \"},{\"text\":\"technology \",\"bold\":true},{\"text\":\"(chứ không phải reading), tức là s\"},{\"text\":\"ẽ tham gia SIG có liên quan tới computers \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\" I can probably \"},{\"text\":\"read up on the gifted child topic myself \",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có thể tự đọc về topic này\",\"bold\":true},{\"text\":\", không cần phải tham gia SIG \\n=> \"},{\"text\":\"Loại đáp án C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "30/330892-333832",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 333,
+            "text": " Right. What are the SIG's?",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "31/333832-344327",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 344,
+            "text": " Well, there are six altogether. Let's see, on Friday you have a choice between Computers in Education or Teaching Reading Skills...",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "32/344327-345116",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 345,
+            "text": " Urn...",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "33/345116-348531",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 348,
+            "text": " ... or a session on Catering for the Gifted Child.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "34/348531-362048",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 362,
+            "text": " Oh they all sound interesting but technology in the classroom is really my area of interest rather than reading, so I'll go for that. I can probably read up on the gifted child topic myself.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "0e3984f3-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Saturday SIGs:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Cultural Differences"
+        },
+        {
+         "key": 1,
+         "value": "Music in the Curriculum"
+        },
+        {
+         "key": 2,
+         "value": "Gender Issues"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \",\"marks\":[]},{\"text\":\"Saturday SIG's\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"And then the\"},{\"text\":\" Saturday options\",\"bold\":true},{\"text\":\"....\\\"\\nNghe thấy nhắc tới 3 chương trính SIG theo thứ tự đáp án trong đề \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"I am really \"},{\"text\":\"interested in\",\"bold\":true},{\"text\":\" how \"},{\"text\":\"boys and girls behave differently\",\"bold\":true},{\"text\":\", even when they are very young, so \"},{\"text\":\"I'd better opt for the third session\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Boys and girls thuộc về\",\"bold\":true},{\"text\":\" \"},{\"text\":\"gender\",\"bold\":true},{\"text\":\", also \"},{\"text\":\"the third session \",\"bold\":true},{\"text\":\"theo thứ tự nhắc tới ở trên là\"},{\"text\":\" gender studies \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley42\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\".\"},{\"text\":\"..even though\",\"bold\":true},{\"text\":\" the Cultural Differences SIG is probably really interesting too' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là câu có \"},{\"text\":\"cấu trúc tương phản (even though)\",\"bold\":true},{\"text\":\", tức là thực sự sẽ \"},{\"text\":\"không tham gia Cultural Differences \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 362,
+          "endTimeInSeconds": 394,
+          "transcripts": [
+           {
+            "id": "35/362048-374317",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 374,
+            "text": " Right ... And then the Saturday options are: a session on Cultural Differences; or there's Music in the Primary Curriculum or you could go to the one on Gender Issues in the Classroom.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "36/374317-378555",
+            "startTimeInSeconds": 374,
+            "endTimeInSeconds": 378,
+            "text": " Wow! Can I go to them all? They all sound fascinating.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           },
+           {
+            "id": "37/378555-379818",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 379,
+            "text": " 'Fraid not.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "38/379818-394780",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 394,
+            "text": " Well, I am really interested in how bovs and girls behave differently, even when they are very young, so I'd better opt for the third session even though the Cultural Differences SIG is probably really interesting, too.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "0e3984f4-28dc-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Method of payment:",
+       "options": [
+        {
+         "key": 0,
+         "value": "Credit Card"
+        },
+        {
+         "key": 1,
+         "value": "Cheque"
+        },
+        {
+         "key": 2,
+         "value": "Cash"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\",\"marks\":[]},{\"text\":\" cách thanh toán \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"\"},{\"text\":\"How \",\"bold\":true},{\"text\":\"would you like to \"},{\"text\":\"pay\",\"bold\":true},{\"text\":\"?\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I'll have to \"},{\"text\":\"put it on my card\",\"bold\":true},{\"text\":\", 'cos I \"},{\"text\":\"don't have enough cash on me\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" =>\"},{\"text\":\" Trả bằng thẻ\",\"bold\":true},{\"text\":\" vì đang \"},{\"text\":\"không cầm đủ tiền mặt \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 397,
+          "endTimeInSeconds": 415,
+          "transcripts": [
+           {
+            "id": "41/397838-410118",
+            "startTimeInSeconds": 397,
+            "endTimeInSeconds": 410,
+            "text": " And how would you like to pay? We accept most credit cards - or bank cheques but not personal cheques, I'm afraid. Been caught out too often before - and cash, of course. We never say 'No' to cash.",
+            "character": {
+             "id": "YBUNsnyqK_IYfGJ-QmNcD",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "42/410118-415051",
+            "startTimeInSeconds": 410,
+            "endTimeInSeconds": 415,
+            "text": " I'll have to put it on my card 'cos I don't have enough cash on me, right now.",
+            "character": {
+             "id": "1jRpoRw9QYiWabsTwmh48",
+             "name": "Student"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Circle the correct letters "
+         },
+         {
+          "text": "A-C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Beaches Information",
+   "duration": 6,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "dccf1bfa-28dc-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "Uf14gl7rZpiN5USOfk2lM",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng đầu tiên là \"},{\"text\":\"địa điểm của bãi biển Bandela \",\"bold\":true},{\"text\":\"(1km from Bandela ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"...first of all there's Bandela beach\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"this beach is \"},{\"text\":\"one kilometer away from\",\"bold\":true},{\"text\":\" the \"},{\"text\":\"old fishing village of Bandela\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bãi biển \"},{\"text\":\"cách fishing vilage 1 km\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là fishing village \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 98,
+          "endTimeInSeconds": 115,
+          "transcripts": [
+           {
+            "id": "1/98318-115890",
+            "startTimeInSeconds": 98,
+            "endTimeInSeconds": 115,
+            "text": "So looking at this pamphlet, first of all there's Bandela beach. This beach is one kilometre away from the old fishing village of Bandela ... which is a beautiful spot. If you park in the car park behind it, there's a small path which leads down to the bay. "
+           }
+          ]
+         },
+         "value": "fishing village",
+         "blankId": "2eiebfreDntD1ua6Qv8-t"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"bãi biển Bandela được surrounded bởi cái gì \",\"bold\":true},{\"text\":\"(surrounded by .... ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"It's \"},{\"text\":\"very pretty because\",\"bold\":true},{\"text\":\" [...]\\\"  (nói về nét đẹp của bãi biển)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the whole beach is\"},{\"text\":\" backed by pine trees\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Xung quanh\",\"bold\":true},{\"text\":\" bãi biển \"},{\"text\":\"là pine trees \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là pine trees \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 115,
+          "endTimeInSeconds": 132,
+          "transcripts": [
+           {
+            "id": "2/115890-132791",
+            "startTimeInSeconds": 115,
+            "endTimeInSeconds": 132,
+            "text": "It's very pretty because the whole beach is backed by pine trees so its very sheltered. The beach itself is very clean and the water is shallow and safe. That together with the soft sand make it an ideal beach for children and non- swimmers."
+           }
+          ]
+         },
+         "value": "pine trees",
+         "blankId": "L-L14jjSnpCtZbmPDYYJA"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"khu vực xung quanh bãi biển Da Porlata\",\"bold\":true},{\"text\":\" (area around beach is ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"....in the eastern corner of the island, is the spectacular \"},{\"text\":\"Da Porlata beach...\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the\"},{\"text\":\" land around this beach\",\"bold\":true},{\"text\":\" is\"},{\"text\":\" marshland\",\"bold\":true},{\"text\":\" ... it's all \"},{\"text\":\"marsh\",\"bold\":true},{\"text\":\"\\\" (land = area)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án là \"},{\"text\":\"marshland/\",\"bold\":true},{\"text\":\" \"},{\"text\":\"marsh / marshes\",\"bold\":true},{\"text\":\" đều được \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 132,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "3/132791-157607",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 157,
+            "text": "A little further round the coast, again to the east ... in the eastern corner of the island, is the spectacular Da Porlata beach which is basically a long inlet. The land around this beach is marshland ... it's all marsh ... and there's a stream which winds through it and the stream goes into the sea ... and the beach has lovely pale gold sand. "
+           }
+          ]
+         },
+         "value": "marshland/marshes/marsh",
+         "blankId": "q1jaRAI3utG8_DjqNfpJg"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"có thể mướn cái gì \",\"bold\":true},{\"text\":\"(can hire ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"there is a handful of \"},{\"text\":\"shops and bars\",\"bold\":true},{\"text\":\"...\\\" (thường là những nơi cho thuê đồ)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"You can \"},{\"text\":\"hire sunbeds\",\"bold\":true},{\"text\":\" \"},{\"text\":\"and umbrellas\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là sunbeds and umbrellas \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 182,
+          "transcripts": [
+           {
+            "id": "4/157607-182011",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 182,
+            "text": "Access to this beach is quite tricky and not for the less energetic! You have to go down a long flight of steps - 190 to be exact. But you'll be relieved to know that there's also a road which winds down to a car parking area. When you're level with the sea, there is a handful of shops and bars and you can hire sunbeds and umbrellas."
+           }
+          ]
+         },
+         "value": "sunbeds and umbrellas",
+         "blankId": "RaQFvX177gCo6mMI-tSgs"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\",\"marks\":[]},{\"text\":\" đơn vị độ dài của của bãi Sangett \",\"marks\":[],\"bold\":true},{\"text\":\"(l\",\"marks\":[]},{\"text\":\"ongest beach on island (2.5 ... in length))\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"....I'd suggest you visit and this is \"},{\"text\":\"San Gett\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"it's exactly two and a half kilometers long \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là kilometers \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 182,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "5/182011-208036",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 208,
+            "text": "Continuing round the island, just past the Tip of Cain is the next beach I'd suggest you visit and this is San Gett. Why? Because there isn't a beach longer than this on the island. If you want to know, it's exactly two and a half kilometres long and that's a bonus because it means it never gets overcrowded. It has golden sand and clear, blue water shelving into the sea."
+           }
+          ]
+         },
+         "value": "kilometers",
+         "blankId": "jN5NbKNq6vY9F51OAPTdI"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem\"},{\"text\":\" cần check cái gì khi thời tiết xấu\",\"bold\":true},{\"text\":\" (check ... on beach in rough weather) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\" But\",\"bold\":true},{\"text\":\" \"},{\"text\":\"check first\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"This beach operates \"},{\"text\":\"a flag system\",\"bold\":true},{\"text\":\" a\"},{\"text\":\"s the sea can get rough\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có một\"},{\"text\":\" hệ thống treo cờ\",\"bold\":true},{\"text\":\" trong \"},{\"text\":\"trường hợp biển động\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là flag system hoặc flags \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (chú ý là nếu bạn dùng \"},{\"text\":\"flags \",\"bold\":true},{\"text\":\"thì cần ở dạng plural)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 208,
+          "endTimeInSeconds": 235,
+          "transcripts": [
+           {
+            "id": "6/208036-235685",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 235,
+            "text": "There are several beach restaurants to choose from and watersports are available when the water is calm. But check first. This beach operates a flag system as the sea can get rough and you should always swim between the flags. There's a large car park which gives you easy access to the eastern end of the beach but the western end is much quieter and more wild as it is harder to reach."
+           }
+          ]
+         },
+         "value": "flag system/flags",
+         "blankId": "s9mrbwKi-jHzFzNzFRw4F"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"địa điểm của bãi Blanaka \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"Blanaka \",\"bold\":true},{\"text\":\"is another popular beach\"},{\"text\":\"\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"in the north-west corner of the island \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là north(-)west \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 235,
+          "endTimeInSeconds": 266,
+          "transcripts": [
+           {
+            "id": "7/235685-266196",
+            "startTimeInSeconds": 235,
+            "endTimeInSeconds": 266,
+            "text": "Blanaka is another popular beach -just in the north-west corner of the island. It has incredibly white sand and sparkling water. There is ample car parking here and plenty of bars and restaurants. Blanaka has white cliffs all around jt and for those of you who'd like a little more to do than just lazing on the beach, there are caves here which you can explore in the cliffs and you can also dive into the water from rock platforms along the side of the cove."
+           }
+          ]
+         },
+         "value": "north-west/northwest",
+         "blankId": "ugruckYvAFzqJAMchc1ky"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem bãi\"},{\"text\":\" Blanaka được surround bởi cái gì\",\"bold\":true},{\"text\":\" (surrounded by ...) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được \\\"Blanaka \"},{\"text\":\"has white cliffs all around it.\",\"bold\":true},{\"text\":\"...\\\"  (all around = surround)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là white cliffs \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 235,
+          "endTimeInSeconds": 266,
+          "transcripts": [
+           {
+            "id": "7/235685-266196",
+            "startTimeInSeconds": 235,
+            "endTimeInSeconds": 266,
+            "text": "Blanaka is another popular beach -just in the north-west corner of the island. It has incredibly white sand and sparkling water. There is ample car parking here and plenty of bars and restaurants. Blanaka has white cliffs all around jt and for those of you who'd like a little more to do than just lazing on the beach, there are caves here which you can explore in the cliffs and you can also dive into the water from rock platforms along the side of the cove."
+           }
+          ]
+         },
+         "value": "white cliffs",
+         "blankId": "Tt-prDjC50iEUvuVXUKRF"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cần phải đi qua cái gì ở bãi Dissidor \",\"bold\":true},{\"text\":\"(need to walk over ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Well, my final recommendation for today is Dissidor. \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"You can\"},{\"text\":\" reach Dissidor\",\"bold\":true},{\"text\":\" by a steep slope which \"},{\"text\":\"goes over some sandbanks\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Muốn tới Dissidor\",\"bold\":true},{\"text\":\" cần phải \"},{\"text\":\"đi qua sandbanks\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là sandbanks \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 266,
+          "endTimeInSeconds": 294,
+          "transcripts": [
+           {
+            "id": "8/266196-294997",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 294,
+            "text": "Well, my final recommendation for today is Dissidor. Now this beach isn't quite as easy to get to as the others I've talked about. It's quite a remote little beach tucked away here next to Blanaka. You can reach Dissidor by a steep slope which goes over some sandbanks. The beach itself is small and pretty, with reddish- coloured sand and some stony areas on its eastern side. "
+           }
+          ]
+         },
+         "value": "sandbanks/ sand-banks",
+         "blankId": "D8VsBWwm-DBsGD2lQwnjk"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cần mang theo cái gì \",\"bold\":true},{\"text\":\"(need to take some .... )\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"It's a good idea to take some food and drink with you\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là food and drink \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 294,
+          "endTimeInSeconds": 317,
+          "transcripts": [
+           {
+            "id": "9/294997-317004",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 317,
+            "text": "Despite being quite small the bathing is good and you can also go fishing here from the rocks at either side. It's a good idea to take some food and drink with you if you decide to go here as there's only one little bar which isn't always open. So that should give you plenty of ideas to choose from over the next two weeks ..."
+           }
+          ]
+         },
+         "value": "food and drink",
+         "blankId": "PSfNZuXcNTAmFkFebqzSX"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "2eiebfreDntD1ua6Qv8-t",
+         "key": 0
+        },
+        {
+         "id": "L-L14jjSnpCtZbmPDYYJA",
+         "key": 1
+        },
+        {
+         "id": "q1jaRAI3utG8_DjqNfpJg",
+         "key": 2
+        },
+        {
+         "id": "RaQFvX177gCo6mMI-tSgs",
+         "key": 3
+        },
+        {
+         "id": "jN5NbKNq6vY9F51OAPTdI",
+         "key": 4
+        },
+        {
+         "id": "s9mrbwKi-jHzFzNzFRw4F",
+         "key": 5
+        },
+        {
+         "id": "ugruckYvAFzqJAMchc1ky",
+         "key": 6
+        },
+        {
+         "id": "Tt-prDjC50iEUvuVXUKRF",
+         "key": 7
+        },
+        {
+         "id": "D8VsBWwm-DBsGD2lQwnjk",
+         "key": 8
+        },
+        {
+         "id": "PSfNZuXcNTAmFkFebqzSX",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"TEC3wHQCVvzf25_RZd5bZ\",\"cellsWidth\":[126,157,182,189],\"children\":[{\"type\":\"tr\",\"id\":\"hwmmbqCq14O1GR-aW_iHK\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name of Beach\",\"bold\":true}]}]}],\"id\":\"bk_rQrcj1L9kFYPI-kyxC\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Location\",\"bold\":true}]}]}],\"id\":\"kILWtOdGl9KwMmu3Y_Zpq\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Geographical Features\",\"bold\":true}]}]}],\"id\":\"yzvZlZJoddhAHD9XezuOi\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Other information\",\"bold\":true}]}]}],\"id\":\"2oeZEAZKUMQxQaUxbkRqt\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"AmkuLvN0zOYlZGttMpNIm\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Bandela\"}]}]}],\"scope\":\"row\",\"id\":\"S1tq1JMKIuGiehj-fux_d\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1 km from Bandela\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"2eiebfreDntD1ua6Qv8-t\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"vZ1p7ULUcF-S4bE6enoXE\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"surrounded by\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"L-L14jjSnpCtZbmPDYYJA\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"K4xffnJ9FySMTRLho5hlU\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"safe for children/non-swimmers\"}]}]}],\"id\":\"n1bVnW9N0pxIUZVz0VKCo\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"vX8X40jd9F1PBXa8HOiq4\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Da Porlata\"}]}]}],\"scope\":\"row\",\"id\":\"oJZtJ3pTNkBRyTvFVhyRv\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"east comer of island\"}]}]}],\"id\":\"DRp8CAe-TacO_zG11joOv\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"area around beach is\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"q1jaRAI3utG8_DjqNfpJg\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"hT-Y_8e2Xa3lBG2LcaAqM\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"can hire\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"RaQFvX177gCo6mMI-tSgs\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"rLIyf-qWghqCqbP_z2fph\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"uiIYdOceqqU1Y7ZdxymHZ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"San Gett\"}]}]}],\"scope\":\"row\",\"id\":\"Hl5Im8brXnLiL9JKoi9hs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"just past 'Tip of Cain’\"}]}]}],\"id\":\"kdJuEkkZHzsfceKSKvSya\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"longest beach on island (2.5 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"jN5NbKNq6vY9F51OAPTdI\",\"text\":\"\"}]},{\"text\":\" in length)\"}]}]}],\"id\":\"z6e93ZzrR8VWm4CsCpCN-\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"check \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"s9mrbwKi-jHzFzNzFRw4F\",\"text\":\"\"}]},{\"text\":\"on beach in rough weather\"}]}]}],\"id\":\"DVUXWqVfsO-dMGZzEz444\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"_i6Il4apnDYKwFO-SPjKw\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Blanaka\"}]}]}],\"scope\":\"row\",\"id\":\"qY22Hq7h1Vf3GY4KAwFdy\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"corner\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ugruckYvAFzqJAMchc1ky\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"0wy3I8p7MPctp40gfJN_H\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"surrounded by\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Tt-prDjC50iEUvuVXUKRF\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"qp2k_QJ-fl37bEwwgEFQc\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"can go caving and diving\"}]}]}],\"id\":\"FFK2oFbIOhoAM46ohwXME\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"aUnsvbsbY5W7CyRwTXKaG\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Dissidor\"}]}]}],\"scope\":\"row\",\"id\":\"Qg2gPSk2I2OJXdGlZ8HqJ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"close to Blanaka\"}]}]}],\"id\":\"x2f9NdWpAXtAfzV88pjyq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"need to walk over\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"D8VsBWwm-DBsGD2lQwnjk\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"gWwAq4QDa7BDDtT8K4gXS\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"need to take some \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"PSfNZuXcNTAmFkFebqzSX\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"TDeiIT0keexfHKSNB0qOf\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":654,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Challenge For Booksellers",
+   "duration": 6,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "b82609a2-28dc-11ed-916d-19cae05489a1",
+     "questions": [
+      {
+       "uuid": "b82609a3-28dc-11ed-916d-19cae05489a1",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"vào tháng 5 cần request gì từ lecturers \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \",\"bold\":true},{\"text\":\"\\\"..., we have a \"},{\"text\":\"database of information\",\"bold\":true},{\"text\":\"\\\" (ý tới trước)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we contact course convenors\"},{\"text\":\" in May\",\"bold\":true},{\"text\":\" \"},{\"text\":\"ask them to send us their booklists\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true},{\"text\":\" (ask = request) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án là \"},{\"text\":\"booklists/\",\"bold\":true},{\"text\":\" \"},{\"text\":\"reading list(s) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"(có nghĩa tương đương) \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 77,
+          "endTimeInSeconds": 93,
+          "transcripts": [
+           {
+            "id": "4/77180-93318",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 93,
+            "text": " Basically, we make preparations long before they arrive. Like all other major book retailers, we have a database of information, and using that, we contact course convenors in May and ask them to send us their booklists.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "booklists/reading list/reading lists",
+         "blankId": "AJwNocEtjDhGItlyceV2m"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"vị trí thứ 2 trong mục Categorise book as \",\"bold\":true},{\"text\":\"(.... reading) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"what we call \"},{\"text\":\"essential reading ...\\\" \",\"bold\":true},{\"text\":\"(ý tới trước) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"....whether it's what they would term \"},{\"text\":\"'recommended' reading\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại reading tiếp theo là \"},{\"text\":\"recommended reading \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là recommended \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 98,
+          "endTimeInSeconds": 119,
+          "transcripts": [
+           {
+            "id": "8/98049-119660",
+            "startTimeInSeconds": 98,
+            "endTimeInSeconds": 119,
+            "text": " An average course requires about 30 books. We ask lecturers to indicate whether a book is what we call 'essential' reading ... you know, the students simply have to get it ... or whether it's what they would term ' recommended' reading or whether it's just a supplementary text that they tend to refer to as 'background' reading.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "recommended",
+         "blankId": "jcoJmkDIqmRX3N5VLN9pe"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần nghe là\"},{\"text\":\" khi order, refer tới cái gì của năm ngoái\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới khi nghe \",\"bold\":true},{\"text\":\"\\\"when it comes to \"},{\"text\":\"ordering\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"It's a lot safer to \"},{\"text\":\"go by the previous year's sales figures\",\"bold\":true},{\"text\":\"\\\" (go by = refer),\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sẽ an toàn hơn nếu như\"},{\"text\":\" dựa vào các doanh số của năm trước\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là sales figure \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 154,
+          "transcripts": [
+           {
+            "id": "10/121761-154817",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 154,
+            "text": " It's not a perfect system unfortunately. If a lecturer tells us that he expects us to sell 100 copies of a book, we know that we could actually sell anything from 50 to 150. That's why in practice, when it comes to ordering, it's a lot safer to ao by the previous year's sales figures - if that's possible of course … if we've sold the book before. We also build other factors into the equation including the type of course that the books are for, the students' year group and a measure of our own judgement.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "sales figures",
+         "blankId": "DJjf2OmIejAbiCi0ZppIo"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần tìm là \"},{\"text\":\"cái gì đó của học sinh \",\"bold\":true},{\"text\":\"(student's ....)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"We also build other factors...\\\" \",\"bold\":true},{\"text\":\"(các nhân tố khác ảnh hưởng tới ordering) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...the type of course...\\\" (ý tới trước)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe tiếp thấy \"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\"...the \"},{\"text\":\"students' year group\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => \"},{\"text\":\"Year group\",\"bold\":true},{\"text\":\" được nhắc đến \"},{\"text\":\"ngay sau type of course\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là year (group) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 154,
+          "transcripts": [
+           {
+            "id": "10/121761-154817",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 154,
+            "text": " It's not a perfect system unfortunately. If a lecturer tells us that he expects us to sell 100 copies of a book, we know that we could actually sell anything from 50 to 150. That's why in practice, when it comes to ordering, it's a lot safer to ao by the previous year's sales figures - if that's possible of course … if we've sold the book before. We also build other factors into the equation including the type of course that the books are for, the students' year group and a measure of our own judgement.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "year/year group",
+         "blankId": "4zfstTjz4x6N31waeXtDE"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối với\"},{\"text\":\" bước đầu tiên\",\"bold\":true},{\"text\":\" của\"},{\"text\":\" Procedure for Publishers,  cần gửi cái gì cho course providers \",\"bold\":true},{\"text\":\"(send ... to course providers)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"What about the publishers?\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The standard \",\"marks\":[]},{\"text\":\"procedure \",\"marks\":[],\"bold\":true},{\"text\":\"they use is to \",\"marks\":[]},{\"text\":\"mail out \",\"marks\":[],\"bold\":true},{\"text\":\"catalogues to lecturers\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"colleges and universities\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Quy trình là \"},{\"text\":\"mail out (=send) catalogues\",\"bold\":true},{\"text\":\" tới lecturers or colleges and universities (= providers)\\n=> \"},{\"text\":\"Đáp án là catalogues \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 203,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "13/203903-208368",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 208,
+            "text": " What about the publishers? Do they take an active role in promoting new books?",
+            "character": {
+             "id": "F5GQuTeqz8zM9Oexm232r",
+             "name": "Lee"
+            }
+           },
+           {
+            "id": "14/208368-241337",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 241,
+            "text": " Certainly. The academic and professional publishing market is worth about £700 million a year, so publishers go to some lengths to make sure their books are known. The standard procedure they use is to mail out catalogues to lecturers or colleges and universities, that's been the main form of promotion for years. Now, of course, they can also post details of new or revised works on websites. Some even go so far as writing individual letters to the appropriate lecturers in order to let them know what's coming up.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "catalogues",
+         "blankId": "5KULeU2rurpZo-HB1wqll"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cần compose cái gì tới academic staff \",\"bold\":true},{\"text\":\"(compose personal ... to academic staff)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sẽ tới sau \\\"...they can also \"},{\"text\":\"post details of works on websites\",\"bold\":true},{\"text\":\"\\\" (là thông tin của ý trước) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"writing individual letters to the appropriate lecturers\",\"bold\":true},{\"text\":\" in order to let them know what's coming up\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Viết thư cá nhân tới giảng viên  \"},{\"text\":\"(write = compose, individual = personal, và lecturers = academic staff)\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là letters \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 208,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "14/208368-241337",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 241,
+            "text": " Certainly. The academic and professional publishing market is worth about £700 million a year, so publishers go to some lengths to make sure their books are known. The standard procedure they use is to mail out catalogues to lecturers or colleges and universities, that's been the main form of promotion for years. Now, of course, they can also post details of new or revised works on websites. Some even go so far as writing individual letters to the appropriate lecturers in order to let them know what's coming up.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "letters/correspondence",
+         "blankId": "Xlx2iPvcvmXqrsHEw1D9v"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cần gửi gì tới bookstore \",\"bold\":true},{\"text\":\"(send ... to bookstores)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Biết đáp án sắp tới khi nghe \\\"The \"},{\"text\":\"publishers send us - \",\"bold\":true},{\"text\":\"the\"},{\"text\":\" book sellers\\\" \",\"bold\":true},{\"text\":\"(book sellers = bookstores) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the publishers \"},{\"text\":\"send us\",\"bold\":true},{\"text\":\" - the \"},{\"text\":\"book sellers\",\"bold\":true},{\"text\":\"- \"},{\"text\":\" 'inspection copies'\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó nghe thêm thì thấy \"},{\"text\":\"những bản copy này là free\",\"bold\":true},{\"text\":\" do \\\"lecturers can then \"},{\"text\":\"get a free copy\",\"bold\":true},{\"text\":\"\\\"\\n=> \"},{\"text\":\"Đáp án là inspection copies / free copies \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 244,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "16/244385-255004",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 255,
+            "text": " That's right. The publishers send us - the book sellers - ' inspection copies'. Lecturers can then get a free copy and decide whether it's going to be suitable for their course",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "inspection copies/free copies",
+         "blankId": "PgkzpL5FYN7RPw205re2v"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cần nghe xem \"},{\"text\":\"đối với học sinh mục tiêu chính là tìm sách như thế nào \",\"bold\":true},{\"text\":\"(Main objective is to find books that are good ...)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"How does it work with the \"},{\"text\":\"students\",\"bold\":true},{\"text\":\"?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"Often the critical issue is what represents value for money for students\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Điều quan trọng\",\"bold\":true},{\"text\":\" nhất với students là \"},{\"text\":\"sách nào có value for money\",\"bold\":true},{\"text\":\" (critical issue ~ main objective)\\n=> \"},{\"text\":\"Đáp án là value (for money) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 255,
+          "endTimeInSeconds": 271,
+          "transcripts": [
+           {
+            "id": "17/255004-259861",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 259,
+            "text": " And how does it work with the students? What are they looking for and who helps them most?",
+            "character": {
+             "id": "F5GQuTeqz8zM9Oexm232r",
+             "name": "Lee"
+            }
+           },
+           {
+            "id": "18/259861-271514",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 271,
+            "text": " I think lecturers are best placed to understand the students' needs. Often the critical issue is what represents value for money for students. This is more important than price per se.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "value/value for money",
+         "blankId": "Nx9CxKE-nP3g1mWQyKvzP"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"ngoài ra còn tìm sách như thế nào nữa \",\"bold\":true},{\"text\":\"(Also look for books that are .... and ....) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"Do \"},{\"text\":\"students \",\"bold\":true},{\"text\":\"actually buy \"},{\"text\":\"books\",\"bold\":true},{\"text\":\"? \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"They tend to go for \"},{\"text\":\"books that are clear and easy to use\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Students chọn sách\",\"bold\":true},{\"text\":\" theo tiêu chí\"},{\"text\":\" clear và easy to use \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án cho 2 câu này là clear và easy to use \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"(điền theo thú tự nào cũng được)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 271,
+          "endTimeInSeconds": 298,
+          "transcripts": [
+           {
+            "id": "19/271514-275077",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 275,
+            "text": " Do students actually buy books before they start the course?",
+            "character": {
+             "id": "F5GQuTeqz8zM9Oexm232r",
+             "name": "Lee"
+            }
+           },
+           {
+            "id": "20/275077-298561",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 298,
+            "text": " Apparently a large proportion of students wait to see what they need. Students have a firm idea of what constitutes a good book so they tend to give themselves time to look at all the options before making a choice. They tend to go for books that are clear and easy to use. Often the texts that their lecturers recommend turn out to be too academic and remain here on our shelves.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "clear/easy to use",
+         "blankId": "UbVj3QdlHo7Y3vw75JsTN"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"They tend to go for \"},{\"text\":\"books that are clear and easy to use\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Students chọn sách\",\"bold\":true},{\"text\":\" theo tiêu chí\"},{\"text\":\" clear và easy to use \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án cho 2 câu này là clear và easy to use \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"(điền theo thú tự nào cũng được)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 271,
+          "endTimeInSeconds": 298,
+          "transcripts": [
+           {
+            "id": "19/271514-275077",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 275,
+            "text": " Do students actually buy books before they start the course?",
+            "character": {
+             "id": "F5GQuTeqz8zM9Oexm232r",
+             "name": "Lee"
+            }
+           },
+           {
+            "id": "20/275077-298561",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 298,
+            "text": " Apparently a large proportion of students wait to see what they need. Students have a firm idea of what constitutes a good book so they tend to give themselves time to look at all the options before making a choice. They tend to go for books that are clear and easy to use. Often the texts that their lecturers recommend turn out to be too academic and remain here on our shelves.",
+            "character": {
+             "id": "0sU8LZsYHEDtPMueo_tDn",
+             "name": "Jenny"
+            }
+           }
+          ]
+         },
+         "value": "clear/easy to use",
+         "blankId": "0C6zRgaXNqitffs5Gxeed"
+        }
+       ],
+       "paragraph": {
+        "id": "hAA6DSFcu90CADLZ_wu1W",
+        "editorValue": "[{\"children\":[{\"text\":\"Procedure for Bookshops\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Keep database of course/college details.\"}],\"type\":\"p\"}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"In May, request \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"21 ________\"}],\"id\":\"AJwNocEtjDhGItlyceV2m\"},{\"text\":\" from lecturers\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Categorise books as\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"essential reading\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"22 ________\"}],\"id\":\"jcoJmkDIqmRX3N5VLN9pe\"},{\"text\":\"  reading\"}]}]}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"background reading\"}]}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"When ordering, refer to last year’s \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"23 ________\"}],\"id\":\"DJjf2OmIejAbiCi0ZppIo\"},{\"text\":\" \"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"type of course\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"students’ \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"24 ________ \"}],\"id\":\"4zfstTjz4x6N31waeXtDE\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"own judgement\"}]}]}]},{\"type\":\"heading-two\",\"children\":[{\"text\":\"Procedure for Publishers\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Send \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"25 ________ \"}],\"id\":\"5KULeU2rurpZo-HB1wqll\"},{\"text\":\" to course providers\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Use websites\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Compose personal \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"26 ________\"}],\"id\":\"Xlx2iPvcvmXqrsHEw1D9v\"},{\"text\":\"  to academic staff\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Send \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"27 ________ \"}],\"id\":\"PgkzpL5FYN7RPw205re2v\"},{\"text\":\" to bookstores\"}]}]}]}]}]},{\"type\":\"heading-two\",\"children\":[{\"text\":\"Students\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Main objective is to find books that are good \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"28 ________ \"}],\"id\":\"Nx9CxKE-nP3g1mWQyKvzP\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Also look for books that are \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"29 ________\"}],\"id\":\"UbVj3QdlHo7Y3vw75JsTN\"},{\"text\":\"  and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"30 ________ \"}],\"id\":\"0C6zRgaXNqitffs5Gxeed\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Keep database of course/college details.\"}]}]",
+        "blanks": [
+         {
+          "id": "AJwNocEtjDhGItlyceV2m",
+          "key": 0
+         },
+         {
+          "id": "jcoJmkDIqmRX3N5VLN9pe",
+          "key": 1
+         },
+         {
+          "id": "DJjf2OmIejAbiCi0ZppIo",
+          "key": 2
+         },
+         {
+          "id": "4zfstTjz4x6N31waeXtDE",
+          "key": 3
+         },
+         {
+          "id": "5KULeU2rurpZo-HB1wqll",
+          "key": 4
+         },
+         {
+          "id": "Xlx2iPvcvmXqrsHEw1D9v",
+          "key": 5
+         },
+         {
+          "id": "PgkzpL5FYN7RPw205re2v",
+          "key": 6
+         },
+         {
+          "id": "Nx9CxKE-nP3g1mWQyKvzP",
+          "key": 7
+         },
+         {
+          "id": "UbVj3QdlHo7Y3vw75JsTN",
+          "key": 8
+         },
+         {
+          "id": "0C6zRgaXNqitffs5Gxeed",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS or A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Advices For Young Artists",
+   "duration": 9,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "14d4e317-28de-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "14d4e318-28de-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "At the start of her talk Rebecca points out that new graduates can find it hard to",
+       "options": [
+        {
+         "key": 0,
+         "value": "get the right work."
+        },
+        {
+         "key": 1,
+         "value": "take sufficient breaks."
+        },
+        {
+         "key": 2,
+         "value": "motivate themselves"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley42\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" lúc đầu Rebecca chỉ ra rằng new graduates có thể gặp vấn đề gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"W\"},{\"text\":\"hen you leave college \\\" \",\"bold\":true},{\"text\":\"(ý nói lúc mới tốt nghiệp = new graduates) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ví dụ của speaker 'I'll have \"},{\"text\":\"one more cup of coffee\",\"bold\":true},{\"text\":\" and then \"},{\"text\":\"I'll sit down to work\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang miêu tả \"},{\"text\":\"việc thiếu động lực để làm việc\",\"bold\":true},{\"text\":\", tự nói với bản thân là uống hết ly cà phê rồi mới bắt đầu làm\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"It \"},{\"text\":\"isn't about finding the inspiration\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"getting the right paper\",\"bold\":true},{\"text\":\" that's a problem, \"},{\"text\":\"it's you\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vấn đề là \"},{\"text\":\"không tự biết thúc giục bản thân\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 114,
+          "endTimeInSeconds": 135,
+          "transcripts": [
+           {
+            "id": "1/114918-135433",
+            "startTimeInSeconds": 114,
+            "endTimeInSeconds": 135,
+            "text": "However, when you leave college you find yourself saying things like 'I'll have one more cup of coffee and then I'll sit down to work'. I hate to admit it but I say it myself. Suddenly it isn't finding the inspiration or getting the right paper that's a problem, it's you."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Circle the correct letters "
+         },
+         {
+          "text": "A-C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 1
+    },
+    {
+     "id": "14d4e319-28de-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "14d4e31a-28de-11ed-a111-ed4dcd04caf9",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO of the following does Rebecca say worry new artists?",
+       "options": [
+        {
+         "key": 0,
+         "value": "earning enough money"
+        },
+        {
+         "key": 1,
+         "value": "moving to a new environment"
+        },
+        {
+         "key": 2,
+         "value": "competing with other artists"
+        },
+        {
+         "key": 3,
+         "value": "having their work criticised"
+        },
+        {
+         "key": 4,
+         "value": "getting their portfolios ready"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley11\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" lý do gì làm artists lo lắng\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"In my view, there are \"},{\"text\":\"a number of reasons...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"it's a real challenge making a decent living as a new artist\",\"bold\":true},{\"text\":\" (make a living = earn money)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khá khó khăn cho các họa sĩ mới ra trường để có thể kiếm đủ tiền trang trải \\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"you [...] need to take samples or portfolios of your work from place to place \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cần phải chuẩn bị mang portfolio tới nhiều nơi, tức là phải làm sẵn porfolio từ trước \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên nghe tiếp thì thấy \"},{\"text\":\"these experiences are common to a lot of professional people \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nhiều người\",\"bold\":true},{\"text\":\" cũng \"},{\"text\":\"có khó khăn này\",\"bold\":true},{\"text\":\", \"},{\"text\":\"không \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"riêng gì họa sĩ \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án E  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 135,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "2/135433-174799",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 174,
+            "text": "In my view, there are a number of reasons why this happens. It's a real challenge making a decent living as a new artist ... you have to find a market for your work, often you work freelance and need to take samples or portfolios of your work from place to place ... these experiences are common to a lot of professional people ... but artists also have to bare their souls to the world in a way ... more than anything they want praise ... if people don't like what they create then it can be a very emotional and upsetting experience hearing them say this."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"...more than anything \"},{\"text\":\"they want praise\",\"bold\":true},{\"text\":\"...if \"},{\"text\":\"people don't like\",\"bold\":true},{\"text\":\" what they create then\"},{\"text\":\" it can be a very emotional and upsetting experience\",\"bold\":true},{\"text\":\" hearing them say this\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nếu người xem không thích\",\"bold\":true},{\"text\":\" thì họ có thể gây ra \"},{\"text\":\"trải nghiệm không tốt cho họa sĩ\",\"bold\":true},{\"text\":\"\\n=> Tức \"},{\"text\":\"họa sĩ lo lắng \",\"bold\":true},{\"text\":\"khi tác phẩm của họ phải\"},{\"text\":\" đối mặt với sự chỉ trích của khán giả\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 135,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "2/135433-174799",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 174,
+            "text": "In my view, there are a number of reasons why this happens. It's a real challenge making a decent living as a new artist ... you have to find a market for your work, often you work freelance and need to take samples or portfolios of your work from place to place ... these experiences are common to a lot of professional people ... but artists also have to bare their souls to the world in a way ... more than anything they want praise ... if people don't like what they create then it can be a very emotional and upsetting experience hearing them say this."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "14d4e31b-28de-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "14d4e31c-28de-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "Rebecca decided to become an illustrator because it",
+       "options": [
+        {
+         "key": 0,
+         "value": "afforded her greater objectivity as an artist."
+        },
+        {
+         "key": 1,
+         "value": "offered her greater freedom of expression."
+        },
+        {
+         "key": 2,
+         "value": "allowed her to get her work published."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \"},{\"text\":\"lý do Rebecca trở thành illustrator\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"I started to dabble in illustration...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"This offered me the opportunity to\"},{\"text\":\" become more emotionally detached from my work\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Và \\\"...taking a more \",\"marks\":[]},{\"text\":\"practical approach\",\"marks\":[],\"bold\":true},{\"text\":\"\\\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trở nên \"},{\"text\":\"tách biệt về mặt cảm xúc\",\"bold\":true},{\"text\":\" hơn trong công việc , làm việc \"},{\"text\":\"có đối tượng rõ ràng\",\"bold\":true},{\"text\":\"\\n=> Tức là có thể \"},{\"text\":\"có cái nhìn khách quan hơn \",\"bold\":true},{\"text\":\"(objectivity) \\n\\n=> \"},{\"text\":\"Chọn đáp án A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 174,
+          "endTimeInSeconds": 209,
+          "transcripts": [
+           {
+            "id": "3/174799-209733",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 209,
+            "text": "I began to realise that these problems were preventing me from having a career in art and so I decided to experiment. I was a painter but I started to dabble in illustration ... drawing pictures for books, cards ... and this offered me the opportunity to become more emotionally detached from my work. I was no longer producing images from the heart but developing images for a specified subject ... taking a more practical approach."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "14d4e31d-28de-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "When she had developed a portfolio of illustrations, Rebecca found publishers",
+       "options": [
+        {
+         "key": 0,
+         "value": "more receptive to her work."
+        },
+        {
+         "key": 1,
+         "value": "equally cautious about her work."
+        },
+        {
+         "key": 2,
+         "value": "uninterested in her work."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần nghe là \",\"marks\":[]},{\"text\":\"khi Rebecca đã developed a portfolio, cô ấy thấy gì ở publishers\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"I began to develop a \"},{\"text\":\"collection of my illustration\",\"bold\":true},{\"text\":\"s which I \"},{\"text\":\"put into a portfolio\",\"bold\":true},{\"text\":\" ...\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"publishers [...] want to know that \"},{\"text\":\"your drawings will reproduce well in a book\",\"bold\":true},{\"text\":\", but\"},{\"text\":\" without having had any work published\",\"bold\":true},{\"text\":\", it's \"},{\"text\":\"hard to prove this\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không thể chứng minh hay đảm bảo\",\"bold\":true},{\"text\":\" được là \"},{\"text\":\"sản phẩm của mình sẽ tốt\",\"bold\":true},{\"text\":\" khi trước đây \"},{\"text\":\"chưa có tác phẩm nào được xuất bản\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Phản ứng\",\"bold\":true},{\"text\":\" của các nhà xuất bản có vẻ\"},{\"text\":\" tiêu cực hơn là tích cực\",\"bold\":true},{\"text\":\"\\n\"},{\"text\":\"=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"without this 'evidence' they \"},{\"text\":\"tend to hold back\",\"bold\":true},{\"text\":\" still when it comes to \"},{\"text\":\"offering a contract\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không có bằng chứng thì nhà xuất bản \"},{\"text\":\"thường chần chừ và không sẵn sàng kí hợp đồng \",\"bold\":true},{\"text\":\"\\n=> Nhà xuất bản cũng có\"},{\"text\":\" quan ngại (cautious) về chất lượng sản phẩm \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 209,
+          "endTimeInSeconds": 248,
+          "transcripts": [
+           {
+            "id": "4/209733-232478",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 232,
+            "text": "I began to develop a collection of my illustrations which I put into a portfolio and started to carry around with me to show prospective clients and employers. But it was still tricky because publishers, for example, want to know that your drawings will reproduce well in a book, but without having had any work published, it's hard to prove this."
+           },
+           {
+            "id": "5/232478-248760",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 248,
+            "text": "Having a wonderful portfolio or collection of original artwork is, of course, a first step but what most potential clients would like to see is printed artwork and without this 'evidence' they tend to hold back still when it comes to offering a contract."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Circle the correct letters "
+         },
+         {
+          "text": "A-C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "14d4e31e-28de-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "14d4e31f-28de-11ed-a111-ed4dcd04caf9",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cần tham gia cái gì để có artwork được in trong magazines \",\"bold\":true},{\"text\":\"(Get some artwork printed in magazines by entering..)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"This is my \"},{\"text\":\"advice \",\"bold\":true},{\"text\":\"to you on \"},{\"text\":\"preparing your portfolio\",\"bold\":true},{\"text\":\"\\\" (advice = suggestion)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley44\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the first way was by \"},{\"text\":\"submitting my work for a competition\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Cách đầu tiên là\"},{\"text\":\" tham gia môt cuộc thi \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là a competition/ competitions\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 282,
+          "endTimeInSeconds": 303,
+          "transcripts": [
+           {
+            "id": "6/282094-303532",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 303,
+            "text": "Well, I overcame this problem in two ways. And I suppose this is my advice to you on preparing your portfolio of your best work. The first way was by submitting my work for a competition, and the one I chose was for a horoscope design and was sponsored by a top women's magazine."
+           }
+          ]
+         },
+         "value": "a competition/competitions",
+         "blankId": "HnnWYVCDEH1KBo3t31-Sm"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Biết đáp án sắp tới khi nghe \\\"the \"},{\"text\":\"other approach \",\"bold\":true},{\"text\":\"...\\\" (phương pháp thứ hai)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\".....was to \"},{\"text\":\"design and print\",\"bold\":true},{\"text\":\" some mock-up pages of a book \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có\"},{\"text\":\" lặp lại\",\"bold\":true},{\"text\":\" keyword\"},{\"text\":\" mock-up\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" book pages\",\"bold\":true},{\"text\":\" trong đề \\n=> \"},{\"text\":\"Đáp án là design and print \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 303,
+          "endTimeInSeconds": 324,
+          "transcripts": [
+           {
+            "id": "7/303532-324017",
+            "startTimeInSeconds": 303,
+            "endTimeInSeconds": 324,
+            "text": "There are a few of these competitions each year and they offer new illustrators an opportunity to showcase their work. The other approach I took was to design and print some mock-up pages of a book. In other words, I placed some of my illustrations next to some text in order to demonstrate how my work would look when it was printed."
+           }
+          ]
+         },
+         "value": "design and print",
+         "blankId": "0bFfsnyygEzynehThUJ_B"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cần cố gắng thay đổi cái gì \",\"bold\":true},{\"text\":\"(Make an effort to change you artistic ... )\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"I could \"},{\"text\":\"vary my style \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"wasn't limited to a certain technique.\",\"bold\":true},{\"text\":\" I think that is\"},{\"text\":\" important\",\"bold\":true},{\"text\":\"\\\" (vary = change)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"thay đổi phong cách\",\"bold\":true},{\"text\":\" và kỹ thuật của mình \"},{\"text\":\"để không bị tự giới hạn bản thân\",\"bold\":true},{\"text\":\" là một điều\"},{\"text\":\" quan trọng \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy speaker giải thích về việc \"},{\"text\":\"các ngành nghề sáng tạo luôn cố giới hạn sự sáng tạo người họa sĩ\",\"bold\":true},{\"text\":\" t\"},{\"text\":\"rong một phong cách nhất định \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó speaker khuyên là \"},{\"text\":\"you should try to resist this if you feel it happening to you  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cố gắng không bị giới hạn\",\"bold\":true},{\"text\":\" \"},{\"text\":\"(nên thay đổi artistic style/technique)\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là style/technique \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 324,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "8/324017-361107",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 361,
+            "text": "Perhaps I was lucky in that I had taken a degree that provided me with all-round creative skills so that I could vary my style and wasn't limited to a certain technique. I think that is important. The art world, and many other creative fields, do try to pigeon-hole people into snug boxes with an accompanying label. I think you should try to resist this if you feel it happening to you. If you don't, you'll find it difficult to have new work accepted if you try to develop your style at a later stage in your career."
+           }
+          ]
+         },
+         "value": "style/techniques",
+         "blankId": "rM2u4ORAmtGj5Z_3HOMLX"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cần chia work thành những cái gì distinct \",\"bold\":true},{\"text\":\"(Aim for recognition by dividing work into distinct ... )\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"it's \"},{\"text\":\"important\",\"bold\":true},{\"text\":\" \"},{\"text\":\"not to confuse people\",\"bold\":true},{\"text\":\" by having\"},{\"text\":\" a lot of different examples in your portfolio\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không nên làm rối người xem\\n=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"separate your work into distinct categories (\",\"bold\":true},{\"text\":\"separate = divide)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chia work thành những categories khác nhau \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là categories \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 361,
+          "endTimeInSeconds": 405,
+          "transcripts": [
+           {
+            "id": "9/361107-378687",
+            "startTimeInSeconds": 361,
+            "endTimeInSeconds": 378,
+            "text": "Nevertheless, when you start out and particularly when you're going for an interview, it's important not to confuse people by having a lot of different examples in your portfolio. One remedy for this is to separate your work into distinct categories. "
+           },
+           {
+            "id": "10/378687-405162",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 405,
+            "text": "In my case, I did this by dividing my design-inspired illustrations from my paintings. It is then easier to analyse the market suited to each portfolio; such as magazines, book jackets, CD covers etc. Working under two names is also useful as it clarifies the different approaches and offers a distinction between them."
+           }
+          ]
+         },
+         "value": "categories",
+         "blankId": "XivcKohN1bqwnydGaAwlR"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"có thể dùng cái gì \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"working under two names\",\"bold\":true},{\"text\":\" is also \"},{\"text\":\"useful\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Có 2 nghệ danh \",\"bold\":true},{\"text\":\"khác nhau cũng\"},{\"text\":\" có thể có ích \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là 2/two names \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 378,
+          "endTimeInSeconds": 405,
+          "transcripts": [
+           {
+            "id": "10/378687-405162",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 405,
+            "text": "In my case, I did this by dividing my design-inspired illustrations from my paintings. It is then easier to analyse the market suited to each portfolio; such as magazines, book jackets, CD covers etc. Working under two names is also useful as it clarifies the different approaches and offers a distinction between them."
+           }
+          ]
+         },
+         "value": "2/two names/two/2 names",
+         "blankId": "grCnFNsJNR9grtsLprRBX"
+        }
+       ],
+       "heading": "Suggestions for Developing a Portfolio",
+       "paragraph": {
+        "id": "7R-3rlpP2Tt02aZqNKQjF",
+        "editorValue": "[{\"children\":[{\"text\":\"Get some artwork printed in magazines by entering \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36 ________\"}],\"id\":\"HnnWYVCDEH1KBo3t31-Sm\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Also you can \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"37 ________\"}],\"id\":\"0bFfsnyygEzynehThUJ_B\"},{\"text\":\" mock up book pages.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Make an effort to change your artistic \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38 ________\"}],\"id\":\"rM2u4ORAmtGj5Z_3HOMLX\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Aim for recognition by dividing work into distinct \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39 ________\"}],\"id\":\"XivcKohN1bqwnydGaAwlR\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Possibly use\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"grCnFNsJNR9grtsLprRBX\"},{\"text\":\".\"}]}]",
+        "blanks": [
+         {
+          "id": "HnnWYVCDEH1KBo3t31-Sm",
+          "key": 0
+         },
+         {
+          "id": "0bFfsnyygEzynehThUJ_B",
+          "key": 1
+         },
+         {
+          "id": "rM2u4ORAmtGj5Z_3HOMLX",
+          "key": 2
+         },
+         {
+          "id": "XivcKohN1bqwnydGaAwlR",
+          "key": 3
+         },
+         {
+          "id": "grCnFNsJNR9grtsLprRBX",
+          "key": 4
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:39Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

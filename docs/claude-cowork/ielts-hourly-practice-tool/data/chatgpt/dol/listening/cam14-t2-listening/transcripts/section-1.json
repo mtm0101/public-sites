@@ -1,0 +1,313 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 156.871,
+   "end": 157.996,
+   "text": "Hi, come and take a seat.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c2",
+   "start": 158.13,
+   "end": 158.782,
+   "text": "Thank you.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c3",
+   "start": 158.936,
+   "end": 165.668,
+   "text": "My name’s Carl Rogers and I’m one of the doctors here at the Total Health Clinic. So I understand this is your first visit to the clinic?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c4",
+   "start": 165.773,
+   "end": 166.59,
+   "text": "Yes, it is.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c5",
+   "start": 166.72,
+   "end": 175.595,
+   "text": "OK, well I hope you’ll be very happy with the service you receive here. So if it’s alright with you I’ll take a few details to help me give you the best possible service.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c6",
+   "start": 175.733,
+   "end": 176.409,
+   "text": "Sure.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c7",
+   "start": 176.598,
+   "end": 184.328,
+   "text": "So can I check first of all that we have the correct personal details for you? So your full name is Julie Anne Garcia?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c8",
+   "start": 184.48,
+   "end": 185.596,
+   "text": "That’s correct.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c9",
+   "start": 185.753,
+   "end": 188.341,
+   "text": "Perfect. And can I have a contact phone number?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c10",
+   "start": 188.614,
+   "end": 193.844,
+   "text": "It’s 219 442 9785.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c11",
+   "start": 194.049,
+   "end": 197.671,
+   "text": "OK, and then can I just check that we have the correct date of birth?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c12",
+   "start": 197.831,
+   "end": 200.309,
+   "text": "October tenth, 1992.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c13",
+   "start": 200.476,
+   "end": 213.42,
+   "text": "Oh, I actually have 1991, I’ll just correct that now. Right, so that’s all good. Now I just need just a few more personal details … do you have an occupation, either full-time or part-time?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c14",
+   "start": 213.634,
+   "end": 223.135,
+   "text": "Yes, I work full-time in Esterhazy’s – you know, the restaurant chain. I started off as a waitress there a few years ago and I’m a manager now.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c15",
+   "start": 223.297,
+   "end": 227.538,
+   "text": "Oh I know them, yeah, they’re down on 114th Street, aren’t they?",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c16",
+   "start": 227.705,
+   "end": 228.628,
+   "text": "That’s right.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c17",
+   "start": 228.777,
+   "end": 231.401,
+   "text": "Yeah, I’ve been there a few times. I just love their salads.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c18",
+   "start": 231.565,
+   "end": 232.908,
+   "text": "That’s good to hear.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c19",
+   "start": 233.126,
+   "end": 239.693,
+   "text": "Right, so one more thing I need to know before we talk about why you’re here, Julie, and that’s the name of your insurance company.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c20",
+   "start": 239.816,
+   "end": 245.732,
+   "text": "It’s Cawley Life Insurance, that’s C-A-W-L-E-Y.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c21",
+   "start": 245.862,
+   "end": 248.01,
+   "text": "Excellent, thank you so much.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c22",
+   "start": 295.526,
+   "end": 300.227,
+   "text": "Now Julie, let’s look at how we can help you. So tell me a little about what brought you here today.",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c23",
+   "start": 300.389,
+   "end": 310.758,
+   "text": "Well, I’ve been getting a pain in my knee, the left one. Not very serious at first, but it’s gotten worse, so I thought I ought to see someone about it.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c24",
+   "start": 311.059,
+   "end": 317.2,
+   "text": "That’s certainly the right decision. So how long have you been aware of this pain? Is it just a few days, or is it longer than that?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c25",
+   "start": 317.343,
+   "end": 329.004,
+   "text": "Longer. It’s been worse for the last couple of days, but it’s three weeks since I first noticed it. It came on quite gradually though, so I kind of ignored it at first.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c26",
+   "start": 329.144,
+   "end": 332.904,
+   "text": "And have you taken any medication yourself, or treated it in anyway?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c27",
+   "start": 333.07,
+   "end": 342.409,
+   "text": "Yeah, I’ve been taking medication to deal with the pain. Tylenol, and that works OK for a few hours. But I don’t like to keep taking it.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c28",
+   "start": 342.545,
+   "end": 346.308,
+   "text": "OK. And what about heat treatment? Have you tried applying heat at all?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c29",
+   "start": 346.48,
+   "end": 350.701,
+   "text": "No, but I have been using ice on it for the last few days.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c30",
+   "start": 350.972,
+   "end": 353.025,
+   "text": "And does that seem to help the pain at all?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c31",
+   "start": 353.144,
+   "end": 354.474,
+   "text": "A little, yes.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c32",
+   "start": 354.602,
+   "end": 357.248,
+   "text": "Good. Now you look as if you’re quite fit normally?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c33",
+   "start": 357.556,
+   "end": 358.696,
+   "text": "I am, yes.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c34",
+   "start": 358.839,
+   "end": 361.25,
+   "text": "So do you do any sport on a regular basis?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c35",
+   "start": 361.398,
+   "end": 372.893,
+   "text": "Yes, I play a lot of tennis. I belong to a club so I go there a lot. I’m quite competitive so I enjoy that side of it as well as the exercise. But I haven’t gone since this started.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c36",
+   "start": 373.036,
+   "end": 375.37,
+   "text": "Sure. And do you do any other types of exercise?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c37",
+   "start": 375.5,
+   "end": 385.179,
+   "text": "Yeah, I sometimes do a little swimming, but usually just when I’m on vacation. But normally I go running a few times a week, maybe three or four times.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c38",
+   "start": 385.311,
+   "end": 390.434,
+   "text": "Hmm. So your legs are getting quite a pounding. But you haven’t had any problems up to now?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c39",
+   "start": 390.546,
+   "end": 397.238,
+   "text": "No, not with my legs. I did have an accident last year when I slipped and hurt my shoulder, but that’s better now.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c40",
+   "start": 397.391,
+   "end": 400.144,
+   "text": "Excellent. And do you have any allergies?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c41",
+   "start": 400.209,
+   "end": 402.071,
+   "text": "No, none that I’m aware of.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c42",
+   "start": 402.216,
+   "end": 404.883,
+   "text": "And do you take any medication on a regular basis?",
+   "speaker": "JULIE"
+  },
+  {
+   "id": "c43",
+   "start": 405.056,
+   "end": 408.985,
+   "text": "Well, I take vitamins but that’s all. I’m generally very healthy.",
+   "speaker": "CARL"
+  },
+  {
+   "id": "c44",
+   "start": 409.091,
+   "end": 415.256,
+   "text": "OK, well let’s have a closer look and see what might be causing this problem. If you can just get up …",
+   "speaker": "JULIE"
+  }
+ ]
+}

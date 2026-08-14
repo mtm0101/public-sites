@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual3-t5-listening",
+ "title": "Actual Test 3 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 5,
+ "order": 83,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-3-test-5-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Complaint To The Airport",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/85203a21-27f5-4c15-abfc-11a193a092eb.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 3694780
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7cf07be4-1525-42c5-9c4e-2b685cecd7e2.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 43
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Yazoo Car Rental",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/eefbf552-5948-453c-a648-267e9c46b9df.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3559968
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/aac1ba05-ff81-437f-96d7-0e7148ee40b1.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 38
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Business Assignment",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d05f872f-1663-4612-a364-7f139c2fa5a1.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3277578
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/888d5e0f-3c55-4588-9dcd-bfe797dd22b9.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 45
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Climate And Architecture",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f424a12a-1bfa-4ff1-b28b-672889617a60.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 3500261
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9fb9473e-687f-4a68-9461-8511259998e1.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 33
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:47:38Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

@@ -1,0 +1,100 @@
+{
+ "schema": 1,
+ "id": "cam20-t1-listening",
+ "title": "CAM IELTS 20 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 20",
+ "testNum": 1,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/tu-vung-cam-ielts-20-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Restaurant recommendation",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S1.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 4237598
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/CAM20_T1S1_2025-09-19030314.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 85
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Heather's pottery class",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S2_2025-07-02042800.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 4935001
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S2.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 57
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The increase in loneliness",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S3.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 4730824
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 74
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Reclaiming urban rivers",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S4.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 4291608
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/T1S4.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 42
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T20:00:38Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

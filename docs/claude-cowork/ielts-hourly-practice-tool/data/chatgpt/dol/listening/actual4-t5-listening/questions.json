@@ -1,0 +1,2373 @@
+{
+ "schema": 1,
+ "id": "actual4-t5-listening",
+ "title": "Actual Test 4 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 5,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-4-test-5-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-4-test-5-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Oakham Surgery New Patient Form",
+   "duration": 6,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "ec1a398a-274d-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "jQMHeh4Zk8iuUgTKdRglq",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần tìm \"},{\"text\":\"last name của người đàn ông\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau câu hỏi \\\"could you give me your \"},{\"text\":\"name\",\"bold\":true},{\"text\":\"?\\\" của Receptionist \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người đàn ông trả lời \\\"It’s \"},{\"text\":\"Mike Jacobs\",\"bold\":true},{\"text\":\"\\\" sau đó đánh vần last name \\\"\"},{\"text\":\"J-A-C-O-B-S\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Jacobs \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 109,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "6/109813-114918",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 114,
+            "text": "Right. I’ll just have to take some details. First of all, could you give me your name?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "7/114918-120458",
+            "startTimeInSeconds": 114,
+            "endTimeInSeconds": 120,
+            "text": " It’s mike jacobs . J-A-C-O-B-S.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           }
+          ]
+         },
+         "value": "Jacobs",
+         "blankId": "dZmGQ_3Ed18ZITIGrsLVt"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"tên của đứa con đầu tiên\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"And your \"},{\"text\":\"family\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mike trả lời rằng \\\"My wife’s name is Janet and I have \"},{\"text\":\"one little boy whose name is Rod\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Nhưng lễ tân có nhầm lẫn là\"},{\"text\":\" \\\"Ron\\\"\",\"bold\":true},{\"text\":\" và Mike đã sửa lại là \"},{\"text\":\"\\\"No, Rod\\\" \",\"bold\":true},{\"text\":\"sau đó còn đánh vần tên \"},{\"text\":\"\\\"R-O-D\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là Rod \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 131,
+          "transcripts": [
+           {
+            "id": "8/120458-122000",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 122,
+            "text": "And your family?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "9/122000-126383",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 126,
+            "text": " My wife’s name is Janet and I have one little boy whose name is Rod. ",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "10/126612-127586",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 127,
+            "text": "Ron?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "11/127586-131292",
+            "startTimeInSeconds": 127,
+            "endTimeInSeconds": 131,
+            "text": "No, Rod. R-O-D.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           }
+          ]
+         },
+         "value": "Rod",
+         "blankId": "a2JQFp5EprgW64uec4Vl9"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin mình cần tìm là\"},{\"text\":\" địa chỉ cụ thể của người đàn ông ở Melbourne \",\"bold\":true},{\"text\":\"(52 Dawson Road ____ Melbourne) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"And what is \"},{\"text\":\"your address here in Melbourne\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người đàn ông trả lời \\\"52 Dawson road, \"},{\"text\":\"Highfield\",\"bold\":true},{\"text\":\". Melbourne.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Và Receptionist cũng xác nhận thông tin bằng cách đánh vần \\\"\"},{\"text\":\"Highfield. H-I-G-H-F-I-E-L-D\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Highfield \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 131,
+          "endTimeInSeconds": 148,
+          "transcripts": [
+           {
+            "id": "12/131292-135710",
+            "startTimeInSeconds": 131,
+            "endTimeInSeconds": 135,
+            "text": " Good, that’s fine. And what is your address here in Melbourne? ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "13/135710-140060",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 140,
+            "text": " 52 dawson road, Highfield. Melbourne.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "14/140060-148268",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 148,
+            "text": "Highﬁeld. H-I-G-H-F-I-E-L-D. Good. And I’ll need to know your health card number.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         },
+         "value": "Highfield",
+         "blankId": "Ayhl91245DPO8At361puC"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đối tượng cần điền là \"},{\"text\":\"số thẻ của health card\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau câu hỏi \\\"And I’ll need to know your \"},{\"text\":\"health card number.\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mike cũng trả lời rõ ràng là \\\"It’s \"},{\"text\":\"NH eight seven one eight one C\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: N H 8 7 1 8 1 2 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 140,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "14/140060-148268",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 148,
+            "text": "Highﬁeld. H-I-G-H-F-I-E-L-D. Good. And I’ll need to know your health card number.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "15/148268-157567",
+            "startTimeInSeconds": 148,
+            "endTimeInSeconds": 157,
+            "text": " It’s NH eight seven one eight one C. What about my family?",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           }
+          ]
+         },
+         "value": "NH871812C",
+         "blankId": "3GfLvyOYJHM9S-uP5lz6s"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Minh cần điền thông tin về\"},{\"text\":\" tên bác sĩ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"\"},{\"text\":\"Which one\",\"bold\":true},{\"text\":\" would you like\"},{\"text\":\" to register with\",\"bold\":true},{\"text\":\"?\\\" (hỏi xem muốn khám bác sĩ nào)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley42\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Receptionist đưa ra\"},{\"text\":\" 4 lựa chọn\",\"bold\":true},{\"text\":\" \\\"There’s Dr\"},{\"text\":\". Susan Larkins\",\"bold\":true},{\"text\":\", Dr. \"},{\"text\":\"Kevin White\",\"bold\":true},{\"text\":\", Dr. \"},{\"text\":\"James Nicholson\",\"bold\":true},{\"text\":\" and Dr. \"},{\"text\":\"Linda Williams\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mike đã chọn người cuối cùng được đề cập \\\"Well, I think I \"},{\"text\":\"would like a man as my doctor.\",\"bold\":true},{\"text\":\" I’ll \"},{\"text\":\"go for the last one\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Mike hỏi lại \\\"\"},{\"text\":\"Was that one a man?\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Nhưng receptionist nói rằng \\\"\"},{\"text\":\"No\",\"bold\":true},{\"text\":\", that was\"},{\"text\":\" Dr. Linda\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dr.Linda là nữ mà Mike lại muốn 1 bác sĩ nam \\n=> \"},{\"text\":\"Loại đáp án Dr.Linda \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó receptionist đã gợi ý cho Mike \\\"\"},{\"text\":\"How about Dr. Kevin\",\"bold\":true},{\"text\":\"? \\\" và Mike đồng ý \\\"Yes, \"},{\"text\":\"that will be fine\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Receptionist còn xác nhận lần nữa \\\"\"},{\"text\":\"Right. Dr. White it is\",\"bold\":true},{\"text\":\"\\\" (Dr.Kevin = Dr.White )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án:  Dr.Kevin \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 191,
+          "transcripts": [
+           {
+            "id": "16/157567-161793",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 161,
+            "text": " Oh, only yours for now. Do you know the name of your old doctor?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "17/161793-164175",
+            "startTimeInSeconds": 161,
+            "endTimeInSeconds": 164,
+            "text": "It was Dr. Graham McKenzie in Perth.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "18/164175-174185",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 174,
+            "text": "Now, we’ve got 4 doctors here. There’s Dr. Susan Larkins, Dr. Kevin White, Dr. James Nicholson and Dr. Linda Williams. Which one would you like to register with?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "19/175582-182324",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 182,
+            "text": "Oh! I didn’t think of that. Well, I think I would like a man as my doctor. I’ll go for the last one. Was that one a man?",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "20/182324-186191",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 186,
+            "text": "No, that was Dr. Linda. How about Dr. Kevin? ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "21/186191-187471",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 187,
+            "text": "Yes, that will be fine.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "22/187471-191205",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 191,
+            "text": "Right. Dr. White it is. Will that be the same for your family?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         },
+         "value": "Dr.Kevin",
+         "blankId": "R4zGhctA4eFANzGD3J-wB"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "dZmGQ_3Ed18ZITIGrsLVt",
+         "key": 0
+        },
+        {
+         "id": "a2JQFp5EprgW64uec4Vl9",
+         "key": 1
+        },
+        {
+         "id": "Ayhl91245DPO8At361puC",
+         "key": 2
+        },
+        {
+         "id": "3GfLvyOYJHM9S-uP5lz6s",
+         "key": 3
+        },
+        {
+         "id": "R4zGhctA4eFANzGD3J-wB",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"CHJbzI2Hda8uqXECAHjiB\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"eWTDZeOyiH2scRdYNX117\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\\n\",\"italic\":true},{\"italic\":true,\"text\":\"NEW PATIENT’S ROAD\",\"bold\":true}]}]}],\"id\":\"fZoFGXvj7Yoml-q5ycmvm\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\\n\",\"italic\":true},{\"italic\":true,\"text\":\"Dawson Road\",\"underline\":true}]}]}],\"id\":\"6cBToiA0oR2RG17O7ooU_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"bLs4yNUTghD0N_D6x3sQT\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"FULL NAME\",\"bold\":true}]}]}],\"id\":\"NYifKkePQypyht-3vOgUI\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Mike \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dZmGQ_3Ed18ZITIGrsLVt\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"8NjBSUT18TEEObHWZ7hZy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hN971dr5QP-nj0jqPtOTs\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"WIFE’S FIRST NAME\",\"bold\":true}]}]}],\"id\":\"TthRlit9Fm1yRVRW8YuH9\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Janet\"}]}]}],\"id\":\"H3HccLB8lNv2LZLp192Pf\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"3rwzJA5IPFxRi9e1aYrLX\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"CHILDRENS’ FIRST NAMES\",\"bold\":true}]}]}],\"id\":\"JY4dqCk-J-wyO2EDplXMa\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1st\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"a2JQFp5EprgW64uec4Vl9\",\"text\":\"\"}]},{\"text\":\"\\n2nd\\n3rd\\n4th\"}]}]}],\"id\":\"kqJmgx_mGbPE7Okrq1_rG\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"BgjnZwgJE27NsYSrAIxtQ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"ADDRESS\",\"bold\":true}]}]}],\"id\":\"xmbBER8YEdAV_K582zfb2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"52 Dawson Road\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Ayhl91245DPO8At361puC\",\"text\":\"\"}]},{\"text\":\"\\nMelbourne\"}]}]}],\"id\":\"vhiIpjfPh98SKnHEkhO5W\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"gNbgDYbVgLYcFJJ5ZmaBb\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"HEALTH CARD NUMBER\",\"bold\":true}]}]}],\"id\":\"LebNedC7_7CIgmlOCfFBo\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"3GfLvyOYJHM9S-uP5lz6s\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"oCW4VOMqP98IyY_5XbR5_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"DFnReRJw5576y-R37F578\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"WIFE’S HEALTH CARD NUMBER\",\"bold\":true}]}]}],\"id\":\"qxs2vgcZpG6mCy8y5EZxi\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"will give later \"}]}]}],\"id\":\"FSr6nmsl2b8zJN3c4h1qI\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"POFGeTmwLi9_G-nXLhqit\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"PREFERRED DOCTOR SELECTED\",\"bold\":true}]}]}],\"id\":\"mZG13AB5oEQkS5zXdBKE2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"R4zGhctA4eFANzGD3J-wB\",\"text\":\"\"}]},{\"text\":\"White \"}]}]}],\"id\":\"uECuuVXEdOXxrk3l3RgPj\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Oakham Surgery New Patient Form"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN ONE WORD OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN ONE WORD OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "ec1a398b-274d-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "ec1a398c-274d-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "When is Mike’s wife’s first appointment?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Friday 21st at 2.00pm."
+        },
+        {
+         "key": 1,
+         "value": "Friday 21st at 2.30pm."
+        },
+        {
+         "key": 2,
+         "value": "Friday 21st at 3.30pm."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần tìm \"},{\"text\":\"thời gian cho buổi hẹn của vợ Mike với bác sĩ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tất cả đáp án đều \"},{\"text\":\"cùng một ngày là Friday the 21st\",\"bold\":true},{\"text\":\" nên mình \"},{\"text\":\"chỉ cần chú tâm vào thời gian\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"Any openings in the \"},{\"text\":\"afternoon\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Receptionist đưa ra 3 lựa chọn \\\"There are \"},{\"text\":\"appointments \",\"bold\":true},{\"text\":\"available \"},{\"text\":\"at 2.00\",\"bold\":true},{\"text\":\", \"},{\"text\":\"2.30\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"3.30\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Và Mike trả lời \\\"We’ll \"},{\"text\":\"take the first one\",\"bold\":true},{\"text\":\" please\\\" tức là lịch\"},{\"text\":\" lúc 2.00 pm\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 233,
+          "endTimeInSeconds": 255,
+          "transcripts": [
+           {
+            "id": "25/233638-235453",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 235,
+            "text": "I’d like to make an appointment now for my wife. ",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "26/235453-238000",
+            "startTimeInSeconds": 235,
+            "endTimeInSeconds": 238,
+            "text": "She wants to come in at the end of the week.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "27/238145-242475",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 242,
+            "text": " How about this Friday morning? That’s Friday.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "28/242475-248464",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 248,
+            "text": "Mmm, I don’t think she can make the morning. Any openings in the afternoon?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "29/248464-254024",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 254,
+            "text": "There are appointments available at 2.00, 2.30 and 3.30. ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "30/254024-255798",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 255,
+            "text": "We’ll take the first one please.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ec1a398d-274d-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the surgery’s phone number?",
+       "options": [
+        {
+         "key": 0,
+         "value": "7253 9819"
+        },
+        {
+         "key": 1,
+         "value": "7253 9829"
+        },
+        {
+         "key": 2,
+         "value": "7523 9829"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần tìm\"},{\"text\":\" thông tin về the surgery’s phone number\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"She can just give us a call here. Do you want to\"},{\"text\":\" take the number down?\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"It’s seven two five three nine eight two nine\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"},{\"text\":\"Note\",\"bold\":true},{\"text\":\": Chỉ có sự khác biệt nhỏ giữa các lựa chọn, vì vậy\"},{\"text\":\" mình nên viết hẳn số xuống khi nghe rồi mới lựa chọn đáp án\",\"bold\":true},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 257,
+          "endTimeInSeconds": 271,
+          "transcripts": [
+           {
+            "id": "32/257231-260945",
+            "startTimeInSeconds": 257,
+            "endTimeInSeconds": 260,
+            "text": " Oh. And what shall my wife do if she wants to switch doctor?",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "33/260945-264627",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 264,
+            "text": "She can just give us a call here. Do you want to take the number down? ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "34/264627-265272",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 265,
+            "text": " Yes please.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "35/265272-271393",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 271,
+            "text": " It’s seven two ﬁve three nine eight two nine . Can you give me your name please?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ec1a398e-274d-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the name of the girl with whom Mike is speaking at the surgery?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Rachel"
+        },
+        {
+         "key": 1,
+         "value": "Elizabeth"
+        },
+        {
+         "key": 2,
+         "value": "Angela"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin cần tìm là\"},{\"text\":\" tên của người mà Mike đang nói chuyện cùng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"Can you \"},{\"text\":\"give me your name please\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Receptionist trả lời \\\"\"},{\"text\":\"My name’s Angela\",\"bold\":true},{\"text\":\" but there are two other girls who might be on duty as well\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tên cô ấy là Angela\",\"bold\":true},{\"text\":\" nhưng cũng có 2 người khác trực ca tên \"},{\"text\":\"Elizabeth \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"Rachel\",\"bold\":true},{\"text\":\"\\n=> Tuy nhiên Mike\"},{\"text\":\" chỉ hỏi tên của người đang nói chuyện cùng\",\"bold\":true},{\"text\":\", 2 tên kia là \"},{\"text\":\"thông tin gây nhiễu\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 265,
+          "endTimeInSeconds": 280,
+          "transcripts": [
+           {
+            "id": "35/265272-271393",
+            "startTimeInSeconds": 265,
+            "endTimeInSeconds": 271,
+            "text": " It’s seven two ﬁve three nine eight two nine . Can you give me your name please?",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "36/271393-275696",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 275,
+            "text": "My name’s Angela but there are two other girls who might be on duty as  well.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "37/275696-280749",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 280,
+            "text": "Their names are Elizabeth and Rachel but it doesn’t matter who’s on duty. Anyone can take care of it.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ec1a398f-274d-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "What’s the night doctor’s mobile number?",
+       "options": [
+        {
+         "key": 0,
+         "value": "0506 759 3856"
+        },
+        {
+         "key": 1,
+         "value": "0506 759 3857"
+        },
+        {
+         "key": 2,
+         "value": "0506 758 3856"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần tìm \"},{\"text\":\"số điện thoại của bác sĩ trực ban đêm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"now what do we do if we need to \"},{\"text\":\"call out a doctor during the night\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó mình nghe \\\"There’s \"},{\"text\":\"a mobile and you can call \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"that’ll get through to the doctor\",\"bold\":true},{\"text\":\" who’s on duty.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Và nghe đọc số  \\\"It’s \"},{\"text\":\"zero five zero six seven five nine three eight five six\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" P/s: Tương tự như câu vừa nãy, bạn \"},{\"text\":\"nên viết hẳn số điện thoại ra giấy\",\"bold\":true},{\"text\":\" rồi mới chọn đáp án.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 280,
+          "endTimeInSeconds": 298,
+          "transcripts": [
+           {
+            "id": "38/280749-285366",
+            "startTimeInSeconds": 280,
+            "endTimeInSeconds": 285,
+            "text": "Now what do we do if we need to call out a doctor during the night?",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "39/285366-288000",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 288,
+            "text": "We’ve got a rotation system with the doctors in the area. ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "40/288059-291580",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 291,
+            "text": "There’s a mobile and you can call and that’ll get through to the doctor who’s on duty.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "41/291580-293000",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 293,
+            "text": " What’s that number?",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "42/293004-298993",
+            "startTimeInSeconds": 293,
+            "endTimeInSeconds": 298,
+            "text": "It’s  zero ﬁve zero six seven ﬁve nine three eight ﬁve six  ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ec1a3990-274d-11ed-af29-83e4ce9ba581",
+       "type": "SINGLE_ANSWER",
+       "question": "Which of the following does the surgery NOT make a charge for?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Travel vaccinations"
+        },
+        {
+         "key": 1,
+         "value": "Consultations"
+        },
+        {
+         "key": 2,
+         "value": "Insurance reports"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cái gì không bị tính phí phẫu thuật \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau \\\"I didn’t ask about any \"},{\"text\":\"charges\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Receptionist nói rằng  \\\"Some things like \"},{\"text\":\"vaccinations \",\"bold\":true},{\"text\":\"for travel and\"},{\"text\":\" insurance reports\",\"bold\":true},{\"text\":\" \"},{\"text\":\"we make a standard charge\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ sẽ\"},{\"text\":\" tính phí cho\",\"bold\":true},{\"text\":\" một số thứ như \"},{\"text\":\"vắc xin\",\"bold\":true},{\"text\":\" cho du lịch và\"},{\"text\":\" bảo hiểm \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, \\\"\"},{\"text\":\"consultations \",\"bold\":true},{\"text\":\"though are under the National Health Service so\"},{\"text\":\" they’ll be free\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tư vấn sẽ miễn phí. \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 298,
+          "endTimeInSeconds": 318,
+          "transcripts": [
+           {
+            "id": "43/298993-303775",
+            "startTimeInSeconds": 298,
+            "endTimeInSeconds": 303,
+            "text": "Got that. I didn’t ask about any charges.",
+            "character": {
+             "id": "4IZjEnm7NGtu1bkZJMjnI",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "44/303775-308477",
+            "startTimeInSeconds": 303,
+            "endTimeInSeconds": 308,
+            "text": "Like   all  Australia,  prescriptions  have  to  be  paid  for  at  the  chemist  at     the prevailing rate. ",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           },
+           {
+            "id": "45/308477-318761",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 318,
+            "text": "Some things like  vaccinations for travel and insurance reports we make a standard charge for and  I  can  give  you  a  price  list  for  those. consultations though are under the National Health Service so they’ll be free.",
+            "character": {
+             "id": "7U6jPlyenHaLUAlZR83D7",
+             "name": "Recept"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Circle the correct letters "
+         },
+         {
+          "text": "A-C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Notes On Library",
+   "duration": 6,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "a0536be3-274d-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "SDNNmQQWztQ8WSgqCNsC2",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"những thứ cần khi đăng kí thành viên thư viện\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói \\\"At the reception they’ll give you an\"},{\"text\":\" application form\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dấu hiệu đáp án sẽ xuất hiện\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rồi tiếp tục nói \\\"After you fill that in, \"},{\"text\":\"you’ll have to give us the fee of five pounds\",\"bold\":true},{\"text\":\", which you have to\"},{\"text\":\" give us every year \",\"bold\":true},{\"text\":\"that you’re a member of the Library.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau khi điền vào form thì sẽ \"},{\"text\":\"phải trả phí hàng năm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn lưu ý là người nói có nhắc đến \\\"\"},{\"text\":\"fee of five pounds\\\"\",\"bold\":true},{\"text\":\" nhưng đề bài cho phép viết \"},{\"text\":\"3 từ hay 1 số\",\"bold\":true},{\"text\":\" nên chỉ viết \\\"\"},{\"text\":\"5 pound fee\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 5 pounds fee \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 68,
+          "endTimeInSeconds": 88,
+          "transcripts": [
+           {
+            "id": "4/68076-73000",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 73,
+            "text": "So to join the Library you need to go to the reception between the hours of 9am and 5pm."
+           },
+           {
+            "id": "5/73959-78971",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 78,
+            "text": "After that the reception closes, though all the other facilities will stay open until 10pm."
+           },
+           {
+            "id": "6/78971-88929",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 88,
+            "text": "At the reception they’ll give you an application form. After you fill that in, you’ll have to give us the fee of five, which you have to give us every year that you’re a member of the Library."
+           }
+          ]
+         },
+         "value": "5 pound fee",
+         "blankId": "144QN85GSwNHUJS5pbIab"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker còn nói \\\"We will also \"},{\"text\":\"need to see your University Card\",\"bold\":true},{\"text\":\" to confirm that you’re a student of the University'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình \"},{\"text\":\"cần có thẻ Đại học.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: University card \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 100,
+          "transcripts": [
+           {
+            "id": "7/88929-100298",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 100,
+            "text": "We will also need to see your University Card to confirm that you’re a student of the University and finally we’ll need 2 passport photos – 1 for our records and the other for your Library card."
+           }
+          ]
+         },
+         "value": "University card",
+         "blankId": "5B8XOPlxqScSnnHn_DHTq"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói rằng \\\"The Library\"},{\"text\":\" opens daily from 8AM to 10PM\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thư viện \"},{\"text\":\"mở của hàng ngày 8am - 10pm\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: daily \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 107,
+          "endTimeInSeconds": 129,
+          "transcripts": [
+           {
+            "id": "10/107968-111769",
+            "startTimeInSeconds": 107,
+            "endTimeInSeconds": 111,
+            "text": "Now, let me tell you a bit about the facilities. "
+           },
+           {
+            "id": "11/111769-129263",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 129,
+            "text": "The Library opens daily from 8am to 10pm though, as I told you earlier, the Reception operates only between the hours of 9am and 5pm, although this is extended to 6.30pm on Fridays to give students more time to organise their book requirements for the weekend. "
+           }
+          ]
+         },
+         "value": "daily",
+         "blankId": "XXJWOHAUFenCXHJn4y-fA"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe \"},{\"text\":\"ngày mà reception đóng cửa vào lúc 6.30\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói rằng \\\"the Reception \"},{\"text\":\"operates only between\",\"bold\":true},{\"text\":\" the hours of \"},{\"text\":\"9AM \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"5PM\",\"bold\":true},{\"text\":\", although \"},{\"text\":\"this is extended to 6.30PM on Fridays\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Quầy lễ tân \"},{\"text\":\"đóng cửa muộn hơn vào 6.30pm vào thứ Sáu. \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\"Đáp án: Friday(s) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 111,
+          "endTimeInSeconds": 131,
+          "transcripts": [
+           {
+            "id": "11/111769-129263",
+            "startTimeInSeconds": 111,
+            "endTimeInSeconds": 129,
+            "text": "The Library opens daily from 8am to 10pm though, as I told you earlier, the Reception operates only between the hours of 9am and 5pm, although this is extended to 6.30pm on Fridays to give students more time to organise their book requirements for the weekend. "
+           },
+           {
+            "id": "12/129263-131884",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 131,
+            "text": "The reception is closed on sundays. "
+           }
+          ]
+         },
+         "value": "Friday/Fridays",
+         "blankId": "BTprYFSl_74D4jvHZ20uG"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần tìm \"},{\"text\":\"số lượng sách sinh viên sau đại học được phép mượn tại thư viện \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói \\\"\"},{\"text\":\"Undergraduate students\",\"bold\":true},{\"text\":\" are permitted to \"},{\"text\":\"take out 4 books at any one time\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án chuẩn bị vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy \\\"\"},{\"text\":\"Postgraduates \",\"bold\":true},{\"text\":\"may \"},{\"text\":\"borrow 6 books at a time\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 6 books  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 131,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "13/131884-144226",
+            "startTimeInSeconds": 131,
+            "endTimeInSeconds": 144,
+            "text": "Undergraduate students are permitted to take out 4 books at any one time and each book may be borrowed for a period of two weeks. post may borrow 6 books at a time."
+           }
+          ]
+         },
+         "value": "6 books",
+         "blankId": "gYDvw8FW7-yd8mK-D2I76"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần tìm \"},{\"text\":\"thông tin liên quan đến gia hạn sách trực tiếp.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là \"},{\"text\":\"số tuần\",\"bold\":true},{\"text\":\" (giống với 2 weeks ở trước)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói \\\"each book may be borrowed \"},{\"text\":\"for a period of two weeks\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án chuẩn bị vô\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, \\\"Borrowing time \"},{\"text\":\"can be extended\",\"bold\":true},{\"text\":\" \"},{\"text\":\"by a period of one week\",\"bold\":true},{\"text\":\" per book.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"gia hạn sách thêm 1 tuần\",\"bold\":true},{\"text\":\" (be extended ~ books renewal) \\n=> \"},{\"text\":\"Đáp án: 1 week \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 144,
+          "endTimeInSeconds": 153,
+          "transcripts": [
+           {
+            "id": "14/144226-153602",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 153,
+            "text": "Borrowing time can be extended by a period of one week per book if the student comes into the Library in person with the book in question so it can be reached]. "
+           }
+          ]
+         },
+         "value": "1 week",
+         "blankId": "Ay-G7n38hSm-df57G1zQL"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "144QN85GSwNHUJS5pbIab",
+         "key": 0
+        },
+        {
+         "id": "5B8XOPlxqScSnnHn_DHTq",
+         "key": 1
+        },
+        {
+         "id": "XXJWOHAUFenCXHJn4y-fA",
+         "key": 2
+        },
+        {
+         "id": "BTprYFSl_74D4jvHZ20uG",
+         "key": 3
+        },
+        {
+         "id": "gYDvw8FW7-yd8mK-D2I76",
+         "key": 4
+        },
+        {
+         "id": "Ay-G7n38hSm-df57G1zQL",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"CHJbzI2Hda8uqXECAHjiB\",\"cellsWidth\":[133,220,255],\"children\":[{\"type\":\"tr\",\"id\":\"eWTDZeOyiH2scRdYNX117\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Joining Library\",\"bold\":true}]}]}],\"id\":\"831QOhfKk0bxGx1dbkGbm\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"You will need: A completed application form\",\"bold\":true}]}]}],\"id\":\"cGuxtMrGgFwXdXhpH6xVJ\",\"rowSpan\":1,\"colSpan\":2},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"oAcWWwlVBqqAIITDY94I8\",\"hidden\":true,\"rowRef\":0,\"colRef\":1}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"bLs4yNUTghD0N_D6x3sQT\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"144QN85GSwNHUJS5pbIab\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"DTHhHkYPt1gfFqt1L7L59\",\"rowSpan\":1,\"colSpan\":3},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"le4aR_9H9Yb9tNXqyBBb1\",\"hidden\":true,\"rowRef\":1,\"colRef\":0},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"tZREuk_xqSZgwkIiQrB_s\",\"hidden\":true,\"rowRef\":1,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"xMgb5aBR0myebGhaiAMF1\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"5B8XOPlxqScSnnHn_DHTq\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"aDLwRpIy1_FoZIobxlSKL\",\"rowSpan\":1,\"colSpan\":3},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"KO77zy-2ut6IYlKDS_XuA\",\"hidden\":true,\"rowRef\":2,\"colRef\":0},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"ORfqwW9qAkDGg_Ke1L-0y\",\"hidden\":true,\"rowRef\":2,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"zG5jGipYIZKaTWDNuHd7X\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Two passport photos.\"}]}]}],\"id\":\"vHU5eXuraLwNAJ4C5-4HE\",\"rowSpan\":1,\"colSpan\":3},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"sUF3SpCEQIwosmZSyF8-U\",\"hidden\":true,\"rowRef\":3,\"colRef\":0},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"zGbtWKKrzYYCFk4vpWtkg\",\"hidden\":true,\"rowRef\":3,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"nO2CkjarQtJonZkLmbDsy\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Opening Hours\"}]}]}],\"id\":\"OGT_JsiUGwdU-JS1cRbsN\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Library Reception\"}]}]}],\"id\":\"HWGeOAamGZuZSIx_zXEou\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"8am – 10om \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"XXJWOHAUFenCXHJn4y-fA\",\"text\":\"\"}]},{\"text\":\"\\n9am – 5pm (- 6.30 on \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"BTprYFSl_74D4jvHZ20uG\",\"text\":\"\"}]},{\"text\":\" (Mon-Sat: closed on Sundays)\"}]}]}],\"id\":\"J6PVQMNxk879ncPEsnHDH\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"4Qal3LILYsIqQx1eN5h8x\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Borrowing\"}]}]}],\"id\":\"i0bXlthMIW9yIm09hQT7q\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Undergraduates\"}]}]}],\"id\":\"X_3ASIZ2TScYvxk3tnksl\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"4 books\"}]}]}],\"id\":\"BTd9Hhimhu3Z0XHqQrn5A\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"8_hUOB7SwqHAoxGMzw8Ql\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Postgraduates \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"gYDvw8FW7-yd8mK-D2I76\",\"text\":\"\"}]},{\"text\":\"\\nBorrowing for 2 weeks +\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Ay-G7n38hSm-df57G1zQL\",\"text\":\"\"}]},{\"text\":\" books renewals (in person)\\nNo renewals over phone\\nLate return penalty: £2 per week\"}]}]}],\"id\":\"lbTDY7OUZUGD5Kz-e0Bb_\",\"rowSpan\":1,\"colSpan\":3},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"HA6n45JuUtPiLLKlktuIQ\",\"hidden\":true,\"rowRef\":6,\"colRef\":0},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"J-gYj7-ta_nPXl5Ruw-Rk\",\"hidden\":true,\"rowRef\":6,\"colRef\":0}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":608,\"border\":true,\"hasRowHeading\":true}]",
+       "question": "Notes on Library"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "a0536be4-274d-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "yM4aRpJctDESqddV8-daz",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe ''Onto the l\"},{\"text\":\"ayout of the library.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" một loại phòng ở tầng trệt\",\"bold\":true},{\"text\":\" (song song với từ reception và bathroom)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker nói \\\"We’re on the \"},{\"text\":\"ground floor\",\"bold\":true},{\"text\":\" of the library at the moment. \"},{\"text\":\"Here \",\"bold\":true},{\"text\":\"we have \"},{\"text\":\"the reception, the computers\",\"bold\":true},{\"text\":\", which you can use to search for books and their location,\"},{\"text\":\" and the bathrooms\",\"bold\":true},{\"text\":\", which are behind the reception\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có reception, the computers và \"},{\"text\":\"the bathrooms\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: (the) computers \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 223,
+          "transcripts": [
+           {
+            "id": "18/210021-212000",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 212,
+            "text": "Ok then. Onto the layout of the library. "
+           },
+           {
+            "id": "19/212910-223849",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 223,
+            "text": "We’re on the ground floor of the library at the moment. Here we have the reception, the computers, which you can use to search for books and their location, and the bathrooms, which are behind the reception. "
+           }
+          ]
+         },
+         "value": "computers/the computers",
+         "blankId": "h36COBIUr_LXX5h3tioa-"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cũng là \"},{\"text\":\"1 cái gì đó ở ground floor\",\"bold\":true},{\"text\":\", tiếp nối thông tin với câu trước\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker giới thiệu rằng \\\"The \"},{\"text\":\"rest of the ground floor \",\"bold\":true},{\"text\":\"is taken up by the \"},{\"text\":\"non-lending section\",\"bold\":true},{\"text\":\" of the library.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần còn lại của tầng trệt là \"},{\"text\":\"non-lending section\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: non-lending section \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 223,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "20/223849-228000",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 228,
+            "text": "The rest of the ground floor is taken up by the non section of the library."
+           },
+           {
+            "id": "21/228483-234182",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 234,
+            "text": "Here we keep all the books, which are either too valuable or are used too much to lend out. "
+           }
+          ]
+         },
+         "value": "non-lending/non-lending section",
+         "blankId": "43VASGLveYx1pnP6MdpOI"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án sẽ đến sau \\\"On the \"},{\"text\":\"first floor\",\"bold\":true},{\"text\":\" above us\\\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Speaker giới thiệu rằng \\\"\"},{\"text\":\"On the first floor\",\"bold\":true},{\"text\":\" above us, \"},{\"text\":\"we have the Arts section\",\"bold\":true},{\"text\":\", which includes books that students will need.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trên\"},{\"text\":\" tầng 1 có  Arts section\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: Arts \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 243,
+          "endTimeInSeconds": 254,
+          "transcripts": [
+           {
+            "id": "23/243727-254431",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 254,
+            "text": "On the first floor above us, we have the Arts section, which includes books that students will need for such as languages, literature, art and history."
+           }
+          ]
+         },
+         "value": "Arts",
+         "blankId": "kCFD4z2-I9SX8ta0H-Vfi"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Minh cần \"},{\"text\":\"thông tin của tầng nơi mà có Stack System.\",\"bold\":true},{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"Finally,\"},{\"text\":\" in the basement we have the stack system\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cuối cùng là \"},{\"text\":\"basement\",\"bold\":true},{\"text\":\", nơi mà \"},{\"text\":\"có stack system\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: Basement \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 272,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "26/272631-282092",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 282,
+            "text": "Finally, in the basement we have the stack system, which contains the University collection of magazines and journals that we have collected and to which we subscribe."
+           }
+          ]
+         },
+         "value": "Basement",
+         "blankId": "KViP3JYJceIrLYTKu4vTu"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "h36COBIUr_LXX5h3tioa-",
+         "key": 0
+        },
+        {
+         "id": "43VASGLveYx1pnP6MdpOI",
+         "key": 1
+        },
+        {
+         "id": "kCFD4z2-I9SX8ta0H-Vfi",
+         "key": 2
+        },
+        {
+         "id": "KViP3JYJceIrLYTKu4vTu",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"CHJbzI2Hda8uqXECAHjiB\",\"cellsWidth\":[232,300],\"children\":[{\"type\":\"tr\",\"id\":\"eWTDZeOyiH2scRdYNX117\",\"children\":[{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Ground Floor\",\"bold\":true}]}]}],\"id\":\"fjijD3F3qaRvydx5liSX5\"},{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"reception;  \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"h36COBIUr_LXX5h3tioa-\",\"text\":\"\"}]},{\"text\":\"  bathrooms; \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"43VASGLveYx1pnP6MdpOI\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"H-r-gOcxsDieu7IbCSqAF\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"bLs4yNUTghD0N_D6x3sQT\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"First Floor\"}]}]}],\"id\":\"MVToWqb13KS3ZdeYGPhly\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"kCFD4z2-I9SX8ta0H-Vfi\",\"text\":\"\"}]},{\"text\":\" section\"}]}]}],\"id\":\"QXzxlU6o5Ffwl6E_NXcix\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"M_nNe7GuznWmMwo57nyKz\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Second Floor\"}]}]}],\"id\":\"cHKzkPFIkxEAYSXZmbYXa\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Science Section\"}]}]}],\"id\":\"NpcXvsGLfga0om-vQJNKn\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"k6yxwurxadzmvOqHQGN1N\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"KViP3JYJceIrLYTKu4vTu\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"VgQ15v2WTtsg3UVmx_SAr\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Stack System\"}]}]}],\"id\":\"hb7s-qgWkNJybOk-3yN6m\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":532,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Label the library layout below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Essays Discussion",
+   "duration": 6,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "0856e2d9-779f-11ec-9482-b93ed47a573f",
+     "questions": [
+      {
+       "uuid": "0856e2da-779f-11ec-9482-b93ed47a573f",
+       "type": "SHORT_ANSWER",
+       "sentences": [
+        {
+         "key": 0,
+         "text": "When will Simon begin writing his essay?"
+        },
+        {
+         "key": 1,
+         "text": "According to Simon, what kind of problems did Jaguar have in the 1970s and 80s?"
+        },
+        {
+         "key": 2,
+         "text": "What is the word limit for the essay? "
+        },
+        {
+         "key": 3,
+         "text": "What is the preferable method for handing in the essay? "
+        }
+       ],
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"Simon sẽ bắt đầu viết essay khi nào\",\"bold\":true},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''So, let’s begin with you \"},{\"text\":\"Simon\",\"bold\":true},{\"text\":\". What’s happening with you?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Simon có nói \\\"I’ve\"},{\"text\":\" research the background\",\"bold\":true},{\"text\":\" quite extensively\"},{\"text\":\" last weekend\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy \"},{\"text\":\"mới làm reasearch\",\"bold\":true},{\"text\":\" về nó \"},{\"text\":\"vào tuần trước \",\"bold\":true},{\"text\":\"chứ chưa bắt đầu \\n=>\"},{\"text\":\" Loại last week \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó mình nghe được \\\"I should \"},{\"text\":\"get to the writing stage tomorrow\",\"bold\":true},{\"text\":\" with a bit of luck and I’ll get it\"},{\"text\":\" finished at the weekend\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy sẽ \"},{\"text\":\"bắt đầu viết bài vào ngày mai\",\"bold\":true},{\"text\":\" (get to the writing stage = begin writing ) và \"},{\"text\":\"mong sẽ hoàn thành vào cuối tuần \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại at the weekend \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là tommorrow \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 56,
+          "endTimeInSeconds": 70,
+          "transcripts": [
+           {
+            "id": "2/56276-60242",
+            "startTimeInSeconds": 56,
+            "endTimeInSeconds": 60,
+            "text": "So, let’s begin with you Simon. What’s happening with you?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "3/60242-70911",
+            "startTimeInSeconds": 60,
+            "endTimeInSeconds": 70,
+            "text": "Well, I’ve made a start on it.  I’ve research the background quite extensively last weekend and I should get to the writing tomorrow with a ",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           }
+          ]
+         },
+         "value": "tommorrow"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần biết \"},{\"text\":\"Jaguar gặp vấn đề gì vào những năm 1970s và 80s\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe được rằng \\\"I decided to look at the car manufacturing company, \"},{\"text\":\"Jaguar,\",\"bold\":true},{\"text\":\" examine\"},{\"text\":\" the problems they had with reliability in the 1970s and 80s\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Công ty Jaguar đã \"},{\"text\":\"có vấn đề với reliabilty\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là reliabilty \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 70,
+          "endTimeInSeconds": 84,
+          "transcripts": [
+           {
+            "id": "4/70911-72869",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 72,
+            "text": "What are you writing about?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "5/72869-84728",
+            "startTimeInSeconds": 72,
+            "endTimeInSeconds": 84,
+            "text": " I decided to look at the car manufacturing company, Jaguar, examine the problems they had with Q22 reliability in the 1970s and 80s, how they dealt with it, and how it affected their marketing and sales strategy.",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           }
+          ]
+         },
+         "value": "Reliability"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần tìm \"},{\"text\":\"số lượng từ được phép cho bài essay.\",\"bold\":true},{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Simon có than phiền \\\"It seems now the only problem is\"},{\"text\":\" keeping to the 4,000 word limit.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Giới hạn từ là 4000 \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là 4000\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó Simon có nhắc tới \\\"It seems I’ll need \"},{\"text\":\"5000 \",\"bold\":true},{\"text\":\"or even \"},{\"text\":\"6000\",\"bold\":true},{\"text\":\" \"},{\"text\":\"words \",\"bold\":true},{\"text\":\"to be able to cope.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sẽ dễ dàng hơn \"},{\"text\":\"nếu anh được viết 5000 hay 6000 từ\",\"bold\":true},{\"text\":\". Nhưng thực tế Simon \"},{\"text\":\"chỉ được viết 4000 từ \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại 5000 và 6000 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 84,
+          "endTimeInSeconds": 110,
+          "transcripts": [
+           {
+            "id": "6/84728-88362",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 88,
+            "text": "That sounds pretty interesting. Any problems with that?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "7/88362-94242",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 94,
+            "text": "At the start I had problems getting information from that far back, but after rooting around in the library, ",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           },
+           {
+            "id": "8/94242-98849",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 98,
+            "text": "I found some magazines which gave me information and also gave me references to find other stuff.",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           },
+           {
+            "id": "9/98849-103075",
+            "startTimeInSeconds": 98,
+            "endTimeInSeconds": 103,
+            "text": "It seems now the only problem is keeping to the 4,000 word limit. ",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           },
+           {
+            "id": "10/103075-110552",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 110,
+            "text": "It just seems that I have so much to write about. It seems I’ll need 5000 or even 6000 words to be able to cope.",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           }
+          ]
+         },
+         "value": "4000"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó mình cần\"},{\"text\":\" phương pháp thích hợp cho Simon nộp bài essay \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' By the way,\"},{\"text\":\" how\",\"bold\":true},{\"text\":\" do you want us to \"},{\"text\":\"hand in our work\",\"bold\":true},{\"text\":\"?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, Simon có hỏi là ''Do you want us to \"},{\"text\":\"drop in a hard copy to your office\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Simon gợi ý \"},{\"text\":\"nộp bản cứng tại văn phòng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhưng tutor lại bảo rằng \\\"You could do that \"},{\"text\":\"but I’d prefer\",\"bold\":true},{\"text\":\" it if you\"},{\"text\":\" just e-mailed it to me\",\"bold\":true},{\"text\":\" as an attachment.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhưng tutor \"},{\"text\":\"muốn Simon nộp bài qua email\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là e-mail attachment \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn lưu ý đáp án \"},{\"text\":\"không được nhiều hơn ba từ và/hoặc một số\",\"bold\":true},{\"text\":\", vì vậy mình \"},{\"text\":\"không thể trả lời là “emailed as an attachment” \",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 130,
+          "endTimeInSeconds": 149,
+          "transcripts": [
+           {
+            "id": "15/130142-136012",
+            "startTimeInSeconds": 130,
+            "endTimeInSeconds": 136,
+            "text": "By the way, how do you want us to hand in our work? Do you want us to drop in a hard copy to your office?",
+            "character": {
+             "id": "ScILAEsyOmP--3YAofLDw",
+             "name": "Simon"
+            }
+           },
+           {
+            "id": "16/136012-141530",
+            "startTimeInSeconds": 136,
+            "endTimeInSeconds": 141,
+            "text": "You could do that but I’d prefer it if you just e-mailed it to me as an attachment.",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "17/141530-149731",
+            "startTimeInSeconds": 141,
+            "endTimeInSeconds": 149,
+            "text": "You’ve all got my address. If not, give it to the secretary clearly marked that it’s for me. Right, Jennifer, how about you?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": " e-mail attachment"
+        }
+       ]
+      }
+     ],
+     "questionType": "SHORT_ANSWER",
+     "displayedQuestionType": "Short Answer",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for eachanswer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "0856e2db-779f-11ec-9482-b93ed47a573f",
+     "questions": [
+      {
+       "uuid": "0856e2dc-779f-11ec-9482-b93ed47a573f",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe thông tin về \"},{\"text\":\"đề tài Jennifer sẽ viết về có liên quan đến supermarkets \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"\"},{\"text\":\"what\",\"bold\":true},{\"text\":\" are you \"},{\"text\":\"writing about\",\"bold\":true},{\"text\":\" then?\\\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được Jennifer trả lời \\\"I want to \"},{\"text\":\"look into how supermarkets\",\"bold\":true},{\"text\":\" \"},{\"text\":\"use market survey \",\"bold\":true},{\"text\":\"to develop their product\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn tìm hiểu\"},{\"text\":\" cách các siêu thị sử dụng market surveys\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là market surveys \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 159,
+          "endTimeInSeconds": 167,
+          "transcripts": [
+           {
+            "id": "20/159115-162186",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 162,
+            "text": "OK, what are you writing about then",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "21/162186-167486",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 167,
+            "text": " I want to look into how supermarkets market surveys to develop use their products.",
+            "character": {
+             "id": "OPZ5UwEYqjDLC5_ch-w_1",
+             "name": "Jennifer"
+            }
+           }
+          ]
+         },
+         "value": "market surveys",
+         "blankId": "NaUntUPMNWAjBh3-BKTb2"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án là \"},{\"text\":\"một noun đi với từ library\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được \\\" I’ve had a look in the\"},{\"text\":\" stack system in the library \",\"bold\":true},{\"text\":\"and I’ve found\"},{\"text\":\" a magazine \",\"bold\":true},{\"text\":\"that surveyed all the UK major supermarkets and a trade publication ...\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"magazine= publication \",\"bold\":true},{\"text\":\"\\n=> Chỗ cô tìm thấy là \"},{\"text\":\"stack system \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là stack system \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 167,
+          "endTimeInSeconds": 186,
+          "transcripts": [
+           {
+            "id": "22/167486-173000",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 173,
+            "text": "Will you have enough time to find out what sort of things that the supermarkets do? You won’t have much time for that.",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "23/173642-186299",
+            "startTimeInSeconds": 173,
+            "endTimeInSeconds": 186,
+            "text": "I should be OK. I’ve had a look in the stack system in the library and I’ve found a magazine that surveyed all the UK major supermarkets and a trade publication that analysed the same things in Canadian supermarkets.",
+            "character": {
+             "id": "OPZ5UwEYqjDLC5_ch-w_1",
+             "name": "Jennifer"
+            }
+           }
+          ]
+         },
+         "value": "stack system",
+         "blankId": "xDBMdFSNVu3pCX1q6Z2Rw"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"tutor cảnh báo với Jennifer về điều gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ đến sau \\\"\"},{\"text\":\"Be careful\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được \\\"Be careful about \"},{\"text\":\"using their conclusions too much\",\"bold\":true},{\"text\":\". The university takes a \"},{\"text\":\"tough stance on plagiarism.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tutor cảnh cáo về \"},{\"text\":\"sử dụng conclusions quá nhiều\",\"bold\":true},{\"text\":\" vì trường đại học gắt gao về \"},{\"text\":\"plagiarism (đạo văn)\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn lưu ý là mình có thể ghi đáp án là \\\"\"},{\"text\":\"using their conclusions”\",\"bold\":true},{\"text\":\" hoặc đáp án\"},{\"text\":\" \\\"plagiarism\\\" \",\"bold\":true},{\"text\":\"có thể chấp nhận được vì cả 2 đều như nhau,\"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\\"plagiarism\\\" là nói \"},{\"text\":\"chung chung \",\"bold\":true},{\"text\":\"còn \\\"using their conclusions\\\" là một hành động đạo văn \"},{\"text\":\"cụ thể.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án là plagiarism/using their conclusions \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 186,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "24/186299-192691",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 192,
+            "text": "Be careful about using their conclusions too much. The university takes a tough stance on plagiarism . ",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "25/192691-203461",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 203,
+            "text": "Make sure you properly list where you get your information from in a bibliography and try and do your own analysis. Get going too as that analysis will take a bit of time.",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "plagiarism/using their conclusions",
+         "blankId": "vZUyGIl0lBGZAVZlmbj38"
+        }
+       ],
+       "paragraph": {
+        "id": "aifTtHNimX2x9qVZOmPQO",
+        "editorValue": "[{\"children\":[{\"text\":\"Jennifer wants to write about how\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"27 \"}],\"id\":\"NaUntUPMNWAjBh3-BKTb2\"},{\"text\":\"   are used by supermarkets.\\n\\nJennifer found some publications in the library\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 25\"}],\"id\":\"xDBMdFSNVu3pCX1q6Z2Rw\"},{\"text\":\" to help her analysis.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"The tutor warned Jennifer about\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"26\"}],\"id\":\"vZUyGIl0lBGZAVZlmbj38\"},{\"text\":\"  in her work.\"}]}]",
+        "blanks": [
+         {
+          "id": "NaUntUPMNWAjBh3-BKTb2",
+          "key": 0
+         },
+         {
+          "id": "xDBMdFSNVu3pCX1q6Z2Rw",
+          "key": 1
+         },
+         {
+          "id": "vZUyGIl0lBGZAVZlmbj38",
+          "key": 2
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write N"
+         },
+         {
+          "text": "O MORE THAN THREE WORDS ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "085709ed-779f-11ec-9482-b93ed47a573f",
+     "questions": [
+      {
+       "uuid": "085709ee-779f-11ec-9482-b93ed47a573f",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thông tin còn thiếu là\"},{\"text\":\" thứ Melanie cần vì cô ấy bị cúm \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And Melanie. How is your work going?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình nghe được rằng cô ấy \"},{\"text\":\"bị cảm cúm\",\"bold\":true},{\"text\":\" và \\\"\"},{\"text\":\"not done any work on it yet\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó Melanie hỏi tutor \\\"Is there \"},{\"text\":\"any chance I can get an extension\",\"bold\":true},{\"text\":\" to the submittal date?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"muốn gia hạn nộp bài.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là extension \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 237,
+          "endTimeInSeconds": 250,
+          "transcripts": [
+           {
+            "id": "27/237574-239000",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 239,
+            "text": "And Melanie. How is your work going?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "28/239791-244255",
+            "startTimeInSeconds": 239,
+            "endTimeInSeconds": 244,
+            "text": "I’m a bit behind I’m afraid. I was sick all last week and weekend with flu.",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           },
+           {
+            "id": "29/244255-250423",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 250,
+            "text": "I’ve got a subject I think but I’ve not done any work on it yet. Is there any chance I can get an extension to the submittal date?",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           }
+          ]
+         },
+         "value": "extension",
+         "blankId": "KxdHT41a_PcFHzPT-kVtT"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng là \"},{\"text\":\"thứ Melanie cần từ bác sĩ.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tutor nói rằng \\\"Do you have a \"},{\"text\":\"doctor’s certificate\",\"bold\":true},{\"text\":\" or anything? \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Theo quy định của khoa, \"},{\"text\":\"Melanie sẽ phải xin giấy chứng nhận của bác sĩ\\n\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Melanie trả lời rằng \\\" I went to the doctor’s but I \"},{\"text\":\"didn’t get a note\",\"bold\":true},{\"text\":\" as I didn’t realise I would need it. The doctor\"},{\"text\":\" will have a record\",\"bold\":true},{\"text\":\" of me though as I got a prescription. I’ll \"},{\"text\":\"go back and get one\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy đã\"},{\"text\":\" quên lấy note\",\"bold\":true},{\"text\":\" trong lần khám đầu tiên \"},{\"text\":\"nên cô ấy sẽ cần quay lại lấy\",\"bold\":true},{\"text\":\"\\n=> Melanie \"},{\"text\":\"cần quay lại lấy certificate\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn nghe thấy các đối tượng khác nhau là\"},{\"text\":\" \\\"note\\\" và \\\"record\\\"\",\"bold\":true},{\"text\":\" nhưng chúng\"},{\"text\":\" đều nói đến chứng nhận (certificate)\",\"bold\":true},{\"text\":\" từ bác sĩ.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là certificate \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 251,
+          "endTimeInSeconds": 266,
+          "transcripts": [
+           {
+            "id": "30/251389-259062",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 259,
+            "text": "The policy of the department is not to give any extensions unless there are extenuating circumstances. Do you have a doctor’s certificate or anything?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "31/259062-263424",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 263,
+            "text": " I went to the doctor’s but I didn’t get a note as I didn’t realise I would need it. ",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           },
+           {
+            "id": "32/263424-266994",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 266,
+            "text": "The doctor will have a record of me though as I got a prescription. I’ll go back and get one.",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           }
+          ]
+         },
+         "value": "Doctor's certificate/certificate",
+         "blankId": "ZYWYPxJRjGIRqfgmszDCg"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Melanie sẽ viết về \"},{\"text\":\"một thứ ở Anh mà chúng ảnh hướng đến xu thế nhà ở. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"What subject\",\"bold\":true},{\"text\":\" are you considering anyway?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Melanie có nói \\\"I thought I’d \"},{\"text\":\"do an overview of the UK mortgage interest rates\",\"bold\":true},{\"text\":\" and their effect on housing sales trends over the last 10 years.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Melanie \"},{\"text\":\"sẽ tìm hiểu mortgage interest rates ở UK \",\"bold\":true},{\"text\":\"và ảnh hưởng của chúng đối với xu hướng bán nhà ở trong 10 năm qua.\\n=> \"},{\"text\":\"Đáp án là mortgage interest rates \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 272,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "34/272554-277000",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 277,
+            "text": "Without it though, you’ll be in trouble. What subject are you considering anyway?",
+            "character": {
+             "id": "wE-df1sy5Af7HIzYPRhln",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "35/277315-283421",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 283,
+            "text": " I thought I’d do an overview of  the UK mortgage interest rates and their effect on housing sales trends over the last 10 years. ",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           },
+           {
+            "id": "36/283421-288507",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 288,
+            "text": "I thought it might be of interest because of the huge increases of house prices over the last decade.",
+            "character": {
+             "id": "AvGCSQn66QrkLzyPoIxua",
+             "name": "Melanie"
+            }
+           }
+          ]
+         },
+         "value": "mortgage interest rates",
+         "blankId": "sTeq8I9T01sTsHmSwUDgv"
+        }
+       ],
+       "heading": "Notes on Student Essays",
+       "paragraph": {
+        "id": "5ymw2d7Wcuuliwj15XUA7",
+        "editorValue": "[{\"children\":[{\"text\":\"Student Melanie needs an \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"28\"}],\"id\":\"KxdHT41a_PcFHzPT-kVtT\"},{\"text\":\"  as she has been unwell with the flu. She will get a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 2\"}],\"id\":\"ZYWYPxJRjGIRqfgmszDCg\"},{\"text\":\"  from the doctor. She’s going to write about \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"30\"}],\"id\":\"sTeq8I9T01sTsHmSwUDgv\"},{\"text\":\"  in the UK and their effect on housing trends. She should be on track with the essay by the end of the weekend.\"}]}]",
+        "blanks": [
+         {
+          "id": "KxdHT41a_PcFHzPT-kVtT",
+          "key": 0
+         },
+         {
+          "id": "ZYWYPxJRjGIRqfgmszDCg",
+          "key": 1
+         },
+         {
+          "id": "sTeq8I9T01sTsHmSwUDgv",
+          "key": 2
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the tutor’s summary notes on Melanie below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write"
+         },
+         {
+          "text": " NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": " Write"
+         },
+         {
+          "text": " NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Tsunami",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "ac3e1d53-779f-11ec-b8ac-95e9cc6ca498",
+     "questions": [
+      {
+       "uuid": "ac3e1d54-779f-11ec-b8ac-95e9cc6ca498",
+       "type": "SINGLE_ANSWER",
+       "question": "The Pacific is more prone to tsunami because…",
+       "options": [
+        {
+         "key": 0,
+         "value": "it has many faults."
+        },
+        {
+         "key": 1,
+         "value": "its faults undergo subduction."
+        },
+        {
+         "key": 2,
+         "value": "its tectonic plates are bigger than elsewhere."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần tìm\"},{\"text\":\" lí do Thái Bình Dương dễ bị sóng thần\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Some areas\",\"bold\":true},{\"text\":\" of the world are more\"},{\"text\":\" prone to greater movement\",\"bold\":true},{\"text\":\"...\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó, theo người nói, ''The Pacific Ocean’s denser oceanic plates are often known to slip under continental plates in a process known as subduction, and subduction earthquakes are the most effective in generating tsunamis'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Oceanic plates ở \"},{\"text\":\"Pacific\",\"bold\":true},{\"text\":\" \"},{\"text\":\"thường trải qua subduction\",\"bold\":true},{\"text\":\" (trượt xuống dưới mảng lục địa) và\"},{\"text\":\" động đất subduction có khả năng dẫn đến sóng thần nhất \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 116,
+          "endTimeInSeconds": 158,
+          "transcripts": [
+           {
+            "id": "7/116624-127686",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 127,
+            "text": "Earthquakes though are the largest cause of tsunami. Tectonic plates cover the world’s surface and their movement can be detected anywhere in the world."
+           },
+           {
+            "id": "8/127686-135707",
+            "startTimeInSeconds": 127,
+            "endTimeInSeconds": 135,
+            "text": "Some areas of the world are more prone to greater movement, and it is in these places that the largest waves can occur. "
+           },
+           {
+            "id": "9/135707-143474",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 143,
+            "text": "Large vertical movements of the earth’s crust occur at plate boundaries which are known as faults. "
+           },
+           {
+            "id": "10/143474-158284",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 158,
+            "text": "The Pacific Ocean’s denser oceanic plates are often known to slip under continental plates in a process known as subduction, and subduction earthquakes are the most effective in generating tsunamis."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ac3e4465-779f-11ec-b8ac-95e9cc6ca498",
+       "type": "SINGLE_ANSWER",
+       "question": "The biggest tsunami are usually created by…",
+       "options": [
+        {
+         "key": 0,
+         "value": "undersea volcanic eruptions."
+        },
+        {
+         "key": 1,
+         "value": "undersea earthquakes."
+        },
+        {
+         "key": 2,
+         "value": "undersea landslides."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"các cơn sóng thần lớn nhất thường được tạo ra bởi cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình sẽ được giải thích\"},{\"text\":\" cách sóng thần hình thành từ cả ba nguyên nhân này.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"1. Đầu tiên là \"},{\"text\":\"earthquake\",\"bold\":true},{\"text\":\", ''In the case of \"},{\"text\":\"earthquake-generated tsunamis\",\"bold\":true},{\"text\":\", ....''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"2. Thứ hai là \"},{\"text\":\"landslide\",\"bold\":true},{\"text\":\", ''\"},{\"text\":\"Submarine landslide\",\"bold\":true},{\"text\":\"s, which often accompany large earthquakes, as well as collapses of volcanic edifices, can also disturb the overlying water column ...''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"3. Thứ ba là \"},{\"text\":\"volcanic eruption\",\"bold\":true},{\"text\":\", ''\"},{\"text\":\"submarine volcanic eruptions\",\"bold\":true},{\"text\":\" can ... generates a tsunami.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tuy nhiên đến cuối cùng người nói mới đưa ra kết luận là \\\"Generally speaking, tsunamis generated from these mechanisms, \"},{\"text\":\"unlike the devastating Pacific-wide tsunamis caused by earthquakes\",\"bold\":true},{\"text\":\", ...rarely affect coastlines distant from the source area.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sóng thần tạo ra từ các cơ chế này hiếm khi ảnh hưởng đến các bờ biển xa khu vực nguồn, \"},{\"text\":\"không giống như sóng thần dữ dội trên khắp Thái Bình Dương do động đất gây ra \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Sóng thần gây ra bởi động đất là lớn nhất \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 158,
+          "endTimeInSeconds": 231,
+          "transcripts": [
+           {
+            "id": "11/158284-174979",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 174,
+            "text": "A tsunami can be generated by any disturbance that displaces a large water mass from its equilibrium position. In the case of earthquake-generated tsunamis, the water column is disturbed by the uplift or subsidence of the sea floor."
+           },
+           {
+            "id": "12/174979-191706",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 191,
+            "text": "Submarine landslides, which often accompany large earthquakes, as well as collapses of volcanic edifices, can also disturb the overlying water column as sediment and rock slump down, and are redistributed across the sea floor."
+           },
+           {
+            "id": "13/191706-201779",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 201,
+            "text": "submarine volcanic eruptions can create an impulsive force that uplifts the water column and generates a tsunami. "
+           },
+           {
+            "id": "14/201779-214920",
+            "startTimeInSeconds": 201,
+            "endTimeInSeconds": 214,
+            "text": "Conversely, super marine landslides  and cosmic body impacts disturb the water from above, as momentum from falling debris is transferred to the water into which the debris falls"
+           },
+           {
+            "id": "15/214920-231045",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 231,
+            "text": "Generally speaking, tsunamis generated from these mechanisms, unlike the devastating Pacific-wide tsunamis caused by earthquakes, dissipate quickly and rarely\naffect coastlines distant from the source area."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "ac3e4466-779f-11ec-b8ac-95e9cc6ca498",
+       "type": "SINGLE_ANSWER",
+       "question": "Tsunami are difficult to detect in deep water because of…",
+       "options": [
+        {
+         "key": 0,
+         "value": "their wavelength."
+        },
+        {
+         "key": 1,
+         "value": "their high speed. "
+        },
+        {
+         "key": 2,
+         "value": "their wave rate."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"tại sao sóng thần khó phát hiện dưới biển sâu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau \\\"Tsunamis are very\"},{\"text\":\" hard to detect\",\"bold\":true},{\"text\":\", since they \"},{\"text\":\"cannot be seen \",\"bold\":true},{\"text\":\"when they are in the deep ocean. \\\"\\n\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, theo người nói \\\"\"},{\"text\":\"The distance between two wave crests\",\"bold\":true},{\"text\":\" can be 500 kilometers and, \"},{\"text\":\"because of this\",\"bold\":true},{\"text\":\", the \"},{\"text\":\"wave height is only a few feet\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khoảng cách giữa hai đỉnh sóng có thể là 500 km (tức là \"},{\"text\":\"wavelength\",\"bold\":true},{\"text\":\") và do đó, \"},{\"text\":\"độ cao của sóng chỉ là vài feet, từ đó chúng khó bị phát hiện \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn cũng có thể nghe ''Because \"},{\"text\":\"the rate\",\"bold\":true},{\"text\":\" at which a wave loses its energy is inversely \"},{\"text\":\"related to its wavelength\",\"bold\":true},{\"text\":\", tsunamis not only propagate at\"},{\"text\":\" high speeds,\",\"bold\":true},{\"text\":\" they can also travel great, transoceanic distances with limited energy losses.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ đề cập vì sao tsunami có thể di chuyển xa và nhanh mà mất ít năng lượng nhưng\"},{\"text\":\" không phải vì sao khó phát hiện tsunami\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại  đáp án B và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 231,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "16/231045-237331",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 237,
+            "text": "Tsunamis are very hard to detect, since they cannot be seen when they are in the deep ocean."
+           },
+           {
+            "id": "17/237331-246828",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 246,
+            "text": "The distance between two wave crests can be 500 kilometers and, because of this, the wave height is only a few feet."
+           },
+           {
+            "id": "18/246828-263401",
+            "startTimeInSeconds": 246,
+            "endTimeInSeconds": 263,
+            "text": " Because the rate at which a wave loses its energy is inversely related to its wavelength , tsunamis not only propagate at high speeds, they can also travel great, transoceanic distances with limited energy losses."
+           },
+           {
+            "id": "19/263401-276526",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 276,
+            "text": "As the tsunami reaches shallow water however, its speed decreases, but the energy it contains remains about the same. Instead of travelling fast, the wave rises high."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters "
+         },
+         {
+          "text": "A-C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "ac3e4467-779f-11ec-b8ac-95e9cc6ca498",
+     "questions": [
+      {
+       "uuid": "ac3e4468-779f-11ec-b8ac-95e9cc6ca498",
+       "type": "SHORT_ANSWER",
+       "sentences": [
+        {
+         "key": 0,
+         "text": "List the two ways which the National Oceanic and Atmospheric Administration has set up to detect tsunami."
+        },
+        {
+         "key": 1,
+         "text": "List the two ways which the National Oceanic and Atmospheric Administration has set up to detect tsunami."
+        }
+       ],
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, mình nghe được là ''\"},{\"text\":\"Buoys \",\"bold\":true},{\"text\":\"at sea can \"},{\"text\":\"also\",\"bold\":true},{\"text\":\" detect water pressure changes that can\"},{\"text\":\" indicate tsunamis \",\"bold\":true},{\"text\":\"moving through the ocean.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bouys cũng được \"},{\"text\":\"dùng để phát hiện sóng thần\",\"bold\":true},{\"text\":\" (indicate tsunamis) \\n=> \"},{\"text\":\"Đáp án: bouys (at sea) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 276,
+          "endTimeInSeconds": 290,
+          "transcripts": [
+           {
+            "id": "20/276526-290042",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 290,
+            "text": "The National Oceanic and Atmospheric Administration has set up  seismic detection system to monitor earthquakes and predict the possible arrival of tidal waves for Pacific countries"
+           }
+          ]
+         },
+         "value": "bouys/bouys at sea"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng chính của câu là \"},{\"text\":\"National Oceanic and Atmospheric Administration \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''The National Oceanic and Atmospheric Administration has\"},{\"text\":\" set up a seismic detection system to\",\"bold\":true},{\"text\":\" monitor earthquakes and \"},{\"text\":\"predict\",\"bold\":true},{\"text\":\" the possible\"},{\"text\":\" arrival of tidal waves\",\"bold\":true},{\"text\":\" for Pacific countries.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dự đoán tsunami\",\"bold\":true},{\"text\":\" (detect tsunami= predict the possible arrival of tidal waves) thông qua \"},{\"text\":\"a seismic detection system \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: seismic detection system \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (hệ thống phát hiện địa chấn)  \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 290,
+          "endTimeInSeconds": 304,
+          "transcripts": [
+           {
+            "id": "21/290042-297736",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 297,
+            "text": "Buoys at sea can also detect water pressure changes that can indicate tsunamis moving through the ocean."
+           },
+           {
+            "id": "22/297736-304088",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 304,
+            "text": "But when tsunamis originate near the shore there is often little chance to warn people."
+           }
+          ]
+         },
+         "value": "seismic detection system"
+        }
+       ]
+      }
+     ],
+     "questionType": "SHORT_ANSWER",
+     "displayedQuestionType": "Short Answer",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "ac3e4469-779f-11ec-b8ac-95e9cc6ca498",
+     "questions": [
+      {
+       "uuid": "5GnT60TL1S4YA09LIW46S",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"nguyên nhân của con sóng xảy ra vào năm 1992\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''In \"},{\"text\":\"1992\",\"bold\":true},{\"text\":\", an \"},{\"text\":\"offshore landslide caused a tidal wave\",\"bold\":true},{\"text\":\" of only about three feet high'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Offshore landslide \",\"bold\":true},{\"text\":\"gây ra a tidal wave (tsunami) \\n=> \"},{\"text\":\"Đáp án: offshore landslide \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 304,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "23/304163-311000",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 311,
+            "text": "Let’s look at some examples of tsunami and their causes and effects .Some can be relatively harmless. "
+           },
+           {
+            "id": "24/311478-326633",
+            "startTimeInSeconds": 311,
+            "endTimeInSeconds": 326,
+            "text": "In 1992 an offshore landslide caused a tidal wave of only about three feet high that struck at low tide, so Humboldt County, where it hit, got off easy with no casualties ."
+           }
+          ]
+         },
+         "value": "offshore landslide",
+         "blankId": "uyhilJ3FXWBKrDcTT5Wg4"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ở đây mình cần nghe về \"},{\"text\":\"chiều cao của con sóng. \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" Đầu tiên, người nói giới thiệu hiện tượng tiếp theo, ''On January 13th in \"},{\"text\":\"1992\",\"bold\":true},{\"text\":\", a Pacific Ocean\"},{\"text\":\" earthquake\",\"bold\":true},{\"text\":\" off the coast of San salvador''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó,\"},{\"text\":\" ''did not cause any ocean disturbance\",\"bold\":true},{\"text\":\" at all.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trận động đất này không hề ảnh hưởng tới ocean, tức là nó \"},{\"text\":\"không gây ra sóng\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Đáp án: no wave/zero feet\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"(bạn lưu ý nếu viết zero thì bạn vẫn cần có tên đơn vị ở sau)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 326,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "25/326633-342604",
+            "startTimeInSeconds": 326,
+            "endTimeInSeconds": 342,
+            "text": "On January 13th in 1992, a Pacific Ocean earthquake off the coast of San salvador , registering 7.6 on the Richter scale, did not cause any ocean disturbance at all."
+           }
+          ]
+         },
+         "value": "no wave/zero feet ",
+         "blankId": "t4fbA2nTXYeK89bHXQeKn"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về n\"},{\"text\":\"guyên nhân của sóng thần năm 1998\",\"bold\":true},{\"text\":\"\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người nói giới thiệu về con sóng, ''However, a recent \"},{\"text\":\"tidal wave\",\"bold\":true},{\"text\":\", which struck Papua New Guinea on july 17th \"},{\"text\":\"1998 \",\"bold\":true},{\"text\":\"...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết đáp án sẽ có.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó người nói đưa thông tin về nguyên nhân của nó là ''This wave was \"},{\"text\":\"caused by a magnitude 7.1 submarine earthquake\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nguyên nhân là\"},{\"text\":\" một trận động đất dưới biển \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: submarine earthquake \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 326,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "25/326633-342604",
+            "startTimeInSeconds": 326,
+            "endTimeInSeconds": 342,
+            "text": "On January 13th in 1992, a Pacific Ocean earthquake off the coast of San salvador , registering 7.6 on the Richter scale, did not cause any ocean disturbance at all."
+           }
+          ]
+         },
+         "value": "submarine earthquake",
+         "blankId": "Fc-QdVB4VxKdYp8XBwh6S"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đến câu này thì mình cần nghe về \"},{\"text\":\"số người tử vong.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng của mình là \"},{\"text\":\"sóng thần vào năm 1896 \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''One of the worst\"},{\"text\":\" tsunami disasters\",\"bold\":true},{\"text\":\" engulfed whole villages along Sanriku, Japan, in \"},{\"text\":\"1896\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''An underwater earthquake induced a wave of 35 feet \"},{\"text\":\"drowning some 26,000 people\",\"bold\":true},{\"text\":\".''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Nó đã nhấn chìm \"},{\"text\":\"26,000 người \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 26,000 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 359,
+          "transcripts": [
+           {
+            "id": "26/342604-359512",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 359,
+            "text": "However, a recent tidal wave, which struck Papua New Guinea on july 17th 1998 , was 23 feet high, and killed at least 1200 people. This wave was caused by a agnitude 7.1  submarine earthquake."
+           }
+          ]
+         },
+         "value": "26,000",
+         "blankId": "CdIuBIPvPqn14E2HknFZq"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Ở câu cuối cùng, mình cần nghe về\"},{\"text\":\" số người tử vong.\",\"bold\":true},{\"text\":\"\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley3\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Con sóng này\"},{\"text\":\" xảy ra vào 8000 năm trước \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau ''Finally, \"},{\"text\":\"about 8,000 years ago\",\"bold\":true},{\"text\":\", a massive undersea landslide off the coast of Norway''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''sent a 30- foot wall of water barreling\"},{\"text\":\" into the uninhabited northern coast \",\"bold\":true},{\"text\":\"of Europe.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn phải bắt được ngay từ \"},{\"text\":\"uninhabited\",\"bold\":true},{\"text\":\", tức là \"},{\"text\":\"không có người sống \",\"bold\":true},{\"text\":\"\\n=> Cơn sóng thần \"},{\"text\":\"không giết ai cả \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: none \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tới câu sau, người nói có bảo là '' If this \"},{\"text\":\"were to recur today\",\"bold\":true},{\"text\":\", (...), it would (...) \"},{\"text\":\"kill tens of thousands of people\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người nói đang \"},{\"text\":\"giả dụ\",\"bold\":true},{\"text\":\" là nếu cơn sóng thần này xảy ra ngày nay, n\"},{\"text\":\"ó sẽ giết hàng chục nghìn người\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Không phải đáp án\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 398,
+          "endTimeInSeconds": 426,
+          "transcripts": [
+           {
+            "id": "31/398358-411612",
+            "startTimeInSeconds": 398,
+            "endTimeInSeconds": 411,
+            "text": "Finally, about 8,000 years ago, a massive undersea landslide off the coast of Norway sent a 30- foot wall of water barreling into the uninhabited northern coast of Europe. "
+           },
+           {
+            "id": "32/411612-426987",
+            "startTimeInSeconds": 411,
+            "endTimeInSeconds": 426,
+            "text": "If this were to recur today, as scientists say it could, almost anywhere in the world, it would cost billions if not tens of billions of dollars to repair the damage to coastal cities and kill tens of thousands of people."
+           }
+          ]
+         },
+         "value": "none",
+         "blankId": "jT4P82ozxU-ikihVSIlVX"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "uyhilJ3FXWBKrDcTT5Wg4",
+         "key": 0
+        },
+        {
+         "id": "t4fbA2nTXYeK89bHXQeKn",
+         "key": 1
+        },
+        {
+         "id": "Fc-QdVB4VxKdYp8XBwh6S",
+         "key": 2
+        },
+        {
+         "id": "CdIuBIPvPqn14E2HknFZq",
+         "key": 3
+        },
+        {
+         "id": "jT4P82ozxU-ikihVSIlVX",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"CHJbzI2Hda8uqXECAHjiB\",\"cellsWidth\":[140,181,146,144],\"children\":[{\"type\":\"tr\",\"id\":\"eWTDZeOyiH2scRdYNX117\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"When Happened\",\"bold\":true}]}]}],\"id\":\"_6ppQIAWIUnF5KkEJbtHM\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Cause\",\"bold\":true}]}]}],\"id\":\"jFHAbOHugWtKS0qPYXiOV\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Deaths Caused\",\"bold\":true}]}]}],\"id\":\"oiK_sYyWCgPchWdkWpi9M\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Wave Height\",\"bold\":true}]}]}],\"id\":\"d7Clix0l5yx0Uetv68EnN\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"bLs4yNUTghD0N_D6x3sQT\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1992\"}]}]}],\"id\":\"Z12t-zLr9iOZm7l35ypAU\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"uyhilJ3FXWBKrDcTT5Wg4\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"2KiCZSq1df_5RyW8JEMgj\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"none\"}]}]}],\"id\":\"_pDIk2VdATSR2A_yrHWhV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"3 feet\"}]}]}],\"id\":\"Wx8TeqnCyCenWEJGVqHy0\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"a5lyQr6A5IBiCmwSwG4_r\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1992\"}]}]}],\"id\":\"AfnYxNIbAdVy8KDvPM-Dp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Underwater earthquake\"}]}]}],\"id\":\"kwbaLhyl8_mCd-BvdBa2n\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"none\"}]}]}],\"id\":\"_13-VORhgFNCj9YdzRVA5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"t4fbA2nTXYeK89bHXQeKn\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ej25ICYlGBANH4xU0bHzb\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"5R7x0PHJzKwzHGh_kGTTd\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1998\"}]}]}],\"id\":\"pzty2rRgHdefm85jg4V07\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Fc-QdVB4VxKdYp8XBwh6S\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"06tR9BpFDFtCBRd5QO4bh\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1200\"}]}]}],\"id\":\"y4yTOxfZVVsYlUBWNtlsq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"23 feet\"}]}]}],\"id\":\"DzCF9vU8ELrxZDIQiaKck\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"W7wlyiBhLo-afdqavjWkT\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1998\"}]}]}],\"id\":\"-mbH0sSUz8-HXvbg1YFri\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Underwater landslide\"}]}]}],\"id\":\"EO5RLvgDP-FkZDOzdvdkI\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"3000\"}]}]}],\"id\":\"PPn0GRzjDLE7lJwyMGQZ-\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"40 feet\"}]}]}],\"id\":\"Jn3mBAckR4mKcEvUH07J4\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"nhIsYLdK434BC93-Cvr1c\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1896\"}]}]}],\"id\":\"bJHB1FaS4YivdtfW_kMGf\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Underwater earthquake\"}]}]}],\"id\":\"uhATnAF3rT1snL1KFwFPi\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"CdIuBIPvPqn14E2HknFZq\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"q-zVMfMZcHX7lFPV_QcKK\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"35 feet\"}]}]}],\"id\":\"8dyJR-n3KLM5BFSmZlpxy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"yc55QsjYYaDXx6hdSGedg\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"8000 years ago\"}]}]}],\"id\":\"8jJIstTySpCfWeOgEEOJi\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Underwater landslide\"}]}]}],\"id\":\"hnK6addxOG2DmCAW6V1zV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"jT4P82ozxU-ikihVSIlVX\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"5MGsOKTm9nsWalG_etrEF\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"30 feet\"}]}]}],\"id\":\"_zr2lUBsPZzkfVDHriVo9\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":611,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:24Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

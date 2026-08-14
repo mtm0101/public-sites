@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam16-t2-listening",
+ "title": "CAM IELTS 16 - Listening Test 2",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 16",
+ "testNum": 2,
+ "order": 18,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-16-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Copying Photos To Digital Format",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a56079c8-456e-4673-a97c-7e9355c97877.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 12721225
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/10d5a75b-20b6-4fc4-87b8-d68f4e95566f.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 37
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Dartfield House School",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1c33e657-5806-426f-b10a-e9f0fa7e2c24.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 14837950
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/38854362-06e9-46e8-af6e-f17d64945030.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 37
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Assignment On Sleep And Dreams",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d0369465-43bb-49e8-b6ff-dd17e16dba8f.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 13319085
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6e9db52d-d28c-4593-bafd-4f5fb78f0ab3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Health Benefits Of Dance",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cc26cbf8-3997-4310-b374-604d5e2f974c.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 16822745
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/40404f51-9452-44ec-b0c8-88c04e2ef31d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 36
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:37:45Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

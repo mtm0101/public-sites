@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam9-t1-listening",
+ "title": "CAM IELTS 9 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 9",
+ "testNum": 1,
+ "order": 45,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-9-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Job Inquiry",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b40c816e-135a-48b0-abc8-7eff4386654f.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 9192114
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b676f9d2-aac0-43b5-8c8c-155f85b196ba.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 59
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Sports World",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6aef82be-33fe-4ff3-af51-dba3bbd6d36b.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 6808662
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/773cfa9f-8bdd-49ea-9c6a-03f0f986e704.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 12
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Course Feedback",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3ec145dc-25bd-46d7-806d-7d7f83c5c1db.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 9249534
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/384d4941-182a-4e8f-a723-58f752b6ec15.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 55
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Mass Stranding Of Whales And Dolphins",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/109c6291-826e-4a32-b6ef-13f2ff2972a1.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7942446
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/544f1a8a-8c6d-4e99-8b72-3424620ffb92.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 19
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:47:13Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

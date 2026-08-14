@@ -1,0 +1,1829 @@
+{
+ "schema": 1,
+ "id": "cam14-t1-listening",
+ "title": "CAM IELTS 14 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 14",
+ "testNum": 1,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-14-test-1-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-14-test-1-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Crime Report Form",
+   "duration": 10,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "4741e0a0-55f6-11ef-832a-810ab790eafd",
+     "questions": [
+      {
+       "uuid": "4741e0a1-55f6-11ef-832a-810ab790eafd",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"quốc tịch\",\"bold\":true},{\"text\":\" của Louise.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"And are you resident in the UK?\\\" (Và bạn đang cư trú tại Vương quốc Anh phải không?) là biết\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Sau đó nghe, \\\"No, \"},{\"text\":\"I’m actually Canadian\",\"bold\":true},{\"text\":\"\\\" (Không, tôi là người Canada) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Canadian\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 170,
+          "endTimeInSeconds": 178,
+          "transcripts": [
+           {
+            "id": "4/170224-173936",
+            "startTimeInSeconds": 170,
+            "endTimeInSeconds": 173,
+            "text": " OK, thank you. And are you resident in the UK?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "5/174285-178366",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 178,
+            "text": " No, I’m actually Canadian. Though my mother was British.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "Canadian",
+         "blankId": "dlkzJy1M9uBAk-CSHJxJs"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"không đếm được hoặc đếm được số nhiều chỉ mục đích đến là để mua nó.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi bạn nghe \\\"So you’re just visiting this country?\\\" là đang hỏi về mục đích chuyến đi nên\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe, \\\"\"},{\"text\":\"I come over most summers on business.\",\"bold\":true},{\"text\":\" I’m an interior designer and \"},{\"text\":\"I come over to buy old furniture\",\"bold\":true},{\"text\":\", antiques you know.\\\" (Tôi là một nhà thiết kế nội thất và tôi đến để mua đồ nội thất cũ, đồ cổ.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"furniture\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 183,
+          "endTimeInSeconds": 204,
+          "transcripts": [
+           {
+            "id": "8/183643-185925",
+            "startTimeInSeconds": 183,
+            "endTimeInSeconds": 185,
+            "text": " So you’re just visiting this country?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "9/186099-204732",
+            "startTimeInSeconds": 186,
+            "endTimeInSeconds": 204,
+            "text": " That’s right. I come over most summers on business. I’m an interior designer and I come over to buy old furniture, antiques you know. There are some really lovely things around here, but you need to get out to the small towns. I’ve had a really good trip this year, until this happened.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "furniture",
+         "blankId": "nHujP0OibwHtJirHFA6pa"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun\",\"bold\":true},{\"text\":\" chỉ tên của căn hộ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi nghe \\\"So may I ask where you’re staying now?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"at present \"},{\"text\":\"I’ve got a place at Park Apartments, that’s on King Street\",\"bold\":true},{\"text\":\".\\\" (hiện tại tôi đã có một chỗ tại Park Apartments, trên Phố King.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"Park\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Tuy nhiên sau đó 1 số bạn nghe được \\\"I was staying \"},{\"text\":\"at the Riverside Apartments\",\"bold\":true},{\"text\":\" on the same street\\\" nên có thể điền nhầm là \\\"\"},{\"text\":\"Riverside\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng đây là chỗ đã ở trước đó, bây giờ không còn nữa\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 212,
+          "endTimeInSeconds": 230,
+          "transcripts": [
+           {
+            "id": "12/212452-214791",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 214,
+            "text": " So may I ask where you’re staying now? ",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "13/215555-230719",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 230,
+            "text": " Well at present I’ve got a place at Park Apartments, that’s on King Street. I was staying at the Riverside Apartments on the same street, but the apartment there was only available for six weeks so I had to find another one.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "Park",
+         "blankId": "8wUC6mflcfsXyAQc_rgb3"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"number \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"số tiền\",\"bold\":true},{\"text\":\" bị đánh cắp\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"And what did your wallet have in it?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\" Well, fortunately I don’t keep my credit cards in that wallet – I keep them with my passport in an inside compartment in my backpack. But \"},{\"text\":\"there was quite a bit of cash there … about £250\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có khá nhiều tiền mặt ở trong đó… khoảng £250 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Số cần điền là \\\"\"},{\"text\":\"250\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó các bạn tiếp tục nghe được các dữ liệu khác về số tiền \\\" I withdrew\"},{\"text\":\" £300 \",\"bold\":true},{\"text\":\"from my account yesterday, but I did a bit of shopping, so I must have already spent about \"},{\"text\":\"£50\",\"bold\":true},{\"text\":\" of that.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đã rút 300 bảng từ tài khoản ngày hôm qua, và đã tiêu khoảng 50 bảng trong số đó\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Không phải số tiền bị mất\",\"marks\":[]}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 313,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "21/313087-315589",
+            "startTimeInSeconds": 313,
+            "endTimeInSeconds": 315,
+            "text": " And what did your wallet have in it?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "22/315754-342676",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 342,
+            "text": " Well, fortunately I don’t keep my credit cards in that wallet – I keep them with my passport in an inside compartment in my backpack. But there was quite a bit of cash there … about £250 sterling, I should think. I withdrew £300 from my account yesterday, but I did a bit of shopping, so I must have already spent about £50 of that.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "250",
+         "blankId": "uR4h_hOZBZjRyStGrF6Lc"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là\"},{\"text\":\" noun\",\"bold\":true},{\"text\":\" đếm được chỉ vật bị mất.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\" At first I thought, oh I must have left the wallet back in the apartment, but then\"},{\"text\":\" I realised my phone had gone as well\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Lúc đầu tôi nghĩ, chắc tôi đã để lại chiếc ví trong căn hộ, nhưng sau đó tôi nhận ra điện thoại của mình cũng đã biến mất\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Có thể từ cần điền là \\\"\"},{\"text\":\"phone\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sau đó bạn nghe \\\"It was only a week old, and that’s \"},{\"text\":\"when I realised I’d been robbed\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vừa mua nó được một tuần và đó là khi tôi nhận ra mình đã bị cướp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"phone\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 344,
+          "endTimeInSeconds": 360,
+          "transcripts": [
+           {
+            "id": "24/344138-360750",
+            "startTimeInSeconds": 344,
+            "endTimeInSeconds": 360,
+            "text": " At first I thought, oh I must have left the wallet back in the apartment, but then I realised my phone had gone as well. It was only a week old, and that’s when I realised I’d been robbed. Anyway at least they didn’t take the keys to my rental car.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "phone",
+         "blankId": "x_RktMz-aZrEaWK3kZtct"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"ngày tháng\",\"bold\":true},{\"text\":\" bị mất trộm\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"So you say the theft occurred yesterday?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"So that was September the tenth\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"10th September\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 360,
+          "endTimeInSeconds": 376,
+          "transcripts": [
+           {
+            "id": "25/360916-365196",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 365,
+            "text": " Yes. So you say the theft occurred yesterday?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "26/365373-366115",
+            "startTimeInSeconds": 365,
+            "endTimeInSeconds": 366,
+            "text": " Yes.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           },
+           {
+            "id": "27/366402-376009",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 376,
+            "text": " So that was September the tenth. And do you have any idea at all of where or when the things might possibly have been stolen?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           }
+          ]
+         },
+         "value": "10th September/September 10th/10 September/September 10",
+         "blankId": "yL-4Hcicwltv6PzEgbobJ"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"địa điểm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"do you have any idea at all of where or when the things might possibly have been stolen?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"Anyway, I met up with a friend, and \"},{\"text\":\"we spent a couple of hours in the museum\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Gặp một người bạn và chúng tôi đã dành vài giờ trong bảo tàng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"museum\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 366,
+          "endTimeInSeconds": 415,
+          "transcripts": [
+           {
+            "id": "27/366402-376009",
+            "startTimeInSeconds": 366,
+            "endTimeInSeconds": 376,
+            "text": " So that was September the tenth. And do you have any idea at all of where or when the things might possibly have been stolen?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "28/376344-415012",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 415,
+            "text": " Well at first I couldn’t believe it because the bag had been on my back ever since I left the apartment after lunch. It’s just a small backpack, but I generally use it when I’m travelling because it seems safer than a handbag. Anyway, I met up with a friend, and we spent a couple of hours in the museum. But I do remember that as we were leaving there, at about 4 o’clock, a group of young boys ran up to us, and they were really crowding round us, and they were asking us that time it was, then all of a sudden they ran off.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "museum",
+         "blankId": "W_jEfKhxaebLoBy2cdvQh"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ thông tin mà 1 đám con trai đã hỏi.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe keyword \\\"a group of young boys\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\" they were really crowding round us, and \"},{\"text\":\"they were asking us that time it was\",\"bold\":true},{\"text\":\", then all of a sudden they ran off.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Họ vây quanh chúng tôi, và họ hỏi chúng tôi về thời gian lúc đó là bao nhiêu, rồi đột nhiên họ bỏ chạy.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"time\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 376,
+          "endTimeInSeconds": 415,
+          "transcripts": [
+           {
+            "id": "28/376344-415012",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 415,
+            "text": " Well at first I couldn’t believe it because the bag had been on my back ever since I left the apartment after lunch. It’s just a small backpack, but I generally use it when I’m travelling because it seems safer than a handbag. Anyway, I met up with a friend, and we spent a couple of hours in the museum. But I do remember that as we were leaving there, at about 4 o’clock, a group of young boys ran up to us, and they were really crowding round us, and they were asking us that time it was, then all of a sudden they ran off.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "time",
+         "blankId": "oQa_dUXjmVXkbpvjJ-SA0"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj \",\"bold\":true},{\"text\":\"chỉ \"},{\"text\":\"màu sắc\",\"bold\":true},{\"text\":\" của tóc.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"Colour of hair?\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe, \\\" I do remember that – he was blond\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"blond\",\"bold\":true},{\"text\":\"\\\" chỉ tóc màu vàng \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 443,
+          "endTimeInSeconds": 449,
+          "transcripts": [
+           {
+            "id": "35/443201-444279",
+            "startTimeInSeconds": 443,
+            "endTimeInSeconds": 444,
+            "text": " Colour of hair?",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           },
+           {
+            "id": "36/444433-449575",
+            "startTimeInSeconds": 444,
+            "endTimeInSeconds": 449,
+            "text": " I do remember that – he was blond. All the others were dark-haired.",
+            "character": {
+             "id": "_m3ZNzyptc68NIbzxwHfD",
+             "name": "LOUISE"
+            }
+           }
+          ]
+         },
+         "value": "blonde/blond",
+         "blankId": "U3FMcQuU07t1szEkxE3Mv"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định cần điền \"},{\"text\":\"number \",\"bold\":true},{\"text\":\"chỉ số tham chiếu của tội phạm.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi bạn nghe cụm keyword \\\"a crime reference number\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"this is ten digits: \"},{\"text\":\"87954 82361\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Số cần điền là \"},{\"text\":\"\\\"8795482361\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 456,
+          "endTimeInSeconds": 474,
+          "transcripts": [
+           {
+            "id": "39/456997-474986",
+            "startTimeInSeconds": 456,
+            "endTimeInSeconds": 474,
+            "text": " Right. So what I’m going to do now is give you a crime reference number so you can contact your insurance company. So this is ten digits: 87954 82361",
+            "character": {
+             "id": "p-22YEi23SmXvPGObHl8M",
+             "name": "OFFICER"
+            }
+           }
+          ]
+         },
+         "value": "8795482361",
+         "blankId": "iz28G5jQeOiPoGa6RX7d1"
+        }
+       ],
+       "heading": "CRIME REPORT FORM",
+       "paragraph": {
+        "id": "AycxzXSTo3Y6za1NQVmij",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"qlMPZ7Y4AXi5s1lcqlMIa\",\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Type of crime: \",\"bold\":true},{\"id\":\"b50TV41GcM9B8rxg\",\"text\":\"T\"},{\"text\":\"heft                                  \"}],\"id\":\"pOp3usisgZJmxsA8\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Personal information\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Example\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Name: Louise \"},{\"text\":\"Taylor\",\"underline\":true,\"italic\":true}],\"id\":\"1X_8JVxkqjqU6RrP\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Nationality:\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 1 ……………….\"}],\"id\":\"dlkzJy1M9uBAk-CSHJxJs\"},{\"text\":\"\"}],\"id\":\"UR9yt3BNJ0dTo6K2\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Date of birth: 14 December 1977\"}],\"id\":\"uQ3yrtGcuGBCvmsA\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Occupation: interior designer\"}],\"id\":\"lVKTcaxvdt-uf1lY\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Reason for visit: business (to buy antique\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"nHujP0OibwHtJirHFA6pa\"},{\"text\":\")\"}],\"id\":\"5sCo6Ks3ruEAbrSh\"},{\"type\":\"p\",\"children\":[{\"text\":\"Length of stay: two months\",\"marks\":[]}],\"id\":\"8191sVvpxXi4bGRd\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Current address: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"3 ……………….\"}],\"id\":\"8wUC6mflcfsXyAQc_rgb3\"},{\"text\":\" Apartments (No 15)\"}],\"id\":\"WEFfHPLwjXRQcjtL\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Details of theft\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Items stolen \"}],\"id\":\"x9u3VKr-MIpks3Pr\"},{\"id\":\"kJe-AYtJFy6bITjdh-69P\",\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"id\":\"dcZT3CsSbO3u5mR8Vs8kz\",\"children\":[{\"type\":\"p\",\"id\":\"TCk9hy_sgGtpFemq\",\"children\":[{\"id\":\"009JDsQum24zjLoA\",\"text\":\"a wallet containing approximately £\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" …………….\"}],\"id\":\"uR4h_hOZBZjRyStGrF6Lc\"},{\"text\":\"\"}]}]},{\"type\":\"li\",\"id\":\"EI1bx0y1EUVZ8d6R\",\"children\":[{\"type\":\"p\",\"id\":\"N_nKxI6kptLl_LUV\",\"children\":[{\"text\":\"a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"x_RktMz-aZrEaWK3kZtct\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Date of theft: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"yL-4Hcicwltv6PzEgbobJ\"},{\"text\":\"\",\"marks\":[]}],\"id\":\"PRch4RVmt45NbCy0\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Possible time and place of theft\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Location: outside the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"7…………… \"}],\"id\":\"W_jEfKhxaebLoBy2cdvQh\"},{\"text\":\"at about 4 pm\"}],\"id\":\"iFwLlPMps8EGsA5J\"},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Details of suspect:\"}],\"id\":\"T4uMb6UT-wh05h0V\"},{\"id\":\"QZejIJVpkm1yc_RtGpfsE\",\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"id\":\"YFsjukeVOJrAzFLs_tYWh\",\"children\":[{\"type\":\"p\",\"id\":\"AW3E81hmCaxyxax3\",\"children\":[{\"id\":\"gjxEv8W3ALge7YAX\",\"text\":\"Some boys asked for the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"8…………….\"}],\"id\":\"oQa_dUXjmVXkbpvjJ-SA0\"},{\"text\":\" then ran off\"}]}]},{\"type\":\"li\",\"id\":\"PNvkRK13M1WwVJFk\",\"children\":[{\"type\":\"p\",\"id\":\"oH7MWpylscwYPA5X\",\"children\":[{\"id\":\"eJKqguVFuMMYxmQ9\",\"text\":\"One had a T-shirt with a picture of a tiger\"}]}]},{\"type\":\"li\",\"id\":\"i6OhvZq4IYEhkSNs\",\"children\":[{\"type\":\"p\",\"id\":\"l7DibYrxsF7sKGRd\",\"children\":[{\"text\":\"He was about 12, slim build with\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 9…………… \"}],\"id\":\"U3FMcQuU07t1szEkxE3Mv\"},{\"text\":\"hair\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Crime reference number allocated\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"10…………….\"}],\"id\":\"iz28G5jQeOiPoGa6RX7d1\"},{\"text\":\"\"},{\"text\":\"\"}],\"id\":\"b2ZfK-9fn2c45Lh6\"},{\"type\":\"p\",\"id\":\"GQRMteqWlV3Sd1gWQJZtb\",\"children\":[{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "dlkzJy1M9uBAk-CSHJxJs",
+          "key": 0
+         },
+         {
+          "id": "nHujP0OibwHtJirHFA6pa",
+          "key": 1
+         },
+         {
+          "id": "8wUC6mflcfsXyAQc_rgb3",
+          "key": 2
+         },
+         {
+          "id": "uR4h_hOZBZjRyStGrF6Lc",
+          "key": 3
+         },
+         {
+          "id": "x_RktMz-aZrEaWK3kZtct",
+          "key": 4
+         },
+         {
+          "id": "yL-4Hcicwltv6PzEgbobJ",
+          "key": 5
+         },
+         {
+          "id": "W_jEfKhxaebLoBy2cdvQh",
+          "key": 6
+         },
+         {
+          "id": "oQa_dUXjmVXkbpvjJ-SA0",
+          "key": 7
+         },
+         {
+          "id": "U3FMcQuU07t1szEkxE3Mv",
+          "key": 8
+         },
+         {
+          "id": "iz28G5jQeOiPoGa6RX7d1",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below.. Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below.. Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Induction Talk For New Apprentices",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "b7d58a62-55f8-11ef-af9c-cf6e343619f8",
+     "questions": [
+      {
+       "uuid": "b7d58a63-55f8-11ef-af9c-cf6e343619f8",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO pieces of advice for the first week of an apprenticeship does the manager give?",
+       "options": [
+        {
+         "key": 0,
+         "value": "get to know colleagues"
+        },
+        {
+         "key": 1,
+         "value": "learn from any mistakes"
+        },
+        {
+         "key": 2,
+         "value": "ask lots of questions"
+        },
+        {
+         "key": 3,
+         "value": "react positively to feedback"
+        },
+        {
+         "key": 4,
+         "value": "enjoy new challenges"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"I’d like to start with\"},{\"text\":\" some general advice \",\"bold\":true},{\"text\":\"about \"},{\"text\":\"being an apprentice\",\"bold\":true},{\"text\":\".\\\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Sau đó nghe \\\"The important thing is \"},{\"text\":\"to check with someone if you’re not sure what to do\",\"bold\":true},{\"text\":\" – you’ll find your supervisor very approachable and won’t mind explaining things or helping you out.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Điều quan trọng là kiểm tra với ai đó nếu bạn không chắc chắn phải làm gì - bạn sẽ thấy người giám sát của bạn rất dễ gần và sẽ không ngại giải thích mọi thứ hoặc giúp bạn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 67,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "1/67016-90438",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 90,
+            "text": "I’d like to start with some general advice about being an apprentice. Most of you have very little or no experience of working for a big organisation and the first week or so may be quite challenging. There will be a lot of new information to take in but don’t worry too much about trying to remember everything."
+           },
+           {
+            "id": "2/90905-108596",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 108,
+            "text": "The important thing is to check with someone if you’re not sure what to do – you’ll find your supervisor is very approachable and won’t mind explaining things or helping you out. You’re here to learn so make the most of that opportunity."
+           },
+           {
+            "id": "3/109518-124399",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 124,
+            "text": "You’ll be spending time in different departments during your first week so make an effort to talk to as many people as possible about their work – you’ll make some new friends and find out lots of useful information."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó tiếp tục nghe, \\\"You’ll be spending time in different departments during your first week so \"},{\"text\":\"make an effort to talk to as many people as possible about their work\",\"bold\":true},{\"text\":\" – you’ll \"},{\"text\":\"make some new friends \",\"bold\":true},{\"text\":\"and find out lots of useful information.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn sẽ phải dành thời gian ở các phòng ban khác nhau trong tuần đầu tiên của mình, vì vậy hãy cố gắng trò chuyện với nhiều người nhất có thể về công việc của họ - bạn sẽ kết bạn mới và tìm ra nhiều thông tin hữu ích.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 67,
+          "endTimeInSeconds": 124,
+          "transcripts": [
+           {
+            "id": "1/67016-90438",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 90,
+            "text": "I’d like to start with some general advice about being an apprentice. Most of you have very little or no experience of working for a big organisation and the first week or so may be quite challenging. There will be a lot of new information to take in but don’t worry too much about trying to remember everything."
+           },
+           {
+            "id": "2/90905-108596",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 108,
+            "text": "The important thing is to check with someone if you’re not sure what to do – you’ll find your supervisor is very approachable and won’t mind explaining things or helping you out. You’re here to learn so make the most of that opportunity."
+           },
+           {
+            "id": "3/109518-124399",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 124,
+            "text": "You’ll be spending time in different departments during your first week so make an effort to talk to as many people as possible about their work – you’ll make some new friends and find out lots of useful information."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "b7d5b174-55f8-11ef-af9c-cf6e343619f8",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO things does the manager say mentors can help with?",
+       "options": [
+        {
+         "key": 0,
+         "value": "confidence-building"
+        },
+        {
+         "key": 1,
+         "value": "making career plans"
+        },
+        {
+         "key": 2,
+         "value": "completing difficult tasks"
+        },
+        {
+         "key": 3,
+         "value": "making a weekly timetable"
+        },
+        {
+         "key": 4,
+         "value": "reviewing progress"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe keyword \\\"mentor\\\" thì biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\" this doesn’t mean they’ll actually do any of your work for you – instead they’ll be asking you about \"},{\"text\":\"what goals you’ve achieved so far,\",\"bold\":true},{\"text\":\" as well as helping you to\"},{\"text\":\" identify any areas for improvement\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Điều này không có nghĩa là họ sẽ thực sự làm bất kỳ công việc nào cho bạn - thay vào đó họ sẽ hỏi bạn về những mục tiêu bạn đã đạt được cho đến nay, cũng như giúp bạn xác định bất kỳ lĩnh vực nào cần cải thiện. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn E\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 125,
+          "endTimeInSeconds": 163,
+          "transcripts": [
+           {
+            "id": "4/125409-144175",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 144,
+            "text": "As well as having a supervisor, you’ll each be assigned a mentor. This person will be someone who’s recently completed an apprenticeship and you’ll meet with them on a weekly basis. Their role is to provide help and support throughout your apprenticeship."
+           },
+           {
+            "id": "5/144870-163280",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 163,
+            "text": "Of course, this doesn’t mean they’ll actually do any of your work for you – instead they’ll be asking you about what goals you’ve achieved so far, as well as helping you to identify any areas for improvement. You can also discuss your more long-term ambitions with them as well."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp \\\"You can also \"},{\"text\":\"discuss your more long-term ambitions\",\"bold\":true},{\"text\":\" with them as well.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn cũng có thể thảo luận về những tham vọng lâu dài hơn của mình với họ.) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 125,
+          "endTimeInSeconds": 163,
+          "transcripts": [
+           {
+            "id": "4/125409-144175",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 144,
+            "text": "As well as having a supervisor, you’ll each be assigned a mentor. This person will be someone who’s recently completed an apprenticeship and you’ll meet with them on a weekly basis. Their role is to provide help and support throughout your apprenticeship."
+           },
+           {
+            "id": "5/144870-163280",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 163,
+            "text": "Of course, this doesn’t mean they’ll actually do any of your work for you – instead they’ll be asking you about what goals you’ve achieved so far, as well as helping you to identify any areas for improvement. You can also discuss your more long-term ambitions with them as well."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "b7d5b175-55f8-11ef-af9c-cf6e343619f8",
+     "questions": [
+      {
+       "uuid": "b7d5d886-55f8-11ef-af9c-cf6e343619f8",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "It is encouraged."
+        },
+        {
+         "key": 1,
+         "value": "There are some restrictions."
+        },
+        {
+         "key": 2,
+         "value": "It is against the rules."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"fGpJMVHNPD-zAvyXuJOws\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe keyword \\\"online\\\" là biết đang nhắc về \\\"using the internet\\\" nên \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó bạn nghe \\\"As part of your job you’ll be doing some \"},{\"text\":\"research online \",\"bold\":true},{\"text\":\"so obviously \"},{\"text\":\"you’ll have unlimited access for that but please don’t use it for personal use\",\"bold\":true},{\"text\":\" – you’ll have your own phones for that.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn sẽ thực hiện một số nghiên cứu trực tuyến nên bạn sẽ có quyền truy cập không giới hạn cho mục đích đó nhưng không sử dụng nó cho mục đích cá nhân\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> \"},{\"text\":\"Chọn B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 215,
+          "endTimeInSeconds": 235,
+          "transcripts": [
+           {
+            "id": "6/215663-235512",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 235,
+            "text": "Now I just want to run through a few company policies for our apprenticeship scheme with you… Most importantly, the internet. As part of your job you’ll be doing some research online so obviously you’ll have unlimited access for that but please don’t use it for personal use – you’ll have your own phones for that."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"0olsw9wbA889iZxRPYzO4\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"Some of you have already asked me about\"},{\"text\":\" flexible working\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe\"},{\"text\":\" \\\"it will depend on which department you’re in and what your personal circumstances are\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn đáp án \"},{\"text\":\"B (There are some restrictions)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đề bài có đề cập tới \"},{\"text\":\"\\\"please don’t assume you’ll automatically be permitted to do this.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Loại đáp án \"},{\"text\":\"A (It is encouraged)\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 257,
+          "transcripts": [
+           {
+            "id": "7/236213-257258",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 257,
+            "text": "Some of you have already asked me about flexible working. After your probationary three-month period – some of you will be eligible for this – but it will depend on which department you’re in and what your personal circumstances are. So please don’t assume you’ll automatically be permitted to do this."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"H7ELC63PVk93u7QZT0hu5\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"I want to make sure there’s no confusion about our holiday policy\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe\"},{\"text\":\" \\\"we ask that you don’t book any holidays until after your six-month apprenticeship has finished\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Bạn không được đặt trước ngày nghỉ lễ nào cho tới sau kỳ thực tập kéo dài 6 tháng này kết thúc \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu \"},{\"text\":\"C (It is against the rules)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 258,
+          "endTimeInSeconds": 281,
+          "transcripts": [
+           {
+            "id": "8/258315-281551",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 281,
+            "text": "I want to make sure there’s no confusion about our holiday policy. Apart from any statutory public holidays we ask that you don’t book any holidays until after your six-month apprenticeship has finished. Time off should only be taken if you are unwell. Please speak to your supervisor if this is going to be a problem."
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"PoaYS0zgFSzfQJzJw319s\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"opportunities to do overtime during busy periods\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Although you’re not required to do this, it can be a valuable experience – so we advise you to take it up if possible\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Mặc dù bạn không được yêu cầu phải làm, nhưng đó là một kinh nghiệm quý giá nên chúng tôi khuyên bạn nên làm nếu có thể \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là \"},{\"text\":\"A (it is encouraged)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 282,
+          "endTimeInSeconds": 309,
+          "transcripts": [
+           {
+            "id": "9/282175-309185",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 309,
+            "text": "You’ll be expected to work a 40-hour week but there may be opportunities to do overtime during busy periods. Although you’re not required to do this,  it can be a valuable experience – so we advise you to take it up if possible. Obviously, we understand that people do have commitments outside work, so don’t worry if there are times when you are unavailable."
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"2TwEEij5STM-jp8aVdsmq\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"we don't have a formal dresscode\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"Comfortable shoes like trainers are preferable\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"A (it is encouraged)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trong câu trên, \"},{\"text\":\"\\\"are preferable\\\"\",\"bold\":true},{\"text\":\" đã phần nào paraphrase cho cụm \"},{\"text\":\"\\\"it is encouraged\\\"\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 310,
+          "endTimeInSeconds": 328,
+          "transcripts": [
+           {
+            "id": "10/310833-328811",
+            "startTimeInSeconds": 310,
+            "endTimeInSeconds": 328,
+            "text": "As you know, we don’t have a formal dress code here – you may wear casual clothes as long as they’re practical – and the only restriction for shoes we have is on high heels for health and safety reasons. Comfortable shoes like trainers are preferable."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"r4MQUdnsUd1zvqlk4uZT0\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"There’s a heavily subsidised canteen on site where you can get hot meals or salads cheaply\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"we’ve decided to introduce a no packed lunch policy\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chọn câu \"},{\"text\":\"C (It is against the rules)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nếu bạn chưa rõ về nghĩa của câu trên, câu sau sẽ giải thích nó rõ hơn\"},{\"text\":\" \\\"This (policy) is partly to encourage healthy eating at work and partly to stop people from eating at their workstation\\\"\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 357,
+          "transcripts": [
+           {
+            "id": "11/330218-357471",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 357,
+            "text": "There’s a heavily subsidised canteen on site where you can get hot meals or salads cheaply. Snacks and drinks are also provided – so we’ve decided to introduce a no packed lunch policy. This is partly to encourage healthy eating at work and partly to stop people from eating at their workstation, which is unhygienic. OK moving on to …"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Using the internet  "
+        },
+        {
+         "key": 1,
+         "value": "Flexible working  "
+        },
+        {
+         "key": 2,
+         "value": "Booking holidays "
+        },
+        {
+         "key": 3,
+         "value": "Working overtime"
+        },
+        {
+         "key": 4,
+         "value": "Wearing trainers  "
+        },
+        {
+         "key": 5,
+         "value": "Bringing food to work"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What does the manager say about each of the following aspects of the company policy for apprentices?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Cities Built By The Sea",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "727dd6e5-6b75-11ef-bb61-f36def6c6b02",
+     "questions": [
+      {
+       "uuid": "727dd6e6-6b75-11ef-bb61-f36def6c6b02",
+       "type": "SINGLE_ANSWER",
+       "question": "Carla and Rob were surprised to learn that coastal cities",
+       "options": [
+        {
+         "key": 0,
+         "value": "contain nearly half the world’s population."
+        },
+        {
+         "key": 1,
+         "value": "include most of the world’s largest cities."
+        },
+        {
+         "key": 2,
+         "value": "are growing twice as fast as other cities."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"I’m glad we chose quite a specific topic – cities built next to the sea\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn nghe \"},{\"text\":\"\\\"And cities are growing so quickly – I mean, we know that more than half the world’s population lives in cities now.\\\"\",\"bold\":true},{\"text\":\" thì có thể chọn câu \"},{\"text\":\"A(contain nearly half the world’s population)\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng ở phía dưới \"},{\"text\":\"Rob\",\"bold\":true},{\"text\":\" đã nói rằng số liệu \"},{\"text\":\"\\\"half the world's population\\\"\",\"bold\":true},{\"text\":\" là tất cả các thành phố.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"most of the biggest cities are actually built by the sea\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"B (include most of the world’s largest cities)\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 86,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "1/86440-96169",
+            "startTimeInSeconds": 86,
+            "endTimeInSeconds": 96,
+            "text": " OK Rob. I’m glad we chose quite a specific topic – cities built next to the sea. It made it much easier to find relevant information.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "2/96350-103969",
+            "startTimeInSeconds": 96,
+            "endTimeInSeconds": 103,
+            "text": " Yeah. And cities are growing so quickly – I mean, we know that more than half the world’s population lives in cities now.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "3/104149-114021",
+            "startTimeInSeconds": 104,
+            "endTimeInSeconds": 114,
+            "text": " Yeah, though that’s all cities, not just ones on the coast. But most of the biggest cities are actually built by the sea. I’d not realised that before.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "727dd6e7-6b75-11ef-bb61-f36def6c6b02",
+       "type": "SINGLE_ANSWER",
+       "question": "According to Rob, building coastal cities near to rivers",
+       "options": [
+        {
+         "key": 0,
+         "value": "may bring pollution to the cities."
+        },
+        {
+         "key": 1,
+         "value": "may reduce the land available for agriculture."
+        },
+        {
+         "key": 2,
+         "value": "may mean the countryside is spoiled by industry."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"a lot of them are built at places where rivers come out into the sea\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn nghe \"},{\"text\":\"\\\"Well, as the city expands, agriculture and industry tend to spread further inland along the rivers, and so agriculture moves even further inland up the river.\\\"\",\"bold\":true},{\"text\":\" thì có thể chọn câu \"},{\"text\":\"B (may reduce the land available for agriculture)\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng chính \"},{\"text\":\"Rob\",\"bold\":true},{\"text\":\" đã nói đây chưa phải là vấn đề cần giải quyết.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"it means more and more pollutants are discharged into the rivers\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"A (may bring pollution to the cities). \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 114,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "4/114760-122211",
+            "startTimeInSeconds": 114,
+            "endTimeInSeconds": 122,
+            "text": " Nor me. And what’s more, a lot of them are built at places where rivers come out into the sea. But apparently this can be a problem.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "5/122335-123200",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 123,
+            "text": " Why?",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "6/123376-140231",
+            "startTimeInSeconds": 123,
+            "endTimeInSeconds": 140,
+            "text": " Well, as the city expands, agriculture and industry tend to spread further inland along the rivers, and so agriculture moves even further inland up the river. That’s not necessarily a problem, except it means more and more pollutants are discharged into the rivers.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "727dd6e8-6b75-11ef-bb61-f36def6c6b02",
+       "type": "SINGLE_ANSWER",
+       "question": "What mistake was made when building water drainage channels in Miami in the 1950s?",
+       "options": [
+        {
+         "key": 0,
+         "value": "There were not enough for them."
+        },
+        {
+         "key": 1,
+         "value": "They were made of unsuitable materials."
+        },
+        {
+         "key": 2,
+         "value": "They did not allow for the effects of climate change."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"Well, apparently back in the 1950s they build channels to drain away the water in case of flooding.\\\"\",\"bold\":true},{\"text\":\" là \"},{\"text\":\"biết đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe\"},{\"text\":\" \\\"But what they didn’t take into account was global warming.\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu \"},{\"text\":\"C (They did not allow for the effects of climate change) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 150,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "10/150040-156128",
+            "startTimeInSeconds": 150,
+            "endTimeInSeconds": 156,
+            "text": " Well, apparently back in the 1950s they build channels to drain away the water in case of flooding.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "11/156294-157183",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 157,
+            "text": " Sounds sensible.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "12/157361-177296",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 177,
+            "text": " Yeah, they spent quite a lot of money on them. But what they didn’t take into account was global warming. So they built the drainage channels too close to sea level, and now sea levels are rising, they’re more or less useless. If there’s a lot of rain, the water can’t run away, there’s nowhere for it to go. The whole design was faulty.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "727dd6e9-6b75-11ef-bb61-f36def6c6b02",
+       "type": "SINGLE_ANSWER",
+       "question": "What do Rob and Carla think that the authorities in Miami should do immediately?",
+       "options": [
+        {
+         "key": 0,
+         "value": "take measures to restore ecosystems"
+        },
+        {
+         "key": 1,
+         "value": "pay for a new flood prevention system"
+        },
+        {
+         "key": 2,
+         "value": "stop disposing of waste materials into the ocean"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\" what are the authorities doing about it now\\\" \",\"bold\":true},{\"text\":\"là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\" they just need to find the money for something to replace the \"},{\"text\":\"drainage channels\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu\"},{\"text\":\" B (pay for a new flood prevention system)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn có thể nghe \"},{\"text\":\"\\\"I don’t know. I did read that they’re aiming to stop disposing of waste into the ocean over the next ten years.\\\"\",\"bold\":true},{\"text\":\" thì chọn đáp án \"},{\"text\":\"C(stop disposing of waste materials into the ocean)\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng ở đây đề bài hỏi về mốc thời gian \"},{\"text\":\"\\\"immediately\\\"\",\"bold\":true},{\"text\":\"(ngay lập tức) còn câu trên là \"},{\"text\":\"trong vòng 10 năm tới\",\"bold\":true},{\"text\":\". \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 177,
+          "endTimeInSeconds": 202,
+          "transcripts": [
+           {
+            "id": "13/177458-180637",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 180,
+            "text": " So what are the authorities doing about it now?",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "14/180871-187844",
+            "startTimeInSeconds": 180,
+            "endTimeInSeconds": 187,
+            "text": " I don’t know. I did read that they’re aiming to stop disposing of waste into the ocean over the next ten years.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "15/188006-190857",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 190,
+            "text": " But that won’t help with flood prevention now, will it?",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "16/191028-202396",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 202,
+            "text": " No. Really they just need to find the money for something to replace the drainage channels, in order to protect against flooding now. But in the long term they need to consider the whole ecosystem.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "727dd6ea-6b75-11ef-bb61-f36def6c6b02",
+       "type": "SINGLE_ANSWER",
+       "question": "What do they agree should be the priority for international action?",
+       "options": [
+        {
+         "key": 0,
+         "value": "greater coordination of activities"
+        },
+        {
+         "key": 1,
+         "value": "more sharing of information"
+        },
+        {
+         "key": 2,
+         "value": "agreement on shared policies"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\" they’ve got to start acting together at an international level instead of just doing their own thing\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"they should be able to work together to some extent\\\" \",\"bold\":true},{\"text\":\"(họ nên làm việc với nhau ở một mức độ nào đó) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"A (greater coordination of activities = tăng cường sự cộng tác trong các hoạt động) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 202,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "17/202861-215655",
+            "startTimeInSeconds": 202,
+            "endTimeInSeconds": 215,
+            "text": " Right. Really, though, coastal cities can’t deal with their problems on their own, can they? I mean, they’ve got to start acting together at an international level instead of just doing their own thing.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "18/215805-234171",
+            "startTimeInSeconds": 215,
+            "endTimeInSeconds": 234,
+            "text": " Absolutely. The thing is, everyone knows what the problems are and environmentalists have a pretty good idea of what we should be doing about them, so they should be able to work together to some extent. But it’s going to be a long time before countries come to a decision on what principles they’re prepared to abide by.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "727dd6eb-6b75-11ef-bb61-f36def6c6b02",
+     "questions": [
+      {
+       "uuid": "727dd6ec-6b75-11ef-bb61-f36def6c6b02",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "Use visuals"
+        },
+        {
+         "key": 1,
+         "value": "Keep it short"
+        },
+        {
+         "key": 2,
+         "value": "Involve other students"
+        },
+        {
+         "key": 3,
+         "value": "Check the information is accurate"
+        },
+        {
+         "key": 4,
+         "value": "Provide a handout"
+        },
+        {
+         "key": 5,
+         "value": "Focus on one example"
+        },
+        {
+         "key": 6,
+         "value": "Do online research"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"SX5fDs2vC1XIN3bAziAGS\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"we’ll begin with some general historical background\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"we don’t want to spend too long on that\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu \"},{\"text\":\"B (keep it short) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 283,
+          "endTimeInSeconds": 299,
+          "transcripts": [
+           {
+            "id": "21/283958-299558",
+            "startTimeInSeconds": 283,
+            "endTimeInSeconds": 299,
+            "text": " OK. So I suppose we’ll begin with some general historical background about why coastal cities were established. But we don’t want to spend too long on that, the other students will already know a bit about it. It’s all to do with communications and so on.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"8NZovSN5D0MDfkkSgFZHV\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"We should mention some geographical factors\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"some slides everyone can see\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu \"},{\"text\":\"A (use visuals)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhiều bạn khi nghe \"},{\"text\":\"\\\"We could have some maps of different cities with these features marked.\\\"\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"\\\"On a handout you mean\\\"\",\"bold\":true},{\"text\":\" thì sẽ chọn câu \"},{\"text\":\"E (provide a handout) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng \"},{\"text\":\"Rob\",\"bold\":true},{\"text\":\" đã đề xuất sử dụng \"},{\"text\":\"\\\"slides/visuals\\\"\",\"bold\":true},{\"text\":\" sẽ tốt hơn và \"},{\"text\":\"Carla\",\"bold\":true},{\"text\":\" đồng ý với điều đó.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 299,
+          "endTimeInSeconds": 319,
+          "transcripts": [
+           {
+            "id": "22/299727-313861",
+            "startTimeInSeconds": 299,
+            "endTimeInSeconds": 313,
+            "text": " Yes. We should mention some geographical factors, things like wetlands and river estuaries and coastal erosion and so on. We could have some maps of different cities with these features marked.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "23/314027-317697",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 317,
+            "text": " On a handout you mean? Or some slides everyone can see?",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "24/317858-319285",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 319,
+            "text": " Yeah, that’d be better.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"BzSF5wntZW9wz8C_tjMjU\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"It’d be good to go into past mistakes in a bit more detail\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"We could use that as the basis for that part of the talk\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án ở đây là câu \"},{\"text\":\"F (focus on one example) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trong câu này dù không nói thẳng là sử dụng 1 ví dụ nhưng câu trên Rob đã đưa ra chỉ 1 ví dụ (case study) về past mistakes và ở câu dưới Carla cũng đồng ý lấy đó làm trọng tâm cho bài. \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 329,
+          "endTimeInSeconds": 338,
+          "transcripts": [
+           {
+            "id": "26/329024-338986",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 338,
+            "text": " Yes, We could use that as the basis for that part of the talk. I don’t think the other students will have read it, but they’ll remember hearing about the flooding at the time.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"Maybe something on future risks\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe\"},{\"text\":\" \\\"We’ll need to look at some websites.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là câu \"},{\"text\":\"G (do online research) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 349,
+          "endTimeInSeconds": 369,
+          "transcripts": [
+           {
+            "id": "29/349992-359455",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 359,
+            "text": " OK. What else do we need to talk about? Maybe something on future risks, looking more at the long term, if populations continue to grow.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "30/359547-365551",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 365,
+            "text": " Yeah. We’ll need to do a bit of work there, I haven’t got much information, have you?",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "31/365709-369554",
+            "startTimeInSeconds": 365,
+            "endTimeInSeconds": 369,
+            "text": " No. We’ll need to look at some websites. Shouldn’t take too long.",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"m3LWKiBqgNzYQ8FgcMzZo\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"we should end by talking about international implications.\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"we could ask people in the audience\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là \"},{\"text\":\"C (involve other students)\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu trên không nói rõ ra là students nhưng paraphrase bằng từ audience.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Vì đây là một bài thuyết trình và audience chính là students.\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 369,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "32/369720-381334",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 381,
+            "text": " OK. And I think we should end by talking about international implications. Maybe we could ask people in the audience. We’ve got people from quite a lot of different places.",
+            "character": {
+             "id": "9ET4KAR-XVrPB_AgGo6bm",
+             "name": "CARLA"
+            }
+           },
+           {
+            "id": "33/381466-385918",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 385,
+            "text": " That’d be interesting, if we have time, yes. So now shall we …",
+            "character": {
+             "id": "P2YsIiL7DL_rLTFeboWLl",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 5,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Historical background "
+        },
+        {
+         "key": 1,
+         "value": "Geographical factors "
+        },
+        {
+         "key": 2,
+         "value": "Past mistakes    "
+        },
+        {
+         "key": 3,
+         "value": "Future risks "
+        },
+        {
+         "key": 4,
+         "value": "International implications  "
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What decision do the students make about each of the following parts of their presentation?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Marine Renewable Energy (Ocean Energy)",
+   "duration": 9,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "07a84307-55f9-11ef-bf91-b79eb8cb7973",
+     "questions": [
+      {
+       "uuid": "07a84308-55f9-11ef-bf91-b79eb8cb7973",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ sự gia tăng nào đó là nguyên nhân của việc cần nhiều năng lượng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"Producing \"},{\"text\":\"enough energy \",\"bold\":true},{\"text\":\"to meet our needs has become a serious problem.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Sản xuất đủ năng lượng để đáp ứng nhu cầu của chúng ta đã trở thành một vấn đề nghiêm trọng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Khả năng là không sản xuất đủ nên cần sản xuất thêm, có thể \"},{\"text\":\"sắp có đáp án cho câu này\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Sau đó bạn nghe \\\"Demand is rising rapidly, \"},{\"text\":\"because of the world’s increasing population and expanding industry\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhu cầu đang tăng lên nhanh chóng do dân số thế giới ngày càng tăng và ngành công nghiệp mở rộng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"industry\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 77,
+          "endTimeInSeconds": 98,
+          "transcripts": [
+           {
+            "id": "0/77604-98837",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 98,
+            "text": "Producing enough energy to meet our needs has become a serious problem. Demand is rising rapidly, because of the world’s increasing population and expanding industry. Burning fossil fuels, like gas, coal and oil, seriously damages the environment and they’ll eventually run out."
+           }
+          ]
+         },
+         "value": "industry",
+         "blankId": "V7bEKoPgXgZi7GfyQRdgO"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj\",\"bold\":true},{\"text\":\" chỉ tính chất của nguồn năng lượng sóng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi bạn nghe đến \\\"wave energy\\\" là biết đang nói về đúng phần của câu hỏi.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"This form of energy has plenty of potential, as \"},{\"text\":\"the source is constant,\",\"bold\":true},{\"text\":\" and there’s no danger of waves coming to a standstill.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Dạng năng lượng này có rất nhiều tiềm năng, vì nguồn là cố định và không có nguy cơ hết năng lượng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"constant\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 139,
+          "endTimeInSeconds": 167,
+          "transcripts": [
+           {
+            "id": "3/139389-167646",
+            "startTimeInSeconds": 139,
+            "endTimeInSeconds": 167,
+            "text": "First, wave energy. Numerous devices have been invented to harvest wave energy, with names such as Wave Dragon, the Penguin and Mighty Whale, and research is going on to try and come up with a really efficient method. This form of energy has plenty of potential, as the source is constant, and there’s no danger of waves coming to a standstill."
+           }
+          ]
+         },
+         "value": "constant",
+         "blankId": "oXBuxaiO_38SYs7p69WAX"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ việc sóng có thể di chuyển theo bất kì cái gì đó là 1 trong số nhiều vấn đề của năng lượng sóng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe được \\\"But the problem with ocean waves is that...\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó bạn nghe \\\"they’re erratic, with \"},{\"text\":\"the wind making them travel in every direction\",\"bold\":true},{\"text\":\".\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Chúng thất thường, khi có gió sẽ khiến chúng di chuyển theo mọi hướng\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"direction\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 168,
+          "endTimeInSeconds": 186,
+          "transcripts": [
+           {
+            "id": "4/168455-186189",
+            "startTimeInSeconds": 168,
+            "endTimeInSeconds": 186,
+            "text": "Electricity can be generated using onshore systems, using a reservoir, or offshore systems. But the problem with ocean waves is that they’re erratic, with the wind making them travel in every direction."
+           }
+          ]
+         },
+         "value": "direction",
+         "blankId": "ysPRTjhilH76rKqj6nELG"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"noun \",\"bold\":true},{\"text\":\"chỉ việc di chuyển của cát trên cái gì đó của biển sẽ bị ảnh hưởng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe \\\"Another drawback is that \\\" là biết\"},{\"text\":\" đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"sand and other sediment on the ocean floor \",\"bold\":true},{\"text\":\"might be stopped from flowing normally, which can lead to environmental problems.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Cát và các trầm tích khác dưới đáy đại dương có thể ngừng chảy bình thường, điều này có thể dẫn đến các vấn đề môi trường\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"floor\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 187,
+          "endTimeInSeconds": 211,
+          "transcripts": [
+           {
+            "id": "5/187020-211198",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 211,
+            "text": "This adds to the difficulty of creating efficient technology: ideally all the waves would travel smoothly and regularly along the same straight line. Another drawback is that sand and other sediment on the ocean floor might be stopped from flowing normally, which can lead to environmental problems."
+           }
+          ]
+         },
+         "value": "floor",
+         "blankId": "1E63Q_SrfSLDWwSn5_xwn"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Xác định từ cần điền là \"},{\"text\":\"adj\",\"bold\":true},{\"text\":\" chỉ 1 lợi thế nào đó mà năng lượng thủy triều làm tốt hơn so với năng lượng sóng.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Khi bạn nghe thấy \\\"\"},{\"text\":\"tidal energy\",\"bold\":true},{\"text\":\"\\\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \\\"\"},{\"text\":\"One major advantage of using the tide, rather than waves, as a source of energy is that it’s predictable\",\"bold\":true},{\"text\":\": we know the exact time of high and low tides for years to come.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Một lợi thế chính của việc sử dụng thủy triều, thay vì sóng, làm nguồn năng lượng là nó có thể dự đoán được: chúng tôi biết chính xác thời gian thủy triều cao và thấp trong nhiều năm tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \\\"\"},{\"text\":\"predictable\",\"bold\":true},{\"text\":\"\\\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 212,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "6/212662-236001",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 236,
+            "text": "The second category of marine energy that I’ll mention is tidal energy. One major advantage of using the tide, rather than waves, as a source of energy is that it’s predictable: we know the exact time of high and low tides for years to come."
+           }
+          ]
+         },
+         "value": "predictable",
+         "blankId": "ZlTHGOF1myFTsS6MhG7Ku"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền vào câu này là một \"},{\"text\":\"danh từ, một địa điểm ở Swansea\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe tới thông tin \"},{\"text\":\"\\\"a tidal lagoon on the coast of Wales\\\"\",\"bold\":true},{\"text\":\" là biết \"},{\"text\":\"đáp án chuẩn bị vào\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"This will be an area of water within a bay at Swansea\\\"\",\"bold\":true},{\"text\":\" (đây sẽ là một khu vực nước ở trong vụng vịnh tại Swansea)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án cần điền là \"},{\"text\":\"\\\"bay\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn có thể điền\"},{\"text\":\" \\\"coast\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng \"},{\"text\":\"\\\"coast\\\"\",\"bold\":true},{\"text\":\"(đường bờ biển) ở đây mang nghĩa chung chung và \"},{\"text\":\"thuộc xứ Wales\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> vị trí địa lý rộng hơn \"},{\"text\":\"thành phố \\\"Swansea\\\"\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 296,
+          "transcripts": [
+           {
+            "id": "8/263932-296012",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 296,
+            "text": "One current plan is to create a tidal lagoon on the coast of Wales. This will be an area of water within a bay at Swansea, sheltered by a U-shaped breakwater, or dam, built out from the coast. The breakwater will contain sixteen hydro turbines, and as the tide rises, water rushes through the breakwater, activating the turbines, which turn a generator to produce electricity."
+           }
+          ]
+         },
+         "value": "bay",
+         "blankId": "8DL_52U7D3zuciPFkypyt"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền trong câu là một \"},{\"text\":\"danh từ, liên quan tới một công cụ mà nước được xả đi qua để có thể xả được nước (có tác dụng xả nước)\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"in order to release the stored water\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe nguyên cả câu \"},{\"text\":\"\\\"Then in order to release the stored water, gates in the breakwater are opened\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Để xả nước đã được trữ, các cửa xả ở con đê (con đập) sẽ được mở) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền là \"},{\"text\":\"\\\"gates\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Nhiều bạn sau khi nghe câu \"},{\"text\":\"\\\"It pour powerfully out of the lagoon\\\"\",\"bold\":true},{\"text\":\" thì chọn đáp án là \"},{\"text\":\"\\\"lagoon\\\"(đầm, phá)\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Nhưng đáp án này không đúng vì \"},{\"text\":\"\\\"lagoon\\\" là một cái hồ nơi nước sẽ chảy ra khỏi đó, chứ không phải là công cụ để làm nước thoát ra\",\"bold\":true},{\"text\":\".\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 297,
+          "endTimeInSeconds": 350,
+          "transcripts": [
+           {
+            "id": "9/297022-318369",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 318,
+            "text": "Then, for three hours as the tide goes out, the water is held back within the breakwater, increasing the difference in water level, until it’s several metres higher within the lagoon than in the open sea. Then, in order to release the stored water, gates in the breakwater are opened."
+           },
+           {
+            "id": "10/318911-350380",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 350,
+            "text": "It pours powerfully out of the lagoon, driving the turbines in the breakwater in the opposite direction and again generating thousands of megawatts of electricity. As there are two high tides a day, this lagoon scheme would generate electricity four times a day, every day, for a total of around 14 hours in every 24 – and enough electricity for over 150,000 homes."
+           }
+          ]
+         },
+         "value": "gates",
+         "blankId": "tcYyeJ-zEX9aamaRQdc9O"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền là một \"},{\"text\":\"danh từ, liên quan tới một thứ cần thiết để làm hệ thống này hoạt động\",\"bold\":true},{\"text\":\".\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"it doesn’t depend on the weather\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"the turbines are operated without the need for fuel\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Tua bin được hoạt động mà không cần sử dụng tới xăng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Từ cần điền ở đây là xăng \"},{\"text\":\"\\\"fuel\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 352,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "11/352223-382279",
+            "startTimeInSeconds": 352,
+            "endTimeInSeconds": 382,
+            "text": "This system has quite a lot in its favour: unlike solar and wind energy it doesn’t depend on the weather; the turbines are operated without the need for fuel, so it doesn’t create any greenhouse gas emissions; and very little maintenance is needed. It’s estimated that electricity generated in this way will be relatively cheap, and that manufacturing the components would create than 2,000 jobs, a big boost to the local economy."
+           }
+          ]
+         },
+         "value": "fuel",
+         "blankId": "4guzUPrBKySqb8EZgLiF3"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ loại cần điền là một \"},{\"text\":\"danh từ số nhiều liên quan tới lợi ích của hệ thống này\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"- \"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"manufacturing the components would create than 2,000 jobs, a big boost to the local economy\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Việc sản xuất các thành phần sẽ tạo ra hơn 2000 việc làm, đây là một cú hích lớn cho nền kinh tế địa phương \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là \"},{\"text\":\"\\\"jobs\\\"\",\"bold\":true},{\"text\":\". \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 352,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "11/352223-382279",
+            "startTimeInSeconds": 352,
+            "endTimeInSeconds": 382,
+            "text": "This system has quite a lot in its favour: unlike solar and wind energy it doesn’t depend on the weather; the turbines are operated without the need for fuel, so it doesn’t create any greenhouse gas emissions; and very little maintenance is needed. It’s estimated that electricity generated in this way will be relatively cheap, and that manufacturing the components would create than 2,000 jobs, a big boost to the local economy."
+           }
+          ]
+         },
+         "value": "jobs",
+         "blankId": "vfqDXtAhfGIw-V6hJw_Z3"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Từ cần điền là một \"},{\"text\":\"danh từ về thứ bị ảnh hưởng tiêu cực bởi việc xây dựng này\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Danh từ này đi song song với \\\"building up silt\\\" khi được liệt kê.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau khi nghe \"},{\"text\":\"\\\"harm both fish and birds\\\"\",\"bold\":true},{\"text\":\" là biết đáp án chuẩn bị vào.\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"-\"}]},{\"text\":\" Sau đó nghe \"},{\"text\":\"\\\"for example by disturbing migration patterns, and causing a build-up of silt\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Ví dụ như làm xáo trộn mẫu hình di cư và gây ra sự tồn đọng của bùn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\">> Đáp án là \"},{\"text\":\"\\\"migration\\\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 383,
+          "endTimeInSeconds": 397,
+          "transcripts": [
+           {
+            "id": "12/383406-397495",
+            "startTimeInSeconds": 383,
+            "endTimeInSeconds": 397,
+            "text": "On the other hand, there are fears that lagoons might harm both fish and birds, for example by disturbing migration patterns, and causing a build-up of silt, affecting local ecosystems."
+           }
+          ]
+         },
+         "value": "migration",
+         "blankId": "b89EBKEHxvgEcKXdmOe8p"
+        }
+       ],
+       "heading": "Marine renewable energy (ocean energy)",
+       "paragraph": {
+        "id": "0CCWML_dVCvKmDp9ZShIx",
+        "editorValue": "[{\"children\":[{\"text\":\"Introduction\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"More energy required because of growth in population and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31…………………..\"}],\"id\":\"V7bEKoPgXgZi7GfyQRdgO\"},{\"text\":\".\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"What’s needed:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"renewable energy sources\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"methods that won’t create pollution\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Wave energy\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Advantage: waves provide a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 32………………… \"}],\"id\":\"oXBuxaiO_38SYs7p69WAX\"},{\"text\":\" source of renewable energy.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Electricity can be generated using offshore or onshore systems\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Onshore systems may use a reservoir\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Problems:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"waves can move in any\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 33…………………..\"}],\"id\":\"ysPRTjhilH76rKqj6nELG\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"movement of sand, etc. on the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 34…………………… \"}],\"id\":\"1E63Q_SrfSLDWwSn5_xwn\"},{\"text\":\" of the ocean may be affected.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Tidal energy\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Tides are more\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 35………………….\"}],\"id\":\"ZlTHGOF1myFTsS6MhG7Ku\"},{\"text\":\" than waves\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Planned tidal lagoon in Wales:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"will be created in a\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 36………………….\"}],\"id\":\"8DL_52U7D3zuciPFkypyt\"},{\"text\":\" at Swansea\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"breakwater (dam) containing 16 turbines\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"rising tide forces water through turbines, generating electricity\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"stored water is released through \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"37…………………..\"}],\"id\":\"tcYyeJ-zEX9aamaRQdc9O\"},{\"text\":\", driving the turbines in the reverse direction\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Advantages:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"not dependent on weather\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"no \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38…………………… \"}],\"id\":\"4guzUPrBKySqb8EZgLiF3\"},{\"text\":\" is required to make it work\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"likely to create a number of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39…………………..\"}],\"id\":\"vfqDXtAhfGIw-V6hJw_Z3\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Problem:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"may ham fish and birds, e.g. by affecting \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"40………………….\"}],\"id\":\"b89EBKEHxvgEcKXdmOe8p\"},{\"text\":\" and building up silt\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Ocean thermal energy conversion\",\"bold\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Uses a difference in temperature between the surface and lower levels\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Water brought to the surface in a pipe\"}]}]",
+        "blanks": [
+         {
+          "id": "V7bEKoPgXgZi7GfyQRdgO",
+          "key": 0
+         },
+         {
+          "id": "oXBuxaiO_38SYs7p69WAX",
+          "key": 1
+         },
+         {
+          "id": "ysPRTjhilH76rKqj6nELG",
+          "key": 2
+         },
+         {
+          "id": "1E63Q_SrfSLDWwSn5_xwn",
+          "key": 3
+         },
+         {
+          "id": "ZlTHGOF1myFTsS6MhG7Ku",
+          "key": 4
+         },
+         {
+          "id": "8DL_52U7D3zuciPFkypyt",
+          "key": 5
+         },
+         {
+          "id": "tcYyeJ-zEX9aamaRQdc9O",
+          "key": 6
+         },
+         {
+          "id": "4guzUPrBKySqb8EZgLiF3",
+          "key": 7
+         },
+         {
+          "id": "vfqDXtAhfGIw-V6hJw_Z3",
+          "key": 8
+         },
+         {
+          "id": "b89EBKEHxvgEcKXdmOe8p",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:34:58Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

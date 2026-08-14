@@ -1,0 +1,1442 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>AWS SAA-C03 In-Scope Service Matching Games</title>
+<link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='14' fill='%237c3aed'/%3E%3Cpath d='M15 18h14v10a6 6 0 1 0 0 8v10H19a4 4 0 0 1-4-4zm34 0v10H39a6 6 0 1 0 0 8h10v10H35V36a6 6 0 1 1 0-8V18z' fill='white'/%3E%3C/svg%3E">
+  <style>
+    :root {
+      --bg: #0f172a;
+      --panel: #111827;
+      --panel2: #1f2937;
+      --text: #e5e7eb;
+      --muted: #9ca3af;
+      --line: #374151;
+      --accent: #f59e0b;
+      --accent2: #38bdf8;
+      --good: #22c55e;
+      --bad: #ef4444;
+      --warn: #f97316;
+      --chip: #0b1220;
+      --focus: #fde68a;
+      --white: #ffffff;
+      --shadow: 0 10px 30px rgba(0,0,0,0.35);
+    }
+    * { box-sizing: border-box; }
+    html { scroll-behavior: smooth; }
+    body {
+      margin: 0;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif;
+      background: linear-gradient(180deg, #0b1020 0%, #111827 35%, #0f172a 100%);
+      color: var(--text);
+      line-height: 1.45;
+    }
+    header {
+      background: rgba(15,23,42,0.92);
+      border-bottom: 1px solid var(--line);
+    }
+    .wrap { max-width: 1280px; margin: 0 auto; padding: 18px; }
+    h1 { margin: 0 0 8px; font-size: clamp(24px, 4vw, 42px); letter-spacing: -0.03em; }
+    h2 { margin-top: 0; font-size: 26px; }
+    h3 { margin: 14px 0 8px; }
+    .subtitle { color: var(--muted); max-width: 980px; }
+    nav {
+      display: flex; flex-wrap: wrap; gap: 8px; margin-top: 14px;
+    }
+    nav a, button, select, input {
+      font: inherit;
+    }
+    nav a, .btn {
+      border: 1px solid var(--line);
+      background: var(--panel2);
+      color: var(--text);
+      text-decoration: none;
+      border-radius: 999px;
+      padding: 9px 12px;
+      cursor: pointer;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+    nav a:hover, .btn:hover { border-color: var(--accent); transform: translateY(-1px); }
+    nav a.active { background: var(--accent); color: #111827; border-color: var(--accent); font-weight: 700; }
+    .btn.primary { background: var(--accent); color: #111827; border-color: var(--accent); font-weight: 700; }
+    .btn.danger { border-color: rgba(239,68,68,0.7); color: #fecaca; }
+    .btn.small { padding: 6px 9px; font-size: 13px; }
+    main { max-width: 1280px; margin: 0 auto; padding: 18px; }
+    section {
+      background: rgba(17,24,39,0.9);
+      border: 1px solid var(--line);
+      border-radius: 18px;
+      padding: 18px;
+      margin: 18px 0;
+      box-shadow: var(--shadow);
+    }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 14px; }
+    .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+    @media (max-width: 860px) { .grid2 { grid-template-columns: 1fr; } }
+    .card {
+      background: rgba(31,41,55,0.85);
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 14px;
+    }
+    .statrow { display: flex; flex-wrap: wrap; gap: 10px; }
+    .stat {
+      background: #0b1220;
+      border: 1px solid var(--line);
+      border-radius: 14px;
+      padding: 10px 12px;
+      min-width: 145px;
+    }
+    .stat b { display: block; font-size: 22px; color: var(--accent2); }
+    .muted { color: var(--muted); }
+    .pill {
+      display: inline-flex; align-items: center;
+      border-radius: 999px; border: 1px solid var(--line);
+      background: #0b1220; color: var(--muted);
+      padding: 4px 8px; font-size: 12px; margin: 2px 4px 2px 0;
+    }
+    .toolbar { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; margin: 12px 0; }
+    input, select {
+      background: #0b1220;
+      color: var(--text);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 9px 10px;
+      min-height: 40px;
+    }
+    label { color: var(--muted); font-size: 13px; display: inline-flex; flex-direction: column; gap: 4px; }
+    .dragArea {
+      min-height: 80px;
+      border: 1px dashed var(--line);
+      background: rgba(15,23,42,0.6);
+      border-radius: 14px;
+      padding: 10px;
+    }
+    .draggable {
+      user-select: none;
+      cursor: grab;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: var(--chip);
+      color: var(--text);
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 9px 10px;
+      margin: 5px;
+      max-width: 100%;
+    }
+    .draggable:active { cursor: grabbing; }
+    .dropzone {
+      min-height: 54px;
+      border: 1px dashed var(--line);
+      border-radius: 12px;
+      padding: 8px;
+      background: rgba(15,23,42,0.8);
+      transition: 0.15s;
+    }
+    .dropzone.over { border-color: var(--focus); box-shadow: 0 0 0 2px rgba(253,230,138,0.25); }
+    .matchRow {
+      display: grid;
+      grid-template-columns: minmax(180px, 0.7fr) 1fr;
+      gap: 10px;
+      align-items: stretch;
+      padding: 8px 0;
+      border-bottom: 1px solid rgba(55,65,81,0.5);
+    }
+    @media (max-width: 720px) {
+      .matchRow { grid-template-columns: 1fr; }
+      .draggable { width: 100%; }
+    }
+    .promptBox {
+      background: #0b1220;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 10px;
+      font-weight: 700;
+      display: flex;
+      align-items: flex-start;
+      gap: 8px;
+    }
+    .feedback {
+      margin-top: 10px;
+      padding: 12px;
+      border-radius: 12px;
+      border: 1px solid var(--line);
+      background: #0b1220;
+    }
+    .matchedCard { margin-top: 14px; }
+    .matchedList { display: flex; flex-direction: column; gap: 6px; }
+    .matchedRow {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 8px;
+      padding: 7px 10px;
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      background: #0b1220;
+      font-size: 14px;
+    }
+    .matchedRow .matchedArrow { color: var(--muted); flex: none; }
+    .matchedRow .matchedTo { flex: 1; min-width: 0; color: var(--text); }
+    .matchedRow .btn.small { margin-left: auto; }
+    .feedback.good { border-color: rgba(34,197,94,0.8); }
+    .feedback.bad { border-color: rgba(239,68,68,0.8); }
+    .option {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 10px;
+      width: 100%;
+      text-align: left;
+      padding: 10px 12px;
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      margin: 8px 0;
+      background: #0b1220;
+      color: var(--text);
+      cursor: pointer;
+    }
+    .option .optLabel { flex: 1; min-width: 0; }
+    .option:hover { border-color: var(--accent2); }
+    .option.correct { border-color: var(--good); background: rgba(34,197,94,0.12); }
+    .option.wrong { border-color: var(--bad); background: rgba(239,68,68,0.12); }
+    .starBtn {
+      flex: none;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      width: 24px;
+      height: 24px;
+      min-height: 24px;
+      padding: 0;
+      line-height: 1;
+      font-size: 14px;
+      border-radius: 8px;
+      border: 1px solid var(--line);
+      background: #0b1220;
+      color: var(--muted);
+      cursor: pointer;
+    }
+    .starBtn:hover { border-color: var(--accent); color: var(--accent); }
+    .starBtn.active { border-color: var(--accent); background: rgba(245,158,11,0.18); color: var(--accent); }
+    .pill .starBtn { width: 18px; height: 18px; min-height: 18px; font-size: 11px; border-radius: 6px; margin-right: 4px; }
+    .explainList { padding-left: 18px; }
+    .explainList li { margin: 7px 0; }
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      font-size: 14px;
+    }
+    th, td {
+      border-bottom: 1px solid var(--line);
+      padding: 9px;
+      vertical-align: top;
+    }
+    th {
+      position: sticky;
+      top: 0;
+      background: #111827;
+      color: #fef3c7;
+      text-align: left;
+      cursor: pointer;
+      z-index: 3;
+    }
+    td { color: #e5e7eb; }
+    .tableWrap { overflow: auto; max-height: 620px; border: 1px solid var(--line); border-radius: 14px; }
+    /* The wrapper still needs a definite (bounded) width so table{width:100%}
+       below can resolve normally and cell text wraps instead of ballooning —
+       shrink-wrapping this box to its content breaks that. overflow:auto
+       keeps its own scrollbar, but since the box's height is unbounded (all
+       rows render, no vertical clipping), that scrollbar sits thousands of
+       pixels below the viewport — reachable in theory, unusable in practice.
+       The .hScrollBar buttons below (sticky) are the actual, reachable way
+       to scroll right; this scrollbar is just a secondary native fallback. */
+    .tableWrap.noInnerScroll { overflow: auto; max-height: none; }
+    .tableWrap.noInnerScroll th { position: static; }
+    .hScrollBar { position: sticky; top: 8px; z-index: 5; display: flex; align-items: center; gap: 10px; margin-bottom: 10px; }
+    .relExpandBtn { align-self: flex-start; margin-top: 2px; }
+    .relList { display: flex; flex-direction: column; gap: 6px; min-width: 220px; }
+    .relSvc { display: flex; flex-wrap: wrap; align-items: center; gap: 6px; }
+    .relSvc .relDiff { flex-basis: 100%; font-size: 12px; }
+    .statusGood { color: var(--good); font-weight: 700; }
+    .statusBad { color: var(--bad); font-weight: 700; }
+    .serviceName { font-weight: 800; color: #fff7ed; }
+    .hidden { display: none !important; }
+    .kbd {
+      font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace;
+      background: #020617;
+      border: 1px solid var(--line);
+      padding: 2px 6px;
+      border-radius: 6px;
+      font-size: 12px;
+    }
+    footer { color: var(--muted); text-align: center; padding: 30px 16px 50px; }
+  </style>
+</head>
+<body>
+<header>
+  <div class="wrap">
+    <h1>AWS SAA-C03 In-Scope Service Matching Games</h1>
+    <div class="subtitle">
+      Only PDF in-scope services are included. Progress, wrong answers, current rounds, filters, and quiz state are saved in localStorage, so refresh will not clear your data.
+    </div>
+    <nav id="tabNav">
+      <a href="#dashboard" class="navtab" data-tab="dashboard">Dashboard</a>
+      <a href="#abbrFull" class="navtab" data-tab="abbrFull">Short ↔ Full</a>
+      <a href="#descMatch" class="navtab" data-tab="descMatch">Service ↔ Description</a>
+      <a href="#categorySort" class="navtab" data-tab="categorySort">Category Sort</a>
+      <a href="#usecaseQuiz" class="navtab" data-tab="usecaseQuiz">Use-case Quiz</a>
+      <a href="#flashQuiz" class="navtab" data-tab="flashQuiz">Flashcard MCQ</a>
+      <a href="#wrongReview" class="navtab" data-tab="wrongReview">Wrong Review</a>
+      <a href="#explorer" class="navtab" data-tab="explorer">Explorer</a>
+    </nav>
+    <div class="toolbar" id="keyFilterBar">
+      <label style="flex-direction:row; align-items:center; gap:8px;">
+        <input type="checkbox" id="keyFilterToggle" onchange="toggleKeyFilterOnly()" />
+        <span>★ Key services only</span>
+      </label>
+      <span class="pill" id="keyCount">0 flagged</span>
+      <span class="muted" style="font-size:12px">Flag any service with the ★ button on any screen, then use this to focus every game/quiz/list on just those services. Flags are permanent and are never cleared by any reset — unflag a service individually with its ★ button.</span>
+    </div>
+  </div>
+</header>
+
+<main>
+  <section id="dashboard">
+    <h2>Dashboard</h2>
+    <p class="muted">Dataset: <b id="svcCount"></b> in-scope services. Short-name ↔ full-name matching uses only services with abbreviation-style short names.</p>
+    <div class="statrow" id="stats"></div>
+    <div class="toolbar">
+      <button class="btn primary" onclick="saveState()">Save now</button>
+      <button class="btn" onclick="exportWrongCsv()">Export wrong services CSV</button>
+      <button class="btn danger" onclick="resetAllProgress()">Reset all progress</button>
+    </div>
+  </section>
+
+  <section id="abbrFull" class="hidden">
+    <h2>1) Drag-and-drop: short name ↔ full name</h2>
+    <p class="muted">Only services that have an abbreviation-style service name are included here, for example <span class="kbd">Amazon SQS</span> → <span class="kbd">Amazon Simple Queue Service</span>.</p>
+    <div class="toolbar">
+      <label>Round size
+        <select id="abbrRoundSize">
+          <option>8</option><option selected>12</option><option>16</option><option>22</option>
+        </select>
+      </label>
+      <button class="btn" onclick="newAbbrRound()">New round</button>
+      <button class="btn primary" onclick="checkAbbrMatch()">Check answers</button>
+    </div>
+    <div class="grid2">
+      <div class="card">
+        <h3>Full-name chips</h3>
+        <div id="abbrChips" class="dragArea"></div>
+      </div>
+      <div class="card">
+        <h3>Drop each full name under the correct short name</h3>
+        <div id="abbrTargets"></div>
+      </div>
+    </div>
+    <div class="card matchedCard hidden" id="abbrMatchedCard">
+      <h3>Matched <span class="muted" id="abbrMatchedCount"></span></h3>
+      <div id="abbrMatched"></div>
+    </div>
+    <div id="abbrFeedback" class="feedback hidden"></div>
+  </section>
+
+  <section id="descMatch" class="hidden">
+    <h2>2) Drag-and-drop: service name ↔ description</h2>
+    <p class="muted">Match the service to the description or primary use case. This covers all in-scope services over multiple rounds.</p>
+    <div class="toolbar">
+      <label>Round size
+        <select id="descRoundSize">
+          <option>8</option><option selected>10</option><option>12</option><option>16</option>
+        </select>
+      </label>
+      <button class="btn" onclick="newDescRound()">New round</button>
+      <button class="btn primary" onclick="checkDescMatch()">Check answers</button>
+    </div>
+    <div class="grid2">
+      <div class="card">
+        <h3>Description chips</h3>
+        <div id="descChips" class="dragArea"></div>
+      </div>
+      <div class="card">
+        <h3>Drop each description under the correct service</h3>
+        <div id="descTargets"></div>
+      </div>
+    </div>
+    <div class="card matchedCard hidden" id="descMatchedCard">
+      <h3>Matched <span class="muted" id="descMatchedCount"></span></h3>
+      <div id="descMatched"></div>
+    </div>
+    <div id="descFeedback" class="feedback hidden"></div>
+  </section>
+
+  <section id="categorySort" class="hidden">
+    <h2>3) Drag-and-drop: classify by category</h2>
+    <p class="muted">Drop each service into the best PDF in-scope category. Some services belong to more than one category; any listed category is accepted.</p>
+    <div class="toolbar">
+      <label>Round size
+        <select id="catRoundSize">
+          <option>12</option><option selected>18</option><option>24</option>
+        </select>
+      </label>
+      <button class="btn" onclick="newCategoryRound()">New round</button>
+      <button class="btn primary" onclick="checkCategorySort()">Check answers</button>
+    </div>
+    <div class="card">
+      <h3>Service chips</h3>
+      <div id="catChips" class="dragArea"></div>
+    </div>
+    <div class="grid" id="catTargets"></div>
+    <div id="catFeedback" class="feedback hidden"></div>
+  </section>
+
+  <section id="usecaseQuiz" class="hidden">
+    <h2>4) Use-case scenario quiz</h2>
+    <p class="muted">Read the requirement and select the best service. After answering, wrong options explain which service/use case they match better.</p>
+    <div class="toolbar">
+      <button class="btn" onclick="newUsecaseQuestion()">New question</button>
+      <button class="btn" onclick="skipUsecaseQuestion()">Skip</button>
+    </div>
+    <div id="usecaseCard" class="card"></div>
+  </section>
+
+  <section id="flashQuiz" class="hidden">
+    <h2>5) Flashcard multiple-choice quiz</h2>
+    <p class="muted">The service name is shown first. Select the best characteristic/use case. Wrong options explain which service they match better.</p>
+    <div class="toolbar">
+      <button class="btn" onclick="newFlashQuestion()">New flashcard</button>
+      <button class="btn" onclick="skipFlashQuestion()">Skip</button>
+    </div>
+    <div id="flashCard" class="card"></div>
+  </section>
+
+  <section id="wrongReview" class="hidden">
+    <h2>Wrong answers / services review</h2>
+    <p class="muted">This list is saved locally and stays after page refresh. Export it to CSV for review.</p>
+    <div class="toolbar">
+      <button class="btn" onclick="renderWrongReview()">Refresh review</button>
+      <button class="btn primary" onclick="exportWrongCsv()">Export wrong services CSV</button>
+      <button class="btn danger" onclick="clearWrongAnswers()">Clear wrong-answer history</button>
+    </div>
+    <div class="tableWrap">
+      <table id="wrongTable"></table>
+    </div>
+  </section>
+
+  <section id="explorer" class="hidden">
+    <h2>Searchable service explorer</h2>
+    <p class="muted">Filter and sort by service, full name, domain, sub-domain, category, group, description, key feature, and use case.</p>
+    <div class="toolbar">
+      <label>Search
+        <input id="filterSearch" placeholder="Search service, feature, use case..." oninput="updateExplorerFromInputs()" />
+      </label>
+      <label>Domain
+        <select id="filterDomain" onchange="updateExplorerFromInputs()"></select>
+      </label>
+      <label>Sub-domain
+        <select id="filterSubDomain" onchange="updateExplorerFromInputs()"></select>
+      </label>
+      <label>Category
+        <select id="filterCategory" onchange="updateExplorerFromInputs()"></select>
+      </label>
+      <label>Group
+        <select id="filterGroup" onchange="updateExplorerFromInputs()"></select>
+      </label>
+      <button class="btn" onclick="clearExplorerFilters()">Clear filters</button>
+      <button class="btn" onclick="exportExplorerCsv()">Export filtered services CSV</button>
+    </div>
+    <div class="muted" id="explorerCount"></div>
+    <div class="hScrollBar">
+      <button class="btn small" onclick="scrollExplorerTable(-1)">◀ Scroll left</button>
+      <button class="btn small" onclick="scrollExplorerTable(1)">Scroll right ▶</button>
+      <span class="muted" style="font-size:12px">Table is wider than the screen — use these buttons (or shift+scroll / trackpad swipe) to see the remaining columns.</span>
+    </div>
+    <div class="tableWrap noInnerScroll">
+      <table id="explorerTable"></table>
+    </div>
+  </section>
+</main>
+
+<footer>
+  Built as a single offline HTML file. Data is stored only in your browser localStorage.
+</footer>
+
+<script>
+const SERVICES = [{"name": "ACM", "abbr": "ACM", "full": "AWS Certificate Manager", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "TLS certificates", "desc": "Service for provisioning, managing, and renewing TLS/SSL certificates.", "keyFeature": "Managed public and private certificates.", "useCase": "Encrypt data in transit for websites and load balancers.", "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "ACM (AWS Certificate Manager)"}, {"name": "Amazon API Gateway", "category": ["Front-End Web and Mobile"], "group": "Application Development", "domain": "Domain 2: Resilient Architectures", "subDomain": "API front door", "desc": "Managed service for creating, publishing, securing, and monitoring APIs.", "keyFeature": "Managed REST/WebSocket API front door.", "useCase": "Expose Lambda or backend services through an API.", "full": "Amazon API Gateway", "abbr": null, "categoriesText": "Front-End Web and Mobile", "scope": "In-scope", "serviceLine": "Amazon API Gateway"}, {"name": "Amazon AppFlow", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "SaaS integration", "desc": "Managed integration service for transferring data between SaaS applications and AWS services.", "keyFeature": "No-code SaaS-to-AWS data flows.", "useCase": "Sync Salesforce or other SaaS data into AWS.", "full": "Amazon AppFlow", "abbr": null, "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "Amazon AppFlow"}, {"name": "Amazon Athena", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Ad-hoc SQL analytics", "desc": "Serverless interactive query service for analyzing data in Amazon S3 using SQL.", "keyFeature": "Query data in S3 with standard SQL without managing servers.", "useCase": "Run ad-hoc SQL analytics on S3 data.", "full": "Amazon Athena", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon Athena"}, {"name": "Amazon Aurora", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Cloud relational database", "desc": "MySQL- and PostgreSQL-compatible relational database built for the cloud.", "keyFeature": "Cloud-optimized relational database compatible with MySQL/PostgreSQL.", "useCase": "Run high-performance relational database workloads.", "full": "Amazon Aurora", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon Aurora"}, {"name": "Amazon Aurora Serverless", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Serverless relational database", "desc": "On-demand auto-scaling configuration for Amazon Aurora.", "keyFeature": "Aurora capacity that automatically scales up and down.", "useCase": "Serve variable or intermittent relational database workloads.", "full": "Amazon Aurora Serverless", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon Aurora Serverless"}, {"name": "Amazon CloudFront", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 3 / Domain 4", "subDomain": "Content delivery network", "desc": "Content delivery network service for securely delivering content with low latency.", "keyFeature": "Edge caching and global content delivery.", "useCase": "Cache static website content close to users.", "full": "Amazon CloudFront", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "Amazon CloudFront"}, {"name": "Amazon CloudWatch", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 2 / Domain 3", "subDomain": "Monitoring and alarms", "desc": "Monitoring and observability service for metrics, logs, alarms, and dashboards.", "keyFeature": "Metrics, logs, alarms, and dashboards.", "useCase": "Monitor application performance and trigger alarms.", "full": "Amazon CloudWatch", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "Amazon CloudWatch"}, {"name": "Amazon Cognito", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "App user identity", "desc": "Service for adding user sign-up, sign-in, and access control to applications.", "keyFeature": "Customer identity and user pools for apps.", "useCase": "Add authentication to a mobile or web app.", "full": "Amazon Cognito", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "Amazon Cognito"}, {"name": "Amazon Comprehend", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 2: Resilient Architectures", "subDomain": "Natural language processing", "desc": "Natural language processing service for extracting insights from text.", "keyFeature": "Text analysis such as sentiment, entities, and key phrases.", "useCase": "Detect sentiment or entities in customer feedback.", "full": "Amazon Comprehend", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Comprehend"}, {"name": "Amazon Data Firehose", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Streaming data delivery", "desc": "Managed service for loading streaming data into destinations such as S3, Redshift, OpenSearch, and third-party tools.", "keyFeature": "Near real-time streaming delivery to storage and analytics destinations.", "useCase": "Deliver application logs or clickstream events into S3/OpenSearch.", "full": "Amazon Data Firehose", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon Data Firehose"}, {"name": "Amazon Detective", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Security investigation", "desc": "Security investigation service that analyzes and visualizes security data.", "keyFeature": "Investigate security findings and relationships.", "useCase": "Analyze root cause of suspicious activity.", "full": "Amazon Detective", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "Amazon Detective"}, {"name": "Amazon DocumentDB", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Document database", "desc": "Managed document database service compatible with MongoDB workloads.", "keyFeature": "Document database for JSON-like data.", "useCase": "Run MongoDB-compatible document workloads.", "full": "Amazon DocumentDB", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon DocumentDB"}, {"name": "Amazon DynamoDB", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Serverless NoSQL", "desc": "Serverless key-value and document database with single-digit millisecond performance.", "keyFeature": "Serverless NoSQL with massive scale.", "useCase": "Low-latency key-value access for web/mobile apps.", "full": "Amazon DynamoDB", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon DynamoDB"}, {"name": "Amazon EBS", "abbr": "Amazon EBS", "full": "Amazon Elastic Block Store", "category": ["Storage"], "group": "Storage", "domain": "Domain 3 / Domain 4", "subDomain": "Block storage", "desc": "Persistent block storage volumes for EC2 instances.", "keyFeature": "Block volumes attached to EC2 instances.", "useCase": "Provide low-latency storage for EC2 workloads.", "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "Amazon EBS (Amazon Elastic Block Store)"}, {"name": "Amazon EC2", "abbr": "Amazon EC2", "full": "Amazon Elastic Compute Cloud", "category": ["Compute"], "group": "Compute", "domain": "Domain 3 / Domain 4", "subDomain": "Virtual servers", "desc": "Resizable virtual servers in the cloud.", "keyFeature": "Configurable virtual machines with instance types.", "useCase": "Run applications needing OS-level control.", "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "Amazon EC2 (Amazon Elastic Compute Cloud)"}, {"name": "Amazon EC2 Auto Scaling", "category": ["Compute"], "group": "Compute", "domain": "Domain 3 / Domain 4", "subDomain": "Instance scaling", "desc": "Automatically adjusts EC2 capacity to maintain performance and availability.", "keyFeature": "Scale EC2 instance count based on demand.", "useCase": "Add or remove instances based on CPU or traffic.", "full": "Amazon EC2 Auto Scaling", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "Amazon EC2 Auto Scaling"}, {"name": "Amazon ECR", "abbr": "Amazon ECR", "full": "Amazon Elastic Container Registry", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "Container registry", "desc": "Managed container image registry for storing and sharing container images.", "keyFeature": "Private container image registry integrated with IAM.", "useCase": "Store Docker images for ECS or EKS deployments.", "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon ECR (Amazon Elastic Container Registry)"}, {"name": "Amazon ECS", "abbr": "Amazon ECS", "full": "Amazon Elastic Container Service", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "Container orchestration", "desc": "Managed container orchestration service for running containerized applications.", "keyFeature": "AWS-native container orchestration.", "useCase": "Run containers without managing Kubernetes.", "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon ECS (Amazon Elastic Container Service)"}, {"name": "Amazon ECS Anywhere", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "External ECS", "desc": "Extension of ECS that lets you run and manage containers on your own infrastructure.", "keyFeature": "ECS management for external/on-premises servers.", "useCase": "Manage on-premises containers through ECS.", "full": "Amazon ECS Anywhere", "abbr": null, "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon ECS Anywhere"}, {"name": "Amazon EFS", "abbr": "Amazon EFS", "full": "Amazon Elastic File System", "category": ["Storage"], "group": "Storage", "domain": "Domain 3 / Domain 4", "subDomain": "Shared file storage", "desc": "Scalable elastic file system for Linux workloads.", "keyFeature": "Shared NFS file storage across many instances.", "useCase": "Share files across multiple EC2 instances.", "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "Amazon EFS (Amazon Elastic File System)"}, {"name": "Amazon EKS", "abbr": "Amazon EKS", "full": "Amazon Elastic Kubernetes Service", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "Managed Kubernetes", "desc": "Managed Kubernetes service on AWS.", "keyFeature": "Managed Kubernetes control plane.", "useCase": "Run Kubernetes workloads on AWS.", "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon EKS (Amazon Elastic Kubernetes Service)"}, {"name": "Amazon EKS Anywhere", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "External Kubernetes", "desc": "Deployment option for creating and operating Kubernetes clusters on your own infrastructure.", "keyFeature": "EKS-compatible Kubernetes outside AWS.", "useCase": "Run Kubernetes on premises with EKS tooling.", "full": "Amazon EKS Anywhere", "abbr": null, "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon EKS Anywhere"}, {"name": "Amazon EKS Distro", "category": ["Containers"], "group": "Containers", "domain": "Domain 2 / Domain 3", "subDomain": "Kubernetes distribution", "desc": "Kubernetes distribution used by EKS, available for consistent Kubernetes environments.", "keyFeature": "Same Kubernetes distribution used by EKS.", "useCase": "Standardize Kubernetes distribution across environments.", "full": "Amazon EKS Distro", "abbr": null, "categoriesText": "Containers", "scope": "In-scope", "serviceLine": "Amazon EKS Distro"}, {"name": "Amazon Elastic Transcoder", "category": ["Media Services"], "group": "Media", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Media transcoding", "desc": "Media transcoding service for converting media files into formats for playback.", "keyFeature": "File-based media transcoding.", "useCase": "Convert uploaded videos into web/mobile playback formats.", "full": "Amazon Elastic Transcoder", "abbr": null, "categoriesText": "Media Services", "scope": "In-scope", "serviceLine": "Amazon Elastic Transcoder"}, {"name": "Amazon ElastiCache", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "In-memory cache", "desc": "Managed in-memory caching service compatible with Redis and Memcached.", "keyFeature": "In-memory cache for low-latency access.", "useCase": "Cache frequent database reads or session data.", "full": "Amazon ElastiCache", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon ElastiCache"}, {"name": "Amazon EMR", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Big data processing", "desc": "Managed big data platform for running distributed processing frameworks such as Spark, Hive, Presto, and Hadoop.", "keyFeature": "Managed big data clusters and distributed processing.", "useCase": "Run large-scale Spark or Hadoop data processing jobs.", "full": "Amazon EMR", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon EMR"}, {"name": "Amazon EventBridge", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "Event bus", "desc": "Serverless event bus for routing events between AWS services, SaaS applications, and custom applications.", "keyFeature": "Event routing and event bus integration.", "useCase": "Route order-created events to multiple consumers.", "full": "Amazon EventBridge", "abbr": null, "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "Amazon EventBridge"}, {"name": "Amazon FSx", "category": ["Storage"], "group": "Storage", "domain": "Domain 3 / Domain 4", "subDomain": "Managed file systems", "desc": "Managed file systems such as Windows File Server, Lustre, NetApp ONTAP, and OpenZFS.", "keyFeature": "Purpose-built managed file systems.", "useCase": "Use Windows file shares or high-performance Lustre file systems.", "full": "Amazon FSx", "abbr": null, "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "Amazon FSx"}, {"name": "Amazon GuardDuty", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Threat detection", "desc": "Managed threat detection service that monitors for malicious or unauthorized behavior.", "keyFeature": "Threat detection using logs and intelligence.", "useCase": "Detect suspicious activity in AWS accounts and workloads.", "full": "Amazon GuardDuty", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "Amazon GuardDuty"}, {"name": "Amazon Inspector", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Vulnerability management", "desc": "Automated vulnerability management service for workloads.", "keyFeature": "Vulnerability scanning for EC2, containers, and Lambda.", "useCase": "Find software vulnerabilities in compute workloads.", "full": "Amazon Inspector", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "Amazon Inspector"}, {"name": "Amazon Kendra", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Enterprise search", "desc": "Intelligent enterprise search service powered by machine learning.", "keyFeature": "ML-powered enterprise search across documents.", "useCase": "Search internal knowledge bases and documents.", "full": "Amazon Kendra", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Kendra"}, {"name": "Amazon Keyspaces", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Cassandra-compatible database", "desc": "Managed Apache Cassandra-compatible database service.", "keyFeature": "Cassandra-compatible managed wide-column database.", "useCase": "Migrate Cassandra workloads to a managed service.", "full": "Amazon Keyspaces", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon Keyspaces"}, {"name": "Amazon Kinesis", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Real-time streaming", "desc": "Services for collecting, processing, and analyzing real-time streaming data.", "keyFeature": "Real-time stream ingestion and processing.", "useCase": "Process clickstream, IoT, or application event streams.", "full": "Amazon Kinesis", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon Kinesis"}, {"name": "Amazon Kinesis Video Streams", "category": ["Media Services"], "group": "Media", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Video streaming ingest", "desc": "Service for securely streaming video from connected devices to AWS.", "keyFeature": "Ingest and process video streams.", "useCase": "Stream video from cameras for storage or analysis.", "full": "Amazon Kinesis Video Streams", "abbr": null, "categoriesText": "Media Services", "scope": "In-scope", "serviceLine": "Amazon Kinesis Video Streams"}, {"name": "Amazon Lex", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Conversational AI", "desc": "Service for building conversational voice and text interfaces.", "keyFeature": "Chatbots and conversational interfaces.", "useCase": "Build a customer service chatbot.", "full": "Amazon Lex", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Lex"}, {"name": "Amazon Macie", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Sensitive data discovery", "desc": "Data security service that discovers sensitive data in Amazon S3.", "keyFeature": "Sensitive data discovery and classification in S3.", "useCase": "Find PII in S3 buckets.", "full": "Amazon Macie", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "Amazon Macie"}, {"name": "Amazon Managed Grafana", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Visualization for observability", "desc": "Managed Grafana service for visualizing metrics, logs, and traces.", "keyFeature": "Managed Grafana dashboards.", "useCase": "Create observability dashboards from multiple data sources.", "full": "Amazon Managed Grafana", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "Amazon Managed Grafana"}, {"name": "Amazon Managed Service for Prometheus", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Prometheus monitoring", "desc": "Managed Prometheus-compatible monitoring service.", "keyFeature": "Prometheus metrics collection and querying without managing servers.", "useCase": "Monitor container workloads with Prometheus metrics.", "full": "Amazon Managed Service for Prometheus", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "Amazon Managed Service for Prometheus"}, {"name": "Amazon MQ", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "Managed message broker", "desc": "Managed message broker service for Apache ActiveMQ and RabbitMQ.", "keyFeature": "Managed traditional message brokers.", "useCase": "Migrate existing ActiveMQ/RabbitMQ applications to AWS.", "full": "Amazon MQ", "abbr": null, "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "Amazon MQ"}, {"name": "Amazon MSK", "abbr": "Amazon MSK", "full": "Amazon Managed Streaming for Apache Kafka", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Managed Kafka streaming", "desc": "Fully managed Apache Kafka service for streaming workloads.", "keyFeature": "Managed Apache Kafka clusters.", "useCase": "Run Kafka-compatible streaming applications without managing Kafka brokers.", "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon MSK (Amazon Managed Streaming for Apache Kafka)"}, {"name": "Amazon Neptune", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Graph database", "desc": "Managed graph database service.", "keyFeature": "Graph relationships and traversals.", "useCase": "Support fraud graphs, knowledge graphs, or relationship-based recommendations.", "full": "Amazon Neptune", "abbr": null, "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon Neptune"}, {"name": "Amazon OpenSearch Service", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Search and log analytics", "desc": "Managed service for search, log analytics, and observability with OpenSearch.", "keyFeature": "Search and log analytics with managed OpenSearch.", "useCase": "Analyze application logs and build search dashboards.", "full": "Amazon OpenSearch Service", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon OpenSearch Service"}, {"name": "Amazon Polly", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 2: Resilient Architectures", "subDomain": "Text to speech", "desc": "Text-to-speech service that turns text into lifelike speech.", "keyFeature": "Convert text to speech.", "useCase": "Generate spoken audio from written text.", "full": "Amazon Polly", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Polly"}, {"name": "Amazon QuickSight", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Business intelligence", "desc": "Cloud-native business intelligence service for dashboards, visualizations, and reports.", "keyFeature": "Serverless BI dashboards and visual analytics.", "useCase": "Create dashboards and reports from analytics data.", "full": "Amazon QuickSight", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "Amazon QuickSight"}, {"name": "Amazon RDS", "abbr": "Amazon RDS", "full": "Amazon Relational Database Service", "category": ["Database"], "group": "Database", "domain": "Domain 3 / Domain 4", "subDomain": "Managed relational database", "desc": "Managed relational database service for common database engines.", "keyFeature": "Managed relational databases with backups, patching, and replicas.", "useCase": "Run MySQL, PostgreSQL, MariaDB, Oracle, or SQL Server with less admin work.", "categoriesText": "Database", "scope": "In-scope", "serviceLine": "Amazon RDS (Amazon Relational Database Service)"}, {"name": "Amazon Redshift", "category": ["Analytics", "Database"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Data warehouse", "desc": "Managed cloud data warehouse for large-scale SQL analytics.", "keyFeature": "Petabyte-scale data warehousing.", "useCase": "Run high-performance analytical queries in a data warehouse.", "full": "Amazon Redshift", "abbr": null, "categoriesText": "Analytics, Database", "scope": "In-scope", "serviceLine": "Amazon Redshift"}, {"name": "Amazon Rekognition", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Image and video analysis", "desc": "Image and video analysis service.", "keyFeature": "Detect labels, faces, and content in images/video.", "useCase": "Analyze uploaded images for objects or moderation.", "full": "Amazon Rekognition", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Rekognition"}, {"name": "Amazon Route 53", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 2 / Domain 4", "subDomain": "DNS and routing", "desc": "Highly available and scalable DNS and domain registration service.", "keyFeature": "DNS routing, domain registration, and health-check based routing.", "useCase": "Route users to healthy application endpoints.", "full": "Amazon Route 53", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "Amazon Route 53"}, {"name": "Amazon S3", "abbr": "Amazon S3", "full": "Amazon Simple Storage Service", "category": ["Storage"], "group": "Storage", "domain": "Domain 3 / Domain 4", "subDomain": "Object storage", "desc": "Object storage service built for scalability, durability, and broad use cases.", "keyFeature": "Highly durable object storage with lifecycle and tiering options.", "useCase": "Store objects, backups, data lakes, static assets, and archives.", "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "Amazon S3 (Amazon Simple Storage Service)"}, {"name": "Amazon S3 Glacier", "category": ["Storage"], "group": "Storage", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Archive storage", "desc": "Low-cost archive storage classes for long-term data retention.", "keyFeature": "Low-cost long-term archival storage.", "useCase": "Archive rarely accessed data for compliance or retention.", "full": "Amazon S3 Glacier", "abbr": null, "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "Amazon S3 Glacier"}, {"name": "Amazon SageMaker AI", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "ML model lifecycle", "desc": "Service for building, training, and deploying machine learning models.", "keyFeature": "End-to-end machine learning model development.", "useCase": "Train and deploy custom ML models.", "full": "Amazon SageMaker AI", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon SageMaker AI"}, {"name": "Amazon SNS", "abbr": "Amazon SNS", "full": "Amazon Simple Notification Service", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "Pub/sub notifications", "desc": "Managed publish/subscribe messaging service for fanout notifications.", "keyFeature": "Pub/sub fanout to many subscribers.", "useCase": "Send one notification to many systems or users.", "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "Amazon SNS (Amazon Simple Notification Service)"}, {"name": "Amazon SQS", "abbr": "Amazon SQS", "full": "Amazon Simple Queue Service", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "Message queue", "desc": "Managed message queue for decoupling distributed application components.", "keyFeature": "Durable message queues for decoupling.", "useCase": "Buffer work between producers and consumers.", "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "Amazon SQS (Amazon Simple Queue Service)"}, {"name": "Amazon Textract", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Document extraction", "desc": "Service that extracts text, handwriting, forms, and tables from documents.", "keyFeature": "Document text and structured data extraction.", "useCase": "Extract fields from scanned invoices or forms.", "full": "Amazon Textract", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Textract"}, {"name": "Amazon Transcribe", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Speech to text", "desc": "Automatic speech recognition service.", "keyFeature": "Speech-to-text transcription.", "useCase": "Transcribe call recordings into text.", "full": "Amazon Transcribe", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Transcribe"}, {"name": "Amazon Translate", "category": ["Machine Learning"], "group": "Machine Learning", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Machine translation", "desc": "Neural machine translation service.", "keyFeature": "Translate text between languages.", "useCase": "Translate user-generated content into another language.", "full": "Amazon Translate", "abbr": null, "categoriesText": "Machine Learning", "scope": "In-scope", "serviceLine": "Amazon Translate"}, {"name": "Amazon VPC", "abbr": "Amazon VPC", "full": "Amazon Virtual Private Cloud", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 1 / Domain 3 / Domain 4", "subDomain": "Virtual network", "desc": "Logically isolated virtual network for AWS resources.", "keyFeature": "Subnets, route tables, security groups, NACLs, and IP addressing.", "useCase": "Create isolated network environments for workloads.", "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "Amazon VPC (Amazon Virtual Private Cloud)"}, {"name": "AWS Amplify", "category": ["Front-End Web and Mobile"], "group": "Application Development", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Full-stack app platform", "desc": "Tools and services for building, deploying, and hosting full-stack web and mobile apps.", "keyFeature": "Front-end app hosting and backend integration.", "useCase": "Quickly build and host web/mobile apps with AWS backends.", "full": "AWS Amplify", "abbr": null, "categoriesText": "Front-End Web and Mobile", "scope": "In-scope", "serviceLine": "AWS Amplify"}, {"name": "AWS Application Migration Service", "category": ["Migration and Transfer"], "group": "Migration & Transfer", "domain": "Domain 2: Resilient Architectures", "subDomain": "Application migration", "desc": "Service for migrating applications to AWS with minimal downtime.", "keyFeature": "Lift-and-shift server migration.", "useCase": "Rehost on-premises servers to AWS.", "full": "AWS Application Migration Service", "abbr": null, "categoriesText": "Migration and Transfer", "scope": "In-scope", "serviceLine": "AWS Application Migration Service"}, {"name": "AWS AppSync", "category": ["Application Integration", "Serverless"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "GraphQL API", "desc": "Managed GraphQL service that connects applications to data sources.", "keyFeature": "Managed GraphQL APIs with real-time and offline app data patterns.", "useCase": "Build GraphQL APIs for web/mobile apps.", "full": "AWS AppSync", "abbr": null, "categoriesText": "Application Integration, Serverless", "scope": "In-scope", "serviceLine": "AWS AppSync"}, {"name": "AWS Artifact", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Compliance reports", "desc": "Self-service portal for AWS compliance reports and agreements.", "keyFeature": "Access compliance reports and agreements.", "useCase": "Download SOC or compliance reports for auditors.", "full": "AWS Artifact", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Artifact"}, {"name": "AWS Audit Manager", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Audit evidence", "desc": "Service that helps automate evidence collection for audits.", "keyFeature": "Automated audit evidence collection.", "useCase": "Prepare evidence for compliance audits.", "full": "AWS Audit Manager", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Audit Manager"}, {"name": "AWS Auto Scaling", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 3 / Domain 4", "subDomain": "Multi-resource scaling", "desc": "Service for scaling multiple AWS resources based on demand.", "keyFeature": "Centralized scaling plans across services.", "useCase": "Scale resources such as ECS, DynamoDB, and Aurora read replicas.", "full": "AWS Auto Scaling", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Auto Scaling"}, {"name": "AWS Backup", "category": ["Storage"], "group": "Storage", "domain": "Domain 2 / Domain 4", "subDomain": "Centralized backup", "desc": "Centralized backup service for AWS services and hybrid workloads.", "keyFeature": "Policy-based backup management.", "useCase": "Centrally manage backups across supported AWS resources.", "full": "AWS Backup", "abbr": null, "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "AWS Backup"}, {"name": "AWS Batch", "category": ["Compute"], "group": "Compute", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Batch jobs", "desc": "Managed batch processing service that runs jobs at scale on AWS compute resources.", "keyFeature": "Managed scheduling and scaling for batch jobs.", "useCase": "Run thousands of batch processing jobs.", "full": "AWS Batch", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "AWS Batch"}, {"name": "AWS Budgets", "category": ["AWS Cost Management"], "group": "Cost Management", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Budgeting and alerts", "desc": "Service to set custom budgets and alerts for AWS cost, usage, and utilization.", "keyFeature": "Budget thresholds and alerting.", "useCase": "Get notified when monthly spend is forecasted to exceed a limit.", "full": "AWS Budgets", "abbr": null, "categoriesText": "AWS Cost Management", "scope": "In-scope", "serviceLine": "AWS Budgets"}, {"name": "AWS CLI", "abbr": "AWS CLI", "full": "AWS Command Line Interface", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "General AWS Operations", "subDomain": "Command-line management", "desc": "Command-line tool to manage AWS services.", "keyFeature": "Scriptable command-line AWS operations.", "useCase": "Automate AWS tasks from a terminal or script.", "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS CLI (AWS Command Line Interface)"}, {"name": "AWS Client VPN", "abbr": "AWS Client VPN", "full": "AWS Client Virtual Private Network", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 1 / Domain 3", "subDomain": "Remote user VPN", "desc": "Managed client-based VPN service for secure access to AWS and on-premises networks.", "keyFeature": "Remote user VPN access.", "useCase": "Allow employees to securely connect to a VPC from laptops.", "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS Client VPN (AWS Client Virtual Private Network)"}, {"name": "AWS CloudFormation", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 2: Resilient Architectures", "subDomain": "Infrastructure as code", "desc": "Infrastructure as code service for modeling and provisioning AWS resources.", "keyFeature": "Templates for repeatable infrastructure provisioning.", "useCase": "Deploy the same infrastructure stack across environments.", "full": "AWS CloudFormation", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS CloudFormation"}, {"name": "AWS CloudHSM", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Dedicated HSM", "desc": "Cloud-based hardware security module service for generating and using encryption keys.", "keyFeature": "Dedicated hardware security modules under your control.", "useCase": "Meet strict key management requirements with dedicated HSMs.", "full": "AWS CloudHSM", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS CloudHSM"}, {"name": "AWS CloudTrail", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 1: Secure Architectures", "subDomain": "API auditing", "desc": "Service that records AWS API activity and account events.", "keyFeature": "Audit trail of AWS API calls.", "useCase": "Investigate who changed an AWS resource.", "full": "AWS CloudTrail", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS CloudTrail"}, {"name": "AWS Compute Optimizer", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Rightsizing recommendations", "desc": "Service that recommends optimal AWS compute resources based on utilization.", "keyFeature": "Rightsizing recommendations for compute resources.", "useCase": "Find overprovisioned EC2 instances.", "full": "AWS Compute Optimizer", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Compute Optimizer"}, {"name": "AWS Config", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 1: Secure Architectures", "subDomain": "Configuration compliance", "desc": "Service for recording resource configurations and evaluating compliance.", "keyFeature": "Configuration history and compliance rules.", "useCase": "Detect noncompliant security group changes.", "full": "AWS Config", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Config"}, {"name": "AWS Control Tower", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 1: Secure Architectures", "subDomain": "Multi-account governance", "desc": "Service for setting up and governing a secure multi-account AWS environment.", "keyFeature": "Multi-account landing zone governance.", "useCase": "Set up governed accounts with guardrails.", "full": "AWS Control Tower", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Control Tower"}, {"name": "AWS Cost and Usage Report", "category": ["AWS Cost Management"], "group": "Cost Management", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Detailed billing export", "desc": "Detailed report of AWS cost and usage data for analysis and allocation.", "keyFeature": "Most detailed cost and usage data export.", "useCase": "Chargeback, showback, and granular billing analysis.", "full": "AWS Cost and Usage Report", "abbr": null, "categoriesText": "AWS Cost Management", "scope": "In-scope", "serviceLine": "AWS Cost and Usage Report"}, {"name": "AWS Cost Explorer", "category": ["AWS Cost Management"], "group": "Cost Management", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Cost analysis", "desc": "Tool for visualizing, understanding, and analyzing AWS costs and usage.", "keyFeature": "Interactive cost and usage analysis.", "useCase": "Find which service caused a cost increase.", "full": "AWS Cost Explorer", "abbr": null, "categoriesText": "AWS Cost Management", "scope": "In-scope", "serviceLine": "AWS Cost Explorer"}, {"name": "AWS Data Exchange", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "External data subscriptions", "desc": "Service for finding, subscribing to, and using third-party data products in AWS.", "keyFeature": "Subscribe to and use third-party datasets in AWS.", "useCase": "Bring external datasets into analytics workflows.", "full": "AWS Data Exchange", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "AWS Data Exchange"}, {"name": "AWS DataSync", "category": ["Migration and Transfer"], "group": "Migration & Transfer", "domain": "Domain 3 / Domain 4", "subDomain": "Online data transfer", "desc": "Online data transfer service for moving data between storage systems and AWS.", "keyFeature": "Accelerated online data transfer.", "useCase": "Copy files from on-premises NFS/SMB storage to S3 or EFS.", "full": "AWS DataSync", "abbr": null, "categoriesText": "Migration and Transfer", "scope": "In-scope", "serviceLine": "AWS DataSync"}, {"name": "AWS Device Farm", "category": ["Front-End Web and Mobile"], "group": "Application Development", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Device testing", "desc": "Application testing service for web and mobile apps across real devices and browsers.", "keyFeature": "Test apps on many real devices.", "useCase": "Validate mobile app behavior on multiple phones and OS versions.", "full": "AWS Device Farm", "abbr": null, "categoriesText": "Front-End Web and Mobile", "scope": "In-scope", "serviceLine": "AWS Device Farm"}, {"name": "AWS Direct Connect", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 1 / Domain 3 / Domain 4", "subDomain": "Dedicated private connectivity", "desc": "Dedicated network connection from on-premises locations to AWS.", "keyFeature": "Private dedicated connectivity to AWS.", "useCase": "Connect a data center to AWS with consistent network performance.", "full": "AWS Direct Connect", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS Direct Connect"}, {"name": "AWS Directory Service", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Managed directory", "desc": "Managed Microsoft Active Directory and directory integration options on AWS.", "keyFeature": "Managed directory services for AWS workloads.", "useCase": "Use Active Directory authentication with AWS resources.", "full": "AWS Directory Service", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Directory Service"}, {"name": "AWS DMS", "abbr": "AWS DMS", "full": "AWS Database Migration Service", "category": ["Migration and Transfer"], "group": "Migration & Transfer", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Database migration", "desc": "Service for migrating databases to AWS with minimal downtime.", "keyFeature": "Homogeneous and heterogeneous database migration.", "useCase": "Migrate Oracle to Amazon Aurora or RDS.", "categoriesText": "Migration and Transfer", "scope": "In-scope", "serviceLine": "AWS DMS (AWS Database Migration Service)"}, {"name": "AWS Elastic Beanstalk", "category": ["Compute"], "group": "Compute", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Application platform", "desc": "Platform service for deploying and managing applications while AWS handles infrastructure details.", "keyFeature": "Application deployment platform with managed provisioning.", "useCase": "Quickly deploy a web application without manually wiring infrastructure.", "full": "AWS Elastic Beanstalk", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "AWS Elastic Beanstalk"}, {"name": "AWS Fargate", "category": ["Serverless"], "group": "Serverless", "domain": "Domain 2 / Domain 3 / Domain 4", "subDomain": "Serverless containers", "desc": "Serverless compute engine for containers used with ECS and EKS.", "keyFeature": "Run containers without managing servers.", "useCase": "Run containerized workloads without provisioning EC2 instances.", "full": "AWS Fargate", "abbr": null, "categoriesText": "Serverless", "scope": "In-scope", "serviceLine": "AWS Fargate"}, {"name": "AWS Firewall Manager", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Central firewall policy", "desc": "Security management service to centrally configure and manage firewall rules across accounts.", "keyFeature": "Centralized firewall policy management.", "useCase": "Apply WAF or firewall policies across many accounts.", "full": "AWS Firewall Manager", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Firewall Manager"}, {"name": "AWS Global Accelerator", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 3 / Domain 4", "subDomain": "Global traffic acceleration", "desc": "Networking service that improves global application availability and performance using AWS edge locations.", "keyFeature": "Static anycast IPs and optimized global routing.", "useCase": "Improve performance for global users accessing regional endpoints.", "full": "AWS Global Accelerator", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS Global Accelerator"}, {"name": "AWS Glue", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "ETL and catalog", "desc": "Serverless data integration service for ETL, data preparation, and cataloging.", "keyFeature": "Serverless ETL plus Data Catalog.", "useCase": "Transform CSV data to Parquet and catalog it for analytics.", "full": "AWS Glue", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "AWS Glue"}, {"name": "AWS Health Dashboard", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "General AWS Operations", "subDomain": "Service health", "desc": "Dashboard for AWS service health and account-specific events.", "keyFeature": "AWS service and account health visibility.", "useCase": "Check whether AWS events affect your resources.", "full": "AWS Health Dashboard", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Health Dashboard"}, {"name": "AWS IAM Identity Center", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Workforce identity federation", "desc": "Service for centrally managing workforce access to AWS accounts and applications.", "keyFeature": "Centralized single sign-on access to AWS accounts and apps.", "useCase": "Federate users and assign account access across AWS Organizations.", "full": "AWS IAM Identity Center", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS IAM Identity Center"}, {"name": "AWS KMS", "abbr": "AWS KMS", "full": "AWS Key Management Service", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Key management", "desc": "Managed service for creating and controlling cryptographic keys.", "keyFeature": "Centralized encryption key creation, control, and rotation.", "useCase": "Encrypt data at rest with managed keys.", "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS KMS (AWS Key Management Service)"}, {"name": "AWS Lake Formation", "category": ["Analytics"], "group": "Data & Analytics", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Data lake governance", "desc": "Service to build, secure, and manage data lakes on AWS.", "keyFeature": "Data lake governance, permissions, and setup.", "useCase": "Build and secure a governed data lake.", "full": "AWS Lake Formation", "abbr": null, "categoriesText": "Analytics", "scope": "In-scope", "serviceLine": "AWS Lake Formation"}, {"name": "AWS Lambda", "category": ["Serverless"], "group": "Serverless", "domain": "Domain 2 / Domain 3 / Domain 4", "subDomain": "Functions as a service", "desc": "Serverless compute service for running code in response to events.", "keyFeature": "Event-driven functions with automatic scaling.", "useCase": "Run code for APIs, event processing, and automation without managing servers.", "full": "AWS Lambda", "abbr": null, "categoriesText": "Serverless", "scope": "In-scope", "serviceLine": "AWS Lambda"}, {"name": "AWS License Manager", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "License governance", "desc": "Service for managing software licenses across AWS and on-premises environments.", "keyFeature": "License tracking and rule enforcement.", "useCase": "Track bring-your-own-license usage.", "full": "AWS License Manager", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS License Manager"}, {"name": "AWS Management Console", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "General AWS Operations", "subDomain": "Web console", "desc": "Web-based interface for accessing and managing AWS services.", "keyFeature": "Browser-based AWS management UI.", "useCase": "Manually create and manage AWS resources.", "full": "AWS Management Console", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Management Console"}, {"name": "AWS Network Firewall", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Network firewall", "desc": "Managed network firewall service for VPC traffic protection.", "keyFeature": "Stateful network traffic filtering for VPCs.", "useCase": "Inspect and filter traffic entering or leaving VPC subnets.", "full": "AWS Network Firewall", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Network Firewall"}, {"name": "AWS Organizations", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 1: Secure Architectures", "subDomain": "Account management", "desc": "Service for centrally managing multiple AWS accounts.", "keyFeature": "Account organization and policy-based governance.", "useCase": "Group accounts and apply policies across them.", "full": "AWS Organizations", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Organizations"}, {"name": "AWS Outposts", "category": ["Compute"], "group": "Compute", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Hybrid compute", "desc": "AWS infrastructure and services delivered to on-premises locations for hybrid workloads.", "keyFeature": "AWS infrastructure on premises.", "useCase": "Run AWS services locally for low latency or data residency.", "full": "AWS Outposts", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "AWS Outposts"}, {"name": "AWS PrivateLink", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Private service connectivity", "desc": "Private connectivity between VPCs, AWS services, and SaaS services without exposing traffic to the public internet.", "keyFeature": "Private service access over AWS network.", "useCase": "Privately expose a service to consumers in other VPCs.", "full": "AWS PrivateLink", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS PrivateLink"}, {"name": "AWS RAM", "abbr": "AWS RAM", "full": "AWS Resource Access Manager", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Resource sharing", "desc": "Service for securely sharing AWS resources across accounts or within Organizations.", "keyFeature": "Share supported AWS resources across accounts.", "useCase": "Share subnets or other resources with accounts in an organization.", "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS RAM (AWS Resource Access Manager)"}, {"name": "AWS Secrets Manager", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1 / Domain 2", "subDomain": "Secrets storage and rotation", "desc": "Service for storing, retrieving, and rotating secrets such as database credentials and API keys.", "keyFeature": "Managed secrets storage and automatic rotation.", "useCase": "Store and rotate database credentials securely.", "full": "AWS Secrets Manager", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Secrets Manager"}, {"name": "AWS Security Hub", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Security posture management", "desc": "Service that aggregates and prioritizes security findings across AWS accounts.", "keyFeature": "Centralized security findings and compliance checks.", "useCase": "View security posture across accounts and services.", "full": "AWS Security Hub", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Security Hub"}, {"name": "AWS Serverless Application Repository", "category": ["Compute"], "group": "Compute", "domain": "Domain 3: High-Performing Architectures", "subDomain": "Serverless app repository", "desc": "Repository for discovering, deploying, and publishing serverless applications.", "keyFeature": "Reusable serverless application templates.", "useCase": "Deploy a prebuilt Lambda-based application.", "full": "AWS Serverless Application Repository", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "AWS Serverless Application Repository"}, {"name": "AWS Service Catalog", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 1 / Domain 4", "subDomain": "Approved product catalog", "desc": "Service for creating and managing approved catalogs of IT services.", "keyFeature": "Approved product portfolios for self-service provisioning.", "useCase": "Let teams launch only approved infrastructure templates.", "full": "AWS Service Catalog", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Service Catalog"}, {"name": "AWS Shield", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "DDoS protection", "desc": "Managed DDoS protection service for applications running on AWS.", "keyFeature": "DDoS protection for AWS resources.", "useCase": "Protect public applications from DDoS attacks.", "full": "AWS Shield", "abbr": null, "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS Shield"}, {"name": "AWS Site-to-Site VPN", "abbr": "AWS Site-to-Site VPN", "full": "AWS Site-to-Site Virtual Private Network", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 3 / Domain 4", "subDomain": "Network-to-network VPN", "desc": "Encrypted VPN connection between an on-premises network and AWS.", "keyFeature": "IPsec tunnel between data center and VPC.", "useCase": "Connect an office network to AWS quickly over the internet.", "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS Site-to-Site VPN (AWS Site-to-Site Virtual Private Network)"}, {"name": "AWS Snow Family", "category": ["Migration and Transfer"], "group": "Migration & Transfer", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Offline data transfer", "desc": "Physical devices for offline data transfer and edge computing in disconnected environments.", "keyFeature": "Offline bulk data migration and edge processing devices.", "useCase": "Move petabytes of data when network transfer is too slow.", "full": "AWS Snow Family", "abbr": null, "categoriesText": "Migration and Transfer", "scope": "In-scope", "serviceLine": "AWS Snow Family"}, {"name": "AWS Step Functions", "category": ["Application Integration"], "group": "Integration & Messaging", "domain": "Domain 2: Resilient Architectures", "subDomain": "Workflow orchestration", "desc": "Serverless workflow orchestration service for coordinating distributed application steps.", "keyFeature": "Visual workflows with branching, retries, and state management.", "useCase": "Orchestrate Lambda functions and service calls.", "full": "AWS Step Functions", "abbr": null, "categoriesText": "Application Integration", "scope": "In-scope", "serviceLine": "AWS Step Functions"}, {"name": "AWS Storage Gateway", "category": ["Storage"], "group": "Storage", "domain": "Domain 3 / Domain 4", "subDomain": "Hybrid storage", "desc": "Hybrid cloud storage service that connects on-premises environments with AWS storage.", "keyFeature": "On-premises access to cloud-backed storage.", "useCase": "Extend on-premises storage to S3 or other AWS storage.", "full": "AWS Storage Gateway", "abbr": null, "categoriesText": "Storage", "scope": "In-scope", "serviceLine": "AWS Storage Gateway"}, {"name": "AWS Systems Manager", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 2: Resilient Architectures", "subDomain": "Fleet operations", "desc": "Operations management service for AWS resources and hybrid environments.", "keyFeature": "Patching, automation, inventory, parameter store, and fleet operations.", "useCase": "Manage EC2 patching and run commands at scale.", "full": "AWS Systems Manager", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Systems Manager"}, {"name": "AWS Transfer Family", "category": ["Migration and Transfer"], "group": "Migration & Transfer", "domain": "Domain 2 / Domain 4", "subDomain": "Managed file transfer", "desc": "Managed file transfer service supporting protocols such as SFTP, FTPS, and FTP.", "keyFeature": "Managed file transfer endpoints.", "useCase": "Receive partner files using SFTP into S3.", "full": "AWS Transfer Family", "abbr": null, "categoriesText": "Migration and Transfer", "scope": "In-scope", "serviceLine": "AWS Transfer Family"}, {"name": "AWS Transit Gateway", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Network transit hub", "desc": "Network transit hub for connecting VPCs and on-premises networks.", "keyFeature": "Central hub-and-spoke network connectivity.", "useCase": "Connect many VPCs and data centers through one hub.", "full": "AWS Transit Gateway", "abbr": null, "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "AWS Transit Gateway"}, {"name": "AWS Trusted Advisor", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Best-practice checks", "desc": "Service that provides best-practice checks for cost, security, performance, and reliability.", "keyFeature": "Best-practice recommendations across AWS accounts.", "useCase": "Find cost-saving or security improvement opportunities.", "full": "AWS Trusted Advisor", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Trusted Advisor"}, {"name": "AWS WAF", "abbr": "AWS WAF", "full": "AWS Web Application Firewall", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Web application firewall", "desc": "Web application firewall that helps protect web applications from common exploits.", "keyFeature": "Layer 7 web request filtering rules.", "useCase": "Block SQL injection or malicious web requests.", "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "AWS WAF (AWS Web Application Firewall)"}, {"name": "AWS Wavelength", "category": ["Compute"], "group": "Compute", "domain": "Domain 3: High-Performing Architectures", "subDomain": "5G edge compute", "desc": "AWS infrastructure embedded in 5G networks for ultra-low-latency applications.", "keyFeature": "Compute at the 5G network edge.", "useCase": "Mobile applications requiring very low latency.", "full": "AWS Wavelength", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "AWS Wavelength"}, {"name": "AWS Well-Architected Tool", "category": ["Management and Governance"], "group": "Operations & Governance", "domain": "General AWS Architecture", "subDomain": "Architecture review", "desc": "Tool for reviewing workloads against the AWS Well-Architected Framework.", "keyFeature": "Structured workload reviews against Well-Architected pillars.", "useCase": "Assess architecture risks and improvement areas.", "full": "AWS Well-Architected Tool", "abbr": null, "categoriesText": "Management and Governance", "scope": "In-scope", "serviceLine": "AWS Well-Architected Tool"}, {"name": "AWS X-Ray", "category": ["Developer Tools"], "group": "Operations & Governance", "domain": "Domain 2: Resilient Architectures", "subDomain": "Distributed tracing", "desc": "Service for tracing and analyzing requests in distributed applications.", "keyFeature": "Distributed tracing and request analysis.", "useCase": "Find latency or errors across microservices.", "full": "AWS X-Ray", "abbr": null, "categoriesText": "Developer Tools", "scope": "In-scope", "serviceLine": "AWS X-Ray"}, {"name": "ELB", "abbr": "ELB", "full": "Elastic Load Balancing", "category": ["Networking and Content Delivery"], "group": "Networking", "domain": "Domain 2 / Domain 3 / Domain 4", "subDomain": "Load balancing", "desc": "Automatically distributes incoming traffic across multiple targets.", "keyFeature": "Traffic distribution across targets such as EC2, containers, and IPs.", "useCase": "Spread web traffic across multiple application instances.", "categoriesText": "Networking and Content Delivery", "scope": "In-scope", "serviceLine": "ELB (Elastic Load Balancing)"}, {"name": "IAM", "abbr": "IAM", "full": "AWS Identity and Access Management", "category": ["Security, Identity, and Compliance"], "group": "Security & Identity", "domain": "Domain 1: Secure Architectures", "subDomain": "Access management", "desc": "Service for securely managing access to AWS services and resources.", "keyFeature": "Users, groups, roles, and policies for access control.", "useCase": "Apply least privilege access to AWS resources.", "categoriesText": "Security, Identity, and Compliance", "scope": "In-scope", "serviceLine": "IAM (AWS Identity and Access Management)"}, {"name": "Savings Plans", "full": "AWS Savings Plans", "category": ["AWS Cost Management"], "group": "Cost Management", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "Pricing commitment", "desc": "Flexible pricing model that provides discounts in exchange for a usage commitment.", "keyFeature": "Discounts for committed compute usage.", "useCase": "Lower compute cost for predictable usage.", "abbr": null, "categoriesText": "AWS Cost Management", "scope": "In-scope", "serviceLine": "Savings Plans"}, {"name": "VMware Cloud on AWS", "category": ["Compute"], "group": "Compute", "domain": "Domain 4: Cost-Optimized Architectures", "subDomain": "VMware migration", "desc": "Service for running VMware vSphere workloads on AWS infrastructure.", "keyFeature": "VMware SDDC running on AWS.", "useCase": "Migrate VMware workloads with minimal platform change.", "full": "VMware Cloud on AWS", "abbr": null, "categoriesText": "Compute", "scope": "In-scope", "serviceLine": "VMware Cloud on AWS"}];
+const STORAGE_KEY = "aws_saa_c03_in_scope_games_v4";
+const ABBR_SERVICES = SERVICES.filter(s => s.abbr && s.full && s.full !== s.name);
+const CATEGORIES = [...new Set(SERVICES.flatMap(s => s.category))].sort();
+const DOMAINS = [...new Set(SERVICES.map(s => s.domain))].sort();
+const SUBDOMAINS = [...new Set(SERVICES.map(s => s.subDomain))].sort();
+const GROUPS = [...new Set(SERVICES.map(s => s.group))].sort();
+
+let state = loadState();
+let draggedPayload = null;
+
+const TAB_IDS = ["dashboard", "abbrFull", "descMatch", "categorySort", "usecaseQuiz", "flashQuiz", "wrongReview", "explorer"];
+
+function showTab(id) {
+  if (!TAB_IDS.includes(id)) id = "dashboard";
+  TAB_IDS.forEach(t => document.getElementById(t).classList.toggle("hidden", t !== id));
+  document.querySelectorAll("#tabNav .navtab").forEach(a => a.classList.toggle("active", a.dataset.tab === id));
+  state.activeTab = id;
+  saveState();
+}
+
+function defaultState() {
+  return {
+    activeTab: "dashboard",
+    keyServices: [],
+    keyFilterOnly: false,
+    stats: {
+      abbr: { correct: 0, total: 0 },
+      desc: { correct: 0, total: 0 },
+      cat: { correct: 0, total: 0 },
+      usecase: { correct: 0, total: 0 },
+      flash: { correct: 0, total: 0 }
+    },
+    wrongAnswers: [],
+    abbr: { round: [], assignments: {}, roundSize: 12 },
+    desc: { round: [], assignments: {}, roundSize: 10 },
+    cat: { round: [], assignments: {}, roundSize: 18 },
+    usecase: { current: null, answered: false },
+    flash: { current: null, answered: false },
+    explorer: { search: "", domain: "", subDomain: "", category: "", group: "", sortKey: "name", sortDir: "asc" }
+  };
+}
+
+function loadState() {
+  try {
+    const raw = localStorage.getItem(STORAGE_KEY);
+    if (!raw) return defaultState();
+    const parsed = JSON.parse(raw);
+    return mergeDeep(defaultState(), parsed);
+  } catch (e) {
+    console.warn("Could not load state", e);
+    return defaultState();
+  }
+}
+
+function mergeDeep(base, extra) {
+  for (const k of Object.keys(extra || {})) {
+    if (extra[k] && typeof extra[k] === "object" && !Array.isArray(extra[k])) {
+      base[k] = mergeDeep(base[k] || {}, extra[k]);
+    } else {
+      base[k] = extra[k];
+    }
+  }
+  return base;
+}
+
+function saveState() {
+  localStorage.setItem(STORAGE_KEY, JSON.stringify(state));
+  renderStats();
+}
+
+function resetAllProgress() {
+  if (!confirm("Reset all progress, current rounds, filters, and wrong-answer history? Key-service flags are never reset and will be kept.")) return;
+  const keepKeyServices = state.keyServices;
+  localStorage.removeItem(STORAGE_KEY);
+  state = defaultState();
+  state.keyServices = keepKeyServices;
+  initAll(true);
+}
+
+function clearWrongAnswers() {
+  if (!confirm("Clear wrong-answer history only?")) return;
+  state.wrongAnswers = [];
+  saveState();
+  renderWrongReview();
+}
+
+function serviceByName(name) {
+  return SERVICES.find(s => s.name === name);
+}
+
+function escapeHtml(str) {
+  return String(str ?? "").replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+}
+
+function shuffle(arr) {
+  const copy = [...arr];
+  for (let i = copy.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [copy[i], copy[j]] = [copy[j], copy[i]];
+  }
+  return copy;
+}
+
+function sample(arr, n) {
+  return shuffle(arr).slice(0, Math.min(n, arr.length));
+}
+
+// Prefer services not seen in the previous round; only reuse them if the
+// pool of fresh services is too small to fill the round.
+function sampleAvoiding(pool, n, avoidNames) {
+  const avoidSet = new Set(avoidNames || []);
+  const fresh = pool.filter(s => !avoidSet.has(s.name));
+  if (fresh.length >= n) return sample(fresh, n);
+  const reused = pool.filter(s => avoidSet.has(s.name));
+  return shuffle([...fresh, ...sample(reused, n - fresh.length)]);
+}
+
+// Key-service flagging: any service can be starred as "key" from any screen,
+// and the global "Key services only" toggle restricts every game/list to
+// just the flagged set (never showing any other service while it's on).
+function isKeyService(name) {
+  return state.keyServices.includes(name);
+}
+
+function activePool(pool) {
+  return state.keyFilterOnly ? pool.filter(s => isKeyService(s.name)) : pool;
+}
+
+function keyStar(name) {
+  const active = isKeyService(name);
+  const safe = String(name).replace(/'/g, "\\'");
+  return `<button type="button" class="starBtn${active ? " active" : ""}" draggable="false" title="${active ? "Unflag key service" : "Flag as key service"}" onclick="event.stopPropagation(); toggleKeyService('${safe}')">${active ? "★" : "☆"}</button>`;
+}
+
+function toggleKeyService(name) {
+  const idx = state.keyServices.indexOf(name);
+  if (idx === -1) state.keyServices.push(name);
+  else state.keyServices.splice(idx, 1);
+  saveState();
+  renderAll();
+}
+
+function toggleKeyFilterOnly() {
+  state.keyFilterOnly = document.getElementById("keyFilterToggle").checked;
+  regenerateRoundsForFilter();
+  saveState();
+  renderAll();
+}
+
+// Rebuild every round/question from the active pool so toggling the filter
+// immediately focuses on (or restores variety across) the right service set.
+function regenerateRoundsForFilter() {
+  const abbrPool = activePool(ABBR_SERVICES);
+  const svcPool = activePool(SERVICES);
+  state.abbr.round = sample(abbrPool, state.abbr.roundSize || 12).map(s => s.name);
+  state.abbr.assignments = {};
+  state.desc.round = sample(svcPool, state.desc.roundSize || 10).map(s => s.name);
+  state.desc.assignments = {};
+  state.cat.round = sample(svcPool, state.cat.roundSize || 18).map(s => s.name);
+  state.cat.assignments = {};
+  state.usecase.current = svcPool.length ? makeQuestion(sample(svcPool, 1)[0], "usecase") : null;
+  state.usecase.answered = false;
+  state.flash.current = svcPool.length ? makeQuestion(sample(svcPool, 1)[0], "flash") : null;
+  state.flash.answered = false;
+}
+
+// What a round should actually display right now: the saved round names,
+// live-filtered to flagged services whenever the global filter is on.
+function visibleRound(names) {
+  let round = (names || []).map(serviceByName).filter(Boolean);
+  if (state.keyFilterOnly) round = round.filter(s => isKeyService(s.name));
+  return round;
+}
+
+function addWrong(game, service, prompt, selected, correct, optionService) {
+  const svc = typeof service === "string" ? serviceByName(service) : service;
+  const opt = optionService ? (typeof optionService === "string" ? serviceByName(optionService) : optionService) : null;
+  state.wrongAnswers.unshift({
+    time: new Date().toISOString(),
+    game,
+    service: svc?.name || "",
+    category: svc?.category?.join(", ") || "",
+    group: svc?.group || "",
+    domain: svc?.domain || "",
+    subDomain: svc?.subDomain || "",
+    prompt,
+    selected,
+    correct,
+    selectedOptionBestMatches: opt?.name || "",
+    selectedOptionKeyFeature: opt?.keyFeature || "",
+    selectedOptionUseCase: opt?.useCase || ""
+  });
+  if (state.wrongAnswers.length > 1000) state.wrongAnswers.pop();
+}
+
+function statPct(obj) {
+  return obj.total ? Math.round((obj.correct / obj.total) * 100) + "%" : "0%";
+}
+
+function renderStats() {
+  document.getElementById("svcCount").textContent = SERVICES.length + " services / " + ABBR_SERVICES.length + " abbreviation services";
+  const items = [
+    ["Short ↔ Full", state.stats.abbr],
+    ["Service ↔ Description", state.stats.desc],
+    ["Category Sort", state.stats.cat],
+    ["Use-case Quiz", state.stats.usecase],
+    ["Flashcard MCQ", state.stats.flash],
+    ["Wrong history", { correct: state.wrongAnswers.length, total: 0 }]
+  ];
+  document.getElementById("stats").innerHTML = items.map(([label, s]) => {
+    if (label === "Wrong history") return `<div class="stat"><span>${label}</span><b>${state.wrongAnswers.length}</b><small>saved wrong answers</small></div>`;
+    return `<div class="stat"><span>${label}</span><b>${s.correct}/${s.total}</b><small>${statPct(s)} correct</small></div>`;
+  }).join("") + `<div class="stat"><span>Key services</span><b>${state.keyServices.length}</b><small>flagged for focused testing</small></div>`;
+}
+
+function makeDraggable(label, payload) {
+  const d = document.createElement("div");
+  d.className = "draggable";
+  d.draggable = true;
+  d.dataset.payload = JSON.stringify(payload);
+  const text = document.createElement("span");
+  text.textContent = label;
+  d.appendChild(text);
+  if (payload && payload.name) d.insertAdjacentHTML("beforeend", keyStar(payload.name));
+  d.addEventListener("dragstart", ev => {
+    draggedPayload = payload;
+    ev.dataTransfer.setData("text/plain", JSON.stringify(payload));
+  });
+  return d;
+}
+
+function setupDropzone(el, onDrop) {
+  el.addEventListener("dragover", ev => { ev.preventDefault(); el.classList.add("over"); });
+  el.addEventListener("dragleave", () => el.classList.remove("over"));
+  el.addEventListener("drop", ev => {
+    ev.preventDefault();
+    el.classList.remove("over");
+    let payload = draggedPayload;
+    try {
+      const raw = ev.dataTransfer.getData("text/plain");
+      if (raw) payload = JSON.parse(raw);
+    } catch(e) {}
+    onDrop(payload, el);
+    draggedPayload = null;
+  });
+}
+
+// Auto-scroll the page while dragging near the top/bottom edge of the
+// viewport, so drop targets below (or above) the current view are reachable.
+const AUTOSCROLL_EDGE = 90;
+const AUTOSCROLL_SPEED = 22;
+let autoScrollDir = 0;
+let autoScrollRaf = null;
+
+function autoScrollTick() {
+  if (!autoScrollDir) { autoScrollRaf = null; return; }
+  window.scrollBy(0, autoScrollDir * AUTOSCROLL_SPEED);
+  autoScrollRaf = requestAnimationFrame(autoScrollTick);
+}
+
+function setAutoScrollDir(dir) {
+  autoScrollDir = dir;
+  if (autoScrollDir && autoScrollRaf === null) autoScrollRaf = requestAnimationFrame(autoScrollTick);
+}
+
+document.addEventListener("dragover", ev => {
+  const y = ev.clientY;
+  if (y < AUTOSCROLL_EDGE) setAutoScrollDir(-1);
+  else if (y > window.innerHeight - AUTOSCROLL_EDGE) setAutoScrollDir(1);
+  else setAutoScrollDir(0);
+});
+document.addEventListener("dragend", () => setAutoScrollDir(0));
+document.addEventListener("drop", () => setAutoScrollDir(0));
+
+function selectedChip(label, onRemove, keyName) {
+  const star = keyName ? keyStar(keyName) : "";
+  return `<span class="pill">${star}${escapeHtml(label)} <button class="btn small" style="margin-left:6px" onclick="${onRemove}">×</button></span>`;
+}
+
+// Game 1
+function newAbbrRound() {
+  state.abbr.roundSize = Number(document.getElementById("abbrRoundSize").value || 12);
+  state.abbr.round = sampleAvoiding(activePool(ABBR_SERVICES), state.abbr.roundSize, state.abbr.round).map(s => s.name);
+  state.abbr.assignments = {};
+  saveState();
+  renderAbbrMatch();
+}
+
+function renderAbbrMatch() {
+  document.getElementById("abbrRoundSize").value = state.abbr.roundSize || 12;
+  if (!state.abbr.round.length) state.abbr.round = sample(activePool(ABBR_SERVICES), state.abbr.roundSize || 12).map(s => s.name);
+  const round = visibleRound(state.abbr.round);
+  const chipBox = document.getElementById("abbrChips");
+  const targetBox = document.getElementById("abbrTargets");
+  const matchedCard = document.getElementById("abbrMatchedCard");
+  if (!round.length) {
+    chipBox.innerHTML = "";
+    targetBox.innerHTML = `<p class="muted">No key-flagged abbreviation-style services yet. Flag some with the ★ button, then click "New round".</p>`;
+    matchedCard.classList.add("hidden");
+    return;
+  }
+  // Matched pairs move out of the target list and into a compact list below,
+  // so the remaining (unmatched) targets stay short enough to see at a glance.
+  const unmatched = round.filter(s => !state.abbr.assignments[s.name]);
+  const matched = round.filter(s => state.abbr.assignments[s.name]);
+
+  const assignedFulls = new Set(Object.values(state.abbr.assignments || {}));
+  const chips = shuffle(unmatched.filter(s => !assignedFulls.has(s.full)));
+  chipBox.innerHTML = "";
+  chips.forEach(s => chipBox.appendChild(makeDraggable(s.full, { type: "abbrFull", name: s.name, label: s.full })));
+
+  targetBox.innerHTML = unmatched.length ? "" : `<p class="muted">All matched — click "Check answers" below.</p>`;
+  unmatched.forEach(s => {
+    const row = document.createElement("div");
+    row.className = "matchRow";
+    row.innerHTML = `<div class="promptBox">${keyStar(s.name)}<span>${escapeHtml(s.name)}</span></div><div class="dropzone" data-target="${escapeHtml(s.name)}"><span class='muted'>Drop full name here</span></div>`;
+    targetBox.appendChild(row);
+    setupDropzone(row.querySelector(".dropzone"), (payload) => {
+      if (!payload || payload.type !== "abbrFull") return;
+      // Remove same full name from other target.
+      Object.keys(state.abbr.assignments).forEach(k => {
+        if (state.abbr.assignments[k] === payload.label) delete state.abbr.assignments[k];
+      });
+      state.abbr.assignments[s.name] = payload.label;
+      saveState();
+      renderAbbrMatch();
+    });
+  });
+
+  matchedCard.classList.toggle("hidden", !matched.length);
+  if (matched.length) {
+    document.getElementById("abbrMatchedCount").textContent = `(${matched.length}/${round.length})`;
+    document.getElementById("abbrMatched").innerHTML = `<div class="matchedList">${matched.map(s => {
+      const full = state.abbr.assignments[s.name];
+      return `<div class="matchedRow">${keyStar(s.name)}<b>${escapeHtml(s.name)}</b><span class="matchedArrow">→</span><span class="matchedTo">${escapeHtml(full)}</span><button class="btn small" onclick="removeAbbrAssignment('${s.name.replace(/'/g, "\\'")}')">Undo</button></div>`;
+    }).join("")}</div>`;
+  }
+}
+
+function removeAbbrAssignment(name) {
+  delete state.abbr.assignments[name];
+  saveState();
+  renderAbbrMatch();
+}
+
+function checkAbbrMatch() {
+  const round = visibleRound(state.abbr.round);
+  let correct = 0;
+  let details = [];
+  round.forEach(s => {
+    const selected = state.abbr.assignments[s.name] || "";
+    const ok = selected === s.full;
+    if (ok) correct++;
+    else {
+      addWrong("Short ↔ Full", s, s.name, selected || "(blank)", s.full);
+      details.push(`<li><b>${escapeHtml(s.name)}</b>: correct full name is <b>${escapeHtml(s.full)}</b>. Your answer: ${escapeHtml(selected || "(blank)")}.</li>`);
+    }
+  });
+  state.stats.abbr.correct += correct;
+  state.stats.abbr.total += round.length;
+  saveState();
+  const fb = document.getElementById("abbrFeedback");
+  fb.className = "feedback " + (correct === round.length ? "good" : "bad");
+  fb.innerHTML = `<b>Score: ${correct}/${round.length}</b>` + (details.length ? `<ul class="explainList">${details.join("")}</ul>` : `<p>Perfect. Great job.</p>`);
+  fb.classList.remove("hidden");
+  renderWrongReview();
+}
+
+// Game 2
+function newDescRound() {
+  state.desc.roundSize = Number(document.getElementById("descRoundSize").value || 10);
+  state.desc.round = sampleAvoiding(activePool(SERVICES), state.desc.roundSize, state.desc.round).map(s => s.name);
+  state.desc.assignments = {};
+  saveState();
+  renderDescMatch();
+}
+
+function renderDescMatch() {
+  document.getElementById("descRoundSize").value = state.desc.roundSize || 10;
+  if (!state.desc.round.length) state.desc.round = sample(activePool(SERVICES), state.desc.roundSize || 10).map(s => s.name);
+  const round = visibleRound(state.desc.round);
+  const chipBox = document.getElementById("descChips");
+  const targetBox = document.getElementById("descTargets");
+  const matchedCard = document.getElementById("descMatchedCard");
+  if (!round.length) {
+    chipBox.innerHTML = "";
+    targetBox.innerHTML = `<p class="muted">No key-flagged services yet. Flag some with the ★ button, then click "New round".</p>`;
+    matchedCard.classList.add("hidden");
+    return;
+  }
+  // Matched pairs move out of the target list and into a compact list below,
+  // so the remaining (unmatched) targets stay short enough to see at a glance.
+  const unmatched = round.filter(s => !state.desc.assignments[s.name]);
+  const matched = round.filter(s => state.desc.assignments[s.name]);
+
+  const assignedNames = new Set(Object.values(state.desc.assignments || {}));
+  const chips = shuffle(unmatched.filter(s => !assignedNames.has(s.name)));
+  chipBox.innerHTML = "";
+  chips.forEach(s => chipBox.appendChild(makeDraggable(s.desc, { type: "desc", name: s.name, label: s.desc })));
+
+  targetBox.innerHTML = unmatched.length ? "" : `<p class="muted">All matched — click "Check answers" below.</p>`;
+  unmatched.forEach(s => {
+    const row = document.createElement("div");
+    row.className = "matchRow";
+    row.innerHTML = `<div class="promptBox">${keyStar(s.name)}<span>${escapeHtml(s.serviceLine || s.name)}<br><small class="muted">${escapeHtml(s.group)} · ${escapeHtml(s.category.join(", "))}</small></span></div><div class="dropzone" data-target="${escapeHtml(s.name)}"><span class='muted'>Drop description here</span></div>`;
+    targetBox.appendChild(row);
+    setupDropzone(row.querySelector(".dropzone"), (payload) => {
+      if (!payload || payload.type !== "desc") return;
+      Object.keys(state.desc.assignments).forEach(k => {
+        if (state.desc.assignments[k] === payload.name) delete state.desc.assignments[k];
+      });
+      state.desc.assignments[s.name] = payload.name;
+      saveState();
+      renderDescMatch();
+    });
+  });
+
+  matchedCard.classList.toggle("hidden", !matched.length);
+  if (matched.length) {
+    document.getElementById("descMatchedCount").textContent = `(${matched.length}/${round.length})`;
+    document.getElementById("descMatched").innerHTML = `<div class="matchedList">${matched.map(s => {
+      const assigned = serviceByName(state.desc.assignments[s.name]);
+      return `<div class="matchedRow">${keyStar(s.name)}<b>${escapeHtml(s.name)}</b><span class="matchedArrow">→</span><span class="matchedTo">${escapeHtml(assigned ? assigned.desc : "")}</span><button class="btn small" onclick="removeDescAssignment('${s.name.replace(/'/g, "\\'")}')">Undo</button></div>`;
+    }).join("")}</div>`;
+  }
+}
+
+function removeDescAssignment(name) {
+  delete state.desc.assignments[name];
+  saveState();
+  renderDescMatch();
+}
+
+function checkDescMatch() {
+  const round = visibleRound(state.desc.round);
+  let correct = 0;
+  let details = [];
+  round.forEach(s => {
+    const selectedName = state.desc.assignments[s.name] || "";
+    const selectedSvc = serviceByName(selectedName);
+    const ok = selectedName === s.name;
+    if (ok) correct++;
+    else {
+      addWrong("Service ↔ Description", s, s.name, selectedSvc ? selectedSvc.name + ": " + selectedSvc.desc : "(blank)", s.desc, selectedSvc);
+      details.push(`<li><b>${escapeHtml(s.name)}</b>: correct description is <b>${escapeHtml(s.desc)}</b>. ${selectedSvc ? `Your selected description belongs better to <b>${escapeHtml(selectedSvc.name)}</b>: ${escapeHtml(selectedSvc.useCase)}` : "You left it blank."}</li>`);
+    }
+  });
+  state.stats.desc.correct += correct;
+  state.stats.desc.total += round.length;
+  saveState();
+  const fb = document.getElementById("descFeedback");
+  fb.className = "feedback " + (correct === round.length ? "good" : "bad");
+  fb.innerHTML = `<b>Score: ${correct}/${round.length}</b>` + (details.length ? `<ul class="explainList">${details.join("")}</ul>` : `<p>Perfect. Great job.</p>`);
+  fb.classList.remove("hidden");
+  renderWrongReview();
+}
+
+// Game 3
+function newCategoryRound() {
+  state.cat.roundSize = Number(document.getElementById("catRoundSize").value || 18);
+  state.cat.round = sampleAvoiding(activePool(SERVICES), state.cat.roundSize, state.cat.round).map(s => s.name);
+  state.cat.assignments = {};
+  saveState();
+  renderCategorySort();
+}
+
+function renderCategorySort() {
+  document.getElementById("catRoundSize").value = state.cat.roundSize || 18;
+  if (!state.cat.round.length) state.cat.round = sample(activePool(SERVICES), state.cat.roundSize || 18).map(s => s.name);
+  const round = visibleRound(state.cat.round);
+  const chipBox = document.getElementById("catChips");
+  const targets = document.getElementById("catTargets");
+  if (!round.length) {
+    chipBox.innerHTML = "";
+    targets.innerHTML = `<p class="muted">No key-flagged services yet. Flag some with the ★ button, then click "New round".</p>`;
+    return;
+  }
+  const assignedNames = new Set(Object.keys(state.cat.assignments || {}));
+  chipBox.innerHTML = "";
+  shuffle(round.filter(s => !assignedNames.has(s.name))).forEach(s => {
+    chipBox.appendChild(makeDraggable(s.serviceLine || s.name, { type: "cat", name: s.name, label: s.name }));
+  });
+  targets.innerHTML = "";
+  CATEGORIES.forEach(cat => {
+    const card = document.createElement("div");
+    card.className = "card";
+    const assigned = Object.entries(state.cat.assignments || {}).filter(([svc, c]) => c === cat).map(([svc]) => serviceByName(svc)).filter(s => s && round.some(r => r.name === s.name));
+    card.innerHTML = `<h3>${escapeHtml(cat)}</h3><div class="dropzone" data-cat="${escapeHtml(cat)}">${assigned.map(s => selectedChip(s.name, `removeCatAssignment('${s.name.replace(/'/g, "\\'")}')`, s.name)).join("") || "<span class='muted'>Drop services here</span>"}</div>`;
+    targets.appendChild(card);
+    setupDropzone(card.querySelector(".dropzone"), (payload) => {
+      if (!payload || payload.type !== "cat") return;
+      state.cat.assignments[payload.name] = cat;
+      saveState();
+      renderCategorySort();
+    });
+  });
+}
+
+function removeCatAssignment(name) {
+  delete state.cat.assignments[name];
+  saveState();
+  renderCategorySort();
+}
+
+function checkCategorySort() {
+  const round = visibleRound(state.cat.round);
+  let correct = 0;
+  let details = [];
+  round.forEach(s => {
+    const selected = state.cat.assignments[s.name] || "";
+    const ok = s.category.includes(selected);
+    if (ok) correct++;
+    else {
+      addWrong("Category Sort", s, s.name, selected || "(blank)", s.category.join(", "));
+      details.push(`<li><b>${escapeHtml(s.name)}</b>: correct category: <b>${escapeHtml(s.category.join(", "))}</b>. Your answer: ${escapeHtml(selected || "(blank)")}. Key feature: ${escapeHtml(s.keyFeature)}</li>`);
+    }
+  });
+  state.stats.cat.correct += correct;
+  state.stats.cat.total += round.length;
+  saveState();
+  const fb = document.getElementById("catFeedback");
+  fb.className = "feedback " + (correct === round.length ? "good" : "bad");
+  fb.innerHTML = `<b>Score: ${correct}/${round.length}</b>` + (details.length ? `<ul class="explainList">${details.join("")}</ul>` : `<p>Perfect. Great job.</p>`);
+  fb.classList.remove("hidden");
+  renderWrongReview();
+}
+
+// Quiz helpers
+function makeQuestion(correctSvc, mode) {
+  const pool = activePool(SERVICES.filter(s => s.name !== correctSvc.name));
+  const sameGroup = pool.filter(s => s.group === correctSvc.group);
+  const sameCategory = pool.filter(s => s.category.some(c => correctSvc.category.includes(c)));
+  let distractors = [];
+  for (const source of [sameCategory, sameGroup, pool]) {
+    for (const s of shuffle(source)) {
+      if (distractors.length >= 3) break;
+      if (!distractors.find(d => d.name === s.name)) distractors.push(s);
+    }
+    if (distractors.length >= 3) break;
+  }
+  return {
+    correct: correctSvc.name,
+    options: shuffle([correctSvc, ...distractors]).map(s => s.name),
+    mode
+  };
+}
+
+function optionExplanation(optionSvc, correctSvc, selectedName) {
+  if (optionSvc.name === correctSvc.name) {
+    return `<li><b class="statusGood">${escapeHtml(optionSvc.name)}</b> — Correct. Best match because: ${escapeHtml(optionSvc.keyFeature)} Use case: ${escapeHtml(optionSvc.useCase)}</li>`;
+  }
+  const chosen = optionSvc.name === selectedName ? " Your selected option." : "";
+  return `<li><b class="statusBad">${escapeHtml(optionSvc.name)}</b> — Wrong for this prompt.${chosen} This option better matches: <b>${escapeHtml(optionSvc.useCase)}</b>. Key feature/use case to remember: ${escapeHtml(optionSvc.keyFeature)}</li>`;
+}
+
+// Game 4 use-case
+function newUsecaseQuestion() {
+  const previous = state.usecase.current ? [state.usecase.current.correct] : [];
+  const pool = activePool(SERVICES);
+  const picked = sampleAvoiding(pool, 1, previous);
+  state.usecase.current = picked.length ? makeQuestion(picked[0], "usecase") : null;
+  state.usecase.answered = false;
+  saveState();
+  renderUsecaseQuestion();
+}
+
+function skipUsecaseQuestion() { newUsecaseQuestion(); }
+
+function renderUsecaseQuestion() {
+  const card = document.getElementById("usecaseCard");
+  if (!state.usecase.current) {
+    card.innerHTML = `<p class="muted">No key-flagged services available. Flag services with the ★ button, or turn off "Key services only".</p>`;
+    return;
+  }
+  const q = state.usecase.current;
+  const svc = serviceByName(q.correct);
+  card.innerHTML = `
+    <div class="pill">${escapeHtml(svc.group)}</div> <div class="pill">${escapeHtml(svc.category.join(", "))}</div>
+    <h3>Requirement</h3>
+    <p style="font-size:18px"><b>${escapeHtml(svc.useCase)}</b></p>
+    <p class="muted">Which AWS service is the best fit?</p>
+    <div id="usecaseOptions">
+      ${q.options.map(name => `<div class="option" onclick="answerUsecase('${name.replace(/'/g, "\\'")}')"><span class="optLabel">${escapeHtml(name)}</span>${keyStar(name)}</div>`).join("")}
+    </div>
+    <div id="usecaseFeedback" class="feedback hidden"></div>
+  `;
+}
+
+function answerUsecase(selectedName) {
+  if (state.usecase.answered) return;
+  const q = state.usecase.current;
+  const correctSvc = serviceByName(q.correct);
+  const selectedSvc = serviceByName(selectedName);
+  const ok = selectedName === q.correct;
+  state.usecase.answered = true;
+  state.stats.usecase.total++;
+  if (ok) state.stats.usecase.correct++;
+  else addWrong("Use-case Quiz", correctSvc, correctSvc.useCase, selectedName, q.correct, selectedSvc);
+  saveState();
+  const optionEls = document.querySelectorAll("#usecaseOptions .option");
+  optionEls.forEach((el, i) => {
+    const optName = q.options[i];
+    if (optName === q.correct) el.classList.add("correct");
+    else if (optName === selectedName) el.classList.add("wrong");
+  });
+  const fb = document.getElementById("usecaseFeedback");
+  fb.className = "feedback " + (ok ? "good" : "bad");
+  fb.innerHTML = `
+    <b>${ok ? "Correct" : "Not quite"}</b>
+    <p><b>Best answer:</b> ${escapeHtml(correctSvc.name)} — ${escapeHtml(correctSvc.keyFeature)}</p>
+    <h4>Why each option is right or wrong</h4>
+    <ul class="explainList">${q.options.map(n => optionExplanation(serviceByName(n), correctSvc, selectedName)).join("")}</ul>
+    <button class="btn primary" onclick="newUsecaseQuestion()">Next question</button>
+  `;
+  fb.classList.remove("hidden");
+  renderStats();
+  renderWrongReview();
+}
+
+// Game 5 flashcard MCQ
+function newFlashQuestion() {
+  const previous = state.flash.current ? [state.flash.current.correct] : [];
+  const pool = activePool(SERVICES);
+  const picked = sampleAvoiding(pool, 1, previous);
+  state.flash.current = picked.length ? makeQuestion(picked[0], "flash") : null;
+  state.flash.answered = false;
+  saveState();
+  renderFlashQuestion();
+}
+
+function skipFlashQuestion() { newFlashQuestion(); }
+
+function renderFlashQuestion() {
+  const card = document.getElementById("flashCard");
+  if (!state.flash.current) {
+    card.innerHTML = `<p class="muted">No key-flagged services available. Flag services with the ★ button, or turn off "Key services only".</p>`;
+    return;
+  }
+  const q = state.flash.current;
+  const svc = serviceByName(q.correct);
+  card.innerHTML = `
+    <div class="pill">${escapeHtml(svc.group)}</div> <div class="pill">${escapeHtml(svc.category.join(", "))}</div>
+    <h3 class="serviceName">${keyStar(svc.name)} ${escapeHtml(svc.serviceLine || svc.name)}</h3>
+    <p class="muted">Select the best characteristic/use case for this service.</p>
+    <div id="flashOptions">
+      ${q.options.map(name => {
+        const opt = serviceByName(name);
+        return `<div class="option" onclick="answerFlash('${name.replace(/'/g, "\\'")}')"><span class="optLabel"><b>${escapeHtml(opt.keyFeature)}</b><br><small>${escapeHtml(opt.useCase)}</small></span>${keyStar(name)}</div>`;
+      }).join("")}
+    </div>
+    <div id="flashFeedback" class="feedback hidden"></div>
+  `;
+}
+
+function answerFlash(selectedOptionServiceName) {
+  if (state.flash.answered) return;
+  const q = state.flash.current;
+  const correctSvc = serviceByName(q.correct);
+  const selectedSvc = serviceByName(selectedOptionServiceName);
+  const ok = selectedOptionServiceName === q.correct;
+  state.flash.answered = true;
+  state.stats.flash.total++;
+  if (ok) state.stats.flash.correct++;
+  else addWrong("Flashcard MCQ", correctSvc, correctSvc.name, `${selectedSvc.keyFeature} — ${selectedSvc.useCase}`, `${correctSvc.keyFeature} — ${correctSvc.useCase}`, selectedSvc);
+  saveState();
+  const optionEls = document.querySelectorAll("#flashOptions .option");
+  optionEls.forEach((el, i) => {
+    const optName = q.options[i];
+    if (optName === q.correct) el.classList.add("correct");
+    else if (optName === selectedOptionServiceName) el.classList.add("wrong");
+  });
+  const fb = document.getElementById("flashFeedback");
+  fb.className = "feedback " + (ok ? "good" : "bad");
+  fb.innerHTML = `
+    <b>${ok ? "Correct" : "Not quite"}</b>
+    <p><b>Best match for ${escapeHtml(correctSvc.name)}:</b> ${escapeHtml(correctSvc.keyFeature)} Use case: ${escapeHtml(correctSvc.useCase)}</p>
+    <h4>Why each characteristic/use case is right or wrong</h4>
+    <ul class="explainList">${q.options.map(n => {
+      const opt = serviceByName(n);
+      if (opt.name === correctSvc.name) return `<li><b class="statusGood">${escapeHtml(opt.keyFeature)}</b> — Correct for <b>${escapeHtml(correctSvc.name)}</b>. Use case: ${escapeHtml(opt.useCase)}</li>`;
+      const chosen = opt.name === selectedOptionServiceName ? " Your selected option." : "";
+      return `<li><b class="statusBad">${escapeHtml(opt.keyFeature)}</b> — Wrong for <b>${escapeHtml(correctSvc.name)}</b>.${chosen} This characteristic/use case belongs to <b>${escapeHtml(opt.name)}</b>: ${escapeHtml(opt.useCase)}</li>`;
+    }).join("")}</ul>
+    <button class="btn primary" onclick="newFlashQuestion()">Next flashcard</button>
+  `;
+  fb.classList.remove("hidden");
+  renderStats();
+  renderWrongReview();
+}
+
+// Wrong answers review and CSV
+function renderWrongReview() {
+  const table = document.getElementById("wrongTable");
+  const entries = state.keyFilterOnly ? state.wrongAnswers.filter(w => isKeyService(w.service)) : state.wrongAnswers;
+  if (!entries.length) {
+    table.innerHTML = `<tr><td class="muted">${state.keyFilterOnly ? "No wrong answers for key-flagged services yet." : "No wrong answers saved yet."}</td></tr>`;
+    return;
+  }
+  const rows = entries.map(w => `
+    <tr>
+      <td>${escapeHtml(new Date(w.time).toLocaleString())}</td>
+      <td>${escapeHtml(w.game)}</td>
+      <td>${keyStar(w.service)} <b>${escapeHtml(w.service)}</b><br><span class="muted">${escapeHtml(w.category)} · ${escapeHtml(w.subDomain)}</span></td>
+      <td>${escapeHtml(w.prompt)}</td>
+      <td>${escapeHtml(w.selected)}</td>
+      <td>${escapeHtml(w.correct)}</td>
+      <td>${w.selectedOptionBestMatches ? `<b>${escapeHtml(w.selectedOptionBestMatches)}</b><br>${escapeHtml(w.selectedOptionKeyFeature)}<br><span class="muted">${escapeHtml(w.selectedOptionUseCase)}</span>` : ""}</td>
+    </tr>
+  `).join("");
+  table.innerHTML = `
+    <thead><tr><th>Time</th><th>Game</th><th>Service</th><th>Prompt</th><th>Your answer</th><th>Correct answer</th><th>Your wrong option best matches</th></tr></thead>
+    <tbody>${rows}</tbody>
+  `;
+}
+
+function csvEscape(v) {
+  const s = String(v ?? "");
+  return /[",\n]/.test(s) ? '"' + s.replace(/"/g, '""') + '"' : s;
+}
+
+function downloadCsv(filename, rows) {
+  const csv = rows.map(r => r.map(csvEscape).join(",")).join("\n");
+  const blob = new Blob([csv], {type: "text/csv;charset=utf-8"});
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  a.click();
+  setTimeout(() => URL.revokeObjectURL(url), 500);
+}
+
+function exportWrongCsv() {
+  const header = ["time","game","service","category","group","domain","subDomain","prompt","yourAnswer","correctAnswer","wrongOptionBestMatches","wrongOptionKeyFeature","wrongOptionUseCase"];
+  const rows = [header, ...state.wrongAnswers.map(w => [w.time,w.game,w.service,w.category,w.group,w.domain,w.subDomain,w.prompt,w.selected,w.correct,w.selectedOptionBestMatches,w.selectedOptionKeyFeature,w.selectedOptionUseCase])];
+  downloadCsv("aws_saa_c03_wrong_services.csv", rows);
+}
+
+// Explorer
+function initFilterSelect(id, values, label) {
+  const sel = document.getElementById(id);
+  sel.innerHTML = `<option value="">All ${label}</option>` + values.map(v => `<option value="${escapeHtml(v)}">${escapeHtml(v)}</option>`).join("");
+}
+
+function restoreExplorerFilters() {
+  document.getElementById("filterSearch").value = state.explorer.search || "";
+  document.getElementById("filterDomain").value = state.explorer.domain || "";
+  document.getElementById("filterSubDomain").value = state.explorer.subDomain || "";
+  document.getElementById("filterCategory").value = state.explorer.category || "";
+  document.getElementById("filterGroup").value = state.explorer.group || "";
+}
+
+function updateExplorerFromInputs() {
+  state.explorer.search = document.getElementById("filterSearch").value;
+  state.explorer.domain = document.getElementById("filterDomain").value;
+  state.explorer.subDomain = document.getElementById("filterSubDomain").value;
+  state.explorer.category = document.getElementById("filterCategory").value;
+  state.explorer.group = document.getElementById("filterGroup").value;
+  saveState();
+  renderExplorer();
+}
+
+function clearExplorerFilters() {
+  state.explorer = { search: "", domain: "", subDomain: "", category: "", group: "", sortKey: "name", sortDir: "asc" };
+  saveState();
+  restoreExplorerFilters();
+  renderExplorer();
+}
+
+const explorerCols = [
+  ["name","Service"],
+  ["full","Full name"],
+  ["abbr","Abbr"],
+  ["domain","Domain"],
+  ["subDomain","Sub-domain"],
+  ["categoriesText","Category"],
+  ["group","Group"],
+  ["desc","Description"],
+  ["keyFeature","Key feature"],
+  ["useCase","Use case"]
+];
+
+// "Similar services" (last column): ranked by shared meaningful keywords
+// across desc/keyFeature/useCase, so it can surface look-alikes even across
+// different categories — not just an exact-field match.
+const RELATION_STOPWORDS = new Set([
+  "with","that","this","from","into","your","using","service","services",
+  "aws","amazon","for","the","and","data","use","used","uses","case","cases",
+  "provides","provide","allows","allow","enables","enable","managed","management",
+  "supports","support","features","feature","without","other","across","between",
+  "through","based","when","where","have","has","are","can","also","more","such",
+  "these","their","while","which","than","then","over","only","most","some","being"
+]);
+
+function keywordSet(s) {
+  const text = [s.desc, s.keyFeature, s.useCase].join(" ").toLowerCase();
+  const words = text.match(/[a-z][a-z0-9+-]{3,}/g) || [];
+  return new Set(words.filter(w => !RELATION_STOPWORDS.has(w)));
+}
+
+const KEYWORD_SETS = new Map(SERVICES.map(s => [s.name, keywordSet(s)]));
+
+function sharedKeywordCount(a, b) {
+  const setA = KEYWORD_SETS.get(a.name);
+  const setB = KEYWORD_SETS.get(b.name);
+  let count = 0;
+  setA.forEach(w => { if (setB.has(w)) count++; });
+  return count;
+}
+
+// Top matches by shared keywords, ranked within the same-category pool first
+// (a global keyword search is too noisy on short one-sentence field text —
+// it lets one incidental shared word outrank genuine category peers). Falls
+// back to the full dataset only if a service has no category peers at all.
+// Capped — this is a curated "closest look-alikes" signal, not the
+// exhaustive/exact relationship the same-category column already gives.
+function similarServices(s, limit = 6) {
+  const categoryPeers = SERVICES.filter(o => o.name !== s.name && o.category.some(c => s.category.includes(c)));
+  const pool = categoryPeers.length ? categoryPeers : SERVICES.filter(o => o.name !== s.name);
+  const ranked = pool
+    .map(o => ({ svc: o, score: sharedKeywordCount(s, o) }))
+    .sort((a, b) => b.score - a.score || a.svc.name.localeCompare(b.svc.name));
+  const withOverlap = ranked.filter(x => x.score > 0);
+  return (withOverlap.length ? withOverlap : ranked).slice(0, limit).map(x => x.svc);
+}
+
+// Every other service sharing at least one PDF in-scope category tag —
+// exact match on the existing Category column, listed in full.
+function sameCategoryServices(s) {
+  return SERVICES
+    .filter(o => o.name !== s.name && o.category.some(c => s.category.includes(c)))
+    .sort((a, b) => a.name.localeCompare(b.name));
+}
+
+// Ephemeral (not persisted) per-row expand state for long related-service
+// lists, keyed by service name — survives re-renders within the session but
+// resets on reload, same as any other view-only UI toggle.
+const explorerExpandedRelations = new Set();
+
+function toggleExplorerRelExpand(name) {
+  if (explorerExpandedRelations.has(name)) explorerExpandedRelations.delete(name);
+  else explorerExpandedRelations.add(name);
+  renderExplorer();
+}
+
+function relatedServiceCell(list, emptyText, expandKey) {
+  if (!list.length) return `<span class="muted">${escapeHtml(emptyText)}</span>`;
+  const expanded = !expandKey || explorerExpandedRelations.has(expandKey);
+  const visibleList = expanded ? list : list.slice(0, 3);
+  const items = visibleList.map(o => `<div class="relSvc">${keyStar(o.name)}<b>${escapeHtml(o.name)}</b><span class="relDiff muted">Key difference — ${escapeHtml(o.keyFeature)}</span></div>`).join("");
+  const toggleBtn = expandKey && list.length > 3
+    ? `<button type="button" class="btn small relExpandBtn" onclick="toggleExplorerRelExpand('${expandKey.replace(/'/g, "\\'")}')">${expanded ? "▲ Show top 3" : `▼ Show all ${list.length}`}</button>`
+    : "";
+  return `<div class="relList">${items}${toggleBtn}</div>`;
+}
+
+function filteredServices() {
+  const q = (state.explorer.search || "").toLowerCase().trim();
+  return SERVICES.filter(s => {
+    if (state.keyFilterOnly && !isKeyService(s.name)) return false;
+    if (state.explorer.domain && s.domain !== state.explorer.domain) return false;
+    if (state.explorer.subDomain && s.subDomain !== state.explorer.subDomain) return false;
+    if (state.explorer.category && !s.category.includes(state.explorer.category)) return false;
+    if (state.explorer.group && s.group !== state.explorer.group) return false;
+    if (!q) return true;
+    const hay = [s.name,s.full,s.abbr,s.domain,s.subDomain,s.categoriesText,s.group,s.desc,s.keyFeature,s.useCase].join(" ").toLowerCase();
+    return hay.includes(q);
+  });
+}
+
+function sortExplorerBy(key) {
+  if (state.explorer.sortKey === key) state.explorer.sortDir = state.explorer.sortDir === "asc" ? "desc" : "asc";
+  else { state.explorer.sortKey = key; state.explorer.sortDir = "asc"; }
+  saveState();
+  renderExplorer();
+}
+
+function renderExplorer() {
+  const rows = filteredServices().sort((a,b) => {
+    const key = state.explorer.sortKey || "name";
+    const av = String(a[key] ?? "").toLowerCase();
+    const bv = String(b[key] ?? "").toLowerCase();
+    const cmp = av.localeCompare(bv);
+    return state.explorer.sortDir === "desc" ? -cmp : cmp;
+  });
+  const totalForContext = state.keyFilterOnly ? state.keyServices.length : SERVICES.length;
+  document.getElementById("explorerCount").textContent = `${rows.length} of ${totalForContext}${state.keyFilterOnly ? " key-flagged" : ""} services shown. Click any column header to sort. Current sort: ${state.explorer.sortKey} (${state.explorer.sortDir}).`;
+  const table = document.getElementById("explorerTable");
+  table.innerHTML = `
+    <thead><tr>${explorerCols.map(([key,label]) => `<th onclick="sortExplorerBy('${key}')">${escapeHtml(label)} ${state.explorer.sortKey === key ? (state.explorer.sortDir === "asc" ? "▲" : "▼") : ""}</th>`).join("")}<th>Similar services</th><th>Same category services</th></tr></thead>
+    <tbody>
+      ${rows.map(s => `<tr>
+        <td>${keyStar(s.name)} <b>${escapeHtml(s.name)}</b></td>
+        <td>${escapeHtml(s.full)}</td>
+        <td>${escapeHtml(s.abbr || "")}</td>
+        <td>${escapeHtml(s.domain)}</td>
+        <td>${escapeHtml(s.subDomain)}</td>
+        <td>${s.category.map(c => `<span class="pill">${escapeHtml(c)}</span>`).join("")}</td>
+        <td>${escapeHtml(s.group)}</td>
+        <td>${escapeHtml(s.desc)}</td>
+        <td>${escapeHtml(s.keyFeature)}</td>
+        <td>${escapeHtml(s.useCase)}</td>
+        <td>${relatedServiceCell(similarServices(s), "No closely related services found.")}</td>
+        <td>${relatedServiceCell(sameCategoryServices(s), "No other services share this category.", s.name)}</td>
+      </tr>`).join("")}
+    </tbody>
+  `;
+}
+
+function relatedServiceCsvText(list) {
+  return list.map(o => `${o.name} (${o.keyFeature})`).join("; ");
+}
+
+function scrollExplorerTable(dir) {
+  const wrap = document.querySelector("#explorer .tableWrap");
+  if (wrap) wrap.scrollBy({ left: dir * 360, behavior: "auto" });
+}
+
+function exportExplorerCsv() {
+  const header = ["service","fullName","abbr","domain","subDomain","category","group","description","keyFeature","useCase","similarServices","sameCategoryServices"];
+  const rows = [header, ...filteredServices().map(s => [s.name,s.full,s.abbr || "",s.domain,s.subDomain,s.categoriesText,s.group,s.desc,s.keyFeature,s.useCase,relatedServiceCsvText(similarServices(s)),relatedServiceCsvText(sameCategoryServices(s))])];
+  downloadCsv("aws_saa_c03_filtered_in_scope_services.csv", rows);
+}
+
+function renderAll() {
+  renderStats();
+  renderAbbrMatch();
+  renderDescMatch();
+  renderCategorySort();
+  renderUsecaseQuestion();
+  renderFlashQuestion();
+  renderWrongReview();
+  renderExplorer();
+  updateKeyFilterUI();
+}
+
+function updateKeyFilterUI() {
+  document.getElementById("keyFilterToggle").checked = !!state.keyFilterOnly;
+  document.getElementById("keyCount").textContent = state.keyServices.length + " flagged";
+}
+
+function initAll(forceNew=false) {
+  document.getElementById("abbrRoundSize").value = state.abbr.roundSize || 12;
+  document.getElementById("descRoundSize").value = state.desc.roundSize || 10;
+  document.getElementById("catRoundSize").value = state.cat.roundSize || 18;
+  initFilterSelect("filterDomain", DOMAINS, "domains");
+  initFilterSelect("filterSubDomain", SUBDOMAINS, "sub-domains");
+  initFilterSelect("filterCategory", CATEGORIES, "categories");
+  initFilterSelect("filterGroup", GROUPS, "groups");
+  if (forceNew || !state.abbr.round.length) state.abbr.round = sample(activePool(ABBR_SERVICES), state.abbr.roundSize || 12).map(s => s.name);
+  if (forceNew || !state.desc.round.length) state.desc.round = sample(activePool(SERVICES), state.desc.roundSize || 10).map(s => s.name);
+  if (forceNew || !state.cat.round.length) state.cat.round = sample(activePool(SERVICES), state.cat.roundSize || 18).map(s => s.name);
+  if (forceNew || !state.usecase.current) { const p = activePool(SERVICES); state.usecase.current = p.length ? makeQuestion(sample(p, 1)[0], "usecase") : null; }
+  if (forceNew || !state.flash.current) { const p = activePool(SERVICES); state.flash.current = p.length ? makeQuestion(sample(p, 1)[0], "flash") : null; }
+  saveState();
+  restoreExplorerFilters();
+  renderAll();
+  showTab(state.activeTab || "dashboard");
+}
+
+document.getElementById("tabNav").addEventListener("click", ev => {
+  const a = ev.target.closest(".navtab");
+  if (!a) return;
+  ev.preventDefault();
+  showTab(a.dataset.tab);
+});
+
+window.addEventListener("beforeunload", saveState);
+initAll(false);
+</script>
+</body>
+</html>

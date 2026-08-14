@@ -1,0 +1,341 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 150.723,
+   "end": 154.895,
+   "text": "Good afternoon and welcome to Habitat Hunters. You must be Joseph.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c2",
+   "start": 154.895,
+   "end": 160.617,
+   "text": "Yes, that’s right. You said on the phone that I could come by at 2:00. Sorry, I’m a little early.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c3",
+   "start": 160.617,
+   "end": 166.445,
+   "text": "No problem at all. In Calgary’s market, you have to move fast if you want a good apartment!",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c4",
+   "start": 166.445,
+   "end": 174.281,
+   "text": "Actually, I’d settle for almost anything. I’ve been here ten days and the hotel is ruining me. My father has me on a strict budget.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c5",
+   "start": 174.281,
+   "end": 182.456,
+   "text": "Sit right down here now, sir. Let’s talk a little about the places before we go have a look. Now, we have four apartments available.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c6",
+   "start": 182.456,
+   "end": 186.261,
+   "text": "OK, could you tell me more about those four apartments?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c7",
+   "start": 186.261,
+   "end": 196.867,
+   "text": "Sure. The first one is on Beatle Road, just a block off-campus. It’s a 3-bedroom with a bathroom and a living room and a great Italian restaurant right next to it.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c8",
+   "start": 196.867,
+   "end": 197.844,
+   "text": "How much?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c9",
+   "start": 197.844,
+   "end": 203.536,
+   "text": "Well, it’s $435 a month, including Internet and utilities.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c10",
+   "start": 203.536,
+   "end": 206.979,
+   "text": "Okay, that sounds reasonable. Any drawbacks to the house?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c11",
+   "start": 206.979,
+   "end": 214.529,
+   "text": "There’s a really big garden, but it hasn’t been taken care of over the years and is just too big to clean up nicely.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c12",
+   "start": 214.529,
+   "end": 217.82,
+   "text": "Hmm. That sounds okay. Tell me about the next option.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c13",
+   "start": 217.82,
+   "end": 228.153,
+   "text": "The other 3-bedroom apartment is on Oakington Avenue on campus. It is right near the building where you have classes, and the kitchen and living room are",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c14",
+   "start": 228.153,
+   "end": 230.873,
+   "text": "Wow, that sounds like a pretty good option.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c15",
+   "start": 230.873,
+   "end": 241.643,
+   "text": "Well, it is a cool apartment, but since it’s a dormitory, the living room, bathroom, kitchen, and washing machine are all shared. It would be nice not to have to buy living room furniture, though.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c16",
+   "start": 241.643,
+   "end": 243.283,
+   "text": "And how much is this one?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c17",
+   "start": 243.283,
+   "end": 252.728,
+   "text": "$400 per month for a bedroom with an air conditioner. For a bedroom without an air conditioner, you would pay less, $340 for it.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c18",
+   "start": 252.728,
+   "end": 261.585,
+   "text": "Yikes, even with the air conditioner, it sounds really inconvenient to have to share facilities. I’ll never cook if I have to walk down the hall to use the kitchen.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c19",
+   "start": 261.585,
+   "end": 263.265,
+   "text": "Yeah, that’s true.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c20",
+   "start": 309.678,
+   "end": 313.319,
+   "text": "Anyway, the next place is a 2-bedroom on Mead Street.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c21",
+   "start": 313.319,
+   "end": 316.272,
+   "text": "Oh, I like Mead Street - that’s off campus, right?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c22",
+   "start": 316.272,
+   "end": 321.698,
+   "text": "Yep. It’s pretty cool, but it only has 2 bedrooms, plus a living room and a study.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c23",
+   "start": 321.698,
+   "end": 324.665,
+   "text": "But I want to live together with my two friends.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c24",
+   "start": 324.665,
+   "end": 329.373,
+   "text": "So you could make the study into a small bedroom if you end up living with them.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c25",
+   "start": 329.373,
+   "end": 334.981,
+   "text": "Also, we guys want a TV and DVD player since we’re all so much into movies.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c26",
+   "start": 334.981,
+   "end": 339.596,
+   "text": "Well, this place has a great TV and VCR, but no DVD player.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c27",
+   "start": 339.596,
+   "end": 344.029,
+   "text": "No DVD? That’s so weird. Are any other facilities provided?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c28",
+   "start": 344.029,
+   "end": 348.009,
+   "text": "As you said, weird enough, it also comes with a washbasin.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c29",
+   "start": 348.009,
+   "end": 353.021,
+   "text": "Is there a washing machine? I think we need that more than just a washbasin.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c30",
+   "start": 353.021,
+   "end": 355.895,
+   "text": "I'm afraid there’s no washing machine in the apartment.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c31",
+   "start": 355.895,
+   "end": 362.32,
+   "text": "Wow, that’s so old-fashioned! Maybe it’s not the best choice for three college guys. How much is it?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c32",
+   "start": 362.32,
+   "end": 369.029,
+   "text": "Well, it’s $600 per month, but of course it would be cheaper if you made it into 3 bedrooms instead of 2.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c33",
+   "start": 369.029,
+   "end": 370.824,
+   "text": "Where is this apartment located?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c34",
+   "start": 370.824,
+   "end": 374.829,
+   "text": "It’s 2500 Mead Street, where there are a lot of bars.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c35",
+   "start": 374.829,
+   "end": 382.817,
+   "text": "It would be affordable, but it would get pretty noisy. And that sounds really expensive for an old place in a noisy area. How about the last place?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c36",
+   "start": 382.817,
+   "end": 390.02,
+   "text": "This one’s on-campus in the Devon Close complex. It’s a one-bedroom, so it will be a little quieter than the Mead Street place.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c37",
+   "start": 390.02,
+   "end": 394.488,
+   "text": "One bedroom, huh? That could be good for focusing on my studies. What else does it have?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c38",
+   "start": 394.488,
+   "end": 410.604,
+   "text": "It comes with a living room and a study, and includes a really nice lamp in the study that has a bunch of different settings. You know what else is cool? There’s a dining hall downstairs so all evening meals are free. You can purchase breakfast and lunch, but meals after 6 p.m. are free.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c39",
+   "start": 410.604,
+   "end": 414.456,
+   "text": "Wow, this place sounds too good to be true. Is it really expensive?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c40",
+   "start": 414.456,
+   "end": 418.163,
+   "text": "It’s alright - $500 per month, but there’s no bathroom.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c41",
+   "start": 418.163,
+   "end": 420.295,
+   "text": "What? No bathroom?",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c42",
+   "start": 420.295,
+   "end": 424.453,
+   "text": "Well, there’s no bathroom in the apartment, but there’s one at the end of the hall.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c43",
+   "start": 424.453,
+   "end": 429.659,
+   "text": "Hmm. Thanks, I think now I just have to decide whether I want to live alone or not.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c44",
+   "start": 429.659,
+   "end": 431.404,
+   "text": "Yeah, which one do you prefer?",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c45",
+   "start": 431.404,
+   "end": 434.922,
+   "text": "I think I’d choose either this apartment or the one on Beatle Road.",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c46",
+   "start": 434.922,
+   "end": 439.938,
+   "text": "OK. You’d better think about it, and then you can contact me ASAP.",
+   "speaker": "AGENT"
+  },
+  {
+   "id": "c47",
+   "start": 439.938,
+   "end": 441.53,
+   "text": "Fine, thanks for your help!",
+   "speaker": "RENTER"
+  },
+  {
+   "id": "c48",
+   "start": 441.53,
+   "end": 442.648,
+   "text": "You’re welcome...",
+   "speaker": "AGENT"
+  }
+ ]
+}

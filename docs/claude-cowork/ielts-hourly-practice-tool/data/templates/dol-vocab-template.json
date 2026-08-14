@@ -1,0 +1,52 @@
+{
+  "schema": 2,
+  "format": "dol-vocab",
+  "id": "dol-gpt-cam20-t1-reading",
+  "type": "vocab",
+  "source": "chatgpt",
+  "category": "dol-vocab",
+  "topicNumber": 0,
+  "title": "CAM IELTS 20 · Reading Test 1",
+  "contentUpdatedAt": "2026-07-15T12:40:00-04:00",
+  "group": "IELTS Cambridge",
+  "book": "CAM IELTS 20",
+  "bookSlug": "luyen-thi-ielts/cambridge-ielts-20-full-test",
+  "bookNum": 20,
+  "testNum": 1,
+  "skill": "reading",
+  "url": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/tu-vung-cam-ielts-20-test-1-reading-vocab",
+  "dateTime": "2026-06-30T02:23",
+  "wordCount": 0,
+  "queueKey": "cam20-t1-reading",
+  "words": [],
+  "items": [
+    {
+      "id": "p1-example",
+      "passageLabel": "Passage 1: Example",
+      "passageName": "Example",
+      "passageNum": 1,
+      "text": "Nesting female",
+      "pos": "noun",
+      "vn": "(noun). con cái làm tổ",
+      "ipaUK": "/ˈnɛstɪŋ ˈfiːmeɪl/",
+      "example": "Nesting females were observed building nests in spring.",
+      "exampleVi": "Những con cái làm tổ đã được quan sát xây tổ vào mùa xuân.",
+      "exampleIpa": "<strong>/ˈnɛstɪŋ ˈfiːmeɪlz/</strong> /wɜː/ /əbˈzɜːvd/ /ˈbɪldɪŋ/ /nɛsts/ /ɪn/ /sprɪŋ/",
+      "questionGroup": "Q3"
+    }
+  ],
+  "sections": [
+    {
+      "id": "passage-1",
+      "title": "Passage 1: Example",
+      "level": 1,
+      "html": "<div class=\"vocab dol-card\"><div class=\"head\">Nesting female <span class=\"ipa\">/ˈnɛstɪŋ ˈfiːmeɪl/</span></div><p class=\"vi\">(noun). con cái làm tổ</p><p class=\"en ex\">Nesting <strong>females</strong> were observed building nests in spring.</p><p class=\"ipa ex-ipa\"><strong>/ˈnɛstɪŋ ˈfiːmeɪlz/</strong> /wɜː/ /əbˈzɜːvd/ …</p><p class=\"vi ex-vi\">Những con <strong>cái làm tổ</strong> đã được quan sát xây tổ vào mùa xuân.</p></div>"
+    },
+    {
+      "id": "sources",
+      "title": "Sources",
+      "level": 1,
+      "html": "<p class=\"en\">Vocabulary sourced from DOL Tự học for personal IELTS study.</p>"
+    }
+  ]
+}

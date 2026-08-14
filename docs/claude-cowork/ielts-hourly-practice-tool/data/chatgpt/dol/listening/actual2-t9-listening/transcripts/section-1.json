@@ -1,0 +1,383 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 112.31,
+   "end": 114.182,
+   "text": "Hello, London Police Department",
+   "speaker": "Police"
+  },
+  {
+   "id": "c2",
+   "start": 114.182,
+   "end": 116.548,
+   "text": "Yes, I would like to report a robbery",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c3",
+   "start": 116.548,
+   "end": 121.619,
+   "text": "Alright, just a minute while I pull up the form. OK, could you give me your first and last name?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c4",
+   "start": 121.619,
+   "end": 122.88,
+   "text": "Anna Grieg.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c5",
+   "start": 122.88,
+   "end": 126.001,
+   "text": "Anna, Greg? G-R-E-G?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c6",
+   "start": 126.001,
+   "end": 129.38,
+   "text": "No, Grieg. G-R-I-E-G.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c7",
+   "start": 129.38,
+   "end": 133.612,
+   "text": "Got it. Alright moving on: gender - female. Date of birth?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c8",
+   "start": 133.612,
+   "end": 135.894,
+   "text": "15th of March, 1980",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c9",
+   "start": 135.894,
+   "end": 142.648,
+   "text": "Alright, thanks. Just a few more personal information questions and then we can address your claim.",
+   "speaker": "Police"
+  },
+  {
+   "id": "c10",
+   "start": 142.648,
+   "end": 143.619,
+   "text": "Alright",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c11",
+   "start": 143.619,
+   "end": 145.042,
+   "text": "What is the address?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c12",
+   "start": 145.042,
+   "end": 151.122,
+   "text": "4 Ellendale St. That’s E-L-L-E-N-D-A-L-E",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c13",
+   "start": 151.122,
+   "end": 158.005,
+   "text": "Oh right, Ellendale Street. Yeah we’ve had a lot of break-ins in that area lately. And the postal code?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c14",
+   "start": 158.005,
+   "end": 160.496,
+   "text": "W52AT",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c15",
+   "start": 160.496,
+   "end": 163.215,
+   "text": "And are you a citizen of the UK?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c16",
+   "start": 163.215,
+   "end": 163.826,
+   "text": "No",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c17",
+   "start": 163.826,
+   "end": 167.211,
+   "text": "Okay, what type of citizenship do you have?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c18",
+   "start": 167.211,
+   "end": 173.809,
+   "text": "Well, I lived in the United States for most of my life, but I am actually of Grenadian nationality.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c19",
+   "start": 173.809,
+   "end": 178.056,
+   "text": "Okay, so is that the country that issued your passport?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c20",
+   "start": 178.056,
+   "end": 178.715,
+   "text": "Yes.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c21",
+   "start": 178.715,
+   "end": 179.918,
+   "text": "Alright.",
+   "speaker": "Police"
+  },
+  {
+   "id": "c22",
+   "start": 213.947,
+   "end": 215.599,
+   "text": "And what is the crime you are reporting?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c23",
+   "start": 215.599,
+   "end": 217.376,
+   "text": "I already said - a robbery!",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c24",
+   "start": 217.376,
+   "end": 224.528,
+   "text": "Oh, right. Sorry, this is about the hundredth robbery report I’ve filled out today. Have you had any prior break-ins?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c25",
+   "start": 224.528,
+   "end": 230.183,
+   "text": "Um, in the building or just my flat? The unit below mine got broken into last year.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c26",
+   "start": 230.183,
+   "end": 232.565,
+   "text": "No, just your flat.",
+   "speaker": "Police"
+  },
+  {
+   "id": "c27",
+   "start": 232.565,
+   "end": 234.285,
+   "text": "Oh - then no. Not here.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c28",
+   "start": 234.285,
+   "end": 244.573,
+   "text": "Alright, let’s see here. Can you think of anything that was out of the ordinary around your building, or anyone who may have had reason to do this?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c29",
+   "start": 244.573,
+   "end": 252.645,
+   "text": "No, it seemed like just a normal evening. I didn’t see anyone suspicious, and can’t think of anyone that would target me specifically.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c30",
+   "start": 252.645,
+   "end": 255.296,
+   "text": "How long has this been your place of residence?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c31",
+   "start": 255.296,
+   "end": 264.776,
+   "text": "Hm, let me think. I moved in on February 1, and it’s October, so it’s been about 8 months already. Wow, time flies!",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c32",
+   "start": 264.776,
+   "end": 267.46,
+   "text": "And that is just Ellendale, yeah?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c33",
+   "start": 267.46,
+   "end": 271.191,
+   "text": "Yes. I have lived in the UK for just over one year.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c34",
+   "start": 271.191,
+   "end": 275.816,
+   "text": "I see. Can you give me the first and last name of all members of the household?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c35",
+   "start": 275.816,
+   "end": 277.364,
+   "text": "Actually, I live alone.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c36",
+   "start": 277.364,
+   "end": 282.081,
+   "text": "OK - so no other occupants. And can you give me a brief account of what happened?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c37",
+   "start": 282.081,
+   "end": 290.285,
+   "text": "I left to go to a dinner party at 6 p.m, and when I returned at 11 I found the place ransacked and a lot of my things gone.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c38",
+   "start": 290.285,
+   "end": 292.131,
+   "text": "Any sign of forced entry?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c39",
+   "start": 292.131,
+   "end": 297.563,
+   "text": "Yes, the back door was wide open, and it looked like someone used a crowbar to force it open.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c40",
+   "start": 297.563,
+   "end": 301.862,
+   "text": "I see. And just to be clear, was the door locked when you left?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c41",
+   "start": 301.862,
+   "end": 302.926,
+   "text": "Of course!",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c42",
+   "start": 302.926,
+   "end": 314.55,
+   "text": "Hey, you would be surprised how many reports we get where people have failed to lock their doors. Now I need you to list any missing items valued above £200.",
+   "speaker": "Police"
+  },
+  {
+   "id": "c43",
+   "start": 314.55,
+   "end": 320.276,
+   "text": "So far I’m missing my computer, my purse with my wallet in it, and the TV.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c44",
+   "start": 320.276,
+   "end": 324.773,
+   "text": "OK, Let’s start with the computer. What is the estimated value?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c45",
+   "start": 324.773,
+   "end": 326.259,
+   "text": "£500.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c46",
+   "start": 326.259,
+   "end": 327.751,
+   "text": "And what is the serial number?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c47",
+   "start": 327.751,
+   "end": 331.66,
+   "text": "G4168770",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c48",
+   "start": 331.66,
+   "end": 333.7,
+   "text": "Thank you, and a visual description?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c49",
+   "start": 333.7,
+   "end": 338.947,
+   "text": "It is a black 13-inch Pemdas Cloudbook. There is an Oxford sticker on the lid.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c50",
+   "start": 338.947,
+   "end": 342.71,
+   "text": "OK, and could you give a description of the purse?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c51",
+   "start": 342.71,
+   "end": 348.235,
+   "text": "Sure. It’s a Claude Frieda shoulder bag and the material is silver-colored cloth.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c52",
+   "start": 348.235,
+   "end": 349.257,
+   "text": "Price?",
+   "speaker": "Police"
+  },
+  {
+   "id": "c53",
+   "start": 349.257,
+   "end": 350.583,
+   "text": "£300.",
+   "speaker": "Anna"
+  },
+  {
+   "id": "c54",
+   "start": 350.583,
+   "end": 356.304,
+   "text": "Okay. That concludes my report. I’ll submit it and we’ll let you know of any developments.",
+   "speaker": "Police"
+  }
+ ]
+}

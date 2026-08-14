@@ -1,0 +1,2329 @@
+{
+ "schema": 1,
+ "id": "actual3-t1-listening",
+ "title": "Actual Test 3 - Listening Test 1",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 1,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-3-test-1-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-3-test-1-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Notes On Island Hotel",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "4378c173-2744-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "4378c174-2744-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"nhiệt độ cao nhất vào ban ngày \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Firstly, could you tell me whether it’s particularly \"},{\"text\":\"hot \",\"bold\":true},{\"text\":\"during this time?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó lễ tân nói \\\"the \"},{\"text\":\"daytime temperature shouldn’t exceed 19 degrees Celsius,\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhiệt độ ban ngày \"},{\"text\":\"không quá 19 độ C\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Cao nhất là 19 độ\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: 19 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 147,
+          "endTimeInSeconds": 167,
+          "transcripts": [
+           {
+            "id": "2/147268-151839",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 151,
+            "text": "Firstly, could you tell me whether it’s particularly hot during this time?",
+            "character": {
+             "id": "U72aItiRt9tKvSaiScLDo",
+             "name": "Mr.  Schiﬀer"
+            }
+           },
+           {
+            "id": "3/151839-167621",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 167,
+            "text": "Yes, of course Sir, during late April and early May, the daytime temperature shouldn’t exceed 19 degrees Celsius, but the weather has been rather erratic and diﬃcult to predict in recent years, so I am unable to say for certain.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "19",
+         "blankId": "MMoqI6GEWY2zrID-SZuXw"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"thời gian dùng để transfer đến airport\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\", but I must say that I’m unfamiliar with Crete and its \"},{\"text\":\"transport \",\"bold\":true},{\"text\":\"system.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó mình nghe \\\" It \"},{\"text\":\"takes \",\"bold\":true},{\"text\":\"about \"},{\"text\":\"40 minutes\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" get here from the airport\",\"bold\":true},{\"text\":\", but it’s \"},{\"text\":\"at least 60 minutes at rush hours\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tốn \"},{\"text\":\"40 phút để đến đó\",\"bold\":true},{\"text\":\" nhưng vào \"},{\"text\":\"giờ cao điểm sẽ tốn ít nhất 60 phút\",\"bold\":true},{\"text\":\"\\n=> Tuy nhiên đề có từ\"},{\"text\":\" normally\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: 40 minutes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 173,
+          "endTimeInSeconds": 198,
+          "transcripts": [
+           {
+            "id": "5/173068-179411",
+            "startTimeInSeconds": 173,
+            "endTimeInSeconds": 179,
+            "text": " I haven’t booked ﬂights yet, but I must say that I’m unfamiliar with Crete and its transport system.",
+            "character": {
+             "id": "U72aItiRt9tKvSaiScLDo",
+             "name": "Mr.  Schiﬀer"
+            }
+           },
+           {
+            "id": "6/179411-181789",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 181,
+            "text": "Does the hotel provide an airport shuttle service?",
+            "character": {
+             "id": "U72aItiRt9tKvSaiScLDo",
+             "name": "Mr.  Schiﬀer"
+            }
+           },
+           {
+            "id": "7/181789-187388",
+            "startTimeInSeconds": 181,
+            "endTimeInSeconds": 187,
+            "text": "Yes Sir, we provide a complementary airport pick-up service for all our guests.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "8/187388-198906",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 198,
+            "text": "It takes about 40 minutes to get here from the airport, but it’s at least 60 minutes at rush hours and you will be provided with a fully air-conditioned shuttle bus.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "40 minutes/forty minutes",
+         "blankId": "SYA6vCJFXadeWdjRBreyr"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một facilities nào đó, bên cạnh en-suite\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Yes Sir, I can see now that we have several \"},{\"text\":\"rooms \",\"bold\":true},{\"text\":\"available\\\" (đề cập tới facilities)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"all of our standard double rooms have \"},{\"text\":\"en-suite facilities and a balcony\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tất cả các phòng đều \"},{\"text\":\"có en-suite facilities\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"a balcony\\n=> Đáp án: balcony \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "11/210411-214495",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 214,
+            "text": "Yes Sir, I can see now that we have several rooms available.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "12/214495-217635",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 217,
+            "text": "Would you prefer a garden view or a sea view?",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "13/217635-223945",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 223,
+            "text": "Well, ideally I would like a sea-view room with a balcony, but of course that depends on the difference in price.",
+            "character": {
+             "id": "U72aItiRt9tKvSaiScLDo",
+             "name": "Mr.  Schiﬀer"
+            }
+           },
+           {
+            "id": "14/223945-230905",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 230,
+            "text": "Not to worry Sir, all of our standard double rooms have en-suite  facilities and a balcony.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "15/230905-236892",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 236,
+            "text": "If you would like one of our sea-view rooms, there is a premium of €60 per night.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "balcony",
+         "blankId": "heWwazyKWEwW7nWGa1knr"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một thứ gì đó có số lượng là 3 cái\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Biết đáp án sắp tới khi nghe \\\" Yes, we have a large outdoor infinity \"},{\"text\":\"pool\",\"bold\":true},{\"text\":\"\\\" (item tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe \\\"We also have \"},{\"text\":\"3 full-sized tennis courts\",\"bold\":true},{\"text\":\",\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có 3 sân tennis \\n=> Đáp án: tennis courts \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 283,
+          "transcripts": [
+           {
+            "id": "21/263896-272500",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 272,
+            "text": "Yes, we have a large outdoor inﬁnity pool overlooking the ocean, with luxury sun beds and a poolside bar.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "22/272500-283417",
+            "startTimeInSeconds": 272,
+            "endTimeInSeconds": 283,
+            "text": "We also have 3 full-sized Q4 tennis courts, where we run a popular doubles tournament, with the winner receiving 2 all- inclusive spa day vouchers.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "tennis courts",
+         "blankId": "qsk8ldFk8XIUNxPj8EA07"
+        }
+       ],
+       "heading": "NOTES ON ISLAND HOTEL",
+       "paragraph": {
+        "id": "mraWvLeGAR92BU8LVg2g_",
+        "editorValue": "[{\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"                                                                                            \"},{\"text\":\"Answer\",\"italic\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Type of room required:                                                                   \"},{\"text\":\"double room\",\"underline\":true,\"italic\":true}],\"type\":\"p\"}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Time\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The length of stay: approx 2 weeks\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Starting date: 25th April\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Temperature\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Daytime: up to \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"MMoqI6GEWY2zrID-SZuXw\"},{\"text\":\"  °C\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Erratic weather\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Transport\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Pick-up service is provided.\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Normally transferring to the airport takes about \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"SYA6vCJFXadeWdjRBreyr\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Facilities\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"en-suite facilities and a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"heWwazyKWEwW7nWGa1knr\"},{\"text\":\"\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"gym and spa facilities\"}]}]}]}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"a large outdoor swimming pool\"}]}]}]}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"three standard \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"qsk8ldFk8XIUNxPj8EA07\"},{\"text\":\"\"}]}]}]}]}]}]",
+        "blanks": [
+         {
+          "id": "MMoqI6GEWY2zrID-SZuXw",
+          "key": 0
+         },
+         {
+          "id": "SYA6vCJFXadeWdjRBreyr",
+          "key": 1
+         },
+         {
+          "id": "heWwazyKWEwW7nWGa1knr",
+          "key": 2
+         },
+         {
+          "id": "qsk8ldFk8XIUNxPj8EA07",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "4378c175-2744-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "V_FiXsNY4FcVXh1qR7VDk",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một thứ mà họ được học vào ngày thứ 3\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\" On \"},{\"text\":\"Tuesdays\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe \\\"guests will take \"},{\"text\":\"a mini bus \",\"bold\":true},{\"text\":\"and partake in \"},{\"text\":\"learning \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"cook succulent fish dishes\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách sẽ được\"},{\"text\":\" di chuyển bằng minibus\",\"bold\":true},{\"text\":\" và tham gia \"},{\"text\":\"học nấu fish dishes \\n=> Đáp án: fish dishes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Từ\"},{\"text\":\" succulent (ngon)\",\"bold\":true},{\"text\":\" chỉ là từ \"},{\"text\":\"bổ nghĩa cho fish dishes\",\"bold\":true},{\"text\":\" nên mình không cần cho vào đáp án\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "28/345826-351288",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 351,
+            "text": "In terms of activities, the hotel provides thrice weekly entertainment. ",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           },
+           {
+            "id": "29/351288-362157",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 362,
+            "text": "On Tuesdays, guests will take a mini bus and partake in learning to cook succulent ﬁsh dishes with our Michelin starred chef, Enrique.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "fish dishes",
+         "blankId": "dqe1ECiIgQk_ZiHJtYisV"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" buổi concert trong nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"where guests will be treated to \"},{\"text\":\"an intimate piano performance \",\"bold\":true},{\"text\":\"by our \"},{\"text\":\"in-house concert pianist\",\"bold\":true},{\"text\":\", Pedro.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khác sẽ được\"},{\"text\":\" tham dự một piano concert trong nhà\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: piano \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 362,
+          "endTimeInSeconds": 374,
+          "transcripts": [
+           {
+            "id": "30/362564-374575",
+            "startTimeInSeconds": 362,
+            "endTimeInSeconds": 374,
+            "text": "The class will take place in a beautiful valley deep in the Cretan hills, where guests will be treated to an intimate piano performance by our in-house concert pianist, Pedro.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "piano",
+         "blankId": "WvovF1YIUog2JWEFzM851"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về việc\"},{\"text\":\" khám phá cái gì đó tropical\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"..to explore the mountains by helicopter\\\" (ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe được \\\"before being \"},{\"text\":\"transported to a tropical Cretan garden\",\"bold\":true},{\"text\":\" by shuttle bus.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Di chuyển \"},{\"text\":\"đến tropical Cretan garden\",\"bold\":true},{\"text\":\" bằng shuttle bus\"},{\"text\":\"\\n=> Đi khám phá Cretan garden\\n=> Đáp án: (Cretan) garden \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 374,
+          "endTimeInSeconds": 388,
+          "transcripts": [
+           {
+            "id": "31/374575-388083",
+            "startTimeInSeconds": 374,
+            "endTimeInSeconds": 388,
+            "text": "On Wednesdays, a select number of guests will be fortunate enough to explore the mountains by helicopter, before being transported to a tropical Cretan garden by shuttle bus.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "Cretan garden/garden",
+         "blankId": "zg4wkkZgHrdrEWOSqzGtG"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một phương tiện di chuyển bên cạnh shuttle bus\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"On \"},{\"text\":\"Wednesdays\",\"bold\":true},{\"text\":\",\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp theo nghe thấy \\\"...a select number of guests will be fortunate enough to \"},{\"text\":\"explore the mountains by helicopter\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Khám phá núi bằng helicopter \\n=> Đáp án: helicopter \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 374,
+          "endTimeInSeconds": 388,
+          "transcripts": [
+           {
+            "id": "31/374575-388083",
+            "startTimeInSeconds": 374,
+            "endTimeInSeconds": 388,
+            "text": "On Wednesdays, a select number of guests will be fortunate enough to explore the mountains by helicopter, before being transported to a tropical Cretan garden by shuttle bus.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "helicopter",
+         "blankId": "t_dbEfn50twLis9M13C61"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một thứ gì đó được display\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Finally, on \"},{\"text\":\"Thursday \",\"bold\":true},{\"text\":\"after a\"},{\"text\":\" fancy dinner\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe được \\\"we provide a \"},{\"text\":\"spectacular fireworks display\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ sẽ \"},{\"text\":\"provide 1 buổi biểu diễn pháo hoa\\n=> Đáp án: fireworks \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 388,
+          "endTimeInSeconds": 399,
+          "transcripts": [
+           {
+            "id": "32/388083-399880",
+            "startTimeInSeconds": 388,
+            "endTimeInSeconds": 399,
+            "text": "Finally, on Thursdays after a fancy dinner, we provide a spectacular display, which guests can view from the comfort of a cable car.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "fireworks",
+         "blankId": "E7OSdXfgWxo0_j3-tITnT"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"phương tiện di chuyển\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về vị trí xem pháo hoa \\\"which guests can\"},{\"text\":\" view from \",\"bold\":true},{\"text\":\"the comfort of \"},{\"text\":\"a cable car.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phương tiện di chuyển là cable car\\n=> Đáp án: cable car \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 388,
+          "endTimeInSeconds": 399,
+          "transcripts": [
+           {
+            "id": "32/388083-399880",
+            "startTimeInSeconds": 388,
+            "endTimeInSeconds": 399,
+            "text": "Finally, on Thursdays after a fancy dinner, we provide a spectacular display, which guests can view from the comfort of a cable car.",
+            "character": {
+             "id": "XSTm7KuKP1z9v-B7bjKo6",
+             "name": "Reception"
+            }
+           }
+          ]
+         },
+         "value": "cable car",
+         "blankId": "LwwrDSFALQdA7dgr5YnHP"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "dqe1ECiIgQk_ZiHJtYisV",
+         "key": 0
+        },
+        {
+         "id": "WvovF1YIUog2JWEFzM851",
+         "key": 1
+        },
+        {
+         "id": "zg4wkkZgHrdrEWOSqzGtG",
+         "key": 2
+        },
+        {
+         "id": "t_dbEfn50twLis9M13C61",
+         "key": 3
+        },
+        {
+         "id": "E7OSdXfgWxo0_j3-tITnT",
+         "key": 4
+        },
+        {
+         "id": "LwwrDSFALQdA7dgr5YnHP",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"DSfhMCHwAHXtbxAJtQbF2\",\"cellsWidth\":[124.91300000000001,300,190.087],\"children\":[{\"type\":\"tr\",\"id\":\"rtQ0lP_Np5SMQ0okK0aD-\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Day\",\"bold\":true}]}]}],\"id\":\"6z62lcGuNx3c0n2AuPaKm\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Entertainment activities\",\"bold\":true}]}]}],\"id\":\"W5U6JddxvQ-vY7pNVQLmN\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Transportation\",\"bold\":true}]}]}],\"id\":\"oaIxjKKz6WPdueTMaVfGy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"RxBJAtvpGLO3GkrDVn_Zo\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Tuesdays\",\"bold\":true}]}]}],\"id\":\"w2wwHmFH8gRR3QXc4kcRz\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- learning to make \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dqe1ECiIgQk_ZiHJtYisV\",\"text\":\"\"}]},{\"text\":\"\\n- having a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"WvovF1YIUog2JWEFzM851\",\"text\":\"\"}]},{\"text\":\" in house concert\"}]}]}],\"id\":\"xrJGP5a_d-rVHs7TWWPJg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- mini bus\"}]}]}],\"id\":\"lrlPn7TOxstg0gPjm__k5\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"9HuRXlZOpjKNpI4X73PqV\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Wednesdays\",\"bold\":true},{\"text\":\"\\n\"}]}]}],\"id\":\"vhHEbHFsdJlUetDh3uET2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- enjoying mountain view\\n- exploring a tropical \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zg4wkkZgHrdrEWOSqzGtG\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"xifJszBh7z_8De-PVe_sd\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"t_dbEfn50twLis9M13C61\",\"text\":\"\"}]},{\"text\":\"\\n- shuttle bus\"}]}]}],\"id\":\"hI8DE0_mR-_LaAANxA6SR\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"5ym9OYsP8ZG3rK_9XxVvi\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Thursdays\",\"bold\":true},{\"text\":\"\\n\"}]}]}],\"id\":\"PTZx3zBSqJRGzk-Mpolto\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- having a fancy dinner\\n- watching a spectacular display of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"E7OSdXfgWxo0_j3-tITnT\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"FLhtPgxgublptvo4sQplO\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"-\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"LwwrDSFALQdA7dgr5YnHP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"IaKSVv5XpDxh41XuN4-gb\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":615,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Online Exchange Business",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "22434fdd-7748-11ec-ad8a-4f88c60ae1f3",
+     "questions": [
+      {
+       "uuid": "22434fde-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "SINGLE_ANSWER",
+       "question": "The website is organised by",
+       "options": [
+        {
+         "key": 0,
+         "value": "family members. "
+        },
+        {
+         "key": 1,
+         "value": "friends "
+        },
+        {
+         "key": 2,
+         "value": "businessmen"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\",\"marks\":[]},{\"text\":\" website được thiết kế bởi ai\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The website has been founded \"},{\"text\":\"by \",\"bold\":true},{\"text\":\"a group of four \"},{\"text\":\"friends\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Được thành lập bởi\"},{\"text\":\" 1 nhóm bạn 4 người \\n=> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ở câu sau mình có thấy\"},{\"text\":\" nhắc đến family member\",\"bold\":true},{\"text\":\" nhưng đây chỉ là cách họ \"},{\"text\":\"exchange belongings \",\"bold\":true},{\"text\":\"chứ không phải người sáng lập\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 94,
+          "endTimeInSeconds": 137,
+          "transcripts": [
+           {
+            "id": "2/94431-101248",
+            "startTimeInSeconds": 94,
+            "endTimeInSeconds": 101,
+            "text": "The website has been founded by a group of four friends in the north of England."
+           },
+           {
+            "id": "3/101248-106293",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 106,
+            "text": "Originally they exchanged their belongings among family members. "
+           },
+           {
+            "id": "4/106293-112923",
+            "startTimeInSeconds": 106,
+            "endTimeInSeconds": 112,
+            "text": "They frequently found themselves swapping their belongings when they no longer had any use for them."
+           },
+           {
+            "id": "5/112923-121612",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 121,
+            "text": "They live by the motto ‘one person’s trash is another person’s treasure’, and hate to throw things away."
+           },
+           {
+            "id": "6/121612-137153",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 137,
+            "text": "As more and more people caught wind of the idea and wanted to participate in the exchanges, the group decided that the idea had the potential to become a successful business venture, and so it did."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22434fdf-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "SINGLE_ANSWER",
+       "question": "How long has the website been operated?",
+       "options": [
+        {
+         "key": 0,
+         "value": "about 3 weeks"
+        },
+        {
+         "key": 1,
+         "value": "about 3 months"
+        },
+        {
+         "key": 2,
+         "value": "about 6 months"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"website hoạt động bao lâu rồi\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nghe \\\"\"},{\"text\":\"BarterOnlineUK\",\"bold\":true},{\"text\":\" is a start-up online business\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chuẩn bị đưa thêm thông tin về website\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe đến \\\" which \"},{\"text\":\"took 3 months to set up \",\"bold\":true},{\"text\":\"and has now been\"},{\"text\":\" running for around half a year.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mất \"},{\"text\":\"3 tháng để set up\",\"bold\":true},{\"text\":\" và đã \"},{\"text\":\"đi vào hoạt động được nửa năm\",\"bold\":true},{\"text\":\"\\n=> Nhiều bạn \"},{\"text\":\"nghe thấy 3 months sẽ chọn B \",\"bold\":true},{\"text\":\"nhưng đây chỉ là \"},{\"text\":\"thời gian để họ set up \\\\\\n=> Đáp án là C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"(6 months = half a year)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 147,
+          "transcripts": [
+           {
+            "id": "7/137153-147896",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 147,
+            "text": "BarterOnlineUK is a start-up online business, which took 3 months to set up and has now been running for around half a year."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22434fe0-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "SINGLE_ANSWER",
+       "question": "How many registered users are there in the website?",
+       "options": [
+        {
+         "key": 0,
+         "value": "1,000"
+        },
+        {
+         "key": 1,
+         "value": "1,500"
+        },
+        {
+         "key": 2,
+         "value": "2,000"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"website có bao nhiêu registered users\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the website has already \"},{\"text\":\"garnered \",\"bold\":true},{\"text\":\"about \"},{\"text\":\"1,500 registered users, \",\"bold\":true},{\"text\":\"with \"},{\"text\":\"500 more \",\"bold\":true},{\"text\":\"than \"},{\"text\":\"expected\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Website đã \"},{\"text\":\"thu hút được 1,500 người dùng\",\"bold\":true},{\"text\":\", \"},{\"text\":\"hơn 500 người\",\"bold\":true},{\"text\":\" \"},{\"text\":\"so với mong đợi\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là B  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" 500 chỉ là số lượng người chênh lệch với mong đợi\",\"bold\":true},{\"text\":\", các bạn cũng \"},{\"text\":\"đừng hiểu nhầm là cộng lại ra 2000\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 147,
+          "endTimeInSeconds": 162,
+          "transcripts": [
+           {
+            "id": "8/147896-162941",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 162,
+            "text": "Despite only being founded a short time ago, the website has already garnered about 1,500 registered users, with 500 more than expected, a huge achievement for the founders."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22434fe1-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "SINGLE_ANSWER",
+       "question": "Which country has the most users in the website?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Ireland"
+        },
+        {
+         "key": 1,
+         "value": "UK"
+        },
+        {
+         "key": 2,
+         "value": "Canada"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\",\"marks\":[]},{\"text\":\" phần lớn users đến từ nước nào\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe thấy \\\"Some of the users are registered in the \"},{\"text\":\"United Kingdom\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"Canada\",\"bold\":true},{\"text\":\", \"},{\"text\":\"with \",\"bold\":true},{\"text\":\"the \"},{\"text\":\"majority \",\"bold\":true},{\"text\":\"from the\"},{\"text\":\" Republic of Ireland\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Phần lớn đến từ Ireland \",\"bold\":true},{\"text\":\"(most users = the majority)\"},{\"text\":\"\\n=> Đáp án đúng là Ireland \\n=>Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 162,
+          "endTimeInSeconds": 170,
+          "transcripts": [
+           {
+            "id": "9/162941-170968",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 170,
+            "text": "Some of the users are registered in the United Kingdom and Canada, with the majority from the Republic of Ireland."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "22434fe2-7748-11ec-ad8a-4f88c60ae1f3",
+     "questions": [
+      {
+       "uuid": "22434fe3-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO things are most popular among users?",
+       "options": [
+        {
+         "key": 0,
+         "value": "children’s books"
+        },
+        {
+         "key": 1,
+         "value": "textbooks "
+        },
+        {
+         "key": 2,
+         "value": "computer games "
+        },
+        {
+         "key": 3,
+         "value": "toys "
+        },
+        {
+         "key": 4,
+         "value": "tools"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"A \"},{\"text\":\"multitude of item\",\"bold\":true},{\"text\":\"s are \"},{\"text\":\"sold on the website\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi liệt kê các items, mình nghe thấy \\\" however, \"},{\"text\":\"books for children\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"computer games \",\"bold\":true},{\"text\":\"are by far selected \"},{\"text\":\"most\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Children's books\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"computer games \",\"bold\":true},{\"text\":\"được chọn nhiều nhất\"},{\"text\":\" \\n=> Chọn đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 228,
+          "endTimeInSeconds": 240,
+          "transcripts": [
+           {
+            "id": "12/228562-240362",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 240,
+            "text": "A multitude of items are sold on the website, such as textbooks, soft toys, and tools, however books for children and computer games are by far selected most. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"A \"},{\"text\":\"multitude of item\",\"bold\":true},{\"text\":\"s are \"},{\"text\":\"sold on the website\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi liệt kê các items, mình nghe thấy \\\" however, \"},{\"text\":\"books for children\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"computer games \",\"bold\":true},{\"text\":\"are by far selected \"},{\"text\":\"most\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Children's books\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"computer games \",\"bold\":true},{\"text\":\"được chọn nhiều nhất\"},{\"text\":\" \\n=> Chọn đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 228,
+          "endTimeInSeconds": 240,
+          "transcripts": [
+           {
+            "id": "12/228562-240362",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 240,
+            "text": "A multitude of items are sold on the website, such as textbooks, soft toys, and tools, however books for children and computer games are by far selected most. "
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "22434fe4-7748-11ec-ad8a-4f88c60ae1f3",
+     "questions": [
+      {
+       "uuid": "22434fe5-7748-11ec-ad8a-4f88c60ae1f3",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền là\"},{\"text\":\" tính từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\" \"},{\"text\":\"unsure \",\"bold\":true},{\"text\":\"how to \"},{\"text\":\"decide \",\"bold\":true},{\"text\":\"which of their own \"},{\"text\":\"items to exchange\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy \\\"It often helps to\"},{\"text\":\" order items by popularity\",\"bold\":true},{\"text\":\"\\\" \\\"the \"},{\"text\":\"website \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"find out popular items \",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Website sẽ chọn ra\"},{\"text\":\" popular items \\n=> Đáp án: popular  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 284,
+          "endTimeInSeconds": 306,
+          "transcripts": [
+           {
+            "id": "16/284452-294597",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 294,
+            "text": "Although bartering is an age-old process, many of the website’s users are unsure how to decide which of their own items to exchange."
+           },
+           {
+            "id": "17/294597-306735",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 306,
+            "text": "It often helps to order items by popularity using the ‘ﬁlter’ button provided, this will tell the website to ﬁnd out popular items for users’ convenience. "
+           }
+          ]
+         },
+         "value": "popular",
+         "blankId": "go0Hwz7hb9Mvh6TRhAQn2"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cái gì của mọi người thì khác nhau\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the founding members say just put everything you don't want on there, \"},{\"text\":\"different people have different tastes\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cứ đăng bất cứ thứ gì bạn không cần, \"},{\"text\":\"mỗi người có tastes khác nhau\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án: tastes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 306,
+          "endTimeInSeconds": 318,
+          "transcripts": [
+           {
+            "id": "18/306735-318437",
+            "startTimeInSeconds": 306,
+            "endTimeInSeconds": 318,
+            "text": "To this, the founding members say just put everything you don’t want on there, diﬀerent people have diﬀerent tastes, and you never know what they might be looking for!"
+           }
+          ]
+         },
+         "value": "tastes",
+         "blankId": "GzXvhQTxTlL9JlOOMZ2t5"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Loại từ cần điền là\"},{\"text\":\" danh từ \",\"bold\":true},{\"text\":\"(users will give ___ on the completion of exchanges) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"whereby on \"},{\"text\":\"completion of an exchange\",\"bold\":true},{\"text\":\"\\\" ư\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp \\\"\"},{\"text\":\"users \",\"bold\":true},{\"text\":\"will be \"},{\"text\":\"encouraged \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"provide \",\"bold\":true},{\"text\":\"each other with \"},{\"text\":\"feedback\",\"bold\":true},{\"text\":\".\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Users sẽ \"},{\"text\":\"được khuyến khích provide feedback \",\"bold\":true},{\"text\":\"(provide = give) \"},{\"text\":\"\\n=> Đáp án: feedback \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 318,
+          "endTimeInSeconds": 333,
+          "transcripts": [
+           {
+            "id": "19/318437-333505",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 333,
+            "text": "In order to aid registered users in their exchanges, and to provide them with assurance, the founders recently added a new feature whereby on completion of an exchange, users will be encouraged to provide each other with feedback."
+           }
+          ]
+         },
+         "value": "feedback",
+         "blankId": "kqHnfuDY54EIGTcqru82L"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"\"},{\"text\":\"the ease of communication\",\"bold\":true},{\"text\":\"\\\" (item đến trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe thấy 'the \"},{\"text\":\"speed \",\"bold\":true},{\"text\":\"at which the\"},{\"text\":\" item was delivered\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tốc độ món hàng được delivered \\n=> Đáp án: speed \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 333,
+          "endTimeInSeconds": 348,
+          "transcripts": [
+           {
+            "id": "20/333505-348369",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 348,
+            "text": "This feedback will include criteria such as the quality of the item as compared with how it was advertised, the ease of communication with the seller, the speed at which the item was delivered, and so on. "
+           }
+          ]
+         },
+         "value": "speed",
+         "blankId": "7Uz9Oe8ECgN_I0z8EqdG0"
+        }
+       ],
+       "paragraph": {
+        "id": "snzg6sxxF6chg127Rh1iJ",
+        "editorValue": "[{\"children\":[{\"text\":\"The website will sort out \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"go0Hwz7hb9Mvh6TRhAQn2\"},{\"text\":\"    items to help those who can’t decide what to exchange.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Do not bother because people's  \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"GzXvhQTxTlL9JlOOMZ2t5\"},{\"text\":\"    are different.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Users will give \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"kqHnfuDY54EIGTcqru82L\"},{\"text\":\"    on the completion of exchanges. \"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Criteria\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"the quality of the item\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"the ease of communication\"}]}]},{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"the  \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"7Uz9Oe8ECgN_I0z8EqdG0\"},{\"text\":\"    of delivering\"}]}]}]}]}]}]",
+        "blanks": [
+         {
+          "id": "go0Hwz7hb9Mvh6TRhAQn2",
+          "key": 0
+         },
+         {
+          "id": "GzXvhQTxTlL9JlOOMZ2t5",
+          "key": 1
+         },
+         {
+          "id": "kqHnfuDY54EIGTcqru82L",
+          "key": 2
+         },
+         {
+          "id": "7Uz9Oe8ECgN_I0z8EqdG0",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentences below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Reflective Journal Assignment",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "9c2ae4a8-7748-11ec-a497-c14ffc64f3ac",
+     "questions": [
+      {
+       "uuid": "9c2ae4a9-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "What should be firstly included in the reflective journal?",
+       "options": [
+        {
+         "key": 0,
+         "value": "topics he is going to talk about"
+        },
+        {
+         "key": 1,
+         "value": "study aims for the module"
+        },
+        {
+         "key": 2,
+         "value": "suggestions from others"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"reflective journal phải có gì đầu tiên\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe “To start with, \"},{\"text\":\"what should be included first\",\"bold\":true},{\"text\":\" in the\"},{\"text\":\" reflective journal\",\"bold\":true},{\"text\":\"?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đầu tiên thấy nhắc đến “ Perhaps \"},{\"text\":\"suggestions from others\",\"bold\":true},{\"text\":\"?” \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Tuy nhiên ở câu sau giáo sư đã nói là\"},{\"text\":\" “No no”\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe \\\"firstly you \"},{\"text\":\"should include the study goals \",\"bold\":true},{\"text\":\"you set yourself\"},{\"text\":\" at the beginning of the module\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> study goals = study aims\\n=> Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 70,
+          "endTimeInSeconds": 97,
+          "transcripts": [
+           {
+            "id": "3/70857-78119",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 78,
+            "text": "Well, everything really. To start with, what should be included ﬁrst in the reflective journal?",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "4/78119-80157",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 80,
+            "text": "Perhaps suggestions from others?",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "5/80157-86879",
+            "startTimeInSeconds": 80,
+            "endTimeInSeconds": 86,
+            "text": "No no, ﬁrstly you should include the study goals you set yourself at the beginning of the module.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "6/86879-92372",
+            "startTimeInSeconds": 86,
+            "endTimeInSeconds": 92,
+            "text": "This section should have been discussed in some detail towards the beginning of the course by Professor May.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "7/92372-97879",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 97,
+            "text": "You should be able to find her suggestions on the slides she has provided the class online.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9c2ae4aa-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "The woman has got",
+       "options": [
+        {
+         "key": 0,
+         "value": "a lot of friends to help her."
+        },
+        {
+         "key": 1,
+         "value": "Several books that may be useful."
+        },
+        {
+         "key": 2,
+         "value": "sufficient resources showing that she is a good technology user."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe Annie nói \\\"most of our\"},{\"text\":\" friends' bibliographies\",\"bold\":true},{\"text\":\" are \"},{\"text\":\"longer\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhắc đến \"},{\"text\":\"friends để so sánh\",\"bold\":true},{\"text\":\" bibliographies chứ\"},{\"text\":\" không nói có nhiều bạn giúp \\n=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe giáo sư nói “I can see that you have used a\"},{\"text\":\" wide range of resources,\",\"bold\":true},{\"text\":\" which shows that you have made \"},{\"text\":\"effective use of communication technology.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Annie \"},{\"text\":\"đã dùng nhiều resources\",\"bold\":true},{\"text\":\" cho thấy \"},{\"text\":\"đã tận dụng tốt technology \\n=> Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 104,
+          "endTimeInSeconds": 131,
+          "transcripts": [
+           {
+            "id": "9/104334-109917",
+            "startTimeInSeconds": 104,
+            "endTimeInSeconds": 109,
+            "text": "I feel like they’re missing something; most of our friends’ bibliographies are longer.",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "10/109917-119549",
+            "startTimeInSeconds": 109,
+            "endTimeInSeconds": 119,
+            "text": "Well, looking at this Annie, I can see that you have used a wide range of resources, which shows that you have made eﬀective use of communication technology.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "11/119549-131286",
+            "startTimeInSeconds": 119,
+            "endTimeInSeconds": 131,
+            "text": "As far as I can tell, you need not make any changes to this, although you might want to double check that your referencing complies with the Harvard Referencing Style regulations.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9c2ae4ab-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "What was the man’s biggest achievement in the past?",
+       "options": [
+        {
+         "key": 0,
+         "value": "He worked as a waiter in a restaurant."
+        },
+        {
+         "key": 1,
+         "value": "He got an offer to lead a team."
+        },
+        {
+         "key": 2,
+         "value": "He became the chairman of the Student Union."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \",\"marks\":[]},{\"text\":\"thành tựu lớn nhất của người đàn ông\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"we are asked to introduce and elaborate on our \"},{\"text\":\"biggest achievement \",\"bold\":true},{\"text\":\"in the past,\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tom nói\"},{\"text\":\"  \",\"bold\":true},{\"text\":\"\\\"I've only ever \"},{\"text\":\"worked as a waiter \",\"bold\":true},{\"text\":\"in a hotel restaurant\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó còn nghe \\\"I was \"},{\"text\":\"asked \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"become the team leader [...] But \",\"bold\":true},{\"text\":\"that’s \"},{\"text\":\"hardly an achievement\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tom \"},{\"text\":\"không nghĩ việc làm leader \",\"bold\":true},{\"text\":\"tại nhà hàng \"},{\"text\":\"là thành tựu to lớn\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo giáo sư nói \\\"\"},{\"text\":\"but \",\"bold\":true},{\"text\":\"if you write that y\"},{\"text\":\"ou were offered the position \",\"bold\":true},{\"text\":\"of the team leader, it \"},{\"text\":\"shows \",\"bold\":true},{\"text\":\"a lot \"},{\"text\":\"more \",\"bold\":true},{\"text\":\"about your \"},{\"text\":\"character\",\"bold\":true},{\"text\":\",\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Giáo sư suggest Tom viết \"},{\"text\":\"biggest achievement là được offer làm leader \",\"bold\":true},{\"text\":\"chứ không phải việc làm ở nhà hàng\"},{\"text\":\"\\n=> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 204,
+          "transcripts": [
+           {
+            "id": "14/143059-159951",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 159,
+            "text": " Ah yes, Professor, in the assignment guidelines, we are asked to introduce and elaborate on our biggest achievement in the past, saying which skills we learnt in the process, and how these skills can  be  transferred  to  various  diﬀerent  future careers.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "15/159951-164787",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 164,
+            "text": "The only problem is that I don’t know what my greatest  achievement actually is.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "16/164787-171160",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 171,
+            "text": "I’ve only ever worked as a waiter in a hotel restaurant during the summer holidays from university.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "17/171160-177796",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 177,
+            "text": " If you worked as a waiter in a hotel restaurant, you’re bound to have worked with other waiters as part of a team.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "18/177796-182918",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 182,
+            "text": "Would you say that during your time as a waiter, you developed any leadership skills?",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "19/182918-189037",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 189,
+            "text": "Yes, well I suppose I was asked to become the team leader of the food and beverage department.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "20/189037-191359",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 191,
+            "text": "But that’s hardly an achievement.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "21/191359-196310",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 196,
+            "text": "You might not think so, but if you write that you were oﬀered the position of the team leader,",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           },
+           {
+            "id": "22/196310-204145",
+            "startTimeInSeconds": 196,
+            "endTimeInSeconds": 204,
+            "text": "it shows a lot more about your character, for example that you’re charismatic and work well in a high-pressure situation.",
+            "character": {
+             "id": "yjgVX8mqzv-K17jYbIV9q",
+             "name": "Prof. Tomlinson"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9c2ae4ac-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "The man decides to",
+       "options": [
+        {
+         "key": 0,
+         "value": "do it by himself"
+        },
+        {
+         "key": 1,
+         "value": "find a tutor"
+        },
+        {
+         "key": 2,
+         "value": "listen to others"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp được Tom nói \\\"I \"},{\"text\":\"should start listening \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"others \",\"bold\":true},{\"text\":\"more often\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tom nghĩ mình \"},{\"text\":\"nên tập nghe ý kiến của người khác\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 217,
+          "transcripts": [
+           {
+            "id": "23/204145-208393",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 208,
+            "text": "I never would have thought to write that down, thank you!",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "24/208393-212026",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 212,
+            "text": "I guess I should start listening to others more often!",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "25/212026-217467",
+            "startTimeInSeconds": 212,
+            "endTimeInSeconds": 217,
+            "text": "Annie, do you have any more questions or are you ready to go back to the library?",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9c2ae4ad-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the man’s attitude after the discussion?",
+       "options": [
+        {
+         "key": 0,
+         "value": "He thinks it is useless."
+        },
+        {
+         "key": 1,
+         "value": "He is looking forward to doing the assignment"
+        },
+        {
+         "key": 2,
+         "value": "He feels uncertain about it."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \",\"marks\":[]},{\"text\":\"thái độ của Tom sau cuộc trò chuyện\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe thấy \\\"That was really \"},{\"text\":\"helpful\",\"bold\":true},{\"text\":\". \\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cuộc trò chuyện rất có ích \\n=> Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe thấy \\\" I’m actually \"},{\"text\":\"starting \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"look forward to writing this\",\"bold\":true},{\"text\":\" now,\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ẩy \"},{\"text\":\"mong chờ làm assignment\\n=> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 222,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "27/222952-225294",
+            "startTimeInSeconds": 222,
+            "endTimeInSeconds": 225,
+            "text": "That was really helpful.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "28/225294-236016",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 236,
+            "text": "I’m actually starting to look forward to writing this now, and it should be a really useful exercise to prepare us for writing CVs and applying for jobs. ",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9c2ae4ae-7748-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "What should be shown in the man’s reflective journal?",
+       "options": [
+        {
+         "key": 0,
+         "value": "self-awareness"
+        },
+        {
+         "key": 1,
+         "value": "mistakes"
+        },
+        {
+         "key": 2,
+         "value": "achievements"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"Tom cần cho thấy cái gì trong reflective jourral\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tom nói mình\"},{\"text\":\" kém trong việc nhận định điểm mạnh\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" điểm yếu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Sau đó nghe được \\\"Professor Tomlinson has \"},{\"text\":\"shown \",\"bold\":true},{\"text\":\"me that I definitely \"},{\"text\":\"need \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"start displaying \",\"bold\":true},{\"text\":\"some \"},{\"text\":\"self\",\"bold\":true},{\"text\":\"-\"},{\"text\":\"awareness\",\"bold\":true},{\"text\":\"!\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tom \"},{\"text\":\"cần cho thấy self-awareness\\n=> Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 236,
+          "endTimeInSeconds": 248,
+          "transcripts": [
+           {
+            "id": "29/236016-241309",
+            "startTimeInSeconds": 236,
+            "endTimeInSeconds": 241,
+            "text": "It’s shocking how bad I am at identifying my strengths and weaknesses.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "30/241309-248221",
+            "startTimeInSeconds": 241,
+            "endTimeInSeconds": 248,
+            "text": "Professor Tomlinson has shown me that I deﬁnitely need to start displaying some self-awareness!",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "9c2ae4af-7748-11ec-a497-c14ffc64f3ac",
+     "questions": [
+      {
+       "uuid": "9c2ae4b0-7748-11ec-a497-c14ffc64f3ac",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "define a problem"
+        },
+        {
+         "key": 1,
+         "value": "independent learning"
+        },
+        {
+         "key": 2,
+         "value": "develop study skills"
+        },
+        {
+         "key": 3,
+         "value": "gain confidence"
+        },
+        {
+         "key": 4,
+         "value": "find it difficult"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng đầu tiên là \",\"marks\":[]},{\"text\":\"writing an essay\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới\\\" identifying the skills gained through \"},{\"text\":\"different activities\",\"bold\":true},{\"text\":\",\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án chuẩn bị vào\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình có nghe \\\"whether \"},{\"text\":\"writing \",\"bold\":true},{\"text\":\"an essay \"},{\"text\":\"develop your study skills\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"independent learning ...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nhắc về \"},{\"text\":\"2 options trong phần đáp án\",\"bold\":true},{\"text\":\", tuy nhiên đó \"},{\"text\":\"chỉ là câu hỏi \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Không phải đáp án \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe Annie nói \\\"I think \"},{\"text\":\"writing an essay\",\"bold\":true},{\"text\":\" might be a way of\"},{\"text\":\" identifying\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"resolving a problem\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Writing an essay là \"},{\"text\":\"cách để xác định và giải quyết vấn đề (= define a problem) \\n=> Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 292,
+          "endTimeInSeconds": 333,
+          "transcripts": [
+           {
+            "id": "33/292604-301286",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 301,
+            "text": "Oh no! I forgot to ask the professor about the section on identifying the  skills gained through diﬀerent activities, do you remember?",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "34/301286-309609",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 309,
+            "text": "When it asks you, for example, whether writing an essay develops your study skills or your independent learning and so on?",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "35/309609-315610",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 315,
+            "text": " Oh goodness, we really should have asked  him that. I’ve been having   trouble with it too.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "36/315610-322252",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 322,
+            "text": "It just seems like such a pointless task. What do you reckon the answers are?",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "37/322252-333325",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 333,
+            "text": " Hmm...I think writing an essay might be a way of identifying and resolving a problem, because you have to state the problem in the introduction and then solve it.",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng tiếp theo là về \"},{\"text\":\"taking exams\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sẽ tới sau \\\"I’m not so sure about \"},{\"text\":\"taking exams.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp được \\\"\"},{\"text\":\" I thought\",\"bold\":true},{\"text\":\" they were \"},{\"text\":\"supposed \",\"bold\":true},{\"text\":\"to \"},{\"text\":\"develop \",\"bold\":true},{\"text\":\"lots of different \"},{\"text\":\"skill \",\"bold\":true},{\"text\":\"sets\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Supposed to develop\",\"marks\":[],\"bold\":true},{\"text\":\" nghĩa là \",\"marks\":[]},{\"text\":\"đáng lẽ phải develop\",\"marks\":[],\"bold\":true},{\"text\":\" (mang nghĩa phủ định)\",\"marks\":[]},{\"text\":\"\\n=> Không phải là đáp án \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe Annie nói \\\"I’d say that \"},{\"text\":\"taking exams enables \",\"bold\":true},{\"text\":\"you to \"},{\"text\":\"become more confident\",\"bold\":true},{\"text\":\" in yourself\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Làm bài kiểm tra \"},{\"text\":\"khiến bạn trở nên tự tin hơn (=gain confidence) \\n=> Chọn đáp án D\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 333,
+          "endTimeInSeconds": 350,
+          "transcripts": [
+           {
+            "id": "38/333325-341165",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 341,
+            "text": "I’m not so sure about taking exams... I thought they were supposed to develop lots of diﬀerent skill sets.",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "39/341165-350303",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 350,
+            "text": "If I really had to choose Q28 , I’d say that    taking exams enables you to become more confident in yourself.. .do you agree?",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng tiếp theo là \"},{\"text\":\"making class notes\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"Making class notes \",\"bold\":true},{\"text\":\"and presentation notes?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\" I think \"},{\"text\":\"making class notes \",\"bold\":true},{\"text\":\"has to be \"},{\"text\":\"a way of becoming a more independent learner\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Making note \",\"bold\":true},{\"text\":\"là cách \"},{\"text\":\"trở nên independent hơn (=independent learning) \\n=> Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 350,
+          "endTimeInSeconds": 372,
+          "transcripts": [
+           {
+            "id": "40/350303-353055",
+            "startTimeInSeconds": 350,
+            "endTimeInSeconds": 353,
+            "text": "Maybe, I really don’t know either.",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "41/353055-359331",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 359,
+            "text": "What do you think about the last two? Making class notes and presentation notes?",
+            "character": {
+             "id": "74f6ZgcxQKOyDjDtQ-Zku",
+             "name": "Tom"
+            }
+           },
+           {
+            "id": "42/359331-372174",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 372,
+            "text": " Oh it’s so diﬃcult! Q29 I think making class notes has to be a way of becoming a more independent learner because you yourself decide what the important information is and learn it. ",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe \\\"I \"},{\"text\":\"find taking presentation notes\",\"bold\":true},{\"text\":\" is a \"},{\"text\":\"disaster\",\"bold\":true},{\"text\":\"!\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Thấy \",\"bold\":true},{\"text\":\"taking presentation note \"},{\"text\":\"là 1 thảm họa (=find it difficult) \\n=> Chọn đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 372,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "43/372174-377734",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 377,
+            "text": "That reminds me, Q30 I ﬁnd taking presentation notes is a disaster!",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           },
+           {
+            "id": "44/377734-382768",
+            "startTimeInSeconds": 377,
+            "endTimeInSeconds": 382,
+            "text": "The professors speak much too quickly, and I write much too slowly, ",
+            "character": {
+             "id": "rMMPCQjDPO7HttGHNMywt",
+             "name": "Annie"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 4,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "writing an essay"
+        },
+        {
+         "key": 1,
+         "value": "taking exams"
+        },
+        {
+         "key": 2,
+         "value": "making class notes"
+        },
+        {
+         "key": 3,
+         "value": "taking presentation notes"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What is the woman’s attitude toward each of the following activities of study?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FOUR",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter,"
+         },
+         {
+          "text": " A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FOUR",
+          "bold": true
+         },
+         {
+          "text": " answers from the box and write the correct letter, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Chimpanzee Behaviours",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "67c3ac1e-7748-11ec-82cb-e56b9da6ed07",
+     "questions": [
+      {
+       "uuid": "67c3ac1f-7748-11ec-82cb-e56b9da6ed07",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một thứ bị ruled out\",\"bold\":true},{\"text\":\" (ngăn chặn), \"},{\"text\":\"bên cạnh biological factors\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"Current research\",\"bold\":true},{\"text\":\" tells us that the chimps\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"những nghiên cứu ngày nay \",\"bold\":true},{\"text\":\"tập trung vào \"},{\"text\":\"behavioural characteristics\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó \\\"\"},{\"text\":\"once \",\"bold\":true},{\"text\":\"all \"},{\"text\":\"biological \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"genetic factors have been ruled out\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một khi các factor về\"},{\"text\":\" biological\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"genetic \",\"bold\":true},{\"text\":\"đã bị ruled out\"},{\"text\":\"\\n=> Đáp án: genetic \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 108,
+          "endTimeInSeconds": 141,
+          "transcripts": [
+           {
+            "id": "5/108750-121461",
+            "startTimeInSeconds": 108,
+            "endTimeInSeconds": 121,
+            "text": "Current research tells us that the chimps broke away from the human branch of the Hominidae family approximately six million years ago, and remain the closest living relative to humans to this day."
+           },
+           {
+            "id": "6/121461-132251",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 132,
+            "text": "More modern researches into chimpanzees have centred on their behavioural characteristics, once all biological and genetic factors have been ruled out."
+           },
+           {
+            "id": "7/132251-141771",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 141,
+            "text": "In this way, scientists have unearthed an unfathomable amount of similarities between human and chimpanzee behaviour."
+           }
+          ]
+         },
+         "value": "genetic",
+         "blankId": "m_mN_YqJ44sWQj29sAf6Z"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến mình nghe thấy \\\"scientists have found that \"},{\"text\":\"chimps learn \",\"bold\":true},{\"text\":\"and adapt \"},{\"text\":\"through observation of others’ behaviour.\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tinh tinh \"},{\"text\":\"học và thích nghi thông qua việc observation (quan sát) hành vi của các con khác\\n=> Đáp án: observation\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 165,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "10/165945-174353",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 174,
+            "text": "Through such research, scientists have found that chimps learn and adapt through observation of others’ behaviour."
+           }
+          ]
+         },
+         "value": "observation",
+         "blankId": "VkjAYXqiCvVmzW9tVQjU7"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"một thứ mà chimps học cách để sử dụng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau khi nghe \\\"\"},{\"text\":\"Jane Goodall\",\"bold\":true},{\"text\":\" made a groundbreaking discovery in 1960\\\" (tên riêng trên đề) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tiếp thấy \\\" when she observed \"},{\"text\":\"the use of tools \",\"bold\":true},{\"text\":\"among chimpanzees,\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bà ấy \"},{\"text\":\"quan sát được việc sử dụng tools\",\"bold\":true},{\"text\":\" ở loài tinh tinh\"},{\"text\":\"\\n=> Tinh tinh biết cách sử dụng tools \\n=> Đáp án: tools \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 251,
+          "endTimeInSeconds": 263,
+          "transcripts": [
+           {
+            "id": "17/251875-263932",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 263,
+            "text": "Jane Goodall made a groundbreaking discovery in 1960, when she observed the use of tools among chimpanzees, including digging for termites with large sticks."
+           }
+          ]
+         },
+         "value": "tools",
+         "blankId": "BWbe3Ve6-AdCCiVmv5Vbf"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"một hành động mà chimps có thể làm với vỏ dừa \",\"bold\":true},{\"text\":\"(can ___ the shells of coconuts) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe \\\"using \"},{\"text\":\"spears sharpened\",\"bold\":true},{\"text\":\" with their teeth \"},{\"text\":\"to hunt\",\"bold\":true},{\"text\":\"\\\" (đề cập tới ý đến trước) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến nghe thấy \\\"Researchers have witnessed such\"},{\"text\":\" tools\",\"bold\":true},{\"text\":\", namely rocks, \"},{\"text\":\"being used by chimps to open coconut shells\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Tinh tinh có thể\",\"bold\":true},{\"text\":\" dùng đá để\"},{\"text\":\" mở vỏ dừa\\n=> Đáp án: open \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 287,
+          "transcripts": [
+           {
+            "id": "18/263932-277675",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 277,
+            "text": "A recent study claimed to reveal that common chimpanzees in Senegal have been using spears sharpened with their teeth to hunt; however these reports remain unsubstantiated."
+           },
+           {
+            "id": "19/277675-287453",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 287,
+            "text": "Researchers have witnessed such tools, namely rocks, being used by chimps to opencoconut  shells  and  indeed  crushing  nuts with stonehammers."
+           }
+          ]
+         },
+         "value": "open",
+         "blankId": "YltEapSHLwdVKmFY3LwMb"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" loại búa mà chimps dùng để crash nuts\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nghe về open coconut mình nghe được ngay sau đó \\\"\"},{\"text\":\"crushing nuts \",\"bold\":true},{\"text\":\"with \"},{\"text\":\"stone hammers\",\"bold\":true},{\"text\":\".\\\" (=crash nuts) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>Đáp án: stone \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 277,
+          "endTimeInSeconds": 287,
+          "transcripts": [
+           {
+            "id": "19/277675-287453",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 287,
+            "text": "Researchers have witnessed such tools, namely rocks, being used by chimps to opencoconut  shells  and  indeed  crushing  nuts with stonehammers."
+           }
+          ]
+         },
+         "value": "stone",
+         "blankId": "tJJ5UGQyTcjYHQzeAYO8B"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"tinh tinh có thể học cái gì, bên cạnh việc hiểu ngôn ngữ con người\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\" the sheer extent of the \"},{\"text\":\"chimp’s intelligence\",\"bold\":true},{\"text\":\"\\\" (đề cập tới trí khôn của tinh tinh)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"chimps have the \"},{\"text\":\"capability t\",\"bold\":true},{\"text\":\"o learn and \"},{\"text\":\"use symbols\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"understand\",\"bold\":true},{\"text\":\" aspects of the \"},{\"text\":\"human language\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tinh tinh có khả năng\"},{\"text\":\" học và sử dụng symbols\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"hiểu the human language\\n=>Đáp án: symbols \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 287,
+          "endTimeInSeconds": 308,
+          "transcripts": [
+           {
+            "id": "20/287453-294781",
+            "startTimeInSeconds": 287,
+            "endTimeInSeconds": 294,
+            "text": "As scientiﬁc technology has developed, so too has our knowledge of the sheer extent of the chimp’s intelligence."
+           },
+           {
+            "id": "21/294781-308174",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 308,
+            "text": "Research has now shown that chimps have the capability to learn and use symbols, and understand aspects of the human language, including syntax as well as numerical sequences."
+           }
+          ]
+         },
+         "value": "symbols",
+         "blankId": "0H-VXcwdJIjds9C-e_oYn"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"nơi ở của Bonobos\",\"bold\":true},{\"text\":\" (on the other side of a  ___) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"the common chimpanzee and \"},{\"text\":\"the bonobo\",\"bold\":true},{\"text\":\". \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe được speaker nói \"},{\"text\":\"2 loài này\",\"bold\":true},{\"text\":\" được phân chia \"},{\"text\":\"trên sông Congo\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe thấy \",\"marks\":[]},{\"text\":\"\\\"the bonobos\"},{\"text\":\" living on the opposite side of the river\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> 'Common chimps'\",\"bold\":true},{\"text\":\" sống một bên sông và con \"},{\"text\":\"'Bonono' sống bên sông đối diện\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Đáp án: river \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "22/308174-315989",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 315,
+            "text": "As I mentioned earlier, the umbrella term ‘chimpanzee’ is comprised of the common chimpanzee and the bonobo."
+           },
+           {
+            "id": "23/315989-326765",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 326,
+            "text": "These two sub-species are divided along the Congo River, with the common chimps living on one side, and the bonobos living on the opposite side of the river."
+           }
+          ]
+         },
+         "value": "river",
+         "blankId": "kQzuPH8NlW2CWEr5_Pher"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một thứ thuộc population đang bị giảm ở mức đáng báo động\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"bold\":true,\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp tục nghe được \\\"Both of these sub-species have witnessed an\"},{\"text\":\" alarming decrease in population density\",\"bold\":true},{\"text\":\",\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Population density\",\"bold\":true},{\"text\":\" của 2 loài này đang \"},{\"text\":\"giảm ở mức báo động\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: density \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 326,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "24/326765-342250",
+            "startTimeInSeconds": 326,
+            "endTimeInSeconds": 342,
+            "text": "Over the past few decades, both of these sub- species have  witnessed an alarming decrease in population density, with animal activists now working harder than ever to protect those remaining and encourage procreation."
+           }
+          ]
+         },
+         "value": "density",
+         "blankId": "_968TwAAF3Ds-OMbI9sJ_"
+        }
+       ],
+       "heading": "Chimpanzee behaviours",
+       "paragraph": {
+        "id": "JEcmBPWbTmdJzvmw942Sk",
+        "editorValue": "[{\"children\":[{\"text\":\"Species\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"We can find Pan or Pan Troglodytes in West and Central Africa.\"}]}]}]}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The Bonobo or Pan Paniscus are found in Democratic Republic of Congo.\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Current research\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"rule out \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"m_mN_YqJ44sWQj29sAf6Z\"},{\"text\":\"  and biological factors\"}]}]}]}]}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"learn through \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"VkjAYXqiCvVmzW9tVQjU7\"},{\"text\":\"of other chimps’ behaviour\"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Discoveries\",\"bold\":true}]},{\"type\":\"bulleted-list\",\"children\":[{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The book The Third Chimpanzee by James Diamond discusses some physical features of chimpanzees.\"}]}]}]}]},{\"type\":\"list-item\",\"children\":[{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The discovery reported by Jane Goodall suggests that chimpanzees know how to use \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"BWbe3Ve6-AdCCiVmv5Vbf\"},{\"text\":\" \"}]}]}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Chimpanzees in Senegal\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"use spears sharpened with their teeth\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"can \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YltEapSHLwdVKmFY3LwMb\"},{\"text\":\" the shell of a coconut\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"use a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"tJJ5UGQyTcjYHQzeAYO8B\"},{\"text\":\"  hammer to crash nuts\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"are capable of learning \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"0H-VXcwdJIjds9C-e_oYn\"},{\"text\":\" and understanding human language\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sub-species\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Bonobos live on the other side of a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"kQzuPH8NlW2CWEr5_Pher\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Both of them are reducing alarmingly in population \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"_968TwAAF3Ds-OMbI9sJ_\"},{\"text\":\"\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "m_mN_YqJ44sWQj29sAf6Z",
+          "key": 0
+         },
+         {
+          "id": "VkjAYXqiCvVmzW9tVQjU7",
+          "key": 1
+         },
+         {
+          "id": "BWbe3Ve6-AdCCiVmv5Vbf",
+          "key": 2
+         },
+         {
+          "id": "YltEapSHLwdVKmFY3LwMb",
+          "key": 3
+         },
+         {
+          "id": "tJJ5UGQyTcjYHQzeAYO8B",
+          "key": 4
+         },
+         {
+          "id": "0H-VXcwdJIjds9C-e_oYn",
+          "key": 5
+         },
+         {
+          "id": "kQzuPH8NlW2CWEr5_Pher",
+          "key": 6
+         },
+         {
+          "id": "_968TwAAF3Ds-OMbI9sJ_",
+          "key": 7
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 8
+    },
+    {
+     "id": "67c3ac20-7748-11ec-82cb-e56b9da6ed07",
+     "questions": [
+      {
+       "uuid": "67c3ac21-7748-11ec-82cb-e56b9da6ed07",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO topics about chimpanzees will the students discuss next week?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They are slower than human in different ways."
+        },
+        {
+         "key": 1,
+         "value": "They learn things by copying humans’ behaviour."
+        },
+        {
+         "key": 2,
+         "value": "They develop behaviours generation by generation. "
+        },
+        {
+         "key": 3,
+         "value": "They have very strong ability of logical thinking."
+        },
+        {
+         "key": 4,
+         "value": "They could be modified to adapt to the environment."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"tuần sau sẽ thảo luận về 2 chủ đề gì về chimpanzee\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"In addition, \"},{\"text\":\"next week’s episode\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp tục nghe \\\"will focus more closely on \"},{\"text\":\"how chimpanzees\",\"bold\":true},{\"text\":\" in captivity\"},{\"text\":\" are able to learn\",\"bold\":true},{\"text\":\" things \"},{\"text\":\"through imitating \",\"bold\":true},{\"text\":\"the \"},{\"text\":\"behaviour of\",\"bold\":true},{\"text\":\" \"},{\"text\":\"humans\",\"bold\":true},{\"text\":\" \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thảo luận về \"},{\"text\":\"cách chimpanzees học\",\"bold\":true},{\"text\":\" thông qua \"},{\"text\":\"bắt chước hành vi con người  (imitating = copying) \\n=> Đáp án đúng là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 347,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "25/347178-361960",
+            "startTimeInSeconds": 347,
+            "endTimeInSeconds": 361,
+            "text": "In addition, next week’s episode will focus more closely on how chimpanzees in captivity are able Q39 to learn things through imitating the behaviour of humans, as well as how chimpanzees’ behaviours have developed over many generations."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"as well as how chimpanzees’ \"},{\"text\":\"behaviours \",\"bold\":true},{\"text\":\"have \"},{\"text\":\"developed\",\"bold\":true},{\"text\":\" over \"},{\"text\":\"many generation\",\"bold\":true},{\"text\":\"s.\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Hành vi\",\"bold\":true},{\"text\":\" của chimps được \"},{\"text\":\"phát triển qua nhiều thế hệ \\n=> Đáp án cần điền là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 347,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "25/347178-361960",
+            "startTimeInSeconds": 347,
+            "endTimeInSeconds": 361,
+            "text": "In addition, next week’s episode will focus more closely on how chimpanzees in captivity are able Q39 to learn things through imitating the behaviour of humans, as well as how chimpanzees’ behaviours have developed over many generations."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Which "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " topics about chimpanzees will the students discuss next week?"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:13Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

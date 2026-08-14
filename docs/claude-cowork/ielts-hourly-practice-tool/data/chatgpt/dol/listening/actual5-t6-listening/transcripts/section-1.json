@@ -1,0 +1,264 @@
+{
+ "section": 1,
+ "cues": [
+  {
+   "id": "c1",
+   "start": 122.012,
+   "end": 123.919,
+   "text": "Good morning, what can I do for you?",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c2",
+   "start": 123.919,
+   "end": 133.6,
+   "text": "Uh, yes, I am currently visiting this area, but I injured myself when I was doing sports a while ago, and I still feel painful, so I wondered whether I could go for a doctor here.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c3",
+   "start": 133.6,
+   "end": 141.716,
+   "text": "Sure sir, we can take you on as a temporary patient. I'll just take down some personal details of you. May I have your name, please?",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c4",
+   "start": 141.716,
+   "end": 143.22,
+   "text": "Yes, it's Peter Smith.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c5",
+   "start": 143.22,
+   "end": 147.172,
+   "text": "All right, Peter. And where are you currently staying here?",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c6",
+   "start": 147.172,
+   "end": 149.635,
+   "text": "At 95 Cross Street",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c7",
+   "start": 149.635,
+   "end": 151.413,
+   "text": "And the county?",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c8",
+   "start": 151.413,
+   "end": 155.667,
+   "text": "Walkley. That's W-a-l-k-l-e-y.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c9",
+   "start": 155.667,
+   "end": 159.245,
+   "text": "OK, and can I have a contact number?",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c10",
+   "start": 159.245,
+   "end": 164.097,
+   "text": "Uh, it's 4689 5324.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c11",
+   "start": 164.097,
+   "end": 169.437,
+   "text": "OK, thanks. May you just wait down there! The doctor will see you in a minute.",
+   "speaker": "Girl"
+  },
+  {
+   "id": "c12",
+   "start": 212.187,
+   "end": 215.695,
+   "text": "Now, how can I help you? It's Peter Smith, isn't it?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c13",
+   "start": 215.695,
+   "end": 221.244,
+   "text": "Yes, I had a sporting accident, and a doctor at home treated me, but I'm still getting some pain.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c14",
+   "start": 221.244,
+   "end": 226.421,
+   "text": "Hum, right. Uh, first of all, I want to ask you a few questions.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c15",
+   "start": 226.421,
+   "end": 227.633,
+   "text": "Okay.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c16",
+   "start": 227.633,
+   "end": 230.857,
+   "text": "Well, what sport were you doing when you got injured?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c17",
+   "start": 230.857,
+   "end": 233.245,
+   "text": "Playing tennis with my friends.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c18",
+   "start": 233.245,
+   "end": 237.742,
+   "text": "Now, I see. Did you hurt your elbow or wrist?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c19",
+   "start": 237.742,
+   "end": 241.794,
+   "text": "Oh, no. I had my knee sprained, which was the original problem.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c20",
+   "start": 241.794,
+   "end": 244.895,
+   "text": "Right, and when did this happen?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c21",
+   "start": 244.895,
+   "end": 248.721,
+   "text": "Uh, that was three weeks ago now, so it was about June 18th.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c22",
+   "start": 248.721,
+   "end": 251.957,
+   "text": "Hum. And, you said you had medical treatment at home?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c23",
+   "start": 251.957,
+   "end": 258.504,
+   "text": "Uh, yeah. The doctor said I didn't need an X-ray or things alike, and he just told me to use an ice pack.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c24",
+   "start": 258.504,
+   "end": 260.613,
+   "text": "Fine, anything else?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c25",
+   "start": 260.613,
+   "end": 264.848,
+   "text": "Yes, and I've been using a walking stick to help me get around.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c26",
+   "start": 264.848,
+   "end": 268.969,
+   "text": "Right, now what problems are you having during walking?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c27",
+   "start": 268.969,
+   "end": 274.787,
+   "text": "Well, actually I can walk, yet I still can't go upstairs, so I've been sleeping downstairs.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c28",
+   "start": 274.787,
+   "end": 278.143,
+   "text": "Hum, now you said your knee still gets hurt?",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c29",
+   "start": 278.143,
+   "end": 285.976,
+   "text": "Well, no. Actually, it's getting better. It's my back that's hurting, me now. It really aches at night, and I cannot sleep well.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c30",
+   "start": 285.976,
+   "end": 288.393,
+   "text": "Hum, I have several suggestions for that.",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c31",
+   "start": 288.393,
+   "end": 289.361,
+   "text": "Great.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c32",
+   "start": 289.361,
+   "end": 293.566,
+   "text": "First you should put the stick away as that's probably the source of the problem.",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c33",
+   "start": 293.566,
+   "end": 296.113,
+   "text": "Oh, really? I wish I'd know.",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c34",
+   "start": 296.113,
+   "end": 300.45,
+   "text": "After that, I can prescribe you something to relax the muscles in your back",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c35",
+   "start": 300.45,
+   "end": 309.179,
+   "text": "Oh, sorry to be difficult, but I've had something like that in the past, and there were many side effects, and I don't want to take it. Would you recommend anything else?",
+   "speaker": "Peter"
+  },
+  {
+   "id": "c36",
+   "start": 309.179,
+   "end": 318.132,
+   "text": "Well, yes. We do have a leaflet showing some exercises you can do yourself at home. If you do them every day, they'll soon be effective.",
+   "speaker": "Doctor"
+  },
+  {
+   "id": "c37",
+   "start": 318.132,
+   "end": 319.264,
+   "text": "Great. I'll do that.",
+   "speaker": "Peter"
+  }
+ ]
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual4-t4-listening",
+ "title": "Actual Test 4 - Listening Test 4",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 4",
+ "testNum": 4,
+ "order": 88,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-4-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Car Rental Inquiry",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/304e619c-cf7b-4139-8724-086d44b653be.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 15559619
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/831bf529-b497-4afd-84f0-c3bb1d677544.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 36
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Harvesting And Processing Cocoa Beans",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5e2d5b82-9255-4a81-9670-41d5ae7eff95.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 17582543
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/dbc309e9-33d0-4f5f-ac9a-789752042dc2.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 40
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Moa",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5e2bb9fe-6dbf-4aef-a0d7-0727ddab3da2.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 14996420
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cfc838d7-a825-483b-adc5-dd0740502e79.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 33
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "History Of Time-Measurement",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d0ed5aab-3c08-48b3-82ae-f0d3210e298d.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 17356844
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/84d9e098-c334-4742-beb3-048bdd507947.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 37
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:51:01Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

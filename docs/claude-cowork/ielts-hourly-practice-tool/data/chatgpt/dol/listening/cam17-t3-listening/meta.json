@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam17-t3-listening",
+ "title": "CAM IELTS 17 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 17",
+ "testNum": 3,
+ "order": 15,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-17-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Advice on surfing holidays",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/675f5476-89fe-4ec5-8bf2-6fd20b856eef.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 6634066
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/577b1452-91a1-4065-a831-6fdb94326da0.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 60
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Childcare Service",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/b487ac0f-02d1-4d23-829b-755ed9c29ca3.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 7193680
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/4f98eebb-be11-4081-9f58-426070dcca47.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 41
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Holly's Work Placement Tutorial",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/be2a5835-4a27-449d-bedc-324a3325cdca.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 7231627
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/196973af-8871-469e-9768-d854ca806dde.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 66
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Bird Migration Theory",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/91523400-23d6-4bb5-b916-999f466d8a3d.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 7775395
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PUBLIC/MEDIA/8f0dbf27-7337-4a41-ac61-c0b432a1e769.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 31
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:36:37Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

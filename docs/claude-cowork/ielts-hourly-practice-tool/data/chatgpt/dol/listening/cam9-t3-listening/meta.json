@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam9-t3-listening",
+ "title": "CAM IELTS 9 - Listening Test 3",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 9",
+ "testNum": 3,
+ "order": 47,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-9-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Greek Island Holiday",
+   "duration": 11,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1143e427-b495-49e0-9199-a8f6bf965c7f.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 12328879
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c4b51944-478c-4f73-9d47-56371e7bdadb.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 60
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Winridge Forest Railway Park",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/77974352-0df3-421d-8a87-4dbaa2060151.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 1817333
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/722c2615-0e1a-49f1-b86b-ec3f15e42d6c.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 7
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Study Skills Tutorial",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/94a531a2-1096-47f0-a5ad-98d4f303a4d0.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 7234681
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1413e697-cd2b-48d8-9c89-b17295362679.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 46
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Underground House",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/08bef88f-5649-4942-b4ad-0f04b25b5fe2.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 8235355
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/331dd81a-18dc-420c-863f-93db51d1be79.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 12
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:47:54Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

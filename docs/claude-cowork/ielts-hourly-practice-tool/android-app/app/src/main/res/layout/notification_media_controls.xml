@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingStart="8dp"
+    android:paddingTop="4dp"
+    android:paddingEnd="8dp"
+    android:paddingBottom="6dp">
+
+    <TextView
+        android:id="@+id/notification_title"
+        style="@android:style/TextAppearance.Material.Notification.Title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="14sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:id="@+id/notification_subtitle"
+        style="@android:style/TextAppearance.Material.Notification.Info"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:maxLines="1"
+        android:textSize="11sp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button android:id="@+id/control_r1_c1" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r1_c2" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r1_c3" style="@style/NotificationControlButton" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button android:id="@+id/control_r2_c1" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r2_c2" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r2_c3" style="@style/NotificationControlButton" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button android:id="@+id/control_r3_c1" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r3_c2" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r3_c3" style="@style/NotificationControlButton" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/control_row_4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button android:id="@+id/control_r4_c1" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r4_c2" style="@style/NotificationControlButton" />
+        <Button android:id="@+id/control_r4_c3" style="@style/NotificationControlButton" />
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual3-t2-listening",
+ "title": "Actual Test 3 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 2,
+ "order": 80,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-3-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Birmingham Exhibition",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/da0bb9f5-2d57-4a72-b6d3-5b82b58de994.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 18694313
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/91312782-5669-4e77-b7e9-e11b7bcba9c2.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 41
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Healthy Hearing Medical Clinic And Surgery",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/43f665ce-3b02-46c9-a83d-8cbe8c001069.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 16302542
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3c68773b-edae-43b2-8171-ab3bb0937050.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 26
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Professor Morgan’s lecture",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/3feeec86-1e05-43d3-9b22-94b62ca31c7e.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 18807162
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/378756ff-40fc-4128-87ed-96511f2b48a7.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 49
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Football In The UK",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b7c7cff1-e260-45f8-a6ed-6bb573e6fbdc.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 20026558
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d100ef4a-5b4d-4fab-9ee6-169fd502b679.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 31
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:46:26Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

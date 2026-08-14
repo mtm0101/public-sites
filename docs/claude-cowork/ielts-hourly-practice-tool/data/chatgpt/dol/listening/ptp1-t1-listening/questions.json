@@ -1,0 +1,2438 @@
+{
+ "schema": 1,
+ "id": "ptp1-t1-listening",
+ "title": "Practice Test Plus 1 - Listening Test 1",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 1,
+ "durationMinutes": 40,
+ "questionCount": 42,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-practice-test-plus-1-test-1-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-practice-test-plus-1-test-1-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Paragliding School Inquiry",
+   "duration": 8,
+   "questionStart": 1,
+   "questionEnd": 12,
+   "questionGroups": [
+    {
+     "id": "e2e871ea-28d6-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "e2e871eb-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "How much is the beginner’s course?",
+       "options": [
+        {
+         "key": 0,
+         "value": "$190"
+        },
+        {
+         "key": 1,
+         "value": "$320"
+        },
+        {
+         "key": 2,
+         "value": "$330"
+        },
+        {
+         "key": 3,
+         "value": "$430"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"beginner's course giá bao nhiêu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"We might try the \"},{\"text\":\"beginner's course. \",\"bold\":true},{\"text\":\"What sort of \"},{\"text\":\"prices \",\"bold\":true},{\"text\":\"are we looking at?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the beginner's course [...]\"},{\"text\":\" is $320 - no, sorry 330 - it's just gone up\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Giá cũ là 320\",\"bold\":true},{\"text\":\", nhưng vừa\"},{\"text\":\" mới tăng lên thành 330 \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Có nghe thấy \"},{\"text\":\"$190 \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"$430 \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Tuy nhiên đây là \"},{\"text\":\"giá của các course khác\",\"bold\":true},{\"text\":\" (introductory và pilot course) chứ không phải beginner's course \\n\"},{\"text\":\"=> Loại đáp án A và D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 167,
+          "endTimeInSeconds": 190,
+          "transcripts": [
+           {
+            "id": "7/167851-172872",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 172,
+            "text": " We might try the beginner's course. What sort of prices are we looking at?",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "8/172872-190052",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 190,
+            "text": " The introductory is $190; the beginner's course, which is what you'd probably be looking at, is $320 - no, sorry 330 - it's just gone up - and the pilot course is $430.",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e2e871ec-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "What does the club insurance cover?",
+       "options": [
+        {
+         "key": 0,
+         "value": "injury to yourself"
+        },
+        {
+         "key": 1,
+         "value": "injury to your equipment"
+        },
+        {
+         "key": 2,
+         "value": "damage to other people’s property"
+        },
+        {
+         "key": 3,
+         "value": "loss of personal belongings"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" insurance cover cái gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"And you also have to become a member of our \"},{\"text\":\"club \",\"bold\":true},{\"text\":\"so that you're \"},{\"text\":\"insured\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\" \"},{\"text\":\"it's only third party and covers you against damage to other people or their belongings, but not theft or injury\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không cover mất đồ hay thương tích cá nhân\",\"bold\":true},{\"text\":\" mà\"},{\"text\":\" chỉ cover thiệt hại cho người khác\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"thiết bị của họ\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án A, B, D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"text\":\"=> Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 191,
+          "endTimeInSeconds": 216,
+          "transcripts": [
+           {
+            "id": "10/191397-200845",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 200,
+            "text": " And you also have to become a member of our club so that you're insured. That'll cost you $12 a day. Everyone has to take out insurance, you see.",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "11/200845-203271",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 203,
+            "text": " Does that cover me if I break a leg?",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "12/203271-216318",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 216,
+            "text": " No, I'm afraid not - it's only 3rd party and covers you against damage to other people or their belongings, but not theft or injury, You would need to take out your own personal accident insurance.",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "e2e898fd-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "How do the girls want to travel?",
+       "options": [
+        {
+         "key": 0,
+         "value": "public transport"
+        },
+        {
+         "key": 1,
+         "value": "private bus"
+        },
+        {
+         "key": 2,
+         "value": "car"
+        },
+        {
+         "key": 3,
+         "value": "bicycle"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \",\"marks\":[]},{\"text\":\"cách mà cô gái travel\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sẽ tới khi nghe \\\"what's the \"},{\"text\":\"best way\",\"bold\":true},{\"text\":\" to \"},{\"text\":\"get to your place\",\"bold\":true},{\"text\":\"?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we're pretty \"},{\"text\":\"keen cyclists\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Bên Maria muốn \"},{\"text\":\"đi xe đạp \",\"bold\":true},{\"text\":\"\\n \"},{\"text\":\"=> Có thể đáp án là D\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy\\\" it's \"},{\"text\":\"difficult\",\"bold\":true},{\"text\":\" \"},{\"text\":\"by public transport\",\"bold\":true},{\"text\":\" although there is a bus\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Khó khăn khi di chuyển bằng phương tiện công cộng\",\"bold\":true},{\"text\":\" mặc dù có bus (not private bus)\\n\"},{\"text\":\"=> Loại A và B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"most people get here by car [...] but you could ride here OK\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Thường mọi người tới bằng xe hơi\",\"bold\":true},{\"text\":\", nhưng vẫn \"},{\"text\":\"có thể chạy xe đạp tới \",\"bold\":true},{\"text\":\"\\n=> Ở trên thấy \"},{\"text\":\"Maria \",\"bold\":true},{\"text\":\"có nhắc tới là\"},{\"text\":\" thích đi xe đạp\",\"bold\":true},{\"text\":\" \"},{\"text\":\"\\n=> Loại đáp án C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 216,
+          "endTimeInSeconds": 241,
+          "transcripts": [
+           {
+            "id": "13/216318-225499",
+            "startTimeInSeconds": 216,
+            "endTimeInSeconds": 225,
+            "text": " I see! And what's the best way to get to your place? By public transport or could we come by bike? We're pretty keen cyclists.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "14/225499-241996",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 241,
+            "text": " It's difficult by public transport although there is a bus from Newcastle; most people get here by car, though, 'cos we're a little off the beaten track. But you could ride here OK. I'll send you a map. Just let me take down a few details. What's your name?",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters "
+         },
+         {
+          "text": "A-D",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Example"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Which course does the man suggest?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "A. 2 days C. 5 days"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "B. 4 days",
+          "bold": true
+         },
+         {
+          "text": " D. 6 days"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "D.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "e2e898fe-28d6-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "e2e898ff-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên riêng \",\"bold\":true},{\"text\":\"(Mr&Mrs .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"And your \"},{\"text\":\"address\",\"bold\":true},{\"text\":\"?\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"Care of Mr and Mrs McDonald\\\" \",\"bold\":true},{\"text\":\" (care of = C/o) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy Maria confirm là \"},{\"text\":\"like the hamburgers \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tên giống hãng McDonald \\n=> \"},{\"text\":\"Đáp án là McDonald / MacDonald / Macdonald \",\"bold\":true},{\"text\":\"(có nhiều cách phiên âm) \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 243,
+          "endTimeInSeconds": 257,
+          "transcripts": [
+           {
+            "id": "16/243625-245741",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 245,
+            "text": " And your address, Maria?",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "17/245741-248741",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 248,
+            "text": " Well, I'm a student staying with a family in Newcastle.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "18/248741-250362",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 250,
+            "text": " So it's care of ...",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "19/250362-253712",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 253,
+            "text": " Care of Mr and Mrs. McDonald.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "20/253712-255356",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 255,
+            "text": " Like the hamburgers!",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "21/255356-257466",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 257,
+            "text": " Yes, exactly.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           }
+          ]
+         },
+         "value": "McDonald/Macdonald/MacDonald",
+         "blankId": "ORQZLTlcoalBwuzygFogk"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"địa chỉ \",\"bold\":true},{\"text\":\"(.... Newcastle)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"The \"},{\"text\":\"post office box addres \",\"bold\":true},{\"text\":\"is probably best\\\"\"},{\"text\":\"  \",\"bold\":true},{\"text\":\">\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"It's \"},{\"text\":\"PO Box 676, Newcastle \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể điền \"},{\"text\":\"PO Box \",\"bold\":true},{\"text\":\"luôn \"},{\"text\":\"hoặc viết đầy đủ \",\"bold\":true},{\"text\":\"ra là \"},{\"text\":\"Post Office Box\",\"bold\":true},{\"text\":\" đều được\\n=> \"},{\"text\":\"Đáp án là Post Office Box 676 hoặc PO Box 676 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 259,
+          "endTimeInSeconds": 267,
+          "transcripts": [
+           {
+            "id": "23/259384-267927",
+            "startTimeInSeconds": 259,
+            "endTimeInSeconds": 267,
+            "text": " The post office box address is probably best. It's PO Box 676. Newcastle.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           }
+          ]
+         },
+         "value": "Post Office Box 676/PO Box 676",
+         "blankId": "mqp3r5TPrvenGVU8Ykc0D"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"mã số fax \",\"bold\":true},{\"text\":\"(Fax no: 0249 .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Is there a\"},{\"text\":\" fax number\",\"bold\":true},{\"text\":\" there...\\\" \"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"it's 0249, that's for Newcastle\",\"bold\":true},{\"text\":\" \"},{\"text\":\"and then double seven five four three one \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"0249 cho sẵn\",\"bold\":true},{\"text\":\", mình chỉ điền phần sau\\n=> \"},{\"text\":\"Đáp án là 775431 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 267,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "24/267927-271990",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 271,
+            "text": " Is there a fax number there, because I could fax you the information?",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "25/271990-282012",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 282,
+            "text": " Yes, actually, there is. It's 0249 that's for Newcastle and then double seven five four three one.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           }
+          ]
+         },
+         "value": "775431",
+         "blankId": "4s1k0NJQnwWa1bCqbkpZQ"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" một loại thẻ thanh toán ví dụ như credit card, debit card, etc. \",\"bold\":true},{\"text\":\"(Type of card: .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"How \",\"bold\":true},{\"text\":\"would you be\"},{\"text\":\" paying?\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy Maria nói \\\"By \"},{\"text\":\"credit card\",\"bold\":true},{\"text\":\", if that's OK. Do you take \"},{\"text\":\"Visa\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bên kia đáp lại là \\\"W\"},{\"text\":\"e take all major cards, including Visa\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chấp nhận \"},{\"text\":\"mọi loại thẻ bao gồm cả Visa \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là credit card/ Visa đều được \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 282,
+          "endTimeInSeconds": 299,
+          "transcripts": [
+           {
+            "id": "26/282012-291361",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 291,
+            "text": " OK. Now if you decide to do one of our courses, you'll need to book in advance and to pay when you book. How would you be paying?",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           },
+           {
+            "id": "27/291361-295712",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 295,
+            "text": " By credit card, if that's OK. Do you take Visa?",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "28/295712-299426",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 299,
+            "text": " Yes, fine. We take all major cards, including Visa.",
+            "character": {
+             "id": "ejqXFLJLhrQ94J0Q-r3hH",
+             "name": "MAN"
+            }
+           }
+          ]
+         },
+         "value": "credit card/Visa",
+         "blankId": "DSRCEl8NHBHyP9ER6FJrJ"
+        }
+       ],
+       "heading": "TELEPHONE MEMO",
+       "paragraph": {
+        "id": "y77ETisX2dB4jxWXI4tgN",
+        "editorValue": "[{\"children\":[{\"text\":\"Name:\",\"bold\":true},{\"text\":\" Maria Gentle\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Address:\",\"bold\":true},{\"text\":\" C/o Mr & Mrs \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ORQZLTlcoalBwuzygFogk\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"mqp3r5TPrvenGVU8Ykc0D\"},{\"text\":\" Newcastle\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Fax no:\",\"bold\":true},{\"text\":\" 0249 \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"4s1k0NJQnwWa1bCqbkpZQ\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Type of Card:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"DSRCEl8NHBHyP9ER6FJrJ\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "ORQZLTlcoalBwuzygFogk",
+          "key": 0
+         },
+         {
+          "id": "mqp3r5TPrvenGVU8Ykc0D",
+          "key": 1
+         },
+         {
+          "id": "4s1k0NJQnwWa1bCqbkpZQ",
+          "key": 2
+         },
+         {
+          "id": "DSRCEl8NHBHyP9ER6FJrJ",
+          "key": 3
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "e2e89900-28d6-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "e2e89901-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO of the following items must people take with them?",
+       "options": [
+        {
+         "key": 0,
+         "value": "sandals"
+        },
+        {
+         "key": 1,
+         "value": "old clothes"
+        },
+        {
+         "key": 2,
+         "value": "pullover"
+        },
+        {
+         "key": 3,
+         "value": "shirt with long sleeves"
+        },
+        {
+         "key": 4,
+         "value": "soft drinks"
+        },
+        {
+         "key": 5,
+         "value": "hat"
+        },
+        {
+         "key": 6,
+         "value": "sunglasses"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe\",\"marks\":[]},{\"text\":\" xem người ta phải đem theo 2 vật phẩm gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"we'd have to\"},{\"text\":\" take a few things along\",\"bold\":true},{\"text\":\"\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...\"},{\"text\":\".no sneakers\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"sandals \",\"bold\":true},{\"text\":\"I suppose, and clothes suitable for an active day in the hills,\"},{\"text\":\" preferably a long-sleeved T-shirt\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Không mang theo sneakers hoặc sandals, khuyến khích mang áo dài tay \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we do\"},{\"text\":\" not recommend soft drinks\",\"bold\":true},{\"text\":\" or\"},{\"text\":\" \",\"bold\":true},{\"text\":\"flasks of coffee\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không khuyến khích\",\"bold\":true},{\"text\":\" mang\"},{\"text\":\" nước ngọt\",\"bold\":true},{\"text\":\" theo \\n=> \"},{\"text\":\"Loại đáp án E  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"We'd also\"},{\"text\":\" need to bring suntan lotion\",\"bold\":true},{\"text\":\" and something to \"},{\"text\":\"protect your head from the sun\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Cần mang kem chống nắng và\"},{\"text\":\" thứ gì\",\"bold\":true},{\"text\":\" đó để \"},{\"text\":\"bảo vệ đầu\",\"bold\":true},{\"text\":\" khỏi ánh nắng mặt trời \"},{\"text\":\"(mũ - hat) \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Không nhắc về bảo vệ mắt\",\"bold\":true},{\"text\":\" nên\"},{\"text\":\" \",\"bold\":true},{\"text\":\"không chọn \"},{\"text\":\"sunglasses \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "34/345151-349899",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 349,
+            "text": " Not really. The school provides the equipment but we'd have to take a few things along.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "35/349899-351380",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 351,
+            "text": " Such as?",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "36/351380-385103",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 385,
+            "text": " Well it says here. Clothes: wear stout boots, so no sneakers or sandals I suppose, and clothes suitable for an active day in the hills, preferably a long-sleeved t-shirt. That's probably in case you land in the stinging nettles! It also says we should bring a packed lunch. We do not recommend soft drinks or flasks of coffee. Water is really the best thing to drink. We'd also need to bring suntan lotion and something to protect your head from the sun!",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe\"},{\"text\":\" xem người ta phải đem theo 2 vật phẩm gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"we'd have to\"},{\"text\":\" take a few things along\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley3\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...\"},{\"text\":\".no sneakers\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"sandals \",\"bold\":true},{\"text\":\"I suppose, and clothes suitable for an active day in the hills,\"},{\"text\":\" preferably a long-sleeved T-shirt\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Không mang theo sneakers hoặc sandals, khuyến khích mang áo dài tay \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we do\"},{\"text\":\" not recommend soft drinks\",\"bold\":true},{\"text\":\" or\"},{\"text\":\" \",\"bold\":true},{\"text\":\"flasks of coffee\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không khuyến khích\",\"bold\":true},{\"text\":\" mang\"},{\"text\":\" nước ngọt\",\"bold\":true},{\"text\":\" theo \\n=> \"},{\"text\":\"Loại đáp án E\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"We'd also\"},{\"text\":\" need to bring suntan lotion\",\"bold\":true},{\"text\":\" and something to \"},{\"text\":\"protect your head from the sun\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Cần mang kem chống nắng và\"},{\"text\":\" thứ gì\",\"bold\":true},{\"text\":\" đó để \"},{\"text\":\"bảo vệ đầu\",\"bold\":true},{\"text\":\" khỏi ánh nắng mặt trời \"},{\"text\":\"(mũ - hat) \\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Không nhắc về bảo vệ mắt\",\"bold\":true},{\"text\":\" nên\"},{\"text\":\" \",\"bold\":true},{\"text\":\"không chọn \"},{\"text\":\"sunglasses \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là F \",\"bold\":true},{\"text\":\" \",\"marks\":[]},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "34/345151-349899",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 349,
+            "text": " Not really. The school provides the equipment but we'd have to take a few things along.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "35/349899-351380",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 351,
+            "text": " Such as?",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "36/351380-385103",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 385,
+            "text": " Well it says here. Clothes: wear stout boots, so no sneakers or sandals I suppose, and clothes suitable for an active day in the hills, preferably a long-sleeved t-shirt. That's probably in case you land in the stinging nettles! It also says we should bring a packed lunch. We do not recommend soft drinks or flasks of coffee. Water is really the best thing to drink. We'd also need to bring suntan lotion and something to protect your head from the sun!",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "e2e89902-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO accommodation options mentioned are near the paragliding school?",
+       "options": [
+        {
+         "key": 0,
+         "value": "camping"
+        },
+        {
+         "key": 1,
+         "value": "youth hostel"
+        },
+        {
+         "key": 2,
+         "value": "family"
+        },
+        {
+         "key": 3,
+         "value": "backpackers’ inn"
+        },
+        {
+         "key": 4,
+         "value": "caravan park"
+        },
+        {
+         "key": 5,
+         "value": "bed and breakfast"
+        },
+        {
+         "key": 6,
+         "value": "cheap hotel"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"2 accomodation nào ở gần paragliding school\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"\"},{\"text\":\"where would we stay?\\\"  \",\"bold\":true},{\"text\":\"(hỏi về accommodation)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"They \",\"bold\":true},{\"text\":\"seem to\"},{\"text\":\" operate a campsite\",\"bold\":true},{\"text\":\" too\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 385,
+          "endTimeInSeconds": 419,
+          "transcripts": [
+           {
+            "id": "37/385103-389306",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 389,
+            "text": " OK that sounds reasonable. And where would we stay?",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "38/389306-403201",
+            "startTimeInSeconds": 389,
+            "endTimeInSeconds": 403,
+            "text": " Well look! They seem to operate a campsite too, because it says here that it's only $10 a day to pitch a tent. That'd be fine, wouldn't it? And that way we'd save quite a bit because even a cheap hotel would cost money.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "39/403201-419620",
+            "startTimeInSeconds": 403,
+            "endTimeInSeconds": 419,
+            "text": " Urn..or perhaps we could stay in a bed and breakfast nearby. It gives a couple of names here we could ring. I think I might prefer that. Hotels and youth hostels would all be miles away from the farm and I don't fancy a caravan.",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley46\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"We'd save quite a bit because \"},{\"text\":\"even a cheap hotel would cost money\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không muốn ở cheap hotel \\n=>\"},{\"text\":\" Loại đáp án G\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"we could stay in a bed and breakfast nearby \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Gần đó có bed and breakfast \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là F\",\"bold\":true},{\"text\":\"  \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy \\\"hotels and \"},{\"text\":\"youth hostels\",\"bold\":true},{\"text\":\" would all \"},{\"text\":\"be miles away \",\"bold\":true},{\"text\":\"from the farm and I \"},{\"text\":\"don't fancy a caravan\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Youth hostel quá xa\",\"bold\":true},{\"text\":\", còn\"},{\"text\":\" caravan thì không thích \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B và E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 385,
+          "endTimeInSeconds": 419,
+          "transcripts": [
+           {
+            "id": "37/385103-389306",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 389,
+            "text": " OK that sounds reasonable. And where would we stay?",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "38/389306-403201",
+            "startTimeInSeconds": 389,
+            "endTimeInSeconds": 403,
+            "text": " Well look! They seem to operate a campsite too, because it says here that it's only $10 a day to pitch a tent. That'd be fine, wouldn't it? And that way we'd save quite a bit because even a cheap hotel would cost money.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "39/403201-419620",
+            "startTimeInSeconds": 403,
+            "endTimeInSeconds": 419,
+            "text": " Urn..or perhaps we could stay in a bed and breakfast nearby. It gives a couple of names here we could ring. I think I might prefer that. Hotels and youth hostels would all be miles away from the farm and I don't fancy a caravan.",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters "
+         },
+         {
+          "text": "A-G.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": ""
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Note:",
+          "bold": true
+         },
+         {
+          "text": " "
+         },
+         {
+          "text": "You must get both parts of the question right to get your mark. The correct answer "
+         },
+         {
+          "text": "may not be the actual words",
+          "bold": true
+         },
+         {
+          "text": " which you "
+         },
+         {
+          "text": "hear on the tape",
+          "bold": true
+         },
+         {
+          "text": ". Option E in Question 8 is an example of this. Be on the lookout for paraphrasing of this type."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Check "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "e2e89903-28d6-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "e2e89904-28d6-11ed-b1c7-ef3d7252721e",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" the girls quyết định đi vào cuối tuàn nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\"\"},{\"text\":\"what about next weekend ?\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy Maria nói \\\"\"},{\"text\":\"I can't \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sau đó Pauline nói \\\"...and\"},{\"text\":\" then it's the weekend before the exams\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Cuối tuần sau và tuần tới là không được  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Maria đề nghị là \\\"Let's make it\"},{\"text\":\" the one after the exams\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\", \",\"bold\":true},{\"text\":\" Pauline đồng ý \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ đồng ý đi vào \",\"marks\":[]},{\"text\":\"cuối tuần sau khi kiểm tra xong\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là after (the) exams  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 423,
+          "endTimeInSeconds": 444,
+          "transcripts": [
+           {
+            "id": "41/423894-428222",
+            "startTimeInSeconds": 423,
+            "endTimeInSeconds": 428,
+            "text": " OK - let's do it. What about next weekend?",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "42/428222-431543",
+            "startTimeInSeconds": 428,
+            "endTimeInSeconds": 431,
+            "text": " No, I can't - I'm going on a geography field trip.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "43/431543-435979",
+            "startTimeInSeconds": 431,
+            "endTimeInSeconds": 435,
+            "text": " ....and then it's the weekend before the exams and I really need to study.",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           },
+           {
+            "id": "44/435979-439886",
+            "startTimeInSeconds": 435,
+            "endTimeInSeconds": 439,
+            "text": " OK, then. Let's make it the one after the exams.",
+            "character": {
+             "id": "5eYcAafBQNTm47zNSVKOH",
+             "name": "MARIA"
+            }
+           },
+           {
+            "id": "45/439886-444284",
+            "startTimeInSeconds": 439,
+            "endTimeInSeconds": 444,
+            "text": " Fine - we'll need a break by then. Can you ring and ... ",
+            "character": {
+             "id": "66jjmjMdEUYr7FLDc-It_",
+             "name": "PAULINE"
+            }
+           }
+          ]
+         },
+         "value": "after the exams/after exams",
+         "blankId": "lsZ29tg0MFTxxYc3sQknb"
+        }
+       ],
+       "paragraph": {
+        "id": "qCIn87Mqd8sEpBCHbrdg8",
+        "editorValue": "[{\"children\":[{\"text\":\"Which weekend do the girls decide to go?\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"lsZ29tg0MFTxxYc3sQknb\"},{\"text\":\".\"}]}]",
+        "blanks": [
+         {
+          "id": "lsZ29tg0MFTxxYc3sQknb",
+          "key": 0
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for your answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for your answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 1
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Goodwood Car Show",
+   "duration": 6,
+   "questionStart": 13,
+   "questionEnd": 22,
+   "questionGroups": [
+    {
+     "id": "98dec831-28d7-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "98dec832-28d7-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" số lượng được sản xuất \",\"bold\":true},{\"text\":\"(number made ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"How many were there?\"},{\"text\":\"\\\" \",\"bold\":true},{\"text\":\"(hỏi về số lượng)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"only 473  \",\"bold\":true},{\"text\":\"Duesenberg J-types \"},{\"text\":\"were ever built...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là 473 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 73,
+          "endTimeInSeconds": 100,
+          "transcripts": [
+           {
+            "id": "1/73332-100309",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 100,
+            "text": "Well, here I am, standing in front of one of the most prestigious cars ever built, the Duesenberg, a fantastically expensive, luxurious car built in the early part of the 20th century and bearing all the glamorous qualities of the jazz age. How many were there? Well, only 473 Duesenberg J-tvpes were ever built and the model here is one of the rarest."
+           }
+          ]
+         },
+         "value": "473",
+         "blankId": "YucgnBzp_QzUKn7syD6M4"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" loại thân xe \",\"bold\":true},{\"text\":\"(Type of body ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"...and the body was always...\\\" \"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \",\"bold\":true},{\"text\":\"the \"},{\"text\":\"body \",\"bold\":true},{\"text\":\"was always in\"},{\"text\":\" the form of an open two-seater \",\"bold\":true},{\"text\":\" (form = type)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là (open) 2/two(-)seater \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 100,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "2/100309-121849",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 121,
+            "text": "Each had a short 125-inch chassis or framework and the body was always in the form of an open two-seater. The technology behind the car's 6.9-litre engine was extraordinary. It featured capsules of mercury in the engines to absorb vibration and provide an incredibly smooth ride."
+           }
+          ]
+         },
+         "value": "open 2/two-seater/two seater/open two seater",
+         "blankId": "690LpmT1tAOoXzBqoBbPk"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xe \"},{\"text\":\"engine có capsules of mercury để đảm bảo chuyến đi như thế nào \",\"bold\":true},{\"text\":\"(Engines contained capsules of mercury to ensure a ... trip) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"The technology behind the car's 6.9-litre \"},{\"text\":\"engine \",\"bold\":true},{\"text\":\"was extraordinary\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"to absorb vibration and provide an incredibly smooth ride\",\"bold\":true},{\"text\":\" (ride = trip)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mục đích của capsules of mercury là \"},{\"text\":\"để chống xóc và mang lại một chuyến đi êm ái \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là smooth \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 100,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "2/100309-121849",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 121,
+            "text": "Each had a short 125-inch chassis or framework and the body was always in the form of an open two-seater. The technology behind the car's 6.9-litre engine was extraordinary. It featured capsules of mercury in the engines to absorb vibration and provide an incredibly smooth ride."
+           }
+          ]
+         },
+         "value": "smooth",
+         "blankId": "IZc7Rft3Mynjji3FagpsU"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tốc độ nhanh nhất \",\"bold\":true},{\"text\":\"(top speed: .... km/h) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"these cars offered unparalled \"},{\"text\":\"performance\",\"bold\":true},{\"text\":\"\\\" (hiệu suất -> tốc độ) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the Duesenberg promised \"},{\"text\":\"a top speed of 180 kilometers per hour\",\"bold\":true},{\"text\":\" and could do \"},{\"text\":\"140 kilometers per hour in second gear\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tốc độ tối đa là 180\",\"bold\":true},{\"text\":\", còn \"},{\"text\":\"140\",\"bold\":true},{\"text\":\" là tốc độ khi chuyển sang \"},{\"text\":\"chế độ khác \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là 180  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "3/121849-140342",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 140,
+            "text": "In fact, these cars offered unparalleled performance ... in an age when 160 kilometres per hour was considered very fast, the Duesenberg promised a top speed of 180 kilometres per hour and could do 140 kilometres per hour in second gear."
+           }
+          ]
+         },
+         "value": "180 kilometers/180",
+         "blankId": "I086mQ_mXPMxtOApPDdZm"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"nó được bán như thế nào \",\"bold\":true},{\"text\":\"(sold as a ... )\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Duesenberg, who designed the car, \"},{\"text\":\"sold it as a frame and engine \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Gần như lặp lại câu trong đề \\n=> \"},{\"text\":\"Đáp là frame and engine \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 140,
+          "endTimeInSeconds": 164,
+          "transcripts": [
+           {
+            "id": "4/140342-164523",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 164,
+            "text": "Duesenberg, who designed the car, sold it as a frame and engine ... this was typical of the age again and many prestige manufacturers such as Rolls-Royce did exactly the same. Owners able to afford the hefty $9,000 price tag for the basic car would then commission a coachwork company to build a body tailored to their own individual requirements."
+           }
+          ]
+         },
+         "value": "frame and engine",
+         "blankId": "45BY1G9cx0kvFZgBeBbmq"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley11\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" điểm thu hút chính của chiếc xe \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"The Duesenbero's \"},{\"text\":\"great attraction \",\"bold\":true},{\"text\":\"for the driver\"},{\"text\":\"...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"Duesenberg's\"},{\"text\":\" great attraction\",\"bold\":true},{\"text\":\" for the driver \"},{\"text\":\"was its instrument panel\",\"bold\":true},{\"text\":\" which offered all the \"},{\"text\":\"usual features\",\"bold\":true},{\"text\":\" but also several \"},{\"text\":\"others including a stop-watch\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Câu này có thể hiểu theo vài cách để xác định đáp án: \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"(1) điểm nhấn chính của xe là \"},{\"text\":\"instrument panel\",\"bold\":true},{\"text\":\"; \\n(2) điểm nhấn của xe là các \"},{\"text\":\"instruments \",\"bold\":true},{\"text\":\"nằm trên instrument panel\\n(3) điểm nhấn của xe là \"},{\"text\":\"stop-watch\",\"bold\":true},{\"text\":\", do nó là thiết bị duy nhất được nói cụ thể \\n=> \"},{\"text\":\"Đáp án là instrument panel / instruments / stop-watch  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 164,
+          "endTimeInSeconds": 190,
+          "transcripts": [
+           {
+            "id": "5/164523-190184",
+            "startTimeInSeconds": 164,
+            "endTimeInSeconds": 190,
+            "text": "The Duesenbero's great attraction for the driver, was its instrument panel which offered all the usual features but also several others including a stop-watch. It was the Duesenberg's technology that lay behind its success as a racing car and they dominated the American racing scene in the 1920s winning the Indianapolis Grand Prix in 1924, '25 and '27."
+           }
+          ]
+         },
+         "value": "instrument panel/instruments/stop-watch",
+         "blankId": "PxM9D_ASMrh4YbWvMbVlL"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Đáp án cần điền là \"},{\"text\":\"số lượng xe Leyat Helica sản xuất\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"On tho another celebrity, the 1992 \"},{\"text\":\"Leyat Helica.\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  Nghe thấy \\\"\"},{\"text\":\"only 30 \",\"bold\":true},{\"text\":\"of these French propellor cars\"},{\"text\":\" were built \\\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là 30 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 234,
+          "endTimeInSeconds": 249,
+          "transcripts": [
+           {
+            "id": "6/234347-249250",
+            "startTimeInSeconds": 234,
+            "endTimeInSeconds": 249,
+            "text": "On to another celebrity, the 1922 Leyat Helica. Only 30 of these French propellor cars were built and the model here at Goodwood, which was the fourth to be made, is thought to be the only surviving example still capable of running."
+           }
+          ]
+         },
+         "value": "30",
+         "blankId": "uo-G36IGJEM-Mbv5hRuuK"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"chiếc xe sẽ nhìn giống cái gì nếu không có cái gì \",\"bold\":true},{\"text\":\"(Cars look like a ... without ...)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"bold\":true},{\"text\":\"Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"the influence of flying is quite apparent\\\"  \",\"bold\":true},{\"text\":\"(đề cập tới chi tiết chiếc xe) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"the Leyat very strongly resembles a light aircraft \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhìn giống như máy bay nhỏ\\n=> \"},{\"text\":\"Đáp án là light aircraft/ light plane\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 249,
+          "endTimeInSeconds": 267,
+          "transcripts": [
+           {
+            "id": "7/249250-267781",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 267,
+            "text": "The brains behind this car was Marcel Leyat who was an aviation pioneer first and foremost, and the influence of flying is quite apparent in the car. The Leyat very strongly resembles a light aircraft with its front propellor but in this case it's minus any wings of course!"
+           }
+          ]
+         },
+         "value": "light aircraft/plane",
+         "blankId": "LSVXKvIJ8TSqwLHOaamre"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp theo của câu trước, mình nghe thấy \\\"\"},{\"text\":\"In this case it's minus any wings of course\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong trường hợp này \"},{\"text\":\"không có cánh \",\"bold\":true},{\"text\":\"\\n=> Đáp án là \"},{\"text\":\"wings \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 249,
+          "endTimeInSeconds": 267,
+          "transcripts": [
+           {
+            "id": "7/249250-267781",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 267,
+            "text": "The brains behind this car was Marcel Leyat who was an aviation pioneer first and foremost, and the influence of flying is quite apparent in the car. The Leyat very strongly resembles a light aircraft with its front propellor but in this case it's minus any wings of course!"
+           }
+          ]
+         },
+         "value": "wings ",
+         "blankId": "Lyze_Awe1pKMpoq0rT2Pf"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cuối cùng là \"},{\"text\":\"steering sử dụng cái gì \",\"bold\":true},{\"text\":\"(steering used a ... ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sẽ tới khi nghe \\\"...its propellor drive with its euqally bizzarre \"},{\"text\":\"steering...\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"which \"},{\"text\":\"used \",\"bold\":true},{\"text\":\"the\"},{\"text\":\" rear wheels\",\"bold\":true},{\"text\":\" \"},{\"text\":\"rather than\",\"bold\":true},{\"text\":\" the\"},{\"text\":\" front wheels\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dùng bánh sau\",\"bold\":true},{\"text\":\" để bẻ lái chứ \"},{\"text\":\"không phải bánh trước \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là rear wheels  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 287,
+          "endTimeInSeconds": 315,
+          "transcripts": [
+           {
+            "id": "9/287272-315585",
+            "startTimeInSeconds": 287,
+            "endTimeInSeconds": 315,
+            "text": "The Leyat matched its propellor drive with its equally bizarre steering which used the rear rather than the front wheels! But despite looking rather frail, it was a tough machine. In fact, when troops tried to steal it during the Second World War, the car's baffling design was clearly beyond the would-be thieves and it ended up being driven into a tree, breaking the propellor. And now for the Firebird ... "
+           }
+          ]
+         },
+         "value": "rear wheels",
+         "blankId": "-8iT5Pb9V5DlmUwq4L-S1"
+        }
+       ],
+       "heading": "GOODWOOD CAR SHOW",
+       "paragraph": {
+        "id": "_4pQs23YjgdSYtlsWT2US",
+        "editorValue": "[{\"children\":[{\"text\":\"Type of car:\",\"bold\":true},{\"text\":\" \"},{\"text\":\"Duesenberg J-type\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Number made:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"YucgnBzp_QzUKn7syD6M4\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Type of body:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"690LpmT1tAOoXzBqoBbPk\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Engines contained capsules of mercury to ensure a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"IZc7Rft3Mynjji3FagpsU\"},{\"text\":\" trip.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Top speed:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"I086mQ_mXPMxtOApPDdZm\"},{\"text\":\" kilometres per hour.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Sold as a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"15 __________\"}],\"id\":\"45BY1G9cx0kvFZgBeBbmq\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Main attraction:\",\"bold\":true},{\"text\":\" \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"16 __________\"}],\"id\":\"PxM9D_ASMrh4YbWvMbVlL\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Type of car: LeyatHelica\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Number built:\",\"bold\":true},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 17 __________\"}],\"id\":\"uo-G36IGJEM-Mbv5hRuuK\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Car looks like a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"18 __________\"}],\"id\":\"LSVXKvIJ8TSqwLHOaamre\"},{\"text\":\" without \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"19 __________\"}],\"id\":\"Lyze_Awe1pKMpoq0rT2Pf\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Steering used the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"-8iT5Pb9V5DlmUwq4L-S1\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "YucgnBzp_QzUKn7syD6M4",
+          "key": 0
+         },
+         {
+          "id": "690LpmT1tAOoXzBqoBbPk",
+          "key": 1
+         },
+         {
+          "id": "IZc7Rft3Mynjji3FagpsU",
+          "key": 2
+         },
+         {
+          "id": "I086mQ_mXPMxtOApPDdZm",
+          "key": 3
+         },
+         {
+          "id": "45BY1G9cx0kvFZgBeBbmq",
+          "key": 4
+         },
+         {
+          "id": "PxM9D_ASMrh4YbWvMbVlL",
+          "key": 5
+         },
+         {
+          "id": "uo-G36IGJEM-Mbv5hRuuK",
+          "key": 6
+         },
+         {
+          "id": "LSVXKvIJ8TSqwLHOaamre",
+          "key": 7
+         },
+         {
+          "id": "Lyze_Awe1pKMpoq0rT2Pf",
+          "key": 8
+         },
+         {
+          "id": "-8iT5Pb9V5DlmUwq4L-S1",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Survey On Local Entertainment",
+   "duration": 8,
+   "questionStart": 23,
+   "questionEnd": 32,
+   "questionGroups": [
+    {
+     "id": "f2ee2920-da70-11ed-97e6-1d2275381789",
+     "questions": [
+      {
+       "uuid": "f2ee2921-da70-11ed-97e6-1d2275381789",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tên của dự án \",\"bold\":true},{\"text\":\"(Title of project: .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới khi nghe  \\\"We've done a\"},{\"text\":\" survey\\\" \",\"bold\":true},{\"text\":\"(survey là một phần của project)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we've called our project\"},{\"text\":\" 'Out and About\",\"bold\":true},{\"text\":\"' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là Out and About \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 69,
+          "endTimeInSeconds": 92,
+          "transcripts": [
+           {
+            "id": "1/69812-84746",
+            "startTimeInSeconds": 69,
+            "endTimeInSeconds": 84,
+            "text": " Yes, well, urn, we've done a survey on local entertainment. Basically, we tried to find out how students feel about the entertainment in the town and how much they use it.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           },
+           {
+            "id": "2/84746-89229",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 89,
+            "text": " Yes, so we've called our project 'Out and About' ...",
+            "character": {
+             "id": "WqfScga_GrNuGBvQjYm3w",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "3/89229-92340",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 92,
+            "text": " Yes, that's a good title! 'Out and About'.",
+            "character": {
+             "id": "GM74RobClsYc1ktC-4aDr",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "Out and About",
+         "blankId": "MljJ0MSfbmhphEyeEOWpy"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"dự án không focus vào entertainment ở đâu \",\"bold\":true},{\"text\":\"(entertainment away from ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"how well students use the \"},{\"text\":\"entertainment facilities...\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we really\"},{\"text\":\" wanted to examine outside entertainment in the town\",\"bold\":true},{\"text\":\" as \"},{\"text\":\"opposed to\",\"bold\":true},{\"text\":\" on the\"},{\"text\":\" university campus\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn \"},{\"text\":\"khám phá entertainment ở trong thành phố\",\"bold\":true},{\"text\":\" chứ \"},{\"text\":\"không phải trên campus \",\"bold\":true},{\"text\":\"\\n=> Đáp án là \"},{\"text\":\"(the) university campus \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 92,
+          "endTimeInSeconds": 115,
+          "transcripts": [
+           {
+            "id": "4/92340-102882",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 102,
+            "text": " We wanted to find out how well students use the entertainment facilities in town ... whether they get to see the latest plays, films ... that kind of thing.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           },
+           {
+            "id": "5/102882-105862",
+            "startTimeInSeconds": 102,
+            "endTimeInSeconds": 105,
+            "text": " Now, we have our own facilities on campus of course ...",
+            "character": {
+             "id": "GM74RobClsYc1ktC-4aDr",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "6/105862-115486",
+            "startTimeInSeconds": 105,
+            "endTimeInSeconds": 115,
+            "text": " Yes, we deliberately omitted those as we really wanted to examine outside entertainment in the town as opposed to on the university campus.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         },
+         "value": "the university campus/university campus",
+         "blankId": "XSOTc5jD_VvUuK7G2BLZd"
+        }
+       ],
+       "heading": "Research details:",
+       "paragraph": {
+        "id": "YonoiUg26qnyvT6N6apEE",
+        "editorValue": "[{\"children\":[{\"text\":\"Title of project: \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"MljJ0MSfbmhphEyeEOWpy\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Focus of project: entertainment away from\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"XSOTc5jD_VvUuK7G2BLZd\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "MljJ0MSfbmhphEyeEOWpy",
+          "key": 0
+         },
+         {
+          "id": "XSOTc5jD_VvUuK7G2BLZd",
+          "key": 1
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "f2ee2922-da70-11ed-97e6-1d2275381789",
+     "questions": [
+      {
+       "uuid": "f2ee2923-da70-11ed-97e6-1d2275381789",
+       "type": "SINGLE_ANSWER",
+       "question": "Which chart shows the percentage of cinema seats provided by the different cinema houses?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Chart A"
+        },
+        {
+         "key": 1,
+         "value": "Chart B"
+        },
+        {
+         "key": 2,
+         "value": "Chart C"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"bảng nào shows percentage của ghế ngồi trong rạp\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\"Well, \"},{\"text\":\"first of all, cinema.\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy the multi-screen complex\"},{\"text\":\" accounts for 75% of all cinema seats \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Complex (phần màu cam) \"},{\"text\":\"chiếm 75% tổng số ghế ngồi \",\"bold\":true},{\"text\":\"\\n=> Nhìn vào đáp án chỉ thấy một biểu đồ mà phần màu cam chiếm 3/4 (75%) \\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"Park Cinema accounts for 20% \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"Odeon has just 5%\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Confirm đáp án là B\",\"bold\":true},{\"text\":\" do các biểu đồ còn lại không hợp\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 126,
+          "endTimeInSeconds": 160,
+          "transcripts": [
+           {
+            "id": "9/126880-144062",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 144,
+            "text": " OK. Well, first of all cinema. In the town, there are three main places where you can see films. There's the new multi-screen cinema complex, the old Park cinema, and a late-night Odeon.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           },
+           {
+            "id": "10/144062-160562",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 160,
+            "text": " So if you look at this chart ... in terms of audience size, the multi-screen complex accounts for 75% of all cinema seats, the Park Cinema, accounts for 20% of seats and the late-night Odeon has just 5% of seats. ",
+            "character": {
+             "id": "WqfScga_GrNuGBvQjYm3w",
+             "name": "Mike"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": true,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PRIVATE/MEDIA/455c2fc1-1e66-4e3f-ba72-5c00f764ddcd.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PRIVATE/MEDIA/455c2fc1-1e66-4e3f-ba72-5c00f764ddcd.png",
+        "name": "PTP1_L1_P3_survey on local entertainment_NoOpt_1.png",
+        "uploadedDate": "2021-07-04T09:18:59.367+0000",
+        "size": 8026
+       }
+      },
+      {
+       "uuid": "f2ef61a4-da70-11ed-97e6-1d2275381789",
+       "type": "SINGLE_ANSWER",
+       "question": "Which graph shows the relative popularity of different cinemas?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Graph A"
+        },
+        {
+         "key": 1,
+         "value": "Graph B"
+        },
+        {
+         "key": 2,
+         "value": "Graph C"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" biểu đồ nào thể hiện popularity của các rạp phim\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"...we thought the Complex would be the most \"},{\"text\":\"popular\",\"bold\":true},{\"text\":\" choice of cinema\"},{\"text\":\"...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we \"},{\"text\":\"thought the Complex\",\"bold\":true},{\"text\":\" would be \"},{\"text\":\"the most popular\",\"bold\":true},{\"text\":\" choice of cinema ... \"},{\"text\":\"but surprisingly\",\"bold\":true},{\"text\":\" it was the \"},{\"text\":\"late-night Odeon\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Odeon là nói có popularity lớn nhất \\n=> Tuy nhiên \"},{\"text\":\"biểu đồ nào cũng cho thấy Odeon popular nhất \",\"bold\":true},{\"text\":\"\\n=> Cần nghe thêm\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the \"},{\"text\":\"Complex \",\"bold\":true},{\"text\":\"is \"},{\"text\":\"more expensive\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" Sau đó nghe tiếp thì thấy tutor nói rằng \\\"that adds to the cost [...] and \"},{\"text\":\"detracts from the popularity\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Giá tăng thì popularity sẽ giảm \",\"bold\":true},{\"text\":\"\\n=> Tức là \"},{\"text\":\"Complex\",\"bold\":true},{\"text\":\" sẽ phải\"},{\"text\":\" ít popular hơn là Park \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 160,
+          "endTimeInSeconds": 197,
+          "transcripts": [
+           {
+            "id": "11/160562-179151",
+            "startTimeInSeconds": 160,
+            "endTimeInSeconds": 179,
+            "text": "  As you probably know, the Complex and the Park show all the latest films, while the late-night cinema tends to show cult films. So, when we interviewed the students, we thought the Complex would be the most popular choice of cinema ... but surprisingly it was the late-night Odeon. ",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           },
+           {
+            "id": "12/179151-191801",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 191,
+            "text": " Yeah, and most students said that if they wanted to see a new film, they waited for it to show at the Park because the complex is more expensive and further out of town so you have to pay more to get there as well.",
+            "character": {
+             "id": "WqfScga_GrNuGBvQjYm3w",
+             "name": "Mike"
+            }
+           },
+           {
+            "id": "13/191801-197678",
+            "startTimeInSeconds": 191,
+            "endTimeInSeconds": 197,
+            "text": " Yes, and that adds to the cost, of course, and detracts from the popularity, evidently. ",
+            "character": {
+             "id": "GM74RobClsYc1ktC-4aDr",
+             "name": "Tutor"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": true,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PRIVATE/MEDIA/0630347d-8cc4-4ca9-8740-5f272d096138.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PRIVATE/MEDIA/0630347d-8cc4-4ca9-8740-5f272d096138.png",
+        "name": "PTP1_L1_P3_survey on local entertainment_NoOpt_2.png",
+        "uploadedDate": "2021-07-04T09:19:03.300+0000",
+        "size": 6779
+       }
+      },
+      {
+       "uuid": "f2ef61a5-da70-11ed-97e6-1d2275381789",
+       "type": "SINGLE_ANSWER",
+       "question": "What did Rosie and Mike realise about the two theatres?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The prices were very similar."
+        },
+        {
+         "key": 1,
+         "value": "They were equally popular."
+        },
+        {
+         "key": 2,
+         "value": "They offered the same facilities."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"Rosie và Mike nhận ra điều gì ở 2 theatres\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"So you just looked at the two \"},{\"text\":\"theatres \",\"bold\":true},{\"text\":\"in town?\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"There's a whole \"},{\"text\":\"variety of seat prices\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có \"},{\"text\":\"nhiều loại giá vé khác nhau\",\"bold\":true},{\"text\":\" dựa trên chỗ ngồi \\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"Students tend to \"},{\"text\":\"buy seats at both\",\"bold\":true},{\"text\":\" and\"},{\"text\":\" like using both\",\"bold\":true},{\"text\":\" for different reasons\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sinh viên thường \"},{\"text\":\"mua vé tại cả 2 chỗ\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"thích sử dụng cả 2\",\"bold\":true},{\"text\":\" vì lý do khác nhau \\n=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 221,
+          "endTimeInSeconds": 244,
+          "transcripts": [
+           {
+            "id": "15/221168-224378",
+            "startTimeInSeconds": 221,
+            "endTimeInSeconds": 224,
+            "text": " So you just looked at the two theatres in town?",
+            "character": {
+             "id": "GM74RobClsYc1ktC-4aDr",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "16/224378-244082",
+            "startTimeInSeconds": 224,
+            "endTimeInSeconds": 244,
+            "text": " Yes. But the thing about the theatres is that there's a whole variety of seat prices. Also, the types of performance vary ...so students tend to buy seats at both and like using both for different reasons and if they want cheap seats at the Ashtop, they can just sit further from the front.",
+            "character": {
+             "id": "WqfScga_GrNuGBvQjYm3w",
+             "name": "Mike"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "f2ef61a6-da70-11ed-97e6-1d2275381789",
+       "type": "SINGLE_ANSWER",
+       "question": "Which graph shows comparative attendance for cinema and theatre?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Graph A"
+        },
+        {
+         "key": 1,
+         "value": "Graph B"
+        },
+        {
+         "key": 2,
+         "value": "Graph C"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"biểu đồ nào show comparative attendance\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\"...periods during the year when\",\"marks\":[]},{\"text\":\" students seem to go to the theatre\",\"marks\":[],\"bold\":true},{\"text\":\" and periods when \",\"marks\":[]},{\"text\":\"they go to the cinema\",\"marks\":[],\"bold\":true},{\"text\":\"\\\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"there's \"},{\"text\":\"a peak around November/December\",\"bold\":true},{\"text\":\" when they \"},{\"text\":\"go to the theater more\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Điểm cao nhất\",\"bold\":true},{\"text\":\" của cả 2 đường là \"},{\"text\":\"vào tháng 11/12,\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"theater cao hơn cinema\",\"bold\":true},{\"text\":\" trong khoảng này \\n=> Nhìn vào các biểu đồ đề cho \"},{\"text\":\"chỉ có A là hợp lý\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"a period in \"},{\"text\":\"April/May\",\"bold\":true},{\"text\":\" when\"},{\"text\":\" neither is particularly popular\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Tháng 4/5\",\"bold\":true},{\"text\":\" thì cả 2 \"},{\"text\":\"đều không popular \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Confirm đáp án là A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn chú ý là các biểu đồ đề cho \"},{\"text\":\"bắt đầu từ tháng 10 (O - October)\",\"bold\":true},{\"text\":\" trở đi chứ \"},{\"text\":\"không phải tháng 1\",\"bold\":true},{\"text\":\", nên \"},{\"text\":\"coi chừng bị lộn tháng\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 244,
+          "endTimeInSeconds": 278,
+          "transcripts": [
+           {
+            "id": "17/244082-278265",
+            "startTimeInSeconds": 244,
+            "endTimeInSeconds": 278,
+            "text": " What we did find that was very interesting is that there are periods during the year when students seem to go to the theatre and periods when they go to the cinema and we really think that's to do with budget. If you look at this graph, you can see that there's a peak around November/December when they go to the theatre more and then a period in April/Mav when neither is particularly popular and then theatre viewing seems to trail off virtually while the cinema becomes quite popular in June/July.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": true,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PRIVATE/MEDIA/efa24e14-d05b-407d-b66c-395dee2b8a1b.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PRIVATE/MEDIA/efa24e14-d05b-407d-b66c-395dee2b8a1b.png",
+        "name": "PTP1_L1_P3_survey on local entertainment_NoOpt_3.png",
+        "uploadedDate": "2021-07-04T09:19:06.562+0000",
+        "size": 9928
+       }
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letters "
+         },
+         {
+          "text": "A-C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "f2ef61a7-da70-11ed-97e6-1d2275381789",
+     "questions": [
+      {
+       "uuid": "glwLrKQeYJkTi2i2rOONo",
+       "type": "DRAG_IN",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/a5b67a90-2e4a-4002-b53e-a5c6dd494030.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/a5b67a90-2e4a-4002-b53e-a5c6dd494030.png",
+        "name": "PTP1_L1_P3_survey on local entertainment_NoOpt.png",
+        "uploadedDate": "2021-11-02T04:42:02.094+0000",
+        "size": 12919,
+        "width": 374,
+        "height": 324
+       },
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng đầu tiên là The Blues Club\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"First of all, \"},{\"text\":\"The Blues Club, ...\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"... so we \"},{\"text\":\"didn't give that a very good rating\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là chỗ này được \"},{\"text\":\"điểm thấp nhất \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 341,
+          "endTimeInSeconds": 370,
+          "transcripts": [
+           {
+            "id": "22/341315-370618",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 370,
+            "text": " We looked at three small music venues and we examined the quality of the entertainment and venue and gave a ranking for these: a cross meaning that the quality was poor, a tick meaning it was OK and two ticks for excellent. First of all, The Blues Club, which obviously specialises in blues music. This was a pretty small place and the seating was minimal so we didn't give that a very good rating.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng tiếp theo là \"},{\"text\":\"The Sansue\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"Then \"},{\"text\":\"The Sansue....\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...very \"},{\"text\":\"lively\",\"bold\":true},{\"text\":\",\"},{\"text\":\" good performers \",\"bold\":true},{\"text\":\"so two ticks for that one\\\"  (có nghe đầu đoạn này là\"},{\"text\":\" two ticks = excellent\",\"bold\":true},{\"text\":\")\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nếu bạn\"},{\"text\":\" không nhớ \",\"bold\":true},{\"text\":\"được \"},{\"text\":\"two ticks = excellent\",\"bold\":true},{\"text\":\" thì bạn cũng có thể suy ra đáp án dựa trên việc \"},{\"text\":\"địa điểm này nhận được toàn review tốt\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>  Không thể là poor hoặc OK\\n=> \"},{\"text\":\"Loại đáp án A và B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 373,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "24/373115-385556",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 385,
+            "text": " Then The Sansue which plays a lot of South American music was a big place, very lively, good performers so two ticks for that one. ",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng tiếp theo là\"},{\"text\":\" the Pier Hotel\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"T\"},{\"text\":\"he Pier Hotel \",\"bold\":true},{\"text\":\"is a folk venue\"},{\"text\":\"\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"not the best of venue và we felt it deserved an average rating\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ xứng đáng được \"},{\"text\":\"điểm trung bình\",\"bold\":true},{\"text\":\", tức là chỉ \"},{\"text\":\"OK \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 385,
+          "endTimeInSeconds": 416,
+          "transcripts": [
+           {
+            "id": "25/385556-416265",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 416,
+            "text": " The Pier Hotel is a folk venue ... a good place for local and up-and-coming folk artists to play. Not the best of venues as it's in a basement and a bit dark but the quality of the entertainment was reasonable and the lighting was very warm so we felt it deserved an average rating. Finally, there's the Baldrock Cafe which features big rock bands and is pretty popular with students and we enjoyed ourselves there as well, so top marks for that one.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"Đối tượng cuối cùng là \"},{\"text\":\"Baldrock Cafe\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=\",\"bold\":true},{\"text\":\"> Đáp án sẽ tới sau \\\"Finally, there's the \"},{\"text\":\"Baldrock Cafe...\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"...so \"},{\"text\":\"top marks for that one\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Điểm cao nhất\",\"bold\":true},{\"text\":\" cho chỗ này \"},{\"text\":\"(excellent) \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 385,
+          "endTimeInSeconds": 416,
+          "transcripts": [
+           {
+            "id": "25/385556-416265",
+            "startTimeInSeconds": 385,
+            "endTimeInSeconds": 416,
+            "text": " The Pier Hotel is a folk venue ... a good place for local and up-and-coming folk artists to play. Not the best of venues as it's in a basement and a bit dark but the quality of the entertainment was reasonable and the lighting was very warm so we felt it deserved an average rating. Finally, there's the Baldrock Cafe which features big rock bands and is pretty popular with students and we enjoyed ourselves there as well, so top marks for that one.",
+            "character": {
+             "id": "CsnbhL_Et6w92k9h4g-Rc",
+             "name": "Rosie"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "questions": [
+        {
+         "text": "1",
+         "id": "xN_0srCu90BnTrblXRChq",
+         "x": 266,
+         "y": 111
+        },
+        {
+         "text": "2",
+         "id": "KS-xc8a3skjyUMfC3Kvx8",
+         "x": 267,
+         "y": 167
+        },
+        {
+         "text": "3",
+         "id": "09E6nPPhwIl9XBYsXFMra",
+         "x": 266,
+         "y": 218
+        },
+        {
+         "text": "4",
+         "id": "oTMSD4duy1IxRukn-VcmG",
+         "x": 267,
+         "y": 272
+        }
+       ],
+       "options": [
+        "Poor",
+        "OK",
+        "Excellent"
+       ]
+      }
+     ],
+     "questionType": "DRAG_IN",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Adverse Effects Of Desert Dust On Global Climate",
+   "duration": 7,
+   "questionStart": 33,
+   "questionEnd": 42,
+   "questionGroups": [
+    {
+     "id": "df6313e5-28d9-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "df6313e6-28d9-11ed-af29-83e4ce9ba581",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cái gì gây ra dust storms \",\"bold\":true},{\"text\":\"(Main focus of lecture: the \"},{\"text\":\"impact \",\"bold\":true},{\"text\":\"of ... on the occurrence of dust storms)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Today we're going to look more closely \"},{\"text\":\"what causes dust storms...\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"what we want to focus on today \",\"bold\":true},{\"text\":\"(=main focus) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe tiếp thấy\\\" ...the extent to which\"},{\"text\":\" human activity is causing them\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Human activity\",\"bold\":true},{\"text\":\" dẫn đến sự hình thành của\"},{\"text\":\" dust storm\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là human activity/activities \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 59,
+          "endTimeInSeconds": 87,
+          "transcripts": [
+           {
+            "id": "0/59437-87550",
+            "startTimeInSeconds": 59,
+            "endTimeInSeconds": 87,
+            "text": "In the last lecture, we looked at the adverse effects of desert dust on global climate. Today we're going to examine more closely what causes dust storms and what other effects they can have. As you know, dust storms have always been a feature of desert climates, but what we want to focus on today is the extent to which human activity is causing them. And it is this trend that I want to look at, because it has wide-ranging implications."
+           }
+          ]
+         },
+         "value": "human activity/activities",
+         "blankId": "bH-hU0kl8nB8VCv3_DlyF"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"hoạt động nào remove protective plants \",\"bold\":true},{\"text\":\"(remove protective plants, e.g ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án tới khi nghe \\\"there are \"},{\"text\":\"two main types...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"remove protective vegetation \",\"bold\":true},{\"text\":\"(vegetation = plants) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó nghe tiếp thấy \\\"\"},{\"text\":\"for example, mainly farming and drainage\\\" \",\"bold\":true},{\"text\":\" (for example = e.g) \\n=> \"},{\"text\":\"Đáp án là farming and drainange \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 87,
+          "endTimeInSeconds": 120,
+          "transcripts": [
+           {
+            "id": "1/87550-120970",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 120,
+            "text": "So - what are these human activities? Well, there are two main types that affect the wind erosion process, and thus the frequency of dust storms. There are activities that break up naturally wind-resistant surfaces such as off-road vehicle use and construction and there are those that remove protective vegetation cover from soils, for example, mainly farming and drainage. In many cases the two effects occur simultaneously which adds to the problem."
+           }
+          ]
+         },
+         "value": "farming and drainage",
+         "blankId": "I0VDT4YLqvbREm0EMngef"
+        }
+       ],
+       "paragraph": {
+        "id": "8weeBtpggLHgiiGP_aiPX",
+        "editorValue": "[{\"children\":[{\"text\":\"Main focus of lecture: the impact of \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"bH-hU0kl8nB8VCv3_DlyF\"},{\"text\":\" on the occurrence of dust storms.\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Two main types of impact:\"}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"break up ground surface, e.g. off-road vehicle use.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"remove protective plants, e.g. \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"I0VDT4YLqvbREm0EMngef\"},{\"text\":\".\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "bH-hU0kl8nB8VCv3_DlyF",
+          "key": 0
+         },
+         {
+          "id": "I0VDT4YLqvbREm0EMngef",
+          "key": 1
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes using "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete each sentences with correct ending"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 2
+    },
+    {
+     "id": "df6313e7-28d9-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "Dm-1o7jifoh_M-9UwYLKI",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" thập kỷ được đổi tên thành gì \",\"bold\":true},{\"text\":\"(decade renamed the .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \",\"bold\":true},{\"text\":\"\\\"... is the creation of the \"},{\"text\":\"USA dust bow\",\"bold\":true},{\"text\":\"l\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được \\\"was the result of\"},{\"text\":\" \",\"bold\":true},{\"text\":\"farmers \"},{\"text\":\"mismanaging\",\"bold\":true},{\"text\":\" \"},{\"text\":\"their land\\\" \",\"bold\":true},{\"text\":\" (đang nói tới ý đầu tiên -> chuẩn bị chuyển qua ý sau)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"dust storms became so commonplace that the decade known as the 'Dirty Thirties' \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thập niên được biết đến với\"},{\"text\":\" tên mới \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là Dirty Thirties/30s \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "2/120970-152639",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 152,
+            "text": "Let's look at some real examples and see what I'm talking about. Perhaps the best-known example of agricultural impact on desert dust is the creation of the USA's 'dust bowl' in the 1930s. The dramatic rise in the number of dust storms during the latter part of that decade was the result of farmers mismanaging their land. In fact, choking dust storms became so commonplace that the decade became known as the 'Dirty Thirties'."
+           }
+          ]
+         },
+         "value": "Dirty Thirties/30s",
+         "blankId": "9IxKBGD5Vuu4aNW68PFLJ"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" ở Arizona dust clouds tồi tệ nhất bắt nguồn từ đâu \",\"bold\":true},{\"text\":\"(worst dust clouds arise from .... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"In places like \"},{\"text\":\"Arizona,.... \\\" \",\"bold\":true},{\"text\":\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"the most dangerous dust clouds are those generated by dry thunderstorms \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đust clouds nguy hiểm nhất \"},{\"text\":\"được tạo ra bới dry thunderstorm\",\"bold\":true},{\"text\":\" (\"},{\"text\":\"aris\"},{\"text\":\"e from = generated by)\\n=>\"},{\"text\":\" Đáp án là \",\"bold\":true},{\"text\":\"dry thund\",\"bold\":true},{\"text\":\"erst\",\"bold\":true},{\"text\":\"orms \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "4/175222-208146",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 208,
+            "text": "In places like Arizona, the most dangerous dust clouds are those generated by dry thunderstorms. Here, this type of storm is so common that the problem inspired officials to develop an alert system to warn people of oncoming thunderstorms. When this dust is deposited it causes all sorts of problems for machine operators. It can penetrate the smallest nooks and crannies and play havoc with the way things operate because most of the dust is made up of quartz which is very hard. "
+           }
+          ]
+         },
+         "value": "dry thunderstorms",
+         "blankId": "6d0eIFtXkAItycSLkCM9E"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" trầm tích của dusts gây khó khăn cho cái gì \",\"bold\":true},{\"text\":\"(Dust deposits are hazardous to... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau  \\\"when this dust is \"},{\"text\":\"deposited\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"it\"},{\"text\":\" causes all sorts of problem\",\"bold\":true},{\"text\":\"s for \"},{\"text\":\"machine operators\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bụi \"},{\"text\":\"gây ra đủ loại vấn đề cho machine operators\",\"bold\":true},{\"text\":\", có nghĩa tương đương với are hazardous to (nguy hiểm đối với)\\n=> \"},{\"text\":\"Đáp án là machine operators \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "4/175222-208146",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 208,
+            "text": "In places like Arizona, the most dangerous dust clouds are those generated by dry thunderstorms. Here, this type of storm is so common that the problem inspired officials to develop an alert system to warn people of oncoming thunderstorms. When this dust is deposited it causes all sorts of problems for machine operators. It can penetrate the smallest nooks and crannies and play havoc with the way things operate because most of the dust is made up of quartz which is very hard. "
+           }
+          ]
+         },
+         "value": "machine operators",
+         "blankId": "mxa3Uv-q5vKih77tba_2j"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" ở Sahara wind erosion đã xảy ra cùng lúc với cái gì\",\"bold\":true},{\"text\":\" (Increased wind erosion has occurred along with long-term ... )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"the concentration of dust originating from the \"},{\"text\":\"Sahara...\\\"  \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\" this increase in wind erosion \"},{\"text\":\"has coincided with a prolonged drought\",\"bold\":true},{\"text\":\" \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Wind erosion \"},{\"text\":\"xảy ra cùng lúc với hạn hán kéo dài\",\"bold\":true},{\"text\":\" (prolonged = long-term) \\n=> \"},{\"text\":\"Đáp án là drought \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 208,
+          "endTimeInSeconds": 238,
+          "transcripts": [
+           {
+            "id": "5/208146-238596",
+            "startTimeInSeconds": 208,
+            "endTimeInSeconds": 238,
+            "text": "Another example - the concentration of dust originating from the Sahara has risen steadily since the mid-1960s. This increase in wind erosion has coincided with a prolonged drought, which has gripped the Sahara's southern fringe. Drought is commonly associated with an increase in dust-raising activity but it's actually caused by low rainfall which results in vegetation dying off. "
+           }
+          ]
+         },
+         "value": "drought",
+         "blankId": "OtRo80GMBel83KqKvE4UB"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "9IxKBGD5Vuu4aNW68PFLJ",
+         "key": 0
+        },
+        {
+         "id": "6d0eIFtXkAItycSLkCM9E",
+         "key": 1
+        },
+        {
+         "id": "mxa3Uv-q5vKih77tba_2j",
+         "key": 2
+        },
+        {
+         "id": "OtRo80GMBel83KqKvE4UB",
+         "key": 3
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"SvTDKzOtwnrJZo2tpFn9Y\",\"cellsWidth\":[256,355],\"children\":[{\"type\":\"tr\",\"id\":\"lIPfosVGQpq5OGs6oznA7\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name of area\",\"bold\":true}]}]}],\"id\":\"BqVA2Ylwg2SJO8HbUDA76\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Details\",\"bold\":true}]}]}],\"id\":\"befQxiOiHDuTDkT2qWeMX\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"7DtQJrIHcTkDyZ25zTAKb\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"USA ‘dust bowl’\"}]}]}],\"scope\":\"row\",\"id\":\"89Uu2aDuZcTHXtaH-sCFH\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Caused by mismanagement of farmland.\\nDecade renamed the\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"9IxKBGD5Vuu4aNW68PFLJ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"sicKvIq_ZRVg3Xsi3Db-a\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"U5OTEHnVO0m3nSgbFRTZj\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"West Africa\"}]}]}],\"scope\":\"row\",\"id\":\"6_ze-0dy_2xtH2Epft-TV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Steady rise in dust storms over 20-year period\"}]}]}],\"id\":\"LukmkElKu2lvBDvM7smfR\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"NDwoWLv8by_djpdr-b0TW\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Arizona\"}]}]}],\"scope\":\"row\",\"id\":\"_CcNYVbLCaZXyvJGn0fDe\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Worst dust clouds arise from \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"6d0eIFtXkAItycSLkCM9E\",\"text\":\"\"}]},{\"text\":\"\\nDust deposits are hazardous to\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"mxa3Uv-q5vKih77tba_2j\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"bX9dGeKQwa1_WfpzxNuoL\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"p53R-9Navh1qxVdpmaZxu\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Sahara\"}]}]}],\"scope\":\"row\",\"id\":\"J1jv1FTp5kP69MlZQQVrB\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Increased wind erosion has occurred along with long-term\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"OtRo80GMBel83KqKvE4UB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"BsvehenSSU5XbTrd5Q9VF\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":611,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table using "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer. "
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Answer the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "df6313e8-28d9-11ed-af29-83e4ce9ba581",
+     "questions": [
+      {
+       "uuid": "XgCeCQ09z35vB4CGAcARD",
+       "type": "FLOWCHART_ANSWER",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cái gì xảy ra ở Central Asian Republics \",\"bold\":true},{\"text\":\"(Intensive ... in Central Asian Republics)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghethấy \\\"...is the drying up of \"},{\"text\":\"Aral Sea in Central Asia\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"When\"},{\"text\":\" intensive irrigation\",\"bold\":true},{\"text\":\" began \"},{\"text\":\"in the then Central Asian Republics\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là irrigation \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 253,
+          "endTimeInSeconds": 281,
+          "transcripts": [
+           {
+            "id": "6/253216-281001",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 281,
+            "text": "One of the foremost examples of modern human-induced environmental degradation is the drying up of the Aral Sea in Central Asia. Its ecological demise dates from the 1950s when intensive irrigation began in the then Central Asian republics of the USSR. This produced a dramatic decline in the volume of water entering the sea from its two major tributaries."
+           }
+          ]
+         },
+         "value": "irrigation",
+         "blankId": "ImeusxxIAfjLGzSJ2GaCY"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" thể tích nước hồ đã giảm bao nhiêu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau  \\\"The Aral Sea was the \"},{\"text\":\"fourth-largest lake \",\"bold\":true},{\"text\":\"in the world\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"....\"},{\"text\":\" but since that time it has lost two-thirds of its volume\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lượng nước bị \"},{\"text\":\"giảm mất 2/3\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là two-thirds  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley15\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy có từ \"},{\"text\":\"halved \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"216 meters \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tuy nhiên \"},{\"text\":\"halved \",\"bold\":true},{\"text\":\"là đang \"},{\"text\":\"nói về surface area\",\"bold\":true},{\"text\":\" còn \"},{\"text\":\"216m \",\"bold\":true},{\"text\":\"là \"},{\"text\":\"nói về mực nước đã bị giảm mất \",\"bold\":true},{\"text\":\"(không phải volume)\\n=> \"},{\"text\":\"Không phải đáp án \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 253,
+          "endTimeInSeconds": 308,
+          "transcripts": [
+           {
+            "id": "6/253216-281001",
+            "startTimeInSeconds": 253,
+            "endTimeInSeconds": 281,
+            "text": "One of the foremost examples of modern human-induced environmental degradation is the drying up of the Aral Sea in Central Asia. Its ecological demise dates from the 1950s when intensive irrigation began in the then Central Asian republics of the USSR. This produced a dramatic decline in the volume of water entering the sea from its two major tributaries."
+           },
+           {
+            "id": "7/281001-308742",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 308,
+            "text": "In I960, the Aral Sea was the fourth-largest lake in the world, but since that time it has lost two-thirds of its volume, its surface area has halved and its water level has dropped by more than 216 metres. A knock-on effect of this ecological disaster has been the release of significant new sources of wind-blown material, as the water level has dropped."
+           }
+          ]
+         },
+         "value": "two-thirds",
+         "blankId": "PC26jVWkNlaGzND6bCc0Q"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley39\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"hồ đã tăng cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"And the \"},{\"text\":\"problem don't stop there\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true},{\"text\":\"(chuyển ý) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"the salinity of the lake has increased \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Độ mặn\",\"bold\":true},{\"text\":\" của hồ đã \"},{\"text\":\"tăng\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là salinity \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 281,
+          "endTimeInSeconds": 332,
+          "transcripts": [
+           {
+            "id": "7/281001-308742",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 308,
+            "text": "In I960, the Aral Sea was the fourth-largest lake in the world, but since that time it has lost two-thirds of its volume, its surface area has halved and its water level has dropped by more than 216 metres. A knock-on effect of this ecological disaster has been the release of significant new sources of wind-blown material, as the water level has dropped."
+           },
+           {
+            "id": "8/308742-332309",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 332,
+            "text": "And the problems don't stop there. The salinity of the lake has increased so that it is now virtually the same as sea water. This means that the material that is blown from the dry bed of the Aral Sea is highly saline. Scientists believe it is adversely affecting crops around the sea because salts are toxic to plants."
+           }
+          ]
+         },
+         "value": "salinity/salty/saline/toxic",
+         "blankId": "h1hcb7NiT-hqKt7ytX0D0"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"những thay đổi đã tác động lên cái gì gần đó\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau \\\"\",\"bold\":true},{\"text\":\"It is \"},{\"text\":\"adversely affecting\",\"bold\":true},{\"text\":\"\\\" (adversely = serious) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"It is adversely \"},{\"text\":\"affecting crops around the sea\",\"bold\":true},{\"text\":\" because\"},{\"text\":\" salts are toxic\",\"bold\":true},{\"text\":\" to plants\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang gây \"},{\"text\":\"ảnh hưởng xấu lên cây cối xung quanh\",\"bold\":true},{\"text\":\", có độc cho cây cỏ \\n=> \"},{\"text\":\"Đáp án đúng là crops/ plants/ agricultre \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 332,
+          "transcripts": [
+           {
+            "id": "8/308742-332309",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 332,
+            "text": "And the problems don't stop there. The salinity of the lake has increased so that it is now virtually the same as sea water. This means that the material that is blown from the dry bed of the Aral Sea is highly saline. Scientists believe it is adversely affecting crops around the sea because salts are toxic to plants."
+           }
+          ]
+         },
+         "value": "crops/plants/agriculture",
+         "blankId": "w2CMa12ZzUNTXuXwW-eOL"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "BrdlTbVeQsZiZgMmLkn9a",
+         "editorValue": "[{\"children\":[{\"text\":\"Intensive \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"ImeusxxIAfjLGzSJ2GaCY\"},{\"text\":\" in Central Asian Republics\"}]}]",
+         "blanks": [
+          {
+           "id": "ImeusxxIAfjLGzSJ2GaCY",
+           "key": 0
+          }
+         ]
+        },
+        {
+         "id": "EiMiEc2s5snO9IB_L4dyD",
+         "editorValue": "[{\"children\":[{\"text\":\"Drop in water in major tributaries\"}]}]",
+         "blanks": []
+        },
+        {
+         "id": "kQwHaGSOz5nAUA-XQdwSr",
+         "editorValue": "[{\"children\":[{\"text\":\"Total volume of water in lake reduced by\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"PC26jVWkNlaGzND6bCc0Q\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "PC26jVWkNlaGzND6bCc0Q",
+           "key": 1
+          }
+         ]
+        },
+        {
+         "id": "jgVULr9dZUz5GhjSafhfJ",
+         "editorValue": "[{\"children\":[{\"text\":\"Increase in wind-blown material\"}]}]",
+         "blanks": []
+        },
+        {
+         "id": "WGo6XwXxiMWX_1VhxzAy_",
+         "editorValue": "[{\"children\":[{\"text\":\"Lake has increased its\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"h1hcb7NiT-hqKt7ytX0D0\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "h1hcb7NiT-hqKt7ytX0D0",
+           "key": 2
+          }
+         ]
+        },
+        {
+         "id": "I_GXVoASRe_7i2PsJNXOQ",
+         "editorValue": "[{\"children\":[{\"text\":\"Serious effects on\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"w2CMa12ZzUNTXuXwW-eOL\"},{\"text\":\" nearby\"}]}]",
+         "blanks": [
+          {
+           "id": "w2CMa12ZzUNTXuXwW-eOL",
+           "key": 3
+          }
+         ]
+        }
+       ],
+       "heading": "Drying-up of Aral Sea"
+      }
+     ],
+     "questionType": "FLOWCHART_ANSWER",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the flow chart using "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the question below using "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:35Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

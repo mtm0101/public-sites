@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual1-t2-listening",
+ "title": "Actual Test 1 - Listening Test 2",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 2,
+ "order": 68,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-1-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Notes Of Customer Information",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/46dc65b5-a5d6-42f5-a756-35fe6e29bd2a.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 5287960
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/76d8d131-68de-49ba-a572-a955f5249285.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 44
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Public Service Broadcast",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/7f9e42bb-fbd0-456f-a359-92218909405d.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3918725
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f6594c64-7e4f-401a-a74d-1d27e643df9d.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 17
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Environmental Change Discussion",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/cbf81c48-d48c-4d44-8f34-ee253b848f8c.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 4581086
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/b8de380d-fc07-4bb6-b641-1c56da38c8ea.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 35
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "How To Kill Bad Insects",
+   "duration": 10,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/db8481b9-5cfc-4057-92ad-4d553cd689ef.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 6317393
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ae928b15-9941-4c16-a8bb-60f94a45885d.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 25
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:40:49Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

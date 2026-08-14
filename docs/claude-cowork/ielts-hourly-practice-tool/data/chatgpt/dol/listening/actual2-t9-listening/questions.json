@@ -1,0 +1,2455 @@
+{
+ "schema": 1,
+ "id": "actual2-t9-listening",
+ "title": "Actual Test 2 - Listening Test 9",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 2",
+ "testNum": 9,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-2-test-9-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-2-test-9-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Registration Form",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "e2d98e3f-7745-11ec-ad8a-4f88c60ae1f3",
+     "questions": [
+      {
+       "uuid": "Rrh1sDBiRGBxA0GYR4iSI",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tên riêng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"could you give me \"},{\"text\":\"your first and last name?\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy bên cảnh sát đánh vần \"},{\"text\":\"G-R-E-G \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Người phụ nữ\"},{\"text\":\" sửa lại \",\"bold\":true},{\"text\":\"là \"},{\"text\":\"G-R-I-E-G \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Grieg \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 116,
+          "endTimeInSeconds": 129,
+          "transcripts": [
+           {
+            "id": "2/116548-121619",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 121,
+            "text": " Alright, just a minute while I pull up the form. OK, could you give me your first and last name?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "3/121619-122880",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 122,
+            "text": " Anna Grieg.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "4/122880-126001",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 126,
+            "text": " Anna, Greg? G-R-E-G?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "5/126001-129380",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 129,
+            "text": " No, Grieg. G-R-I-E-G.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "Grieg",
+         "blankId": "pFwhcbLmfVGr5O4w48Z9i"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"ngày sinh\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"date of birth?\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy trả lời \\\"\"},{\"text\":\"15th of March\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án:15th March / March 15th \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 129,
+          "endTimeInSeconds": 135,
+          "transcripts": [
+           {
+            "id": "6/129380-133612",
+            "startTimeInSeconds": 129,
+            "endTimeInSeconds": 133,
+            "text": " Got it. Alright moving on: gender - female. Date of birth?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "7/133612-135894",
+            "startTimeInSeconds": 133,
+            "endTimeInSeconds": 135,
+            "text": " 15th of March, 1980",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "15th March / March 15/March 15th/15 March ",
+         "blankId": "E5T0L0QtXKiUkaIlMn0BQ"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tên đường \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"what is the \"},{\"text\":\"address?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy người phụ nữ nói tên đường \\\"\"},{\"text\":\"Ellendale street\\\" \",\"bold\":true},{\"text\":\"và đánh vần ra \"},{\"text\":\"E-L-L-E-N-D-A-L-E \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: Ellendale \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 158,
+          "transcripts": [
+           {
+            "id": "10/143619-145042",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 145,
+            "text": " What is the address?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "11/145042-151122",
+            "startTimeInSeconds": 145,
+            "endTimeInSeconds": 151,
+            "text": " 4 Ellendale St. That’s E-L-L-E-N-D-A-L-E",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "12/151122-158005",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 158,
+            "text": " Oh right, Ellendale Street. Yeah we’ve had a lot of break-ins in that area lately. And the postal code?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           }
+          ]
+         },
+         "value": "Ellendale",
+         "blankId": "Q08E0DNS945cMKOKkiDEO"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" mã bưu điện\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"and the\"},{\"text\":\" postal code?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy người phụ nữ trả lời \\\"\"},{\"text\":\"W52AT\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: W52AT \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 160,
+          "transcripts": [
+           {
+            "id": "12/151122-158005",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 158,
+            "text": " Oh right, Ellendale Street. Yeah we’ve had a lot of break-ins in that area lately. And the postal code?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "13/158005-160496",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 160,
+            "text": " W52AT",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "W52AT",
+         "blankId": "KMinuhCSKahA5n-Nlw19p"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về \"},{\"text\":\"số lượng vụ buglary \",\"bold\":true},{\"text\":\"(đột nhập vào nhà) \"},{\"text\":\"đã xảy ra\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"have you had any prior break-ins? \\\" \",\"bold\":true},{\"text\":\"(break-ins = buglary)  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy cảnh sát nói cụ thể là \\\"\"},{\"text\":\"just your flat \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Người phụ nữ nói là \\\"\"},{\"text\":\"no, not here\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chưa từng bị đột nhập\",\"bold\":true},{\"text\":\" lần nào trong nhà này \\n=>\"},{\"text\":\" Đáp án: 0 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 217,
+          "endTimeInSeconds": 234,
+          "transcripts": [
+           {
+            "id": "23/217376-224528",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 224,
+            "text": " Oh, right. Sorry, this is about the hundredth robbery report I’ve filled out today. Have you had any prior break-ins?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "24/224528-230183",
+            "startTimeInSeconds": 224,
+            "endTimeInSeconds": 230,
+            "text": " Um, in the building or just my flat? The unit below mine got broken into last year.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "25/230183-232565",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 232,
+            "text": " No, just your flat.",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "26/232565-234285",
+            "startTimeInSeconds": 232,
+            "endTimeInSeconds": 234,
+            "text": " Oh - then no. Not here.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "0",
+         "blankId": "kx8_8524sDTI3nnpujf3m"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" thời gian đã thuê nhà\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"\\\"how long \",\"bold\":true},{\"text\":\"has this been your \"},{\"text\":\"place of residence\",\"bold\":true},{\"text\":\"?\\\" (residence = tenancy) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn hỏi xem \"},{\"text\":\"ở đây được bao lâu rồi \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"  Nghe thấy \\\"\"},{\"text\":\"it's been 8 months already\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đã ở được 8 tháng \\n\",\"bold\":true},{\"text\":\"=>\"},{\"text\":\" Đáp án: 8 months \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 252,
+          "endTimeInSeconds": 264,
+          "transcripts": [
+           {
+            "id": "29/252645-255296",
+            "startTimeInSeconds": 252,
+            "endTimeInSeconds": 255,
+            "text": " How long has this been your place of residence?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "30/255296-264776",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 264,
+            "text": " Hm, let me think. I moved in on February 1, and it’s October, so it’s been about 8 months already. Wow, time flies!",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "8 months/eight months",
+         "blankId": "Ob3eBrB6A2BmqR7cTRCuy"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"số người sống trong nhà \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tới cảnh sát hỏi về \\\"Can you give me the first and last name \"},{\"text\":\"all members of the household \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hỏi về \"},{\"text\":\"các thành viên sống trong nhà\",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy trả lời là \\\"\"},{\"text\":\"I live alone\\\"  \",\"bold\":true},{\"text\":\"v\"},{\"text\":\"à \",\"bold\":true},{\"text\":\"cảnh sát xác nhận là \\\"\"},{\"text\":\"no other occupants\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nhà chỉ có một người ở\",\"bold\":true},{\"text\":\", không có ai khác \\n=> \"},{\"text\":\"Đáp án: 1\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 271,
+          "endTimeInSeconds": 282,
+          "transcripts": [
+           {
+            "id": "33/271191-275816",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 275,
+            "text": " I see. Can you give me the first and last name of all members of the household?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "34/275816-277364",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 277,
+            "text": " Actually, I live alone.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "35/277364-282081",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 282,
+            "text": " OK - so no other occupants. And can you give me a brief account of what happened?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           }
+          ]
+         },
+         "value": "1/one",
+         "blankId": "dDh7iyp9AMSx-sNqTfmLb"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"any sign of forced entry?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là \"},{\"text\":\"đang xác định đường vô của kẻ trộm \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the\"},{\"text\":\" back door was wide open\",\"bold\":true},{\"text\":\", and it looked like\"},{\"text\":\" someone used a crowbar to force it open\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cửa sau bị mở toang\",\"bold\":true},{\"text\":\", và có vẻ \"},{\"text\":\"có người đã dùng xà beng để cạy cửa \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Kẻ trộm đột nhập từ cửa sau \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: back door \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 290,
+          "endTimeInSeconds": 297,
+          "transcripts": [
+           {
+            "id": "37/290285-292131",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 292,
+            "text": " Any sign of forced entry?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "38/292131-297563",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 297,
+            "text": " Yes, the back door was wide open, and it looked like someone used a crowbar to force it open.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "back door",
+         "blankId": "IngtJ0rmWXoMrXOTI8GTB"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"số xê ri của máy tính\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"let's start with the computer\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy câu hỏi về \"},{\"text\":\"serial number \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Người phụ nữ trả lời là \\\"\"},{\"text\":\"G4168770\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: G4168770 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 331,
+          "transcripts": [
+           {
+            "id": "42/314550-320276",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 320,
+            "text": " So far I’m missing my computer, my purse with my wallet in it, and the TV.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "43/320276-324773",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 324,
+            "text": " OK, Let’s start with the computer. What is the estimated value?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "44/324773-326259",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 326,
+            "text": " £500.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           },
+           {
+            "id": "45/326259-327751",
+            "startTimeInSeconds": 326,
+            "endTimeInSeconds": 327,
+            "text": " And what is the serial number?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "46/327751-331660",
+            "startTimeInSeconds": 327,
+            "endTimeInSeconds": 331,
+            "text": " G4168770",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "G4168770",
+         "blankId": "WjJJLjancSg3wLRy4-HYw"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"chất liệu của cái ví \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"could you give a \"},{\"text\":\"description of the purse\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"the material is silver-colored cloth\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chất liệu là \"},{\"text\":\"vải màu bạc \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: silver-colored \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 338,
+          "endTimeInSeconds": 348,
+          "transcripts": [
+           {
+            "id": "49/338947-342710",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 342,
+            "text": " OK, and could you give a description of the purse?",
+            "character": {
+             "id": "RSnUmU7lilePiw5-R7i6F",
+             "name": "Police"
+            }
+           },
+           {
+            "id": "50/342710-348235",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 348,
+            "text": " Sure. It’s a Claude Frieda shoulder bag and the material is silver-colored cloth.",
+            "character": {
+             "id": "6oILWq7Y74Mc3OUOkgzQq",
+             "name": "Anna"
+            }
+           }
+          ]
+         },
+         "value": "silver-colored",
+         "blankId": "GRqElRCUgyAAoDC60pgkP"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "pFwhcbLmfVGr5O4w48Z9i",
+         "key": 0
+        },
+        {
+         "id": "E5T0L0QtXKiUkaIlMn0BQ",
+         "key": 1
+        },
+        {
+         "id": "Q08E0DNS945cMKOKkiDEO",
+         "key": 2
+        },
+        {
+         "id": "KMinuhCSKahA5n-Nlw19p",
+         "key": 3
+        },
+        {
+         "id": "kx8_8524sDTI3nnpujf3m",
+         "key": 4
+        },
+        {
+         "id": "Ob3eBrB6A2BmqR7cTRCuy",
+         "key": 5
+        },
+        {
+         "id": "dDh7iyp9AMSx-sNqTfmLb",
+         "key": 6
+        },
+        {
+         "id": "IngtJ0rmWXoMrXOTI8GTB",
+         "key": 7
+        },
+        {
+         "id": "WjJJLjancSg3wLRy4-HYw",
+         "key": 8
+        },
+        {
+         "id": "GRqElRCUgyAAoDC60pgkP",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ox-xpmeBfegBENluTsDQX\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"MSa5UsgHNmRYdntf7o9_R\",\"children\":[{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Type of crime reported:\",\"bold\":true}]}]}],\"id\":\"wdEjIoAHw1krqLknQat7J\"},{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer\\n\",\"italic\":true},{\"italic\":true,\"text\":\"robbery\",\"underline\":true}]}]}],\"id\":\"Y76jEFR9PDvo2-7paOg2m\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"soSH-27FpllPuKly9smu6\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Name:\",\"bold\":true}]}]}],\"id\":\"YgL9aS9BSSKwLrg5Y8BbC\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Anna\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"pFwhcbLmfVGr5O4w48Z9i\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"MkNn2Twf-psZaHdBvocuy\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"LUfgURohw_mtUxxm-vn4A\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date of Birth:\",\"bold\":true}]}]}],\"id\":\"sIw6IKw3QJE8QYgb2LfRp\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"E5T0L0QtXKiUkaIlMn0BQ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"zhxe8YRVJlzSnlcYc6uIi\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"qJtTIC0AKW-ZyRdZky87u\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address:\",\"bold\":true}]}]}],\"id\":\"yVU7v4XLIzO_7leZOsHzf\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"4\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Q08E0DNS945cMKOKkiDEO\",\"text\":\"\"}]},{\"text\":\"St.\"}]}]}],\"id\":\"8ju4E0qsexsSWznKXQQ-b\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"KywDCZ1WADb-tfVjwxXcC\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Post code:\",\"bold\":true}]}]}],\"id\":\"2pQ6tv6DpGlp4WKIZs5FT\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"KMinuhCSKahA5n-Nlw19p\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"4KLpD6uTSB7kV-pIF79H9\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"wMxzlIL6XMeWzZx8X7Oi8\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Nationality:\",\"bold\":true}]}]}],\"id\":\"iH1St5VliBuSYpHhIeYNA\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Grenadian\"}]}]}],\"id\":\"KZOFGedTNmieCqGz5DxGS\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"Bqdr3NpKMmzfoGVds5GJj\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Number of previous burglaries:\",\"bold\":true}]}]}],\"id\":\"AvjVOFHXtBRxqfNit1WmY\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"kx8_8524sDTI3nnpujf3m\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"BGXChpM5N_Byfi7tRM0M1\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"nBAWrTZq41pUFh8NEENLU\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Time of apartment tenancy:\",\"bold\":true}]}]}],\"id\":\"7DNzszCeTcGTESEoVQyvI\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Ob3eBrB6A2BmqR7cTRCuy\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"e12Dmo5Q_WE70JtYxEHGi\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"O54AuJNMLheqWv3iut0yS\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Number of occupants:\",\"bold\":true}]}]}],\"id\":\"J-vqLSqepM9wZWMOskVm7\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dDh7iyp9AMSx-sNqTfmLb\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"7Ugf9GglbsjJt98-hu09a\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"cib0JbtUc37QJq2H7rI8M\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Entry point of burglar:\",\"bold\":true}]}]}],\"id\":\"HdJfsYmjnYrxf5HQ8syiG\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"IngtJ0rmWXoMrXOTI8GTB\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"x8vfS684sfwGL_qObgcm6\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"MbT0j1hBHjun5K1y0IOE9\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Details of lost property:\\n\",\"bold\":true},{\"text\":\"- Serial number of lost computer:\\n\\n- Material of stolen purse:\"}]}]}],\"id\":\"-I9Jgk59NCuFE7ftJJO80\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"WjJJLjancSg3wLRy4-HYw\",\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"GRqElRCUgyAAoDC60pgkP\",\"text\":\"\"}]},{\"text\":\" cloth\"}]}]}],\"id\":\"5s1HmFiDV7L49o_67YolA\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true}]",
+       "question": "Registration Form"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Extracurricular Project",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "f828ba6b-7745-11ec-83b3-e9f4076d9f73",
+     "questions": [
+      {
+       "uuid": "f828ba6c-7745-11ec-83b3-e9f4076d9f73",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the project that Mark and Gina want to start?",
+       "options": [
+        {
+         "key": 0,
+         "value": "business school requirements"
+        },
+        {
+         "key": 1,
+         "value": "directions to the business school"
+        },
+        {
+         "key": 2,
+         "value": "explaining the business school experience"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe về\"},{\"text\":\" project Mark và Gina muốn bắt đầu  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy câu hỏi \\\"you’re going to explain the\"},{\"text\":\" requirements for getting into business school?\\\" \",\"bold\":true},{\"text\":\"(ứng với đáp án A)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"       Mark trả lời\"},{\"text\":\" \\\"Not exactly,\",\"bold\":true},{\"text\":\" it will be more broadly\"},{\"text\":\" about the experience \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Project sẽ \"},{\"text\":\"về experience \",\"bold\":true},{\"text\":\"trong trường chứ \"},{\"text\":\"không phải về yêu cầu tuyển sinh\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án C \",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 58,
+          "endTimeInSeconds": 84,
+          "transcripts": [
+           {
+            "id": "1/58402-63450",
+            "startTimeInSeconds": 58,
+            "endTimeInSeconds": 63,
+            "text": " So we were hoping you could help us with this extracurricular project.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           },
+           {
+            "id": "2/63450-65421",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 65,
+            "text": " Sure - what is the topic?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "3/65421-67112",
+            "startTimeInSeconds": 65,
+            "endTimeInSeconds": 67,
+            "text": " Attending business school.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           },
+           {
+            "id": "4/67112-73220",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 73,
+            "text": " This sounds like a great idea. So you’re going to explain the requirements for getting into business school?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "5/73220-84649",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 84,
+            "text": " Not exactly. It will be more broadly about the experience - the academics, accommodation, and social experience that comes with being a part of business school.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "f828ba6d-7745-11ec-83b3-e9f4076d9f73",
+       "type": "SINGLE_ANSWER",
+       "question": "Who is the target audience?",
+       "options": [
+        {
+         "key": 0,
+         "value": "business students"
+        },
+        {
+         "key": 1,
+         "value": "business school applicants"
+        },
+        {
+         "key": 2,
+         "value": "summer school attendees"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" nhóm audience được nhắm tới là ai\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"So would \"},{\"text\":\"audience \",\"bold\":true},{\"text\":\"be the general public?\\\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we would especially\"},{\"text\":\" like to reach individual applicants\",\"bold\":true},{\"text\":\" \"},{\"text\":\"to the business school\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đặc biệt \"},{\"text\":\"muốn tiếp cận những ứng viên đang nộp đơn vào trường\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 84,
+          "endTimeInSeconds": 97,
+          "transcripts": [
+           {
+            "id": "6/84649-89189",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 89,
+            "text": " I see. So would your audience be the general public?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "7/89189-97936",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 97,
+            "text": " Well, we would probably want more to focus on members of the institution - we would especially like to reach individual applicants to the business school.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "f828ba6e-7745-11ec-83b3-e9f4076d9f73",
+       "type": "SINGLE_ANSWER",
+       "question": "How will they convey the information?",
+       "options": [
+        {
+         "key": 0,
+         "value": "summer course lecture"
+        },
+        {
+         "key": 1,
+         "value": "informational video"
+        },
+        {
+         "key": 2,
+         "value": "pamphlet in the mail"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"what form will this information be\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó nghe thấy\"},{\"text\":\" tutor gợi ý một vài cách để trình bày các thông tin \",\"bold\":true},{\"text\":\"cần thiết (lecture, pass out information) \\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy nhắc tới \\\"\"},{\"text\":\"sending out pamphlets in the mail\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Tuy nhiên tutor nói rằng \\\"most college students \"},{\"text\":\"never check their mails \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dùng mail không phải là ý hay \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy tutor gợi ý \"},{\"text\":\"\\\"make a video and show it on campus\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sinh viên đồng ý và nói \\\"that's a \"},{\"text\":\"great idea\",\"bold\":true},{\"text\":\",\"},{\"text\":\" we'll do the video\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn cách làm video \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 97,
+          "endTimeInSeconds": 125,
+          "transcripts": [
+           {
+            "id": "8/97936-112395",
+            "startTimeInSeconds": 97,
+            "endTimeInSeconds": 112,
+            "text": " I see. Now what form will this information be? You could give a talk to all the summer courses - all you would need is permission from the course director. Or you could pass out information outside the student union.",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "9/112395-116961",
+            "startTimeInSeconds": 112,
+            "endTimeInSeconds": 116,
+            "text": " Those are both good ideas. What about sending out pamphlets in the mail?",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           },
+           {
+            "id": "10/116961-122846",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 122,
+            "text": " Most college students never check their mail. Maybe you could make a video and show it on campus?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "11/122846-125378",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 125,
+            "text": " That’s a great idea. We’ll do the video",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "f828ba6f-7745-11ec-83b3-e9f4076d9f73",
+       "type": "SINGLE_ANSWER",
+       "question": "They want to do this project because",
+       "options": [
+        {
+         "key": 0,
+         "value": "students worry about their studies"
+        },
+        {
+         "key": 1,
+         "value": "they want to obtain a good grade"
+        },
+        {
+         "key": 2,
+         "value": "they want to attract future business school applicants"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\",\"marks\":[]},{\"text\":\" lý do họ muốn làm project\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"the idea\",\"bold\":true},{\"text\":\" actually came about \"},{\"text\":\"because of how much students like us worry about their studies\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ý tưởng\"},{\"text\":\" bắt nguồn từ việc sinh viên hay lo nhiều về việc học\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Gina có giải thích thêm là \\\"\"},{\"text\":\"the video would cover a lot of things Mark and I wish we had known upon entering business school\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Video sẽ bao\"},{\"text\":\" gồm những thứ mà ước gì họ được biết trước khi vô trường\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 125,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "12/125378-135772",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 135,
+            "text": " Great. And as members of the business school, do you have an incentive to attract new students? If so, this idea is a great way to do that.",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "13/135772-142671",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 142,
+            "text": " No, the idea actually came about because of how much students like us worry about their studies.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           },
+           {
+            "id": "14/142671-152667",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 152,
+            "text": " Yeah - when I got into business school, there were a lot of things I had not prepared for, so the video would cover a lot of things Mark and I wish we had known upon entering business school.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A,B or C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "f828ba70-7745-11ec-83b3-e9f4076d9f73",
+     "questions": [
+      {
+       "uuid": "cKQsA6TudD4SqqbCZ2eI0",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"topic đầu tiên \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \"},{\"text\":\"\\\"what would you talk about first?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"We want to \"},{\"text\":\"focus especially on\",\"bold\":true},{\"text\":\" the approaches professors take - \"},{\"text\":\"their teaching methods\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn \"},{\"text\":\"tập trung chủ yếu vào cách dạy học\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: teaching methods \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 188,
+          "endTimeInSeconds": 209,
+          "transcripts": [
+           {
+            "id": "16/188542-190021",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 190,
+            "text": " What would you talk about first?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "17/190021-193737",
+            "startTimeInSeconds": 190,
+            "endTimeInSeconds": 193,
+            "text": " The first and probably most important section would be academics.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           },
+           {
+            "id": "18/193737-198825",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 198,
+            "text": " Good idea. So would you provide guidance on what courses to take?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "19/198825-209885",
+            "startTimeInSeconds": 198,
+            "endTimeInSeconds": 209,
+            "text": " We want to focus especially on the approaches professors take - their teaching methods. It is far different than what students are used to in high school, and even in liberal arts college.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           }
+          ]
+         },
+         "value": "teaching methods",
+         "blankId": "qtelJ1IQM1JGbF33ZMmFe"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến nghe tới \\\"\"},{\"text\":\"we have some ideas\\\" \",\"bold\":true},{\"text\":\"và \\\"\"},{\"text\":\"we're not really sure how to tie it all together\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chưa biết làm thế nào để tóm tắt lại hết các ý này \\n=>\"},{\"text\":\" Cần một tên topic chung\",\"bold\":true},{\"text\":\" cho phần này \\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I think it would be suitable to\"},{\"text\":\" tiltle that section 'accommodation\",\"bold\":true},{\"text\":\"' \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tutor gợi ý \"},{\"text\":\"đặt tên phần này là accommodation \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: accommodation \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 217,
+          "endTimeInSeconds": 242,
+          "transcripts": [
+           {
+            "id": "22/217915-226370",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 226,
+            "text": " We also have some ideas for talking about housing, food options, and stuff like that. We’re not really sure how to tie it all together though.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           },
+           {
+            "id": "23/226370-231523",
+            "startTimeInSeconds": 226,
+            "endTimeInSeconds": 231,
+            "text": " I think it would be suitable to title that section accommodation - what do you think?",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "24/231523-242800",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 242,
+            "text": " That could work. We’ll definitely describe the different dining options at the cafeteria, and then walk students through flats and the grueling process of finding one near the business school campus.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           }
+          ]
+         },
+         "value": "accommodation",
+         "blankId": "flXbB9j23BgnZrTeiYNCX"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"....different options at the \"},{\"text\":\"cafeteria\\\" \",\"bold\":true},{\"text\":\"(ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"... and then \"},{\"text\":\"walk students through flats\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đề cập sơ tới các \"},{\"text\":\"căn hộ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Gina hỏi \\\"we would \"},{\"text\":\"cover \",\"bold\":true},{\"text\":\"specifics on \"},{\"text\":\"the cafeteria\",\"bold\":true},{\"text\":\", as well as \"},{\"text\":\"flats\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Mark trả lời \\\"I think\"},{\"text\":\" those are both helpful\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sẽ\"},{\"text\":\" bao gồm các vấn đề cụ thể về cafeteria \",\"bold\":true},{\"text\":\"cũng như \"},{\"text\":\"flats \",\"bold\":true},{\"text\":\"trong phần này \\n=> \"},{\"text\":\"Đáp án:  flats \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 258,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "28/258741-263096",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 263,
+            "text": " We definitely want to go over the social aspect of attending school here",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           },
+           {
+            "id": "29/263096-269117",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " Of course. I think it’s good to have a little fun once in a while when you’re working so hard in school.",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "30/269117-279970",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 279,
+            "text": " I think we are going to introduce new students to the disco that so many upperclassmen know and love. Maybe we’ll include a few other places too, but that’s the main one.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           }
+          ]
+         },
+         "value": "flats",
+         "blankId": "-7dD5sJhaUbPBPSv5DsAM"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"go over the social aspect \",\"bold\":true},{\"text\":\"(ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy \\\"I think we are going to\"},{\"text\":\" introduce new students to the disco\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"    Sau đó nghe tiếp thấy \\\" maybe we'll include a few other places too, \"},{\"text\":\"but that's the main one \",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bắt buộc \"},{\"text\":\"phải có disco trong plan\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Đáp án: disco \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 258,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "28/258741-263096",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 263,
+            "text": " We definitely want to go over the social aspect of attending school here",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           },
+           {
+            "id": "29/263096-269117",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " Of course. I think it’s good to have a little fun once in a while when you’re working so hard in school.",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "30/269117-279970",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 279,
+            "text": " I think we are going to introduce new students to the disco that so many upperclassmen know and love. Maybe we’ll include a few other places too, but that’s the main one.",
+            "character": {
+             "id": "REo8HlsqTrfuztWpPgYXF",
+             "name": "Mark"
+            }
+           }
+          ]
+         },
+         "value": "disco",
+         "blankId": "Zk6dFnlSIgoPrw9MSA2jV"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we're also going to\"},{\"text\":\" invite students to the international evening\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mời sinh viên tới tham dự\"},{\"text\":\" international evening\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: international evening \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 279,
+          "endTimeInSeconds": 291,
+          "transcripts": [
+           {
+            "id": "31/279970-291443",
+            "startTimeInSeconds": 279,
+            "endTimeInSeconds": 291,
+            "text": " We’re also going to invite students to the international evening taking place in the first week of school as a great chance for our large international student population to meet a lot of other new students.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           }
+          ]
+         },
+         "value": "international evening",
+         "blankId": "VTUwM_Q2PvnNSsvWoyz5s"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\"},{\"text\":\" thời lượng của phần conclusion\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"the introduction should take 3 minutes, and then the \"},{\"text\":\"conclusion should take 4\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần conclusion \"},{\"text\":\"nên dài 4 phút \",\"bold\":true},{\"text\":\"\\n=> Tuy nhiên\"},{\"text\":\" chưa thấy nhắc gì tới từ nearly \",\"bold\":true},{\"text\":\"trong đề nên cần nghe thêm\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy tutor góp ý \\\"the \"},{\"text\":\"conclusion\",\"bold\":true},{\"text\":\", though, can be shorter và give that\"},{\"text\":\" not more than 2 minutes\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Phần kết chỉ cần khoảng 2 phút thôi\",\"bold\":true},{\"text\":\" (not more than = nearly) \\n=>\"},{\"text\":\" Đáp án: 2 minutes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 305,
+          "endTimeInSeconds": 333,
+          "transcripts": [
+           {
+            "id": "34/305843-316212",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 316,
+            "text": " That sounds reasonable. So overall, the introduction should take 3 minutes, and then the conclusion should take 4, giving us a total of 28 minutes.",
+            "character": {
+             "id": "we1UftH7_bI5m0wqGKaRr",
+             "name": "Gina"
+            }
+           },
+           {
+            "id": "35/316212-333745",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 333,
+            "text": " I wouldn’t rush your introduction. Maybe give it between 4 and 6 minutes. The conclusion, though, can be shorter since it’s just a quick refresher of each of the topics. Give that not more than 2 minutes.",
+            "character": {
+             "id": "RkKmGF68PoZDDQW2KYxLs",
+             "name": "Tutor"
+            }
+           }
+          ]
+         },
+         "value": "2 minutes",
+         "blankId": "tFp5JU2gFIRNq17Z9voqf"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "qtelJ1IQM1JGbF33ZMmFe",
+         "key": 0
+        },
+        {
+         "id": "flXbB9j23BgnZrTeiYNCX",
+         "key": 1
+        },
+        {
+         "id": "-7dD5sJhaUbPBPSv5DsAM",
+         "key": 2
+        },
+        {
+         "id": "Zk6dFnlSIgoPrw9MSA2jV",
+         "key": 3
+        },
+        {
+         "id": "VTUwM_Q2PvnNSsvWoyz5s",
+         "key": 4
+        },
+        {
+         "id": "tFp5JU2gFIRNq17Z9voqf",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ox-xpmeBfegBENluTsDQX\",\"cellsWidth\":[300,300],\"children\":[{\"type\":\"tr\",\"id\":\"MSa5UsgHNmRYdntf7o9_R\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Topic\",\"bold\":true}]}]}],\"id\":\"gXw3KUznFxstUqu0Lilnk\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Time\",\"bold\":true}]}]}],\"id\":\"04-sS13vNELbt7b039qt_\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"soSH-27FpllPuKly9smu6\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Academics\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qtelJ1IQM1JGbF33ZMmFe\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"2kWMKI01bNIlIuVgSR0Ny\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"7 minutes\"}]}]}],\"id\":\"4kvQABgx_KMitqZzF_2Wa\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"YKB2jZdKMLQtm3dDoEWQz\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"flXbB9j23BgnZrTeiYNCX\",\"text\":\"\"}]},{\"text\":\"\\nCafeteria\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"-7dD5sJhaUbPBPSv5DsAM\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"RpP2xJuYoVFBG8Yw5mR3T\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"6 minutes\"}]}]}],\"id\":\"5_9UlGsusiElN-9eyWP8d\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"QX3YIiFST1QSzPp0UifPt\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Social activity\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Zk6dFnlSIgoPrw9MSA2jV\",\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"VTUwM_Q2PvnNSsvWoyz5s\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"yUmgWF4PAaiwi8wY5E2eQ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"8 minutes\"}]}]}],\"id\":\"Zz6Z1yqJkdzr5F4NhATlP\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"9zS_zmfkajDfzfCHclKdB\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Conclusion\"}]}]}],\"id\":\"0xwB4dLENWL6_C8TPd_qN\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Nearly \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"tFp5JU2gFIRNq17Z9voqf\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"58jTlSXm5Oq0ohMxXD00x\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":600,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research Project",
+   "duration": 6,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "22f3c605-7746-11ec-a497-c14ffc64f3ac",
+     "questions": [
+      {
+       "uuid": "22f3ed16-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "The subjects in questionnaire are",
+       "options": [
+        {
+         "key": 0,
+         "value": "tourists in the hotel in this area"
+        },
+        {
+         "key": 1,
+         "value": "local residents"
+        },
+        {
+         "key": 2,
+         "value": "people who are living in this area"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe John nói \\\"I created a \"},{\"text\":\"questionnaire\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" mục đích của study\",\"bold\":true},{\"text\":\" là để \\\"determine \"},{\"text\":\"people's opinions\",\"bold\":true},{\"text\":\" of\"},{\"text\":\" \",\"bold\":true},{\"text\":\"the relative \"},{\"text\":\"feasibility of earning a living in Brisbane\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn tìm hiểu \"},{\"text\":\"ý kiến của mọi người về sự khả thi của việc kiếm sống ở Brisbane\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đối tượng khảo sát\",\"bold\":true},{\"text\":\" là \"},{\"text\":\"tất cả mọi người đang làm việc\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" sinh sống trong khu vực\",\"bold\":true},{\"text\":\" chứ không phải chỉ những người được sinh ra và lớn lên tại đây (local residents) \\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 55,
+          "endTimeInSeconds": 67,
+          "transcripts": [
+           {
+            "id": "0/55960-59023",
+            "startTimeInSeconds": 55,
+            "endTimeInSeconds": 59,
+            "text": " So tell me about your research project, John",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "1/59023-67444",
+            "startTimeInSeconds": 59,
+            "endTimeInSeconds": 67,
+            "text": " I created a questionnaire for the study to determine people’s opinions of the relative feasibility of earning a living in Brisbane.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22f43b37-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "The results of the questionnaire should be",
+       "options": [
+        {
+         "key": 0,
+         "value": "directly entered into the computer"
+        },
+        {
+         "key": 1,
+         "value": "scored by hand"
+        },
+        {
+         "key": 2,
+         "value": "submitted directly to Professor Curran"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" kết quả của questionnaire \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \"},{\"text\":\"\\\"How is it scored?\\\"  \",\"bold\":true},{\"text\":\"(hỏi về kết quả và cách tính điểm của bài trắc nghiệm)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"participants will \"},{\"text\":\"use a computer to fill in their answer\",\"bold\":true},{\"text\":\"; that way it is really easy to analyze the data afterward\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dữ liệu (data) ở đây là kết quả của bài trắc nghiệm\",\"bold\":true},{\"text\":\" sau khi mọi người đã nhập thông tin vào \\n=>\"},{\"text\":\" Kết quả được nhập trực tiếp vào máy tính \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"Just don't forget to \"},{\"text\":\"submit a copy of your plans to Professor Curran\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nộp bản kế hoạch cho professor\",\"bold\":true},{\"text\":\"; không phải là nộp kết quả \\n=>\"},{\"text\":\" Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 67,
+          "endTimeInSeconds": 99,
+          "transcripts": [
+           {
+            "id": "2/67444-72186",
+            "startTimeInSeconds": 67,
+            "endTimeInSeconds": 72,
+            "text": " Oh, cool. How is it scored? Are they all multiple choice questions?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "3/72186-88209",
+            "startTimeInSeconds": 72,
+            "endTimeInSeconds": 88,
+            "text": " Well, the questions consist primarily of yes/no responses. There are two free response questions at the end. Participants will use a computer to fill in their answer; that way it is really easy to analyse the data afterward.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "4/88209-99198",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 99,
+            "text": " Great! It sounds like you have a pretty solid idea of what you should do. Just don't forget to submit a copy of your plans to Professor Curran by the 15th.",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22f43b38-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "Why should John give a copy of plans to the professor?",
+       "options": [
+        {
+         "key": 0,
+         "value": "to receive a good grade"
+        },
+        {
+         "key": 1,
+         "value": "to get advice "
+        },
+        {
+         "key": 2,
+         "value": "to earn high praise"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"lý do phải gửi bản copy kế hoạch cho Professor Curranghe \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"you \"},{\"text\":\"don’t do it for high grade\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"praise\",\"bold\":true},{\"text\":\", but\"},{\"text\":\" he can review and give you feedback\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mục đích nộp bản kế hoạc\"},{\"text\":\"h không phải là để lấy điểm \",\"bold\":true},{\"text\":\"hay \"},{\"text\":\"lời khen \",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Loại đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> Mà là \"},{\"text\":\"để lấy phản hồi và lời khuyên từ thầy \",\"bold\":true},{\"text\":\"(feedback ~ advice) =>\"},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 88,
+          "endTimeInSeconds": 114,
+          "transcripts": [
+           {
+            "id": "4/88209-99198",
+            "startTimeInSeconds": 88,
+            "endTimeInSeconds": 99,
+            "text": " Great! It sounds like you have a pretty solid idea of what you should do. Just don't forget to submit a copy of your plans to Professor Curran by the 15th.",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "5/99198-101371",
+            "startTimeInSeconds": 99,
+            "endTimeInSeconds": 101,
+            "text": " Oh, I almost forgot!",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "6/101371-107647",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 107,
+            "text": " Hm, you don’t do it for high grade or praise, but he can review and give you feedback.",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "7/107647-114177",
+            "startTimeInSeconds": 107,
+            "endTimeInSeconds": 114,
+            "text": " Right, that will be helpful - he has been conducting studies like this for 30 years now.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22f43b39-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "How will the instructions be presented?",
+       "options": [
+        {
+         "key": 0,
+         "value": "given by a group representative"
+        },
+        {
+         "key": 1,
+         "value": "given by all members of the group"
+        },
+        {
+         "key": 2,
+         "value": "given by the professor"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"Are you going to be in the room \"},{\"text\":\"giving subjects directions...\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"\\\"the instructions\",\"bold\":true},{\"text\":\" will be \"},{\"text\":\"provided by another representative\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Một người đại diện khác sẽ hướng dẫn\",\"bold\":true},{\"text\":\" các người tham gia cách điền khảo sát \\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 114,
+          "endTimeInSeconds": 137,
+          "transcripts": [
+           {
+            "id": "8/114177-121152",
+            "startTimeInSeconds": 114,
+            "endTimeInSeconds": 121,
+            "text": " Yep, oh and I’m curious - are you going to be in the room giving subjects directions for the questionnaire?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "9/121152-137131",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 137,
+            "text": " Well, I think the instructions will be provided by another representative who will not be analysing the data. I want them to feel they can answer and be completely anonymous, so I will not be in the room. Anonymity is really important for this study.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22f43b3a-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "What does Dani suggest to John when those subjects receive the questionnaire?",
+       "options": [
+        {
+         "key": 0,
+         "value": "divide into 2 parts to argue"
+        },
+        {
+         "key": 1,
+         "value": "focus on the opinion of the interviewees"
+        },
+        {
+         "key": 2,
+         "value": "take consideration of both sides"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy Dani nói tiếp \\\"you should tell the representative to\"},{\"text\":\" remind subjects to fully consider both sides of each issue\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nên nhắc những người tham gia\",\"bold\":true},{\"text\":\" là nhớ \"},{\"text\":\"cân nhắc kĩ cả hai mặt của mỗi vấn đề \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" John đồng ý và nói là \\\"\"},{\"text\":\"I'll make sure to include that in the instructions\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 137,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "10/137131-154857",
+            "startTimeInSeconds": 137,
+            "endTimeInSeconds": 154,
+            "text": " I agree. Good idea. You should tell the representative to remind subjects to fully consider both sides of each issue. Sometimes it’s really easy to immediately check “yes” or “no” without stopping to think about it completely.",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "11/154857-165836",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 165,
+            "text": " That’s so true! It’s like a race to finish the questionnaire first or something. I’ll make sure to include that in the instructions. This report has to be perfect!",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "22f43b3b-7746-11ec-a497-c14ffc64f3ac",
+       "type": "SINGLE_ANSWER",
+       "question": "Why is this project particularly important to John?",
+       "options": [
+        {
+         "key": 0,
+         "value": "to earn respect from professors in the department"
+        },
+        {
+         "key": 1,
+         "value": "to raise his grade "
+        },
+        {
+         "key": 2,
+         "value": "to impress his professor"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe John nói \\\"\"},{\"text\":\"this report has to be perfect\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là đây là \"},{\"text\":\"một bài quan trọng đối với John \",\"bold\":true},{\"text\":\"\\n=> Biết đáp ná sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy John giải thích là \\\"\"},{\"text\":\"a well-executed study could grab the attention of faculty in the department\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sau đó nghe tiếp thấy John giải thích thêm là \\\"\"},{\"text\":\"I could really gain the respect of professors\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Muốn\"},{\"text\":\" gây sự chú ý cho các giáo sư trong khoa\",\"bold\":true},{\"text\":\" và đạt được sự tôn trọng của họ, chứ \"},{\"text\":\"không phải chỉ cho một giáo sư của anh ấy \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 154,
+          "endTimeInSeconds": 189,
+          "transcripts": [
+           {
+            "id": "11/154857-165836",
+            "startTimeInSeconds": 154,
+            "endTimeInSeconds": 165,
+            "text": " That’s so true! It’s like a race to finish the questionnaire first or something. I’ll make sure to include that in the instructions. This report has to be perfect!",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "12/165836-171151",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 171,
+            "text": " Wow, what’s the big deal? I know it’s part of your grade and all…",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "13/171151-179040",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 179,
+            "text": " Well it’s that, but also a well-executed study could grab the attention of faculty in the department, which would be a huge deal.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "14/179040-181283",
+            "startTimeInSeconds": 179,
+            "endTimeInSeconds": 181,
+            "text": " So… for attention?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "15/181283-189679",
+            "startTimeInSeconds": 181,
+            "endTimeInSeconds": 189,
+            "text": " No silly! I mean I could really gain the respect of professors who may later take me on as a graduate student in their labs.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "22f4624c-7746-11ec-a497-c14ffc64f3ac",
+     "questions": [
+      {
+       "uuid": "22f4895d-7746-11ec-a497-c14ffc64f3ac",
+       "type": "MATCHING_FEATURE_NAME",
+       "options": [
+        {
+         "key": 0,
+         "value": "radio"
+        },
+        {
+         "key": 1,
+         "value": "council meeting"
+        },
+        {
+         "key": 2,
+         "value": "the television"
+        },
+        {
+         "key": 3,
+         "value": "newspaper"
+        },
+        {
+         "key": 4,
+         "value": "journal"
+        },
+        {
+         "key": 5,
+         "value": "the Internet"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tới \\\"\"},{\"text\":\"the map\\\" \",\"bold\":true},{\"text\":\"và \\\"\"},{\"text\":\"where did you find it\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I [...] just \"},{\"text\":\"noticed this one in \",\"bold\":true},{\"text\":\"a small psychology \"},{\"text\":\"journal\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tìm được trong một cuốn tạp chí\",\"bold\":true},{\"text\":\" khoa học về tâm lý học \\n=> \"},{\"text\":\"Chọn đáp án E\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 228,
+          "endTimeInSeconds": 254,
+          "transcripts": [
+           {
+            "id": "17/228133-237103",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 237,
+            "text": " Let me take a look at the survey. Wow, this looks great! The map of the median income by region is a great tool - where did you find it?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "18/237103-254884",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 254,
+            "text": " Well thanks! I read a lot of sources and just noticed this one in a small psychology journal called Modern Psychology. It’s more helpful than the photo I added, but I think the photo is just so interesting. It was in the newspaper last year during that huge wage strike.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"...but I think \"},{\"text\":\"the photo \",\"bold\":true},{\"text\":\"is just so interesting\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"it was \"},{\"text\":\"in the newspaper\",\"bold\":true},{\"text\":\" last year\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Tấm hình nằm trong một tờ báo\",\"bold\":true},{\"text\":\" năm ngoái \\n=>\"},{\"text\":\" Chọn đáp án D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 237,
+          "endTimeInSeconds": 275,
+          "transcripts": [
+           {
+            "id": "18/237103-254884",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 254,
+            "text": " Well thanks! I read a lot of sources and just noticed this one in a small psychology journal called Modern Psychology. It’s more helpful than the photo I added, but I think the photo is just so interesting. It was in the newspaper last year during that huge wage strike.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "19/254884-263791",
+            "startTimeInSeconds": 254,
+            "endTimeInSeconds": 263,
+            "text": " It’s great. Probably not necessary, but it looks great. I don’t understand - what is WKRX’s involvement here?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "20/263791-269329",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " Oh - the radio station agreed to sponsor the study if I play their station in the room.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "21/269329-274056",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 274,
+            "text": " Wow, interesting. So you don’t have to pay for any of this?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "22/274056-275078",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 275,
+            "text": " Exactly.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"the radio station agreed to sponsor the study\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Kênh radio\",\"bold\":true},{\"text\":\" đồng ý \"},{\"text\":\"tài trợ cho nghiên cứu này \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy Dani hỏi là \\\"\"},{\"text\":\"you don't have to pay for any of this?\\\" \",\"bold\":true},{\"text\":\"và John xác nhận là \"},{\"text\":\"không cần trả tiền \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là \"},{\"text\":\"ngân sách cho nghiên cứu\",\"bold\":true},{\"text\":\" này được chi trả hoàn toàn\"},{\"text\":\" do radio tài trợ \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 275,
+          "transcripts": [
+           {
+            "id": "20/263791-269329",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " Oh - the radio station agreed to sponsor the study if I play their station in the room.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           },
+           {
+            "id": "21/269329-274056",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 274,
+            "text": " Wow, interesting. So you don’t have to pay for any of this?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "22/274056-275078",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 275,
+            "text": " Exactly.",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe Dani hỏi \\\"\"},{\"text\":\"where did you get that idea?\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" John trả lời \",\"bold\":true},{\"text\":\"\\\"last month \"},{\"text\":\"at the Psychology Club council meeting \",\"bold\":true},{\"text\":\"someone talked about \"},{\"text\":\"how easy it is to get sponsorship from local businesses\",\"bold\":true},{\"text\":\", so I \"},{\"text\":\"listened to their advice\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Trong cuộc họp hội đồng\",\"bold\":true},{\"text\":\" của câu lạc bộ tâm lý học c\"},{\"text\":\"ó người nhắc tới ý tưởng kêu gọi sự tài trợ từ các doanh nghiệp\",\"bold\":true},{\"text\":\" trong khu vực và John nghe theo lời khuyên \\n=> \"},{\"text\":\"Tức là comment được bắt nguồn từ council meeting \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 275,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "23/275078-277547",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 277,
+            "text": " Nice! Where did you get that idea?",
+            "character": {
+             "id": "9T0kNZEhL_j3m8K-lZefh",
+             "name": "Dani"
+            }
+           },
+           {
+            "id": "24/277547-288713",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 288,
+            "text": " Last month at the Psychology Club Council meeting someone talked about how easy it is to get sponsorship from local businesses, so I listened to their advice and called around!",
+            "character": {
+             "id": "_3QpHPAMazW9KlnLRGz16",
+             "name": "John"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 4,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "Map"
+        },
+        {
+         "key": 1,
+         "value": "Photo"
+        },
+        {
+         "key": 2,
+         "value": "Budget"
+        },
+        {
+         "key": 3,
+         "value": "Comment"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_FEATURE_NAME",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What is the source of each one below in this survey?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FOUR ",
+          "bold": true
+         },
+         {
+          "text": "answer from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F",
+          "bold": true
+         },
+         {
+          "text": ", next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "FOUR ",
+          "bold": true
+         },
+         {
+          "text": "answer from the box and write the correct letter, "
+         },
+         {
+          "text": "A-F",
+          "bold": true
+         },
+         {
+          "text": ", next to questions."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Pleasanton Town Market",
+   "duration": 7,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "8ba89588-7746-11ec-82cb-e56b9da6ed07",
+     "questions": [
+      {
+       "uuid": "8ba89589-7746-11ec-82cb-e56b9da6ed07",
+       "type": "SINGLE_ANSWER",
+       "question": "Why did the lecturer choose to focus on the Pleasanton Town Market?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It was the first ever Town Market"
+        },
+        {
+         "key": 1,
+         "value": "It has been covered extensively in local history classes"
+        },
+        {
+         "key": 2,
+         "value": "It is often mentioned in some literature of the library"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe\",\"marks\":[]},{\"text\":\" lý do lecturer tập tung vào Pleasanton Town Market\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"Pleasanton Town Market\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"why are we talking about some market\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"\\\"it's not like\",\"bold\":true},{\"text\":\" it was the\"},{\"text\":\" first market ever\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không phải là chợ đầu tiên\",\"bold\":true},{\"text\":\" trong lịch sử \\n=>\"},{\"text\":\" Không phải là lý do\",\"bold\":true},{\"text\":\" mà speaker \"},{\"text\":\"chọn nói về chợ này \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the Pleasanton Town Market is \"},{\"text\":\"important because it is often mentioned in the literature\",\"bold\":true},{\"text\":\" found in the \"},{\"text\":\"library\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khu chợ này \"},{\"text\":\"quan trọng do nó thường được nhắc tới trong các tác phẩm văn học được tìm thấy trong thư viện\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Chọn đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 63,
+          "endTimeInSeconds": 101,
+          "transcripts": [
+           {
+            "id": "0/63350-77487",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 77,
+            "text": "Good afternoon. In the last few lectures we’ve been covering the social and political pressures that influenced the rise of the rebellion of 1679. Today I would like to focus on the Pleasanton Town Market."
+           },
+           {
+            "id": "1/77487-101872",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 101,
+            "text": "Now, why are we talking all about some market? It’s not like it was the first market ever, or even a particular large market. The Pleasanton Town Market is important because it is often mentioned in the literature found in the library. If you have ever been there, you have probably seen all of the hand-crafted items sold there now. But what was originally bought and sold in the town market?"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "8ba8958a-7746-11ec-82cb-e56b9da6ed07",
+       "type": "SINGLE_ANSWER",
+       "question": "The Town Market originally made a large profit selling",
+       "options": [
+        {
+         "key": 0,
+         "value": "handcrafts"
+        },
+        {
+         "key": 1,
+         "value": "vegetables"
+        },
+        {
+         "key": 2,
+         "value": "animals"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"Town Market ban đầu kiếm được nhiều lợi nhuận nhờ bán cái gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"what was originally bought and sold in the town market? \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"in the beginning\",\"bold\":true},{\"text\":\", the market\"},{\"text\":\" sold products such as meats\",\"bold\":true},{\"text\":\", \"},{\"text\":\"furs\",\"bold\":true},{\"text\":\", and\"},{\"text\":\" simple tools\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Ban đầu thì bán\",\"bold\":true},{\"text\":\" những thứ như\"},{\"text\":\" thịt, lông thú, và các công cụ đơn giản \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"over time\",\"bold\":true},{\"text\":\", it became\"},{\"text\":\" known as the place to find quality livestock. People came from all over the world\",\"bold\":true},{\"text\":\" to find the biggest and best cows, pigs, and chickens \\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\" =>\"},{\"text\":\" Mọi người đến từ khắp nơi trên thế \",\"bold\":true},{\"text\":\"giới để tìm mua bò, heo và gà \\n=> \"},{\"text\":\"Bán gia súc gia cầm là nguồn thu nhập lớn nhất\",\"bold\":true},{\"text\":\" của chợ này \\n=> \"},{\"text\":\"Chọn đáp án C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 77,
+          "endTimeInSeconds": 125,
+          "transcripts": [
+           {
+            "id": "1/77487-101872",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 101,
+            "text": "Now, why are we talking all about some market? It’s not like it was the first market ever, or even a particular large market. The Pleasanton Town Market is important because it is often mentioned in the literature found in the library. If you have ever been there, you have probably seen all of the hand-crafted items sold there now. But what was originally bought and sold in the town market?"
+           },
+           {
+            "id": "2/101872-125503",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 125,
+            "text": "In the beginning, the market sold products such as meats, furs, and simple tools. Overtime, though, it became known as the place to find quality livestock. People came from all over the world to find the biggest and best cows, pigs, and chickens. In fact, the profits from the Town Market became the savior of a plummeting economy during a time of much turmoil."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "8ba8958b-7746-11ec-82cb-e56b9da6ed07",
+       "type": "SINGLE_ANSWER",
+       "question": "The money that the marketers made contributes to local",
+       "options": [
+        {
+         "key": 0,
+         "value": "reconstruction"
+        },
+        {
+         "key": 1,
+         "value": "development"
+        },
+        {
+         "key": 2,
+         "value": "defense"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\",\"marks\":[]},{\"text\":\" lợi nhuận từ chợ đóng góp cho cái gì ở địa phương\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp sắp tới khi nghe\"},{\"text\":\" \\\"the profits from the Town Market..\\\" \",\"bold\":true},{\"text\":\" (=money marketers made) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \\\"not to be confused with the reconstruction era\",\"bold\":true},{\"text\":\", a period of\"},{\"text\":\" rapid development came about\",\"bold\":true},{\"text\":\" [...] \"},{\"text\":\"as a result of the market's vendors contributing their profits\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không bị nhầm lẫn với thời kì phục hưng\",\"bold\":true},{\"text\":\", một khoảng thời gian bao gồm nhiều sự \"},{\"text\":\"phát triển nhanh chóng xảy ra do các tiểu thương trong chợ đóng góp phần lợi nhuận của họ \",\"bold\":true},{\"text\":\"\\n=> Tiền được đóng góp \"},{\"text\":\"không phải cho local reconstruction\",\"bold\":true},{\"text\":\", mà \"},{\"text\":\"cho local development \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy có nhắc tới \\\"...to building up much needed public \"},{\"text\":\"facilities \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"defense\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Xây dụng \"},{\"text\":\"defense chỉ là một ví dụ trong local development \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 101,
+          "endTimeInSeconds": 143,
+          "transcripts": [
+           {
+            "id": "2/101872-125503",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 125,
+            "text": "In the beginning, the market sold products such as meats, furs, and simple tools. Overtime, though, it became known as the place to find quality livestock. People came from all over the world to find the biggest and best cows, pigs, and chickens. In fact, the profits from the Town Market became the savior of a plummeting economy during a time of much turmoil."
+           },
+           {
+            "id": "3/125503-143864",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 143,
+            "text": "Not to be confused with the reconstruction era, a period of rapid development came about in the 1660’s as a result of the market’s vendors contributing their profits to building up much needed public facilities and defense, which would later make a huge impact on the outcome of the war."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "8ba8958c-7746-11ec-82cb-e56b9da6ed07",
+       "type": "SINGLE_ANSWER",
+       "question": "Market sales plummeted due to a lack of viable",
+       "options": [
+        {
+         "key": 0,
+         "value": "agriculture"
+        },
+        {
+         "key": 1,
+         "value": "transport"
+        },
+        {
+         "key": 2,
+         "value": "city planning"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"market sales giảm vì thiếu cái gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"the market flourished.... \\\" \",\"bold\":true},{\"text\":\"nhưng sau đó lại nghe\"},{\"text\":\" \\\"however...\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chuẩn bị nói về \"},{\"text\":\"mặt tiêu cực, sự đi xuống của chợ \",\"bold\":true},{\"text\":\"\\n=> Có liên quan tới \"},{\"text\":\"việc giảm market sales\",\"bold\":true},{\"text\":\" \\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"more people\"},{\"text\":\" moved to farms far from the city center\",\"bold\":true},{\"text\":\"\\\" và \\\"customers grew more and \"},{\"text\":\"more reluctant to travel all the way to the town cente\",\"bold\":true},{\"text\":\"r [...] when they could easily choose to buy from local farmers...\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mọi người dần chuyển ra xa trung tâm, từ đó\"},{\"text\":\" ngại việc đi xa để đến chợ,\",\"bold\":true},{\"text\":\" thay vào đó \"},{\"text\":\"họ có thể mua ở chợ gần nhà\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Market sales giảm vì lý do đi lại\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy nhắc tới \"},{\"text\":\"city planning \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tuy nhiên \"},{\"text\":\"city planning là điều cần thiết phải làm sau khi lợi nhuận của chợ giảm sút \",\"bold\":true},{\"text\":\"chứ nó không phải là lý do dẫn tới việc sales giảm \\n=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 187,
+          "transcripts": [
+           {
+            "id": "4/143864-168953",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 168,
+            "text": "For many years, the market flourished and began to draw in large tourism crowds in addition to the throngs of livestock customers. However, as revolutions in farming came about, more people moved to farms far from the city centre. Customers grew more and more reluctant to travel all the way to the town centre for their meats when they could easily choose to buy from local farmers near them for a fraction of the price."
+           },
+           {
+            "id": "5/168953-187209",
+            "startTimeInSeconds": 168,
+            "endTimeInSeconds": 187,
+            "text": "With such a fall in the profits of the town’s major profit generator, some quality town planning was needed. In the mayoral election of 1668, a young man of little fame just barely claimed the popular vote - none other than the now legendary John C.Wiley."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "8ba8958d-7746-11ec-82cb-e56b9da6ed07",
+       "type": "SINGLE_ANSWER",
+       "question": "Mayor John C. Wiley decided the Clock tower would be used as a _____ in the early stages of the uprising",
+       "options": [
+        {
+         "key": 0,
+         "value": "clock"
+        },
+        {
+         "key": 1,
+         "value": "grounds for battle"
+        },
+        {
+         "key": 2,
+         "value": "jail"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\",\"bold\":true},{\"text\":\"none other than the now legendary \"},{\"text\":\"John C. Wiley\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"the building with the large clock\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang miêu tả\"},{\"text\":\" clock tower\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"During the historial Rotterdam rebellion, \",\"bold\":true},{\"text\":\"Wiley \"},{\"text\":\"gave\",\"bold\":true},{\"text\":\" all those involved \"},{\"text\":\"lifetime prison sentences in the\",\"bold\":true},{\"text\":\" very same \"},{\"text\":\"building\",\"bold\":true},{\"text\":\"\\\" (rebellion = uprising: cuộc nổi loạn)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>  Wiley \"},{\"text\":\"cho những người có liên quan tới cuộc nổi loạn án tù chung thân\",\"bold\":true},{\"text\":\" ngay \"},{\"text\":\"trong tòa nhà đó\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đó nghe thêm là \\\"it \"},{\"text\":\"stayed a prison\",\"bold\":true},{\"text\":\" for about 50 more years\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nơi này tiếp tục\"},{\"text\":\" làm nhà tù \",\"bold\":true},{\"text\":\"trong vòng 50 năm sau \\n=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 168,
+          "endTimeInSeconds": 220,
+          "transcripts": [
+           {
+            "id": "5/168953-187209",
+            "startTimeInSeconds": 168,
+            "endTimeInSeconds": 187,
+            "text": "With such a fall in the profits of the town’s major profit generator, some quality town planning was needed. In the mayoral election of 1668, a young man of little fame just barely claimed the popular vote - none other than the now legendary John C.Wiley."
+           },
+           {
+            "id": "6/187209-203846",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 203,
+            "text": "Wiley’s first decision as mayor of Pleasanton was to deal with the quickly failing Town Market. The building with the large clock was a landmark that had symbolised growth in Pleasanton for a generation. Wiley decided to use the notoriety of the Town Market to set an example."
+           },
+           {
+            "id": "7/203846-220960",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 220,
+            "text": "During the historical Rotterdam Rebellion, Wiley gave all those involved lifetime prison sentences in the very same building. It stayed a prison for about 50 more years until they transported all remaining prisoners to other facilities and turned it into the historical monument today."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "8ba8958e-7746-11ec-82cb-e56b9da6ed07",
+     "questions": [
+      {
+       "uuid": "fVUk3J2y-3TMMgDF9PrtE",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley38\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"the \"},{\"text\":\"library's reference section\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I suggest starting by\"},{\"text\":\" looking for information on the market\",\"bold\":true},{\"text\":\" itself\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bắt đầu bằng cách\"},{\"text\":\" tìm kiếm thông tin về chợ \",\"bold\":true},{\"text\":\"ngay từ trong phần sách tham khảo trong thư viện \\n=> \"},{\"text\":\"Đáp án: market \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 240,
+          "endTimeInSeconds": 260,
+          "transcripts": [
+           {
+            "id": "9/240824-260256",
+            "startTimeInSeconds": 240,
+            "endTimeInSeconds": 260,
+            "text": "I will give you some class time to look through the library’s reference section, but you will be responsible for conducting further research outside of class. I suggest starting by looking for information on the market itself. You’ll find plenty of information - in fact, some students complain that there is actually too much information on it."
+           }
+          ]
+         },
+         "value": "market",
+         "blankId": "Ru4MqIN-zWq3Gy3ox4zeZ"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"On your own time, find \"},{\"text\":\"family members of old war veterans to\",\"bold\":true},{\"text\":\" \"},{\"text\":\"conduct interviews\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tìm các gia đình của các cựu chiến sĩ \"},{\"text\":\"để phỏng vấn \",\"bold\":true},{\"text\":\"\\n=> Phương pháp \"},{\"text\":\"nghiên cứu về cuộc nổi dậy là qua phỏng vấn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: interviews \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 260,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "10/260256-276467",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 276,
+            "text": "On your own time, you could find family members of old war veterans to conduct interviews. Sometimes they provide wonderful insight that you wouldn’t find in proper history books, but be careful - an interview that is riddled with bias is useless."
+           }
+          ]
+         },
+         "value": "interviews",
+         "blankId": "0hRsmDKB9XGdP3FY8lHXT"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley45\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true,\"underline\":true},{\"text\":\"Sau khi về những lợi ích thu được từ interviews, speaker nói\",\"underline\":true},{\"text\":\" \\\" but be careful ...\\\" \",\"bold\":true,\"underline\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cẩn thận kẻo mắc phải\"},{\"text\":\" vấn đề với phương pháp này \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley24\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"an interview\",\"bold\":true},{\"text\":\" that is \"},{\"text\":\"riddled with bias is useless\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một cuộc \"},{\"text\":\"phỏng vấn mà chứa đầy thành kiến\",\"bold\":true},{\"text\":\" hay \"},{\"text\":\"thiên vị \",\"bold\":true},{\"text\":\"thì sẽ trở nên \"},{\"text\":\"vô dụng\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Thành kiến sẽ làm phỏng vấn vô dụng\",\"bold\":true},{\"text\":\", không sử dụng được \\n=> \"},{\"text\":\"Đáp án: useless \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 260,
+          "endTimeInSeconds": 276,
+          "transcripts": [
+           {
+            "id": "10/260256-276467",
+            "startTimeInSeconds": 260,
+            "endTimeInSeconds": 276,
+            "text": "On your own time, you could find family members of old war veterans to conduct interviews. Sometimes they provide wonderful insight that you wouldn’t find in proper history books, but be careful - an interview that is riddled with bias is useless."
+           }
+          ]
+         },
+         "value": "useless",
+         "blankId": "zXrij55PdOsSnfVT9aFEP"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"I myself have \"},{\"text\":\"some very old photographs\",\"bold\":true},{\"text\":\" [...] I'm lucky enough to\"},{\"text\":\" own this one of Jim Wiley himself \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Có một tấm hình của Jim Wiley\",\"bold\":true},{\"text\":\" mà có thể \"},{\"text\":\"sử dụng trong quá trình nghiên cứu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley6\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"Very interesting to see, but \"},{\"text\":\"does not provide enough information\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bức hình\"},{\"text\":\" không cung cấp đủ thông tin\",\"bold\":true},{\"text\":\" \\n=> Đây là \"},{\"text\":\"problem của dạng research method\",\"bold\":true},{\"text\":\" mình đang cần nghe \\n=>\"},{\"text\":\" Đáp án: photographs \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 276,
+          "endTimeInSeconds": 291,
+          "transcripts": [
+           {
+            "id": "11/276467-291954",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 291,
+            "text": "I myself have some very old photographs here that you are welcome to take a look at for some inspiration. I’m lucky enough to own this one of Jim Wiley himself! Very interesting to see, but does not provide enough information to add much to film."
+           }
+          ]
+         },
+         "value": "photographs",
+         "blankId": "sH38DvReVwFBiBw2Jnqb3"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe speaker đề cập tới \\\"\"},{\"text\":\"crime thriller\\\"\",\"bold\":true},{\"text\":\" và \\\"\"},{\"text\":\"all you would have to do is\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang chuẩn bị \"},{\"text\":\"gợi ý một cách làm\",\"bold\":true},{\"text\":\" hay một \"},{\"text\":\"phương pháp mới \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"look through\",\"bold\":true},{\"text\":\" the\"},{\"text\":\" newspaper archives\",\"bold\":true},{\"text\":\" in the \"},{\"text\":\"crime section\",\"bold\":true},{\"text\":\" during that time period\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Xem qua kho lưu trữ báo trong thời ký đó\",\"bold\":true},{\"text\":\", cụ thể là \"},{\"text\":\"xem mục tội phạm\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Mục đích là để điều tra về các loại tội phạm\",\"bold\":true},{\"text\":\" trong khoảng thời gian đó \\n=>\"},{\"text\":\" Đáp án: crime \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 291,
+          "endTimeInSeconds": 312,
+          "transcripts": [
+           {
+            "id": "12/291954-312060",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 312,
+            "text": "Feel free to take this film into whatever direction you choose. You could even do a crime thriller based on real outlaws. All you would have to do is look through the newspaper archives in the crime section during that time period. Try to get as much detail as you can, but you may end up having to draw your own conclusions."
+           }
+          ]
+         },
+         "value": "crime",
+         "blankId": "t6Ff5wq3fEbWapOp0k_73"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "Ru4MqIN-zWq3Gy3ox4zeZ",
+         "key": 0
+        },
+        {
+         "id": "0hRsmDKB9XGdP3FY8lHXT",
+         "key": 1
+        },
+        {
+         "id": "zXrij55PdOsSnfVT9aFEP",
+         "key": 2
+        },
+        {
+         "id": "sH38DvReVwFBiBw2Jnqb3",
+         "key": 3
+        },
+        {
+         "id": "t6Ff5wq3fEbWapOp0k_73",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"E03F6MoylgWeTPCgE2o3L\",\"cellsWidth\":[197,204,260],\"children\":[{\"type\":\"tr\",\"id\":\"H5J0dfRKsuPPP8mUW13T9\",\"children\":[{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Research Methods\",\"bold\":true}]}]}],\"id\":\"ra6s8Nu6UDXB_86I97XEy\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Objects\",\"bold\":true}]}]}],\"id\":\"L1A8n2FL7UXe3Rx2inRKi\"},{\"type\":\"td\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Problems\",\"bold\":true}]}]}],\"id\":\"9S7DN-AwoGRPbMKxa1l9X\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"HPstUb-gnb6KaPyOjrOG6\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Reference section\"}]}]}],\"id\":\"M1_YUbU9z5rvGFHKJE5vr\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Ru4MqIN-zWq3Gy3ox4zeZ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"oP4FW9LXTWhVN6hen2NV0\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There is too much information\"}]}]}],\"id\":\"O6AovmqGroOChChUFBf0L\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"YUHeBLPvim5ofq6cnkcuE\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"0hRsmDKB9XGdP3FY8lHXT\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"AqqYyiOOqBactUlIHrCo7\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rebellion\"}]}]}],\"id\":\"ULfZWfTVBYzYpko9cucl1\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Bias makes it\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zXrij55PdOsSnfVT9aFEP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"TYdCbcxhWfPSqm4WcX62Z\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"oumQ95KiVM3GM1VFUWY2R\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"sH38DvReVwFBiBw2Jnqb3\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"hy87E7ewsXARaMlvhkAbq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Jim Wiley\"}]}]}],\"id\":\"r903OeO2G252G7JvkiVh3\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The information is insufficient\"}]}]}],\"id\":\"s7ZeBvTwtaUzbeTJE3Nex\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"g_f0KlQgaep8xVxZNDVlM\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Newspaper archives\"}]}]}],\"id\":\"YufvtYS9AdsritnPmqgXB\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"t6Ff5wq3fEbWapOp0k_73\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"RZqRhmZs7cmWfJ4fVJJsO\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"More detail is needed\"}]}]}],\"id\":\"F-FAmeIo2PDz_oOKIzET1\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":661,\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:13Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

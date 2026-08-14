@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual5-t3-listening",
+ "title": "Actual Test 5 - Listening Test 3",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 3,
+ "order": 93,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-5-test-3-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Complaints To Clifton Antiques",
+   "duration": 9,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fe0f8ad4-2ebb-4c26-9f35-45552048c2e2.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 1535995
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9c307427-df63-4b98-ae12-1a02be246552.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 43
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "A Popular Holiday Region: Treloar Valley",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/13a7039f-39ff-4c87-bd58-61c2d0d123ac.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 1124314
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/70115c88-4245-417c-8710-09267d0ec81c.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 15
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On Web-Based Crosswords",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/71e15005-fe72-470e-9781-d06e8eed121d.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 1311942
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/32a6dd87-333a-40a5-9a92-ba4b88619a4b.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 44
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Time Perspectives",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0b147ade-a072-4a94-9c97-fef84302c938.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 1253988
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/2fbfd87b-9eee-4994-a35b-92a29c0b7567.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 17
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:53:11Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

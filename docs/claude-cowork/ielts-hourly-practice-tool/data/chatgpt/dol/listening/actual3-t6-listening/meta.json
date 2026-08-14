@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual3-t6-listening",
+ "title": "Actual Test 3 - Listening Test 6",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 3",
+ "testNum": 6,
+ "order": 84,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-3-test-6-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "House Rental",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/d00b542d-137e-42da-8ca6-115e3fc3b779.m4a",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 3829591
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/077dddcc-0972-4fe9-8ddd-f12313960550.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 48
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "The Australian Wild Zoo",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9ee35728-0aae-4524-8857-ceae9aa45fa1.m4a",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 3607272
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/6006d3b3-4e9a-4e43-8381-cb2a6a23428d.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 37
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "The Summer Course",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9ecc1155-424e-4d6f-aa36-a4fb939d7e73.m4a",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 3612529
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e8a5d95e-6deb-4629-9d0e-7ba91f2a5b4a.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 37
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Roberts Company",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f0cb55e0-305e-4716-b1d8-b3cfdbeac841.m4a",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 3385352
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c1333c09-bfd9-4fa9-bfde-48e473abf40c.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 31
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:48:04Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

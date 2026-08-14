@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp1-t4-listening",
+ "title": "Practice Test Plus 1 - Listening Test 4",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 4,
+ "order": 52,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-1-test-4-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Dragon Boat Race",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/70f1dade-cbc4-4af2-90af-9e3eca488fb5.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 16208501
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/031791d2-496c-49b0-b550-89cad1cbb44c.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 43
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Kiwi Fact Sheet",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c55ba9ee-325b-4e0b-94d1-ae4c70b2d078.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 15820845
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a38ad8c1-9776-45f1-a55f-79dabd9e627b.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 10
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "City Traffic And Western Dependence On The Motor Car",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/5edc5b39-2cd8-4f13-b087-ab8e0c70a107.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 17828093
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/fcfe11b7-71c5-474a-980a-51ed8b200651.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 27
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Reasons For Preserving Food",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/88b4092c-4b14-4ac8-ad74-80c340f5e5db.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 17286836
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8ebb3258-f68a-44fe-9597-74b49d5a9d75.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 14
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:59:33Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

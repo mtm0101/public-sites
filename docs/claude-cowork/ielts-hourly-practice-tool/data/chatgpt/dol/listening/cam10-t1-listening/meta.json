@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "cam10-t1-listening",
+ "title": "CAM IELTS 10 - Listening Test 1",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 10",
+ "testNum": 1,
+ "order": 41,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-cam-ielts-10-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Self-Drive Tour",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/040646f6-4118-4600-b633-692ee6e74654.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 10964532
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/51f6512a-e701-4c9b-82d4-58774786faed.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 45
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Leisure Club",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/bf6a2dcf-c2d1-40f7-8ab7-9dd67ed5db58.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 9126347
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9f5429bf-c886-4351-b687-8b4f1660ac01.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 11
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Global Design Competition",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/56559b67-2593-4aee-923d-86578d6bc5de.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 9362703
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/99ca2fe9-0a2d-4d1b-9635-2d124d607aeb.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 40
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Spirit Bear",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ed6e195f-b605-49db-9ae3-68d6d44d57d2.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 9593417
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/08ee112b-b7f7-482e-859a-1dc6c960094f.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 10
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:45:44Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

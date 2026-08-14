@@ -1,0 +1,3039 @@
+{
+ "schema": 1,
+ "id": "actual5-t5-listening",
+ "title": "Actual Test 5 - Listening Test 5",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 5,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-5-test-5-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-5-test-5-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Fruit Picking",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "2d0a93a4-2753-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "2d0a93a5-2753-11ed-9917-6b4c6718aa1d",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết về \"},{\"text\":\"địa chỉ hiện tại của người phụ nữ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' and \"},{\"text\":\"where are you currently staying\",\"bold\":true},{\"text\":\"?'' (hỏi về nơi ở) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án là \"},{\"text\":\"tên riêng của nhà nghỉ.\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Sophie, ''but now\"},{\"text\":\" I am staying in Central Hostel\",\"bold\":true},{\"text\":\", Sydney.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"đang sống ở Central Hostel \",\"bold\":true},{\"text\":\"(với những tên đơn giản thì người nói sẽ không đánh vần)\\n=> \"},{\"text\":\"Đáp án: central \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 151,
+          "endTimeInSeconds": 160,
+          "transcripts": [
+           {
+            "id": "4/151824-155315",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 155,
+            "text": "Nice to talk with you, Sophie, and where are you currently staying?",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "5/155315-160642",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 160,
+            "text": "Well, I am native in London, but now I am staying in Central Hostel, Sydney",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "central",
+         "blankId": "w6icfMUSeZg6uCnxmRAtq"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là về\"},{\"text\":\" tuổi của cô \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''so could I have\"},{\"text\":\" your age\",\"bold\":true},{\"text\":\", please?''\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cô ấy nói là ''\"},{\"text\":\"I am 18\",\"bold\":true},{\"text\":\", but I will \"},{\"text\":\"have my 19th birthday at the end of this month\",\"bold\":true},{\"text\":\", so \"},{\"text\":\"you can put 19\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn lưu ý \"},{\"text\":\"18 là thông tin đánh lạc hướng\",\"bold\":true},{\"text\":\", mình sẽ \"},{\"text\":\"cần điền 19\",\"bold\":true},{\"text\":\" do \"},{\"text\":\"sinh nhật tuổi 19 của cô ấy sắp tới \",\"bold\":true},{\"text\":\"(cuối tháng)\\n=> \"},{\"text\":\"Đáp án: 19 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 174,
+          "endTimeInSeconds": 200,
+          "transcripts": [
+           {
+            "id": "8/174451-181000",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 181,
+            "text": "Got that, and now, you know we only recruit part-time employees over 18, so could I have your age, please? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "9/181123-187737",
+            "startTimeInSeconds": 181,
+            "endTimeInSeconds": 187,
+            "text": "I am 18, but I will have my 19th birthday at the end of this month, so you can put 19. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "10/188209-200254",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 200,
+            "text": "Cool. Happy birthday, Sophie! Well, let's move on to the real business. We now have two working sites. One is a fruit farm in North Queensland and the other one is near the coast. Which do you prefer? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "19",
+         "blankId": "WVbik-UB7IT1R7khsJVl3"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"địa điểm làm việc ưa thích mà gần một nơi nào đó \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''We now have\"},{\"text\":\" two working sites\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên người đàn ông \"},{\"text\":\"đưa ra hai vị trí\",\"bold\":true},{\"text\":\", một là ''\"},{\"text\":\"a fruit farm in North Queensland'\",\"bold\":true},{\"text\":\"' và hai là ''\"},{\"text\":\"near the coast'\",\"bold\":true},{\"text\":\"' (dựa vào đề bài mình có thể đoán được cô ấy sẽ chọn đáp án thứ hai)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và cô ấy chọn địa điểm thứ hai, ''so I guess\"},{\"text\":\" the second place \",\"bold\":true},{\"text\":\"sounds best to me.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy\"},{\"text\":\" muốn làm việc gần bờ biển.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: coast \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 188,
+          "endTimeInSeconds": 213,
+          "transcripts": [
+           {
+            "id": "10/188209-200254",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 200,
+            "text": "Cool. Happy birthday, Sophie! Well, let's move on to the real business. We now have two working sites. One is a fruit farm in North Queensland and the other one is near the coast. Which do you prefer? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "11/200254-209268",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 209,
+            "text": "\tUh, Hmm... I think it would be better if I can spend some time on the beach after work, so I guess the second place sounds best to me. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "12/209268-213172",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 213,
+            "text": "No problem, Sophie. When do you think it is ready to join us? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "coast",
+         "blankId": "ffTXRLh5Cn1O32TIilOXr"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe \"},{\"text\":\"khi nào cô ấy sẵn sàng làm việc \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"When\",\"bold\":true},{\"text\":\" do you think it is\"},{\"text\":\" ready to join us\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''\"},{\"text\":\"It's July now\",\"bold\":true},{\"text\":\", and I'd like to do some travelling around here. \"},{\"text\":\"What about August\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tháng \"},{\"text\":\"hiện tại là July \",\"bold\":true},{\"text\":\"(tháng 7) và cô ấy \"},{\"text\":\"muốn bắt đầu làm việc vào August \",\"bold\":true},{\"text\":\"(tháng 8) và người đàn ông đồng ý.\\n=> \"},{\"text\":\"Đáp án: August \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 209,
+          "endTimeInSeconds": 223,
+          "transcripts": [
+           {
+            "id": "12/209268-213172",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 213,
+            "text": "No problem, Sophie. When do you think it is ready to join us? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "13/213172-219284",
+            "startTimeInSeconds": 213,
+            "endTimeInSeconds": 219,
+            "text": "It's July now, and I'd like to do some travelling around here. What about August? ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "14/219284-223453",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 223,
+            "text": "Yes, August is the busiest month for us. We are always short of hands. ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "August",
+         "blankId": "6091Q_f3nqi2AIgu3ovAh"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"cô ấy muốn trả lương như thế nào \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And could you please tell me \"},{\"text\":\"how I will get paid\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Người đàn ông đưa ra hai cách, ''We can pay you\"},{\"text\":\" by every basket of fruits\",\"bold\":true},{\"text\":\" or \"},{\"text\":\"by the hour\",\"bold\":true},{\"text\":\". It's up to you.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình \"},{\"text\":\"có thể tính lương theo số lượng giỏ mình nhặt được\",\"bold\":true},{\"text\":\" hoặc \"},{\"text\":\"theo giờ.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Vậy Sophie chọn cách thứ hai, ''So I guess\"},{\"text\":\" pay by the hour suits me better.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: hour \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 223,
+          "endTimeInSeconds": 245,
+          "transcripts": [
+           {
+            "id": "15/223453-226826",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 226,
+            "text": "And could you please tell me how I will get paid? ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "16/226826-231370",
+            "startTimeInSeconds": 226,
+            "endTimeInSeconds": 231,
+            "text": "We can pay you by every basket of fruits or by the hour. It's up to you. ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "17/231370-237325",
+            "startTimeInSeconds": 231,
+            "endTimeInSeconds": 237,
+            "text": "You know, I haven't done fruit picking before. So I guess pay by the hour suits me better",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "18/237325-245844",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 245,
+            "text": "Ok, I've got that. And there are now three types of fruits: bananas, mangoes and avocados. Which fruit would you like to pick? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "hour",
+         "blankId": "Xjq8ANyK0BqGn5hQfXD4T"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Tiếp theo là\"},{\"text\":\" loại quả mà cô ấy muốn nhặt \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And there are now \"},{\"text\":\"three types of fruits\",\"bold\":true},{\"text\":\": ...''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Có ba loại quả để Sophie chọn là \"},{\"text\":\"bananas\",\"bold\":true},{\"text\":\", \"},{\"text\":\"mangoes\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"avocados \",\"bold\":true},{\"text\":\"(quả bơ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Sophie chọn quả xoài, '\"},{\"text\":\"'I prefer mangoes\",\"bold\":true},{\"text\":\". I think it will be easier for me.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: mango/mangoes \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 237,
+          "endTimeInSeconds": 251,
+          "transcripts": [
+           {
+            "id": "18/237325-245844",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 245,
+            "text": "Ok, I've got that. And there are now three types of fruits: bananas, mangoes and avocados. Which fruit would you like to pick? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "19/245844-249331",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 249,
+            "text": "I prefer mangoes. I think it will be easier for me. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "20/249331-251333",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 251,
+            "text": "Cool, I am sure you will enjoy that.",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "mango/mangoes",
+         "blankId": "XAq0P8EBsoLapGRrHz7kU"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"cô ấy trước đây có vấn đề sức khỏe gì \",\"bold\":true},{\"text\":\"(used to have a problem with ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Do you have any \"},{\"text\":\"medical problems\",\"bold\":true},{\"text\":\"''\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Sophie, ''Well, \"},{\"text\":\"I hurt my back\",\"bold\":true},{\"text\":\" when I played badminton with my roommate\"},{\"text\":\" last year, but it's okay now\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"từng bị đau lưng \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: back \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 295,
+          "endTimeInSeconds": 324,
+          "transcripts": [
+           {
+            "id": "21/295979-304272",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 304,
+            "text": "OK, now I'd like to ask you a few more questions about yourself. Do you have any medical problems, like high blood pressure, heart disease, or anything like that? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "22/304272-315051",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 315,
+            "text": "Actually I just had a medical check-up recently, and everything seemed fine. Well, I hurt my back when I played badminton with my roommate last year, but it's okay now. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "23/315051-324737",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 324,
+            "text": "Aha, great. And all of our workers are required to have medical insurance in case people hurt themselves while working, like falling down a ladder. Have you got one now? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "back",
+         "blankId": "1e8k24hHN58qzaCNb0BFV"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Ở câu này mình cần biết \"},{\"text\":\"một cái gì đó liên quan tới y tế. \",\"bold\":true},{\"text\":\"(has medical ___ )\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là  ''And all of our workers \"},{\"text\":\"are required to have medical insurance\",\"bold\":true},{\"text\":\" [...] . Have you got one now?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Sophie trả lời ''\"},{\"text\":\"Yes\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sophie đã\"},{\"text\":\" có medical insurance rồi\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: insurance \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 315,
+          "endTimeInSeconds": 338,
+          "transcripts": [
+           {
+            "id": "23/315051-324737",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 324,
+            "text": "Aha, great. And all of our workers are required to have medical insurance in case people hurt themselves while working, like falling down a ladder. Have you got one now? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "24/329046-338453",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 338,
+            "text": "Uh ha, yet you still need to take much care. By the way, do you have a driver's license? You know, the fruit farm is huge. Sometimes you will need to drive a car. ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "insurance",
+         "blankId": "oA8T_oRyVyPzP50DfSI8U"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Sophia không có giấy phép gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''By the way, do you have a \"},{\"text\":\"driver's license\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sophie trả lời  ''Yes, I \"},{\"text\":\"got my driver's license last year\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại driving \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, ''But I am afraid\"},{\"text\":\" I don't have a license for driving large trucks\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \"},{\"text\":\"chỉ có giấy phép lái xe ô tô\",\"bold\":true},{\"text\":\", còn với \"},{\"text\":\"xe tải thì không\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án: trucks \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 329,
+          "endTimeInSeconds": 355,
+          "transcripts": [
+           {
+            "id": "24/329046-338453",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 338,
+            "text": "Uh ha, yet you still need to take much care. By the way, do you have a driver's license? You know, the fruit farm is huge. Sometimes you will need to drive a car. ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "25/338453-345626",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 345,
+            "text": "Yes, I got my driver's license last year. But I am afraid I don't have a license for driving large trucks. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "26/345626-355854",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 355,
+            "text": "No worries, you are not responsible for delivering the picked to the supermarkets. There have been some drivers doing that work. And lastly, one more question, where would you like to live? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           }
+          ]
+         },
+         "value": "truck/trucks",
+         "blankId": "v31J_XsuTX0Up4zh62DYE"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng là \"},{\"text\":\"về nơi ở\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''And lastly, one more question, \"},{\"text\":\"where would you like to live\",\"bold\":true},{\"text\":\"?''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người đàn ông đưa ra \"},{\"text\":\"hai lựa chọn\",\"bold\":true},{\"text\":\", \\\"You can either\"},{\"text\":\" stay in a cottage on the farm\",\"bold\":true},{\"text\":\" or we can \"},{\"text\":\"arrange accommodation in a town nearby\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một là \"},{\"text\":\"sống ngay trong trang trạ\",\"bold\":true},{\"text\":\"i và\"},{\"text\":\" hai là sống ở một thị trấn gần đó\",\"bold\":true},{\"text\":\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và cô ấy nói ''I think \"},{\"text\":\"the second one is better \",\"bold\":true},{\"text\":\"for me.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: town \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 375,
+          "transcripts": [
+           {
+            "id": "26/345626-355854",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 355,
+            "text": "No worries, you are not responsible for delivering the picked to the supermarkets. There have been some drivers doing that work. And lastly, one more question, where would you like to live? ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "27/355854-357406",
+            "startTimeInSeconds": 355,
+            "endTimeInSeconds": 357,
+            "text": "Any options for me? ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "28/357406-364292",
+            "startTimeInSeconds": 357,
+            "endTimeInSeconds": 364,
+            "text": "Well, two choices. You can either stay in a cottage on the farm or we can arrange accommodation in a town nearby ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "29/364292-369619",
+            "startTimeInSeconds": 364,
+            "endTimeInSeconds": 369,
+            "text": "I don't think I'd like to stay at the workplace all day long. I think the second one is better for me. ",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           },
+           {
+            "id": "30/369619-373025",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 373,
+            "text": "Ok, let's do that. Looking forward to seeing you soon. ",
+            "character": {
+             "id": "kH0kLnAKT1gPxR2sy0hlR",
+             "name": "Man"
+            }
+           },
+           {
+            "id": "31/373025-375696",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 375,
+            "text": "       Many thanks. See you then.",
+            "character": {
+             "id": "3Q2f4FzkUdu_1TpxfII19",
+             "name": "Woman"
+            }
+           }
+          ]
+         },
+         "value": "town",
+         "blankId": "JLGz-hSiLwso-dBX-OCWQ"
+        }
+       ],
+       "heading": "Fruit Picking Application",
+       "paragraph": {
+        "id": "PDR2OLYFZXQkRNMHcE1jB",
+        "editorValue": "[{\"children\":[{\"text\":\"Example\",\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Surname of the applicant: Sophie \"},{\"text\":\"Harries\",\"underline\":true,\"italic\":true}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Current address:\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"1_____\"}],\"id\":\"w6icfMUSeZg6uCnxmRAtq\"},{\"text\":\" Hostel, Sydney\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Contact phone number: 0452 832721\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Age:\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"2_____\"}],\"id\":\"WVbik-UB7IT1R7khsJVl3\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Preferred working location: near the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" 3_____\"}],\"id\":\"ffTXRLh5Cn1O32TIilOXr\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Available to work in \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"4_____\"}],\"id\":\"6091Q_f3nqi2AIgu3ovAh\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Preferred to be paid by \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"5_____\"}],\"id\":\"Xjq8ANyK0BqGn5hQfXD4T\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Type of fruit to pick up:\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"6_____\"}],\"id\":\"XAq0P8EBsoLapGRrHz7kU\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Health condition: used to have a problem with \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"7_____\"}],\"id\":\"1e8k24hHN58qzaCNb0BFV\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Has medical \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"8_____\"}],\"id\":\"oA8T_oRyVyPzP50DfSI8U\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Doesn’t have a license for \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"9_____\"}],\"id\":\"v31J_XsuTX0Up4zh62DYE\"},{\"text\":\"\"}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Accommodation arranged in a close \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"10_____\"}],\"id\":\"JLGz-hSiLwso-dBX-OCWQ\"},{\"text\":\"\"}]}]",
+        "blanks": [
+         {
+          "id": "w6icfMUSeZg6uCnxmRAtq",
+          "key": 0
+         },
+         {
+          "id": "WVbik-UB7IT1R7khsJVl3",
+          "key": 1
+         },
+         {
+          "id": "ffTXRLh5Cn1O32TIilOXr",
+          "key": 2
+         },
+         {
+          "id": "6091Q_f3nqi2AIgu3ovAh",
+          "key": 3
+         },
+         {
+          "id": "Xjq8ANyK0BqGn5hQfXD4T",
+          "key": 4
+         },
+         {
+          "id": "XAq0P8EBsoLapGRrHz7kU",
+          "key": 5
+         },
+         {
+          "id": "1e8k24hHN58qzaCNb0BFV",
+          "key": 6
+         },
+         {
+          "id": "oA8T_oRyVyPzP50DfSI8U",
+          "key": 7
+         },
+         {
+          "id": "v31J_XsuTX0Up4zh62DYE",
+          "key": 8
+         },
+         {
+          "id": "JLGz-hSiLwso-dBX-OCWQ",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Grace's Creek Activity Camp",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "4fd45e39-2753-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "AvWqNCw07f7_84QwFsZRY",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/4126b373-9a58-4161-aafb-20f153ca266f.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/4126b373-9a58-4161-aafb-20f153ca266f.png",
+        "name": "AT5_L5_S2_Grace’s Creek Activity Camp_NoOpt.png",
+        "uploadedDate": "2021-11-02T05:04:01.362+0000",
+        "size": 41202,
+        "width": 375,
+        "height": 270
+       },
+       "correctOptions": [
+        {
+         "key": 11,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng đầu tiên là\"},{\"text\":\" bus stop.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''So, \"},{\"text\":\"coming from the north\",\"bold\":true},{\"text\":\", you'll \"},{\"text\":\"see a bus stop just before you get to the camp\",\"bold\":true},{\"text\":\" itself.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu mình\"},{\"text\":\" đi từ hướng bắc\",\"bold\":true},{\"text\":\" (trên xuống) thì mình\"},{\"text\":\" sẽ thấy bus stop trước khi tới cổng vào\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án là L \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 73,
+          "endTimeInSeconds": 107,
+          "transcripts": [
+           {
+            "id": "2/73257-78627",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 78,
+            "text": "Well, as you see, the site is roughly rectangular, and... emm... it's bordered on the South by Grace's Creek. "
+           },
+           {
+            "id": "3/78627-89311",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 89,
+            "text": "This is a narrow and fairly slow-moving stream that's been cleaned up a lot in recent years, actually. Now, if you approach from the South, you cross Grace's Creek and turn right into the camp."
+           },
+           {
+            "id": "4/89311-107180",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 107,
+            "text": "So, coming from the north, you'll see a bus stop just before you get to the camp itself. From the main gate, the driveway turns immediately left around the edge of the camp and while you're on the driveway, if you look right, down to the opposite end of the space across the lake, you can see the student dormitory, the largest building on the site."
+           }
+          ]
+         }
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng tiếp theo là \"},{\"text\":\"student dormitory\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Đầu tiên mình nghe là '\"},{\"text\":\"'From the main gate\",\"bold\":true},{\"text\":\", the \"},{\"text\":\"driveway turns immediately left\",\"bold\":true},{\"text\":\" around the edge of the camp'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Từ cổng chính,\"},{\"text\":\" driveway đi về bên trái \",\"bold\":true},{\"text\":\"vòng qua rìa khu cắm trại (hướng tới F) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe được là ''..and while you're \"},{\"text\":\"on the driveway\",\"bold\":true},{\"text\":\", if you \"},{\"text\":\"look right\",\"bold\":true},{\"text\":\", down to the\"},{\"text\":\" opposite end of the space across the lake\",\"bold\":true},{\"text\":\", you can see the \"},{\"text\":\"student dormitory\",\"bold\":true},{\"text\":\", the\"},{\"text\":\" largest building on the site.\",\"bold\":true},{\"text\":\"''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khi mình còn ở \"},{\"text\":\"trên driveway\",\"bold\":true},{\"text\":\", mình cần \"},{\"text\":\"nhìn sang tay phải\",\"bold\":true},{\"text\":\" ở phía \"},{\"text\":\"đầu kia đối diện lake\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" student dormintory là tòa nhà lớn nhất\",\"bold\":true},{\"text\":\".\\n=> \"},{\"text\":\"Đáp án là I \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 89,
+          "endTimeInSeconds": 107,
+          "transcripts": [
+           {
+            "id": "4/89311-107180",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 107,
+            "text": "So, coming from the north, you'll see a bus stop just before you get to the camp itself. From the main gate, the driveway turns immediately left around the edge of the camp and while you're on the driveway, if you look right, down to the opposite end of the space across the lake, you can see the student dormitory, the largest building on the site."
+           }
+          ]
+         }
+        },
+        {
+         "key": 10,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng tiếp theo là basketball court\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên mình nghe là  ''Now, going \"},{\"text\":\"back to the driveway\",\"bold\":true},{\"text\":\", just \"},{\"text\":\"before the drive turns right\",\"bold\":true},{\"text\":\", there are\"},{\"text\":\" a couple of tennis courts\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình\"},{\"text\":\" quay trở về driveway\",\"bold\":true},{\"text\":\" ngay từ chỗ gate, ngay \"},{\"text\":\"trước khi driveway rẽ phải\",\"bold\":true},{\"text\":\" mình sẽ gặp \"},{\"text\":\"2 tennis court\",\"bold\":true},{\"text\":\", tức tennis courts nằm ở \"},{\"text\":\"vị trí D.\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe tiếp thấy , ''And \"},{\"text\":\"in the corner\",\"bold\":true},{\"text\":\" there, \"},{\"text\":\"opposite the tennis courts\",\"bold\":true},{\"text\":\", is the \"},{\"text\":\"basketball court.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"marks\":[]},{\"text\":\"Trong góc đối diện tennis court là basketball court\",\"marks\":[],\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Baseball court nằm ở K \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 107,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "5/107180-116449",
+            "startTimeInSeconds": 107,
+            "endTimeInSeconds": 116,
+            "text": "Emm... You'll see that there's a shared jogging and walking track which runs next to the driveway and in fact runs all around the perimeter of the camp, next to the wall."
+           },
+           {
+            "id": "6/116449-128555",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 128,
+            "text": "Now, going back to the driveway, just before the drive turns right, there are a couple of tennis courts, but they're not quite ready for use yet. And in the corner there, opposite the tennis courts, is the basketball court. "
+           },
+           {
+            "id": "7/128555-140681",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 140,
+            "text": " It seems to be more popular with the kids than tennis these days.OK, so the path turns left into that large rectangular space, which is the car park obviously, with space for about 80 cars and up to 5 coaches. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng tiếp theo là\"},{\"text\":\" staff houses \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên mình nghe thấy, ''OK, so\"},{\"text\":\" the path turns left into that large rectangular space\",\"bold\":true},{\"text\":\", which is the \"},{\"text\":\"car park\",\"bold\":true},{\"text\":\" obviously, ...''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Con đường dẫn vào khu vực lớn hình chũ nhật, là car park \\n=> \"},{\"text\":\"Car park nằm ở vị trí F \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án F \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, theo chỉ dẫn của người nói, ''So, coming back\"},{\"text\":\" out of the car park\",\"bold\":true},{\"text\":\", you can\"},{\"text\":\" turn left onto the jogging track\",\"bold\":true},{\"text\":\", to walk around to the student dormitory. And\"},{\"text\":\" as you go\",\"bold\":true},{\"text\":\", you \"},{\"text\":\"pass a couple of small chalets on the right\",\"bold\":true},{\"text\":\", which are\"},{\"text\":\" the permanent staff houses\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khi đi r\"},{\"text\":\"a khỏi car park\",\"bold\":true},{\"text\":\", mình sẽ \"},{\"text\":\"rẽ trái vào jogging track\",\"bold\":true},{\"text\":\" và ngay \"},{\"text\":\"bên phải mình sẽ có 2 căn nhà\",\"bold\":true},{\"text\":\", đó là\"},{\"text\":\" staff houses\",\"bold\":true},{\"text\":\".\\n=>\"},{\"text\":\" Đáp án là J \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn để ý \"},{\"text\":\"người nói dùng số nhiều \",\"bold\":true},{\"text\":\"(a couple of, which are ...) và chỉ\"},{\"text\":\" có vị trí J là có hai căn nhà thôi \",\"bold\":true},{\"text\":\"(đáp án D là của tennis court thì mình đã loại rồi) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn cũng cẩn thận câu ''to \"},{\"text\":\"walk around to the student dorminory\",\"bold\":true},{\"text\":\"'', ý nói \"},{\"text\":\"jogging track có thể dùng để đi vòng qua ký túc xá \",\"bold\":true},{\"text\":\"chứ \"},{\"text\":\"không bảo bạn đi tới student dormintory\",\"bold\":true},{\"text\":\" (vị trí I)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 128,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "7/128555-140681",
+            "startTimeInSeconds": 128,
+            "endTimeInSeconds": 140,
+            "text": " It seems to be more popular with the kids than tennis these days.OK, so the path turns left into that large rectangular space, which is the car park obviously, with space for about 80 cars and up to 5 coaches. "
+           },
+           {
+            "id": "8/140681-152818",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 152,
+            "text": "So, coming back out of the car park, you can turn left onto the jogging track, to walk around to the student dormitory. And as you go, you pass a couple of small chalets on the right, which are the permanent staff houses."
+           }
+          ]
+         }
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng tiếp theo là\"},{\"text\":\" Climbing Wall\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy ''there is also a guest hostel, in the\"},{\"text\":\" centre of the south side\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Guest hostel nằm \"},{\"text\":\"ở vị trí trung tâm ở phía Nam\",\"bold\":true},{\"text\":\", tức vị trí C \\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Và vị trí của climbing wall là ''The\"},{\"text\":\" climbing wall is just to the left\",\"bold\":true},{\"text\":\" of it.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Climbing wall \"},{\"text\":\"nằm ngay bên trái vị trí C\",\"bold\":true},{\"text\":\", tức là ở\"},{\"text\":\" vị trí H \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là H \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 152,
+          "endTimeInSeconds": 163,
+          "transcripts": [
+           {
+            "id": "9/152818-163878",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 163,
+            "text": "While we're on the topic of accommodation, there is also a guest hostel, in the centre of the south side. That's directly overlooking the lake, and it's for business groups. The climbing wall is just to the left of it."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó mình nghe ''That \"},{\"text\":\"small building on the edge of the lake\",\"bold\":true},{\"text\":\" is the\"},{\"text\":\" boat house\",\"bold\":true},{\"text\":\", ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tòa nhà nhỏ bên mép hồ là boat house \\n=> \"},{\"text\":\"Boat house nằm ở vị trí B \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến nghe thấy ''Now, \"},{\"text\":\"the stream can also be used for kayaking\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"there's a small gate in the south wall \",\"bold\":true},{\"text\":\"leading out to it.'' và tại đây có Picnic Shelter, ''It's a great spot for picnics, too, so \"},{\"text\":\"there's a picnic shelter just there\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở bức tường phía nam \"},{\"text\":\"đi ra sẽ là con suối\",\"bold\":true},{\"text\":\", và \"},{\"text\":\"ở đó cũng có Picnic Shelter\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Picnic Shelter nằm ở vị trí E\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 163,
+          "endTimeInSeconds": 186,
+          "transcripts": [
+           {
+            "id": "10/163878-176810",
+            "startTimeInSeconds": 163,
+            "endTimeInSeconds": 176,
+            "text": "The lake, by the way, is arterial, but it is just deep enough for kayak training and even windsurfing or paddle boarding. That small building on the edge of the lake is the boat house, for the storage of all the water sports equipment. "
+           },
+           {
+            "id": "11/176810-186548",
+            "startTimeInSeconds": 176,
+            "endTimeInSeconds": 186,
+            "text": "Now, the stream can also be used for kayaking, and there's a small gate in the south wall leading out to it. It's a great spot for picnics, too, so there's a picnic shelter just there."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "BrCyX0BvK4x_w0ccNU2d2",
+         "x": 260,
+         "y": 180
+        },
+        {
+         "text": "B",
+         "id": "ILfqu_PQtp5Q5-CW7yQuz",
+         "x": 262,
+         "y": 90
+        },
+        {
+         "text": "C",
+         "id": "93MVcWXj0pm2gu7C1MOSH",
+         "x": 192,
+         "y": 190
+        },
+        {
+         "text": "D",
+         "id": "HbdISje7Mi5iKnaQTHAaC",
+         "x": 136,
+         "y": 92
+        },
+        {
+         "text": "E",
+         "id": "kgX_buFrVUrAzPcDSU4ed",
+         "x": 289,
+         "y": 217
+        },
+        {
+         "text": "F",
+         "id": "DH0gQOTfaegSSqHLvb1Aq",
+         "x": 252,
+         "y": 5
+        },
+        {
+         "text": "G",
+         "id": "umcFOncLKDJwtiwV1IjxN",
+         "x": 316,
+         "y": 52
+        },
+        {
+         "text": "H",
+         "id": "j4UAAheMrd-_ZYeGtfFtv",
+         "x": 111,
+         "y": 151
+        },
+        {
+         "text": "I",
+         "id": "a1I7SN-m3bXw8BgTzf-wK",
+         "x": 319,
+         "y": 114
+        },
+        {
+         "text": "J",
+         "id": "OuO4zky9eZ11Aeo5-hLFp",
+         "x": 248,
+         "y": 44
+        },
+        {
+         "text": "K",
+         "id": "_udNoiSnVOACDTI6SbfDm",
+         "x": 113,
+         "y": 32
+        },
+        {
+         "text": "L",
+         "id": "e0o6FShO3PfW-s6GpSN_g",
+         "x": 73,
+         "y": 3
+        }
+       ],
+       "questions": [
+        "Bus Stop",
+        "Student Dormitory",
+        "Basketball Court\t",
+        "Staff Houses\t",
+        "Climbing Wall\t",
+        "Picnic Shelter\t"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "The map has "
+         },
+         {
+          "text": "SIX",
+          "bold": true
+         },
+         {
+          "text": " gaps. Choose the correct letter, "
+         },
+         {
+          "text": "A-L",
+          "bold": true
+         },
+         {
+          "text": ", for the suitable places below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A-L.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "4fd45e3a-2753-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "4fd45e3b-2753-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "One building has not been decided yet, but will probably be",
+       "options": [
+        {
+         "key": 0,
+         "value": "a sport facility"
+        },
+        {
+         "key": 1,
+         "value": "a cafeteria"
+        },
+        {
+         "key": 2,
+         "value": "a conference facility"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"một tòa nhà mà có thể được xây \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''We do have \"},{\"text\":\"one building\",\"bold\":true},{\"text\":\" next to the dormitory, which we're a bit \"},{\"text\":\"unsure how to proceed with.\",\"bold\":true},{\"text\":\"''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên người nói nhắc về\"},{\"text\":\" gym and pool\",\"bold\":true},{\"text\":\" nhưng ''though frankly \"},{\"text\":\"that's a bit optimistic\",\"bold\":true},{\"text\":\", \"},{\"text\":\"given the cost of those facilities\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Do chi phí cao \",\"bold\":true},{\"text\":\"nên phương án này \"},{\"text\":\"khó có thể được thực hiện\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy ''The \"},{\"text\":\"most likely outcome\",\"bold\":true},{\"text\":\" will be some kind of\"},{\"text\":\" food outlet\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phương án \"},{\"text\":\"khả thi nhất là khu ăn uống,\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Còn người nói\"},{\"text\":\" chỉ nhắc là có đáp án C thôi\",\"bold\":true},{\"text\":\", ''with another option being a\"},{\"text\":\" conference room\",\"bold\":true},{\"text\":\"'' \"},{\"text\":\"chứ không bàn về xác suất nó được xây\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 230,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "12/230488-241953",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 241,
+            "text": "Emm... there are a few facilities which were in the original plans, but haven't so far made it into the final design phase. We do have one building next to the dormitory, which we're a bit unsure how to proceed with."
+           },
+           {
+            "id": "13/241953-256643",
+            "startTimeInSeconds": 241,
+            "endTimeInSeconds": 256,
+            "text": "The favourite suggestion is a gym and pool, though frankly that's a bit optimistic, given the cost of those facilities. The most likely outcome will be some kind of food outlet, because that could contribute towards the overall running, costs, with another option being a conference room."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "4fd45e3c-2753-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "The upkeep of the facility will be mainly funded by",
+       "options": [
+        {
+         "key": 0,
+         "value": "fees from training companies"
+        },
+        {
+         "key": 1,
+         "value": "the local council"
+        },
+        {
+         "key": 2,
+         "value": "visits by school groups"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần biết \"},{\"text\":\"việc bảo dưỡng cơ sở vật chất sẽ được fund chủ yếu từ nguồn nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy ''The facility will, of course, be \"},{\"text\":\"partly funded by visits from the general public\",\"bold\":true},{\"text\":\" during school terms, ... \"},{\"text\":\"from companies \",\"bold\":true},{\"text\":\"who could use it for corporate events and retreats''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cơ sở vật chất sẽ \",\"marks\":[]},{\"text\":\"được tài trợ phần nào\",\"marks\":[],\"bold\":true},{\"text\":\" bởi \",\"marks\":[]},{\"text\":\"các chuyến tham quan của cộng đồng \",\"marks\":[],\"bold\":true},{\"text\":\"và \",\"marks\":[]},{\"text\":\"các công ty\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, ''That will contribute a lot to the upkeep and development because \"},{\"text\":\"council funding won't cover everything\",\"bold\":true},{\"text\":\", though\"},{\"text\":\" it does cover the bulk of the ongoing expenses\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Visits from public với companies\"},{\"text\":\" sẽ hỗ trợ rất nhiều\",\"bold\":true},{\"text\":\", nhưng\"},{\"text\":\" local council funding vẫn là chủ yếu\",\"bold\":true},{\"text\":\" (cover the bulk)\\n=> \"},{\"text\":\"Loại đáp án A và C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 256,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "14/256643-266880",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 266,
+            "text": "The facility will, of course, be partly funded by visits from the general public during school terms, and we've already had some interest from companies who could use it for corporate events and retreats."
+           },
+           {
+            "id": "15/266880-274975",
+            "startTimeInSeconds": 266,
+            "endTimeInSeconds": 274,
+            "text": "That will contribute a lot to the upkeep and development because council funding won't cover everything, though it does cover the bulk of the ongoing expenses."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "4fd45e3d-2753-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "One disadvantage of this location is",
+       "options": [
+        {
+         "key": 0,
+         "value": "the nearest shops are too far away"
+        },
+        {
+         "key": 1,
+         "value": "the site is difficult to get to by public transport"
+        },
+        {
+         "key": 2,
+         "value": "too many schools will wish to use it"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"bất lợi của vị trí này\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Well, \"},{\"text\":\"the site might seem a little far\",\"bold\":true},{\"text\":\" from most of the schools in the Council area ...'' (đề cập tới vị trí)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, một điểm mạnh của vị trí này là, '' ... one of the\"},{\"text\":\" attractions of this location\",\"bold\":true},{\"text\":\" was the\"},{\"text\":\" easy road access\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"proximity to transports hubs\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vị trí này \"},{\"text\":\"có đường xá đi lại tốt\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"phương tiện vận chuyển công cộng\",\"bold\":true},{\"text\":\" \\n=>\"},{\"text\":\" Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Điểm yếu đúng sẽ là ''If there's a \"},{\"text\":\"drawback\",\"bold\":true},{\"text\":\", I'd say \"},{\"text\":\"it's the lack of grocery stores\",\"bold\":true},{\"text\":\" \"},{\"text\":\"within walking distance\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nó khá xa so với cửa hàng gần nhất \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 274,
+          "endTimeInSeconds": 305,
+          "transcripts": [
+           {
+            "id": "16/274975-285736",
+            "startTimeInSeconds": 274,
+            "endTimeInSeconds": 285,
+            "text": "Well, the site might seem a little far from most of the schools in the Council area, but I should just mention that one of the attractions of this location was the easy road access and proximity to transports hubs."
+           },
+           {
+            "id": "17/285736-296924",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 296,
+            "text": "But not only that, the nearby Parkdale forest has some excellent walking tracks and mountain biking trails. If there's a drawback, I'd say it's the lack of grocery stores within walking distance. "
+           },
+           {
+            "id": "18/296924-305374",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 305,
+            "text": "It's going to be a great addition to the facilities available to everyone in the area, and it's the end result of a long consultation process with schools and the public."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "4fd4854e-2753-11ed-a111-ed4dcd04caf9",
+       "type": "SINGLE_ANSWER",
+       "question": "The designers of the facility had to take into account",
+       "options": [
+        {
+         "key": 0,
+         "value": "the views of local businesses"
+        },
+        {
+         "key": 1,
+         "value": "a shortage of funding for the construction"
+        },
+        {
+         "key": 2,
+         "value": "some building which were already here"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Cuối cùng, mình cần biết \"},{\"text\":\"người thiết kế phải xét tới điều gì khi xây\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Now, we\"},{\"text\":\" haven't been able to do everything that we're wanted\",\"bold\":true},{\"text\":\"'' (đề cập tới hạn chế -> cho lý do) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''\"},{\"text\":\"not \",\"bold\":true},{\"text\":\"particularly\"},{\"text\":\" because of budget constraints\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Ngân sách không phải là vấn đề \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''but more\"},{\"text\":\" \",\"bold\":true},{\"text\":\"because of the extent to which \"},{\"text\":\"we were limited by the existing structures from previous commercial use\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lý do đúng là \"},{\"text\":\"họ phải xét đến các tòa nhà đã có sẵn trước đó.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 305,
+          "endTimeInSeconds": 327,
+          "transcripts": [
+           {
+            "id": "19/305374-320987",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 320,
+            "text": "Now, we haven't been able to do everything that we're wanted, not particularly because of budget constraints, but more because of the extent to which we were limited by the existing structures from previous commercial use, but we have listened to both the parents and the students who are going to use the facility."
+           },
+           {
+            "id": "20/320987-327777",
+            "startTimeInSeconds": 320,
+            "endTimeInSeconds": 327,
+            "text": "Now, I'm sure you'll have a lot of questions, so let's take a short break, and when we come back we can open up the meeting for discussion."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Geography Dissertation",
+   "duration": 7,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "343c4b97-638d-11ef-a222-0be33feee6cc",
+     "questions": [
+      {
+       "uuid": "343c4b98-638d-11ef-a222-0be33feee6cc",
+       "type": "SINGLE_ANSWER",
+       "question": "What does Howard say about the experience of writing his dissertation?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It was difficult in unexpected ways"
+        },
+        {
+         "key": 1,
+         "value": "It was more enjoyable than he’d anticipated"
+        },
+        {
+         "key": 2,
+         "value": "It helped him understand previous course work"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley7\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"Howard nói gì về kinh nghiệm viết dissertation (luận án) \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Howard hỏi Joanne về việc viết luận sắp tới, ''You'll be starting your \"},{\"text\":\"dissertation \",\"bold\":true},{\"text\":\"soon, aren't you? '' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết đáp án sắp tới.\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo Howard, ''But seriously, although I didn't expect to enjoy writing my dissertation, and in fact\"},{\"text\":\", I didn't really find it much fun\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy \"},{\"text\":\"không thấy việc viết luận vui \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên, ''I found it really\"},{\"text\":\" improved my understanding of the whole degree program\",\"bold\":true},{\"text\":\", you know, from the first year on.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dù không thích, \"},{\"text\":\"việc viết luận đã giúp Howard hiểu hơn về kiến thức ngay từ năm nhất\",\"bold\":true},{\"text\":\", hay nói ngắn gọn là biết trước khóa học (previous course work.)\\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 53,
+          "endTimeInSeconds": 87,
+          "transcripts": [
+           {
+            "id": "0/53435-55505",
+            "startTimeInSeconds": 53,
+            "endTimeInSeconds": 55,
+            "text": "Hi, Howard. Haven't seen you for a while.",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "1/55505-63238",
+            "startTimeInSeconds": 55,
+            "endTimeInSeconds": 63,
+            "text": "Hi Joanne. Yeah, they are keeping us really busy on the postgraduate program, but how are you? You'll be starting your dissertation soon, aren't you? ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "2/63238-70942",
+            "startTimeInSeconds": 63,
+            "endTimeInSeconds": 70,
+            "text": "Yeah, tutorials start next week. I've got Dr. Peterson. You'll remember still from last year, of course. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "3/70942-81766",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 81,
+            "text": "It's not something you forget easily. But seriously, although I didn't expect to enjoy writing my dissertation, and in fact, I didn't really find it much fun, I wouldn't miss the experience. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "4/81766-87323",
+            "startTimeInSeconds": 81,
+            "endTimeInSeconds": 87,
+            "text": "I found it really improved my understanding of the whole degree program, you know, from the first year on. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "5/87323-87988",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 87,
+            "text": "Right. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "343c4b99-638d-11ef-a222-0be33feee6cc",
+       "type": "SINGLE_ANSWER",
+       "question": "What is Joanne most worried about?",
+       "options": [
+        {
+         "key": 0,
+         "value": "finding enough material"
+        },
+        {
+         "key": 1,
+         "value": "missing deadlines"
+        },
+        {
+         "key": 2,
+         "value": "writing too much"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"Joanne lo lắng về điều gì nhất \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Joanne nói, ''I know, and\"},{\"text\":\" he'll set me deadlines for the different stages\",\"bold\":true},{\"text\":\", which is\"},{\"text\":\" what I need\",\"bold\":true},{\"text\":\". '' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Joanne \"},{\"text\":\"welcome việc có deadlines\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"không lo lắng \",\"bold\":true},{\"text\":\"về chúng\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cô ấy lo lắng về, ''My concern is that\"},{\"text\":\" I've got tons of material on the topic\",\"bold\":true},{\"text\":\", and I \"},{\"text\":\"won't be able to stick to the word limit\",\"bold\":true},{\"text\":\", you know?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do cô ấy \"},{\"text\":\"có quá nhiều tư liệu \",\"bold\":true},{\"text\":\"về chủ đề này, cô ấy \"},{\"text\":\"lo mình sẽ viết quá giới hạn từ \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 87,
+          "endTimeInSeconds": 116,
+          "transcripts": [
+           {
+            "id": "6/87988-90257",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 90,
+            "text": "So what are you doing yours on? ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "7/90257-95633",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 95,
+            "text": "Glaciated landscapes. Although I haven't decided exactly what aspect yet.",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "8/95633-104796",
+            "startTimeInSeconds": 95,
+            "endTimeInSeconds": 104,
+            "text": "I did mine on climate systems, so I can't help you much, I'm afraid. But you'll be fine once you start your tutorials. Dr. Peterson will help you focus. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "9/104796-116909",
+            "startTimeInSeconds": 104,
+            "endTimeInSeconds": 116,
+            "text": "I know, and he'll set me deadlines for the different stages, which is what I need. My concern is that I've got tons of material on the topic, and I won't be able to stick to the word limit, you know? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "343c4b9a-638d-11ef-a222-0be33feee6cc",
+       "type": "SINGLE_ANSWER",
+       "question": "What does Howard say was his main concern a year before?",
+       "options": [
+        {
+         "key": 0,
+         "value": "forgetting what he’d read about"
+        },
+        {
+         "key": 1,
+         "value": "not understanding what he’d read"
+        },
+        {
+         "key": 2,
+         "value": "taking such a long time to read each book"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo mình cần nghe xem \"},{\"text\":\"năm ngoái Howard bận tâm gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''I remember I \"},{\"text\":\"had different concerns\",\"bold\":true},{\"text\":\" when I was doing my dissertation.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley39\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Howard nói ''I \"},{\"text\":\"did a lot of\",\"bold\":true},{\"text\":\" fairly \"},{\"text\":\"general reading\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Howard chỉ nói là\"},{\"text\":\" đọc nhiều\",\"bold\":true},{\"text\":\" nhưng\"},{\"text\":\" không nói là mình bị khó hiểu \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \\n\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó, ''I actually enjoyed that quite a lot, and you know,\"},{\"text\":\" it improved my reading speed\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy còn \"},{\"text\":\"cải thiện được tốc độ đọc của mình,\",\"bold\":true},{\"text\":\" tức anh ấy \"},{\"text\":\"không có vấn đề gì về thời gian đọc hết sách\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Lo lắng chính của Howard là ''but\"},{\"text\":\" I was frightened I wouldn't remember it all\",\"bold\":true},{\"text\":\", so I got into the habit of making very detailed notes.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Anh ấy\"},{\"text\":\" lo mình không nhớ được hết.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 116,
+          "endTimeInSeconds": 141,
+          "transcripts": [
+           {
+            "id": "10/116909-121151",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 121,
+            "text": "I remember I had different concerns when I was doing my dissertation. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "11/121151-122815",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 122,
+            "text": "Last year? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "12/122815-134346",
+            "startTimeInSeconds": 122,
+            "endTimeInSeconds": 134,
+            "text": "Yeah, before my first trial, I did a lot of fairly general reading because I haven't fixed on my topic at that stage. I actually enjoyed that quite a lot, and you know, it improved my reading speed. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "13/134346-141752",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 141,
+            "text": "I had gotten through a lot of material, but I was frightened I wouldn't remember it all, so I got into the habit of making very detailed notes. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "343c4b9b-638d-11ef-a222-0be33feee6cc",
+       "type": "SINGLE_ANSWER",
+       "question": "What encouraged Howard to begin writing his dissertation?",
+       "options": [
+        {
+         "key": 0,
+         "value": "talking to his tutor about his problems"
+        },
+        {
+         "key": 1,
+         "value": "seeing an inspirational TV show"
+        },
+        {
+         "key": 2,
+         "value": "reading a controversial journal article"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần biết \"},{\"text\":\"điều gì khuyến khích Howard bắt đầu viết luận \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''So, did you find your tutor helpful in\"},{\"text\":\" getting you started\",\"bold\":true},{\"text\":\"?''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về sự giúp đó của tutor, Howard nói ''Yeah, we certainly\"},{\"text\":\" had some interesting discussions\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tuy nhiên cái mà cho Howard động lực là ''But it's funny I \"},{\"text\":\"saw a brilliant program about climate chang\",\"bold\":true},{\"text\":\"e, and it was that \"},{\"text\":\"that fired me up\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc anh ấy\"},{\"text\":\" \",\"bold\":true},{\"text\":\"xem \"},{\"text\":\"một chương trình trên TV đã tạo động lực cho anh ấy.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 141,
+          "endTimeInSeconds": 159,
+          "transcripts": [
+           {
+            "id": "14/141752-146168",
+            "startTimeInSeconds": 141,
+            "endTimeInSeconds": 146,
+            "text": "So, did you find your tutor helpful in getting you started? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "15/146168-159596",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 159,
+            "text": "\tYeah, we certainly had some interesting discussions. But it's funny I saw a brilliant program about climate change, and it was that that fired me up. It was talking about some recent research which seemed to contradict some of the articles I've been reading.",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter,"
+         },
+         {
+          "text": " A, B",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "343c72ac-638d-11ef-a222-0be33feee6cc",
+     "questions": [
+      {
+       "uuid": "343c72ad-638d-11ef-a222-0be33feee6cc",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO things does Howard suggest Joanne to do in the first month of tutorials?",
+       "options": [
+        {
+         "key": 0,
+         "value": "see her tutor every week"
+        },
+        {
+         "key": 1,
+         "value": "review all the module book lists"
+        },
+        {
+         "key": 2,
+         "value": "buy all the key books"
+        },
+        {
+         "key": 3,
+         "value": "take down references for what she reads"
+        },
+        {
+         "key": 4,
+         "value": "write a draft of the first chapter"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Joanna nên làm gì vào tháng đầu tiên của tutorials\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''So you see your \"},{\"text\":\"tutorials \",\"bold\":true},{\"text\":\"start next week.''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, về tutor, ''You know you \"},{\"text\":\"don't see him every week\",\"bold\":true},{\"text\":\", only when you want to check something'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Howard khuyên mình k\"},{\"text\":\"hông nên quá dựa dẫm vào giáo viên\",\"bold\":true},{\"text\":\", mình\"},{\"text\":\" chỉ gặp họ khi cần thôi\",\"bold\":true},{\"text\":\" chứ không phải tuần một lần \\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Thứ hai, ''It's \"},{\"text\":\"helpful to look through the bibliographies\",\"bold\":true},{\"text\":\" for all the course modules relating to your topic'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình \"},{\"text\":\"nên đọc qua tất cả các course module book\",\"bold\":true},{\"text\":\" liên quan tới chủ đề.\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 203,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "16/203377-206039",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 206,
+            "text": "\tSo you see your tutorials start next week",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "17/206039-207080",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 207,
+            "text": "Yeah. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "18/207080-217989",
+            "startTimeInSeconds": 207,
+            "endTimeInSeconds": 217,
+            "text": "Well, the first month was crucial. You've got to meet your tutor and decide your focus, but don't become too dependent on him. You know you don't see him every week, only when you want to check something ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "19/217989-219004",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 219,
+            "text": "Right. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "20/219004-228450",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 228,
+            "text": "Once you got the focus, you've got to get reading. It's helpful to look through the bibliographies for all the course modules relating to your topic and get hold of any books you think you'll need. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "21/228450-230221",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 230,
+            "text": "I haven't got much money. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "22/230221-233157",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 233,
+            "text": "I mean get the books from the library, far better. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "23/233157-237543",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 237,
+            "text": "And I suppose I should prepare a detailed outline of the chapters. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "24/237543-242737",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 242,
+            "text": "Yeah, absolutely. But don't feel you have to follow it slavishly. It's meant to be flexible. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "25/242737-248898",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 248,
+            "text": "Okay. Now I'm someone who likes to get writing quickly. I can't just sit and read for a month. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "26/248898-255617",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 255,
+            "text": "Not like me then. But if that's what suits you, you know, your natural approach, then you want to start immediately and write the first chapter. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "27/255617-256707",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 256,
+            "text": "\tRight. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley12\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi Joanne bảo\"},{\"text\":\" không có nhiều tiền mua sách\",\"bold\":true},{\"text\":\", Howard nói ''I mean\"},{\"text\":\" get the books from the library\",\"bold\":true},{\"text\":\", far \"},{\"text\":\"better\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Howard khuyên \"},{\"text\":\"mượn sách ở thư viện chứ đừng mua\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''then you want to \"},{\"text\":\"start immediately\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"write the first chapter\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nên \"},{\"text\":\"bắt tay vào viết ngay chương đầu tiên\",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 203,
+          "endTimeInSeconds": 256,
+          "transcripts": [
+           {
+            "id": "16/203377-206039",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 206,
+            "text": "\tSo you see your tutorials start next week",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "17/206039-207080",
+            "startTimeInSeconds": 206,
+            "endTimeInSeconds": 207,
+            "text": "Yeah. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "18/207080-217989",
+            "startTimeInSeconds": 207,
+            "endTimeInSeconds": 217,
+            "text": "Well, the first month was crucial. You've got to meet your tutor and decide your focus, but don't become too dependent on him. You know you don't see him every week, only when you want to check something ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "19/217989-219004",
+            "startTimeInSeconds": 217,
+            "endTimeInSeconds": 219,
+            "text": "Right. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "20/219004-228450",
+            "startTimeInSeconds": 219,
+            "endTimeInSeconds": 228,
+            "text": "Once you got the focus, you've got to get reading. It's helpful to look through the bibliographies for all the course modules relating to your topic and get hold of any books you think you'll need. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "21/228450-230221",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 230,
+            "text": "I haven't got much money. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "22/230221-233157",
+            "startTimeInSeconds": 230,
+            "endTimeInSeconds": 233,
+            "text": "I mean get the books from the library, far better. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "23/233157-237543",
+            "startTimeInSeconds": 233,
+            "endTimeInSeconds": 237,
+            "text": "And I suppose I should prepare a detailed outline of the chapters. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "24/237543-242737",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 242,
+            "text": "Yeah, absolutely. But don't feel you have to follow it slavishly. It's meant to be flexible. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "25/242737-248898",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 248,
+            "text": "Okay. Now I'm someone who likes to get writing quickly. I can't just sit and read for a month. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "26/248898-255617",
+            "startTimeInSeconds": 248,
+            "endTimeInSeconds": 255,
+            "text": "Not like me then. But if that's what suits you, you know, your natural approach, then you want to start immediately and write the first chapter. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "27/255617-256707",
+            "startTimeInSeconds": 255,
+            "endTimeInSeconds": 256,
+            "text": "\tRight. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "343c72ae-638d-11ef-a222-0be33feee6cc",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO things does Howard say about library provision?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Staff are particularly helpful to undergraduate"
+        },
+        {
+         "key": 1,
+         "value": "Inter-library loans are very reliable"
+        },
+        {
+         "key": 2,
+         "value": "Students can borrow extra books when writing a dissertation"
+        },
+        {
+         "key": 3,
+         "value": "Staff recommend relevant old dissertations"
+        },
+        {
+         "key": 4,
+         "value": "It’s difficult to access electronic resources"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"Howard nói gì về library provision\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"About the library\",\"bold\":true},{\"text\":\", it's not worthwhile getting on good terms with the staff...''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Khi nói về staff, Howard bảo ''they \"},{\"text\":\"aren't always helpfu\",\"bold\":true},{\"text\":\"l with \"},{\"text\":\"undergraduates\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Staff thường\"},{\"text\":\" không hỗ trợ sinh viên nhiều \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Về \"},{\"text\":\"inter-library loans\",\"bold\":true},{\"text\":\", Joanne nói ''But I've heard\"},{\"text\":\" it isn't all that reliable\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Và Howard cũng đồng tình \\\"\"},{\"text\":\"you're right\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Inter-library loans \"},{\"text\":\"không đáng tin cậy \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" TIếp theo nghe được là ''during the dissertation writing period, you\"},{\"text\":\" can take out 15 instead of the usual 10 books\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Khi mình đang viết luận\",\"bold\":true},{\"text\":\", mình\"},{\"text\":\" có thể mượn nhiều sách hơn\",\"bold\":true},{\"text\":\" (15 thay vì bình thường là 10) \\n=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 256,
+          "endTimeInSeconds": 314,
+          "transcripts": [
+           {
+            "id": "28/256707-264382",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 264,
+            "text": "Now, Joanne. About the library, it's not worthwhile getting on good terms with the staff; they aren't always helpful with undergraduates. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "29/264382-267350",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 267,
+            "text": "I suppose they focus on post-grads more. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "30/267350-271268",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 271,
+            "text": "Maybe. But show them you are serious about wanting to do good work. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "31/271268-273898",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 273,
+            "text": "And what if I can't find what I need? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "32/273898-276180",
+            "startTimeInSeconds": 273,
+            "endTimeInSeconds": 276,
+            "text": "Well, there're inter-library loans.",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "33/276180-280348",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 280,
+            "text": "Borrowing books from the libraries. But I've heard it isn't all that reliable. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "34/280348-292978",
+            "startTimeInSeconds": 280,
+            "endTimeInSeconds": 292,
+            "text": "\tHmm, you're right, but you probably won't need it anyway, be positive! The library is likely to have most things you need, and during the dissertation writing period, you can take out 15 instead of the usual 10 books. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "35/292978-295540",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 295,
+            "text": "Should I look at previous years' dissertations? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "36/295540-296897",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 296,
+            "text": "You can do. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "37/296897-299194",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 299,
+            "text": "But I don't know which are the good ones. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "38/299194-302402",
+            "startTimeInSeconds": 299,
+            "endTimeInSeconds": 302,
+            "text": "The library only keeps the best, and the staff can advise you. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "39/302402-304023",
+            "startTimeInSeconds": 302,
+            "endTimeInSeconds": 304,
+            "text": "\tAre they willing to do that? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "40/304023-305792",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 305,
+            "text": "Oh yeah! ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "41/305792-309640",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 309,
+            "text": "And I'm worried about getting journal articles from the electronic library. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "42/309640-311633",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 311,
+            "text": "Well, have you tried to find any yet? ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "43/311633-312152",
+            "startTimeInSeconds": 311,
+            "endTimeInSeconds": 312,
+            "text": "No. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "44/312152-314532",
+            "startTimeInSeconds": 312,
+            "endTimeInSeconds": 314,
+            "text": "Well you should; it's really straightforward. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Về old dissertations, ''Should I look at\"},{\"text\":\" previous years' dissertations\",\"bold\":true},{\"text\":\"?''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Howard nói là ''The library \"},{\"text\":\"only keeps the best\",\"bold\":true},{\"text\":\", and the \"},{\"text\":\"staff can advise you\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Staff sẽ gợi ý mình về những bài luận tốt\",\"bold\":true},{\"text\":\" và phù hợp nhất.\\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, về electronic library (=electronic resources), Howard nhận xét là ''Well you should; it's really \"},{\"text\":\"straightforward\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sử dụng thư viện diện tử \"},{\"text\":\"rất đơn giản\",\"bold\":true},{\"text\":\" (straightforward đồng nghĩa với simple) chứ \"},{\"text\":\"không khó khăn \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 256,
+          "endTimeInSeconds": 314,
+          "transcripts": [
+           {
+            "id": "28/256707-264382",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 264,
+            "text": "Now, Joanne. About the library, it's not worthwhile getting on good terms with the staff; they aren't always helpful with undergraduates. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "29/264382-267350",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 267,
+            "text": "I suppose they focus on post-grads more. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "30/267350-271268",
+            "startTimeInSeconds": 267,
+            "endTimeInSeconds": 271,
+            "text": "Maybe. But show them you are serious about wanting to do good work. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "31/271268-273898",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 273,
+            "text": "And what if I can't find what I need? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "32/273898-276180",
+            "startTimeInSeconds": 273,
+            "endTimeInSeconds": 276,
+            "text": "Well, there're inter-library loans.",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "33/276180-280348",
+            "startTimeInSeconds": 276,
+            "endTimeInSeconds": 280,
+            "text": "Borrowing books from the libraries. But I've heard it isn't all that reliable. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "34/280348-292978",
+            "startTimeInSeconds": 280,
+            "endTimeInSeconds": 292,
+            "text": "\tHmm, you're right, but you probably won't need it anyway, be positive! The library is likely to have most things you need, and during the dissertation writing period, you can take out 15 instead of the usual 10 books. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "35/292978-295540",
+            "startTimeInSeconds": 292,
+            "endTimeInSeconds": 295,
+            "text": "Should I look at previous years' dissertations? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "36/295540-296897",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 296,
+            "text": "You can do. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "37/296897-299194",
+            "startTimeInSeconds": 296,
+            "endTimeInSeconds": 299,
+            "text": "But I don't know which are the good ones. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "38/299194-302402",
+            "startTimeInSeconds": 299,
+            "endTimeInSeconds": 302,
+            "text": "The library only keeps the best, and the staff can advise you. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "39/302402-304023",
+            "startTimeInSeconds": 302,
+            "endTimeInSeconds": 304,
+            "text": "\tAre they willing to do that? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "40/304023-305792",
+            "startTimeInSeconds": 304,
+            "endTimeInSeconds": 305,
+            "text": "Oh yeah! ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "41/305792-309640",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 309,
+            "text": "And I'm worried about getting journal articles from the electronic library. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "42/309640-311633",
+            "startTimeInSeconds": 309,
+            "endTimeInSeconds": 311,
+            "text": "Well, have you tried to find any yet? ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "43/311633-312152",
+            "startTimeInSeconds": 311,
+            "endTimeInSeconds": 312,
+            "text": "No. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "44/312152-314532",
+            "startTimeInSeconds": 312,
+            "endTimeInSeconds": 314,
+            "text": "Well you should; it's really straightforward. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "343c72af-638d-11ef-a222-0be33feee6cc",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO things does Joanne agree to discuss with her tutor?",
+       "options": [
+        {
+         "key": 0,
+         "value": "the best ways to collaborate with other students"
+        },
+        {
+         "key": 1,
+         "value": "who to get help from during college vacations"
+        },
+        {
+         "key": 2,
+         "value": "the best way to present the research"
+        },
+        {
+         "key": 3,
+         "value": "whether she can use web sources"
+        },
+        {
+         "key": 4,
+         "value": "how to manage her study time"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng là về \"},{\"text\":\"tutor\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''\"},{\"text\":\"Dr. Peterson\",\"bold\":true},{\"text\":\" will help.''\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy  ''...\"},{\"text\":\"He will be away\",\"bold\":true},{\"text\":\" in the second month'' và Howard khuyên là ''You \"},{\"text\":\"should ask him what to do\",\"bold\":true},{\"text\":\" while he's away.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Joanne cần check với tutor là trong \"},{\"text\":\"lúc tutor đang nghỉ lễ thì nên tham khảo ai \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, Joanne nói tiếp '' but I suppose I can \"},{\"text\":\"get a lot of support from a couple of people\",\"bold\":true},{\"text\":\" ...'' (đề cập tới \"},{\"text\":\"collaboration\",\"bold\":true},{\"text\":\") \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Tuy nhiên Howard khuyên Joanne\"},{\"text\":\" nên tự tìm hiểu\",\"bold\":true},{\"text\":\", ''I think \"},{\"text\":\"you'd better see how it works out\",\"bold\":true},{\"text\":\", what the people are like\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không liên quan gì đến tutor \\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "45/314532-317090",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 317,
+            "text": "That's obviously something I'll have to look into. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "46/317090-318664",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 318,
+            "text": "Dr. Peterson will help. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "47/318664-322103",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 322,
+            "text": "Yeah, I know I can go to him if I have any worries. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "48/322103-328779",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 328,
+            "text": "Except he will be away in the second month. It's the holidays. You should ask him what to do while he's away. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "49/328779-334922",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 334,
+            "text": "Gosh yeah, but I suppose I can get a lot of support from a couple of people who are thinking of doing the same topic as me. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "50/334922-341643",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 341,
+            "text": "Take care, collaboration can become dependency! I think you'd better see how it works out, what the people are like. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "51/341643-349337",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 349,
+            "text": "You're probably right. About the reading, I suppose Dr. Peterson would recommend plenty of articles to get me started. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "52/349337-354172",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 354,
+            "text": "\tOne thing I find out is what his attitude is to internet sources. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "53/354172-358000",
+            "startTimeInSeconds": 354,
+            "endTimeInSeconds": 358,
+            "text": "Surely not in this day and age. I'd better get that sorted out right at the beginning ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "54/358936-360669",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 360,
+            "text": "I would if I were you. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "55/360934-367793",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 367,
+            "text": "And I've also got some questions about the research sections. How much time should I spend explaining the process? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "56/367793-371000",
+            "startTimeInSeconds": 367,
+            "endTimeInSeconds": 371,
+            "text": "Well, I think that's up to you. You can see how it develops as you're writing. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "57/371953-373091",
+            "startTimeInSeconds": 371,
+            "endTimeInSeconds": 373,
+            "text": "Okay. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "58/373091-378457",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 378,
+            "text": "It's the same with things like time management. That's something a tutor can't really help you with. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "59/378457-379654",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 379,
+            "text": "I agree. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "60/379654-382412",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 382,
+            "text": "So is there anything else you need me to go over.",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo là về reading articles, ''One thing I'd find out is\"},{\"text\":\" what his attitude is to internet sources.\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Joanne trả lời \\\"\",\"marks\":[]},{\"text\":\"I'd better get that sorted out\",\"marks\":[],\"bold\":true},{\"text\":\" right at the beginning\\\" \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cần check trước xem \"},{\"text\":\"liệu tutor có cho phép sử dụng các nguồn trên mạng không\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về research sections, Joanne hỏi ''\"},{\"text\":\"How much time should I spend\",\"bold\":true},{\"text\":\" explaining the process?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Howard bảo rằng  ''Well, I think \"},{\"text\":\"that's up to you\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cái này là\"},{\"text\":\" tùy cô ấy\",\"bold\":true},{\"text\":\", do đó \"},{\"text\":\"không cần bàn bạc với tutor\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo nghe được là \\\"\"},{\"text\":\"It's the same with\",\"bold\":true},{\"text\":\" things like\"},{\"text\":\" time management\",\"bold\":true},{\"text\":\". That's \"},{\"text\":\"something a tutor can't really help\",\"bold\":true},{\"text\":\" you with.''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Tutor không thể giúp với vấn đề quản lý thời gian \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 314,
+          "endTimeInSeconds": 382,
+          "transcripts": [
+           {
+            "id": "45/314532-317090",
+            "startTimeInSeconds": 314,
+            "endTimeInSeconds": 317,
+            "text": "That's obviously something I'll have to look into. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "46/317090-318664",
+            "startTimeInSeconds": 317,
+            "endTimeInSeconds": 318,
+            "text": "Dr. Peterson will help. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "47/318664-322103",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 322,
+            "text": "Yeah, I know I can go to him if I have any worries. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "48/322103-328779",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 328,
+            "text": "Except he will be away in the second month. It's the holidays. You should ask him what to do while he's away. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "49/328779-334922",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 334,
+            "text": "Gosh yeah, but I suppose I can get a lot of support from a couple of people who are thinking of doing the same topic as me. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "50/334922-341643",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 341,
+            "text": "Take care, collaboration can become dependency! I think you'd better see how it works out, what the people are like. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "51/341643-349337",
+            "startTimeInSeconds": 341,
+            "endTimeInSeconds": 349,
+            "text": "You're probably right. About the reading, I suppose Dr. Peterson would recommend plenty of articles to get me started. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "52/349337-354172",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 354,
+            "text": "\tOne thing I find out is what his attitude is to internet sources. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "53/354172-358000",
+            "startTimeInSeconds": 354,
+            "endTimeInSeconds": 358,
+            "text": "Surely not in this day and age. I'd better get that sorted out right at the beginning ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "54/358936-360669",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 360,
+            "text": "I would if I were you. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "55/360934-367793",
+            "startTimeInSeconds": 360,
+            "endTimeInSeconds": 367,
+            "text": "And I've also got some questions about the research sections. How much time should I spend explaining the process? ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "56/367793-371000",
+            "startTimeInSeconds": 367,
+            "endTimeInSeconds": 371,
+            "text": "Well, I think that's up to you. You can see how it develops as you're writing. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "57/371953-373091",
+            "startTimeInSeconds": 371,
+            "endTimeInSeconds": 373,
+            "text": "Okay. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "58/373091-378457",
+            "startTimeInSeconds": 373,
+            "endTimeInSeconds": 378,
+            "text": "It's the same with things like time management. That's something a tutor can't really help you with. ",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           },
+           {
+            "id": "59/378457-379654",
+            "startTimeInSeconds": 378,
+            "endTimeInSeconds": 379,
+            "text": "I agree. ",
+            "character": {
+             "id": "yr9x1UWuqlI-fNOA_Ny1M",
+             "name": "Joanne"
+            }
+           },
+           {
+            "id": "60/379654-382412",
+            "startTimeInSeconds": 379,
+            "endTimeInSeconds": 382,
+            "text": "So is there anything else you need me to go over.",
+            "character": {
+             "id": "0qZ-mNTN783fOO0ImtyOC",
+             "name": "Howard"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters,"
+         },
+         {
+          "text": " A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Chain Stores In The UK",
+   "duration": 6,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "9bffba71-2753-11ed-9917-6b4c6718aa1d",
+     "questions": [
+      {
+       "uuid": "9bffba72-2753-11ed-9917-6b4c6718aa1d",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"công ty mở thêm cái gì để mở rộng thị phần ở Anh\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' ... which resulted in a \"},{\"text\":\"massive expansion \",\"bold\":true},{\"text\":\"of their client base.''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''This strategy was so successful that\"},{\"text\":\" they were able to open petrol station\",\"bold\":true},{\"text\":\"s across the country, subsequently \"},{\"text\":\"increasing their market share in England\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vậy họ có thể \"},{\"text\":\"mở thêm các trạm xăng\",\"bold\":true},{\"text\":\", từ đó \"},{\"text\":\"tăng thị phần của họ ở nước Anh.\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: petrol stations \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 71,
+          "endTimeInSeconds": 96,
+          "transcripts": [
+           {
+            "id": "2/71181-78715",
+            "startTimeInSeconds": 71,
+            "endTimeInSeconds": 78,
+            "text": "When it was founded, the company was a family-run organization with only one shop open in a small town in southern England. "
+           },
+           {
+            "id": "3/78715-87982",
+            "startTimeInSeconds": 78,
+            "endTimeInSeconds": 87,
+            "text": "The family was able to compete with other local companies by offering special discounts for returning customers, which resulted in a massive expansion of their client base. "
+           },
+           {
+            "id": "4/87982-96203",
+            "startTimeInSeconds": 87,
+            "endTimeInSeconds": 96,
+            "text": "This strategy was so successful that they were able to open petrol stations across the country, subsequently increasing their market share in England."
+           }
+          ]
+         },
+         "value": "petrol stations",
+         "blankId": "ZiYwDOM6pr0w0baP1bNo-"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem họ \"},{\"text\":\"tăng doanh thu bằng cách giảm số lượng các chi nhánh ở đâu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Đáp án sẽ có sau ''By comparing the sales income from all of their \"},{\"text\":\"stores\",\"bold\":true},{\"text\":\" ...'' (stores ở đây có thể hiểu là branches)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''They discovered that \"},{\"text\":\"by closing the less useful stations\",\"bold\":true},{\"text\":\" \"},{\"text\":\"in the south of Scotland\",\"bold\":true},{\"text\":\", they could\"},{\"text\":\" increase the income\",\"bold\":true},{\"text\":\" from their other more profitable stations.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bằng cách \"},{\"text\":\"đóng cửa các trạm làm ăn kém ở miền Nam Scotland\",\"bold\":true},{\"text\":\", họ có thể tăng doanh thu (tức raise capital)\\n=> \"},{\"text\":\"Đáp án:  Scotland \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 96,
+          "endTimeInSeconds": 125,
+          "transcripts": [
+           {
+            "id": "5/96203-116015",
+            "startTimeInSeconds": 96,
+            "endTimeInSeconds": 116,
+            "text": "Within a decade, Telsa was running establishments throughout the UK, including Wales and Scotland. By comparing the sales income from all of their stores, they were able to collate data that highlighted which areas were the most profitable stations in the south of Scotland. "
+           },
+           {
+            "id": "6/116015-119126",
+            "startTimeInSeconds": 116,
+            "endTimeInSeconds": 119,
+            "text": "They discovered that by closing the less useful stations in the south of Scotland, they could increase the income from their other more profitable stations. "
+           },
+           {
+            "id": "7/119126-125682",
+            "startTimeInSeconds": 119,
+            "endTimeInSeconds": 125,
+            "text": "This example demonstrates the importance of continually monitoring and maintaining a clear view of the finances of the company."
+           }
+          ]
+         },
+         "value": "Scotland",
+         "blankId": "jIkU7OhczQ5h_0FyUxbuS"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mục tiếp theo là \"},{\"text\":\"consultation (tư vấn) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau '' ... they needed to \"},{\"text\":\"hire professional consultants\",\"bold\":true},{\"text\":\".''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''After assessing the company's financial statements, the \"},{\"text\":\"consultants advised that Telsa close the head office of the convenience stores\",\"bold\":true},{\"text\":\" in Oxford.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Consultants khuyên Telsa nên \"},{\"text\":\"đóng cửa văn phòng trụ sở của các cửa hàng tiện lợi \",\"bold\":true},{\"text\":\"để giảm chi phí.\\n=> \"},{\"text\":\"Đáp án là head office \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 125,
+          "endTimeInSeconds": 150,
+          "transcripts": [
+           {
+            "id": "8/125682-134087",
+            "startTimeInSeconds": 125,
+            "endTimeInSeconds": 134,
+            "text": "Once the expertise required to run the company had exceeded the abilities of the family, they needed to hire professional consultants."
+           },
+           {
+            "id": "9/134087-142079",
+            "startTimeInSeconds": 134,
+            "endTimeInSeconds": 142,
+            "text": "After assessing the company's financial statements, the consultants advised that Telsa close the head office of the convenience stores in Oxford. "
+           },
+           {
+            "id": "10/142079-150452",
+            "startTimeInSeconds": 142,
+            "endTimeInSeconds": 150,
+            "text": "They deemed the head office unnecessary and identified it as a financial drain on the company as the premises were expensive to run and generated no income. "
+           }
+          ]
+         },
+         "value": "head office",
+         "blankId": "t4RCr5UAeHwKuV-dG4Dec"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng là \"},{\"text\":\"200 nhân viên ở head office \",\"bold\":true},{\"text\":\"(Over 200 stafff had to be transferred and ___ )\\n\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''To avoid firing any employees, they\"},{\"text\":\" transferred over 200 staff\",\"bold\":true},{\"text\":\" to other offices and \"},{\"text\":\"retrained them\",\"bold\":true},{\"text\":\" to carry out their new roles.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> 200 nhân viên cũ \"},{\"text\":\"được transferred \",\"bold\":true},{\"text\":\"(chuyển)\"},{\"text\":\" \",\"bold\":true},{\"text\":\"sang offices mới và\"},{\"text\":\" được retrained\",\"bold\":true},{\"text\":\" (đào tạo lại)\"},{\"text\":\" \",\"bold\":true},{\"text\":\"cho các chức vụ mới.\\n=>\"},{\"text\":\" Đáp án: retrained \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 150,
+          "endTimeInSeconds": 159,
+          "transcripts": [
+           {
+            "id": "11/150452-159579",
+            "startTimeInSeconds": 150,
+            "endTimeInSeconds": 159,
+            "text": "To avoid firing any employees, they transferred over 200 staff to other offices and retrained them to carry out their new roles."
+           }
+          ]
+         },
+         "value": "retrained",
+         "blankId": "dbsfpHy4lXcsg8sLe0npQ"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một mặt hàng nào đó \",\"bold\":true},{\"text\":\"(A new brand image was established to concentrate on selling ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Đáp án sẽ có sau '' they were able to branch out into other \"},{\"text\":\"niche areas \",\"bold\":true},{\"text\":\"that offered prospects for profits.'' (niche areas là các thị trường bán hàng tập trung ~ concentrate on selling...)\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là ''They realized that they could\"},{\"text\":\" establish a new environmentally-friendly brand image\",\"bold\":true},{\"text\":\" by \"},{\"text\":\"selling fresh food\",\"bold\":true},{\"text\":\" in their convenience stores ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ sẽ \"},{\"text\":\"tạo một hình ảnh thương hiệu mới\",\"bold\":true},{\"text\":\" bằng cách\"},{\"text\":\" bán đồ ăn tươi \",\"bold\":true},{\"text\":\"trong cửa hàng tiện lợi.\\n=>\"},{\"text\":\" Đáp án: fresh food \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 159,
+          "endTimeInSeconds": 184,
+          "transcripts": [
+           {
+            "id": "12/159579-167852",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 167,
+            "text": "Now that Telsa had conquered the petrol market in the UK, they were able to branch out into other niche areas that offered prospects for profits. "
+           },
+           {
+            "id": "13/167852-177634",
+            "startTimeInSeconds": 167,
+            "endTimeInSeconds": 177,
+            "text": "They realized that they could establish a new environmentally-friendly brand image by selling fresh food in their convenience stores that had been grown by local farmers. "
+           },
+           {
+            "id": "14/177634-184393",
+            "startTimeInSeconds": 177,
+            "endTimeInSeconds": 184,
+            "text": "This strategy would not only broaden the scope of the company but also help to strengthen its relationships with local communities."
+           }
+          ]
+         },
+         "value": "fresh food",
+         "blankId": "JVghIl36Up_tkNagd7Fpc"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" ai được giao trách nhiệm tổ chức discussion\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''These \"},{\"text\":\"meetings \",\"bold\":true},{\"text\":\"are essential .... '' (meeting ~ discussion)\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cách làm của họ là ''They did this by\"},{\"text\":\" assigning every manager the task of holding staff discussions\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ sẽ \"},{\"text\":\"chỉ định một manager tổ chức các buổi thảo luận của staff\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: manager \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 184,
+          "endTimeInSeconds": 210,
+          "transcripts": [
+           {
+            "id": "15/184393-193210",
+            "startTimeInSeconds": 184,
+            "endTimeInSeconds": 193,
+            "text": "Every year, Telsa holds a meeting in London where all of the consultants and managers meet to discuss plans for development and improvement."
+           },
+           {
+            "id": "16/193210-201658",
+            "startTimeInSeconds": 193,
+            "endTimeInSeconds": 201,
+            "text": "These meetings are essential to the evolution of the company, as feedback is heard from all level of the organization, from the sales staff to the CEOs. "
+           },
+           {
+            "id": "17/201658-210272",
+            "startTimeInSeconds": 201,
+            "endTimeInSeconds": 210,
+            "text": "They did this by assigning every manager the task of holding staff discussions, at which ideas and concerns would be passed on for evaluation at the meeting."
+           }
+          ]
+         },
+         "value": "manager",
+         "blankId": "zNTjlRtr8i9u9uwLYIFoA"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"retail stores phải linh hoạt trong việc phát triển cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Telsa decided to accommodate the individuality of each of\"},{\"text\":\" their stores\",\"bold\":true},{\"text\":\" ...'' \\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''They realized that \"},{\"text\":\"by increasing the flexibility of the profit-making strategies\",\"bold\":true},{\"text\":\" of each of the retail stores, they subsequently \"},{\"text\":\"became more commercially successful\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Tăng sự linh hoạt trong chiến lược\",\"bold\":true},{\"text\":\", kiếm nhiều tiền hơn\\n=> Các retail stores \"},{\"text\":\"phải linh hoạt trong việc phát triển chiến lược \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: strategies \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 210,
+          "endTimeInSeconds": 227,
+          "transcripts": [
+           {
+            "id": "18/210272-218570",
+            "startTimeInSeconds": 210,
+            "endTimeInSeconds": 218,
+            "text": "Telsa decided to accommodate the individuality of each of their stores instead of forcing them to conform to one overriding company identity. "
+           },
+           {
+            "id": "19/218570-227451",
+            "startTimeInSeconds": 218,
+            "endTimeInSeconds": 227,
+            "text": "They realized that by increasing the flexibility of the profit-making strategies of each of the retail stores, they subsequently became more commercially successful. "
+           }
+          ]
+         },
+         "value": "strategies",
+         "blankId": "PMGUHkyeGimgZBXL2JrVu"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng tiếp theo là\"},{\"text\":\" the staff \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''The level of \"},{\"text\":\"staff satisfaction\",\"bold\":true},{\"text\":\" also doubled as a result ...''\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo người nói, ''To avoid misunderstandings and mistakes, any \"},{\"text\":\"future changes were introduced in stages\",\"bold\":true},{\"text\":\" \"},{\"text\":\"to familiarize the staff \",\"bold\":true},{\"text\":\"with the \"},{\"text\":\"new regulations\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Các thay đổi trong tương lai được áp dụng theo các bước nhỏ \",\"bold\":true},{\"text\":\"(stages) để \"},{\"text\":\"staff có thể làm quen dần\",\"bold\":true},{\"text\":\" (familiarize with new regulations= become accustomed to the new rules)\\n=> \"},{\"text\":\"Đáp án: stages  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 227,
+          "endTimeInSeconds": 242,
+          "transcripts": [
+           {
+            "id": "20/227451-235265",
+            "startTimeInSeconds": 227,
+            "endTimeInSeconds": 235,
+            "text": "The level of staff satisfaction also doubled as a result, as the individuals felt that they were not being constrained to one way of thinking. "
+           },
+           {
+            "id": "21/235265-242857",
+            "startTimeInSeconds": 235,
+            "endTimeInSeconds": 242,
+            "text": "To avoid misunderstandings and mistakes, any future changes were introduced in stages to familiarize the staff with the new regulations."
+           }
+          ]
+         },
+         "value": "stages",
+         "blankId": "KOe52obSs6COGTSqKW2Hb"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến mình sẽ\"},{\"text\":\" sang phần conclusion \",\"bold\":true},{\"text\":\"(Keep ___ about the expansion plans they choose)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Now, it's time to \"},{\"text\":\"conclude \",\"bold\":true},{\"text\":\"the lecture for today ...''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''To run a successful business, one\"},{\"text\":\" cannot underestimate the importance\",\"bold\":true},{\"text\":\" of\"},{\"text\":\" maintaining open-minded when deciding on strategies for expansion\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ cần \"},{\"text\":\"phải có tư tưởng cởi mở\",\"bold\":true},{\"text\":\" \"},{\"text\":\"khi quyết định chiến lược mở rộng,\",\"bold\":true},{\"text\":\" phát triển. ( keep = maintain) \\n=> \"},{\"text\":\"Đáp án: open-minded \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 242,
+          "endTimeInSeconds": 268,
+          "transcripts": [
+           {
+            "id": "22/242857-257115",
+            "startTimeInSeconds": 242,
+            "endTimeInSeconds": 257,
+            "text": "Now, it's time to conclude the lecture for today, so I will leave you with some food for thought before you go. To run a successful business, one cannot underestimate the importance of maintaining open-minded when deciding on strategies for expansion."
+           },
+           {
+            "id": "23/257115-264063",
+            "startTimeInSeconds": 257,
+            "endTimeInSeconds": 264,
+            "text": "Sometimes it's necessary to employ an independent consultant who can offer an objective and unbiased view on the running of your company. "
+           },
+           {
+            "id": "24/264063-268589",
+            "startTimeInSeconds": 264,
+            "endTimeInSeconds": 268,
+            "text": "Emotion will only ever cloud your ability to make business-related decisions."
+           }
+          ]
+         },
+         "value": "open-minded",
+         "blankId": "auHjEGYXbx9HHQIW6U5xI"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng cuối cùng là \"},{\"text\":\"department store \",\"bold\":true},{\"text\":\"(Companies have saved costs by changing the ___ structure of department store)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ có sau ''Research suitable case studies and look at how \"},{\"text\":\"department stores\",\"bold\":true},{\"text\":\", ...''\\n\"},{\"text\":\"\\n\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, '' ... were able to \"},{\"text\":\"alter their organizational structure\",\"bold\":true},{\"text\":\" while \"},{\"text\":\"minimizing costs\",\"bold\":true},{\"text\":\" and staff redundancies.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Department stores \"},{\"text\":\"có thể tiết kiệm tiền\",\"bold\":true},{\"text\":\" (minimize costs) bằng cách \"},{\"text\":\"thay đổi organization structure \",\"bold\":true},{\"text\":\"(alter = change) \\n=> \"},{\"text\":\"Đáp án: organizational \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 268,
+          "endTimeInSeconds": 289,
+          "transcripts": [
+           {
+            "id": "25/268589-278743",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 278,
+            "text": "Research suitable case studies and look at how department stores, for example, were able to alter their organizational structure while minimizing costs and staff redundancies."
+           },
+           {
+            "id": "26/278743-285483",
+            "startTimeInSeconds": 278,
+            "endTimeInSeconds": 285,
+            "text": "Precedents are an essential resource when it comes to making decisions for your own business, so don't undervalue them!"
+           },
+           {
+            "id": "27/285483-289441",
+            "startTimeInSeconds": 285,
+            "endTimeInSeconds": 289,
+            "text": "Well, that wraps up our lecture for today. If there are any questions..."
+           }
+          ]
+         },
+         "value": "organizational",
+         "blankId": "POW_PpbPHLhXgHBoYJWsQ"
+        }
+       ],
+       "heading": "Chain Stores in the UK",
+       "paragraph": {
+        "id": "SQnTEsCzPoPnfCOIh7yKV",
+        "editorValue": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Initial expansion\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The company expanded by opening more \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31_____\"}],\"id\":\"ZiYwDOM6pr0w0baP1bNo-\"},{\"text\":\" in order to gain more market share in England.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They could raise capital by reducing the quantity of branches in southern \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"32_____\"}],\"id\":\"jIkU7OhczQ5h_0FyUxbuS\"},{\"text\":\".\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Consultation\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"They closed the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"33_____\"}],\"id\":\"t4RCr5UAeHwKuV-dG4Dec\"},{\"text\":\" of the convenience store in Oxford.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Over 200 staff had to be transferred and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"34_____\"}],\"id\":\"dbsfpHy4lXcsg8sLe0npQ\"},{\"text\":\".\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A new brand image was established to concentrate on selling \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"35_____\"}],\"id\":\"JVghIl36Up_tkNagd7Fpc\"},{\"text\":\".\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"The future way\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"A \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36_____\"}],\"id\":\"zNTjlRtr8i9u9uwLYIFoA\"},{\"text\":\" was assigned to hold each discussion.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Retail stores should be flexible in developing \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"37_____\"}],\"id\":\"PMGUHkyeGimgZBXL2JrVu\"},{\"text\":\" of making profits.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Changes should be brought into \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"38_____\"}],\"id\":\"KOe52obSs6COGTSqKW2Hb\"},{\"text\":\" so that the staff can become accustomed to the new rules.\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Conclusion\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Keep \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"39_____\"}],\"id\":\"auHjEGYXbx9HHQIW6U5xI\"},{\"text\":\" about the expansion plans they choose.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Companies have saved costs by changing the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"40_____\"}],\"id\":\"POW_PpbPHLhXgHBoYJWsQ\"},{\"text\":\" structure of department stores.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "ZiYwDOM6pr0w0baP1bNo-",
+          "key": 0
+         },
+         {
+          "id": "jIkU7OhczQ5h_0FyUxbuS",
+          "key": 1
+         },
+         {
+          "id": "t4RCr5UAeHwKuV-dG4Dec",
+          "key": 2
+         },
+         {
+          "id": "dbsfpHy4lXcsg8sLe0npQ",
+          "key": 3
+         },
+         {
+          "id": "JVghIl36Up_tkNagd7Fpc",
+          "key": 4
+         },
+         {
+          "id": "zNTjlRtr8i9u9uwLYIFoA",
+          "key": 5
+         },
+         {
+          "id": "PMGUHkyeGimgZBXL2JrVu",
+          "key": 6
+         },
+         {
+          "id": "KOe52obSs6COGTSqKW2Hb",
+          "key": 7
+         },
+         {
+          "id": "auHjEGYXbx9HHQIW6U5xI",
+          "key": 8
+         },
+         {
+          "id": "POW_PpbPHLhXgHBoYJWsQ",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:34Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

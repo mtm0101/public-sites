@@ -1,0 +1,2296 @@
+{
+ "schema": 1,
+ "id": "actual1-t1-listening",
+ "title": "Actual Test 1 - Listening Test 1",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 1",
+ "testNum": 1,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-1-test-1-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-1-test-1-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Moving Company Service Report",
+   "duration": 7,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "5370c418-dcd4-11ed-b839-e983270a47b5",
+     "questions": [
+      {
+       "uuid": "fMzWzS7X_bwDPW_W-vTLO",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"số điện thoại\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe\"},{\"text\":\" \\\"what's your work phone number\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley20\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe Jane đọc số điện thoại \\\"\"},{\"text\":\"9-4-6-3-triple 5-0\\\" \",\"bold\":true},{\"text\":\" (triple 5 = 555) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: 94635550 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 140,
+          "endTimeInSeconds": 157,
+          "transcripts": [
+           {
+            "id": "6/140796-146848",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 146,
+            "text": "OK, Jane, first of all, what’s your work phone number? In case I have any questions about things. ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "7/146848-157383",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 157,
+            "text": "My work phone is 94635550. But please try not to call me too often there. My boss hates personal calls. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "94635550",
+         "blankId": "kfdDs4ggiRafSXJLqjXzK"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" địa chỉ \",\"bold\":true},{\"text\":\"(509 ____ ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"what address\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy \\\"\"},{\"text\":\"509 Clark House, that's C-L-A-R-K\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Clark House \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 175,
+          "transcripts": [
+           {
+            "id": "8/157383-162102",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 162,
+            "text": "So does mine, ma’am, so does mine. And what address should we ship your things to? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "9/162102-175728",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 175,
+            "text": "My new company is letting me stay temporarily at 509 Clark House, that’s C-L-A-R-K, 1137 University Drive in Seattle. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Clark House",
+         "blankId": "wmoc256gVdAsNUy1bHTIk"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"1137 University Drive\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: University Drive \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 157,
+          "endTimeInSeconds": 175,
+          "transcripts": [
+           {
+            "id": "8/157383-162102",
+            "startTimeInSeconds": 157,
+            "endTimeInSeconds": 162,
+            "text": "So does mine, ma’am, so does mine. And what address should we ship your things to? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "9/162102-175728",
+            "startTimeInSeconds": 162,
+            "endTimeInSeconds": 175,
+            "text": "My new company is letting me stay temporarily at 509 Clark House, that’s C-L-A-R-K, 1137 University Drive in Seattle. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "University Drive",
+         "blankId": "05OWsSXl8VCFD-kUFSdgA"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" một ngày trong tuần \",\"bold\":true},{\"text\":\"(Day: ___ )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"When should we come pack your things?\\\"  \",\"bold\":true},{\"text\":\"(hỏi về thời gian)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe trả lời \\\"\"},{\"text\":\"Monday, \",\"bold\":true},{\"text\":\"March 11th\"},{\"text\":\"\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Monday \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 189,
+          "transcripts": [
+           {
+            "id": "10/175728-185620",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 185,
+            "text": "Seattle? Beautiful city, I hear. Mountains right beside the ocean, almost. Cooler than Australia, too. OK, and when should we come pack your things? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "11/185620-189746",
+            "startTimeInSeconds": 185,
+            "endTimeInSeconds": 189,
+            "text": "I guess that would be on Q4 Monday, March 11th. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Monday",
+         "blankId": "Q5J3yq7zwRK1krKQDj1VD"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley9\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"một ngày trong tuần\",\"bold\":true},{\"text\":\" (Day: ____ 14th )\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe thấy \\\"Do you want any help with an after-packing\"},{\"text\":\" clean-up\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"...\"},{\"text\":\"by 5:00 p.m. on Thursday the 14th\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Thursday\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 189,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "12/189746-195244",
+            "startTimeInSeconds": 189,
+            "endTimeInSeconds": 195,
+            "text": "Do you want any help with an after-packing clean-up? We do that for a small additional charge. ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "13/195244-203116",
+            "startTimeInSeconds": 195,
+            "endTimeInSeconds": 203,
+            "text": "Yes, that would be helpful. I promised the landlord I’d give her the keys back by 5:00 p.m. on Q5 Thursday, the 14th. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "Thursday",
+         "blankId": "sfo54xUkNk1XuPXg8yeUe"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" storage time \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Nghe thấy \\\"would it be possible to \"},{\"text\":\"put my furniture in storage here for a month\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: a/one month \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 228,
+          "endTimeInSeconds": 247,
+          "transcripts": [
+           {
+            "id": "19/228083-247799",
+            "startTimeInSeconds": 228,
+            "endTimeInSeconds": 247,
+            "text": "Well... maybe that’s so... Oh, I nearly forgot to tell you. I don’t want my furniture shipped with me. I won't be looking for an apartment till after I arrive in America. Would it be possible to put my furniture in storage here for Q6 a month, then have it sent along later? ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         },
+         "value": "a month/one month",
+         "blankId": "RJfrlGRFhdyQt7Nld0McR"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "kfdDs4ggiRafSXJLqjXzK",
+         "key": 0
+        },
+        {
+         "id": "wmoc256gVdAsNUy1bHTIk",
+         "key": 1
+        },
+        {
+         "id": "05OWsSXl8VCFD-kUFSdgA",
+         "key": 2
+        },
+        {
+         "id": "Q5J3yq7zwRK1krKQDj1VD",
+         "key": 3
+        },
+        {
+         "id": "sfo54xUkNk1XuPXg8yeUe",
+         "key": 4
+        },
+        {
+         "id": "RJfrlGRFhdyQt7Nld0McR",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"ajD6rZJmpXTTD80L-U1Me\",\"cellsWidth\":[221,300],\"children\":[{\"type\":\"tr\",\"id\":\"iEYzM-oFrrtSjIdh13e1P\",\"children\":[{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example \\n\"},{\"text\":\"Full Name:\",\"bold\":true}]}]}],\"id\":\"amKql1NaWgL660xwVnIYu\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Answer \\n\"},{\"text\":\"Jane Bond\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"d9wNh7wn0t9r9qJtSaRSo\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"v8Q_xijhxNFtV3RG8RBCY\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Phone Number:\",\"bold\":true}]}]}],\"scope\":\"row\",\"id\":\"ICAq2XQnLAZmtI_6pJ5Kq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"kfdDs4ggiRafSXJLqjXzK\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"gXWmIeSViiDI_wpqx7egg\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hXz3_mM3cTyCcG-v9cr7I\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"USA Address:\",\"bold\":true}]}]}],\"id\":\"IT3DlYT2LnhdhcqIsmwpF\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"509 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"wmoc256gVdAsNUy1bHTIk\",\"text\":\"\"}]},{\"text\":\"\\n1137 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"05OWsSXl8VCFD-kUFSdgA\",\"text\":\"\"}]},{\"text\":\", Seattle\"}]}]}],\"id\":\"uwaPUWQroUarIYoXax4mP\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"XsN-c1JMPuoq-_ZIUENVy\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Packing Day:\",\"bold\":true}]}]}],\"id\":\"W5Wb74BpCRyDIsqquGwzr\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Q5J3yq7zwRK1krKQDj1VD\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"MV_0kc1F_xfUgd9EIVUXK\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"rCdySRdYC9Mg4BLtBkAVI\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date:\",\"bold\":true}]}]}],\"id\":\"kq0DFwm9hS9DgxJ2sY3OG\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"11th March\"}]}]}],\"id\":\"ENhDMVicVlgsqBttSqCFh\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"8FfEkQZMADDN02DJvZ5VK\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Clean-up by:\",\"bold\":true}]}]}],\"id\":\"3lqPFuyzkocnJZ1Wlfeiw\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"5:00 p.m.\"}]}]}],\"id\":\"i6DMX3Ckm0NuDxdzaSljI\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"kULtvzIEpimYI0g8BWSAG\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Day:\",\"bold\":true}]}]}],\"id\":\"giYeBh32Ss86aC9pFoNyQ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"sfo54xUkNk1XuPXg8yeUe\",\"text\":\"\"}]},{\"text\":\"14th\"}]}]}],\"id\":\"zTxBXE7QCeJWEnRj3h6LC\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"CMw_TKTmiPhu86ClQed8u\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"About the Price:\",\"bold\":true}]}]}],\"id\":\"uQPwedhfL8SQDHePbvODC\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Rather expensive\"}]}]}],\"id\":\"9QIXjq_xlbr5JDdTb3ESM\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"ewld41Tfi0gxMDHcjtqWy\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Storage Time:\",\"bold\":true}]}]}],\"id\":\"FIJjFoXh9VcbHDA36qrXk\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"RJfrlGRFhdyQt7Nld0McR\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"ahCprP9WrKJr3KHKBL4UF\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":521,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "Moving Company Service Report"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the form below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER ",
+          "bold": true
+         },
+         {
+          "text": "for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "5370c419-dcd4-11ed-b839-e983270a47b5",
+     "questions": [
+      {
+       "uuid": "5370eb2a-dcd4-11ed-b839-e983270a47b5",
+       "type": "MATCHING_ENDING",
+       "options": [
+        {
+         "key": 0,
+         "value": "in emergency pack"
+        },
+        {
+         "key": 1,
+         "value": "in personal package"
+        },
+        {
+         "key": 2,
+         "value": "in storage with the furniture"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\"I need my\"},{\"text\":\" dishes and thing\",\"bold\":true},{\"text\":\"s where I can find them quickly\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tiếp thấy \\\"we'll\"},{\"text\":\" put those dishes and cutlery in\",\"bold\":true},{\"text\":\" what we call the \"},{\"text\":\"emergency pack\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 287,
+          "endTimeInSeconds": 297,
+          "transcripts": [
+           {
+            "id": "24/287015-291920",
+            "startTimeInSeconds": 287,
+            "endTimeInSeconds": 291,
+            "text": "Ahhh! Yes, I need my dishes and things where I can find them quickly. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "25/291920-297501",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 297,
+            "text": "Great. Q7 We'll put those dishes and cutlery in what we call the emergency pack. Can you think of anything else? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"antique tea kettle\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"you'd better put that in storage with the furniture\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 297,
+          "endTimeInSeconds": 308,
+          "transcripts": [
+           {
+            "id": "26/297501-308962",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 308,
+            "text": "Ummm, Q8 I do have an antique tea kettle my great-grandmother gave my mother. I wouldn’t want to lose that. So I guess Q8 you’d better put that in storage with the furniture. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"alarm clock \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"we'll put that in your personal package\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 308,
+          "endTimeInSeconds": 338,
+          "transcripts": [
+           {
+            "id": "27/308962-316496",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 316,
+            "text": "Grandma’s tea kettle with the furniture, got it! Say, how about things like your alarm clock? You don’t want to miss your plane on the big day, right? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "28/316496-324261",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 324,
+            "text": "Well, you certainly think of everything! Yes, that’s right. Q9 I'll also need my alarm clock where I can find it. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "29/324261-338820",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 338,
+            "text": "Fine, Q9 we’ll put that in your personal package. And of course, we'll give you a list of where we pack everything. So, all you’ll have to do on Thursday, the 14th is grab your luggage on your way out the door. Um, I couldn’t help noticing the new CD player you’re carrying. Is that a Samsung? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"CD player \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người clerk hỏi \\\"do you want to take special care of it?\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Jane trả lời \\\"you can just\"},{\"text\":\" put it in storage with the furniture\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 324,
+          "endTimeInSeconds": 354,
+          "transcripts": [
+           {
+            "id": "29/324261-338820",
+            "startTimeInSeconds": 324,
+            "endTimeInSeconds": 338,
+            "text": "Fine, Q9 we’ll put that in your personal package. And of course, we'll give you a list of where we pack everything. So, all you’ll have to do on Thursday, the 14th is grab your luggage on your way out the door. Um, I couldn’t help noticing the new CD player you’re carrying. Is that a Samsung? ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "30/338820-345640",
+            "startTimeInSeconds": 338,
+            "endTimeInSeconds": 345,
+            "text": "Why? Yes, it is. One of their best. Cost me nearly a hundred dollars, it did! ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           },
+           {
+            "id": "31/345640-348371",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 348,
+            "text": "Do you want to take special care of it? I mean it’s brand new. ",
+            "character": {
+             "id": "9zJ__oWZmcXFzI5tlFDOp",
+             "name": "CLERK"
+            }
+           },
+           {
+            "id": "32/348371-354190",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 354,
+            "text": "Take care of it, but nothing special. Q10 You can just put it in storage with the furniture. ",
+            "character": {
+             "id": "dgAAyo4td9_reBOOq61_i",
+             "name": "WOMAN"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 4,
+       "endingOptions": [
+        {
+         "key": 0,
+         "value": "cutlery and dishes"
+        },
+        {
+         "key": 1,
+         "value": "kettle"
+        },
+        {
+         "key": 2,
+         "value": "alarm clock"
+        },
+        {
+         "key": 3,
+         "value": "CD player"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_ENDING",
+     "displayedQuestionType": "Matching Information",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A, B, ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": ", or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Annual Wullaballoo Conference",
+   "duration": 8,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "614e1867-75ae-11ec-90fc-65317321c44f",
+     "questions": [
+      {
+       "uuid": "KS_lwbgJ2gB-uIc8cjhMu",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \"},{\"text\":\"tiêu đề của bài giảng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \"},{\"text\":\"at 9:00 a.m. \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là sắp nói tới lecture \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"a lecture from Dr John Smith about \\\"Computer as Teacher\\\" \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Computer as Teacher \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 74,
+          "endTimeInSeconds": 82,
+          "transcripts": [
+           {
+            "id": "3/74900-82714",
+            "startTimeInSeconds": 74,
+            "endTimeInSeconds": 82,
+            "text": "At 9:00 a.m. right here in the Main Hall, we’ll be hearing a lecture from Dr John Smith about “ Computer as Teacher’’. "
+           }
+          ]
+         },
+         "value": "Computer as Teacher",
+         "blankId": "ljBTx4juJheRq1liKhWaG"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"tên riêng của trường hoặc là tổ chức nào đó\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe thấy \\\"\"},{\"text\":\"Professor Smith, from the University of Melbourne\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án: University of Melbourne \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 82,
+          "endTimeInSeconds": 94,
+          "transcripts": [
+           {
+            "id": "4/82724-94071",
+            "startTimeInSeconds": 82,
+            "endTimeInSeconds": 94,
+            "text": "Professor Smith, from the University of Melbourne, is a world-class expert in the field of computer- assisted education, and his talk promises to be both stimulating and informative."
+           }
+          ]
+         },
+         "value": "University of Melbourne",
+         "blankId": "3uSfzfam8212zvo0Bxs1k"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"Mình cần nghe xem\"},{\"text\":\" Sea View Restaurant ở đâu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"...join us at the \"},{\"text\":\"formal lunch\",\"bold\":true},{\"text\":\". That won't be till \"},{\"text\":\"one o'clock\",\"bold\":true},{\"text\":\" sharp\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy\"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\\"We’ll be eating at the \"},{\"text\":\"Sea View Restaurant\",\"bold\":true},{\"text\":\". The restaurant is\"},{\"text\":\" located [...] on the top floor\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án: top floor \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 144,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "9/144722-156959",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 156,
+            "text": "I strongly urge you, however, to join us at the formal lunch. That won’t be till one o’clock sharp, so you have time to stroll about town a bit. We’ll be eating at the Sea View Restaurant."
+           },
+           {
+            "id": "10/156959-165896",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 165,
+            "text": "The restaurant is located right here in the hotel, on the top floor. It’s a good dozen flights of stairs, so I suggest you take the lift on the ground floor, eh? "
+           }
+          ]
+         },
+         "value": "top floor",
+         "blankId": "j-mbZj8yymjnhZdBxbTs2"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"thang máy ở đâu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe được\"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\\"so I suggest you take \"},{\"text\":\"the lift on the ground floor\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: ground floor \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 156,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "10/156959-165896",
+            "startTimeInSeconds": 156,
+            "endTimeInSeconds": 165,
+            "text": "The restaurant is located right here in the hotel, on the top floor. It’s a good dozen flights of stairs, so I suggest you take the lift on the ground floor, eh? "
+           }
+          ]
+         },
+         "value": "ground floor",
+         "blankId": "Hh46a-_2C_uGyrXLBmjZ1"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" thời gian cho Afternoon tea\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"once we've heard the papers\\\" \",\"bold\":true},{\"text\":\" (paraphrase của activity liền trước) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we'll break for \"},{\"text\":\"afternoon tea at 3:10 p.m\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 3:10 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 192,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "14/192533-199700",
+            "startTimeInSeconds": 192,
+            "endTimeInSeconds": 199,
+            "text": "Once we’ve heard the papers, we’ll break for afternoon tea at 3:10 p.m. No need to walk. "
+           }
+          ]
+         },
+         "value": "3:10",
+         "blankId": "MZSIZLMKHLaC6EUlmWvBj"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"by 5:00 we should have the conference wrapped up\\\"  \",\"bold\":true},{\"text\":\"(paraphrase của câu liền trước) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we'll be \"},{\"text\":\"flocking to the hotel's own Palm Lounge\",\"bold\":true},{\"text\":\" [...] for an\"},{\"text\":\" informal reception\",\"bold\":true},{\"text\":\"\\\" \"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là \"},{\"text\":\"reception sẽ diễn ra tại Palm Lounge\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: Palm Lounge \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 211,
+          "endTimeInSeconds": 233,
+          "transcripts": [
+           {
+            "id": "16/211954-223584",
+            "startTimeInSeconds": 211,
+            "endTimeInSeconds": 223,
+            "text": "Then, tea being drunk and scones munched, we’ll retire here to the Main Hall for some closing remarks and questions. So, by 5:00 we should have the conference wrapped up."
+           },
+           {
+            "id": "17/223594-233415",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 233,
+            "text": "But the fun isn’t over! This is Australia mates! We’ll be flocking to the hotel’s own Palm Lounge on the east side of the foyer for an informal reception. "
+           }
+          ]
+         },
+         "value": "Palm Lounge",
+         "blankId": "b_nllXvs2ng-9z7U6fsXQ"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "ljBTx4juJheRq1liKhWaG",
+         "key": 0
+        },
+        {
+         "id": "3uSfzfam8212zvo0Bxs1k",
+         "key": 1
+        },
+        {
+         "id": "j-mbZj8yymjnhZdBxbTs2",
+         "key": 2
+        },
+        {
+         "id": "Hh46a-_2C_uGyrXLBmjZ1",
+         "key": 3
+        },
+        {
+         "id": "MZSIZLMKHLaC6EUlmWvBj",
+         "key": 4
+        },
+        {
+         "id": "b_nllXvs2ng-9z7U6fsXQ",
+         "key": 5
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"BASPBoKM89eqMpaovz0br\",\"cellsWidth\":[186,273,330],\"children\":[{\"type\":\"tr\",\"id\":\"D7cRhQS_iwDMEfWC9T1Ia\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"TIME\",\"bold\":true}]}]}],\"id\":\"k9EjJTqTDdQi3cr0feRQt\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"CONTENT \",\"bold\":true}]}]}],\"id\":\"sAriQK3G5pRmeGz0cOyHI\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"LOCATION\",\"bold\":true}]}]}],\"id\":\"CRZI4TgCewaAiGKFTKntd\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"mn9y5WSq4RRZN49Iau9X3\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"9:00 a.m.\"}]}]}],\"id\":\"4npd8D3MVctQ7iLc6ojSt\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Title of the lecture:\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ljBTx4juJheRq1liKhWaG\",\"text\":\"\"}]},{\"text\":\"\\nLecturer: John Smith from the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"3uSfzfam8212zvo0Bxs1k\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"5BTrjWMrm3csqfwowoz0L\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main Hall\"}]}]}],\"id\":\"paImEGFIhfEp35nBCZebP\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"_rUkru30rjovr3mqz72pP\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"10:30 a.m.\"}]}]}],\"id\":\"-ptIFKhk2Pek93sdtP8Ow\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Presentation of papers\"}]}]}],\"id\":\"kRY1LRfjNEKLaPIQatuGe\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Garden Room on the ground floor\"}]}]}],\"id\":\"F6zdTvEw20kGpuw5Y97Ox\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"btTe9X_r0F3i1KwXthoXa\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"11:15 a.m.\"}]}]}],\"id\":\"hLhF8JN5fCilxkBdtCryf\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Coffee break\"}]}]}],\"id\":\"oAJCQ3CduM7sfTiFmj3tu\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main Hall\"}]}]}],\"id\":\"Mnj_Zgo7JFLD4eMXQMUAP\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"ICq0gjkRx9UXDUN7prhBG\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"1:00 p.m.\"}]}]}],\"id\":\"uNQ7lHQu5iF4EkKDYMMLx\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Lunch\"}]}]}],\"id\":\"6qk0lCwWI8vPX-lnTJZMu\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Sea View Restaurant on the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"j-mbZj8yymjnhZdBxbTs2\",\"text\":\"\"}]},{\"text\":\"\\nThe lift on the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Hh46a-_2C_uGyrXLBmjZ1\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"S3WZIYLKUNyPrSzpp3dJ4\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"oT9BHL1x7f38fzmcqSF7_\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"2:00 p.m.\"}]}]}],\"id\":\"zqeIpHXrjQc5foeEc169H\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Presentation of further papers\"}]}]}],\"id\":\"y6-KO_KVP9Bmki5_T_KL3\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Ballroom\"}]}]}],\"id\":\"tSmUf3qBvj6fkzo5fj7qK\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"rJTipr1zjQdBQs8yKaiQw\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"MZSIZLMKHLaC6EUlmWvBj\",\"text\":\"\"}]},{\"text\":\" p.m.\"}]}]}],\"id\":\"G35M7ELzBZXSh1uemNzVZ\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Afternoon tea\"}]}]}],\"id\":\"3bR5VoXclP7oIJjAdQFjX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Ballroom\"}]}]}],\"id\":\"RClTZT5LzStats6nYAm4n\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"FXs21fob0YHrVs4wlvrcT\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"5:00 p.m.\"}]}]}],\"id\":\"p_khSgDCMK1PM43EDvXQv\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Conference will be finished\"}]}]}],\"id\":\"WgnZvuOJBsSLoB5mo-hHg\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Main Hall\"}]}]}],\"id\":\"zoEIEjItMCQRxTpjq6pc4\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"PJ90AzoSpWbSRoIFiUHUq\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"5:10-6:10 p.m.\"}]}]}],\"id\":\"0tI9rowG9xT8sIblA9nOB\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Informal reception\"}]}]}],\"id\":\"beb3Bc9VtKNuX_EADGQlV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"b_nllXvs2ng-9z7U6fsXQ\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"6u5aSJNkNLrm8vzZO3bys\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":789,\"border\":true,\"hasRowHeading\":true}]",
+       "question": "ANNUAL WULLABALLOO CONFERENCE"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN THREE WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "614e1868-75ae-11ec-90fc-65317321c44f",
+     "questions": [
+      {
+       "uuid": "614e1869-75ae-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "Tickets are available",
+       "options": [
+        {
+         "key": 0,
+         "value": "only at the reception desk"
+        },
+        {
+         "key": 1,
+         "value": "tomorrow evening."
+        },
+        {
+         "key": 2,
+         "value": "at any time before the reception."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley42\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"tickets \",\"bold\":true},{\"text\":\"can be purchased\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"\\\"from any conference organiser\",\"bold\":true},{\"text\":\" or at the\"},{\"text\":\" front desk\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Vé không chỉ mua được tại reception desk \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"anytime between now and the start of the reception\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Có thể mua bất cứ khi nào trước khi tiệc bắt đầu\",\"bold\":true},{\"text\":\", không chỉ là tối mai \\n=>\"},{\"text\":\" Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 62,
+          "endTimeInSeconds": 77,
+          "transcripts": [
+           {
+            "id": "0/62439-68435",
+            "startTimeInSeconds": 62,
+            "endTimeInSeconds": 68,
+            "text": "Good morning everyone, and welcome to the 2nd Annual Wullaballoo Conference on Mastering Computer Languages. "
+           },
+           {
+            "id": "1/68435-70240",
+            "startTimeInSeconds": 68,
+            "endTimeInSeconds": 70,
+            "text": "I hope you all had a good trip."
+           },
+           {
+            "id": "2/70240-77557",
+            "startTimeInSeconds": 70,
+            "endTimeInSeconds": 77,
+            "text": "Before we get underway with today’s programme, let me fill you in as to what’s on tap for tomorrow, Sunday, February 19th."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "614e186a-75ae-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "The delegates will be charged........",
+       "options": [
+        {
+         "key": 0,
+         "value": "$6.50"
+        },
+        {
+         "key": 1,
+         "value": "$15.00"
+        },
+        {
+         "key": 2,
+         "value": "$25.00"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" delegates (đại biểu) sẽ phải trả bao nhiêu\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"Speaking of paying\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the charge for the lunch will be\"},{\"text\":\" $15.00 for all you delegates\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang nói đến \"},{\"text\":\"giá cho delegate \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thêm cũng sẽ thấy nhắc tới \"},{\"text\":\"$25.00 \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"$6.50 \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhưng\"},{\"text\":\" $25.00 là cho người ngoài và $6.50 cho trẻ em\",\"bold\":true},{\"text\":\", chứ không phải cho delegate \\n=> \"},{\"text\":\"Loại đáp án A và C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 321,
+          "endTimeInSeconds": 342,
+          "transcripts": [
+           {
+            "id": "24/321983-329604",
+            "startTimeInSeconds": 321,
+            "endTimeInSeconds": 329,
+            "text": "Oh my goodness! Speaking of paying, I see I forgot to tell you a couple of things. The first is about lunch."
+           },
+           {
+            "id": "25/329604-342752",
+            "startTimeInSeconds": 329,
+            "endTimeInSeconds": 342,
+            "text": "The charge for the lunch will be $15.00 for all you delegates. If you have guests with you, the cost is $25.00 for the general public, and $6.50 for children under the age of 10."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "614e186b-75ae-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "The restaurant is famous for",
+       "options": [
+        {
+         "key": 0,
+         "value": "steak"
+        },
+        {
+         "key": 1,
+         "value": "fish"
+        },
+        {
+         "key": 2,
+         "value": "barbecue"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"nhà hàng nổi tiếng nhờ món gì\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"Another item is about the\"},{\"text\":\" lunch menu.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe được \\\"I very much \"},{\"text\":\"urge you to try the fish\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người nói gợi ý ăn fish \\n=> Có thể chỗ này nổi tiếng về fish \\n=> Nghe tiếp để confirm\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"I mean, look at the restaurant’s name: Sea View.\"},{\"text\":\" As the name suggests, it is a famous seafood restaurant.\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nhà hàng nổi tiếng vì hải sản (fish) \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 342,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "26/342762-353155",
+            "startTimeInSeconds": 342,
+            "endTimeInSeconds": 353,
+            "text": "That’s fifteen dollars each, not total for everyone! Another item is about the lunch menu. I very much urge you to try the fish. "
+           },
+           {
+            "id": "27/353155-362234",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 362,
+            "text": "I mean, look at the restaurant’s name: Sea View. As the name suggests, it is a famous seafood restaurant. The chef is a Basque from Spain,"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "614e186c-75ae-11ec-90fc-65317321c44f",
+       "type": "SINGLE_ANSWER",
+       "question": "The trip on Sunday costs",
+       "options": [
+        {
+         "key": 0,
+         "value": "$35 in total"
+        },
+        {
+         "key": 1,
+         "value": "$35 plus entrance fees"
+        },
+        {
+         "key": 2,
+         "value": "$35 plus lunch"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"chuyến đi Chủ Nhật tốn bao nhiêu\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tớ\"},{\"text\":\"i \\\"Finally\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dấu hiệu sắp tới ý cuối cùng \\n=> Chuẩn bị nghe đáp án câu cuối\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"You can\"},{\"text\":\" have both lunch\",\"bold\":true},{\"text\":\" and the unlimited beer for $35.00\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là $35 là đã bao gồm lunch rồi chứ lunch không tính riêng \\n=> \"},{\"text\":\"Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cũng \"},{\"text\":\"không thấy nhắc gì tới entrance fees\",\"bold\":true},{\"text\":\" trong giá vé \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại đáp án B \",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Dùng phương pháp loại trừ\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 376,
+          "endTimeInSeconds": 388,
+          "transcripts": [
+           {
+            "id": "30/376927-388746",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 388,
+            "text": "Finally, if you’d like to buy a ticket, you can have both lunch and the unlimited beer for $35.00.I should have mentioned that earlier, but I am a bit forgetful."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": ", or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": ", or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "General Course Details",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "9f362e6f-75ae-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "9f362e70-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "What is the defining characteristic of a specialised course?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Taking a proficiency exam "
+        },
+        {
+         "key": 1,
+         "value": "Attending the class frequently "
+        },
+        {
+         "key": 2,
+         "value": "Compulsory and regular"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"Like what is a '\"},{\"text\":\"specialised course'? \\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"\\\"\",\"bold\":true},{\"text\":\"A specialised course is one that\"},{\"text\":\" is compulsory, meaning it's [...] and regular\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Specialised course\"},{\"text\":\" is compulsory and regular\\n\",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \"},{\"text\":\"\\\"you can't place out by taking a proficiency exam\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Môn học \"},{\"text\":\"không được miễn bằng cách take a proficiency exam  \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley9\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Không thấy có nhắc tới attending frequently\",\"bold\":true},{\"text\":\" trong lúc nói về specialised course \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 48,
+          "endTimeInSeconds": 71,
+          "transcripts": [
+           {
+            "id": "4/48699-57891",
+            "startTimeInSeconds": 48,
+            "endTimeInSeconds": 57,
+            "text": " I, I almost don’t know! Everything is so confusing! Like what is a “specialised course”?",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "5/57891-71453",
+            "startTimeInSeconds": 57,
+            "endTimeInSeconds": 71,
+            "text": " Oh, easy. A specialised course is one that is compulsory, meaning it's a requirement for your major and regular, so you can’t place out by taking a proficiency exam.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9f362e71-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "The Microbiology courses are available for",
+       "options": [
+        {
+         "key": 0,
+         "value": "full-time and flexible-time students"
+        },
+        {
+         "key": 1,
+         "value": "Microbiology students only. "
+        },
+        {
+         "key": 2,
+         "value": "students on a flexible schedule."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" Microbiology dành cho đối tượng học sinh nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"So can I take any \"},{\"text\":\"Microbiology course\",\"bold\":true},{\"text\":\" I want?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe tiếp thấy \\\"those courses \"},{\"text\":\"used to be open to Microbiology students only\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đã từng \",\"bold\":true},{\"text\":\"dành riêng cho sinh viên microbiology thôi\\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"it's\"},{\"text\":\" open to students on a flexible schedule\",\"bold\":true},{\"text\":\", so it's \"},{\"text\":\"not only for full-time students\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Dành cho \"},{\"text\":\"cả full-time và flexible \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 139,
+          "transcripts": [
+           {
+            "id": "11/121916-126025",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 126,
+            "text": " So can I take any Microbiology course I want?",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "12/126025-139334",
+            "startTimeInSeconds": 126,
+            "endTimeInSeconds": 139,
+            "text": " Let’s see. Oh, those courses used to be open to Microbiology students only. The good thing is, now it’s open to students on a flexible schedule, so it’s not only for full-time students. ",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9f362e72-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "The Biology courses are available for",
+       "options": [
+        {
+         "key": 0,
+         "value": "all students."
+        },
+        {
+         "key": 1,
+         "value": "full-time students only. "
+        },
+        {
+         "key": 2,
+         "value": "freshmen only."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"Could I take some \"},{\"text\":\"Biology classes?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"they are open to \"},{\"text\":\"full-time students only\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chỉ dành cho full-time\",\"bold\":true},{\"text\":\", không nhắc tới freshmen \\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 147,
+          "endTimeInSeconds": 172,
+          "transcripts": [
+           {
+            "id": "14/147673-158518",
+            "startTimeInSeconds": 147,
+            "endTimeInSeconds": 158,
+            "text": " Well, I also like plain old Biology, too. You know, fullsized animals. I might even become a veterinarian. Could I take some Biology classes?",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "15/158518-172744",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 172,
+            "text": " Well, they are open to full-time students only, which I believe is what you are. I don’t know how a freshman would get along with Microbiology, though. I mean, most of the students presently looking into it are from off-campus.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9f365583-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "Who are interested in Microbiology courses?",
+       "options": [
+        {
+         "key": 0,
+         "value": "People who need work experience "
+        },
+        {
+         "key": 1,
+         "value": "People from off-campus"
+        },
+        {
+         "key": 2,
+         "value": "People who work at hospital"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"ai hứng thú với Microbiology\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"I don't know how a freshman would get along with \"},{\"text\":\"Microbiology\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"most of the students\",\"bold\":true},{\"text\":\" presently \"},{\"text\":\"looking into it are from off-campus\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hầu hết students là từ ngoài campus \\n=> \"},{\"text\":\"Chọn đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe thấy \\\"people who \"},{\"text\":\"use it in their work at hos­pitals\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là \"},{\"text\":\"đang nêu một ví dụ cho off-campu\",\"bold\":true},{\"text\":\"s chứ không phải chỉ có những người làm trong hospital mới cần học khóa này \\n=> \"},{\"text\":\"Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 158,
+          "endTimeInSeconds": 208,
+          "transcripts": [
+           {
+            "id": "15/158518-172744",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 172,
+            "text": " Well, they are open to full-time students only, which I believe is what you are. I don’t know how a freshman would get along with Microbiology, though. I mean, most of the students presently looking into it are from off-campus.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "16/172744-174375",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 174,
+            "text": " Off-campus?",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "17/174375-208181",
+            "startTimeInSeconds": 174,
+            "endTimeInSeconds": 208,
+            "text": " Yes, you know, people who use it in their work at hospitals, laboratories, even a police detective. Why did you choose Microbiology, if I may ask? I don’t think you quite answered that.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9f365584-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "A Medical Science course will be opened next year because",
+       "options": [
+        {
+         "key": 0,
+         "value": "there are no experimental facilities.  "
+        },
+        {
+         "key": 1,
+         "value": "the lab equipment is too expensive. "
+        },
+        {
+         "key": 2,
+         "value": "the building is damaged."
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy keyword \\\"you should take \"},{\"text\":\"Medical Science classes ...\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the new Medical Sciences \"},{\"text\":\"building is under construction\",\"bold\":true},{\"text\":\", so there are \"},{\"text\":\"no experi­mental facilities available\",\"bold\":true},{\"text\":\" until next year\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tòa nhà \"},{\"text\":\"đang được xây\",\"bold\":true},{\"text\":\" (không phải bị hư hại) nên \"},{\"text\":\"không có experimential facilities \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 222,
+          "endTimeInSeconds": 253,
+          "transcripts": [
+           {
+            "id": "20/222744-235017",
+            "startTimeInSeconds": 222,
+            "endTimeInSeconds": 235,
+            "text": " Of course, if you're thinking about being either a doctor or a vet, you should take some Medical Science classes before you even think of applying to med school.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "21/235149-237638",
+            "startTimeInSeconds": 235,
+            "endTimeInSeconds": 237,
+            "text": " Great! What should I take?",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "22/237782-253531",
+            "startTimeInSeconds": 237,
+            "endTimeInSeconds": 253,
+            "text": " There is one small problem. The new Medical Sciences building is under construction, so there are no experimental facilities available until next year. I’m afraid you'll have to wait. But don’t forget to take those courses at the first opportunity!",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "9f365585-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SINGLE_ANSWER",
+       "question": "Which is the quickest increasing subject in enrolment?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Medical Science "
+        },
+        {
+         "key": 1,
+         "value": "Statistics "
+        },
+        {
+         "key": 2,
+         "value": "Environmental Science"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe thấy \\\"into \"},{\"text\":\"Environmental Science?\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"     Giáo sư nói thêm \\\"It's the \"},{\"text\":\"fastest growing subject\",\"bold\":true},{\"text\":\" on this campus\\\" \"},{\"text\":\"(=quickest increasing subject) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 263,
+          "endTimeInSeconds": 278,
+          "transcripts": [
+           {
+            "id": "24/263223-269501",
+            "startTimeInSeconds": 263,
+            "endTimeInSeconds": 269,
+            "text": " Well, since you seem to like animals, into Environmental Science?",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "25/269501-275357",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 275,
+            "text": " No, I never really thought about it before. Is it worthwhile? ",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "26/275357-278357",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 278,
+            "text": " Quite! In fact, it’s the fastest growing subject on this campus",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B,",
+          "bold": true
+         },
+         {
+          "text": " or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A",
+          "bold": true
+         },
+         {
+          "text": ", "
+         },
+         {
+          "text": "B",
+          "bold": true
+         },
+         {
+          "text": ", or "
+         },
+         {
+          "text": "C",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "9f365586-75ae-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "9f365587-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which THREE compulsory courses must be taken?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Medical Science"
+        },
+        {
+         "key": 1,
+         "value": "Computing"
+        },
+        {
+         "key": 2,
+         "value": "Mathematics"
+        },
+        {
+         "key": 3,
+         "value": "Laboratory Techniques"
+        },
+        {
+         "key": 4,
+         "value": "Statistics"
+        },
+        {
+         "key": 5,
+         "value": "Medicine"
+        },
+        {
+         "key": 6,
+         "value": "Environmental Science"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tới \\\"\"},{\"text\":\"taking the compulsory courses\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chuẩn bị nghe đáp án 3 câu tiếp theo \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"the Medical Science can wait\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chưa cần học Medical Science \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"I think\"},{\"text\":\" I'd put off Computing too\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Dời lại môn Computing\",\"bold\":true},{\"text\":\" chứ không học bây giờ \\n=>\"},{\"text\":\" Loại đáp án B  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\" \"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"I recommend\",\"bold\":true},{\"text\":\" to\"},{\"text\":\" all freshmen\",\"bold\":true},{\"text\":\" that I talk to \"},{\"text\":\"to get the compulsory Mathematics\",\"bold\":true},{\"text\":\" out of the way as early as pos­sible, \"},{\"text\":\"so take that one\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang gợi ý học môn Mathematics ngay bây giờ \\n=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 318,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "31/318890-339522",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 339,
+            "text": " For your first semester, yes. What I suggest is starting out by taking the compulsory courses. Like we said before, the Medical Science can wait. Consider taking that in your sophomore year. I think I’d put off Computing, too.  ",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "32/339684-357581",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 357,
+            "text": " I recommend to all freshmen that I talk to to get the compulsory Mathematics out of the way as early as possible, so take that one. It’ll be one less difficult course you have to focus on when the science lab opens next year, and you have to catch up on classes like Laboratory Techniques",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "33/358000-371865",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 371,
+            "text": " Your major also requires Statistics so you have to balance two Maths classes, and no doubt you should take that. Otherwise, get your required Medicine course out of the way by taking something theory based.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "34/372210-389180",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 389,
+            "text": " Oh, of course and your Environmental Science class if you’re interested. The others can wait, though I think Computing is definitely a good idea, even though it’s not required. I see too, on your paper there, you seem to have had high marks on the entrance exam.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"when the science lab opens \"},{\"text\":\"next year,\",\"bold\":true},{\"text\":\" [...] you have to\"},{\"text\":\" catch up on classes like Laboratory Techniques\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Môn này sẽ học năm sau \\n=> \"},{\"text\":\"Loại đáp án D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"your major requires Statistics \",\"bold\":true},{\"text\":\"[...] and \"},{\"text\":\"no doubt you should take that\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Môn này là\"},{\"text\":\" bắt buộc đối với chuyên ngành\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" nên học ngay \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 318,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "31/318890-339522",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 339,
+            "text": " For your first semester, yes. What I suggest is starting out by taking the compulsory courses. Like we said before, the Medical Science can wait. Consider taking that in your sophomore year. I think I’d put off Computing, too.  ",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "32/339684-357581",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 357,
+            "text": " I recommend to all freshmen that I talk to to get the compulsory Mathematics out of the way as early as possible, so take that one. It’ll be one less difficult course you have to focus on when the science lab opens next year, and you have to catch up on classes like Laboratory Techniques",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "33/358000-371865",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 371,
+            "text": " Your major also requires Statistics so you have to balance two Maths classes, and no doubt you should take that. Otherwise, get your required Medicine course out of the way by taking something theory based.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "34/372210-389180",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 389,
+            "text": " Oh, of course and your Environmental Science class if you’re interested. The others can wait, though I think Computing is definitely a good idea, even though it’s not required. I see too, on your paper there, you seem to have had high marks on the entrance exam.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"get your required Medicine course out of the way\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Nên học Medicine trước\",\"bold\":true},{\"text\":\", đây cũng là môn bắt buộc (required) \\n=>\"},{\"text\":\" Chọn đáp án F\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng nghe thấy \\\"and your \"},{\"text\":\"Environmental Science class if you’re interested\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nếu thích thì học, chứ \"},{\"text\":\"không bắt buộc \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 318,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "31/318890-339522",
+            "startTimeInSeconds": 318,
+            "endTimeInSeconds": 339,
+            "text": " For your first semester, yes. What I suggest is starting out by taking the compulsory courses. Like we said before, the Medical Science can wait. Consider taking that in your sophomore year. I think I’d put off Computing, too.  ",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "32/339684-357581",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 357,
+            "text": " I recommend to all freshmen that I talk to to get the compulsory Mathematics out of the way as early as possible, so take that one. It’ll be one less difficult course you have to focus on when the science lab opens next year, and you have to catch up on classes like Laboratory Techniques",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "33/358000-371865",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 371,
+            "text": " Your major also requires Statistics so you have to balance two Maths classes, and no doubt you should take that. Otherwise, get your required Medicine course out of the way by taking something theory based.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "34/372210-389180",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 389,
+            "text": " Oh, of course and your Environmental Science class if you’re interested. The others can wait, though I think Computing is definitely a good idea, even though it’s not required. I see too, on your paper there, you seem to have had high marks on the entrance exam.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 3
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "THREE",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "THREE ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-G",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    },
+    {
+     "id": "9f365588-75ae-11ec-bae1-ff5a5f528e78",
+     "questions": [
+      {
+       "uuid": "9f365589-75ae-11ec-bae1-ff5a5f528e78",
+       "type": "SENTENCE_COMPLETE",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem \"},{\"text\":\"$1500 được cho để làm gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"They cover tuition and provide \"},{\"text\":\"$1,500 cash\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe được \\\"the money is \"},{\"text\":\"intended more as a textbook allowance\",\"bold\":true},{\"text\":\", not party money\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tiền học bổng được dùng làm\"},{\"text\":\" textbook allowance\",\"bold\":true},{\"text\":\" (được cho để mua sách vở) \\n=>\"},{\"text\":\" Đáp án: textbook allowance \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 403,
+          "endTimeInSeconds": 439,
+          "transcripts": [
+           {
+            "id": "36/403434-407495",
+            "startTimeInSeconds": 403,
+            "endTimeInSeconds": 407,
+            "text": " Don’t be shy! Have you thought about applying for a scholarship?",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "37/407495-413917",
+            "startTimeInSeconds": 407,
+            "endTimeInSeconds": 413,
+            "text": " Do they have any? I mean, my dad is always complaining about how much money it costs him.",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "38/413917-424787",
+            "startTimeInSeconds": 413,
+            "endTimeInSeconds": 424,
+            "text": " In your department, there are actually three full scholarships available. They cover tuition and provide $1,500 cash.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           },
+           {
+            "id": "39/425168-429961",
+            "startTimeInSeconds": 425,
+            "endTimeInSeconds": 429,
+            "text": " $1,500 cash?! Party!",
+            "character": {
+             "id": "5ukgepKKQXcqwbJaNhmha",
+             "name": "STUDENT"
+            }
+           },
+           {
+            "id": "40/429961-439852",
+            "startTimeInSeconds": 429,
+            "endTimeInSeconds": 439,
+            "text": " Please, Miss. The money is intended more as a textbook allowance, not party money. If you promise to behave, I’ll show you how to apply.",
+            "character": {
+             "id": "Fn1XqiTSG-LAWiYEbdvbj",
+             "name": "PROFESSOR"
+            }
+           }
+          ]
+         },
+         "value": "textbook allowance",
+         "blankId": "oavjFbhBufbgqojSl9p3u"
+        }
+       ],
+       "sentences": [
+        {
+         "id": "nuk-983ZkJR9xv4VtC0j1",
+         "editorValue": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"There are three full scholarships that cover tuition and provide $1,500 cash as a \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"30\"}],\"id\":\"oavjFbhBufbgqojSl9p3u\"},{\"text\":\"\"}]}]",
+         "blanks": [
+          {
+           "id": "oavjFbhBufbgqojSl9p3u",
+           "key": 0
+          }
+         ]
+        }
+       ]
+      }
+     ],
+     "questionType": "SENTENCE_COMPLETE",
+     "displayedQuestionType": "Sentence Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the sentence below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS ",
+          "bold": true
+         },
+         {
+          "text": "for the answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the question below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 1
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "How To Choose Flooring Materials",
+   "duration": 10,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "7f6909d7-4332-11ee-8b3e-8960809f99a9",
+     "questions": [
+      {
+       "uuid": "7f6909d8-4332-11ee-8b3e-8960809f99a9",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" tên một loại vật liệu\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"Some artificial materials can be used\",\"bold\":true},{\"text\":\" \"},{\"text\":\"like plastic for instance...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Artificial materials\",\"bold\":true},{\"text\":\" (= man-made materials) được nhắc tới ở đây \"},{\"text\":\"là plastic\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: plastic \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 71,
+          "endTimeInSeconds": 88,
+          "transcripts": [
+           {
+            "id": "1/71843-80132",
+            "startTimeInSeconds": 71,
+            "endTimeInSeconds": 80,
+            "text": "You can’t make a house of cards, right? And “people who live in glass houses...” and all that... Anyhow, today I’d like to say a few words about flooring."
+           },
+           {
+            "id": "2/80132-88458",
+            "startTimeInSeconds": 80,
+            "endTimeInSeconds": 88,
+            "text": "Some artificial materials can be used, like plastic for instance, which offer mixed blessings when used as a flooring surface. "
+           }
+          ]
+         },
+         "value": "plastic",
+         "blankId": "BMm9JUl9XqyPotGhkPcWJ"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"materials phải trải qua cái gì trước khi được sử dụng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe thấy \\\"this leaves us with \"},{\"text\":\"wood or stone\",\"bold\":true},{\"text\":\" as choices for flooring\"},{\"text\":\"\\\"  \",\"bold\":true},{\"text\":\"(đề cập tới materials cụ thể)\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"both go through processing before they can be put to use\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: processing \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (go through = undergoes) \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 120,
+          "endTimeInSeconds": 146,
+          "transcripts": [
+           {
+            "id": "6/120618-132185",
+            "startTimeInSeconds": 120,
+            "endTimeInSeconds": 132,
+            "text": "So, if you’re fitting out a sleazy hotel or plan to live in a trailer park, go with the plastic. Really, though, for all intents and purposes, this leaves us with wood or stone as choices for flooring."
+           },
+           {
+            "id": "7/132185-146709",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 146,
+            "text": "Stone and wood are alike in at least one respect: both go through processing before they can be put to use. Since few of us cut our own lumber or quarry our own stone, this is not perhaps a pressing concern."
+           }
+          ]
+         },
+         "value": "processing",
+         "blankId": "pJIRq1YijJKPtYqeV9z0r"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trong 2 loại materials, đầu tiên mình cần nghe về \"},{\"text\":\"wood\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Since few of us cut our own \"},{\"text\":\"lumber\\\" (=wood) \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"buy only properly seasoned wood\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ mua \"},{\"text\":\"gỗ đã được cut\",\"bold\":true},{\"text\":\" (ở câu trên) \"},{\"text\":\"và properly seasoned \",\"bold\":true},{\"text\":\"\\n=> Đáp án: (\"},{\"text\":\"properly) seasoned \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 132,
+          "endTimeInSeconds": 158,
+          "transcripts": [
+           {
+            "id": "7/132185-146709",
+            "startTimeInSeconds": 132,
+            "endTimeInSeconds": 146,
+            "text": "Stone and wood are alike in at least one respect: both go through processing before they can be put to use. Since few of us cut our own lumber or quarry our own stone, this is not perhaps a pressing concern."
+           },
+           {
+            "id": "8/146709-158935",
+            "startTimeInSeconds": 146,
+            "endTimeInSeconds": 158,
+            "text": "Still, do-it-yourselfers would do well to remember to buy only properly seasoned wood. Unseasoned wood warps and a warped floor quickly becomes firewood (and its owner quickly becomes poorer). "
+           }
+          ]
+         },
+         "value": "seasoned/properly seasoned",
+         "blankId": "uX_rmPq71nd4ELkf_33Jo"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Tiếp đến mình nghe về \"},{\"text\":\"stone\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley23\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"likewise \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tương tự như wood ở trên \\n=> Tức là \"},{\"text\":\"stone cũng được cu\",\"bold\":true},{\"text\":\"t \\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tiếp thấy \\\"\"},{\"text\":\"most stone floors are polished\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mặt đá \"},{\"text\":\"cần được đánh bóng \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: polished \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 158,
+          "endTimeInSeconds": 171,
+          "transcripts": [
+           {
+            "id": "9/158935-171382",
+            "startTimeInSeconds": 158,
+            "endTimeInSeconds": 171,
+            "text": "Likewise, except for dull-hued materials like slate or sandstone, most stone floors are polished before installation. The choice goes well beyond just wood or stone - each type requires many further considerations."
+           }
+          ]
+         },
+         "value": "polished",
+         "blankId": "YYiYP8VX0M4lhbfe9i_Gf"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" khi xây dựng phải cân nhắc cái gì, ngoài environmental factors\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \\\"aesthetics, personal taste, and layout \",\"bold\":true},{\"text\":\"all play roles as well as the \"},{\"text\":\"type of house or room\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang nói về \"},{\"text\":\"các yếu tố thuộc môi trường xung quanh\",\"bold\":true},{\"text\":\" (= environmental factors)\\n=> Biết đáp án sắp vô\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"don't forget\"},{\"text\":\" the cost\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: cost/the cost \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 190,
+          "transcripts": [
+           {
+            "id": "10/171382-182663",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 182,
+            "text": "A few special remarks are called for when considering wood, for example. As always, aesthetics, personal taste, and layout all play roles as well as the type of house or room."
+           },
+           {
+            "id": "11/182663-190391",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 190,
+            "text": "Oh, and certainly don’t forget the cost. When it comes to cost, a rule of thumb is that the softer and less exotic the wood, the lower the cost."
+           }
+          ]
+         },
+         "value": "cost/the cost",
+         "blankId": "fLxCl8iqAwaogAYMIfhYy"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" đặc điểm của materials ảnh hưởng tới cái gì\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"the effects of each type of wood on the mood\\\"  \",\"bold\":true},{\"text\":\"( = affect mood)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"attention needs to be paid to\"},{\"text\":\" its grain patterns, texture, and colour\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lắp lại câu trong đề theo đúng thứ tự \\n=>\"},{\"text\":\" Đáp án: grain pattern(s) \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 209,
+          "endTimeInSeconds": 224,
+          "transcripts": [
+           {
+            "id": "15/209996-224755",
+            "startTimeInSeconds": 209,
+            "endTimeInSeconds": 224,
+            "text": "Continuing with the example of wood, one must consider the effects of each type of wood on the mood of the room. When selecting the best wood to use, particular attention needs to be paid to its grain patterns, texture, and colour."
+           }
+          ]
+         },
+         "value": "grain patterns/grain pattern",
+         "blankId": "OC92g2A2Ts43FL9gozmPp"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe xem\"},{\"text\":\" cái gì thì subjective\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"a decorator... \"},{\"text\":\"uses mathematical formula\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"uses a \"},{\"text\":\"mathematical formula\",\"bold\":true},{\"text\":\",\"},{\"text\":\" rather than subjective words\",\"bold\":true},{\"text\":\" [...] \"},{\"text\":\"verbal description\",\"bold\":true},{\"text\":\" of wood types tend to be \"},{\"text\":\"ambiguous\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nghĩa là \"},{\"text\":\"dùng mathematical formula \",\"bold\":true},{\"text\":\"bởi vì \"},{\"text\":\"words are subjective\",\"bold\":true},{\"text\":\" và dễ gây khó hiểu (ambiguous)\"},{\"text\":\" \",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: words\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 273,
+          "endTimeInSeconds": 286,
+          "transcripts": [
+           {
+            "id": "21/273136-286266",
+            "startTimeInSeconds": 273,
+            "endTimeInSeconds": 286,
+            "text": "A decorator takes the needs of the customer and uses a mathematical formula, rather than subjective words. Since feelings vary from person to person, verbal descriptions of wood types tend to be ambiguous."
+           }
+          ]
+         },
+         "value": "words",
+         "blankId": "lKyoVsCNKO4hC7UNwRJsB"
+        }
+       ],
+       "heading": "How to Choose Flooring Materials",
+       "paragraph": {
+        "id": "rqZjZuRNqVsDyBd1cZJKg",
+        "editorValue": "[{\"type\":\"paragraph\",\"children\":[{\"text\":\"Source\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"There are some man-made materials like \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"31 \"}],\"id\":\"BMm9JUl9XqyPotGhkPcWJ\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Before being used, material undergoes \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"32 \"}],\"id\":\"pJIRq1YijJKPtYqeV9z0r\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Wood should be cut and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"33\"}],\"id\":\"uX_rmPq71nd4ELkf_33Jo\"},{\"text\":\"\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Stone should be cut and \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"34\"}],\"id\":\"YYiYP8VX0M4lhbfe9i_Gf\"},{\"text\":\"\"}]}]}]},{\"type\":\"paragraph\",\"children\":[{\"text\":\"Selection\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Aside from environmental factors, one should take \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"35\"}],\"id\":\"fLxCl8iqAwaogAYMIfhYy\"},{\"text\":\"into account during construction.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Some properties of materials affect mood, such as \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"36\"}],\"id\":\"OC92g2A2Ts43FL9gozmPp\"},{\"text\":\",texture, colour.\"}]}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Use a mathematical formula to choose the type of wood, because \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"\"}],\"id\":\"lKyoVsCNKO4hC7UNwRJsB\"},{\"text\":\" are subjective, which are ambiguous in verbal description.\"}]}]}]}]",
+        "blanks": [
+         {
+          "id": "BMm9JUl9XqyPotGhkPcWJ",
+          "key": 0
+         },
+         {
+          "id": "pJIRq1YijJKPtYqeV9z0r",
+          "key": 1
+         },
+         {
+          "id": "uX_rmPq71nd4ELkf_33Jo",
+          "key": 2
+         },
+         {
+          "id": "YYiYP8VX0M4lhbfe9i_Gf",
+          "key": 3
+         },
+         {
+          "id": "fLxCl8iqAwaogAYMIfhYy",
+          "key": 4
+         },
+         {
+          "id": "OC92g2A2Ts43FL9gozmPp",
+          "key": 5
+         },
+         {
+          "id": "lKyoVsCNKO4hC7UNwRJsB",
+          "key": 6
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    },
+    {
+     "id": "7f6930e9-4332-11ee-8b3e-8960809f99a9",
+     "questions": [
+      {
+       "uuid": "yQ3YKZ74TQSNGhbhFcIy6",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \"},{\"text\":\"polished silver \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"1.0 \",\"bold\":true},{\"text\":\"(ý tới trước đáp án)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"Moving down the scale a bit, we see the \"},{\"text\":\"plastic\",\"bold\":true},{\"text\":\" that has been \"},{\"text\":\"painted white has a rate of 0.8\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chỉ số của \"},{\"text\":\"white-painted plastic là 0.8\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: 0.8 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 325,
+          "endTimeInSeconds": 353,
+          "transcripts": [
+           {
+            "id": "25/325076-337277",
+            "startTimeInSeconds": 325,
+            "endTimeInSeconds": 337,
+            "text": "At one end of the scale is polished silver. At a rating of 1.0, this shiny surface reflects nearly all of the light directed at it. Numbers closer to zero describe materials that absorb more light."
+           },
+           {
+            "id": "26/337277-353014",
+            "startTimeInSeconds": 337,
+            "endTimeInSeconds": 353,
+            "text": "Moving down the scale a bit, we see the plastic that has been painted white has a rate of 0.8, which makes sense. We know that the colour white reflects all other colours while black absorbs all colours, and plastic itself is a relatively reflective material."
+           }
+          ]
+         },
+         "value": "0.8",
+         "blankId": "Iy7z5AfFwASNr3nCM1jpg"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"The\"},{\"text\":\" quarry tile\",\"bold\":true},{\"text\":\" I mentioned a while ago \"},{\"text\":\"has a rate of 0.1\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án: 0.1\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 353,
+          "endTimeInSeconds": 362,
+          "transcripts": [
+           {
+            "id": "27/353014-362448",
+            "startTimeInSeconds": 353,
+            "endTimeInSeconds": 362,
+            "text": "Materials that are denser and darker have reflectance rates much closer to zero. The quarry tile I mentioned a while ago has a rate of 0.1."
+           }
+          ]
+         },
+         "value": "0.1",
+         "blankId": "TS3Rpj_AKj6cIccsSTtxo"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về loại vật liệu cuối cùng, ứng với 0.0 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"what materials may have a rate of almost 0.0?\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"one material with\"},{\"text\":\" a rate of almost 0.0 is black velvet\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: black velvet  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 375,
+          "endTimeInSeconds": 397,
+          "transcripts": [
+           {
+            "id": "29/375735-388509",
+            "startTimeInSeconds": 375,
+            "endTimeInSeconds": 388,
+            "text": "Does anyone have any guesses as to what materials may have a rate of almost 0.0? We can guess most of these materials are black in colour, but plastic, wood, and even stone reflect some light."
+           },
+           {
+            "id": "30/388509-397139",
+            "startTimeInSeconds": 388,
+            "endTimeInSeconds": 397,
+            "text": "One material with a rate of almost 0.0 is velvet. The texture produces almost no shine at all."
+           }
+          ]
+         },
+         "value": "black velvet",
+         "blankId": "Awb3ytKJwt_zBOkJsjGcR"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "Iy7z5AfFwASNr3nCM1jpg",
+         "key": 0
+        },
+        {
+         "id": "TS3Rpj_AKj6cIccsSTtxo",
+         "key": 1
+        },
+        {
+         "id": "Awb3ytKJwt_zBOkJsjGcR",
+         "key": 2
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"OrQUpzLI4GKYynOKquuRg\",\"cellsWidth\":[300,300],\"width\":600,\"children\":[{\"type\":\"tr\",\"id\":\"tIvEgvpK4RY_kHLNpBC2j\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"MATERIAL\",\"bold\":true}]}]}],\"id\":\"Ohssu9O3_ShBCGXk5uFBh\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"REFLECTANCE RATE\",\"bold\":true}]}]}],\"id\":\"Zq_2z7uWK3NYJ_OVqFeYL\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"4B_3HbPMTNexhRMFL35jB\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Polished silver\"}]}]}],\"id\":\"m5E0UJy2q4KBDm5LprFHB\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Almost 1.0\"}]}]}],\"id\":\"yTUbogpEJ2PDyk3nQz7g2\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"w8bAe1JVk5-YUMLVRA9jX\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"White-painted plastic\"}]}]}],\"id\":\"qB5WSxtheugZKxFxPd2yU\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Approximately \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Iy7z5AfFwASNr3nCM1jpg\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"RufTlTJ2gCibVoeKT36V5\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"XrKQV1w61KmZJcUxrD5Tz\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Quarry tile\"}]}]}],\"id\":\"8ofbbUqkWu-3Q8FdOsao2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Approximately \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"TS3Rpj_AKj6cIccsSTtxo\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"75DWZuF973CdnmDoE2tXH\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"g88bnWCV8c8PR44t240ky\",\"children\":[{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Awb3ytKJwt_zBOkJsjGcR\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"uYRlmuoaBNgvUVxzmPTzj\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Almost 0.0\"}]}]}],\"id\":\"qw9OpejXTZ29u9Qq9hvPl\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"border\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "NO MORE THAN TWO WORDS AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:01Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

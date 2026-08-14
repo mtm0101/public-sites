@@ -1,0 +1,2382 @@
+{
+ "schema": 1,
+ "id": "actual5-t3-listening",
+ "title": "Actual Test 5 - Listening Test 3",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 3,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-actual-test-5-test-3-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-actual-test-5-test-3-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Complaints To Clifton Antiques",
+   "duration": 9,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "74eebb6a-2751-11ed-a111-ed4dcd04caf9",
+     "questions": [
+      {
+       "uuid": "4s6VWZMZ2EqoFCgNnzVCs",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"số điện thoại\",\"bold\":true},{\"text\":\"  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"may I have your\"},{\"text\":\" contact number?\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy khách trả lời \\\"my mobile phone number is\"},{\"text\":\" 0-double 7-8-7-6-3-4-5\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án:  077876345\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 153,
+          "endTimeInSeconds": 167,
+          "transcripts": [
+           {
+            "id": "6/153899-160442",
+            "startTimeInSeconds": 153,
+            "endTimeInSeconds": 160,
+            "text": " Oh, sorry. Let me rewrite it... and may I have your contact number that we can use to reach you during the week?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "7/160442-167836",
+            "startTimeInSeconds": 160,
+            "endTimeInSeconds": 167,
+            "text": " Sure, my mobile phone number is 0-double 7-8-7-6-3-4-5.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "077876345",
+         "blankId": "gxZeCTqnEeKMgSIdCTAtK"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là \"},{\"text\":\"ngày dự tính đến\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I \"},{\"text\":\"placed an order\",\"bold\":true},{\"text\":\" [...] from you last week \"},{\"text\":\"on the 20th February\",\"bold\":true},{\"text\":\", and\"},{\"text\":\" \",\"bold\":true},{\"text\":\"has been \"},{\"text\":\"expecting them to arrive at the office in a week\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách hàng đặt hàng tuần trước \"},{\"text\":\"vào ngày 20/2\",\"bold\":true},{\"text\":\" và ước tính \"},{\"text\":\"hàng sẽ tới sau một tuần\",\"bold\":true},{\"text\":\", tức là vào ngày\"},{\"text\":\" 27/2 \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: 27(th) February \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 188,
+          "transcripts": [
+           {
+            "id": "9/171264-188843",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 188,
+            "text": " I placed an order of a large quantity of items from you last week on the 20th February, and has been expecting them to arrive at the office in a week. However, only half of the shipment has been delivered. I just would like to ensure that they haven't been missing in transit.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "27th February/27 February",
+         "blankId": "ZQpHYe0HxFwbQdKTuscq-"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tên đường\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"what was your\"},{\"text\":\" delivery address\",\"bold\":true},{\"text\":\" listed?\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy khách nói \\\"from your \"},{\"text\":\"warehouse on Ardale Road\",\"bold\":true},{\"text\":\" to my office address at \"},{\"text\":\"235 Akendale Road\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ardale Road là địa chỉ của nhà kho, còn \"},{\"text\":\"địa chỉ giao hàng cho khách là 235 Akendale Road\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley22\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy khách có đánh vần tên đường \\\"\"},{\"text\":\"A-K-E-N-D-A-L-E\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án: Akendale \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 188,
+          "endTimeInSeconds": 222,
+          "transcripts": [
+           {
+            "id": "10/188843-201044",
+            "startTimeInSeconds": 188,
+            "endTimeInSeconds": 201,
+            "text": " All right, madam. It's a pity that we brought the inconvenience to you. I'll look for the parcel track record and see if I can give you a date when it is okay to receive the rest of your orderings. What was your delivery address listed? ",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "11/201044-211640",
+            "startTimeInSeconds": 201,
+            "endTimeInSeconds": 211,
+            "text": " I made the arrangements for the parcel to be conveyed from your warehouse on Ardale Road to my office address at 235 Akendale Road.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "12/211640-214047",
+            "startTimeInSeconds": 211,
+            "endTimeInSeconds": 214,
+            "text": " Sorry, could you say it again, the address? ",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "13/214047-222862",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 222,
+            "text": " 235 Akendale Road. A-K-E-N-D-A-L-E. ",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "Akendale",
+         "blankId": "yFaDpEWpa9OXFK65qOJQ8"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là\"},{\"text\":\" tổng số tiền bảo hiểm\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"you might necessarily consider to \"},{\"text\":\"claim insurance coverage...\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy khách nói \\\"they cost me \"},{\"text\":\"$34,500 in total\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Là tổng\"},{\"text\":\" giá tiền của đơn hàng\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó nghe nhân viên nói là \\\"\"},{\"text\":\"10% will be covered by the insurance compan\",\"bold\":true},{\"text\":\"y; therefore, you\"},{\"text\":\" could claim $3,450\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> 10% tổng giá trị đơn hàng sẽ do công ty bảo hiểm chi trả, tức là \"},{\"text\":\"khoản tiền bảo hiểm sẽ là $3450\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án : 3450 \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 225,
+          "endTimeInSeconds": 270,
+          "transcripts": [
+           {
+            "id": "16/225453-243935",
+            "startTimeInSeconds": 225,
+            "endTimeInSeconds": 243,
+            "text": " Well, OK. Our system has tracked your parcel, which shows that your shipment has been received; however, there's no record about the lost items. I would suggest that you wait for two days, and if the other items don't arrive then you might necessarily consider to claim insurance coverage for the value of the rest. How much are them worth?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "17/243935-249007",
+            "startTimeInSeconds": 243,
+            "endTimeInSeconds": 249,
+            "text": " Umm, they cost me $34,500 in total.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "18/249007-270828",
+            "startTimeInSeconds": 249,
+            "endTimeInSeconds": 270,
+            "text": " All right. For this amount, I think 10% will be covered by the insurance company, therefore, you could claim $3450 from them. If you like to, there is a form on our website that you can fill in and when the loss is confirmed, you will get the money within five workdays. The rest of the money will be refunded to you in a month, so you won't suffer a financial loss. ",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           }
+          ]
+         },
+         "value": "3450",
+         "blankId": "tISPzkbXecm95dzFD-3wP"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\"},{\"text\":\" những vật bị mất \",\"bold\":true},{\"text\":\"(furniture and ___ _\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"It is unfortunate that a few \"},{\"text\":\"missing items...\\\"  \",\"bold\":true},{\"text\":\"\\nNghe thấy nói tới \\\"\"},{\"text\":\"lamps and chairs\\\" \",\"bold\":true},{\"text\":\" (ý đầu tiên trong đề) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Sau đó khách nói tiếp tới \\\"there was a \"},{\"text\":\"large item of antique furniture\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"a bag filled with first edition books\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có\"},{\"text\":\" đồ nội thất\",\"bold\":true},{\"text\":\" cổ và \"},{\"text\":\"một số sách\",\"bold\":true},{\"text\":\" cũng đang bị thất lạc \\n=>\"},{\"text\":\" Đáp án: books \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 322,
+          "endTimeInSeconds": 345,
+          "transcripts": [
+           {
+            "id": "21/322480-345860",
+            "startTimeInSeconds": 322,
+            "endTimeInSeconds": 345,
+            "text": " Of course, okay. It is unfortunate that a few missing items are the sole one of a kind and thus, irreplaceable. Also, there were many small items that aren't very valuable, like lamps and chairs. However, there was a large item of antique furniture and a bag filled with first edition books, which were some of the first ever to be printed on a press.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "books",
+         "blankId": "SZ4LipgGP7tb5Php1OQDg"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe tiếp về \"},{\"text\":\"các vật phẩm bị mất khác\",\"bold\":true},{\"text\":\" (a rocking horse, a number of ___ and fruit bowls) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nhân viên hỏi \\\"\"},{\"text\":\"anything else?\\\" \",\"bold\":true},{\"text\":\"(chuẩn bị nói về các vật khác) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy khách trả lời \\\"a Victorian\"},{\"text\":\" rocking chair \",\"bold\":true},{\"text\":\"for my daughter, \"},{\"text\":\"some large oil paintings\",\"bold\":true},{\"text\":\" originating from the Edwardian period and some \"},{\"text\":\"few decorative fruit bowls\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Còn đang bị thất lạc \"},{\"text\":\"rocking horse, paintings, và fruit bowls\",\"bold\":true},{\"text\":\" \\n=> So sánh với đề thì thấy \"},{\"text\":\"đã có rocking chair và fruit bowls\",\"bold\":true},{\"text\":\", chỉ còn \"},{\"text\":\"thiếu paintings\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án: paintings\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 345,
+          "endTimeInSeconds": 361,
+          "transcripts": [
+           {
+            "id": "22/345860-348586",
+            "startTimeInSeconds": 345,
+            "endTimeInSeconds": 348,
+            "text": " Right, ok. Anything else?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "23/348586-361547",
+            "startTimeInSeconds": 348,
+            "endTimeInSeconds": 361,
+            "text": " Yeah, there were also some important items, a Victorian rocking horse for my daughter, some large oil paintings originating from the Edwardian period and some few decorative fruit bowls.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "paintings",
+         "blankId": "Eewe7HYtsFl7682DNPeMO"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đáp án cần điền là\"},{\"text\":\" vật đã order, bên cạnh clock \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới khách nói \\\"there are several \"},{\"text\":\"other pieces\",\"bold\":true},{\"text\":\" that I've spotted on your website and \"},{\"text\":\"wanted to order\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Khách muốn đặt thêm vài món nữa \\n=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"there is \"},{\"text\":\"a gold clock \",\"bold\":true},{\"text\":\"and\"},{\"text\":\" a golden framed vintage mirror\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hai thứ khách muốn đặt là\"},{\"text\":\" đồng hồ và gương \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: mirror\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 368,
+          "endTimeInSeconds": 385,
+          "transcripts": [
+           {
+            "id": "25/368778-376341",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 376,
+            "text": " Ah, I almost forgot! There are several other pieces that I've spotted on your website and wanted to order. May I do that now?",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "26/376341-381327",
+            "startTimeInSeconds": 376,
+            "endTimeInSeconds": 381,
+            "text": " It is definitely okay. Would you describe me a little about the items that you are looking to buy?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "27/381327-385369",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 385,
+            "text": " There is a gold clock and a golden framed vintage mirror. ",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "mirror",
+         "blankId": "milBeuRwSzly6OtmZkjwb"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley3\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án cần điền là \"},{\"text\":\"vật cần được replaced \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"I received \"},{\"text\":\"two damaged items\",\"bold\":true},{\"text\":\"...\\\" (damaged -> cần replaced) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley33\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy khách nói \\\"\"},{\"text\":\"a drawer is missing\",\"bold\":true},{\"text\":\" from the \"},{\"text\":\"antique mahogany desk\",\"bold\":true},{\"text\":\", and I also spotted\"},{\"text\":\" a dent on one of the corners\",\"bold\":true},{\"text\":\", so it's basically \"},{\"text\":\"unusable\",\"bold\":true},{\"text\":\"\\\" \"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bàn bị \"},{\"text\":\"thiếu một ngăn kéo\",\"bold\":true},{\"text\":\", và cũng bị \"},{\"text\":\"một vết lõm ở góc\",\"bold\":true},{\"text\":\" nên gần như không thể sử dụng được \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nhân viên hỏi về\"},{\"text\":\" phí sửa chữa\",\"bold\":true},{\"text\":\" \\\"how much will it \"},{\"text\":\"cost to repair\",\"bold\":true},{\"text\":\" it?\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"       Khách trả lời là \\\"I \"},{\"text\":\"don't think it's repairable\",\"bold\":true},{\"text\":\", I will \"},{\"text\":\"have to buy a new one\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bàn \"},{\"text\":\"không thể sửa được\",\"bold\":true},{\"text\":\", cần phải\"},{\"text\":\" mua cái mới \",\"bold\":true},{\"text\":\"để thay cho cái này \\n=> Cái bàn cần phải thay \\n=>\"},{\"text\":\" Đáp án: desk \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 395,
+          "endTimeInSeconds": 429,
+          "transcripts": [
+           {
+            "id": "29/395484-402000",
+            "startTimeInSeconds": 395,
+            "endTimeInSeconds": 402,
+            "text": " Yes, I received two damaged items in the shipment, so I need to claim for a partial refund.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "30/402000-411352",
+            "startTimeInSeconds": 402,
+            "endTimeInSeconds": 411,
+            "text": " Oh, sorry. I need to know more about the details of the actual damage over the phoneline before you put in a full report. What kinds of pieces are damaged?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "31/411352-420060",
+            "startTimeInSeconds": 411,
+            "endTimeInSeconds": 420,
+            "text": " A drawer is missing from the antique mahogany desk, and I also spotted a dent on one of the corners, so it's basically unusable.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "32/420060-423669",
+            "startTimeInSeconds": 420,
+            "endTimeInSeconds": 423,
+            "text": " I see. Do you know how much will it cost to repair it?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "33/423669-429036",
+            "startTimeInSeconds": 423,
+            "endTimeInSeconds": 429,
+            "text": " No. Well, I don't think it's repairable. I will have to buy a new one.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "desk",
+         "blankId": "AvkxKWFUUdI3oIax0rhNg"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cái gì của bàn ăn bị chẻ đôi \",\"bold\":true},{\"text\":\"(a ___ of one o the dining chairs is split)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"I also purchased a set of\"},{\"text\":\" dining chairs.\",\"bold\":true},{\"text\":\"..\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"one of the legs\",\"bold\":true},{\"text\":\" has completely \"},{\"text\":\"split down the middle\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Một cái chân ghế đã bị chẻ đôi ra \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: leg \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 434,
+          "endTimeInSeconds": 443,
+          "transcripts": [
+           {
+            "id": "35/434128-443406",
+            "startTimeInSeconds": 434,
+            "endTimeInSeconds": 443,
+            "text": " I also purchased a set of dining chairs with navy leather padding. However, the colour is faded and one of the legs has completely split down the middle. ",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "leg",
+         "blankId": "UsgqSQfkybktuYVLu5smR"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" 4 cái gì đã bị bể/ hư \",\"bold\":true},{\"text\":\"(four ___ were broken)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Are there any\"},{\"text\":\" other damaged pieces\",\"bold\":true},{\"text\":\"?\\\"  (hỏi xem còn gì hư không) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"I found that a cup was lost and that \"},{\"text\":\"some plates had smashed\",\"bold\":true},{\"text\":\" - \"},{\"text\":\"four\",\"bold\":true},{\"text\":\", actually\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một chiếc ly bị thất lạc và \"},{\"text\":\"4 chiếc đĩa bị vỡ \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: plates \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 443,
+          "endTimeInSeconds": 462,
+          "transcripts": [
+           {
+            "id": "36/443406-446192",
+            "startTimeInSeconds": 443,
+            "endTimeInSeconds": 446,
+            "text": " Ok, are there any other damaged pieces? ",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "37/446192-458259",
+            "startTimeInSeconds": 446,
+            "endTimeInSeconds": 458,
+            "text": " Yes, there is a set of Chinese crockery to furnish my dining room table. But when I opened the case I found that a cup was lost and that some plates had smashed-four, actually.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           },
+           {
+            "id": "38/458259-460434",
+            "startTimeInSeconds": 458,
+            "endTimeInSeconds": 460,
+            "text": " And is that all of the items?",
+            "character": {
+             "id": "16hNJWTR1wkAF6WlGSL7S",
+             "name": "Receptionist"
+            }
+           },
+           {
+            "id": "39/460434-462173",
+            "startTimeInSeconds": 460,
+            "endTimeInSeconds": 462,
+            "text": " Yes. I think that's all.",
+            "character": {
+             "id": "uuQloWQTHX8pkVq7kO5vb",
+             "name": "Caller"
+            }
+           }
+          ]
+         },
+         "value": "plates",
+         "blankId": "fEtn4aGycFSeJuzIqBibt"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "gxZeCTqnEeKMgSIdCTAtK",
+         "key": 0
+        },
+        {
+         "id": "ZQpHYe0HxFwbQdKTuscq-",
+         "key": 1
+        },
+        {
+         "id": "yFaDpEWpa9OXFK65qOJQ8",
+         "key": 2
+        },
+        {
+         "id": "tISPzkbXecm95dzFD-3wP",
+         "key": 3
+        },
+        {
+         "id": "SZ4LipgGP7tb5Php1OQDg",
+         "key": 4
+        },
+        {
+         "id": "Eewe7HYtsFl7682DNPeMO",
+         "key": 5
+        },
+        {
+         "id": "milBeuRwSzly6OtmZkjwb",
+         "key": 6
+        },
+        {
+         "id": "AvkxKWFUUdI3oIax0rhNg",
+         "key": 7
+        },
+        {
+         "id": "UsgqSQfkybktuYVLu5smR",
+         "key": 8
+        },
+        {
+         "id": "fEtn4aGycFSeJuzIqBibt",
+         "key": 9
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"FxRfiwUBfK18QogWMMqXe\",\"cellsWidth\":[233,300],\"children\":[{\"type\":\"tr\",\"id\":\"3zbXw8GKv-y3bCw4Fgsf8\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\n\"},{\"text\":\"Name:\",\"bold\":true}]}]}],\"id\":\"dbYawtKlX8PWBTFDESlBC\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\\n\"},{\"text\":\"Anna Lumley\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"weyo3MuNb00rlim8d0vUe\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"cJWfO_dfmoIdpc30boDik\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Contact (Phone) Number:\",\"bold\":true}]}]}],\"id\":\"K1D8knOLHZhiIv2N_VxRR\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"gxZeCTqnEeKMgSIdCTAtK\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"nkvd-OyBQE0R_x5eDpGoR\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"zdqP1KvjzS1FjESbYLBTZ\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Date of expected arrival:\",\"bold\":true}]}]}],\"id\":\"hVlAinjQMAaeqp08yP5tb\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ZQpHYe0HxFwbQdKTuscq-\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"N3k1e_g_QgPp6EnUohq-h\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"M8rwPhwitsKNweRM7PLQB\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Address:\",\"bold\":true}]}]}],\"id\":\"v7h66aaj5pqZw7sczqHTv\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"235 \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"yFaDpEWpa9OXFK65qOJQ8\",\"text\":\"\"}]},{\"text\":\"Road, East sea\"}]}]}],\"id\":\"IAakGQoRn7PUFPx20DFgD\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"UmzDbFCCgrF2eDgNJBLvO\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The total value of insurance:\",\"bold\":true}]}]}],\"id\":\"g7GB0uZs721Xik-GC9_Ic\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"$\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"tISPzkbXecm95dzFD-3wP\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"pHWptjDX7rtz_8xivP4jh\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"iU9GNI-eddn8xmpdVEbeL\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Missing items:\",\"bold\":true}]}]}],\"id\":\"tpYBK9kx5HojSXlfIH-Bq\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- lamps and chairs (not expensive)\\n- furniture and \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"SZ4LipgGP7tb5Php1OQDg\",\"text\":\"\"}]},{\"text\":\"\\n- a rocking horse, a number of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Eewe7HYtsFl7682DNPeMO\",\"text\":\"\"}]},{\"text\":\" and fruit bowls\"}]}]}],\"id\":\"HWdHoNx5gFpJ2aEiH39gm\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"gU5XEaZl-WOKMg9sDvIYr\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Item ordered:\",\"bold\":true}]}]}],\"id\":\"XgzBhCvVSUKncg-P9ya8W\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- a clock\\n- a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"milBeuRwSzly6OtmZkjwb\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"9EVfwX1Ws_Q3OBv2JAwTb\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"pa3hDpYtltk9tB-fTECag\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Damaged items:\",\"bold\":true}]}]}],\"id\":\"9WWyGUxYzR8yxSgB8Vyw5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"- the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"AvkxKWFUUdI3oIax0rhNg\",\"text\":\"\"}]},{\"text\":\"needs to be replaced\\n- a \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"UsgqSQfkybktuYVLu5smR\",\"text\":\"\"}]},{\"text\":\"of one of the dining chairs is split\\n- four \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"fEtn4aGycFSeJuzIqBibt\",\"text\":\"\"}]},{\"text\":\" were broken\"}]}]}],\"id\":\"mRT9K0YPKa0L7nHyrzXXc\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":533,\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]",
+       "question": "INCIDENT REPORT"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "A Popular Holiday Region: Treloar Valley",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "eee1e816-2751-11ed-9762-a3ae25ae22f6",
+     "questions": [
+      {
+       "uuid": "eee1e817-2751-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "The Treloar Valley passenger ferry",
+       "options": [
+        {
+         "key": 0,
+         "value": "usually starts services in April"
+        },
+        {
+         "key": 1,
+         "value": "departs at the same time each day"
+        },
+        {
+         "key": 2,
+         "value": "is the primary means of transport for local villagers"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về \",\"marks\":[]},{\"text\":\"Treloar Vally passenger ferry \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"The Treloar Valley passenger ferry\",\"bold\":true},{\"text\":\" running between villages...\\\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"in the past, the \"},{\"text\":\"main transport way\",\"bold\":true},{\"text\":\" in the area \"},{\"text\":\"was the river\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trong \"},{\"text\":\"quá khứ \",\"bold\":true},{\"text\":\"thì \"},{\"text\":\"đường thủy là phương tiện đi lại chính\",\"bold\":true},{\"text\":\" trong khu vực này \\n=> Tuy nhiên \"},{\"text\":\"không nhắc gì tới hiện tại \",\"bold\":true},{\"text\":\"\\n=> Đáp án có thể không phải C\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the\"},{\"text\":\" ferry timetable varied from day to day\",\"bold\":true},{\"text\":\" according to the \"},{\"text\":\"time and height of the tide\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Lịch trình\",\"bold\":true},{\"text\":\" của phà\"},{\"text\":\" thay đổi mỗi ngày\",\"bold\":true},{\"text\":\", tùy theo lượng nước thủy triều \\n=> \"},{\"text\":\"Không có lịch khởi hành cố định \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the ferry is also \"},{\"text\":\"seasonal\",\"bold\":true},{\"text\":\", usually \"},{\"text\":\"running \",\"bold\":true},{\"text\":\"its business\"},{\"text\":\" during the period between April and September\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phà hoạt động theo mùa, \"},{\"text\":\"bắt đàu từ April cho tới September \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 72,
+          "endTimeInSeconds": 101,
+          "transcripts": [
+           {
+            "id": "1/72113-84769",
+            "startTimeInSeconds": 72,
+            "endTimeInSeconds": 84,
+            "text": "There is Treloar Valley passenger ferry running between villages, alongside the river estuary and serves as a link with the train station at Barry, from which it takes only 10-minute walk from the riverside village of Carlton. "
+           },
+           {
+            "id": "2/84769-101694",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 101,
+            "text": "In the past, the main transport way in the area was the river and as the past, the ferry timetable varied from day to day according to the time and height of the tide. The ferry is also seasonal, usually running its businesses during the period between April and September depending on the weather."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "eee1e818-2751-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "Which of the following is true about the river cruise?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It can be combined a train journey"
+        },
+        {
+         "key": 1,
+         "value": "It’s unsuitable for people who have difficulties in walking"
+        },
+        {
+         "key": 2,
+         "value": "The return journey takes up to four hours"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Đối tượng cần nghe là \",\"marks\":[]},{\"text\":\"river cruise\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"just take \"},{\"text\":\"river cruise...\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the\"},{\"text\":\" round trip\",\"bold\":true},{\"text\":\" takes between\"},{\"text\":\" four and five hours\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một \"},{\"text\":\"chuyến khứ hồi\",\"bold\":true},{\"text\":\" cả đi lẫn về \"},{\"text\":\"mất khoảng 4-5 tiếng\",\"bold\":true},{\"text\":\", chứ \"},{\"text\":\"không phải chỉ lượt về \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"You can\"},{\"text\":\" travel up river by boat\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"return to Plymouth by train\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể đi chiều \"},{\"text\":\"đi bằng tàu và về bằng tàu hỏa \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Có thể kết hợp một chuyến tàu hỏa \",\"bold\":true},{\"text\":\"với đi cruise \\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"there will be \"},{\"text\":\"wheelchair access on all the cruise, boats, \",\"bold\":true},{\"text\":\"and \"},{\"text\":\"trains\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mọi tàu thủy và tàu hỏa \"},{\"text\":\"đều có hỗ trợ cho xe lăn \",\"bold\":true},{\"text\":\"\\n=> Những \"},{\"text\":\"người đi lại khó khăn\",\"bold\":true},{\"text\":\" phải dùng xe lăn \"},{\"text\":\"vẫn lên tàu được \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 101,
+          "endTimeInSeconds": 140,
+          "transcripts": [
+           {
+            "id": "3/101694-124004",
+            "startTimeInSeconds": 101,
+            "endTimeInSeconds": 124,
+            "text": "Visiting our website, www. treloarferry.co.uk, it's convenient to download the timetable. If you would like to relax and enjoy the wonderful scenery, just take a river cruise to Carlton and back from the nearby City of Plymouth. Visitors were carried along the same route by steamships in the past. Queen Victoria and her family also enjoyed such trip in 1856."
+           },
+           {
+            "id": "4/124004-140858",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 140,
+            "text": "Today, it takes you few hours during journey, the round trip only lasts for 4 to 5 hours, varying in terms of the tides and weather. You can travel up river by boat and return to Plymouth by train if you prefer. There will be wheelchair access on all the cruise boats and trains."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "eee1e819-2751-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "What information is given about train services in the area?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Trains run non-stop between Calton and Plymouth"
+        },
+        {
+         "key": 1,
+         "value": "One section of the rail track is raised"
+        },
+        {
+         "key": 2,
+         "value": "Bookings can be made via telephone or the Internet"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe \",\"marks\":[]},{\"text\":\"thông tin về train services\",\"marks\":[],\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley28\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"trains \"},{\"text\":\"travel between Calton and Plymouth\",\"bold\":true},{\"text\":\" many times a day \"},{\"text\":\"with different stations in between\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tàu chạy từ Calton tơi Plymouth và \"},{\"text\":\"có nhiều trạm dừng ở giữa \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Không\",\"bold\":true},{\"text\":\" \"},{\"text\":\"phải \",\"bold\":true},{\"text\":\"là chạy thẳng không dừng \"},{\"text\":\"(non-stop) \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"the highlight of the journey is \"},{\"text\":\"crossing the river on the amazing viaduct\",\"bold\":true},{\"text\":\", which [...] towers \"},{\"text\":\"120 feet over the water\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Điểm nhấn của chuyến tàu là lúc\"},{\"text\":\" băng qua sông trên một cây cầu cạn\",\"bold\":true},{\"text\":\", nằm\"},{\"text\":\" cách mặt nước 120 feet \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đoạn đường\",\"bold\":true},{\"text\":\" ray qua sông này \"},{\"text\":\"được nâng cao lên để cách xa mặt nước \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"it is \"},{\"text\":\"unnecessary to book ahead\",\"bold\":true},{\"text\":\" và you can reach National Rail Inquiries \"},{\"text\":\"by phone or online for more details about fares and timetables\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Không cần phải đặt trước\",\"bold\":true},{\"text\":\", và liên hệ qua điện thoại hoặc online là\"},{\"text\":\" để tìm thêm thông tin chứ không phải đặt vé \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 140,
+          "endTimeInSeconds": 187,
+          "transcripts": [
+           {
+            "id": "5/140858-155204",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 155,
+            "text": "For more information and departure times, please ring Plymouth boat cruise on 01752823104. Trains travel between Carlton and Plymouth many times a day with different stations in between throughout the year."
+           },
+           {
+            "id": "6/155204-171298",
+            "startTimeInSeconds": 155,
+            "endTimeInSeconds": 171,
+            "text": "Local commuters as well as visitors who fancy the lovely scenery prefer to use the service. What highlighted the journey most is going across the river on the amazing viaduct which was constructed at the early period of the 20th century, and it towers 120 feet over the water. "
+           },
+           {
+            "id": "7/171298-187804",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 187,
+            "text": "Tickets can be directly bought on the train so it is unnecessary to book ahead. You can reach National Rail Inquiries by phone or online for more details about fares and timetables. The bus service is now linking all train stations and villages in the zone, specially for holiday makers."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "eee1e81a-2751-11ed-9762-a3ae25ae22f6",
+       "type": "SINGLE_ANSWER",
+       "question": "The rover bus ticket",
+       "options": [
+        {
+         "key": 0,
+         "value": "can be used for up to five journeys a day"
+        },
+        {
+         "key": 1,
+         "value": "is valid for weekend travel only"
+        },
+        {
+         "key": 2,
+         "value": "has recently gone down in price"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Mình cần nghe về\",\"marks\":[]},{\"text\":\" rover bus ticket\",\"marks\":[],\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy\"},{\"text\":\" \\\"\",\"bold\":true},{\"text\":\"There is a Rover ticket\"},{\"text\":\" including unlimited journeys\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có thể \"},{\"text\":\"đi không giới hạn số chuyến\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"can be used at weekends\",\"bold\":true},{\"text\":\" and on \"},{\"text\":\"national holidays\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hợp lệ để \"},{\"text\":\"sử dụng cho cuối tuần và ngày lễ\",\"bold\":true},{\"text\":\", chứ \"},{\"text\":\"không phải chỉ vào cuối tuần \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"The Rover ticket [...] is now\"},{\"text\":\" even cheaper than it was last year\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hiện tại thì giá vé Rover \"},{\"text\":\"còn rẻ hơn giá năm ngoái \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Mới được giảm giá \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 171,
+          "endTimeInSeconds": 199,
+          "transcripts": [
+           {
+            "id": "7/171298-187804",
+            "startTimeInSeconds": 171,
+            "endTimeInSeconds": 187,
+            "text": "Tickets can be directly bought on the train so it is unnecessary to book ahead. You can reach National Rail Inquiries by phone or online for more details about fares and timetables. The bus service is now linking all train stations and villages in the zone, specially for holiday makers."
+           },
+           {
+            "id": "8/187804-199931",
+            "startTimeInSeconds": 187,
+            "endTimeInSeconds": 199,
+            "text": "There is a rover ticket including unlimited journeys, which can be used on weekends and national holidays. The rover ticket offers great value for money and is now even cheaper than it was last year."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "eee1e81b-2751-11ed-9762-a3ae25ae22f6",
+     "questions": [
+      {
+       "uuid": "JVxQ7E0Pbaizq4QqknEPx",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/ffb3d3da-607c-46de-88fc-0c1733529d83.jpg",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/ffb3d3da-607c-46de-88fc-0c1733529d83.jpg",
+        "name": "AT5_L3_S2_Calton_NoOpt.jpg",
+        "uploadedDate": "2021-10-22T09:10:50.122+0000",
+        "size": 106067,
+        "width": 375,
+        "height": 243
+       },
+       "correctOptions": [
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the main road comes into the village from the south\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang bắt đầu từ đường lớn từ dưới đi lên ￼ Nghe tiếp thấy \\\"\"},{\"text\":\"for those who are arriving by bus, it turns left just before the bridge and stops in the lay-by on the left hand\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Xe bus rẽ trái ngay trước cây cầu, và dừng lại ở bãi phía bên trái => Bãi đậu xe bus nằm ở phía bên trái theo hướng đi từ dưới lên \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Loại \"},{\"text\":\"đáp án G\",\"bold\":true},{\"text\":\"￼ \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chọn \"},{\"text\":\"đáp án H ￼\",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 256,
+          "endTimeInSeconds": 271,
+          "transcripts": [
+           {
+            "id": "10/256815-271202",
+            "startTimeInSeconds": 256,
+            "endTimeInSeconds": 271,
+            "text": "At the centre of the Treloar estuary area is the historic riverside village of Carlton. The main road comes into the village from the south and for those who are riding by bus it turns left just before the bridge and stops in the lay-by on the left hand."
+           }
+          ]
+         }
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"If you are arriving by car you have to leave it in the main \"},{\"text\":\"car park \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"go\"},{\"text\":\" over the bridge\",\"bold\":true},{\"text\":\" and take the \"},{\"text\":\"first turning on the right\",\"bold\":true},{\"text\":\", then go on until you\"},{\"text\":\" come to the end of that road\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đi \"},{\"text\":\"qua cầu\",\"bold\":true},{\"text\":\" (vẫn theo hướng từ dưới lên) và \"},{\"text\":\"rẽ phải,\",\"bold\":true},{\"text\":\" sau đó \"},{\"text\":\"đi thẳng tới cuối đường\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là F\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 271,
+          "endTimeInSeconds": 288,
+          "transcripts": [
+           {
+            "id": "11/271202-288616",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 288,
+            "text": "From there, it's just a short walk to Carlton's various attractions. If you are arriving by car you have to leave it in the main car park. Go over the bridge, take the first turning on the right, then go on until you come to the end of that road. It's the only place to park in Carlton but there's no charge."
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"there is a \"},{\"text\":\"museum in Carlton...\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley44\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"cross the river\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"go straight\",\"bold\":true},{\"text\":\" on the same road\"},{\"text\":\" until you reach the end\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Băng qua sông\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"đi thẳng cho tới cuối đường \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 288,
+          "endTimeInSeconds": 301,
+          "transcripts": [
+           {
+            "id": "12/288616-301314",
+            "startTimeInSeconds": 288,
+            "endTimeInSeconds": 301,
+            "text": "If you're interested in local history, there is a museum in Carlton with farming, fishing and household implements from the late 19th century. As you come in from the south, cross the river and go straight on the same road until you reach the end. "
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley25\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"...you can go and see the\"},{\"text\":\" old mill..\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"turn left before\",\"bold\":true},{\"text\":\" you come to\"},{\"text\":\" the bridge\",\"bold\":true},{\"text\":\", then \"},{\"text\":\"go straight\",\"bold\":true},{\"text\":\" on and then\"},{\"text\":\" take the first turning on the right\\\"\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Rẽ trái trước khi tới cầu\",\"bold\":true},{\"text\":\" và\"},{\"text\":\" đi thẳng,\",\"bold\":true},{\"text\":\" sau đó \"},{\"text\":\"rẽ phải \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 301,
+          "endTimeInSeconds": 316,
+          "transcripts": [
+           {
+            "id": "13/301314-316036",
+            "startTimeInSeconds": 301,
+            "endTimeInSeconds": 316,
+            "text": "Also, on the subject of history you can go and see the old mill which is recently been renovated and put back into use. Turn left before you come to the bridge then go straight on and take the first turning on the right. This leads straight there."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"If you're interested in arts and crafts theres's a \"},{\"text\":\"potter's studio ...\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n \"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"after \"},{\"text\":\"crossing the bridge\",\"bold\":true},{\"text\":\",\"},{\"text\":\" turn left\",\"bold\":true},{\"text\":\" and it's the \"},{\"text\":\"second building on your left\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau khi \"},{\"text\":\"qua cầu thì rẽ trái\",\"bold\":true},{\"text\":\", potter's studio là \"},{\"text\":\"tòa nhà thứ hai bên trái\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Loại đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án B\",\"bold\":true},{\"text\":\"  \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 316,
+          "endTimeInSeconds": 332,
+          "transcripts": [
+           {
+            "id": "14/316036-332816",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 332,
+            "text": "If you're interested in arts and crafts there's a potter studio where you can watch the artist at work. After crossing the bridge, turn left and it's the second building on the left. Finally when you in need of refreshments, there's a cafe opposite the old boat house, and a picnic area near the mill."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"Finally when you are in need of \"},{\"text\":\"refreshments\",\"bold\":true},{\"text\":\"\\\" (thức ăn nhẹ -> đề cập tới cafe) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"there's a cafe opposite the old boat house\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cafe \"},{\"text\":\"nằm đối diện boat house \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 316,
+          "endTimeInSeconds": 332,
+          "transcripts": [
+           {
+            "id": "14/316036-332816",
+            "startTimeInSeconds": 316,
+            "endTimeInSeconds": 332,
+            "text": "If you're interested in arts and crafts there's a potter studio where you can watch the artist at work. After crossing the bridge, turn left and it's the second building on the left. Finally when you in need of refreshments, there's a cafe opposite the old boat house, and a picnic area near the mill."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "OZlmxDJDhMfmqSIovIoAE",
+         "x": 6,
+         "y": 125
+        },
+        {
+         "text": "B",
+         "id": "KzqrFfqiddO1DvYbXLNGf",
+         "x": 96,
+         "y": 62
+        },
+        {
+         "text": "C",
+         "id": "EWtCEjirX8wyqDMCPC6nA",
+         "x": 140,
+         "y": 57
+        },
+        {
+         "text": "D",
+         "id": "X0oIQTRgAJMVpgjS0xkth",
+         "x": 263,
+         "y": 65
+        },
+        {
+         "text": "E",
+         "id": "8qftlSUCLAOGmjMRJRNWP",
+         "x": 302,
+         "y": 26
+        },
+        {
+         "text": "F",
+         "id": "yr3QLchakcoei62Mi2E5x",
+         "x": 331,
+         "y": 85
+        },
+        {
+         "text": "G",
+         "id": "iF7uj3qVZhD5usyjidkYo",
+         "x": 148,
+         "y": 174
+        },
+        {
+         "text": "H",
+         "id": "bCQSJyH0NC8b0X4LyC4cS",
+         "x": 133,
+         "y": 212
+        }
+       ],
+       "questions": [
+        "bus stop",
+        "car park",
+        "museum",
+        "old mill\t\t",
+        "potter studio",
+        "cafe\t"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Drag your answers in the option list into the boxes."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On Web-Based Crosswords",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "a965d491-29e0-11ee-a10c-61112ff59a9c",
+     "questions": [
+      {
+       "uuid": "a965d492-29e0-11ee-a10c-61112ff59a9c",
+       "type": "SINGLE_ANSWER",
+       "question": "Lila and Jake chose this article because",
+       "options": [
+        {
+         "key": 0,
+         "value": "it was on a topic familiar to most students"
+        },
+        {
+         "key": 1,
+         "value": "it covered both IT and education issues"
+        },
+        {
+         "key": 2,
+         "value": "it dealt with a very straightforward concept"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\",\"marks\":[]},{\"text\":\" lý do Jake và Lila chọn article này\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"tell me\",\"bold\":true},{\"text\":\" a bit \"},{\"text\":\"about the article\",\"bold\":true},{\"text\":\"\\\" (hỏi chi tiết về article) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"\"},{\"text\":\"we selected the article because\",\"bold\":true},{\"text\":\" though we weren't familiar with the technique, \"},{\"text\":\"it seems an accessible topic\\\"  \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Lý do chọn bài báo\",\"bold\":true},{\"text\":\" này là do \"},{\"text\":\"chủ đề có vẻ dễ tiếp cận\",\"bold\":true},{\"text\":\" (~ straightforward), \"},{\"text\":\"mặc dù\",\"bold\":true},{\"text\":\" speaker \"},{\"text\":\"không \",\"bold\":true},{\"text\":\"biết rõ hay \"},{\"text\":\"quen thuộc với các kỹ thuật \",\"bold\":true},{\"text\":\"liên quan tới nó \\n=> \"},{\"text\":\"Chủ đề khá straightforward\",\"bold\":true},{\"text\":\" => \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Không \",\"bold\":true},{\"text\":\"phải là một topic\"},{\"text\":\" quen thuộc\",\"bold\":true},{\"text\":\" \"},{\"text\":\"với tất cả học sin\",\"bold\":true},{\"text\":\"h => \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 69,
+          "endTimeInSeconds": 103,
+          "transcripts": [
+           {
+            "id": "4/69543-79471",
+            "startTimeInSeconds": 69,
+            "endTimeInSeconds": 79,
+            "text": " Nice, in this way I want you to tell me a little bit about the article and explain why it started applying crosswords to assist the students to review the exam terminologies.",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "5/79471-89005",
+            "startTimeInSeconds": 79,
+            "endTimeInSeconds": 89,
+            "text": " All right, the article was written by two university professors who had initially used crosswords to help the students revise the terminology for exams.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "6/89005-92649",
+            "startTimeInSeconds": 89,
+            "endTimeInSeconds": 92,
+            "text": " And the crosswords were designed and installed on computers.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "7/92649-103605",
+            "startTimeInSeconds": 92,
+            "endTimeInSeconds": 103,
+            "text": " And we selected the article because though we weren't familiar with the technique, it seems an accessible topic. You know, using IT to design crosswords for higher education.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "a965d493-29e0-11ee-a10c-61112ff59a9c",
+       "type": "SINGLE_ANSWER",
+       "question": "How did Lila and Jake encourage students to take part in their research?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They convinced them they would enjoy the experience"
+        },
+        {
+         "key": 1,
+         "value": "They said it would help them do a particular test"
+        },
+        {
+         "key": 2,
+         "value": "They offered to help them with their own research later on"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley32\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Mình cần nghe xem \"},{\"text\":\"họ thuyết phục học sinh tham gia vào bài research bằng cách nào\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"Did you find easy to\"},{\"text\":\" have people participated in\",\"bold\":true},{\"text\":\"?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"we \"},{\"text\":\"convinced \",\"bold\":true},{\"text\":\"them \"},{\"text\":\"by talking about the actual benefit \",\"bold\":true},{\"text\":\"that \"},{\"text\":\"they will get from participating\",\"bold\":true},{\"text\":\" in this research on preparing for and exam which is coming up later this semester..\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thuyết phục bằng cách nói \"},{\"text\":\"các học sinh khác sẽ có lợi nếu tham gia khi chuẩn bị cho bài exam\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley13\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"And \"},{\"text\":\"it functioned\",\"bold\":true},{\"text\":\"!\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cách thuyết phục này \"},{\"text\":\"thành công \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 135,
+          "endTimeInSeconds": 152,
+          "transcripts": [
+           {
+            "id": "13/135050-138309",
+            "startTimeInSeconds": 135,
+            "endTimeInSeconds": 138,
+            "text": " Did you find easy to have people participated in?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "14/138309-151411",
+            "startTimeInSeconds": 138,
+            "endTimeInSeconds": 151,
+            "text": " Not really. At first, you know, it was actually hard, but later when we convinced them by talking about the actual benefit that they will get from participating in this research on preparing for an exam which is coming up later this semester...",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "15/151411-152893",
+            "startTimeInSeconds": 151,
+            "endTimeInSeconds": 152,
+            "text": " ...it functioned. ",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "a965d494-29e0-11ee-a10c-61112ff59a9c",
+       "type": "SINGLE_ANSWER",
+       "question": "Lila and Jake changed the design of the original questionnaire because",
+       "options": [
+        {
+         "key": 0,
+         "value": "it was too short for their purpose"
+        },
+        {
+         "key": 1,
+         "value": "it asked misleading questions"
+        },
+        {
+         "key": 2,
+         "value": "it contained obsolete points"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" tại sao họ thay đổi thiết kế của bản questionnaire gốc \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"\"},{\"text\":\"The original article \",\"bold\":true},{\"text\":\"used a two-page long \"},{\"text\":\"questionnaire\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the whole \"},{\"text\":\"section on difficulties using IT\",\"bold\":true},{\"text\":\" is now \"},{\"text\":\"out of date\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phần của bài báo nói về IT bây giờ đã \"},{\"text\":\"lỗi thời\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\"Nghe tiếp thấy tutor hỏi \\\"so have \"},{\"text\":\"you done a shorter version\",\"bold\":true},{\"text\":\"?\\\" - Sinh viên xác nhận là \\\"\"},{\"text\":\"Sure\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là họ \"},{\"text\":\"đã thay đổi design của bản gốc vì nó lỗi thời \",\"bold\":true},{\"text\":\"=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 159,
+          "endTimeInSeconds": 195,
+          "transcripts": [
+           {
+            "id": "17/159182-173204",
+            "startTimeInSeconds": 159,
+            "endTimeInSeconds": 173,
+            "text": " By a questionnaire. There were two pages in the original questionnaire and it included lots of x-linked questions. But the whole section about difficulties using IT is now out of date. Even the questionnaire had just been finished a few years ago.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "18/173204-175514",
+            "startTimeInSeconds": 173,
+            "endTimeInSeconds": 175,
+            "text": " So have you done a shorter version?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "19/175514-195163",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 195,
+            "text": " Sure, and then we emailed it to 40 students and received 28 replies. I was disappointed by the fact, but... this was a relatively good result, I mean the responses from we got were well-written, you know, people did take a lot of care on them, but I was still taken aback with the low numbers.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "a965d495-29e0-11ee-a10c-61112ff59a9c",
+       "type": "SINGLE_ANSWER",
+       "question": "Lila was surprised by the fact that",
+       "options": [
+        {
+         "key": 0,
+         "value": "the questionnaire returns to be low"
+        },
+        {
+         "key": 1,
+         "value": "so many students sent back their questionnaires"
+        },
+        {
+         "key": 2,
+         "value": "the questionnaire response were of such high quality"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" Mình cần nghe xem \"},{\"text\":\"Lila bất ngờ vì điều gì \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"..we \",\"marks\":[]},{\"text\":\"emailed it to 40 students\",\"marks\":[],\"bold\":true},{\"text\":\" and\",\"marks\":[]},{\"text\":\" received 28 replies\",\"marks\":[],\"bold\":true},{\"text\":\". I was \",\"marks\":[]},{\"text\":\"disappointed \",\"marks\":[],\"bold\":true},{\"text\":\"by the fact\\\" \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy\",\"marks\":[]},{\"text\":\" thất vọng vì nhận lại được ít replies \\n=> Loại đáp án B \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau cùng cô ấy nói \\\"but I was still\",\"marks\":[]},{\"text\":\" taken aback with the low numbers\\\"\",\"marks\":[],\"bold\":true},{\"text\":\" (taken aback = surprised) \",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy \",\"marks\":[]},{\"text\":\"ngạc nhiên vì con số replies thấp\",\"marks\":[],\"bold\":true},{\"text\":\" như vậy\\n=> \",\"marks\":[]},{\"text\":\"Đáp án là A  \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"Lila có nói \\\"I mean the responses we got from them were\",\"marks\":[]},{\"text\":\" well-written\",\"marks\":[],\"bold\":true},{\"text\":\"\\\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có nói về \",\"marks\":[]},{\"text\":\"chất lượng response tốt\",\"marks\":[],\"bold\":true},{\"text\":\", nhưng \",\"marks\":[]},{\"text\":\"không làm cô ấy ngạc nhiên\\n=> Loại đáp án A \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 175,
+          "endTimeInSeconds": 195,
+          "transcripts": [
+           {
+            "id": "19/175514-195163",
+            "startTimeInSeconds": 175,
+            "endTimeInSeconds": 195,
+            "text": " Sure, and then we emailed it to 40 students and received 28 replies. I was disappointed by the fact, but... this was a relatively good result, I mean the responses from we got were well-written, you know, people did take a lot of care on them, but I was still taken aback with the low numbers.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    },
+    {
+     "id": "a965d496-29e0-11ee-a10c-61112ff59a9c",
+     "questions": [
+      {
+       "uuid": "a965d497-29e0-11ee-a10c-61112ff59a9c",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO things did respondents say they liked most about doing the crossword?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It helped them spell complex technical terms"
+        },
+        {
+         "key": 1,
+         "value": "It was an enjoyable experience"
+        },
+        {
+         "key": 2,
+         "value": "It helped them concentrate effectively"
+        },
+        {
+         "key": 3,
+         "value": "It increased their general motivation to study"
+        },
+        {
+         "key": 4,
+         "value": "It showed what they still needed to study"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley4\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"\"},{\"text\":\"their feedback was extremely positive\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đang chuẩn bị nói về \"},{\"text\":\"phản hồi \",\"bold\":true},{\"text\":\"của người tham gia research \\n=> Biết đáp án sắp tới\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"crossword on a computer \"},{\"text\":\"helped them really not to get distracted and stay focus on the work\",\"bold\":true},{\"text\":\" in hand\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Crossword\"},{\"text\":\" giúp cho sinh viên tập trung dễ hơ\",\"bold\":true},{\"text\":\"n và \"},{\"text\":\"không bị phân tâm \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley35\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"having fun hardly featured\",\"bold\":true},{\"text\":\" in their responses \\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Gần như \"},{\"text\":\"không ai nhắc tới việc have fun \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 290,
+          "transcripts": [
+           {
+            "id": "22/245960-247531",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 247,
+            "text": " So what was your result? ",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "23/247531-262605",
+            "startTimeInSeconds": 247,
+            "endTimeInSeconds": 262,
+            "text": " Well, basically their feedback was extremely positive. The students said that crosswords on a computer really helped them not to get distracted and stay focus on the work in hand, which is better than other ways of doing the revision that are often disturbed by other things.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "24/262605-275816",
+            "startTimeInSeconds": 262,
+            "endTimeInSeconds": 275,
+            "text": " Yeah, that was really clear. But I was struck by the fact that they hardly featured having fun in their responses. Nor did anything to do with spelling of hard words, which I thought would apparently be a benefit. ",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "25/275816-277751",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 277,
+            "text": " No? Okay. ",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "26/277751-290392",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 290,
+            "text": " Their responses also said that the crosswords hadn't really prompted their general motivation to study, but it had highlighted the gaps in their memory so they can figure out what kind of work was necessary to do further.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"nor did anything to do\",\"bold\":true},{\"text\":\" with \"},{\"text\":\"spelling of hard words\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cũng \"},{\"text\":\"không thấy ai nhắc\",\"bold\":true},{\"text\":\" tới việc crossword giúp họ nhớ chính tả các từ khó \\n=> \"},{\"text\":\"Loại đáp án A  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"the crosswords hadn't really prompted their general motivation to study, \",\"bold\":true},{\"text\":\"but that it had \"},{\"text\":\"highlighted the gaps in their memory\",\"bold\":true},{\"text\":\" so they\"},{\"text\":\" can figure out what kind of work was necessary to do further\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Crossword\"},{\"text\":\" không làm tăng động lực\",\"bold\":true},{\"text\":\" học nhưng có \"},{\"text\":\"giúp sinh viên nhận ra các lỗ hổng\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"biết nên ôn tập phần nào \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án D  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=>\"},{\"text\":\" Chọn đáp án E  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 245,
+          "endTimeInSeconds": 290,
+          "transcripts": [
+           {
+            "id": "22/245960-247531",
+            "startTimeInSeconds": 245,
+            "endTimeInSeconds": 247,
+            "text": " So what was your result? ",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "23/247531-262605",
+            "startTimeInSeconds": 247,
+            "endTimeInSeconds": 262,
+            "text": " Well, basically their feedback was extremely positive. The students said that crosswords on a computer really helped them not to get distracted and stay focus on the work in hand, which is better than other ways of doing the revision that are often disturbed by other things.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "24/262605-275816",
+            "startTimeInSeconds": 262,
+            "endTimeInSeconds": 275,
+            "text": " Yeah, that was really clear. But I was struck by the fact that they hardly featured having fun in their responses. Nor did anything to do with spelling of hard words, which I thought would apparently be a benefit. ",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "25/275816-277751",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 277,
+            "text": " No? Okay. ",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "26/277751-290392",
+            "startTimeInSeconds": 277,
+            "endTimeInSeconds": 290,
+            "text": " Their responses also said that the crosswords hadn't really prompted their general motivation to study, but it had highlighted the gaps in their memory so they can figure out what kind of work was necessary to do further.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "a965d498-29e0-11ee-a10c-61112ff59a9c",
+       "type": "MULTIPLE_ANSWER",
+       "question": "In which TWO areas did research findings differ from those of the original study?",
+       "options": [
+        {
+         "key": 0,
+         "value": "student’s interest in doing similar exercises"
+        },
+        {
+         "key": 1,
+         "value": "how much students liked doing the crossword"
+        },
+        {
+         "key": 2,
+         "value": "time taken to do the crossword"
+        },
+        {
+         "key": 3,
+         "value": "gender differences in appreciation"
+        },
+        {
+         "key": 4,
+         "value": "opinion about using crosswords for formal assessment"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"how did \"},{\"text\":\"your findings\",\"bold\":true},{\"text\":\" cope with\"},{\"text\":\" those done by the original researchers\",\"bold\":true},{\"text\":\"?\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Hỏi về sự \"},{\"text\":\"so sánh giữa study của sinh viên với study gốc \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"We still found\"},{\"text\":\" two primary differences\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"      Cô ấy nói tiếp \\\"compared with females,\"},{\"text\":\" more males liked the technique\",\"bold\":true},{\"text\":\", yet the \"},{\"text\":\"original findings were the reverse case\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Study mới\",\"bold\":true},{\"text\":\" cho thấy \"},{\"text\":\"nam thích crossword hơn là nữ\",\"bold\":true},{\"text\":\", trong khi \"},{\"text\":\"study gốc\",\"bold\":true},{\"text\":\" \"},{\"text\":\"cho thấy điều ngược lại \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Có sự khác nhau\",\"bold\":true},{\"text\":\" về sở thích\"},{\"text\":\" giữa hai giới \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là D\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 290,
+          "endTimeInSeconds": 328,
+          "transcripts": [
+           {
+            "id": "27/290392-295205",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 295,
+            "text": " Right, so how did your findings cope with those done by the original researchers?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "28/295205-297574",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 297,
+            "text": " There were a couple of similarities but... ",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "29/297574-307152",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 307,
+            "text": " We still found two primary differences. Compared with females, more males liked the technique, yet the original findings were the reverse case.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "30/307152-319802",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 319,
+            "text": " Also, our respondents said they wouldn't mind doing a crossword in the final official exam, even in the original study, it showed that even if crossword makes exams shorter, they would not like it to be included.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "31/319802-328871",
+            "startTimeInSeconds": 319,
+            "endTimeInSeconds": 328,
+            "text": " But for informal purposes, of course, both sets of respondents said doing more crosswords would be a great interest to them, like revision or so.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"Also\\\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết là chuẩn bị sang khác biệt thứ 2 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là\"},{\"text\":\" \",\"bold\":true},{\"text\":\"\\\"our respondents said they \"},{\"text\":\"wouldn’t mind doing a crossword in the final official exam, \",\"bold\":true},{\"text\":\"even in the \"},{\"text\":\"original study\",\"bold\":true},{\"text\":\", it showed that \"},{\"text\":\"even if crossword makes exams shorter\",\"bold\":true},{\"text\":\", they \"},{\"text\":\"would not like it to be included\",\"bold\":true},{\"text\":\"\\\"\"},{\"text\":\" \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Study mới \",\"bold\":true},{\"text\":\"cho thấy là r\"},{\"text\":\"espondents không ngại làm crossword thay cho bài thi\",\"bold\":true},{\"text\":\", trong khi \"},{\"text\":\"study gốc\",\"bold\":true},{\"text\":\" thì nói là \"},{\"text\":\"sinh viên không muốn thêm crossword vào bài thi\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"both sets of respondents\",\"bold\":true},{\"text\":\" said doing more \"},{\"text\":\"crosswords for informal purposes would be a great interest\",\"bold\":true},{\"text\":\" to them, like revision and so on\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cả hai nhóm \",\"bold\":true},{\"text\":\"đều thích làm crossword \"},{\"text\":\"cho các mục đích thông thường\",\"bold\":true},{\"text\":\" như để ôn tập \\n=>\"},{\"text\":\" Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 290,
+          "endTimeInSeconds": 328,
+          "transcripts": [
+           {
+            "id": "27/290392-295205",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 295,
+            "text": " Right, so how did your findings cope with those done by the original researchers?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "28/295205-297574",
+            "startTimeInSeconds": 295,
+            "endTimeInSeconds": 297,
+            "text": " There were a couple of similarities but... ",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "29/297574-307152",
+            "startTimeInSeconds": 297,
+            "endTimeInSeconds": 307,
+            "text": " We still found two primary differences. Compared with females, more males liked the technique, yet the original findings were the reverse case.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "30/307152-319802",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 319,
+            "text": " Also, our respondents said they wouldn't mind doing a crossword in the final official exam, even in the original study, it showed that even if crossword makes exams shorter, they would not like it to be included.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "31/319802-328871",
+            "startTimeInSeconds": 319,
+            "endTimeInSeconds": 328,
+            "text": " But for informal purposes, of course, both sets of respondents said doing more crosswords would be a great interest to them, like revision or so.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "a965d499-29e0-11ee-a10c-61112ff59a9c",
+       "type": "MULTIPLE_ANSWER",
+       "question": "What TWO skills did Lila and Jake agree they had learnt from doing the project?",
+       "options": [
+        {
+         "key": 0,
+         "value": "how to manage their time effectively"
+        },
+        {
+         "key": 1,
+         "value": "how to process numerical data"
+        },
+        {
+         "key": 2,
+         "value": "how to design research tools"
+        },
+        {
+         "key": 3,
+         "value": "how to reference other people’s work"
+        },
+        {
+         "key": 4,
+         "value": "how to collaborate in research"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \"},{\"text\":\"họ đã học được gì qua project\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"think about the whole project and \"},{\"text\":\"what you've learned from it\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy nhắc tới \\\"it \"},{\"text\":\"took a long time\",\"bold\":true},{\"text\":\"\\\" và \\\"I \"},{\"text\":\"don't think we handled that aspect very wel\",\"bold\":true},{\"text\":\"l\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không quản lý thời gian tốt, \"},{\"text\":\"chưa học được cách quản lý thời gian \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley2\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"we’d\"},{\"text\":\" already done a course on numerical data processing\",\"bold\":true},{\"text\":\", there \"},{\"text\":\"wasn’t much new for us\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mới học lớp về xử lý dữ liệu nên \"},{\"text\":\"không học được gì mới về vấn đề này \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"it really helped having the original study to guide us, as it were, and\"},{\"text\":\" that helped us see what a good instrument research is\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có bản nghiên cứu gốc để hướng dẫn và \"},{\"text\":\"giúp thấy được công cụ nghiên cứu nên như thế nào\",\"bold\":true},{\"text\":\" => Học được \"},{\"text\":\"cách tự thiết kế công cụ nghiên cứu \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 328,
+          "endTimeInSeconds": 368,
+          "transcripts": [
+           {
+            "id": "32/328871-333272",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 333,
+            "text": " Right, so let's think about the whole project, and what you've learned from it?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "33/333272-335571",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 335,
+            "text": " Well. It really took a long time.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "34/335571-339163",
+            "startTimeInSeconds": 335,
+            "endTimeInSeconds": 339,
+            "text": " Yeah, and I don't think we handled that aspect well.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "35/339163-351966",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 351,
+            "text": " It could have gone worse. I mean there was not much data collected, so we didn't have to spend ages dealing with it, and since we'd already done a course on numerical data processing, so there wasn't much new for us.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "36/351966-359822",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 359,
+            "text": " Yeah, definitely. Anyway, I think our questions designed was good so that the data we collected was manageable.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "37/359822-368566",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 368,
+            "text": " Yeah. It really helped having the original study to guide us, as it were. And that helped us to see what a good instrument research is.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley48\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy nhắc tới \"},{\"text\":\"referencing \",\"bold\":true},{\"text\":\"và \\\"that's what we \"},{\"text\":\"both need to learn in the future\\\"\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Cần học thêm\",\"bold\":true},{\"text\":\" về referencing \"},{\"text\":\"trong tương lai \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Chưa học được qua nghiên cứu này \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy nhắc tới \\\"\"},{\"text\":\"finding ways to share and support another person\",\"bold\":true},{\"text\":\" và that's the \"},{\"text\":\"real plus from the project\",\"bold\":true},{\"text\":\", learning ways to do that\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Học được \"},{\"text\":\"cách làm việc chung và hỗ trợ nhau \",\"bold\":true},{\"text\":\"\\n=> Học \"},{\"text\":\"cách hợp tác với người khác \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"  \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 328,
+          "endTimeInSeconds": 389,
+          "transcripts": [
+           {
+            "id": "32/328871-333272",
+            "startTimeInSeconds": 328,
+            "endTimeInSeconds": 333,
+            "text": " Right, so let's think about the whole project, and what you've learned from it?",
+            "character": {
+             "id": "0Sj-Fykzpkbp4sZOkvMRn",
+             "name": "Tutor"
+            }
+           },
+           {
+            "id": "33/333272-335571",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 335,
+            "text": " Well. It really took a long time.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "34/335571-339163",
+            "startTimeInSeconds": 335,
+            "endTimeInSeconds": 339,
+            "text": " Yeah, and I don't think we handled that aspect well.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "35/339163-351966",
+            "startTimeInSeconds": 339,
+            "endTimeInSeconds": 351,
+            "text": " It could have gone worse. I mean there was not much data collected, so we didn't have to spend ages dealing with it, and since we'd already done a course on numerical data processing, so there wasn't much new for us.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "36/351966-359822",
+            "startTimeInSeconds": 351,
+            "endTimeInSeconds": 359,
+            "text": " Yeah, definitely. Anyway, I think our questions designed was good so that the data we collected was manageable.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "37/359822-368566",
+            "startTimeInSeconds": 359,
+            "endTimeInSeconds": 368,
+            "text": " Yeah. It really helped having the original study to guide us, as it were. And that helped us to see what a good instrument research is.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "38/368566-370362",
+            "startTimeInSeconds": 368,
+            "endTimeInSeconds": 370,
+            "text": " What questionnaire should be like. ",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "39/370362-381153",
+            "startTimeInSeconds": 370,
+            "endTimeInSeconds": 381,
+            "text": " Absolutely, we got a lot from that. But when we were writing up the project, I'm not sure whether we'll know how to acknowledge the work of the original study, you know, our referencing.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           },
+           {
+            "id": "40/381153-384714",
+            "startTimeInSeconds": 381,
+            "endTimeInSeconds": 384,
+            "text": " No, that's what we both need to learn in the future.",
+            "character": {
+             "id": "VETDFXGmh-3rOoCNfR37v",
+             "name": "Jake"
+            }
+           },
+           {
+            "id": "41/384714-389417",
+            "startTimeInSeconds": 384,
+            "endTimeInSeconds": 389,
+            "text": " Actually, that part's been great, find ways to share and support another person.",
+            "character": {
+             "id": "RSKCWD_KiWK1CWrW2NVav",
+             "name": "Lila"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " letters, "
+         },
+         {
+          "text": "A-E.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO ",
+          "bold": true
+         },
+         {
+          "text": "letters, "
+         },
+         {
+          "text": "A-E",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Time Perspectives",
+   "duration": 8,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "3b77021f-2752-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "vZpAHNsOBx0lD0Urr5LU_",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"Loại từ cần điền là \"},{\"text\":\"adjective \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi nghe tới \\\"the first two types of \"},{\"text\":\"time zones\",\"bold\":true},{\"text\":\" are based in the \"},{\"text\":\"past\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chuẩn bị nói về \"},{\"text\":\"2 loại outlook\",\"bold\":true},{\"text\":\" có liên quan tới\"},{\"text\":\" quá khứ \",\"bold\":true},{\"text\":\"\\n=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, người nói giới thiệu về\"},{\"text\":\" Past positive thinkers \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ứng với positive trên đề bài\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley40\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"the kinds of \"},{\"text\":\"people living in a past negative time zone\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"Nghe tiếp thì thấy họ nói \"},{\"text\":\"đúng đặc điểm trên đề\",\"bold\":true},{\"text\":\" \\\"but they \"},{\"text\":\"concentrate on\",\"bold\":true},{\"text\":\" all the negative sides of a life picture such as \"},{\"text\":\"regrets\",\"bold\":true},{\"text\":\", \"},{\"text\":\"failures \",\"bold\":true},{\"text\":\"or \"},{\"text\":\"poor decisions\",\"bold\":true},{\"text\":\".\"},{\"text\":\"\\\" \",\"bold\":true},{\"text\":\"(concentrate on = focus on, regrets = disappointment) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có người \",\"marks\":[]},{\"text\":\"có lối suy nghĩ positive\",\"marks\":[],\"bold\":true},{\"text\":\", còn có người \",\"marks\":[]},{\"text\":\"có suy nghĩ negative \\n=> Đáp án: negative \",\"marks\":[],\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 64,
+          "endTimeInSeconds": 107,
+          "transcripts": [
+           {
+            "id": "1/64322-84993",
+            "startTimeInSeconds": 64,
+            "endTimeInSeconds": 84,
+            "text": "The first two types of time zones are based in the past. Past positive thinkers usually spend a major part of their time looking back to the past, which means they are in a state of nostalgia, where they fancy remembering moments of happiness such as birthdays, marriages and important success time in their lives."
+           },
+           {
+            "id": "2/84993-107535",
+            "startTimeInSeconds": 84,
+            "endTimeInSeconds": 107,
+            "text": "They are those who have the habit of keeping family records, books and photo albums. The kinds of people living in a past negative time zone are also absorbed by earlier times, but they concentrate on all the negative sides of a life picture such as regrets, failures or poor decisions. They spend plenty of time imagining what life could have been."
+           }
+          ]
+         },
+         "value": "negative",
+         "blankId": "a0im6urZfbay6X0Jzg73I"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp đến mình nghe về\"},{\"text\":\" hiện tại \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> BIết đáp án sắp tới khi nghe \\\"Then, it is those who\"},{\"text\":\" live in the present \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley37\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"present \"},{\"text\":\"hedonists live their life in pleasure\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"immediate sensation\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Những \"},{\"text\":\"hedonists \",\"bold\":true},{\"text\":\"(người có lối sống hưởng lạc) sống trong \"},{\"text\":\"pleasure \",\"bold\":true},{\"text\":\"và \"},{\"text\":\"immediate sensation \",\"bold\":true},{\"text\":\"\\n=> Trên đề có sẵn sensation rồi, nên mình biết đáp án là pleasure\\n=> \"},{\"text\":\"Đáp án: pleasure\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 107,
+          "endTimeInSeconds": 121,
+          "transcripts": [
+           {
+            "id": "3/107535-121493",
+            "startTimeInSeconds": 107,
+            "endTimeInSeconds": 121,
+            "text": "Then, it is those who live in the present. Present hedonists live their life in pleasure and immediate sensation. Their life motto should be having a good time and avoiding painful experiences."
+           }
+          ]
+         },
+         "value": "pleasure",
+         "blankId": "zgJ1tFbDU44QEM9PPGrDh"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem\"},{\"text\":\" cuộc sống bị chi phối bởi cái gì  \",\"bold\":true},{\"text\":\"(life is governed by ___; religious belief; social conditions)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \",\"bold\":true},{\"text\":\"Biết đáp án sắp tới khi nghe \\\"present \"},{\"text\":\"fatalistics \",\"bold\":true},{\"text\":\"live in the present as well\\\" (chuẩn bị nói về feature của outlook này) \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"whether it's \"},{\"text\":\"poverty\",\"bold\":true},{\"text\":\", \"},{\"text\":\"religion or society\",\"bold\":true},{\"text\":\" itself, something \"},{\"text\":\"prohibits fatalists from thinking \",\"bold\":true},{\"text\":\"that \"},{\"text\":\"they do perform a role in changing their life outcomes\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Poverty, \",\"bold\":true},{\"text\":\" \"},{\"text\":\"Religion\",\"bold\":true},{\"text\":\", hay \"},{\"text\":\"Society\",\"bold\":true},{\"text\":\" là thứ làm fatalists tin rằng họ không thể tự kiểm soát cuộc sống của mình \\n=> Như trên đề thì đã có \"},{\"text\":\"religious beliefs\",\"bold\":true},{\"text\":\" và \"},{\"text\":\"social conditions\",\"bold\":true},{\"text\":\", chỉ còn thiếu \"},{\"text\":\"poverty \",\"bold\":true},{\"text\":\"\\n=>\"},{\"text\":\" Đáp án: poverty \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 121,
+          "endTimeInSeconds": 144,
+          "transcripts": [
+           {
+            "id": "4/121493-144401",
+            "startTimeInSeconds": 121,
+            "endTimeInSeconds": 144,
+            "text": "Present fatalists live in the present as well; however, they think this moment is the product of circumstances entirely beyond their control, but it is more a fate. Whether it's poverty, religion or society itself, something prohibits fatalists from thinking that they do perform a role in changing their life outcomes. Life is simply what it is."
+           }
+          ]
+         },
+         "value": "poverty",
+         "blankId": "eLZd85drXYcSs6gZtLKLk"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley10\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Loại từ cần điền là \"},{\"text\":\"adjective, \",\"bold\":true},{\"text\":\"về \"},{\"text\":\"outlook\",\"bold\":true},{\"text\":\" \"},{\"text\":\"của con người trong tương lai\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án sẽ tới sau  \\\"How about the \"},{\"text\":\"future time zone\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"people who are sorted into\"},{\"text\":\" future active group\",\"bold\":true},{\"text\":\" are those who make plans and go for their plans\"},{\"text\":\". \",\"bold\":true},{\"text\":\"They\"},{\"text\":\" don't play but work\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"resist temptation\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có những người được liệt vào\"},{\"text\":\" active group,\",\"bold\":true},{\"text\":\" họ \"},{\"text\":\"thích làm việc hơn là chơ\",\"bold\":true},{\"text\":\"i và\"},{\"text\":\" tránh các cám dỗ \",\"bold\":true},{\"text\":\"\\n=> Giống với miêu tả ở câu hỏi, mình lấy tính từ ra\\n=> \"},{\"text\":\"Đáp án: active  \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 144,
+          "endTimeInSeconds": 163,
+          "transcripts": [
+           {
+            "id": "5/144401-163046",
+            "startTimeInSeconds": 144,
+            "endTimeInSeconds": 163,
+            "text": "How about the future time zone? People who are sorted into future active group are those who do plans and go for their plans. They don't play but work, and resist temptation. They make decisions in terms of potential consequences, rather than experience itself."
+           }
+          ]
+         },
+         "value": "active",
+         "blankId": "Luv4eB1zMGn3amxJ42f3L"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley27\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về \"},{\"text\":\"features & consequences của fatalists trong tương lai \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\"The other type of future-oriented perspective is \"},{\"text\":\"future fatalistic\\\"\",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley30\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"this group of people holds a belief that \"},{\"text\":\"there will be a certainty of life after death\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tương ứng với ý thứ nhất \\n=> Tiếp tục nghe\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley16\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe thấy \\\"and certain kind of judgement day when they will \"},{\"text\":\"be assessed on how virtuously they have led a life\",\"bold\":true},{\"text\":\" and \"},{\"text\":\"what achievements they have made\",\"bold\":true},{\"text\":\" in their lives\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có một ngày phán xét, khi mà họ sẽ được đánh giá trên sự đức hạnh của họ \"},{\"text\":\"cũng như các thành tựu họ đã đạt được\",\"bold\":true},{\"text\":\" \\n=> Những người future fatalists\"},{\"text\":\" tin vào tầm quan trọng của thành tựu\",\"bold\":true},{\"text\":\" hay \"},{\"text\":\"những thứ họ đã đạt được trong cuộc sống \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án: achievements \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 163,
+          "endTimeInSeconds": 182,
+          "transcripts": [
+           {
+            "id": "6/163046-182173",
+            "startTimeInSeconds": 163,
+            "endTimeInSeconds": 182,
+            "text": "The other type of future-oriented perspective is future fatalistic. This group of people holds a belief that there will be a certainty of life after death and certain kind of judgement day when they will be assessed on how virtuously they have had a life and what achievements they have had in their lives."
+           }
+          ]
+         },
+         "value": "achievements",
+         "blankId": "cGVfxFugcV0cQuNddJatw"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "a0im6urZfbay6X0Jzg73I",
+         "key": 0
+        },
+        {
+         "id": "zgJ1tFbDU44QEM9PPGrDh",
+         "key": 1
+        },
+        {
+         "id": "eLZd85drXYcSs6gZtLKLk",
+         "key": 2
+        },
+        {
+         "id": "Luv4eB1zMGn3amxJ42f3L",
+         "key": 3
+        },
+        {
+         "id": "cGVfxFugcV0cQuNddJatw",
+         "key": 4
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"FxRfiwUBfK18QogWMMqXe\",\"cellsWidth\":[98,122,300],\"children\":[{\"type\":\"tr\",\"id\":\"3zbXw8GKv-y3bCw4Fgsf8\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Time zone\",\"bold\":true}]}]}],\"id\":\"wL55aT3ott55ufpY4Mase\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Outlook\",\"bold\":true}]}]}],\"id\":\"MrZQitdLtsn4fRWqMoCWi\"},{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Features & Consequences\",\"bold\":true}]}]}],\"id\":\"TvgNytWXqrcFo0jhiZlPn\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"Li903BlPx49iE2i0TSxoR\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Past\"}]}]}],\"id\":\"emekd0qenPHltgXGVE1kS\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Positive\\n\\n\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"a0im6urZfbay6X0Jzg73I\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"8-q5VtaVp9nM1Ndul0xaz\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Remember good times, e.g birthday; keep family records, photos, albums, etc.\\n\\nFocus on disappointments, failures, bad decisions.\"}]}]}],\"id\":\"uaS9RQjGJAtiZK9BqVhT0\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"yZZwSuv5UUSswBH0P15bx\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Present\"}]}]}],\"id\":\"e0zm4xQT9tbmdNaTKX8Ya\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Hedonistic\\n\\n\\nFatalistic\"}]}]}],\"id\":\"xs__4IzgWaJKxB2iPdzH9\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Live for \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"zgJ1tFbDU44QEM9PPGrDh\",\"text\":\"\"}]},{\"text\":\"; seek sensation; avoid pain.\\n\\nLife is governed by \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"eLZd85drXYcSs6gZtLKLk\",\"text\":\"\"}]},{\"text\":\", religious beliefs, social conditions. Life’s path can’t be changed.\"}]}]}],\"id\":\"V-AwijMyk_NGM_MDWMmlO\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"hxENkHqa3EKQf3AU3aA05\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Future\"}]}]}],\"id\":\"1wQvRz_N2WDD4w9zKWnSz\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Luv4eB1zMGn3amxJ42f3L\",\"text\":\"\"}]},{\"text\":\"\\n\\nFatalistic\"}]}]}],\"id\":\"Aa52oTUy59IQpQfIC-QEX\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Prefer work to play. Don’t give it to temptation.\\n\\nHave a strong belief in life after death and the importance of \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"cGVfxFugcV0cQuNddJatw\",\"text\":\"\"}]},{\"text\":\" in life.\"}]}]}],\"id\":\"n2k80O61_QTx6PYR7DTOd\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"width\":520,\"border\":true,\"hasColumnHeading\":true,\"hasRowHeading\":true}]",
+       "question": "Time perspectives"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": " for each answer."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    },
+    {
+     "id": "3b770220-2752-11ed-b1c7-ef3d7252721e",
+     "questions": [
+      {
+       "uuid": "3b770221-2752-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "We are all present hedonists",
+       "options": [
+        {
+         "key": 0,
+         "value": "at school"
+        },
+        {
+         "key": 1,
+         "value": "at birth"
+        },
+        {
+         "key": 2,
+         "value": "while eating and drinking"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley26\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tới \\\"..\",\"marks\":[]},{\"text\":\"in what ways\",\"marks\":[],\"bold\":true},{\"text\":\" are our lives influenced by these time zones\\\" (chuẩn bị nói vào chi tiết)\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới\",\"marks\":[]}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"\"},{\"text\":\"when we were born\",\"bold\":true},{\"text\":\", no exceptions, \"},{\"text\":\"everyone was a present hedonist\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Lúc mới sinh\",\"bold\":true},{\"text\":\" ra thì\"},{\"text\":\" ai cũng là present hedonist \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"formal education \"},{\"text\":\"changes the way we think\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Việc giáo dục \"},{\"text\":\"làm thay đổi cách suy nghĩ của chúng ta\",\"bold\":true},{\"text\":\", tức là \"},{\"text\":\"khi được đi học\",\"bold\":true},{\"text\":\" thì \"},{\"text\":\"không còn tư tưởng của present hedonist\",\"bold\":true},{\"text\":\" nữa \\n=> Loại đáp án A \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 182,
+          "endTimeInSeconds": 223,
+          "transcripts": [
+           {
+            "id": "7/182173-203384",
+            "startTimeInSeconds": 182,
+            "endTimeInSeconds": 203,
+            "text": "Okay, so much for all the types. You now may ask ‘in what ways are our lives influenced by these time zones?' Well, let's start at the beginning. When we were born, no exceptions, everyone was a present hedonist. All the initial needs and demands like being warm, secure, fed and watered were all from that time."
+           },
+           {
+            "id": "8/203384-223711",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 223,
+            "text": "But formal education will change the way we think. Each one of us is taught to prevent focusing only on the moment and start to make estimates about the future. But you might be surprised, every nine seconds a child drops out of school in the US. More interestingly, there're much more boys dropping out than girls doing so."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3b770222-2752-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "American boys drop out of school at a higher rate than girls because",
+       "options": [
+        {
+         "key": 0,
+         "value": "they need to be in control of the way they learn"
+        },
+        {
+         "key": 1,
+         "value": "they play video games instead of doing school work"
+        },
+        {
+         "key": 2,
+         "value": "they are not as intelligent as girls"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem tại sao \",\"marks\":[]},{\"text\":\"American boys bỏ học nhiều hơn girls \",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe  \\\"More interestingly, there's much \"},{\"text\":\"more boys dropping out than girls\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được là \\\"We may easily draw a conclusion: '\"},{\"text\":\"boys aren't as intelligent as girls'. But the evidence doesn't support this.\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Không có bằng chứng\",\"bold\":true},{\"text\":\" cho thấy \"},{\"text\":\"boys không thông minh bằng girls\\n=> Loại đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"they'll \"},{\"text\":\"never fit in the traditional classroom\",\"bold\":true},{\"text\":\", because \"},{\"text\":\"there is a stronger need for those boys\",\"bold\":true},{\"text\":\" to have a certain circumstance in which \"},{\"text\":\"they are capable of managing their own learning environment\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Con trai cảm thấy \"},{\"text\":\"không hợp với lớp học truyền thống\",\"bold\":true},{\"text\":\" do \"},{\"text\":\"họ cần cảm thấy\",\"bold\":true},{\"text\":\" là họ có khả năng\"},{\"text\":\" tự chủ đối với môi trường học tập của bản thân \",\"bold\":true},{\"text\":\"\\n=> Con trai \"},{\"text\":\"muốn tự kiểm soát việc học của mình\",\"bold\":true},{\"text\":\", và điều này không thực hiện được tại trường lớp truyền thống, \"},{\"text\":\"dẫn đến việc bỏ học\",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 203,
+          "endTimeInSeconds": 250,
+          "transcripts": [
+           {
+            "id": "8/203384-223711",
+            "startTimeInSeconds": 203,
+            "endTimeInSeconds": 223,
+            "text": "But formal education will change the way we think. Each one of us is taught to prevent focusing only on the moment and start to make estimates about the future. But you might be surprised, every nine seconds a child drops out of school in the US. More interestingly, there're much more boys dropping out than girls doing so."
+           },
+           {
+            "id": "9/223711-250808",
+            "startTimeInSeconds": 223,
+            "endTimeInSeconds": 250,
+            "text": "We may easily draw a conclusion: 'boys aren't as intelligent as girls.' But the evidence doesn't support this. A recent survey indicates that when American boys reach the age of 21, they have spent roughly 10,000 hours on video games and also suggests that they'll never fit in the traditional classroom, because there is a stronger need for those boys to have a certain circumstance in which they are capable of managing their own learning environment."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3b772933-2752-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Present-orientated children",
+       "options": [
+        {
+         "key": 0,
+         "value": "do not realise present actions can have negative future effects"
+        },
+        {
+         "key": 1,
+         "value": "are unable to learn lessons from past mistakes"
+        },
+        {
+         "key": 2,
+         "value": "know what could happen if they do something bad, but do it anyway"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe về\",\"marks\":[]},{\"text\":\" present-oriented children\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe '...are usually targeted as \"},{\"text\":\"present-oriented kids.\\\" \",\"bold\":true},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley43\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"though \"},{\"text\":\"they do know the potentially detrimental consequences of their actions\",\"bold\":true},{\"text\":\", they \"},{\"text\":\"insist on how they behave\",\"bold\":true},{\"text\":\" because\"},{\"text\":\" they're not living for the future\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ \"},{\"text\":\"dư sức biết hành động hiện tại có thể dẫn tới hậu quả xấu ở tương la\",\"bold\":true},{\"text\":\"i, \"},{\"text\":\"nhưng vẫn làm \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n=> \"},{\"text\":\"Chọn đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 250,
+          "endTimeInSeconds": 289,
+          "transcripts": [
+           {
+            "id": "10/250808-269836",
+            "startTimeInSeconds": 250,
+            "endTimeInSeconds": 269,
+            "text": "Now, let's move on to how we do prevention education. All kinds of prevention education are usually targeted at the future time zone. We say 'don't smoke or you'll get cancer', 'get good grades or you won't get a good job.' But as for present-oriented kids, it doesn't make sense. "
+           },
+           {
+            "id": "11/269836-289062",
+            "startTimeInSeconds": 269,
+            "endTimeInSeconds": 289,
+            "text": "Though they do know the potentially detrimental consequences of their actions, they insist on how they behave because they're not living for the future. They are in the present right now. Logics won't be helping and it's no use reminding them of potential fallout from their decisions or previous judgement errors."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3b772934-2752-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "If American had an extra day per-week, they would spend it",
+       "options": [
+        {
+         "key": 0,
+         "value": "working harder"
+        },
+        {
+         "key": 1,
+         "value": "building relationships"
+        },
+        {
+         "key": 2,
+         "value": "sharing family meals"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley14\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"nếu có thêm 1 ngày trong tuần, Americans sẽ dùng nó như thế nào\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Biết đáp án sắp tới khi nghe \\\".. what if there are \"},{\"text\":\"8 days in a week\",\"bold\":true},{\"text\":\"\\\" \\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley31\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"they would \"},{\"text\":\"spend that time working to achieve more\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Sẽ dành ngày đó để tiếp tục làm việc\",\"bold\":true},{\"text\":\" \"},{\"text\":\"để đạt được nhiều thành tích hơn\",\"bold\":true},{\"text\":\", chứ không dùng để nghỉ ngơi \\n=> \"},{\"text\":\"Chọn đáp án A\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 307,
+          "endTimeInSeconds": 337,
+          "transcripts": [
+           {
+            "id": "13/307496-323467",
+            "startTimeInSeconds": 307,
+            "endTimeInSeconds": 323,
+            "text": "They admit to sacrificing their relationships, personal time and good sleep during nights for their careers. But 20 years ago, 60% of Americans had sit-down dinners with their families, yet now the number dropped to 20%. "
+           },
+           {
+            "id": "14/323467-337641",
+            "startTimeInSeconds": 323,
+            "endTimeInSeconds": 337,
+            "text": "However, when they're asked what if there are 8 days in a week, they say 'Oh, that'll be fabulous'. They would spend that time working to achieve more. They're persistently trying to get to the future point of happiness."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "3b772935-2752-11ed-b1c7-ef3d7252721e",
+       "type": "SINGLE_ANSWER",
+       "question": "Understanding how people think about time can help us",
+       "options": [
+        {
+         "key": 0,
+         "value": "become more virtuous"
+        },
+        {
+         "key": 1,
+         "value": "work together better"
+        },
+        {
+         "key": 2,
+         "value": "identify careless or ambitious people"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley36\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần nghe xem \",\"marks\":[]},{\"text\":\"hiểu cách mọi người nhìn nhận thời gian giúp chúng ta cái gì\",\"marks\":[],\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"Khi nghe tới \\\"it's of\"},{\"text\":\" vital importance\",\"bold\":true},{\"text\":\" that we \"},{\"text\":\"know how other people think about time\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sẽ giải thích tại sao biết cách mọi người nhìn nhận thời gian lại quan trọng\\n=> Biết đáp án sắp tới\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley19\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe thấy \\\"what we care about is \"},{\"text\":\"not the fundamental personality differences\",\"bold\":true},{\"text\":\"\\\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thứ chúng ta quan tâm tới \"},{\"text\":\"không phải là sự khác biệt về tính cách của mỗi người\",\"bold\":true},{\"text\":\" \\n=> \"},{\"text\":\"Không quan tâm \",\"bold\":true},{\"text\":\"tới việc xác định xem \"},{\"text\":\"ai có tính cách cẩu thả hay tham vọng \",\"bold\":true},{\"text\":\"\\n=> Loại đáp án C \"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\\n\"},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Nghe tiếp thấy \\\"\"},{\"text\":\"seeing \",\"bold\":true},{\"text\":\"these conflicts as \"},{\"text\":\"differences in time perspectives\",\"bold\":true},{\"text\":\" can \"},{\"text\":\"promote more effective cooperation between people\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhận biết được sự khác biệt về quan niệm thời gian có thể \"},{\"text\":\"giúp mọi người hợp tác với nhau hiệu quả hơn \",\"bold\":true},{\"text\":\"\\n=> \"},{\"text\":\"Đáp án là B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 337,
+          "endTimeInSeconds": 370,
+          "transcripts": [
+           {
+            "id": "15/337641-358002",
+            "startTimeInSeconds": 337,
+            "endTimeInSeconds": 358,
+            "text": "So, it's of vital importance that we know how other people think about time. We tend to think: 'Oh, that person is really irresponsible,' or 'That guy is power hungry,' but often what we care about is not the fundamental personality differences, but only various approaches of thinking about time."
+           },
+           {
+            "id": "16/358002-370531",
+            "startTimeInSeconds": 358,
+            "endTimeInSeconds": 370,
+            "text": "Rather than distinctions of characteristics, seeing these conflicts as differences in time perspectives can promote more effective cooperation between people and get the most out of each person's individual strengths."
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter, "
+         },
+         {
+          "text": "A, B ",
+          "bold": true
+         },
+         {
+          "text": "or"
+         },
+         {
+          "text": " C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose appropriate options "
+         },
+         {
+          "text": "A, B, C.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 5
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:36:35Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}

@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "actual5-t1-listening",
+ "title": "Actual Test 5 - Listening Test 1",
+ "group": "IELTS Actual Test",
+ "book": "Actual Test 5",
+ "testNum": 1,
+ "order": 91,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-actual-test-5-test-1-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Hotel Booking",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/a966ee2e-dbf5-4b0e-a097-7936000d7294.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 1178287
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0e91068c-652d-4540-8a9a-9551248d959d.srt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 31
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Intro To Cycling Holidays",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1be6a61f-d1f4-4115-b183-38bbfdaf4b01.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 979456
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/769e0e6d-8c76-4eca-aed6-1bfc40023f4a.srt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 17
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Pacific Tapa Cloth",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8f479bb2-c1ed-4058-9522-180837973953.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 1184530
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/c520c4c9-1694-458a-bd23-f92ca86b9de6.srt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 29
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Monarch Butterfly",
+   "duration": 5,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/ad2f7284-f6fc-4718-a1e1-bc8ce44ff6f6.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 915029
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/9442ee91-aafc-4821-a926-22a10f22bb84.srt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 20
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T22:52:29Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

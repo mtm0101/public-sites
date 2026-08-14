@@ -1,0 +1,101 @@
+{
+ "schema": 1,
+ "id": "ptp1-t2-listening",
+ "title": "Practice Test Plus 1 - Listening Test 2",
+ "group": "IELTS Practice Test Plus",
+ "book": "Practice Test Plus 1",
+ "testNum": 2,
+ "order": 50,
+ "source": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-tu-vung-practice-test-plus-1-test-2-listening-vocab",
+ "sections": [
+  {
+   "section": 1,
+   "name": "University Language Centre",
+   "duration": 7,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/4b08f279-8d25-49cb-9b50-6b1d441bac22.mp3",
+    "localPath": "audio/section-1.m4a",
+    "availableLocal": false,
+    "size": 15911750
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/066aa22b-d7fd-4c79-8b06-173cc4921968.vtt",
+    "localVttPath": "transcripts/section-1.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-1.json",
+    "cueCount": 39
+   },
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Different Breeds Of Working Dogs",
+   "duration": 6,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/e177217d-65a8-4ca4-8583-9efd540e59c4.mp3",
+    "localPath": "audio/section-2.m4a",
+    "availableLocal": false,
+    "size": 13247260
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/8fc01461-bb62-4c8b-9b88-f6c892131f3b.vtt",
+    "localVttPath": "transcripts/section-2.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-2.json",
+    "cueCount": 9
+   },
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Braille - A System Of Writing For The Blind",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/1d66e770-1ae9-4113-a7c3-53d67275f2ff.mp3",
+    "localPath": "audio/section-3.m4a",
+    "availableLocal": false,
+    "size": 17297285
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/386f054c-b352-4795-b687-b8e6843e88b3.vtt",
+    "localVttPath": "transcripts/section-3.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-3.json",
+    "cueCount": 31
+   },
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "Experiments On Memory In Babies And Young Children",
+   "duration": 8,
+   "audio": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/0b04fe4c-e925-4835-b2d0-6b3e05788136.mp3",
+    "localPath": "audio/section-4.m4a",
+    "availableLocal": false,
+    "size": 17004714
+   },
+   "transcript": {
+    "remoteUrl": "https://media.dolenglish.vn/PRIVATE/MEDIA/f59e1296-4730-4095-a5fb-c869ffc35db9.vtt",
+    "localVttPath": "transcripts/section-4.vtt",
+    "availableLocalVtt": true,
+    "localJsonPath": "transcripts/section-4.json",
+    "cueCount": 9
+   },
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-07-11T21:58:44Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson",
+ "questions": {
+  "localJsonPath": "questions.json",
+  "questionCount": 40,
+  "availableLocal": true
+ }
+}

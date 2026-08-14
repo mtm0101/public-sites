@@ -1,0 +1,2017 @@
+{
+ "schema": 1,
+ "id": "cam11-t4-listening",
+ "title": "CAM IELTS 11 - Listening Test 4",
+ "group": "IELTS Cambridge",
+ "book": "CAM IELTS 11",
+ "testNum": 4,
+ "durationMinutes": 40,
+ "questionCount": 40,
+ "testUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-luyen-tap-mock-test-ielts-11-test-4-listening",
+ "answerKeyUrl": "https://tuhoc.dolenglish.vn/luyen-thi-ielts/ielts-online-test-answer-key-mock-test-ielts-11-test-4-listening",
+ "sections": [
+  {
+   "section": 1,
+   "name": "Festival Activities",
+   "duration": 9,
+   "questionStart": 1,
+   "questionEnd": 10,
+   "questionGroups": [
+    {
+     "id": "52c17d8c-55f7-11ef-bdb4-d72354951a10",
+     "questions": [
+      {
+       "uuid": "f2hIL9dpmiM1jh7trYP84",
+       "type": "TABLE_COMPLETION",
+       "marked": [],
+       "markedForReview": false,
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Do school là một danh từ nên mình sẽ \"},{\"text\":\"cần điền một tính từ \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"đáp án sẽ tới sau \",\"bold\":true},{\"text\":\"\\\"And the venue is the school, isn't it?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, Rob trả lời là ''Yes, that's right, the \"},{\"text\":\"secondary school\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là secondary\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rob có nhắc thêm là ''Make sure you \"},{\"text\":\"don't go to the primary school\",\"bold\":true},{\"text\":\" by mistake'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Bạn không điền primary\",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 196,
+          "endTimeInSeconds": 214,
+          "transcripts": [
+           {
+            "id": "5/196535-200296",
+            "startTimeInSeconds": 196,
+            "endTimeInSeconds": 200,
+            "text": " OK. And the venue is the school, isn’t it?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "6/200429-214737",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 214,
+            "text": " Yes, that’s right, the secondary school. Make sure you don’t go to the primary school by mistake! And there’s an additional performer who isn’t mentioned on the posters – Carolyn Hart is going to play with the band.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "secondary",
+         "blankId": "vbJT6a-Nx0SIpMNXS07Ag"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình sẽ cần điền một \"},{\"text\":\"danh từ chỉ nhạc cụ\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, Rob nhắc tới \"},{\"text\":\"Carolyn Hart\",\"bold\":true},{\"text\":\", ''And there's an additional performer …'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó, Melanie hỏi về nhạc cụ mà cô ấy chơi, ''Doesn't she \"},{\"text\":\"play the oboe, or flute or something\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Rob trả lời là ''Yes, the flute''  \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Flute là nhạc cụ mà cô ấy chơi => \"},{\"text\":\"Đáp án là flute \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 200,
+          "endTimeInSeconds": 227,
+          "transcripts": [
+           {
+            "id": "6/200429-214737",
+            "startTimeInSeconds": 200,
+            "endTimeInSeconds": 214,
+            "text": " Yes, that’s right, the secondary school. Make sure you don’t go to the primary school by mistake! And there’s an additional performer who isn’t mentioned on the posters – Carolyn Hart is going to play with the band.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "7/214856-220331",
+            "startTimeInSeconds": 214,
+            "endTimeInSeconds": 220,
+            "text": " Oh, I think I’ve heard her on the radio. Doesn’t she play the oboe, or flute or something?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "8/220478-227724",
+            "startTimeInSeconds": 220,
+            "endTimeInSeconds": 227,
+            "text": " Yes the flute. She usually plays with symphony orchestras, and apparently this is her first time with a jazz band.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "flute",
+         "blankId": "Yd-gOyB_iyA5aDi6BgveS"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng tiếp theo của mình là duck races \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án tới sau\",\"bold\":true},{\"text\":\" ''Then the next thing I want to ask about is the \"},{\"text\":\"duck races\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, Rob nhắc đến giá của một con vịt, ''They're \"},{\"text\":\"a pound each\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Theo thứ tự mình\",\"bold\":true},{\"text\":\" sẽ nghe thấy đáp án \"},{\"text\":\"sau khi nghe về giá \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, Rob nói là ''All the ducks will be launched into the river \"},{\"text\":\"at the back of the cinema\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tất cả con vịt sẽ được thả vào sông ở sau rạp chiếu phim \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là cinema\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 227,
+          "endTimeInSeconds": 268,
+          "transcripts": [
+           {
+            "id": "9/227999-237612",
+            "startTimeInSeconds": 227,
+            "endTimeInSeconds": 237,
+            "text": " Well, I’d certainly like to hear her. Then the next thing I want to ask about is the duck races – I saw a poster beside a river. What are they, exactly?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "10/238280-268167",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 268,
+            "text": " Well, you buy a yellow plastic duck – or as many as you like – they’re a pound each. And you write your name on each one. There’ll be several races, depending on the number of ducks taking part. And John Stevens, a champion swimmer who lives locally, is going to start the races. All the ducks will be launched into the river at the back of the cinema, then they’ll float along the river for 500 metres, as far as the railway bridge.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "cinema",
+         "blankId": "5HiwT4cP--twBYqMp7aOO"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này hỏi về \"},{\"text\":\"giải thưởng\",\"bold\":true},{\"text\":\" của cuộc đua \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"đáp án sẽ tới sau\",\"bold\":true},{\"text\":\" ''And are there any prizes?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rob trả lời là ''Yes, the first duck in each race to arrive at the finishing line \"},{\"text\":\"wins its owner free tickets for the concert\",\"bold\":true},{\"text\":\" on the last night of the festival.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chủ của con vịt thắng cuộc sẽ được một tấm vé đi dự nhạc hội miễn phí \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là concert \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 268,
+          "endTimeInSeconds": 279,
+          "transcripts": [
+           {
+            "id": "11/268338-270102",
+            "startTimeInSeconds": 268,
+            "endTimeInSeconds": 270,
+            "text": " And are there any prizes?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "12/270262-279238",
+            "startTimeInSeconds": 270,
+            "endTimeInSeconds": 279,
+            "text": " Yes, the first duck in each race to arrive at the finishing line wins its owner free tickets for the concert on the last night of the festival.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "concert",
+         "blankId": "h-NLkTLYSv6VO_HVixzGW"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là một \"},{\"text\":\"danh từ\",\"bold\":true},{\"text\":\" (mình có thể mua vịt ở đâu) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án sẽ có sau\",\"bold\":true},{\"text\":\" ''You said you can \"},{\"text\":\"buy a duck\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rob nói là ''They're on sale at a stall \"},{\"text\":\"in the market\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là market\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"(bạn lưu ý \",\"TEXT_COLOR\":{\"colorKey\":\"purple100\"},\"bold\":true},{\"TEXT_COLOR\":{\"colorKey\":\"red100\"},\"bold\":true,\"text\":\"không điền\"},{\"TEXT_COLOR\":{\"colorKey\":\"purple100\"},\"bold\":true,\"text\":\" stall, quầy, bởi địa điểm dễ nhận diện là market, nếu mình chỉ viết stall thôi thì cũng không biết được stall này nằm ở đâu\"},{\"TEXT_COLOR\":{\"colorKey\":\"purple100\"},\"text\":\")\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 280,
+          "endTimeInSeconds": 290,
+          "transcripts": [
+           {
+            "id": "13/280170-284062",
+            "startTimeInSeconds": 280,
+            "endTimeInSeconds": 284,
+            "text": " You said you can buy a duck? I’m sure my children will both want one.",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "14/284214-290777",
+            "startTimeInSeconds": 284,
+            "endTimeInSeconds": 290,
+            "text": " They’re on sale at a stall in the market. You can’t miss it – it’s got an enormous sign showing a couple of ducks.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "market",
+         "blankId": "ToRq2y1OeMP9cui2LoG3y"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sự kiện cuối cùng là flower show \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết là\"},{\"text\":\" tới phần này khi Melanie hỏi là\",\"bold\":true},{\"text\":\" ''Now could you tell me something about the \"},{\"text\":\"flower show\",\"bold\":true},{\"text\":\", please?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rob đáp lại là ''Well, admission is free, and the show is \"},{\"text\":\"being held in Bythwaite Hall.\",\"bold\":true},{\"text\":\"\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết địa điểm tổ chức sự kiện là Bythwaite Hall. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó Rob đã đánh vần tên là ''\"},{\"text\":\"B-Y-T-H-W-A-I-T-E\",\"bold\":true},{\"text\":\". Bythwaite.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Bạn điền tên hall vào \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 290,
+          "endTimeInSeconds": 316,
+          "transcripts": [
+           {
+            "id": "15/290911-299785",
+            "startTimeInSeconds": 290,
+            "endTimeInSeconds": 299,
+            "text": " OK. I’ll go there this afternoon. I remember walking past there yesterday. Now could you tell me something about the flower show, please?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "16/299916-306160",
+            "startTimeInSeconds": 299,
+            "endTimeInSeconds": 306,
+            "text": " Well, admission is free, and the show is being held in Bythwaite Hall.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           },
+           {
+            "id": "17/306412-308256",
+            "startTimeInSeconds": 306,
+            "endTimeInSeconds": 308,
+            "text": " Sorry, how do you spell that?",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "18/308418-316591",
+            "startTimeInSeconds": 308,
+            "endTimeInSeconds": 316,
+            "text": " B-Y-T-H-W-A-I-T-E. Bythwaite.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "Bythwaite",
+         "blankId": "qMcWwtUxSjuyzpYQYz7sT"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình xác định được đáp án là một\"},{\"text\":\" danh từ chỉ ngành nghề\",\"bold\":true},{\"text\":\" (một ai đó nổi tiếng) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, Rob nhắc đến giờ trao giải, \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> ''Yes, but if you'd like to see\"},{\"text\":\" the prizes being awarded\",\"bold\":true},{\"text\":\" for the best flowers, you'll need to be there at 5 o'clock.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó Rob mới nói tới người trao giải, ''The prizes are being given \"},{\"text\":\"by a famous actor\",\"bold\":true},{\"text\":\", Kevin Shapless.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là actor \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (well-known = famous) \",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 330,
+          "endTimeInSeconds": 350,
+          "transcripts": [
+           {
+            "id": "21/330658-333655",
+            "startTimeInSeconds": 330,
+            "endTimeInSeconds": 333,
+            "text": " I know it. I presume it’s open all day.",
+            "character": {
+             "id": "eSlgapG_edl7yh87Dokdb",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "22/333655-350093",
+            "startTimeInSeconds": 333,
+            "endTimeInSeconds": 350,
+            "text": " Yes, but if you’d like to see the prizes being awarded for the best flowers, you’ll need to be there at 5 o’clock. The prizes are being given by a famous actor, Kevin Shapless. He lives nearby and gets involved in a lot of community events.",
+            "character": {
+             "id": "WeyFuvOKWn7GLZR0yxtLd",
+             "name": "ROB"
+            }
+           }
+          ]
+         },
+         "value": "actor",
+         "blankId": "dgN24DDcjrY7044FYbeBw"
+        }
+       ],
+       "blanks": [
+        {
+         "id": "vbJT6a-Nx0SIpMNXS07Ag",
+         "key": 0
+        },
+        {
+         "id": "Yd-gOyB_iyA5aDi6BgveS",
+         "key": 1
+        },
+        {
+         "id": "5HiwT4cP--twBYqMp7aOO",
+         "key": 2
+        },
+        {
+         "id": "h-NLkTLYSv6VO_HVixzGW",
+         "key": 3
+        },
+        {
+         "id": "ToRq2y1OeMP9cui2LoG3y",
+         "key": 4
+        },
+        {
+         "id": "qMcWwtUxSjuyzpYQYz7sT",
+         "key": 5
+        },
+        {
+         "id": "dgN24DDcjrY7044FYbeBw",
+         "key": 6
+        }
+       ],
+       "editorValue": "[{\"type\":\"table\",\"id\":\"xEqQJ6W-VMBA548n9ksGX\",\"cellsWidth\":[0,89,123,148,228],\"width\":588,\"children\":[{\"type\":\"tr\",\"id\":\"dRli8We4ymWlv7QhlYDWh\",\"children\":[{\"type\":\"th\",\"scope\":\"col\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"bBA7OW2P3jpxmhyMELwAT\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Event\",\"bold\":true}]}]}],\"id\":\"VkXuxOduEBy0u5E4TwG2C\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Cost\",\"bold\":true}]}]}],\"id\":\"cX__FEyVwYWXSKSBjKj09\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Venue\",\"bold\":true}]}]}],\"id\":\"0DnpHkHIkh52SuRLXn-hs\"},{\"type\":\"th\",\"scope\":\"row\",\"children\":[{\"type\":\"align_center\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Notes\",\"bold\":true}]}]}],\"id\":\"KGubPE0NXgvt5QDQJ8U7R\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"SZUnmG0zhhfqEkU7S2f0L\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"nY-isPf1ua4B36rncpyPD\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Jazz band\",\"bold\":true}]}]}],\"id\":\"qD8mTZ-2IXYdJb93ts2Cs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Example\",\"italic\":true},{\"text\":\"\\nTicket available for £\"},{\"text\":\"15\",\"italic\":true,\"underline\":true}]}]}],\"id\":\"--sHoKDMJq9hQ_VDDDtB8\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"The\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"vbJT6a-Nx0SIpMNXS07Ag\",\"text\":\"\"}]},{\"text\":\"school\"}]}]}],\"id\":\"u6XqGyxTSFwLxpTPLrjjw\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Also appearing: Carolyn Hart (plays the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"Yd-gOyB_iyA5aDi6BgveS\",\"text\":\"\"}]},{\"text\":\")\"}]}]}],\"id\":\"tlZC_sfc0f_jWp97GUU6z\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"6yujcyVluX7ubCUnP3_az\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"2wR3hp6wFu1UMxcSniZT5\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Duck races\",\"bold\":true}]}]}],\"id\":\"R81NxZlfESlKfdjdhs0Ii\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"£1 per duck\"}]}]}],\"id\":\"h4o6AGW6tdW3UbA14IoM2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Start behind the \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"5HiwT4cP--twBYqMp7aOO\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"Ik2molagaZZRo7iYDFnmV\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Prize: tickets for \"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"h-NLkTLYSv6VO_HVixzGW\",\"text\":\"\"}]},{\"text\":\" Held at the end of the festival. Ducks can be bought in\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"ToRq2y1OeMP9cui2LoG3y\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"8k_uJ3S7JnDAo_onL61NN\"}],\"isExpandable\":false,\"isCollapsed\":false},{\"type\":\"tr\",\"id\":\"rqBXeai2O6jU52QY1n5Np\",\"children\":[{\"type\":\"th\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"}]}]}],\"id\":\"BO54EpUWK6gkg9F0pB1Gr\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Flower show\",\"bold\":true}]}]}],\"id\":\"C4wXS-CxM4ViHCXCTBUhs\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Free\"}]}]}],\"id\":\"Axp94-2MvjbRqWDItrw6z\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"qMcWwtUxSjuyzpYQYz7sT\",\"text\":\"\"}]},{\"text\":\" Hall\"}]}]}],\"id\":\"nlcOI7jUSFZdFNZxWwyU2\"},{\"type\":\"td\",\"children\":[{\"type\":\"align_left\",\"children\":[{\"type\":\"p\",\"children\":[{\"text\":\"Prizes presented at 5pm by a well-known\"},{\"type\":\"editable-blank-void\",\"children\":[{\"blankId\":\"dgN24DDcjrY7044FYbeBw\",\"text\":\"\"}]},{\"text\":\"\"}]}]}],\"id\":\"m8iYKLH5cdP2WIKCCgpsX\"}],\"isExpandable\":false,\"isCollapsed\":false}],\"border\":true,\"hasRowHeading\":true,\"hasColumnHeading\":true}]"
+      }
+     ],
+     "questionType": "TABLE_COMPLETION",
+     "displayedQuestionType": "Table Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the table below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD AND/OR A NUMBER",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 7
+    },
+    {
+     "id": "52c17d8d-55f7-11ef-bdb4-d72354951a10",
+     "questions": [
+      {
+       "uuid": "52c17d8e-55f7-11ef-bdb4-d72354951a10",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "Mainly for children"
+        },
+        {
+         "key": 1,
+         "value": "Mainly for adults"
+        },
+        {
+         "key": 2,
+         "value": "Suitable for people of all ages"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"QwLDw1y0iqRwtOvF98BjQ\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên là ''The Mystery of Muldon'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án sẽ có sau\",\"bold\":true},{\"text\":\" ''What about 'The Mystery of Muldoon'?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Rob đưa ra thông tin là ''That's aimed at \"},{\"text\":\"five to ten-year-olds\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó chỉ danh cho trẻ từ 5 đến 10 tuổi =>\"},{\"text\":\" Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 398,
+          "endTimeInSeconds": 404,
+          "transcripts": [
+           {
+            "id": "27/398707-402505",
+            "startTimeInSeconds": 398,
+            "endTimeInSeconds": 402,
+            "text": " Five and seven. What about ‘The Mystery of Muldoon’?",
+            "character": {
+             "id": "_EgyuVnWYnYQlup2-esoj",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "28/402841-404957",
+            "startTimeInSeconds": 402,
+            "endTimeInSeconds": 404,
+            "text": " That’s aimed at five to ten-year-olds.",
+            "character": {
+             "id": "tjD_NmEslJ881Sh3ouTjr",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"BHf1x9TQED_qmF1s_W2mj\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, về Fire and Flood \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''If you'd like something \"},{\"text\":\"for yourself and your husband\",\"bold\":true},{\"text\":\", and \"},{\"text\":\"leave your children with a babysitter\",\"bold\":true},{\"text\":\", you might like to see 'Fire and Flood'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là sự kiện phù hợp cho Melanie và chồng cô ấy (còn không phù hợp cho trẻ con nên họ mới phải để con với người trông trẻ) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 409,
+          "endTimeInSeconds": 425,
+          "transcripts": [
+           {
+            "id": "30/409213-425810",
+            "startTimeInSeconds": 409,
+            "endTimeInSeconds": 425,
+            "text": " I think so. If you’d like something for yourself and your husband and leave your children with a babysitter, you might like to see ‘Fire and Flood’ – it’s about events that really happened in Stretton two hundred years ago, and children might find it rather frightening.",
+            "character": {
+             "id": "tjD_NmEslJ881Sh3ouTjr",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"W98eQNhuCT7LbRZrBcd3F\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, về Silly Sailor, Rob có nói là ''That's a comedy, and\"},{\"text\":\" it's for young and old\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó phù hợp cho cả trẻ con (young) và người lớn (old) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 425,
+          "endTimeInSeconds": 439,
+          "transcripts": [
+           {
+            "id": "31/425965-431047",
+            "startTimeInSeconds": 425,
+            "endTimeInSeconds": 431,
+            "text": " Oh, thanks for the warning. And finally, what about ‘Silly Sailor’?",
+            "character": {
+             "id": "_EgyuVnWYnYQlup2-esoj",
+             "name": "MELANIE"
+            }
+           },
+           {
+            "id": "32/431047-439037",
+            "startTimeInSeconds": 431,
+            "endTimeInSeconds": 439,
+            "text": " That’s a comedy, and it’s for young and old. In fact, it won an award in the Stretton Drama Festival a couple of months ago.",
+            "character": {
+             "id": "tjD_NmEslJ881Sh3ouTjr",
+             "name": "ROB"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 3,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "The Mystery of Muldoon "
+        },
+        {
+         "key": 1,
+         "value": "Fire and Flood "
+        },
+        {
+         "key": 2,
+         "value": "Silly Sailor"
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Who is each play suitable for?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "<Reading Passage Number> has <numberOfParagraphs> sections <firstLabel> to <lastLabel>."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections <firstLabel>-<lastLabel> from the list of headings below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": false
+     },
+     "totalQuestion": 3
+    }
+   ],
+   "id": "s1",
+   "level": 1
+  },
+  {
+   "section": 2,
+   "name": "Newly Reopened Museum",
+   "duration": 7,
+   "questionStart": 11,
+   "questionEnd": 20,
+   "questionGroups": [
+    {
+     "id": "c571fedc-55f7-11ef-93ab-b343997d8332",
+     "questions": [
+      {
+       "uuid": "c571fedd-55f7-11ef-93ab-b343997d8332",
+       "type": "MATCHING_DRAG_DROP_V2",
+       "options": [
+        {
+         "key": 0,
+         "value": "Was given by one person"
+        },
+        {
+         "key": 1,
+         "value": "Was recently publicized in the media"
+        },
+        {
+         "key": 2,
+         "value": "Includes some items given by members of the public"
+        },
+        {
+         "key": 3,
+         "value": "Includes some items given by the artists"
+        },
+        {
+         "key": 4,
+         "value": "Includes the most popular exhibits in the museum"
+        },
+        {
+         "key": 5,
+         "value": "Is the largest of its kind in the country"
+        },
+        {
+         "key": 6,
+         "value": "Has had some of its contents relocated"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"xjbdCNKxpQw6cgk40XxM2\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng của câu là 20th-and-21st-century paintings \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"đáp án sắp tới sau\",\"bold\":true},{\"text\":\" 'we have a fine collection of \"},{\"text\":\"twentieth and twenty-first century paintings \",\"bold\":true},{\"text\":\"…'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, người nói nhắc là ''This is the \"},{\"text\":\"gallery that attracts the largest number of visitors\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đây là gallery thu hút nhiều khác nhất, có nghĩa là nó nổi tiếng nhất \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Chọn đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 73,
+          "endTimeInSeconds": 89,
+          "transcripts": [
+           {
+            "id": "1/73442-89201",
+            "startTimeInSeconds": 73,
+            "endTimeInSeconds": 89,
+            "text": "Well, for one thing, we have a fine collection of twentieth and twenty-first century paintings, many by very well-known artists. I’m sure you’ll recognise several of the paintings. This is the gallery that attracts the largest number of visitors, so it’s best to go in early in the day, before the crowds arrive."
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"4eJEJ8j0skibtnJJJ3b1f\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp là về \"},{\"text\":\"19th-century paintings \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Bắt đầu từ\",\"bold\":true},{\"text\":\" ''Then there are nineteenth-century paintings'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''and \"},{\"text\":\"several of the artists each donated\",\"bold\":true},{\"text\":\" one work'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một vài bức họa được tặng bởi chính họa sĩ => \"},{\"text\":\"Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 90,
+          "endTimeInSeconds": 105,
+          "transcripts": [
+           {
+            "id": "2/90039-105607",
+            "startTimeInSeconds": 90,
+            "endTimeInSeconds": 105,
+            "text": "Then there are the nineteenth-century paintings. The museum was opened in the middle of that century, and several of the artists each donated one work – to get the museum started, as it were. So they’re of special interest to us – we feel closer to them than to other works."
+           }
+          ]
+         }
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"AwHcYWRcJRXYUT-lZNsbB\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn biết mình đã \"},{\"text\":\"chuyển sang câu mới\",\"bold\":true},{\"text\":\" khi người nói chuyển chủ đề sang sculpture, \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> ''The \"},{\"text\":\"sculpture\",\"bold\":true},{\"text\":\" gallery has a number of fine exhibits'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, ''a number of sculptures have been \"},{\"text\":\"moved to other parts \",\"bold\":true},{\"text\":\"of the museum'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một vài sculpture đã được di chuyển (moved = relocated) sang chỗ khác ở bảo tàng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án G \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 106,
+          "endTimeInSeconds": 118,
+          "transcripts": [
+           {
+            "id": "3/106205-118692",
+            "startTimeInSeconds": 106,
+            "endTimeInSeconds": 118,
+            "text": "The sculpture gallery has a number of fine exhibits, but I’m afraid it’s currently closed for refurbishment. You’ll need to come back next year to see it properly, but a number of the sculptures have been moved to other parts of the museum."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"rhL8qO5P_m98pDlNnNr0O\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Về ''Around the world'' exhibition\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"sẽ có đáp án sau\",\"bold\":true},{\"text\":\" ''\"},{\"text\":\"'Around the world'\",\"bold\":true},{\"text\":\" is a temporary exhibition'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Next, người nói cung cấp thông tin là ''you've probably \"},{\"text\":\"seen something about it on TV or in the newspaper\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nó đã được quảng bá trên các phương tiện thông tin đại chúng, TV và newspaper \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 119,
+          "endTimeInSeconds": 139,
+          "transcripts": [
+           {
+            "id": "4/119942-139755",
+            "startTimeInSeconds": 119,
+            "endTimeInSeconds": 139,
+            "text": "‘Around the world’ is a temporary exhibition – you’ve probably seen something about it on TV or in the newspapers. It’s created a great deal of interest, because it presents objects from every continent and many countries, and provides information about their social context – why they were made, who for, and so on."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"OAu0U-V9wguSu4z4QwFPP\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sang đối tượng tiếp theo, ''Then there's the\"},{\"text\":\" collection of coin\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn sẽ nghe thấy thông tin là ''And many of them were \"},{\"text\":\"discovered by ordinary people digging their gardens, and donated to the museum\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một vài đồng xu đến từ những người bình thường, member of the public \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 140,
+          "endTimeInSeconds": 158,
+          "transcripts": [
+           {
+            "id": "5/140473-158965",
+            "startTimeInSeconds": 140,
+            "endTimeInSeconds": 158,
+            "text": "Then there’s the collection of coins. This is what you might call a focused, specialist collection, because all the coins come from this country, and were produced between two thousand and a thousand years ago. And many of them were discovered by ordinary people digging their gardens and donated to the museum!"
+           }
+          ]
+         }
+        },
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"id\":\"NQ1bC-nDcjsemUQPxmhuQ\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''All our \"},{\"text\":\"porcelain and glass\",\"bold\":true},{\"text\":\" was left to the museum by its founder'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tất cả tác phẩm đều được tặng bởi một người là người sáng lập bảo tàng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''And in terms of his will, \"},{\"text\":\"we're not allowed to add anything\",\"bold\":true},{\"text\":\" to that collection'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bộ sưu tập này được tặng bởi người sáng lập, và cho đến nay không có tác phẩm nào mới được thêm vào \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Mình chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 160,
+          "endTimeInSeconds": 174,
+          "transcripts": [
+           {
+            "id": "6/160292-174503",
+            "startTimeInSeconds": 160,
+            "endTimeInSeconds": 174,
+            "text": "All our porcelain and glass we left to the museum by its founder, when he died in 1878. And in the terms of his will, we’re not allowed to add anything to that collection: he believed it was perfect in itself, and we don’t see any reason to disagree!"
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 6,
+       "featureNames": [
+        {
+         "key": 0,
+         "value": "20th-and 21st-century paintings"
+        },
+        {
+         "key": 1,
+         "value": "19th-century paintings"
+        },
+        {
+         "key": 2,
+         "value": "Sculptures"
+        },
+        {
+         "key": 3,
+         "value": "‘Around the world’ exhibition"
+        },
+        {
+         "key": 4,
+         "value": "Coins"
+        },
+        {
+         "key": 5,
+         "value": "Porcelain and glass "
+        }
+       ]
+      }
+     ],
+     "questionType": "MATCHING_DRAG_DROP_V2",
+     "displayedQuestionType": "Matching",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "What does the speaker say about each of the following collections?"
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "SIX ",
+          "bold": true
+         },
+         {
+          "text": "answers from the box and drag the correct answer to the gap in each sentence."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "<Reading Passage Number> has <numberOfParagraphs> sections <firstLabel> to <lastLabel>."
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct headings for sections <firstLabel>-<lastLabel> from the list of headings below."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "c571fede-55f7-11ef-93ab-b343997d8332",
+     "questions": [
+      {
+       "uuid": "h5riRYePzMsL8KF7eC4VT",
+       "type": "DRAG_OUT",
+       "marked": [],
+       "markedForReview": false,
+       "image": {
+        "fileType": "PRIVATE",
+        "path": "PUBLIC/MEDIA/5951a42b-a6a1-4222-8601-f90af1ff76d6.png",
+        "url": "https://suijm9clouobj.vcdn.cloud/PUBLIC/MEDIA/5951a42b-a6a1-4222-8601-f90af1ff76d6.png",
+        "name": "CAM11_L4_S2_Newly Reopened Museum_NoOpt.png",
+        "uploadedDate": "2021-12-15T08:09:19.662+0000",
+        "size": 4313,
+        "width": 375,
+        "height": 225
+       },
+       "correctOptions": [
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Với dạng bài map thì bạn luôn cần xác định vị trí mình đang đứng (nếu trong map không ghi rõ luôn) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn có nghe là ''When you \"},{\"text\":\"reach the bottom of the stairs\",\"bold\":true},{\"text\":\", you'll find yourself\"},{\"text\":\" in a sitting area\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vị trí xuất phát của mình là ở cầu thang trong sitting area. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng đầu tiên là restaurant \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn biết \"},{\"text\":\"đáp án sắp tới sau\",\"bold\":true},{\"text\":\" ''We have a very good\"},{\"text\":\" restaurant\",\"bold\":true},{\"text\":\" ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Để đến được restaurant, ''when you get to the bottom of the stairs, go straight ahead \"},{\"text\":\"to the far side of the sitting area\",\"bold\":true},{\"text\":\"'' (từ vị trí cầu thang, bạn phải đi dọc hết sitting area tới phía bên kia), \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> ''then \"},{\"text\":\"turn right into the corridor\",\"bold\":true},{\"text\":\"'' (sau đó rẽ phải vào sảnh, tức sảnh có phòng E, F và H), \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> ''You'll see \"},{\"text\":\"the door of the restaurant facing you\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đáp án là F \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 213,
+          "endTimeInSeconds": 257,
+          "transcripts": [
+           {
+            "id": "7/213696-238367",
+            "startTimeInSeconds": 213,
+            "endTimeInSeconds": 238,
+            "text": "OK, that was something about the collections, and now here’s some more practical information, in case you need it. Most of the museum facilities are downstairs, in the basement, so you go down the stairs here. When you reach the bottom of the stairs, you’ll find yourself in a sitting area, with comfortable chairs and sofas where you can have a rest before continuing your exploration of the museum."
+           },
+           {
+            "id": "8/238976-257361",
+            "startTimeInSeconds": 238,
+            "endTimeInSeconds": 257,
+            "text": "We have a very good restaurant, which serves excellent food all day, in a relaxing atmosphere. To reach it, when you get to the bottom of the stairs, go straight ahead to the far side of the sitting area, then turn right into the corridor. You’ll see the door on the restaurant facing you."
+           }
+          ]
+         }
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Để tới quán café, ''When you reach the bottom of the stairs, you'll need to \"},{\"text\":\"go straight ahead, turn right into the corridor\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ở vị trí cầu thang, bạn vẫ đi dọc hết sitting area rồi rẽ phải vào sảnh như ở câu 7 \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''the café is\"},{\"text\":\" immediately on the right\",\"bold\":true},{\"text\":\"'' (và quán cafe nằm ngay ở bên phải) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là H \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 258,
+          "endTimeInSeconds": 274,
+          "transcripts": [
+           {
+            "id": "9/258520-274976",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 274,
+            "text": "If you just want a snack, or if you’d like to eat somewhere with facilities for children, we also have a café. When you reach the bottom of the stairs, you’ll need to go straight ahead, turn right into the corridor, and the café is immediately on the right."
+           }
+          ]
+         }
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp là tới baby-changing facilities, ''cross the sitting area,\"},{\"text\":\" continue straight ahead along the corridor on the left\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức lần này bạn sẽ đi hết sitting area tới sảnh ở bên tay trái, \"},{\"text\":\"sảnh có phòng C và D \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''you and your baby will find \"},{\"text\":\"the facilities on the left-hand side\",\"bold\":true},{\"text\":\"'' (tức cơ sở nằm ở bên tay trái) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 275,
+          "endTimeInSeconds": 289,
+          "transcripts": [
+           {
+            "id": "10/275820-289677",
+            "startTimeInSeconds": 275,
+            "endTimeInSeconds": 289,
+            "text": "And talking about children, there are baby-changing facilities downstairs: cross the sitting area, continue straight ahead along the corridor on the left and you and your body will find the facilities on the left-hand side."
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng là the cloakroom, ''is on the \"},{\"text\":\"left-hand side of the sitting area\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức nó nằm bên trái sitting area,\"},{\"text\":\" bao gồm các phòng A, B, C\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''It's through \"},{\"text\":\"the last door before you come to the corridor\",\"bold\":true},{\"text\":\"'' (nó là phòng cuối cùng trước khi mình đến sảnh có phòng C và D) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 291,
+          "endTimeInSeconds": 303,
+          "transcripts": [
+           {
+            "id": "11/291179-303156",
+            "startTimeInSeconds": 291,
+            "endTimeInSeconds": 303,
+            "text": "The cloakroom where you should leave coats, umbrella and any large bags, is on the left hand side of the sitting area. It’s through the last door before you come to the corridor."
+           }
+          ]
+         }
+        }
+       ],
+       "spots": [
+        {
+         "text": "A",
+         "id": "yibv2S1xMBrr6ZcS4C4vW",
+         "x": 35,
+         "y": 116
+        },
+        {
+         "text": "B",
+         "id": "fPBm_fcbmdxcbsiQLn9xq",
+         "x": 36,
+         "y": 79
+        },
+        {
+         "text": "C",
+         "id": "KpoLzApzIFTwrwr1UJUeB",
+         "x": 33,
+         "y": 32
+        },
+        {
+         "text": "D",
+         "id": "JYtzgCzttdbShf95UUpSx",
+         "x": 106,
+         "y": 31
+        },
+        {
+         "text": "E",
+         "id": "pi9gOZTvtxe7eTTIm1sSc",
+         "x": 170,
+         "y": 37
+        },
+        {
+         "text": "F",
+         "id": "r8mTKqhkBsMHDGUgzky2d",
+         "x": 245,
+         "y": 53
+        },
+        {
+         "text": "G",
+         "id": "WjNJ8swRijhK-YN2tnDhy",
+         "x": 318,
+         "y": 54
+        },
+        {
+         "text": "H",
+         "id": "Da1387H8o4FYVKs_TJ4IZ",
+         "x": 181,
+         "y": 152
+        }
+       ],
+       "questions": [
+        "Restaurant",
+        "Café",
+        "Baby-changing facilities",
+        "Cloakroom"
+       ]
+      }
+     ],
+     "questionType": "DRAG_OUT",
+     "displayedQuestionType": "Plan, Map, Diagram Labeling",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Label the plan below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Choose the correct letter "
+         },
+         {
+          "text": "A-H.",
+          "bold": true
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": ""
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": false
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s2",
+   "level": 1
+  },
+  {
+   "section": 3,
+   "name": "Research On Female Musical Performers",
+   "duration": 8,
+   "questionStart": 21,
+   "questionEnd": 30,
+   "questionGroups": [
+    {
+     "id": "fa01f07b-1296-11ef-b72d-c7081a45be85",
+     "questions": [
+      {
+       "uuid": "fa01f07c-1296-11ef-b72d-c7081a45be85",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO characteristics were shared by the subjects of Joanna’s psychology study?",
+       "options": [
+        {
+         "key": 0,
+         "value": "They had all won prizes for their music"
+        },
+        {
+         "key": 1,
+         "value": "They had all made music recordings"
+        },
+        {
+         "key": 2,
+         "value": "They were all under 27 years old"
+        },
+        {
+         "key": 3,
+         "value": "They had all toured internationally"
+        },
+        {
+         "key": 4,
+         "value": "They all played a string instrument"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình đang cần tìm\"},{\"text\":\" hai đặc điểm\",\"bold\":true},{\"text\":\" của đối tượng nghiên cứu của Joana \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"phần này tới sau\",\"bold\":true},{\"text\":\" ''So \"},{\"text\":\"how did you choose your subjects\",\"bold\":true},{\"text\":\" for that?'' (Vậy bạn chọn đối tượng như thế nào?) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''Well, I had six subjects, all professional musicians, and all female.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không trùng với đáp án nào nên mình nghe tiếp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp, ''Three were \"},{\"text\":\"violinists\",\"bold\":true},{\"text\":\" and there was also a \"},{\"text\":\"cello\",\"bold\":true},{\"text\":\" player and a \"},{\"text\":\"pianist\",\"bold\":true},{\"text\":\" and a \"},{\"text\":\"flute\",\"bold\":true},{\"text\":\" player.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình thấy violin và cello là string instrument, nhưng piano và flute thì không phải \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Next, ''They were all very highly regarded in the music world and\"},{\"text\":\" they'd done quite extensive tours in different continent\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tất cả bọn họ đều đã có các tour ở các châu lục khác nhau \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Chọn đáp án D \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ngoài ra, ''and quite \"},{\"text\":\"a few had won prizes and competitions\",\"bold\":true},{\"text\":\" as well.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức chỉ có một vài người thắng giải chứ không phải tất cả \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi được hỏi về tuổi, Joana trả lời là ''Yes, \"},{\"text\":\"between 25 and 29\",\"bold\":true},{\"text\":\" - the mean was 27.8.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không phải tất cả đều dưới 27 (độ tuổi giữa 25 và 29) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''I wasn't specifically looking for \"},{\"text\":\"artists who'd produced recordings\",\"bold\":true},{\"text\":\", but this is something that's just taken for granted these days, \"},{\"text\":\"and they all had\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là Joana không cố ý tìm nhạc sĩ mà sản xuất recordings, nhưng đây là một điều mà được cho là bình thường ngày nay (tức là ai cũng làm) và tất cả đối tượng đều có recordings \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 61,
+          "endTimeInSeconds": 119,
+          "transcripts": [
+           {
+            "id": "0/61372-76414",
+            "startTimeInSeconds": 61,
+            "endTimeInSeconds": 76,
+            "text": " Hi, Joanna, good to meet you. Now, before we discuss your new research project. I’d like to hear something about the psychology study you did last year for your Master’s degree. So how did you choose your subjects for that?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "1/77241-100690",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 100,
+            "text": " Well, I had six subjects, all professional musicians, and all female. There were violinists and there was also a cello player and a pianist and a flute player. They were all very highly regarded in the music world and they’d done quite extensive tours in different continents, and quite a few had won prizes and competitions as well.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "2/100839-103094",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 103,
+            "text": " And they were quite young, weren’t they?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "3/103094-119385",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 119,
+            "text": " Yes, between 25 and 29 – the mean was 27.8. I wasn’t specifically look for artists who’d produced recordings, but this is something that’s just taken for granted these days, and they all had. ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình đang cần tìm\"},{\"text\":\" hai đặc điểm\",\"bold\":true},{\"text\":\" của đối tượng nghiên cứu của Joana \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"phần này tới sau\",\"bold\":true},{\"text\":\" ''So \"},{\"text\":\"how did you choose your subjects\",\"bold\":true},{\"text\":\" for that?'' (Vậy bạn chọn đối tượng như thế nào?) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''Well, I had six subjects, all professional musicians, and all female.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không trùng với đáp án nào nên mình nghe tiếp \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp, ''Three were \"},{\"text\":\"violinists\",\"bold\":true},{\"text\":\" and there was also a \"},{\"text\":\"cello\",\"bold\":true},{\"text\":\" player and a \"},{\"text\":\"pianist\",\"bold\":true},{\"text\":\" and a \"},{\"text\":\"flute\",\"bold\":true},{\"text\":\" player.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình thấy violin và cello là string instrument, nhưng piano và flute thì không phải \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án E \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Next, ''They were all very highly regarded in the music world and\"},{\"text\":\" they'd done quite extensive tours in different continent\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tất cả bọn họ đều đã có các tour ở các châu lục khác nhau \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"bold\":true,\"text\":\" Chọn đáp án D \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ngoài ra, ''and quite \"},{\"text\":\"a few had won prizes and competitions\",\"bold\":true},{\"text\":\" as well.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức chỉ có một vài người thắng giải chứ không phải tất cả \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi được hỏi về tuổi, Joana trả lời là ''Yes, \"},{\"text\":\"between 25 and 29\",\"bold\":true},{\"text\":\" - the mean was 27.8.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Không phải tất cả đều dưới 27 (độ tuổi giữa 25 và 29) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án C\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''I wasn't specifically looking for \"},{\"text\":\"artists who'd produced recordings\",\"bold\":true},{\"text\":\", but this is something that's just taken for granted these days, \"},{\"text\":\"and they all had\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức là Joana không cố ý tìm nhạc sĩ mà sản xuất recordings, nhưng đây là một điều mà được cho là bình thường ngày nay (tức là ai cũng làm) và tất cả đối tượng đều có recordings \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Chọn đáp án B \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 61,
+          "endTimeInSeconds": 119,
+          "transcripts": [
+           {
+            "id": "0/61372-76414",
+            "startTimeInSeconds": 61,
+            "endTimeInSeconds": 76,
+            "text": " Hi, Joanna, good to meet you. Now, before we discuss your new research project. I’d like to hear something about the psychology study you did last year for your Master’s degree. So how did you choose your subjects for that?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "1/77241-100690",
+            "startTimeInSeconds": 77,
+            "endTimeInSeconds": 100,
+            "text": " Well, I had six subjects, all professional musicians, and all female. There were violinists and there was also a cello player and a pianist and a flute player. They were all very highly regarded in the music world and they’d done quite extensive tours in different continents, and quite a few had won prizes and competitions as well.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "2/100839-103094",
+            "startTimeInSeconds": 100,
+            "endTimeInSeconds": 103,
+            "text": " And they were quite young, weren’t they?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "3/103094-119385",
+            "startTimeInSeconds": 103,
+            "endTimeInSeconds": 119,
+            "text": " Yes, between 25 and 29 – the mean was 27.8. I wasn’t specifically look for artists who’d produced recordings, but this is something that’s just taken for granted these days, and they all had. ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "fa01f07d-1296-11ef-b72d-c7081a45be85",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO points does Joanna make about her use of telephone interviews?",
+       "options": [
+        {
+         "key": 0,
+         "value": "It meant rich data could be collected"
+        },
+        {
+         "key": 1,
+         "value": "It allowed the involvement of top performers"
+        },
+        {
+         "key": 2,
+         "value": "It led to a stressful atmosphere at times"
+        },
+        {
+         "key": 3,
+         "value": "It meant interview times had to be limited"
+        },
+        {
+         "key": 4,
+         "value": "It caused some technical problems"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe được:''I'd been \"},{\"text\":\"worried about the quality\",\"bold\":true},{\"text\":\", but \"},{\"text\":\"it worked out all right\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Vậy chất lượng ổn, không có trục trặc về kỹ thuật gì \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án E \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''I managed \"},{\"text\":\"at least a 30-minute interview\",\"bold\":true},{\"text\":\" with each subject, \"},{\"text\":\"sometimes longer\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Thời gian phỏng vấn là 30 phút, khá dài, và cô ấy không nói là thiếu thời gian \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án D \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Khi được hỏi về việc phỏng vấn qua điện thoại có stress không (ứng với đáp án C), Joana trả lời là ''I'd thought it might...\"},{\"text\":\" it was all quite informal\",\"bold\":true},{\"text\":\" though and in fact \"},{\"text\":\"they seemed very keen to talk\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Cô ấy tưởng là nó sẽ stress thôi chứ thực ra nó khá là informal và mọi người rất hào hứng nói \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Loại đáp án C \",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Cuối cùng, ''And I don't think using the phone meant \"},{\"text\":\"I got less rich data, rather the opposite\",\"bold\":true},{\"text\":\" in fact.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Trên thực tế, phỏng vấn bằng điện thoại không có nghĩa là có ít dữ liệu mà ngược lại mới đúng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Chọn đáp án A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 119,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "4/119530-124509",
+            "startTimeInSeconds": 119,
+            "endTimeInSeconds": 124,
+            "text": " Right. Now you collected your data through telephone interviews, didn’t you?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "5/124509-148094",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 148,
+            "text": " Yes. I realised if I was going to interview leading musicians it’s only be possible over the phone because they’re so busy. I recorded them using a telephone recording adaptor. I’d been worried about the quality, but it worked out all right. I managed at least a 30-minute interview with each subject, sometimes longer.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "6/148206-151824",
+            "startTimeInSeconds": 148,
+            "endTimeInSeconds": 151,
+            "text": " Did doing it on the phone make it more stressful?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "7/152049-165823",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 165,
+            "text": " I’d thought it might … it was all quite informal though and in fact they seemed very keen to talk. And I don’t think using the phone meant I got less rich data rather the opposite in fact. ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"id\":\"H40iIgVAjQmQq0cw\",\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tới phần tiếp theo về \"},{\"text\":\"telephone interviews\",\"bold\":true},{\"text\":\", ''Now you collected your data through telephone interviews, didn't you?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trước hết, ''I realised if I was going to interview leading musicians \"},{\"text\":\"it'd only be possible over the phone because they're so busy\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức để có thể phỏng vấn được các nhạc sĩ đứng đầu thì phải dùng telephone interviews do họ quá bận \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Mình chọn đáp án B. \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley34\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"id\":\"H40iIgVAjQmQq0cw\",\"type\":\"p\",\"children\":[{\"text\":\"  \"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 119,
+          "endTimeInSeconds": 165,
+          "transcripts": [
+           {
+            "id": "4/119530-124509",
+            "startTimeInSeconds": 119,
+            "endTimeInSeconds": 124,
+            "text": " Right. Now you collected your data through telephone interviews, didn’t you?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "5/124509-148094",
+            "startTimeInSeconds": 124,
+            "endTimeInSeconds": 148,
+            "text": " Yes. I realised if I was going to interview leading musicians it’s only be possible over the phone because they’re so busy. I recorded them using a telephone recording adaptor. I’d been worried about the quality, but it worked out all right. I managed at least a 30-minute interview with each subject, sometimes longer.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "6/148206-151824",
+            "startTimeInSeconds": 148,
+            "endTimeInSeconds": 151,
+            "text": " Did doing it on the phone make it more stressful?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "7/152049-165823",
+            "startTimeInSeconds": 152,
+            "endTimeInSeconds": 165,
+            "text": " I’d thought it might … it was all quite informal though and in fact they seemed very keen to talk. And I don’t think using the phone meant I got less rich data rather the opposite in fact. ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      },
+      {
+       "uuid": "fa01f07e-1296-11ef-b72d-c7081a45be85",
+       "type": "MULTIPLE_ANSWER",
+       "question": "Which TWO topics did Joanna originally intend to investigate in her research?",
+       "options": [
+        {
+         "key": 0,
+         "value": "Regulations concerning concert dress"
+        },
+        {
+         "key": 1,
+         "value": "Audience reactions to the dress of performers"
+        },
+        {
+         "key": 2,
+         "value": "Changes in performer attitudes to concert dress"
+        },
+        {
+         "key": 3,
+         "value": "How choice of dress relates to performer roles"
+        },
+        {
+         "key": 4,
+         "value": "Links between musical instrument and dress choice"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Bạn để ý có từ ''\"},{\"text\":\"orginally\",\"bold\":true},{\"text\":\"'' trong câu hỏi đề bài cho \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình sẽ phải nghe về \"},{\"text\":\"hai ý định ban đầu\",\"bold\":true},{\"text\":\" của Joana \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Trước hết, Joana nói về \"},{\"text\":\"mục đích nghiên cứu hiện tại\",\"bold\":true},{\"text\":\" của mình, ''My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó, supervisor hỏi là ''But that focus \"},{\"text\":\"didn't emerge immediately\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn biết Joana chuẩn bị nói về \"},{\"text\":\"dự định ban đầu\",\"bold\":true},{\"text\":\" của mình. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, ''When I started I was more interested in trying to \"},{\"text\":\"investigate the impact of what was worn on those listening\",\"bold\":true},{\"text\":\",'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Ban đầu Joana muốn tìm ảnh hưởng của quần áo (what was worn: cái được mặc = dress) lên người nghe (audience)\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Mình chọn đáp án B\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 165,
+          "endTimeInSeconds": 201,
+          "transcripts": [
+           {
+            "id": "8/165998-171692",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 171,
+            "text": " Interesting. And you were looking at how performers dress for concert performances?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "9/172090-201721",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 201,
+            "text": " That’s right. My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear. But that focus didn’t emerge immediately. When I started I was more interested in trying to investigate the impact of what was worn on those listening, and also whether someone like a violinist might adopt a different style of clothing from, say, someone playing the flute or the trumpet ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ngoài ra, ''and also \"},{\"text\":\"whether someone like a violinist might adopt a different style of clothing from, say, someone playing the flute or the trumpet\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Và liệu những người nghệ sĩ chơi\"},{\"text\":\" nhạc cụ\",\"bold\":true},{\"text\":\" khác nhau có \"},{\"text\":\"phong cách ăn mặc\",\"bold\":true},{\"text\":\" khác nhau hay không \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Mình chọn đáp án E \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 165,
+          "endTimeInSeconds": 201,
+          "transcripts": [
+           {
+            "id": "8/165998-171692",
+            "startTimeInSeconds": 165,
+            "endTimeInSeconds": 171,
+            "text": " Interesting. And you were looking at how performers dress for concert performances?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "9/172090-201721",
+            "startTimeInSeconds": 172,
+            "endTimeInSeconds": 201,
+            "text": " That’s right. My research investigated the way players see their role as a musician and how this is linked to the type of clothing they decide to wear. But that focus didn’t emerge immediately. When I started I was more interested in trying to investigate the impact of what was worn on those listening, and also whether someone like a violinist might adopt a different style of clothing from, say, someone playing the flute or the trumpet ",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 2
+      }
+     ],
+     "questionType": "MULTIPLE_ANSWER",
+     "displayedQuestionType": "Pick from a list",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose "
+         },
+         {
+          "text": "TWO",
+          "bold": true
+         },
+         {
+          "text": " options"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 6
+    },
+    {
+     "id": "fa01f07f-1296-11ef-b72d-c7081a45be85",
+     "questions": [
+      {
+       "uuid": "fa01f080-1296-11ef-b72d-c7081a45be85",
+       "type": "SINGLE_ANSWER",
+       "question": "Joanna concentrated on women performers because",
+       "options": [
+        {
+         "key": 0,
+         "value": "women are more influenced by fashion"
+        },
+        {
+         "key": 1,
+         "value": "women’s dress has led to more controversy"
+        },
+        {
+         "key": 2,
+         "value": "women’s code of dress is less strict than men’s"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên, supervisor hỏi là ''Was that because m\"},{\"text\":\"ale musicians are less worried about fashion\",\"bold\":true},{\"text\":\"?'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó Joana trả lời là ''I think a lot of the \"},{\"text\":\"men are very much influenced by fashion\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đàn ông cũng như phụ nữ đều bị ảnh hưởng bởi thời trang \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Tiếp theo, ''but in social terms\"},{\"text\":\" the choices they have are more limited\",\"bold\":true},{\"text\":\"... they'd really upset audiences if they strayed away from quite narrow boundaries.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Lựa chọn đồ mặc của nam bị giới hạn hơn do nếu họ phá cách quá audience sẽ không hài lòng \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Mình chọn đáp án C \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" \",\"bold\":true},{\"text\":\"(phụ nữ có thể mặc tự do hơn đàn ông)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 251,
+          "endTimeInSeconds": 271,
+          "transcripts": [
+           {
+            "id": "12/251334-258462",
+            "startTimeInSeconds": 251,
+            "endTimeInSeconds": 258,
+            "text": " You only had women performers in your study. Was that because male musicians are less worried about fashion?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "13/258833-271444",
+            "startTimeInSeconds": 258,
+            "endTimeInSeconds": 271,
+            "text": " I think a lot of the men are very much influenced by fashion, but in social terms the choices they have are more limited … they’d really upset audiences if they strayed away from quite narrow boundaries.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "fa01f081-1296-11ef-b72d-c7081a45be85",
+       "type": "SINGLE_ANSWER",
+       "question": "Mike Frost’s article suggests that in popular music, women’s dress is affected by",
+       "options": [
+        {
+         "key": 0,
+         "value": "their wish to be taken seriously"
+        },
+        {
+         "key": 1,
+         "value": "their tendency to copy each other"
+        },
+        {
+         "key": 2,
+         "value": "their reaction to the masculine nature of the music"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng chính của câu là bài nghiên cứu của\"},{\"text\":\" Mike Frost\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"phần này sắp tới sau\",\"bold\":true},{\"text\":\" ''Did you read Mike Frost's article about the dress of women performers in popular music?\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên supervisor bàn về hiện tượng mà Mike Frost quan sát được, ''He points out that a lot of\"},{\"text\":\" female singers and musicians in popular music tend to dress down\",\"bold\":true},{\"text\":\" in performance, and wear less feminine clothes, like jeans instead of skirts,'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sau đó mới đưa ra nguyên nhân là ''and he suggests this is because \"},{\"text\":\"otherwise they'd just be discounted as trivial\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức nếu không làm vậy thì họ sẽ bị coi nhẹ (trivial) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ muốn được coi trọng (take seriously) =>\"},{\"text\":\" Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 271,
+          "endTimeInSeconds": 298,
+          "transcripts": [
+           {
+            "id": "14/271444-281666",
+            "startTimeInSeconds": 271,
+            "endTimeInSeconds": 281,
+            "text": " Hmm. Now, popular music has quite different expectations. Did you read Mike Frost’s article about the dress of women performers in popular music?",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "15/281801-282514",
+            "startTimeInSeconds": 281,
+            "endTimeInSeconds": 282,
+            "text": " No.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "16/282514-298542",
+            "startTimeInSeconds": 282,
+            "endTimeInSeconds": 298,
+            "text": " He points out that a lot of female singers and musicians in popular music tend to dress down in performances, and wear less feminine clothes, like jeans instead of skirts, and he suggests this is because otherwise they’d just be discounted as trivial.",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "fa01f082-1296-11ef-b72d-c7081a45be85",
+       "type": "SINGLE_ANSWER",
+       "question": "What did Joanna’s subjects say about the audience at a performance?",
+       "options": [
+        {
+         "key": 0,
+         "value": "The musicians’ choice of clothing is linked to respect for the audience"
+        },
+        {
+         "key": 1,
+         "value": "The clothing should not distract the audience from the music"
+        },
+        {
+         "key": 2,
+         "value": "The audience should make the effort to dress appropriately"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này là về audience at a performance \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án sẽ tới sau\",\"bold\":true},{\"text\":\" ''I was interested by\"},{\"text\":\" the effect of the audience\",\"bold\":true},{\"text\":\" at a musical performance when it came to the choice of dress.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Joana cung cấp thông tin là ''They believed \"},{\"text\":\"the audience had certain expectations\",\"bold\":true},{\"text\":\" and it was up to them as performers\"},{\"text\":\" to fulfil these expectations, to show a kind of esteem\",\"bold\":true},{\"text\":\"...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Tức cách ăn mặc của họ thể hiện sự tôn trọng với khán giả (esteem = respect) bởi khán giả có mong đợi nhất định từ những người trình diễn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là A \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 305,
+          "endTimeInSeconds": 338,
+          "transcripts": [
+           {
+            "id": "18/305547-315400",
+            "startTimeInSeconds": 305,
+            "endTimeInSeconds": 315,
+            "text": " Yes, he doesn’t make that point, but I think you’re probably right. I was interested by the effect of the audience at a musical performance when it came to the choice of dress.",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "19/315825-334835",
+            "startTimeInSeconds": 315,
+            "endTimeInSeconds": 334,
+            "text": " The subjects I interviewed felt this was really important. It’s all to do with what we understand by performance as a public event. They believed the audience had certain expectations and it was up to them as performers to fulfil these expectations to show a kind of esteem …",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "20/334984-338410",
+            "startTimeInSeconds": 334,
+            "endTimeInSeconds": 338,
+            "text": " … they weren’t afraid of looking as if they’d made an effort to look good.",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      },
+      {
+       "uuid": "fa01f083-1296-11ef-b72d-c7081a45be85",
+       "type": "SINGLE_ANSWER",
+       "question": "According to the speakers, musicians could learn from sports scientists about",
+       "options": [
+        {
+         "key": 0,
+         "value": "the importance of clothing for physical freedom"
+        },
+        {
+         "key": 1,
+         "value": "the part played by clothing in improving performance"
+        },
+        {
+         "key": 2,
+         "value": "the way clothing may protect against physical injury"
+        }
+       ],
+       "correctOptions": [
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đối tượng cuối cùng là sport scientist \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án sẽ có sau\",\"bold\":true},{\"text\":\" ''And I also got interested in what \"},{\"text\":\"sports scientists\",\"bold\":true},{\"text\":\" are doing too, with regard to clothing.\\\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đầu tiên supervisor nói về vấn đề là ''\"},{\"text\":\"Musicians are quite vulnerable physically\",\"bold\":true},{\"text\":\", aren't they, because the movements they carry out are very intensive and repetitive,'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nhạc sĩ có nguy cơ bị chấn thương do phải có những cử động mạnh và lặp đi lặp lại\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"=>\"}]},{\"text\":\" Sau đó, ''so I'd imagine \"},{\"text\":\"some features of sports clothing could safeguard the players\",\"bold\":true},{\"text\":\" from the potentially dangerous effects of this sort of thing.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Do đó một vài tính năng của quần áo thể thao có thể bảo vệ họ khỏi nguy hiểm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Mình chọn đáp án C\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"cross\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Joana có bàn thêm là ''They \"},{\"text\":\"avoid clothing that obviously restricts their movements\",\"bold\":true},{\"text\":\", but that's as far as they go.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Họ chủ động tránh quần áo mà ảnh hưởng tới việc di chuyển (ứng với đáp án A) nhưng họ đã tự biết điều này mà không cần học từ sports scientists \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Loại đáp án A \",\"bold\":true}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 349,
+          "endTimeInSeconds": 381,
+          "transcripts": [
+           {
+            "id": "23/349100-354675",
+            "startTimeInSeconds": 349,
+            "endTimeInSeconds": 354,
+            "text": " And I also got interested in what sports scientists are doing too, with regard to clothing.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           },
+           {
+            "id": "24/354938-371852",
+            "startTimeInSeconds": 354,
+            "endTimeInSeconds": 371,
+            "text": " Musicians are quite vulnerable physically, aren’t they, because the movements they carry out are very intensive and repetitive, so I’d imagine some features of sports clothing could safeguard the players from the potentially dangerous effects of this sort of thing. ",
+            "character": {
+             "id": "oTLqsTLIn2E5-ycPE5hEv",
+             "name": "SUPERVISOR"
+            }
+           },
+           {
+            "id": "25/372032-381150",
+            "startTimeInSeconds": 372,
+            "endTimeInSeconds": 381,
+            "text": " Yes, but musicians don’t really consider it. They avoid clothing that obviously restricts their movements, but that’s as far as they go.",
+            "character": {
+             "id": "HKQ-7n6pRxawYgESLzDGK",
+             "name": "JOANNA"
+            }
+           }
+          ]
+         }
+        }
+       ],
+       "maxSelectedOptions": 1,
+       "isImageIncluded": false
+      }
+     ],
+     "questionType": "SINGLE_ANSWER",
+     "displayedQuestionType": "Multiple Choice",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Choose the correct option"
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 4
+    }
+   ],
+   "id": "s3",
+   "level": 1
+  },
+  {
+   "section": 4,
+   "name": "The Use Of Soil To Reduce Carbon Dioxide In The Atmosphere",
+   "duration": 9,
+   "questionStart": 31,
+   "questionEnd": 40,
+   "questionGroups": [
+    {
+     "id": "d13d8d42-2767-11ed-9762-a3ae25ae22f6",
+     "questions": [
+      {
+       "uuid": "d13d8d43-2767-11ed-9762-a3ae25ae22f6",
+       "type": "NOTE_COMPLETION_NO_HINT",
+       "correctAnswers": [
+        {
+         "key": 0,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình xác định đáp án là\"},{\"text\":\" một tính từ chỉ tính chất của đất\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi giải thích về carbon-rich soil, người nói có cung cấp thông tin là ''But \"},{\"text\":\"erosion can occur if soil is dry\",\"bold\":true},{\"text\":\", which is a likely effect if it contains inadequate amounts of carbon.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Đất khô sẽ có khả năng bị xói mòn hơn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là dry\",\"bold\":true},{\"text\":\" \"},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\" (Câu này không có cue để cho mình biết đáp án sắp tới nên bạn phải sẵn sàng ngay khi nghe được từ erosion)\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 143,
+          "endTimeInSeconds": 177,
+          "transcripts": [
+           {
+            "id": "2/143393-177549",
+            "startTimeInSeconds": 143,
+            "endTimeInSeconds": 177,
+            "text": "Lal first came to the idea that soil might be valuable in this way not through an interest in climate change, but rather out of concern for the land itself and the people dependent on it. Carbon-rich soil is dark, crumbly and fertile, and retains some water. But erosion can occur if soil is dry, which is a likely effect if it contains inadequate amounts of carbon. Erosion is of course bad for people trying to grow crops or breed animals on that terrain."
+           }
+          ]
+         },
+         "value": "dry",
+         "blankId": "ns243J5amMyQ3aL-UNdV0"
+        },
+        {
+         "key": 1,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là \"},{\"text\":\"một tính từ chỉ tính chất\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi nói về erosion, người nói chuyển đối tượng là ''In the 1970s and '80s, \"},{\"text\":\"Lal was studying soils in Africa so devoid of organic matter\",\"bold\":true},{\"text\":\" that the ground had become \"},{\"text\":\"extremely hard\",\"bold\":true},{\"text\":\"'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mặt đất ở châu Phi rất cứng vì chúng thiếu organic matter \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là hard \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 178,
+          "endTimeInSeconds": 203,
+          "transcripts": [
+           {
+            "id": "3/178537-203795",
+            "startTimeInSeconds": 178,
+            "endTimeInSeconds": 203,
+            "text": "In the 1970s and ‘80s, Lal was studying soils in Africa so devoid of organic matter that the ground had become extremely hard, like cement. There he met a pioneer in the study of global warming, who suggested that carbon from the soil had moved into the atmosphere. This is now looking increasingly likely. Let me explain."
+           }
+          ]
+         },
+         "value": "hard",
+         "blankId": "_vJ2wxOJu4Pb_SDPcs15k"
+        },
+        {
+         "key": 2,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là \"},{\"text\":\"một danh từ.\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Người nói bảo là ''Plants absorb CO2 from the air and \"},{\"text\":\"transform it into sugars and other carbon-based substance\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Người nói không trực tiếp đưa ra ví dụ cho carbon-based substance là sugar nhưng bạn để ý thấy có từ other (khác), tức sugar là một carbon-based substance rồi \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Sugar là một ví dụ cho carbon-based substance \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là sugar \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "4/204556-236871",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 236,
+            "text": "For millions of years, carbon dioxide levels in the atmosphere have been regulated, in part, by a natural partnership between plants and microbes – tiny organisms in the soil. Plants absorb CO2 from the air and transform it into sugars and other carbon-based substance. While a proportion of these carbon products remain in the plant, some transfer from the roots to fungi and soil microbes, which store the carbon in the soil."
+           }
+          ]
+         },
+         "value": "sugar/sugars",
+         "blankId": "TkAH94kOTvQs4c5gUDRHU"
+        },
+        {
+         "key": 3,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần xác định \"},{\"text\":\"một danh từ chỉ bộ phận nào đó của thực vật.\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" 'While a proportion of these carbon products remain in the plant, \"},{\"text\":\"some transfer from the roots to fungi and soil microbes\",\"bold\":true},{\"text\":\", which store the carbon in the soil.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Một lượng carbon sẽ bị giữ lại trong cây còn một phần sẽ bị chuyển từ rễ sang fungi và microbe\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là roots \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 204,
+          "endTimeInSeconds": 236,
+          "transcripts": [
+           {
+            "id": "4/204556-236871",
+            "startTimeInSeconds": 204,
+            "endTimeInSeconds": 236,
+            "text": "For millions of years, carbon dioxide levels in the atmosphere have been regulated, in part, by a natural partnership between plants and microbes – tiny organisms in the soil. Plants absorb CO2 from the air and transform it into sugars and other carbon-based substance. While a proportion of these carbon products remain in the plant, some transfer from the roots to fungi and soil microbes, which store the carbon in the soil."
+           }
+          ]
+         },
+         "value": "roots",
+         "blankId": "XjMPP1saMXJ0FFsuA_YqJ"
+        },
+        {
+         "key": 4,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này thuộc về phần regenerative agriculture \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"phần này tới sau\",\"bold\":true},{\"text\":\" ''Some growers have already started using an approach known as\"},{\"text\":\" regenerative agriculture\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"=>\"}]},{\"text\":\" Mình cần tìm \"},{\"text\":\"một tính từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\" => Bạn cũng có thể thấy từ ''to'' trong câu hỏi, tức mình đang cần nghe về mục đích của phương pháp này là gì. \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Ở ngay câu sau, bạn nghe thấy là ''This \"},{\"text\":\"aims to boost the fertility of soil and keep it moist\",\"bold\":true},{\"text\":\" through established practices.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mục đích của phương pháp này là làm tăng sự màu mỡ (fertile) của đất và giữ chúng ẩm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là moist \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 294,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "7/294574-326993",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 326,
+            "text": "Some growers have already started using an approach known as regenerative agriculture. This aims to boost the fertility of soil and keep it moist through established practices. These include keeping fields planted all year round, and increasing the variety of plants being grown. Strategies like these can significantly increase the amount of carbon stored in the soil, so agricultural researchers are now building a case for their use in combating climate change."
+           }
+          ]
+         },
+         "value": "moist/damp/wet",
+         "blankId": "zMwgJI4itJ6a2G-olekOY"
+        },
+        {
+         "key": 5,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" e.g có nghĩa là for example, tức mình đang tìm \"},{\"text\":\"ví dụ cho các phương pháp của regenerative agriculture\",\"bold\":true},{\"text\":\". \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình cần tìm \"},{\"text\":\"một danh từ \",\"bold\":true},{\"text\":\"(tăng cái gì) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" ''These include keeping fields planted all year round, and \"},{\"text\":\"increasing the variety of plants\",\"bold\":true},{\"text\":\" being grown.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Phương pháp đầu là ''keeping fields planted all year round'' (trồng cây quanh năm), đồng nghĩa với year-round planting ở đề bài, và phương pháp hai là ''increasing the variety of plants being grown'' (tăng sự đa dạng của cây trồng) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là variety \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 294,
+          "endTimeInSeconds": 326,
+          "transcripts": [
+           {
+            "id": "7/294574-326993",
+            "startTimeInSeconds": 294,
+            "endTimeInSeconds": 326,
+            "text": "Some growers have already started using an approach known as regenerative agriculture. This aims to boost the fertility of soil and keep it moist through established practices. These include keeping fields planted all year round, and increasing the variety of plants being grown. Strategies like these can significantly increase the amount of carbon stored in the soil, so agricultural researchers are now building a case for their use in combating climate change."
+           }
+          ]
+         },
+         "value": "variety",
+         "blankId": "iEqsjczyufp90_ZjqFBrQ"
+        },
+        {
+         "key": 6,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình cần xác định \"},{\"text\":\"một danh từ\",\"bold\":true},{\"text\":\" (nông trại về cái gì, trồng/nuôi cái gì) hoặc \"},{\"text\":\"một tính từ\",\"bold\":true},{\"text\":\" (nông trại như thế nào) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau khi giới thiệu về \"},{\"text\":\"California study\",\"bold\":true},{\"text\":\" ở câu đầu, người nói có cung cấp thông tin là ''Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind study \"},{\"text\":\"on a large cattle farm in the state\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Địa điểm nghiên cứu là một nông trại chăn nuôi gia súc (cattle farm) \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là cattle \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 332,
+          "endTimeInSeconds": 368,
+          "transcripts": [
+           {
+            "id": "8/332409-368765",
+            "startTimeInSeconds": 332,
+            "endTimeInSeconds": 368,
+            "text": "One American investigation into the potential for storing CO2 on agricultural lands is taking place in California. Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind study on a large cattle farm in the state. She and her students are testing the effects on carbon storage of the compost that is created from waste – both agricultural, including manure and cornstalks, and waste produced in gardens, such as leaves, branches, and lawn trimmings."
+           }
+          ]
+         },
+         "value": "cattle",
+         "blankId": "oLOOOwdZEk6IRbss40Bwz"
+        },
+        {
+         "key": 7,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Đáp án là \"},{\"text\":\"một danh từ.\",\"bold\":true},{\"text\":\" \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"đáp án sắp tới sau khi người nói nhắc tới compost\",\"bold\":true},{\"text\":\", ''She and her students are testing the effects on carbon storage of the compost'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, ''that is created from waste - both agricultural, including manure and cornstalks, and \"},{\"text\":\"waste produced in gardens\",\"bold\":true},{\"text\":\", such as leaves, branches, and lawn trimmings.'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Có hai loại waste, một là chất thải nông nghiệp (waste from agriculture) và hai là chất thải được tạo ra ở trong vườn \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> \"},{\"text\":\"Đáp án là gardens \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 332,
+          "endTimeInSeconds": 368,
+          "transcripts": [
+           {
+            "id": "8/332409-368765",
+            "startTimeInSeconds": 332,
+            "endTimeInSeconds": 368,
+            "text": "One American investigation into the potential for storing CO2 on agricultural lands is taking place in California. Soil scientist Whendee Silver of the University of California, Berkeley, is conducting a first-of-its-kind study on a large cattle farm in the state. She and her students are testing the effects on carbon storage of the compost that is created from waste – both agricultural, including manure and cornstalks, and waste produced in gardens, such as leaves, branches, and lawn trimmings."
+           }
+          ]
+         },
+         "value": "gardens/gardening",
+         "blankId": "0XLWW29HaEpNHVmZ_qx46"
+        },
+        {
+         "key": 8,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Câu này nằm ở nghiên cứu tại Úc \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Mình biết \"},{\"text\":\"phần này tới khi người nói nhắc tới Úc\",\"bold\":true},{\"text\":\", ''\"},{\"text\":\"In Australia\",\"bold\":true},{\"text\":\", soil ecologist Christine Jones …'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"=>\"}]},{\"text\":\" Mình cần tìm \"},{\"text\":\"một danh từ\",\"bold\":true}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Bạn cũng để ý là mình cần nghe về phương pháp để \"},{\"text\":\"tăng lượng carbon trong đất\",\"bold\":true},{\"text\":\" của nghiên cứu này\"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mình nghe là ''Jones and 12 farmers are working to\"},{\"text\":\" build up soil carbon by cultivating grasses that stay green all year round\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Để tăng lượng carbon trong đất (build up soil carbon), họ tận dụng cỏ mà xanh quanh năm \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là grasses \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 369,
+          "endTimeInSeconds": 400,
+          "transcripts": [
+           {
+            "id": "9/369976-400865",
+            "startTimeInSeconds": 369,
+            "endTimeInSeconds": 400,
+            "text": "In Australia, soil ecologist Christine Jones is testing another promising soil-enrichment strategy. Jones and 12 farmers are working to build up soil carbon by cultivating grasses that stay green all year round. Like composting, the approach has already been proved experimentally; Jones now hopes to show that it can be applied on working farms and that the resulting carbon capture can be accurately measured."
+           }
+          ]
+         },
+         "value": "grasses",
+         "blankId": "SB82uKue3LJLzypHmTpwc"
+        },
+        {
+         "key": 9,
+         "explanation": {
+          "type": "LISTENING_EXPLANATION",
+          "detailExplanation": "[{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Mục cuối cùng là các phát triển trong tương lai \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Phần này bắt đầu sau\",\"bold\":true},{\"text\":\" ''It's hoped \"},{\"text\":\"in the future\",\"bold\":true},{\"text\":\" that projects such as these …'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"smiley5\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Theo thứ tự, mình sẽ nghe đáp án sau việc giảm lượng phân bón \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Chính là câu ''For example, in countries like the United States, where most farming operations \"},{\"text\":\"use large applications of fertiliser\",\"bold\":true},{\"text\":\", ...'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"\"},{\"type\":\"ICON\",\"iconKey\":\"check\",\"children\":[{\"text\":\"\"}]},{\"text\":\" Sau đó, người nói chỉ ra là ''Rattan Lal argues that farmers \"},{\"text\":\"should receive payment not just for the corn or beef they produce, but also for the carbon they can store in their soil\",\"bold\":true},{\"text\":\".'' \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=> Nông dân nên nhận được một khoản tiền không chỉ cho nông phẩm họ sản xuất, mà còn cho lượng carbon họ trữ được trong đất \"}]},{\"type\":\"p\",\"children\":[{\"text\":\"=>\"},{\"text\":\" Đáp án là payment \",\"bold\":true},{\"type\":\"ICON\",\"iconKey\":\"smiley18\",\"children\":[{\"text\":\"\"}]},{\"text\":\"\"}]}]",
+          "hasSentenceCount": false,
+          "startTimeInSeconds": 402,
+          "endTimeInSeconds": 440,
+          "transcripts": [
+           {
+            "id": "10/402242-440200",
+            "startTimeInSeconds": 402,
+            "endTimeInSeconds": 440,
+            "text": "It’s hoped in the future that projects such as these will demonstrate the role that farmers and other land managers can play in reducing the harmful effects of greenhouse gases. For example, in countries like the United States, where most farming operations use large applications of fertiliser, changing such long-standing habits will require a change of system. Rattan Lal argues that farmers should receive payment not just for the corn or beef they produce but also for the carbon they can store in their soil. Another study being carried out …"
+           }
+          ]
+         },
+         "value": "payment/payments/money",
+         "blankId": "XDnPdHwGcTygXWcMeXlfZ"
+        }
+       ],
+       "heading": "The use of soil to reduce carbon dioxide (CO2) in the atmosphere",
+       "paragraph": {
+        "id": "Dn1Ac6WgnEWc6VS2CWF8F",
+        "editorValue": "[{\"type\":\"p\",\"id\":\"Jgy5tSb9Riqyxh1WjMGtN\",\"children\":[{\"text\":\"\"}]},{\"children\":[{\"text\":\"Rattan Lal:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Claims that 13% of CO2 in the atmosphere could be absorbed by agricultural soils\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Erosion is more likely in soil that is \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(31) \"}],\"id\":\"ns243J5amMyQ3aL-UNdV0\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Lai found soil in Africa that was very \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(32) \"}],\"id\":\"_vJ2wxOJu4Pb_SDPcs15k\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"It was suggested that carbon from soil was entering the atmosphere\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Soil and Carbon:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Plants turn CO2 from the air into carbon based substance such as\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (33) \"}],\"id\":\"TkAH94kOTvQs4c5gUDRHU\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Some CO2 moves from the \"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\"(34)  \"}],\"id\":\"XjMPP1saMXJ0FFsuA_YqJ\"},{\"text\":\" of plants to microbes in soil\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Carbon was lost from the soil when agriculture was invented\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Regenerative agriculture:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Uses established practices to make sure soil remains fertile and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (35) \"}],\"id\":\"zMwgJI4itJ6a2G-olekOY\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"E.g. through year-round planting and increasing the\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (36)  \"}],\"id\":\"iEqsjczyufp90_ZjqFBrQ\"},{\"text\":\" of plants that are grown\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"California study:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Taking place on a big\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (37)\"}],\"id\":\"oLOOOwdZEk6IRbss40Bwz\"},{\"text\":\" farm\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Uses compost made from waste from agriculture and\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (38) \"}],\"id\":\"0XLWW29HaEpNHVmZ_qx46\"},{\"text\":\"\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Australia study:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Aims to increase soil carbon by using\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (39) \"}],\"id\":\"SB82uKue3LJLzypHmTpwc\"},{\"text\":\" that are always green\"}],\"type\":\"p\"}]}]},{\"children\":[{\"text\":\"Future developments may include:\",\"bold\":true}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Reducing the amount of fertilizer used in farming\"}],\"type\":\"p\"}]}]},{\"type\":\"ul\",\"children\":[{\"type\":\"li\",\"children\":[{\"children\":[{\"text\":\"Giving farmers\"},{\"type\":\"blank\",\"isVoid\":true,\"children\":[{\"text\":\" (40)  \"}],\"id\":\"XDnPdHwGcTygXWcMeXlfZ\"},{\"text\":\" for carbon storage, as well as their produce\"}],\"type\":\"p\"}]}]}]",
+        "blanks": [
+         {
+          "id": "ns243J5amMyQ3aL-UNdV0",
+          "key": 0
+         },
+         {
+          "id": "_vJ2wxOJu4Pb_SDPcs15k",
+          "key": 1
+         },
+         {
+          "id": "TkAH94kOTvQs4c5gUDRHU",
+          "key": 2
+         },
+         {
+          "id": "XjMPP1saMXJ0FFsuA_YqJ",
+          "key": 3
+         },
+         {
+          "id": "zMwgJI4itJ6a2G-olekOY",
+          "key": 4
+         },
+         {
+          "id": "iEqsjczyufp90_ZjqFBrQ",
+          "key": 5
+         },
+         {
+          "id": "oLOOOwdZEk6IRbss40Bwz",
+          "key": 6
+         },
+         {
+          "id": "0XLWW29HaEpNHVmZ_qx46",
+          "key": 7
+         },
+         {
+          "id": "SB82uKue3LJLzypHmTpwc",
+          "key": 8
+         },
+         {
+          "id": "XDnPdHwGcTygXWcMeXlfZ",
+          "key": 9
+         }
+        ]
+       }
+      }
+     ],
+     "questionType": "NOTE_COMPLETION_NO_HINT",
+     "displayedQuestionType": "Form Completion",
+     "guideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Complete the notes below. "
+         }
+        ],
+        "type": "paragraph"
+       },
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ]
+     },
+     "compactGuideline": {
+      "content": [
+       {
+        "children": [
+         {
+          "text": "Write "
+         },
+         {
+          "text": "ONE WORD ONLY",
+          "bold": true
+         },
+         {
+          "text": "."
+         }
+        ],
+        "type": "paragraph"
+       }
+      ],
+      "enable": true
+     },
+     "totalQuestion": 10
+    }
+   ],
+   "id": "s4",
+   "level": 1
+  }
+ ],
+ "fetchedAt": "2026-08-06T20:35:24Z",
+ "topicNumber": 0,
+ "words": [],
+ "type": "lesson"
+}
