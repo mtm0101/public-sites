@@ -230,7 +230,14 @@
   .lesson-content .en.ex + .sentence-ipa,.lesson-content .en.exline + .sentence-ipa{margin-left:9px;max-width:calc(100% - 9px);box-sizing:border-box;}
   #view .en.flagged{border-left-color:var(--flag); background:color-mix(in srgb, var(--flag) 12%, transparent);}
   .bbc-header h2.en,.sechead h2 .en{border-left:none; padding-left:0;}
-  body{touch-action:manipulation;}   /* word dictionary works everywhere; stop double-tap zoom */
+  body{touch-action:pan-x pan-y pinch-zoom;}
+  /* Coarse pointers must always retain native page panning, including after a
+     long press on text and when a gesture begins inside a nested scroller. */
+  @media (max-width:760px), (pointer:coarse){
+    html,body,.wrap,#view,#view *{touch-action:pan-x pan-y pinch-zoom;}
+    #view *{overscroll-behavior-y:auto;}
+    :is(.rtest-passage,.rtest-questions,.ltest-body,.ltest-paper,.reading-passage,.dol-reading-content,.listen-transcript,.ltest-live-transcript,.dictionary-selectable){-webkit-overflow-scrolling:touch;}
+  }
   .sbtn.pin{opacity:.22;}
   .sbtn.pin.on{opacity:1;}
   .sbtn.bkm{opacity:.22; font-size:.9rem;}
@@ -4057,7 +4064,7 @@ document.addEventListener('pointerdown',ev=>{
   if(ev.pointerType==='touch'&&dismissOpenWordPopOutside(ev.target)){
     readerTouchBlankStart=null; readerDismissTouchId=ev.pointerId; readerDismissClickOnce=true;
     setTimeout(()=>{ readerDismissClickOnce=false; },800);
-    ev.preventDefault(); ev.stopPropagation(); return;
+    return;
   }
   if(ev.pointerType!=='touch'||!readerBlankNavTarget(ev.target,ev.clientX,ev.clientY)){
     readerTouchBlankStart=null; return;
@@ -4067,7 +4074,7 @@ document.addEventListener('pointerdown',ev=>{
 document.addEventListener('pointerup',ev=>{
   if(readerDismissTouchId===ev.pointerId){
     readerDismissTouchId=null; readerTouchBlankStart=null;
-    ev.preventDefault(); ev.stopPropagation(); return;
+    return;
   }
   const start=readerTouchBlankStart; readerTouchBlankStart=null;
   if(!start||ev.pointerType!=='touch'||!readerBlankNavTarget(ev.target,ev.clientX,ev.clientY)) return;
