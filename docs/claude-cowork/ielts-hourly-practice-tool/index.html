@@ -272,6 +272,13 @@
   html[data-theme="dark"] .dictionary-embed-frame{color-scheme:dark;background:#10161d;border-color:#343c48;}
   #wordpop .dictionary-embed-frame{height:min(44vh,380px);}
   #wordpop .dictionary-embed{margin-top:9px;}
+  @media (max-width:760px), (pointer:coarse){
+    #wordpop{position:fixed!important;top:max(6px,env(safe-area-inset-top))!important;right:6px!important;bottom:max(6px,env(safe-area-inset-bottom))!important;left:6px!important;width:auto!important;max-width:none!important;height:auto!important;max-height:none!important;box-sizing:border-box;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y pinch-zoom;scrollbar-gutter:stable;padding-bottom:calc(14px + env(safe-area-inset-bottom));}
+    #wordpop .dictionary-embed{overflow:visible;}
+    #wordpop .dictionary-embed-body{min-width:0;}
+    #wordpop .dictionary-selectable{max-height:none;overflow:visible;overscroll-behavior:auto;}
+    #wordpop .dictionary-embed-frame{height:max(65dvh,520px);max-height:none;}
+  }
   .lesson-content .en.defline{color:var(--def);}
   .lesson-content .en.exline{color:var(--ex);}
 
@@ -4903,9 +4910,11 @@ async function dictionaryEmbedStudy(button,action){
 }
 function positionWordPop(pop,cx,cy){
   pop.style.display='block';
+  if(matchMedia('(max-width:760px), (pointer:coarse)').matches)return;
   const width=Math.min(pop.offsetWidth||520,document.documentElement.clientWidth-12),left=Math.max(6,Math.min(cx-40,document.documentElement.clientWidth-width-6));
+  const maxHeight=Math.min(innerHeight*.84,760),top=Math.max(6,Math.min(cy+18,innerHeight-maxHeight-6));
   pop.style.left=(window.scrollX+left)+'px';
-  pop.style.top=(window.scrollY+Math.max(6,cy+18))+'px';
+  pop.style.top=(window.scrollY+top)+'px';
 }
 let WORD_POP_EXAMPLE_SEQ=0;
 function showWordPop(word,accent,cx,cy){
