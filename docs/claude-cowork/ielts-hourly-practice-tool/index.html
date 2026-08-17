@@ -261,14 +261,16 @@
   .dictionary-context>summary::-webkit-details-marker{display:none;}
   .dictionary-context-body{padding:0 10px 10px;}
   .dictionary-context-links{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:9px;}
+  .dictionary-inline-site{margin:9px 0;padding:10px;border:1px solid var(--border);border-radius:8px;background:var(--panel);}
+  .dictionary-inline-site iframe{display:block;width:100%;height:min(62vh,620px);min-height:320px;margin-top:8px;border:1px solid var(--border);border-radius:8px;background:#fff;}
   .dictionary-context-source{margin:9px 0;padding:10px;border:1px solid var(--border);border-radius:8px;background:var(--panel);}
   .dictionary-context-source h4{margin:0 0 7px;}
   .dictionary-context-row{padding:8px 0;border-bottom:1px dashed var(--border);}
   .dictionary-context-row:last-child{border-bottom:0;}
   .dictionary-context-row .en{margin:0;}
   .dictionary-context-row .vi{margin:4px 0 0;color:var(--vn);font-style:italic;}
-  .dictionary-youglish-host{min-height:240px;max-width:100%;overflow:hidden;}
-  .dictionary-youglish-host iframe{display:block;max-width:100%;min-width:200px;min-height:240px;border:0;}
+  .dictionary-youglish-host{min-height:240px;max-width:100%;overflow:hidden;position:relative;}
+  .dictionary-youglish-host iframe{display:block;width:100%!important;max-width:100%;min-width:200px;min-height:240px;border:0;}
   .dictionary-youglish-policy{margin:8px 0 0;font-size:.72rem;color:var(--muted);}
   .dictionary-youglish-policy a{color:var(--accent);}
   .dictionary-selectable{max-height:min(60vh,620px);overflow:auto;overscroll-behavior:contain;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--panel);color:var(--ink);user-select:text;-webkit-user-select:text;}
@@ -4000,7 +4002,7 @@ let readerDismissTouchId=null, readerDismissClickOnce=false;
 function readerBlankNavReset(){ clearTimeout(readerBlankClickTimer); readerBlankClickTimer=null; }
 function dismissOpenWordPopOutside(target){
   const pop=document.getElementById('wordpop');
-  if(!pop||pop.style.display!=='block'||(target instanceof Element&&target.closest('#wordpop'))) return false;
+  if(!pop||pop.style.display!=='block'||pop.dataset.youglishLoading==='1'||(target instanceof Element&&target.closest('#wordpop'))) return false;
   pop.style.display='none'; readerBlankNavReset();
   return true;
 }
@@ -4860,25 +4862,24 @@ function wordPopSourceMeta(pop){
 function dictionaryProviderUrl(provider,query){
   query=String(query||'').trim();
   if(provider==='free-dictionary')return'https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(query.toLowerCase());
-  if(provider==='free-dictionary-api')return'https://freedictionaryapi.com/api/v1/entries/en/'+encodeURIComponent(query.toLowerCase());
   if(provider==='datamuse')return'https://api.datamuse.com/words?sp='+encodeURIComponent(query.toLowerCase())+'&md=dpr&ipa=1&max=10';
   if(provider==='wiktionary')return'https://en.wiktionary.org/wiki/'+encodeURIComponent(query.replace(/\s+/g,'_'));
   return'';
 }
 function dictionaryProviderLabel(provider){
-  return provider==='free-dictionary'?'Free Dictionary':provider==='free-dictionary-api'?'FreeDictionaryAPI':provider==='datamuse'?'Datamuse':'Wiktionary';
+  return provider==='free-dictionary'?'Free Dictionary':provider==='datamuse'?'Datamuse':'Wiktionary';
 }
 function dictionaryEmbedHTML(query,compact=false){
   if(!String(query||'').trim())return'';
-  const url=dictionaryProviderUrl('wiktionary',query);
-  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary')">Free Dictionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary-api')">FreeDictionaryAPI</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'datamuse')">Datamuse</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a><span class="dictionary-provider-status"></span></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>${dictionaryContextHTML(query)}`;
+  const url=dictionaryProviderUrl('free-dictionary',query);
+  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="free-dictionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><button type="button" class="btn small primary" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary')">Free Dictionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'datamuse')">Datamuse</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a><span class="dictionary-provider-status"></span></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-api-state="loading"><p class="note">Loading Free Dictionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>${dictionaryContextHTML(query)}`;
 }
 function dictionaryEmbedToggle(details){
-  if(details&&details.open&&details.dataset.dictionaryProvider==='wiktionary')dictionaryHydrateEmbeds(details);
+  if(details&&details.open)dictionaryHydrateEmbeds(details);
 }
 function dictionaryContextHTML(query){
   const encoded=encodeURIComponent(String(query||'').trim()),slug=encodeURIComponent(String(query||'').trim().toLowerCase().replace(/\s+/g,'-'));
-  return `<details class="dictionary-context" data-context-query="${esc(query)}" ontoggle="dictionaryContextToggle(this)"><summary>🎧 Examples &amp; pronunciation</summary><div class="dictionary-context-body"><div class="dictionary-context-links"><a class="btn small" target="_blank" rel="noopener" href="https://ozdic.com/word/${slug}">OZDIC collocations ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://www.ldoceonline.com/dictionary/${slug}">LDOCE ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://ludwig.guru/s/${encoded}">Ludwig context ↗</a></div><section class="dictionary-context-source"><h4>Tatoeba context examples</h4><div class="dictionary-tatoeba-slot"><p class="note">Open this section to load real example sentences.</p></div></section><section class="dictionary-context-source dictionary-youglish-source"><h4>Real-world pronunciation videos</h4><button type="button" class="btn small primary" onclick="dictionaryLoadYouglish(this)">▶ Load YouGlish</button><div class="dictionary-youglish-host"></div><p class="dictionary-youglish-policy"><a href="https://youglish.com" target="_blank" rel="noopener">Powered by YouGlish.com</a> · <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy</a>. Loading the player may store or access cookies.</p></section></div></details>`;
+  return `<details open class="dictionary-context" data-context-query="${esc(query)}" ontoggle="dictionaryContextToggle(this)"><summary>🎧 Examples &amp; pronunciation</summary><div class="dictionary-context-body"><div class="dictionary-context-links"><button type="button" class="btn small" onpointerdown="event.stopPropagation()" onclick="event.stopPropagation();dictionaryLoadOzdic(this)">Load OZDIC here</button><a class="btn small" target="_blank" rel="noopener" href="https://ozdic.com/word/${slug}">OZDIC ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://www.ldoceonline.com/dictionary/${slug}">LDOCE ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://ludwig.guru/s/${encoded}">Ludwig ↗</a></div><div class="dictionary-ozdic-slot"></div><section class="dictionary-context-source"><h4>Tatoeba context examples</h4><div class="dictionary-tatoeba-slot"><p class="note">Loading real example sentences…</p></div></section><section class="dictionary-context-source dictionary-youglish-source"><h4>Real-world pronunciation videos</h4><button type="button" class="btn small primary" onpointerdown="event.stopPropagation()" onclick="event.stopPropagation();dictionaryLoadYouglish(this)">▶ Load YouGlish</button><div class="dictionary-youglish-host"></div><p class="dictionary-youglish-policy"><a href="https://youglish.com" target="_blank" rel="noopener">Powered by YouGlish.com</a> · <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy</a>. Loading the player may store or access cookies.</p></section></div></details>`;
 }
 function dictionaryContextToggle(details){
   if(details&&details.open&&details.dataset.tatoebaLoaded!=='1')dictionaryLoadTatoeba(details);
@@ -4894,17 +4895,22 @@ async function dictionaryLoadTatoeba(details){
     for(const el of target.querySelectorAll('.vi-lazy-loading[data-context-en]'))translateVi(el.dataset.contextEn||'').then(vi=>{if(el.isConnected){el.textContent=vi||'Chưa có bản dịch tiếng Việt.';el.classList.remove('vi-lazy-loading');}});
   }catch(e){if(target.isConnected){target.innerHTML='<p class="note">Tatoeba examples are temporarily unavailable.</p>';details.dataset.tatoebaLoaded='0';}}
 }
+function dictionaryLoadOzdic(button){
+  const details=button&&button.closest('.dictionary-context'),slot=details&&details.querySelector('.dictionary-ozdic-slot'),query=details&&details.dataset.contextQuery||'';if(!slot||slot.dataset.loaded==='1')return;
+  const slug=encodeURIComponent(String(query).trim().toLowerCase().replace(/\s+/g,'-'));slot.dataset.loaded='1';slot.className='dictionary-ozdic-slot dictionary-inline-site';slot.innerHTML=`<strong>OZDIC collocations</strong><iframe loading="lazy" title="OZDIC collocations for ${esc(query)}" referrerpolicy="strict-origin-when-cross-origin" src="https://ozdic.com/word/${slug}"></iframe>`;button.remove();
+}
 let YOUGLISH_LOAD_PROMISE=null,YOUGLISH_WIDGET_SEQ=0;
 function dictionaryLoadYouglishApi(){
   if(window.YG&&window.YG.Widget)return Promise.resolve(window.YG);
   if(YOUGLISH_LOAD_PROMISE)return YOUGLISH_LOAD_PROMISE;
-  YOUGLISH_LOAD_PROMISE=new Promise((resolve,reject)=>{const previous=window.onYouglishAPIReady,script=document.createElement('script');window.onYouglishAPIReady=function(){try{if(typeof previous==='function')previous();}catch(e){}resolve(window.YG);};script.async=true;script.src='https://youglish.com/public/emb/widget.js';script.charset='utf-8';script.onerror=()=>{YOUGLISH_LOAD_PROMISE=null;reject(new Error('YouGlish unavailable'));};document.head.appendChild(script);});
+  YOUGLISH_LOAD_PROMISE=new Promise((resolve,reject)=>{const previous=window.onYouglishAPIReady,started=Date.now(),finish=()=>{if(window.YG&&window.YG.Widget){clearInterval(poll);resolve(window.YG);return true;}return false;},poll=setInterval(()=>{if(finish())return;if(Date.now()-started>15000){clearInterval(poll);YOUGLISH_LOAD_PROMISE=null;reject(new Error('YouGlish timed out'));}},100);window.onYouglishAPIReady=function(){try{if(typeof previous==='function')previous();}catch(e){}finish();};let script=document.querySelector('script[src="https://youglish.com/public/emb/widget.js"]');if(!script){script=document.createElement('script');script.async=true;script.src='https://youglish.com/public/emb/widget.js';script.charset='utf-8';script.onerror=()=>{clearInterval(poll);YOUGLISH_LOAD_PROMISE=null;reject(new Error('YouGlish unavailable'));};document.head.appendChild(script);}else finish();});
   return YOUGLISH_LOAD_PROMISE;
 }
 async function dictionaryLoadYouglish(button){
   const details=button&&button.closest('.dictionary-context'),host=details&&details.querySelector('.dictionary-youglish-host'),query=details&&details.dataset.contextQuery||'';if(!host||host.dataset.loaded==='1')return;
-  button.disabled=true;button.textContent='Loading YouGlish…';host.id='dictionary-youglish-'+(++YOUGLISH_WIDGET_SEQ);
-  try{const YG=await dictionaryLoadYouglishApi();if(!button.isConnected||!host.isConnected)return;const widget=new YG.Widget(host.id,{components:1951,autoStart:0,restrictionMode:1,videoQuality:'small',captionSize:24});host.dataset.loaded='1';host._youglishWidget=widget;widget.fetch(query,'english');button.remove();}catch(e){if(button.isConnected){button.disabled=false;button.textContent='Retry YouGlish';host.innerHTML='<p class="note">YouGlish could not be loaded.</p>';}}
+  const popup=button.closest('#wordpop'),widgetId='dictionary-youglish-'+(++YOUGLISH_WIDGET_SEQ);if(popup)popup.dataset.youglishLoading='1';
+  button.disabled=true;button.textContent='Loading YouGlish…';host.innerHTML=`<p class="note dictionary-youglish-status">Connecting to YouGlish…</p><div id="${widgetId}"></div>`;
+  try{const YG=await dictionaryLoadYouglishApi();if(!button.isConnected||!host.isConnected)return;const status=host.querySelector('.dictionary-youglish-status'),widget=new YG.Widget(widgetId,{components:31,autoStart:0,restrictionMode:1,videoQuality:'small',captionSize:24,width:Math.max(200,Math.min(640,host.clientWidth||640)),events:{onFetchDone:event=>{if(status&&status.isConnected)status.textContent=(+event.totalResult||0)+' YouGlish video examples found.';},onError:()=>{if(status&&status.isConnected)status.textContent='The YouGlish player reported an error. Please retry or open YouGlish.com.';}}});host.dataset.loaded='1';host._youglishWidget=widget;widget.fetch(query,'english');button.remove();}catch(e){if(button.isConnected){button.disabled=false;button.textContent='Retry YouGlish';host.innerHTML='<p class="note">YouGlish could not be loaded. Please retry or open YouGlish.com.</p>';}}finally{if(popup&&popup.isConnected)delete popup.dataset.youglishLoading;}
 }
 function dictionaryEmbedProvider(source,provider){
   const details=source&&source.closest&&source.closest('.dictionary-embed');if(!details)return;
@@ -4947,16 +4953,6 @@ function dictionaryFreeDictionaryHTML(payload){
     return `<article class="dictionary-api-entry"><h3>${esc(entry.word||'')}</h3>${phonetics?`<p>${phonetics}</p>`:''}${audio}${entry.origin?`<p><strong>Origin:</strong> ${esc(entry.origin)}</p>`:''}${meanings}</article>`;
   }).join('');
 }
-function dictionaryFreeDictionaryApiHTML(payload){
-  const senseHTML=senses=>(senses||[]).map(sense=>`<li>${esc(sense.definition||'')}${(sense.examples||[]).map(example=>`<div class="dictionary-line"><strong>Example:</strong> ${esc(example)}</div>`).join('')}${(sense.synonyms||[]).length?`<div class="note">Synonyms: ${esc(sense.synonyms.join(', '))}</div>`:''}${(sense.antonyms||[]).length?`<div class="note">Antonyms: ${esc(sense.antonyms.join(', '))}</div>`:''}${(sense.subsenses||[]).length?`<ol>${senseHTML(sense.subsenses)}</ol>`:''}</li>`).join('');
-  const entries=payload&&Array.isArray(payload.entries)?payload.entries:[];
-  return entries.map(entry=>{
-    const pronunciations=(entry.pronunciations||[]).filter(p=>p.text).map(p=>`${esc(p.text)}${(p.tags||[]).length?` <span class="note">${esc(p.tags.join(', '))}</span>`:''}`).join(' · ');
-    const audio=(entry.pronunciations||[]).filter(p=>p.audio).map((p,i)=>dictionaryApiAudioHTML(p.audio,'Audio '+(i+1))).join('');
-    const forms=(entry.forms||[]).map(form=>form.word).filter(Boolean);
-    return `<article class="dictionary-api-entry"><h3>${esc(payload.word||'')} <span class="note">${esc(entry.partOfSpeech||'')}</span></h3>${pronunciations?`<p class="wip">${pronunciations}</p>`:''}${audio}${forms.length?`<p><strong>Forms:</strong> ${esc(forms.join(', '))}</p>`:''}<ol>${senseHTML(entry.senses)}</ol></article>`;
-  }).join('');
-}
 function dictionaryDatamuseHTML(payload,query){
   const all=Array.isArray(payload&&payload.entries)?payload.entries:[],exact=all.filter(row=>String(row.word||'').toLowerCase()===String(query||'').toLowerCase()),rows=(exact.length?exact:all).slice(0,5);
   const entries=rows.map(row=>{
@@ -4974,7 +4970,7 @@ async function dictionaryLoadApiProvider(details,provider){
       const base='https://api.datamuse.com/words?',requests=[dictionaryProviderUrl(provider,query),base+'rel_syn='+encodeURIComponent(query)+'&max=16',base+'rel_ant='+encodeURIComponent(query)+'&max=16',base+'ml='+encodeURIComponent(query)+'&max=16'];
       const responses=await Promise.all(requests.map(url=>fetchWithTimeout(url,{},12000)));if(responses.some(response=>!response.ok))throw new Error();const data=await Promise.all(responses.map(response=>response.json()));payload={entries:data[0],synonyms:data[1],antonyms:data[2],related:data[3]};
     }else{const response=await fetchWithTimeout(dictionaryProviderUrl(provider,query),{},12000);if(!response.ok)throw new Error();payload=await response.json();}
-    const html=provider==='free-dictionary'?dictionaryFreeDictionaryHTML(payload):provider==='free-dictionary-api'?dictionaryFreeDictionaryApiHTML(payload):dictionaryDatamuseHTML(payload,query);
+    const html=provider==='free-dictionary'?dictionaryFreeDictionaryHTML(payload):dictionaryDatamuseHTML(payload,query);
     if(!target.isConnected||details.dataset.dictionaryProvider!==provider)return;target.innerHTML=html||`<p class="note">No ${esc(dictionaryProviderLabel(provider))} entry was found.</p>`;target.dataset.apiState='ready';if(status)status.textContent='';
   }catch(e){if(target.isConnected&&details.dataset.dictionaryProvider===provider){target.innerHTML=`<p class="note">${esc(dictionaryProviderLabel(provider))} is temporarily unavailable. Choose another provider or use “Open ↗”.</p>`;target.dataset.apiState='error';if(status)status.textContent='';}}
 }
@@ -4991,7 +4987,12 @@ async function dictionaryLoadSelectableWiktionary(details){
 }
 function dictionaryHydrateEmbeds(root=document){
   const detailsList=root.matches?.('.dictionary-embed')?[root]:[...root.querySelectorAll('.dictionary-embed')];
-  detailsList.filter(details=>details.open&&details.dataset.dictionaryProvider==='wiktionary').forEach(dictionaryLoadSelectableWiktionary);
+  detailsList.filter(details=>details.open).forEach(details=>{
+    if(details.dataset.dictionaryProvider==='wiktionary')dictionaryLoadSelectableWiktionary(details);
+    else if(details.querySelector('.dictionary-selectable[data-api-state="loading"]'))dictionaryLoadApiProvider(details,details.dataset.dictionaryProvider);
+  });
+  const contexts=root.matches?.('.dictionary-context')?[root]:[...root.querySelectorAll('.dictionary-context')];
+  contexts.filter(details=>details.open&&details.dataset.tatoebaLoaded!=='1').forEach(dictionaryLoadTatoeba);
 }
 function positionWordPop(pop,cx,cy){
   pop.style.display='block';
@@ -5028,6 +5029,8 @@ function showWordPop(word,accent,cx,cy){
       ${soundBtnsHtml(wq)}
       <a class="btn small" style="text-decoration:none" target="_blank" rel="noopener"
         href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(word.toLowerCase())}">Oxford ↗</a>
+      <a class="btn small" style="text-decoration:none" target="_blank" rel="noopener"
+        href="https://dictionary.cambridge.org/dictionary/english/${encodeURIComponent(word.toLowerCase().replace(/\s+/g,'-'))}">Cambridge Advanced ↗</a>
       <button class="btn small" onclick="wordPopSaveWord(this)">⭐ Word</button>
       <button class="btn small" onclick="wordPopSaveSentence(this)">📌 Sentence</button>
       <button class="btn small" onclick="this.closest('#wordpop').style.display='none'">✕</button>
@@ -5093,6 +5096,7 @@ function showSelectionDictionaryPopup(text,accent,cx,cy){
     <div style="display:flex;gap:6px;margin-top:6px;align-items:center;flex-wrap:wrap">
       ${dualSoundBtnsHtml('soundbtn',acc=>`playSelectedText('${encoded}','${acc}')`,{type:'button',title:'Listen ACC'})}
       <a class="btn small" style="text-decoration:none" target="_blank" rel="noopener" href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encoded}">Oxford ↗</a>
+      <a class="btn small" style="text-decoration:none" target="_blank" rel="noopener" href="https://dictionary.cambridge.org/dictionary/english/${encodeURIComponent(text.toLowerCase().replace(/\s+/g,'-'))}">Cambridge Advanced ↗</a>
       <button class="btn small" onclick="wordPopSaveWord(this)">⭐ Word</button>
       <button class="btn small" onclick="wordPopSaveSentence(this)">📌 Sentence</button>
       <button class="btn small" onclick="this.closest('#wordpop').style.display='none'">✕</button>
@@ -5164,7 +5168,7 @@ document.addEventListener('click',ev=>{
   // Do not let this same bubbling click immediately close the new popup.
   if(ev.target.closest('#selpop')) return;
   const insideWordPop=ev.target.closest('#wordpop');
-  if(!insideWordPop) $('#wordpop').style.display='none';
+  if(!insideWordPop&&$('#wordpop').dataset.youglishLoading!=='1') $('#wordpop').style.display='none';
   if(!eligibleWordTarget(ev.target)) return;
   if(window.getSelection().toString()) return;          // user is selecting text
   if(lastPointerType==='touch'){                        // mobile: double-tap = primary, triple-tap = alternate
@@ -10481,7 +10485,7 @@ function dictionaryResultHTML(){
   if(!q)return'<div class="empty dictionary-result">Enter a word, phrase, sentence, or paraphrase above.</div>';
   const kind=DICTIONARY_PAGE.kind||'sentence',saved=dictionarySavedRecord(kind,q),conf=(saved&&saved.confidence)||0;
   const mainExamples=kind==='word'?dictionaryMainExamples(q,DICTIONARY_PAGE.entries||[]):[];
-  const actions=`<div class="dictionary-head-actions">${dualSoundBtnsHtml('soundbtn',acc=>`dictionaryPlayMain('${acc}')`,{type:'button',title:'Listen ACC'})}<a class="btn small" href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">Oxford ↗</a><button class="btn small" onclick="dictionarySaveMain('word')">⭐ Add to Words</button><button class="btn small" onclick="dictionarySaveMain('sentence')">📌 Add to Sentences</button></div>`;
+  const actions=`<div class="dictionary-head-actions">${dualSoundBtnsHtml('soundbtn',acc=>`dictionaryPlayMain('${acc}')`,{type:'button',title:'Listen ACC'})}<a class="btn small" href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">Oxford ↗</a><a class="btn small" href="https://dictionary.cambridge.org/dictionary/english/${encodeURIComponent(q.toLowerCase().replace(/\s+/g,'-'))}" target="_blank" rel="noopener">Cambridge Advanced ↗</a><button class="btn small" onclick="dictionarySaveMain('word')">⭐ Add to Words</button><button class="btn small" onclick="dictionarySaveMain('sentence')">📌 Add to Sentences</button></div>`;
   return `<div class="dictionary-result"><section class="panel"><div class="sechead"><h2>${kind==='word'?'📘':'📝'} ${esc(q)}</h2>${actions}</div>${dictionaryLineHTML(q,'dictionary-main')}${mainExamples.length?`<div class="dictionary-main-examples"><h3>Main vocabulary example</h3>${mainExamples.map(ex=>dictionaryLineHTML(ex,'dictionary-example',q)).join('')}</div>`:''}<div class="wordpop-conf"><span>Confidence for main ${kind}</span>${confBtnsHTML(conf,'dictionarySetMainConfidence(LVL)')}</div><p class="note">Oxford pronunciation/audio is attempted first. Structured definitions and examples use the public dictionary fallback when Oxford page HTML is unavailable to this static app.</p></section>${DICTIONARY_PAGE.fetching?'<p class="note">Loading structured meanings in the background…</p>':''}${DICTIONARY_PAGE.error?`<p class="note">${esc(DICTIONARY_PAGE.error)}</p>`:''}${(DICTIONARY_PAGE.entries||[]).map(dictionaryEntryHTML).join('')}${dictionaryEmbedHTML(q)}</div>`;
 }
 function renderDictionary(routeQuery){
