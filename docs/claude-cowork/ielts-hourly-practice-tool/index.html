@@ -256,6 +256,21 @@
   .dictionary-embed-body{padding:0 10px 10px;}
   .dictionary-provider-actions{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:8px;}
   .dictionary-provider-status{margin-left:auto;color:var(--muted);font-size:.78rem;}
+  .dictionary-context{margin-top:10px;border:1px solid var(--border);border-radius:10px;background:var(--card);overflow:hidden;}
+  .dictionary-context>summary{cursor:pointer;padding:9px 11px;color:var(--accent);font-weight:700;list-style:none;}
+  .dictionary-context>summary::-webkit-details-marker{display:none;}
+  .dictionary-context-body{padding:0 10px 10px;}
+  .dictionary-context-links{display:flex;gap:6px;flex-wrap:wrap;margin-bottom:9px;}
+  .dictionary-context-source{margin:9px 0;padding:10px;border:1px solid var(--border);border-radius:8px;background:var(--panel);}
+  .dictionary-context-source h4{margin:0 0 7px;}
+  .dictionary-context-row{padding:8px 0;border-bottom:1px dashed var(--border);}
+  .dictionary-context-row:last-child{border-bottom:0;}
+  .dictionary-context-row .en{margin:0;}
+  .dictionary-context-row .vi{margin:4px 0 0;color:var(--vn);font-style:italic;}
+  .dictionary-youglish-host{min-height:240px;max-width:100%;overflow:hidden;}
+  .dictionary-youglish-host iframe{display:block;max-width:100%;min-width:200px;min-height:240px;border:0;}
+  .dictionary-youglish-policy{margin:8px 0 0;font-size:.72rem;color:var(--muted);}
+  .dictionary-youglish-policy a{color:var(--accent);}
   .dictionary-selectable{max-height:min(60vh,620px);overflow:auto;overscroll-behavior:contain;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--panel);color:var(--ink);user-select:text;-webkit-user-select:text;}
   .dictionary-selectable :is(p,li,dd,dt,th,td){user-select:text;-webkit-user-select:text;}
   .dictionary-selectable img{max-width:100%;height:auto;}
@@ -272,6 +287,9 @@
     #wordpop .dictionary-embed{overflow:visible;}
     #wordpop .dictionary-embed-body{min-width:0;}
     #wordpop .dictionary-selectable{max-height:none;overflow:visible;overscroll-behavior:auto;}
+    #wordpop .dictionary-context{overflow:visible;}
+    #wordpop .dictionary-context-body{min-width:0;}
+    #wordpop .dictionary-youglish-host{min-height:260px;}
   }
   .lesson-content .en.defline{color:var(--def);}
   .lesson-content .en.exline{color:var(--ex);}
@@ -4853,10 +4871,40 @@ function dictionaryProviderLabel(provider){
 function dictionaryEmbedHTML(query,compact=false){
   if(!String(query||'').trim())return'';
   const url=dictionaryProviderUrl('wiktionary',query);
-  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary')">Free Dictionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary-api')">FreeDictionaryAPI</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'datamuse')">Datamuse</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a><span class="dictionary-provider-status"></span></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>`;
+  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary')">Free Dictionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary-api')">FreeDictionaryAPI</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'datamuse')">Datamuse</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a><span class="dictionary-provider-status"></span></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>${dictionaryContextHTML(query)}`;
 }
 function dictionaryEmbedToggle(details){
   if(details&&details.open&&details.dataset.dictionaryProvider==='wiktionary')dictionaryHydrateEmbeds(details);
+}
+function dictionaryContextHTML(query){
+  const encoded=encodeURIComponent(String(query||'').trim()),slug=encodeURIComponent(String(query||'').trim().toLowerCase().replace(/\s+/g,'-'));
+  return `<details class="dictionary-context" data-context-query="${esc(query)}" ontoggle="dictionaryContextToggle(this)"><summary>🎧 Examples &amp; pronunciation</summary><div class="dictionary-context-body"><div class="dictionary-context-links"><a class="btn small" target="_blank" rel="noopener" href="https://ozdic.com/word/${slug}">OZDIC collocations ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://www.ldoceonline.com/dictionary/${slug}">LDOCE ↗</a><a class="btn small" target="_blank" rel="noopener" href="https://ludwig.guru/s/${encoded}">Ludwig context ↗</a></div><section class="dictionary-context-source"><h4>Tatoeba context examples</h4><div class="dictionary-tatoeba-slot"><p class="note">Open this section to load real example sentences.</p></div></section><section class="dictionary-context-source dictionary-youglish-source"><h4>Real-world pronunciation videos</h4><button type="button" class="btn small primary" onclick="dictionaryLoadYouglish(this)">▶ Load YouGlish</button><div class="dictionary-youglish-host"></div><p class="dictionary-youglish-policy"><a href="https://youglish.com" target="_blank" rel="noopener">Powered by YouGlish.com</a> · <a href="https://www.youtube.com/t/terms" target="_blank" rel="noopener">YouTube Terms</a> · <a href="https://policies.google.com/privacy" target="_blank" rel="noopener">Google Privacy</a>. Loading the player may store or access cookies.</p></section></div></details>`;
+}
+function dictionaryContextToggle(details){
+  if(details&&details.open&&details.dataset.tatoebaLoaded!=='1')dictionaryLoadTatoeba(details);
+}
+async function dictionaryLoadTatoeba(details){
+  const target=details&&details.querySelector('.dictionary-tatoeba-slot'),query=details&&details.dataset.contextQuery||'';if(!target)return;
+  details.dataset.tatoebaLoaded='1';target.innerHTML='<p class="note">Loading Tatoeba examples…</p>';
+  const url='https://api.tatoeba.org/v1/sentences?lang=eng&q='+encodeURIComponent(query)+'&sort=relevance&limit=8&is_unapproved=no&showtrans:lang=vie&showtrans:is_direct=yes';
+  try{
+    const response=await fetchWithTimeout(url,{},12000);if(!response.ok)throw new Error();const payload=await response.json(),rows=payload&&Array.isArray(payload.data)?payload.data:[];
+    if(!target.isConnected)return;target.innerHTML=rows.map(row=>{const vi=(row.translations||[]).find(item=>item.lang==='vie'&&!item.is_unapproved),encoded=encodeURIComponent(row.text||'');return `<div class="dictionary-context-row"><p class="en"><span class="example-text">${esc(row.text||'')}</span> ${dualSoundBtnsHtml('sbtn',acc=>`playSelectedText('${encoded}','${acc}')`,{type:'button',title:'Listen ACC'})}</p><p class="vi${vi?'':' vi-lazy-loading'}" data-context-en="${esc(row.text||'')}">${vi?esc(vi.text):'Đang dịch…'}</p></div>`;}).join('')||'<p class="note">No Tatoeba examples were found.</p>';
+    target.insertAdjacentHTML('beforeend','<p class="note">Examples: <a href="https://tatoeba.org" target="_blank" rel="noopener">Tatoeba</a> · CC BY 2.0 FR</p>');
+    for(const el of target.querySelectorAll('.vi-lazy-loading[data-context-en]'))translateVi(el.dataset.contextEn||'').then(vi=>{if(el.isConnected){el.textContent=vi||'Chưa có bản dịch tiếng Việt.';el.classList.remove('vi-lazy-loading');}});
+  }catch(e){if(target.isConnected){target.innerHTML='<p class="note">Tatoeba examples are temporarily unavailable.</p>';details.dataset.tatoebaLoaded='0';}}
+}
+let YOUGLISH_LOAD_PROMISE=null,YOUGLISH_WIDGET_SEQ=0;
+function dictionaryLoadYouglishApi(){
+  if(window.YG&&window.YG.Widget)return Promise.resolve(window.YG);
+  if(YOUGLISH_LOAD_PROMISE)return YOUGLISH_LOAD_PROMISE;
+  YOUGLISH_LOAD_PROMISE=new Promise((resolve,reject)=>{const previous=window.onYouglishAPIReady,script=document.createElement('script');window.onYouglishAPIReady=function(){try{if(typeof previous==='function')previous();}catch(e){}resolve(window.YG);};script.async=true;script.src='https://youglish.com/public/emb/widget.js';script.charset='utf-8';script.onerror=()=>{YOUGLISH_LOAD_PROMISE=null;reject(new Error('YouGlish unavailable'));};document.head.appendChild(script);});
+  return YOUGLISH_LOAD_PROMISE;
+}
+async function dictionaryLoadYouglish(button){
+  const details=button&&button.closest('.dictionary-context'),host=details&&details.querySelector('.dictionary-youglish-host'),query=details&&details.dataset.contextQuery||'';if(!host||host.dataset.loaded==='1')return;
+  button.disabled=true;button.textContent='Loading YouGlish…';host.id='dictionary-youglish-'+(++YOUGLISH_WIDGET_SEQ);
+  try{const YG=await dictionaryLoadYouglishApi();if(!button.isConnected||!host.isConnected)return;const widget=new YG.Widget(host.id,{components:1951,autoStart:0,restrictionMode:1,videoQuality:'small',captionSize:24});host.dataset.loaded='1';host._youglishWidget=widget;widget.fetch(query,'english');button.remove();}catch(e){if(button.isConnected){button.disabled=false;button.textContent='Retry YouGlish';host.innerHTML='<p class="note">YouGlish could not be loaded.</p>';}}
 }
 function dictionaryEmbedProvider(source,provider){
   const details=source&&source.closest&&source.closest('.dictionary-embed');if(!details)return;
@@ -4910,16 +4958,22 @@ function dictionaryFreeDictionaryApiHTML(payload){
   }).join('');
 }
 function dictionaryDatamuseHTML(payload,query){
-  const all=Array.isArray(payload)?payload:[],exact=all.filter(row=>String(row.word||'').toLowerCase()===String(query||'').toLowerCase()),rows=(exact.length?exact:all).slice(0,5);
-  return rows.map(row=>{
+  const all=Array.isArray(payload&&payload.entries)?payload.entries:[],exact=all.filter(row=>String(row.word||'').toLowerCase()===String(query||'').toLowerCase()),rows=(exact.length?exact:all).slice(0,5);
+  const entries=rows.map(row=>{
     const ipa=(row.tags||[]).find(tag=>String(tag).startsWith('ipa_pron:'))||'',definitions=(row.defs||[]).map(value=>{const parts=String(value).split('\t');return `<li>${parts.length>1?`<strong>${esc(parts.shift())}</strong> `:''}${esc(parts.join(' '))}</li>`;}).join('');
     return `<article class="dictionary-api-entry"><h3>${esc(row.word||'')}</h3>${ipa?`<p class="wip">/${esc(ipa.slice(9).replace(/^\/+|\/+$/g,''))}/</p>`:''}${definitions?`<ol>${definitions}</ol>`:'<p class="note">No definition was returned for this entry.</p>'}</article>`;
   }).join('');
+  const relation=(title,items)=>{const words=(Array.isArray(items)?items:[]).map(item=>item.word).filter(Boolean).slice(0,16);return words.length?`<section><h4>${esc(title)}</h4><p>${words.map(word=>`<button type="button" class="btn small" onclick="showSelectionDictionaryPopup(decodeURIComponent('${encodeURIComponent(word)}'),ipaDefault(),innerWidth/2,80)">${esc(word)}</button>`).join(' ')}</p></section>`:'';};
+  return entries+relation('Synonyms',payload&&payload.synonyms)+relation('Antonyms',payload&&payload.antonyms)+relation('Paraphrase and related suggestions',payload&&payload.related);
 }
 async function dictionaryLoadApiProvider(details,provider){
   const target=details&&details.querySelector('.dictionary-selectable[data-api-state="loading"]'),query=details&&details.dataset.dictionaryQuery||'',status=details&&details.querySelector('.dictionary-provider-status');if(!target)return;
   try{
-    const response=await fetchWithTimeout(dictionaryProviderUrl(provider,query),{},12000);if(!response.ok)throw new Error();const payload=await response.json();
+    let payload;
+    if(provider==='datamuse'){
+      const base='https://api.datamuse.com/words?',requests=[dictionaryProviderUrl(provider,query),base+'rel_syn='+encodeURIComponent(query)+'&max=16',base+'rel_ant='+encodeURIComponent(query)+'&max=16',base+'ml='+encodeURIComponent(query)+'&max=16'];
+      const responses=await Promise.all(requests.map(url=>fetchWithTimeout(url,{},12000)));if(responses.some(response=>!response.ok))throw new Error();const data=await Promise.all(responses.map(response=>response.json()));payload={entries:data[0],synonyms:data[1],antonyms:data[2],related:data[3]};
+    }else{const response=await fetchWithTimeout(dictionaryProviderUrl(provider,query),{},12000);if(!response.ok)throw new Error();payload=await response.json();}
     const html=provider==='free-dictionary'?dictionaryFreeDictionaryHTML(payload):provider==='free-dictionary-api'?dictionaryFreeDictionaryApiHTML(payload):dictionaryDatamuseHTML(payload,query);
     if(!target.isConnected||details.dataset.dictionaryProvider!==provider)return;target.innerHTML=html||`<p class="note">No ${esc(dictionaryProviderLabel(provider))} entry was found.</p>`;target.dataset.apiState='ready';if(status)status.textContent='';
   }catch(e){if(target.isConnected&&details.dataset.dictionaryProvider===provider){target.innerHTML=`<p class="note">${esc(dictionaryProviderLabel(provider))} is temporarily unavailable. Choose another provider or use “Open ↗”.</p>`;target.dataset.apiState='error';if(status)status.textContent='';}}
@@ -4964,8 +5018,9 @@ function showWordPop(word,accent,cx,cy){
   pop.dataset.ipa=(current&&current.ipa)||'';
   pop.innerHTML=`<div><b>${esc(word)}</b> <span class="note">· playing ${accent.toUpperCase()} voice</span></div>
     <div class="wip" id="wpIpa">IPA …</div>
+    <div class="wdef wvi vi-lazy-loading" id="wpVi" aria-busy="true">${current&&current.vn?esc(current.vn):'Đang dịch nghĩa chính…'}</div>
     <div class="wdef" id="wpEn">EN …</div>
-    <div class="wdef wvi" id="wpVi">VI …</div>
+    <div class="wdef wvi vi-lazy-loading" id="wpDefVi" aria-busy="true">Đang dịch định nghĩa…</div>
     <div class="wdef note" id="wpExample" aria-busy="true">Loading verified example…</div>
     <div class="wdef wvi" id="wpExampleVi">VI example …</div>
     <div class="wdef" id="wpForms">Word forms: ${esc(dictionaryWordForms(word,[]).join(', '))}</div>
@@ -5001,13 +5056,9 @@ function showWordPop(word,accent,cx,cy){
       p.def?translateVi(p.def):Promise.resolve('')
     ]);
     if(!mine()) return;
-    const viEl=$('#wpVi');
-    if(viEl){
-      const txt=[viWord,viDef].filter(Boolean).join(' — ');
-      viEl.textContent=txt||'(no Vietnamese translation available)';
-      viEl.classList.remove('vi-lazy-loading');viEl.removeAttribute('aria-busy');
-      pop.dataset.vi=viWord||pop.dataset.vi||'';
-    }
+    const viEl=$('#wpVi'),viDefEl=$('#wpDefVi');
+    if(viEl){viEl.textContent=viWord||'(chưa có nghĩa tiếng Việt)';viEl.classList.remove('vi-lazy-loading');viEl.removeAttribute('aria-busy');pop.dataset.vi=viWord||pop.dataset.vi||'';}
+    if(viDefEl){viDefEl.textContent=viDef||'';viDefEl.hidden=!viDef;viDefEl.classList.remove('vi-lazy-loading');viDefEl.removeAttribute('aria-busy');}
   });
   const exampleSeq=++WORD_POP_EXAMPLE_SEQ;
   // Start enrichment on a later browser turn. The popup and confidence
@@ -5036,8 +5087,9 @@ function showSelectionDictionaryPopup(text,accent,cx,cy){
   setWordPopSourceMeta(pop,selectionSourceMeta(cx,cy));
   pop.innerHTML=`<div><b>${esc(text)}</b> <span class="note">· phrase</span></div>
     <div class="wip" id="wpPhraseIpa">${cardsDualSentenceIpaHtml(text,true)}</div>
+    <div class="wdef wvi vi-lazy-loading" id="wpVi" aria-busy="true">${current&&current.vn?esc(current.vn):'Đang dịch nghĩa chính…'}</div>
     <div class="wdef" id="wpEn">Checking dictionary meaning…</div>
-    <div class="wdef wvi vi-lazy-loading" id="wpVi" aria-busy="true">…</div>
+    <div class="wdef wvi vi-lazy-loading" id="wpDefVi" aria-busy="true">Đang dịch định nghĩa…</div>
     <div style="display:flex;gap:6px;margin-top:6px;align-items:center;flex-wrap:wrap">
       ${dualSoundBtnsHtml('soundbtn',acc=>`playSelectedText('${encoded}','${acc}')`,{type:'button',title:'Listen ACC'})}
       <a class="btn small" style="text-decoration:none" target="_blank" rel="noopener" href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encoded}">Oxford ↗</a>
@@ -5056,11 +5108,12 @@ function showSelectionDictionaryPopup(text,accent,cx,cy){
     refreshDualIpaLabels(pop).catch(()=>{});
     Promise.all([fetchIPA(text).catch(()=>({def:'',pos:''})),translateVi(text)]).then(async([entry,viText])=>{
       if(pop.dataset.word!==mineKey||pop.style.display!=='block')return;
-      const en=$('#wpEn'),vi=$('#wpVi');
+      const en=$('#wpEn'),vi=$('#wpVi'),viDefEl=$('#wpDefVi');
       if(en){en.hidden=!entry.def;en.textContent=entry.def?((entry.pos?'('+entry.pos+') ':'')+entry.def):'';}
       let viDef='';if(entry.def)viDef=await translateVi(entry.def);
       if(pop.dataset.word!==mineKey||pop.style.display!=='block')return;
-      if(vi){vi.textContent=[viText,viDef].filter(Boolean).join(' — ')||'(no Vietnamese translation available)';vi.classList.remove('vi-lazy-loading');vi.removeAttribute('aria-busy');pop.dataset.vi=viText||pop.dataset.vi||'';}
+      if(vi){vi.textContent=viText||'(chưa có nghĩa tiếng Việt)';vi.classList.remove('vi-lazy-loading');vi.removeAttribute('aria-busy');pop.dataset.vi=viText||pop.dataset.vi||'';}
+      if(viDefEl){viDefEl.textContent=viDef||'';viDefEl.hidden=!viDef;viDefEl.classList.remove('vi-lazy-loading');viDefEl.removeAttribute('aria-busy');}
     });
   },0);
 }
@@ -10271,7 +10324,7 @@ function renderSentences(){
 }
 
 /* ================= dictionary page ================= */
-const DICTIONARY_PAGE={query:'',loadedQuery:'',kind:'',entries:null,error:'',loading:false,suggestSeq:0,suggestTimer:null};
+const DICTIONARY_PAGE={query:'',loadedQuery:'',kind:'',entries:null,error:'',loading:false,fetching:false,lookupSeq:0,suggestSeq:0,suggestTimer:null};
 function dictionaryIsShortLookup(text){
   const q=String(text||'').trim();
   return !!q&&q.length<=80&&!/[.!?;:]\s*$/.test(q)&&q.split(/\s+/).length<=6;
@@ -10429,11 +10482,11 @@ function dictionaryResultHTML(){
   const kind=DICTIONARY_PAGE.kind||'sentence',saved=dictionarySavedRecord(kind,q),conf=(saved&&saved.confidence)||0;
   const mainExamples=kind==='word'?dictionaryMainExamples(q,DICTIONARY_PAGE.entries||[]):[];
   const actions=`<div class="dictionary-head-actions">${dualSoundBtnsHtml('soundbtn',acc=>`dictionaryPlayMain('${acc}')`,{type:'button',title:'Listen ACC'})}<a class="btn small" href="https://www.oxfordlearnersdictionaries.com/search/english/?q=${encodeURIComponent(q)}" target="_blank" rel="noopener">Oxford ↗</a><button class="btn small" onclick="dictionarySaveMain('word')">⭐ Add to Words</button><button class="btn small" onclick="dictionarySaveMain('sentence')">📌 Add to Sentences</button></div>`;
-  return `<div class="dictionary-result"><section class="panel"><div class="sechead"><h2>${kind==='word'?'📘':'📝'} ${esc(q)}</h2>${actions}</div>${dictionaryLineHTML(q,'dictionary-main')}${mainExamples.length?`<div class="dictionary-main-examples"><h3>Main vocabulary example</h3>${mainExamples.map(ex=>dictionaryLineHTML(ex,'dictionary-example',q)).join('')}</div>`:''}<div class="wordpop-conf"><span>Confidence for main ${kind}</span>${confBtnsHTML(conf,'dictionarySetMainConfidence(LVL)')}</div><p class="note">Oxford pronunciation/audio is attempted first. Structured definitions and examples use the public dictionary fallback when Oxford page HTML is unavailable to this static app.</p></section>${DICTIONARY_PAGE.error?`<p class="note">${esc(DICTIONARY_PAGE.error)}</p>`:''}${(DICTIONARY_PAGE.entries||[]).map(dictionaryEntryHTML).join('')}${dictionaryEmbedHTML(q)}</div>`;
+  return `<div class="dictionary-result"><section class="panel"><div class="sechead"><h2>${kind==='word'?'📘':'📝'} ${esc(q)}</h2>${actions}</div>${dictionaryLineHTML(q,'dictionary-main')}${mainExamples.length?`<div class="dictionary-main-examples"><h3>Main vocabulary example</h3>${mainExamples.map(ex=>dictionaryLineHTML(ex,'dictionary-example',q)).join('')}</div>`:''}<div class="wordpop-conf"><span>Confidence for main ${kind}</span>${confBtnsHTML(conf,'dictionarySetMainConfidence(LVL)')}</div><p class="note">Oxford pronunciation/audio is attempted first. Structured definitions and examples use the public dictionary fallback when Oxford page HTML is unavailable to this static app.</p></section>${DICTIONARY_PAGE.fetching?'<p class="note">Loading structured meanings in the background…</p>':''}${DICTIONARY_PAGE.error?`<p class="note">${esc(DICTIONARY_PAGE.error)}</p>`:''}${(DICTIONARY_PAGE.entries||[]).map(dictionaryEntryHTML).join('')}${dictionaryEmbedHTML(q)}</div>`;
 }
 function renderDictionary(routeQuery){
   if(typeof routeQuery==='string'){
-    if(!routeQuery){DICTIONARY_PAGE.query='';DICTIONARY_PAGE.loadedQuery='';DICTIONARY_PAGE.kind='';DICTIONARY_PAGE.entries=null;DICTIONARY_PAGE.error='';DICTIONARY_PAGE.loading=false;}
+    if(!routeQuery){DICTIONARY_PAGE.query='';DICTIONARY_PAGE.loadedQuery='';DICTIONARY_PAGE.kind='';DICTIONARY_PAGE.entries=null;DICTIONARY_PAGE.error='';DICTIONARY_PAGE.loading=false;DICTIONARY_PAGE.fetching=false;}
     else if(DICTIONARY_PAGE.loadedQuery!==routeQuery&&!DICTIONARY_PAGE.loading)return dictionaryLookup(routeQuery);
   }
   $('#view').innerHTML=`<section class="panel" data-page-read-scope><div class="sechead"><h2>📘 Dictionary</h2></div><p class="note">Search a word for full dictionary study, or enter a phrase/sentence for dual IPA, Vietnamese translation, audio, flagging, confidence, and top-level parent sounding.</p><form class="dictionary-form" onsubmit="event.preventDefault();dictionarySearch()"><textarea id="dictionaryInput" placeholder="Type a word, phrase, sentence, or paraphrase…" autocomplete="off">${esc(DICTIONARY_PAGE.query)}</textarea><button class="btn primary" type="submit">Search</button></form>${DICTIONARY_PAGE.query?`<div class="dictionary-parent-read" onclick="event.stopPropagation()">${pageReadBtnsHTML()}</div>`:''}<div class="dictionary-suggestions" id="dictionarySuggestions"></div><div id="dictionaryResults">${dictionaryResultHTML()}</div></section>`;
@@ -10458,19 +10511,22 @@ function dictionarySearch(){
   const target='#/dictionary/'+encodeURIComponent(q);if(location.hash!==target){location.hash=target;return;}return dictionaryLookup(q);
 }
 async function dictionaryLookup(q){
-  DICTIONARY_PAGE.query=q;DICTIONARY_PAGE.kind=dictionaryIsShortLookup(q)?'word':'sentence';DICTIONARY_PAGE.entries=null;DICTIONARY_PAGE.error='';DICTIONARY_PAGE.loading=true;renderDictionary();
-  if(DICTIONARY_PAGE.kind==='word'){
-    try{const r=await fetchWithTimeout('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(q.toLowerCase()),{},9000);if(r.ok){DICTIONARY_PAGE.entries=await r.json();dictionaryApplySourceExamples(DICTIONARY_PAGE.entries,await dictionarySourceExamples(q));}else{if(/\s/.test(q))DICTIONARY_PAGE.kind='sentence';DICTIONARY_PAGE.error='No structured dictionary entry was returned; phrase/sentence study is still available below.';}}catch(e){if(/\s/.test(q))DICTIONARY_PAGE.kind='sentence';DICTIONARY_PAGE.error='The structured dictionary service is temporarily unavailable; pronunciation, IPA, translation, and saving still work.';}
-  }
-  DICTIONARY_PAGE.loading=false;DICTIONARY_PAGE.loadedQuery=q;renderDictionary();
+  const seq=++DICTIONARY_PAGE.lookupSeq;
+  DICTIONARY_PAGE.query=q;DICTIONARY_PAGE.kind=dictionaryIsShortLookup(q)?'word':'sentence';DICTIONARY_PAGE.entries=null;DICTIONARY_PAGE.error='';DICTIONARY_PAGE.loading=false;DICTIONARY_PAGE.fetching=DICTIONARY_PAGE.kind==='word';DICTIONARY_PAGE.loadedQuery=q;renderDictionary();
+  if(DICTIONARY_PAGE.kind!=='word')return;
+  try{
+    const r=await fetchWithTimeout('https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(q.toLowerCase()),{},9000);if(seq!==DICTIONARY_PAGE.lookupSeq||DICTIONARY_PAGE.query!==q)return;
+    if(r.ok){DICTIONARY_PAGE.entries=await r.json();DICTIONARY_PAGE.fetching=false;renderDictionary();setTimeout(async()=>{try{const examples=await dictionarySourceExamples(q);if(seq!==DICTIONARY_PAGE.lookupSeq||DICTIONARY_PAGE.query!==q||!DICTIONARY_PAGE.entries)return;dictionaryApplySourceExamples(DICTIONARY_PAGE.entries,examples);renderDictionary();}catch(e){}},0);}
+    else{DICTIONARY_PAGE.fetching=false;if(/\s/.test(q))DICTIONARY_PAGE.kind='sentence';DICTIONARY_PAGE.error='No structured dictionary entry was returned; phrase/sentence study is still available below.';renderDictionary();}
+  }catch(e){if(seq!==DICTIONARY_PAGE.lookupSeq||DICTIONARY_PAGE.query!==q)return;DICTIONARY_PAGE.fetching=false;if(/\s/.test(q))DICTIONARY_PAGE.kind='sentence';DICTIONARY_PAGE.error='The structured dictionary service is temporarily unavailable; pronunciation, IPA, translation, and saving still work.';renderDictionary();}
 }
-async function dictionaryDecorateResult(){
+function dictionaryDecorateResult(){
   const root=$('#dictionaryResults');if(!root)return;
-  dictionaryHydrateEmbeds(root);
-  decorateEnLines(root,'dictionary:'+hashStr(DICTIONARY_PAGE.query));scheduleIpaLabelRefresh();
-  await hydrateVietnameseElements([...root.querySelectorAll('[data-dict-en]')],el=>el.dataset.dictEn||'','Không thể dịch tự động.');
-  const mainVi=root.querySelector('.dictionary-main [data-dict-en]'),viTargets=dictionaryViExampleTargets(mainVi&&mainVi.textContent||'');
-  for(const el of root.querySelectorAll('.dictionary-example [data-dict-target]'))boldMatchesInElement(el,viTargets,'vi');
+  const query=DICTIONARY_PAGE.query,all=[...root.querySelectorAll('[data-dict-en]')],main=all.filter(el=>el.closest('.dictionary-main')),others=all.filter(el=>!el.closest('.dictionary-main'));
+  hydrateVietnameseElements(main,el=>el.dataset.dictEn||'','Không thể dịch tự động.').then(()=>{if(!root.isConnected||DICTIONARY_PAGE.query!==query)return;const mainVi=root.querySelector('.dictionary-main [data-dict-en]'),viTargets=dictionaryViExampleTargets(mainVi&&mainVi.textContent||'');for(const el of root.querySelectorAll('.dictionary-example [data-dict-target]'))boldMatchesInElement(el,viTargets,'vi');});
+  const hydrateOne=el=>{if(!el||el.dataset.dictViQueued==='1')return;el.dataset.dictViQueued='1';hydrateVietnameseElements([el],node=>node.dataset.dictEn||'','Không thể dịch tự động.');};
+  if('IntersectionObserver'in window){const observer=new IntersectionObserver(entries=>entries.forEach(entry=>{if(entry.isIntersecting){observer.unobserve(entry.target);hydrateOne(entry.target);}}),{rootMargin:'240px 0px'});others.forEach(el=>observer.observe(el));}else others.slice(0,12).forEach(hydrateOne);
+  setTimeout(()=>{if(!root.isConnected||DICTIONARY_PAGE.query!==query)return;dictionaryHydrateEmbeds(root);decorateEnLines(root,'dictionary:'+hashStr(query));scheduleIpaLabelRefresh();},80);
 }
 function dictionaryPlayMain(accent){
   if((DICTIONARY_PAGE.kind||'sentence')==='word')playWord(DICTIONARY_PAGE.query,accent);else playSentence(DICTIONARY_PAGE.query,accent);
