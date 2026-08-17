@@ -256,8 +256,6 @@
   .dictionary-embed-body{padding:0 10px 10px;}
   .dictionary-provider-actions{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:8px;}
   .dictionary-provider-status{margin-right:auto;color:var(--muted);font-size:.78rem;}
-  .dictionary-embed-study{display:grid;grid-template-columns:minmax(180px,1fr) auto auto auto;gap:6px;margin:8px 0;align-items:stretch;}
-  .dictionary-embed-study input{min-width:0;width:100%;padding:6px 9px;border:1px solid var(--border);border-radius:7px;background:var(--panel);color:var(--ink);font:inherit;font-size:.82rem;}
   .dictionary-embed-frame{display:block;width:100%;height:min(60vh,620px);border:1px solid var(--border);border-radius:8px;background:#fff;}
   .dictionary-selectable{max-height:min(60vh,620px);overflow:auto;overscroll-behavior:contain;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--panel);color:var(--ink);user-select:text;-webkit-user-select:text;}
   .dictionary-selectable :is(p,li,dd,dt,th,td){user-select:text;-webkit-user-select:text;}
@@ -273,7 +271,7 @@
   #wordpop .dictionary-embed-frame{height:min(44vh,380px);}
   #wordpop .dictionary-embed{margin-top:9px;}
   @media (max-width:760px), (pointer:coarse){
-    #wordpop{position:fixed!important;top:max(6px,env(safe-area-inset-top))!important;right:6px!important;bottom:max(6px,env(safe-area-inset-bottom))!important;left:6px!important;width:auto!important;max-width:none!important;height:auto!important;max-height:none!important;box-sizing:border-box;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y pinch-zoom;scrollbar-gutter:stable;padding-bottom:calc(14px + env(safe-area-inset-bottom));}
+    #wordpop{position:fixed!important;top:calc(20px + env(safe-area-inset-top))!important;right:6px!important;bottom:calc(20px + env(safe-area-inset-bottom))!important;left:6px!important;width:auto!important;max-width:none!important;height:auto!important;max-height:none!important;box-sizing:border-box;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y pinch-zoom;scrollbar-gutter:stable;padding-bottom:calc(14px + env(safe-area-inset-bottom));}
     #wordpop .dictionary-embed{overflow:visible;}
     #wordpop .dictionary-embed-body{min-width:0;}
     #wordpop .dictionary-selectable{max-height:none;overflow:visible;overscroll-behavior:auto;}
@@ -528,7 +526,7 @@
   .dictionary-parent-read{display:flex;justify-content:flex-end;align-items:center;margin:7px 0 2px;}
   .reading-passage,.dol-reading-content{min-width:0;max-width:100%;overflow-x:auto;overflow-wrap:anywhere;-webkit-overflow-scrolling:touch;}
   .reading-passage .lesson-table-scroll,.dol-reading-content .lesson-table-scroll{max-width:100%;overflow-x:auto;-webkit-overflow-scrolling:touch;scrollbar-gutter:stable;}
-  @media(max-width:640px){.dictionary-form{grid-template-columns:1fr}.dictionary-embed-study{grid-template-columns:1fr 1fr 1fr}.dictionary-embed-study input{grid-column:1/-1}.listen-cue .sentence-ipa,.listen-cue .listen-vi{margin-left:0;}}
+  @media(max-width:640px){.dictionary-form{grid-template-columns:1fr}.listen-cue .sentence-ipa,.listen-cue .listen-vi{margin-left:0;}}
   .lesson-content.bbc .ielts-badge{display:inline-block; font-size:.72rem; font-weight:700; letter-spacing:.04em; text-transform:uppercase; color:var(--accent); background:var(--accent-soft); border-radius:6px; padding:2px 8px;}
   .lesson-content.bbc .ielts-sub-title{font-weight:600;}
   .lesson-content.bbc .question-block{background:var(--accent-soft); border-radius:8px; padding:10px 12px; margin:8px 0; font-weight:600;}
@@ -4855,7 +4853,7 @@ function dictionaryProviderUrl(provider,query){
 function dictionaryEmbedHTML(query,compact=false){
   if(!String(query||'').trim())return'';
   const url=dictionaryProviderUrl('wiktionary',query);
-  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><span class="dictionary-provider-status"></span><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'oxford')">Oxford</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'cambridge')">Cambridge</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'merriam')">Merriam-Webster</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a></div><div class="dictionary-embed-study"><input type="text" aria-label="Dictionary study text" placeholder="Paste selected dictionary words or phrase…"><button type="button" class="btn small primary" onclick="dictionaryEmbedStudy(this,'dictionary')">📘 Study</button><button type="button" class="btn small" onclick="dictionaryEmbedStudy(this,'words')">⭐ Word</button><button type="button" class="btn small" onclick="dictionaryEmbedStudy(this,'sentences')">📌 Sentence</button></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>`;
+  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><span class="dictionary-provider-status"></span><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'oxford')">Oxford</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'cambridge')">Cambridge</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'merriam')">Merriam-Webster</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>`;
 }
 function dictionaryEmbedToggle(details){
   if(details&&details.open&&details.dataset.dictionaryProvider==='wiktionary')dictionaryHydrateEmbeds(details);
@@ -4901,12 +4899,6 @@ async function dictionaryLoadSelectableWiktionary(details){
 function dictionaryHydrateEmbeds(root=document){
   const detailsList=root.matches?.('.dictionary-embed')?[root]:[...root.querySelectorAll('.dictionary-embed')];
   detailsList.filter(details=>details.open&&details.dataset.dictionaryProvider==='wiktionary').forEach(dictionaryLoadSelectableWiktionary);
-}
-async function dictionaryEmbedStudy(button,action){
-  const details=button&&button.closest('.dictionary-embed'),input=details&&details.querySelector('.dictionary-embed-study input'),text=String(input&&input.value||'').replace(/\s+/g,' ').trim();
-  if(!text){toast('Select or paste dictionary text first.');return;}
-  if(action==='dictionary'){location.hash='#/dictionary/'+encodeURIComponent(text);return;}
-  await saveSelectedText(action,text,'dictionary-embed',{sectionId:'dictionary-embed',sourceProvider:details.dataset.dictionaryProvider||'wiktionary'});
 }
 function positionWordPop(pop,cx,cy){
   pop.style.display='block';
@@ -5076,6 +5068,9 @@ document.addEventListener('pointerdown',e=>{lastPointerType=e.pointerType||'mous
 const tapState={t:0,count:0,x:0,y:0,timer:null};
 const TAP_GAP_MS=840, TAP_RESOLVE_MS=760;   // 2× slower window for double/triple tap on touch
 document.addEventListener('click',ev=>{
+  // Selection-toolbar actions can open #wordpop during their inline click.
+  // Do not let this same bubbling click immediately close the new popup.
+  if(ev.target.closest('#selpop')) return;
   const insideWordPop=ev.target.closest('#wordpop');
   if(!insideWordPop) $('#wordpop').style.display='none';
   if(!eligibleWordTarget(ev.target)) return;
