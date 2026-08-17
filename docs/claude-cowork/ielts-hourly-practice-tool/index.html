@@ -243,7 +243,7 @@
   .sbtn.bkm{opacity:.22; font-size:.9rem;}
   .sbtn.bkm.on{opacity:1;}
   section.panel.sub{margin-left:18px;}
-  #wordpop{position:absolute; z-index:95; display:none; background:var(--panel); border:1px solid var(--border);
+  #wordpop{position:absolute; z-index:95; display:none; background:var(--panel); border:2px solid var(--border);
     border-radius:10px; box-shadow:0 4px 14px rgba(0,0,0,.25); padding:10px 12px; width:min(520px,calc(100vw - 12px));max-width:520px;max-height:min(84vh,760px);overflow-y:auto;overscroll-behavior:contain;font-size:.9rem;}
   #wordpop .wip{color:var(--ipa); margin:3px 0;}
   #wordpop .wdef{margin:4px 0; font-size:.85rem; line-height:1.45;}
@@ -255,8 +255,7 @@
   .dictionary-embed>summary::-webkit-details-marker{display:none;}
   .dictionary-embed-body{padding:0 10px 10px;}
   .dictionary-provider-actions{display:flex;align-items:center;gap:6px;flex-wrap:wrap;margin-bottom:8px;}
-  .dictionary-provider-status{margin-right:auto;color:var(--muted);font-size:.78rem;}
-  .dictionary-embed-frame{display:block;width:100%;height:min(60vh,620px);border:1px solid var(--border);border-radius:8px;background:#fff;}
+  .dictionary-provider-status{margin-left:auto;color:var(--muted);font-size:.78rem;}
   .dictionary-selectable{max-height:min(60vh,620px);overflow:auto;overscroll-behavior:contain;padding:12px 14px;border:1px solid var(--border);border-radius:8px;background:var(--panel);color:var(--ink);user-select:text;-webkit-user-select:text;}
   .dictionary-selectable :is(p,li,dd,dt,th,td){user-select:text;-webkit-user-select:text;}
   .dictionary-selectable img{max-width:100%;height:auto;}
@@ -267,15 +266,12 @@
   html[data-theme="dark"] .dictionary-embed-slot{background:#151a21;color:var(--ink);}
   html[data-theme="dark"] .dictionary-selectable{background:#171c23;border-color:#343c48;color:var(--ink);color-scheme:dark;}
   html[data-theme="dark"] .dictionary-selectable :is(audio,video){color-scheme:dark;background:#10161d;border:1px solid #343c48;box-shadow:0 2px 8px rgba(0,0,0,.3);}
-  html[data-theme="dark"] .dictionary-embed-frame{color-scheme:dark;background:#10161d;border-color:#343c48;}
-  #wordpop .dictionary-embed-frame{height:min(44vh,380px);}
   #wordpop .dictionary-embed{margin-top:9px;}
   @media (max-width:760px), (pointer:coarse){
-    #wordpop{position:fixed!important;top:calc(20px + env(safe-area-inset-top))!important;right:6px!important;bottom:calc(20px + env(safe-area-inset-bottom))!important;left:6px!important;width:auto!important;max-width:none!important;height:auto!important;max-height:none!important;box-sizing:border-box;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y pinch-zoom;scrollbar-gutter:stable;padding-bottom:calc(14px + env(safe-area-inset-bottom));}
+    #wordpop{position:fixed!important;top:calc(20px + env(safe-area-inset-top))!important;right:6px!important;bottom:calc(30px + env(safe-area-inset-bottom))!important;left:6px!important;width:auto!important;max-width:none!important;height:auto!important;max-height:none!important;box-sizing:border-box;overflow-x:hidden;overflow-y:auto;overscroll-behavior-y:contain;-webkit-overflow-scrolling:touch;touch-action:pan-y pinch-zoom;scrollbar-gutter:stable;padding-bottom:calc(14px + env(safe-area-inset-bottom));}
     #wordpop .dictionary-embed{overflow:visible;}
     #wordpop .dictionary-embed-body{min-width:0;}
     #wordpop .dictionary-selectable{max-height:none;overflow:visible;overscroll-behavior:auto;}
-    #wordpop .dictionary-embed-frame{height:max(65dvh,520px);max-height:none;}
   }
   .lesson-content .en.defline{color:var(--def);}
   .lesson-content .en.exline{color:var(--ex);}
@@ -4845,15 +4841,19 @@ function wordPopSourceMeta(pop){
 }
 function dictionaryProviderUrl(provider,query){
   query=String(query||'').trim();
-  if(provider==='cambridge')return'https://dictionary.cambridge.org/search/english/direct/?q='+encodeURIComponent(query);
-  if(provider==='merriam')return'https://www.merriam-webster.com/dictionary/'+encodeURIComponent(query);
+  if(provider==='free-dictionary')return'https://api.dictionaryapi.dev/api/v2/entries/en/'+encodeURIComponent(query.toLowerCase());
+  if(provider==='free-dictionary-api')return'https://freedictionaryapi.com/api/v1/entries/en/'+encodeURIComponent(query.toLowerCase());
+  if(provider==='datamuse')return'https://api.datamuse.com/words?sp='+encodeURIComponent(query.toLowerCase())+'&md=dpr&ipa=1&max=10';
   if(provider==='wiktionary')return'https://en.wiktionary.org/wiki/'+encodeURIComponent(query.replace(/\s+/g,'_'));
-  return'https://www.oxfordlearnersdictionaries.com/search/english/?q='+encodeURIComponent(query);
+  return'';
+}
+function dictionaryProviderLabel(provider){
+  return provider==='free-dictionary'?'Free Dictionary':provider==='free-dictionary-api'?'FreeDictionaryAPI':provider==='datamuse'?'Datamuse':'Wiktionary';
 }
 function dictionaryEmbedHTML(query,compact=false){
   if(!String(query||'').trim())return'';
   const url=dictionaryProviderUrl('wiktionary',query);
-  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><span class="dictionary-provider-status"></span><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'oxford')">Oxford</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'cambridge')">Cambridge</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'merriam')">Merriam-Webster</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>`;
+  return `<details open class="dictionary-embed ${compact?'compact':''}" data-dictionary-query="${esc(query)}" data-dictionary-provider="wiktionary" ontoggle="dictionaryEmbedToggle(this)"><summary>📚 Embedded full dictionary</summary><div class="dictionary-embed-body"><div class="dictionary-provider-actions"><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'wiktionary')">Wiktionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary')">Free Dictionary</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'free-dictionary-api')">FreeDictionaryAPI</button><button type="button" class="btn small" onclick="event.preventDefault();dictionaryEmbedProvider(this,'datamuse')">Datamuse</button><a class="btn small dictionary-provider-external" href="${esc(url)}" target="_blank" rel="noopener">Open ↗</a><span class="dictionary-provider-status"></span></div><div class="dictionary-embed-slot"><div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div></div><p class="note">Select any English word or phrase here, then right-click to study it or add it to Words/Sentences.</p></div></details>`;
 }
 function dictionaryEmbedToggle(details){
   if(details&&details.open&&details.dataset.dictionaryProvider==='wiktionary')dictionaryHydrateEmbeds(details);
@@ -4862,16 +4862,15 @@ function dictionaryEmbedProvider(source,provider){
   const details=source&&source.closest&&source.closest('.dictionary-embed');if(!details)return;
   const query=details.dataset.dictionaryQuery||'',url=dictionaryProviderUrl(provider,query),slot=details.querySelector('.dictionary-embed-slot'),status=details.querySelector('.dictionary-provider-status'),external=details.querySelector('.dictionary-provider-external');
   details.dataset.dictionaryProvider=provider;
-  if(status)status.textContent='Loading '+(provider==='merriam'?'Merriam-Webster':provider[0].toUpperCase()+provider.slice(1))+'…';
+  if(status)status.textContent='Loading '+dictionaryProviderLabel(provider)+'…';
   if(external)external.href=url;
   if(provider==='wiktionary'){
     if(slot)slot.innerHTML='<div class="dictionary-selectable" data-wiktionary-state="pending"><p class="note">Loading selectable Wiktionary entry…</p></div>';
     dictionaryHydrateEmbeds(details);return;
   }
-  if(slot)slot.innerHTML=`<iframe class="dictionary-embed-frame" title="${esc(provider)} dictionary: ${esc(query)}" loading="lazy" referrerpolicy="no-referrer" src="${esc(url)}" onload="dictionaryEmbedLoaded(this)" onerror="dictionaryEmbedFrameError(this)"></iframe>`;
+  if(slot)slot.innerHTML=`<div class="dictionary-selectable" data-api-state="loading"><p class="note">Loading ${esc(dictionaryProviderLabel(provider))} entry…</p></div>`;
+  dictionaryLoadApiProvider(details,provider);
 }
-function dictionaryEmbedLoaded(frame){const details=frame&&frame.closest('.dictionary-embed'),status=details&&details.querySelector('.dictionary-provider-status');if(status)status.textContent='';}
-function dictionaryEmbedFrameError(frame){const details=frame&&frame.closest('.dictionary-embed');if(!details)return;const provider=details.dataset.dictionaryProvider||'wiktionary',next=provider==='wiktionary'?'oxford':provider==='oxford'?'cambridge':provider==='cambridge'?'merriam':'';if(next)dictionaryEmbedProvider(details.querySelector('.dictionary-provider-actions .btn'),next);}
 function dictionarySanitizeWiktionary(raw){
   const parsed=new DOMParser().parseFromString(String(raw||''),'text/html'),english=parsed.querySelector('#English'),heading=english&&(english.closest('.mw-heading')||english.closest('h2')),holder=document.createElement('div');
   if(heading){for(let node=heading.nextElementSibling;node&&!node.matches?.('h2,.mw-heading2');node=node.nextElementSibling)holder.append(node.cloneNode(true));}
@@ -4884,6 +4883,46 @@ function dictionarySanitizeWiktionary(raw){
     el.removeAttribute('srcset');
   });
   return holder.innerHTML;
+}
+function dictionaryApiAudioHTML(value,label){
+  try{const url=new URL(String(value||''),'https://api.dictionaryapi.dev/');if(url.protocol!=='https:')return'';return `<div><span class="note">${esc(label||'Pronunciation')}</span><audio controls preload="none" src="${esc(url.href)}"></audio></div>`;}catch(e){return'';}
+}
+function dictionaryFreeDictionaryHTML(payload){
+  const entries=Array.isArray(payload)?payload:[];
+  return entries.map(entry=>{
+    const phonetics=(entry.phonetics||[]).map(p=>p.text?`<span class="wip">${esc(p.text)}</span>`:'').filter(Boolean).join(' · ');
+    const audio=[...new Map((entry.phonetics||[]).filter(p=>p.audio).map(p=>[p.audio,p])).values()].map((p,i)=>dictionaryApiAudioHTML(p.audio,'Audio '+(i+1))).join('');
+    const meanings=(entry.meanings||[]).map(meaning=>{
+      const definitions=(meaning.definitions||[]).map((definition,i)=>`<li>${esc(definition.definition||'')}${definition.example?`<div class="dictionary-line"><strong>Example:</strong> ${esc(definition.example)}</div>`:''}${(definition.synonyms||[]).length?`<div class="note">Synonyms: ${esc(definition.synonyms.join(', '))}</div>`:''}${(definition.antonyms||[]).length?`<div class="note">Antonyms: ${esc(definition.antonyms.join(', '))}</div>`:''}</li>`).join('');
+      return `<section><h4>${esc(meaning.partOfSpeech||'Meaning')}</h4><ol>${definitions}</ol>${(meaning.synonyms||[]).length?`<p class="note">Synonyms: ${esc(meaning.synonyms.join(', '))}</p>`:''}${(meaning.antonyms||[]).length?`<p class="note">Antonyms: ${esc(meaning.antonyms.join(', '))}</p>`:''}</section>`;
+    }).join('');
+    return `<article class="dictionary-api-entry"><h3>${esc(entry.word||'')}</h3>${phonetics?`<p>${phonetics}</p>`:''}${audio}${entry.origin?`<p><strong>Origin:</strong> ${esc(entry.origin)}</p>`:''}${meanings}</article>`;
+  }).join('');
+}
+function dictionaryFreeDictionaryApiHTML(payload){
+  const senseHTML=senses=>(senses||[]).map(sense=>`<li>${esc(sense.definition||'')}${(sense.examples||[]).map(example=>`<div class="dictionary-line"><strong>Example:</strong> ${esc(example)}</div>`).join('')}${(sense.synonyms||[]).length?`<div class="note">Synonyms: ${esc(sense.synonyms.join(', '))}</div>`:''}${(sense.antonyms||[]).length?`<div class="note">Antonyms: ${esc(sense.antonyms.join(', '))}</div>`:''}${(sense.subsenses||[]).length?`<ol>${senseHTML(sense.subsenses)}</ol>`:''}</li>`).join('');
+  const entries=payload&&Array.isArray(payload.entries)?payload.entries:[];
+  return entries.map(entry=>{
+    const pronunciations=(entry.pronunciations||[]).filter(p=>p.text).map(p=>`${esc(p.text)}${(p.tags||[]).length?` <span class="note">${esc(p.tags.join(', '))}</span>`:''}`).join(' · ');
+    const audio=(entry.pronunciations||[]).filter(p=>p.audio).map((p,i)=>dictionaryApiAudioHTML(p.audio,'Audio '+(i+1))).join('');
+    const forms=(entry.forms||[]).map(form=>form.word).filter(Boolean);
+    return `<article class="dictionary-api-entry"><h3>${esc(payload.word||'')} <span class="note">${esc(entry.partOfSpeech||'')}</span></h3>${pronunciations?`<p class="wip">${pronunciations}</p>`:''}${audio}${forms.length?`<p><strong>Forms:</strong> ${esc(forms.join(', '))}</p>`:''}<ol>${senseHTML(entry.senses)}</ol></article>`;
+  }).join('');
+}
+function dictionaryDatamuseHTML(payload,query){
+  const all=Array.isArray(payload)?payload:[],exact=all.filter(row=>String(row.word||'').toLowerCase()===String(query||'').toLowerCase()),rows=(exact.length?exact:all).slice(0,5);
+  return rows.map(row=>{
+    const ipa=(row.tags||[]).find(tag=>String(tag).startsWith('ipa_pron:'))||'',definitions=(row.defs||[]).map(value=>{const parts=String(value).split('\t');return `<li>${parts.length>1?`<strong>${esc(parts.shift())}</strong> `:''}${esc(parts.join(' '))}</li>`;}).join('');
+    return `<article class="dictionary-api-entry"><h3>${esc(row.word||'')}</h3>${ipa?`<p class="wip">/${esc(ipa.slice(9).replace(/^\/+|\/+$/g,''))}/</p>`:''}${definitions?`<ol>${definitions}</ol>`:'<p class="note">No definition was returned for this entry.</p>'}</article>`;
+  }).join('');
+}
+async function dictionaryLoadApiProvider(details,provider){
+  const target=details&&details.querySelector('.dictionary-selectable[data-api-state="loading"]'),query=details&&details.dataset.dictionaryQuery||'',status=details&&details.querySelector('.dictionary-provider-status');if(!target)return;
+  try{
+    const response=await fetchWithTimeout(dictionaryProviderUrl(provider,query),{},12000);if(!response.ok)throw new Error();const payload=await response.json();
+    const html=provider==='free-dictionary'?dictionaryFreeDictionaryHTML(payload):provider==='free-dictionary-api'?dictionaryFreeDictionaryApiHTML(payload):dictionaryDatamuseHTML(payload,query);
+    if(!target.isConnected||details.dataset.dictionaryProvider!==provider)return;target.innerHTML=html||`<p class="note">No ${esc(dictionaryProviderLabel(provider))} entry was found.</p>`;target.dataset.apiState='ready';if(status)status.textContent='';
+  }catch(e){if(target.isConnected&&details.dataset.dictionaryProvider===provider){target.innerHTML=`<p class="note">${esc(dictionaryProviderLabel(provider))} is temporarily unavailable. Choose another provider or use “Open ↗”.</p>`;target.dataset.apiState='error';if(status)status.textContent='';}}
 }
 async function dictionaryLoadSelectableWiktionary(details){
   const target=details&&details.querySelector('.dictionary-selectable[data-wiktionary-state="pending"]');if(!target)return;
