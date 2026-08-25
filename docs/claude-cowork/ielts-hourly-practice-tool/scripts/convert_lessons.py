@@ -537,6 +537,8 @@ def main():
             rel = jf.relative_to(FOLDER).as_posix()
             if rel.startswith("data/ipa/"):        # US IPA dictionary shards — not study content
                 continue
+            if rel.startswith("data/chatgpt/tests/"):  # Generic test simulator owns its own manifest/schema
+                continue
             if "/snapshots/" in rel:               # DOL prefetch cache — not study content
                 continue
             parts = rel.split("/")

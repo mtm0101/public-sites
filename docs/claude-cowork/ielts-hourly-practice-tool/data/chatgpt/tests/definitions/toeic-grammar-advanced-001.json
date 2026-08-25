@@ -1,0 +1,55 @@
+{
+  "schema": 1,
+  "id": "toeic-grammar-advanced-001",
+  "version": 1,
+  "status": "published",
+  "title": "Advanced TOEIC Grammar Test 1",
+  "titleVi": "Bài kiểm tra ngữ pháp TOEIC nâng cao số 1",
+  "description": {
+    "en": "A 20-question original TOEIC Part 5-style grammar test covering every category in the initial bank.",
+    "vi": "Bài kiểm tra ngữ pháp 20 câu theo phong cách TOEIC Part 5, bao quát mọi nhóm ngữ pháp trong ngân hàng ban đầu."
+  },
+  "testType": "language",
+  "examFamily": "toeic-lr",
+  "examPart": "reading-part-5",
+  "testNumber": 1,
+  "testDate": "2026-08-25",
+  "questionCount": 20,
+  "durationMinutes": 15,
+  "defaultMode": "training",
+  "supportedModes": [
+    "training",
+    "exam"
+  ],
+  "targetToeicRange": {
+    "min": 700,
+    "max": 990
+  },
+  "scorePolicy": "raw-percent-not-official-toeic-scale",
+  "questionIds": [
+    "toeic-g-word-forms-001",
+    "toeic-g-subject-verb-agreement-001",
+    "toeic-g-verb-tense-001",
+    "toeic-g-verb-aspect-001",
+    "toeic-g-passive-causative-001",
+    "toeic-g-gerund-infinitive-001",
+    "toeic-g-modals-001",
+    "toeic-g-conditionals-001",
+    "toeic-g-subjunctive-001",
+    "toeic-g-relative-clauses-001",
+    "toeic-g-reduced-clauses-001",
+    "toeic-g-participles-001",
+    "toeic-g-noun-clauses-001",
+    "toeic-g-adverbial-clauses-001",
+    "toeic-g-connectors-001",
+    "toeic-g-articles-countability-001",
+    "toeic-g-determiners-quantifiers-001",
+    "toeic-g-comparison-001",
+    "toeic-g-parallelism-001",
+    "toeic-g-prepositions-collocations-001"
+  ],
+  "packIds": [
+    "toeic-grammar-pack-0001"
+  ],
+  "contentUpdatedAt": "2026-08-25T00:00:00Z"
+}

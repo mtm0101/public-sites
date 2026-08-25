@@ -1,0 +1,58 @@
+{
+  "schema": 1,
+  "id": "test-bank-manifest-v1",
+  "contentVersion": "c3cb5f048a33dd92845ee513a49aa0a7d38bc6fd2256a6590a269bd4bfcc3241",
+  "contentUpdatedAt": "2026-08-25T00:00:00Z",
+  "taxonomyPath": "taxonomy.json",
+  "statsPath": "bank-stats.json",
+  "packs": [
+    {
+      "id": "toeic-grammar-pack-0001",
+      "path": "question-bank/toeic/grammar/pack-0001.json",
+      "questionCount": 200,
+      "version": 1
+    }
+  ],
+  "tests": [
+    {
+      "id": "toeic-grammar-advanced-001",
+      "path": "definitions/toeic-grammar-advanced-001.json",
+      "questionCount": 20,
+      "version": 1,
+      "title": "Advanced TOEIC Grammar Test 1",
+      "titleVi": "Bài kiểm tra ngữ pháp TOEIC nâng cao số 1",
+      "examFamily": "toeic-lr",
+      "targetToeicRange": {
+        "min": 700,
+        "max": 990
+      },
+      "durationMinutes": 15
+    }
+  ],
+  "files": [
+    {
+      "id": "test-taxonomy-v1",
+      "path": "taxonomy.json",
+      "sha256": "25f1755f5d17105f8d8449d441e75976ff9efe5c7ae22354bf4525bcdab500d7",
+      "bytes": 8669
+    },
+    {
+      "id": "toeic-grammar-pack-0001",
+      "path": "question-bank/toeic/grammar/pack-0001.json",
+      "sha256": "4ca78c82d3d3bbb070c72538b651e4c5e351b9f205181aabd321d4a2d7e11b94",
+      "bytes": 960226
+    },
+    {
+      "id": "toeic-grammar-advanced-001",
+      "path": "definitions/toeic-grammar-advanced-001.json",
+      "sha256": "d85c97e680329618a9e493ddae28517f150cc98f9b3fd49f49f26c7e84ed2adb",
+      "bytes": 1730
+    },
+    {
+      "id": "test-bank-stats-v1",
+      "path": "bank-stats.json",
+      "sha256": "bdeebdbfd1e65bb89f2fa3d7d5e44c34b7e860d2a3e56f15df0ef632c007e8cc",
+      "bytes": 1223
+    }
+  ]
+}

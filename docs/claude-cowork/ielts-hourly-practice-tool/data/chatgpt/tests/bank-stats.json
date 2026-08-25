@@ -1,0 +1,49 @@
+{
+  "schema": 1,
+  "id": "test-bank-stats-v1",
+  "generatedAt": "2026-08-25T00:00:00Z",
+  "totalQuestions": 200,
+  "publishedQuestions": 200,
+  "packCount": 1,
+  "testDefinitionCount": 1,
+  "duplicateIds": 0,
+  "duplicateFingerprints": 0,
+  "invalidQuestions": 0,
+  "byCategory": {
+    "grammar.adverbial-clauses": 10,
+    "grammar.articles-countability": 10,
+    "grammar.comparison": 10,
+    "grammar.conditionals": 10,
+    "grammar.connectors": 10,
+    "grammar.determiners-quantifiers": 10,
+    "grammar.gerund-infinitive": 10,
+    "grammar.modals": 10,
+    "grammar.noun-clauses": 10,
+    "grammar.parallelism": 10,
+    "grammar.participles": 10,
+    "grammar.passive-causative": 10,
+    "grammar.prepositions-collocations": 10,
+    "grammar.reduced-clauses": 10,
+    "grammar.relative-clauses": 10,
+    "grammar.subject-verb-agreement": 10,
+    "grammar.subjunctive": 10,
+    "grammar.verb-aspect": 10,
+    "grammar.verb-tense": 10,
+    "grammar.word-forms": 10
+  },
+  "byCefr": {
+    "B2": 100,
+    "C1": 100
+  },
+  "byDifficulty": {
+    "3": 80,
+    "4": 80,
+    "5": 40
+  },
+  "correctOptionDistribution": {
+    "A": 50,
+    "B": 50,
+    "C": 50,
+    "D": 50
+  }
+}

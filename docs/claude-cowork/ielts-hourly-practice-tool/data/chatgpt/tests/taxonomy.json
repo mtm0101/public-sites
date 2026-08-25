@@ -1,0 +1,266 @@
+{
+  "schema": 1,
+  "id": "test-taxonomy-v1",
+  "contentUpdatedAt": "2026-08-25T00:00:00Z",
+  "examFamilies": [
+    {
+      "id": "toeic-lr",
+      "label": "TOEIC Listening & Reading-style",
+      "provider": "Original Study App practice"
+    }
+  ],
+  "cefrLevels": [
+    "B1",
+    "B2",
+    "C1"
+  ],
+  "difficultyLevels": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "categories": [
+    {
+      "id": "grammar.word-forms",
+      "parentId": "grammar",
+      "label": {
+        "en": "Word forms",
+        "vi": "Từ loại"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for word forms.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về từ loại."
+      }
+    },
+    {
+      "id": "grammar.subject-verb-agreement",
+      "parentId": "grammar",
+      "label": {
+        "en": "Subject–verb agreement",
+        "vi": "Sự hòa hợp chủ ngữ–động từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for subject–verb agreement.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về sự hòa hợp chủ ngữ–động từ."
+      }
+    },
+    {
+      "id": "grammar.verb-tense",
+      "parentId": "grammar",
+      "label": {
+        "en": "Verb tense",
+        "vi": "Thì của động từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for verb tense.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về thì của động từ."
+      }
+    },
+    {
+      "id": "grammar.verb-aspect",
+      "parentId": "grammar",
+      "label": {
+        "en": "Verb aspect and sequence",
+        "vi": "Thể và trình tự thời gian"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for verb aspect and sequence.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về thể và trình tự thời gian."
+      }
+    },
+    {
+      "id": "grammar.passive-causative",
+      "parentId": "grammar",
+      "label": {
+        "en": "Passive voice and causatives",
+        "vi": "Câu bị động và cấu trúc nhờ khiến"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for passive voice and causatives.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về câu bị động và cấu trúc nhờ khiến."
+      }
+    },
+    {
+      "id": "grammar.gerund-infinitive",
+      "parentId": "grammar",
+      "label": {
+        "en": "Gerunds and infinitives",
+        "vi": "Danh động từ và động từ nguyên mẫu"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for gerunds and infinitives.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về danh động từ và động từ nguyên mẫu."
+      }
+    },
+    {
+      "id": "grammar.modals",
+      "parentId": "grammar",
+      "label": {
+        "en": "Modal verbs",
+        "vi": "Động từ khuyết thiếu"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for modal verbs.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về động từ khuyết thiếu."
+      }
+    },
+    {
+      "id": "grammar.conditionals",
+      "parentId": "grammar",
+      "label": {
+        "en": "Conditionals",
+        "vi": "Câu điều kiện"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for conditionals.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về câu điều kiện."
+      }
+    },
+    {
+      "id": "grammar.subjunctive",
+      "parentId": "grammar",
+      "label": {
+        "en": "Mandative subjunctive",
+        "vi": "Thức giả định sau yêu cầu/đề nghị"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for mandative subjunctive.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về thức giả định sau yêu cầu/đề nghị."
+      }
+    },
+    {
+      "id": "grammar.relative-clauses",
+      "parentId": "grammar",
+      "label": {
+        "en": "Relative clauses",
+        "vi": "Mệnh đề quan hệ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for relative clauses.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mệnh đề quan hệ."
+      }
+    },
+    {
+      "id": "grammar.reduced-clauses",
+      "parentId": "grammar",
+      "label": {
+        "en": "Reduced relative clauses",
+        "vi": "Mệnh đề quan hệ rút gọn"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for reduced relative clauses.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mệnh đề quan hệ rút gọn."
+      }
+    },
+    {
+      "id": "grammar.participles",
+      "parentId": "grammar",
+      "label": {
+        "en": "Participial clauses",
+        "vi": "Mệnh đề phân từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for participial clauses.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mệnh đề phân từ."
+      }
+    },
+    {
+      "id": "grammar.noun-clauses",
+      "parentId": "grammar",
+      "label": {
+        "en": "Noun clauses",
+        "vi": "Mệnh đề danh từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for noun clauses.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mệnh đề danh từ."
+      }
+    },
+    {
+      "id": "grammar.adverbial-clauses",
+      "parentId": "grammar",
+      "label": {
+        "en": "Adverbial clauses",
+        "vi": "Mệnh đề trạng ngữ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for adverbial clauses.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mệnh đề trạng ngữ."
+      }
+    },
+    {
+      "id": "grammar.connectors",
+      "parentId": "grammar",
+      "label": {
+        "en": "Conjunctions and prepositions",
+        "vi": "Liên từ và giới từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for conjunctions and prepositions.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về liên từ và giới từ."
+      }
+    },
+    {
+      "id": "grammar.articles-countability",
+      "parentId": "grammar",
+      "label": {
+        "en": "Articles and countability",
+        "vi": "Mạo từ và danh từ đếm được"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for articles and countability.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về mạo từ và danh từ đếm được."
+      }
+    },
+    {
+      "id": "grammar.determiners-quantifiers",
+      "parentId": "grammar",
+      "label": {
+        "en": "Determiners, pronouns, and quantifiers",
+        "vi": "Từ hạn định, đại từ và lượng từ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for determiners, pronouns, and quantifiers.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về từ hạn định, đại từ và lượng từ."
+      }
+    },
+    {
+      "id": "grammar.comparison",
+      "parentId": "grammar",
+      "label": {
+        "en": "Comparison and degree",
+        "vi": "So sánh và mức độ"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for comparison and degree.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về so sánh và mức độ."
+      }
+    },
+    {
+      "id": "grammar.parallelism",
+      "parentId": "grammar",
+      "label": {
+        "en": "Parallel structures",
+        "vi": "Cấu trúc song song"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for parallel structures.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về cấu trúc song song."
+      }
+    },
+    {
+      "id": "grammar.prepositions-collocations",
+      "parentId": "grammar",
+      "label": {
+        "en": "Prepositions and business collocations",
+        "vi": "Giới từ và kết hợp từ thương mại"
+      },
+      "description": {
+        "en": "Advanced workplace English practice for prepositions and business collocations.",
+        "vi": "Luyện tiếng Anh công sở nâng cao về giới từ và kết hợp từ thương mại."
+      }
+    }
+  ]
+}

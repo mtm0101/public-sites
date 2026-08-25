@@ -1,7 +1,7 @@
 {
   "spec": "ielts-practice-tool-spec-index",
-  "version": 5,
-  "updated": "2026-08-06",
+  "version": 6,
+  "updated": "2026-08-25",
   "toolRoot": "docs/claude-cowork/ielts-hourly-practice-tool",
   "pagesBase": "https://mtm0101.github.io/public-sites/claude-cowork/ielts-hourly-practice-tool/",
   "entryPoint": "specs/README.md",
@@ -100,13 +100,23 @@
       "appTab": "reading-test",
       "outputGlob": "data/chatgpt/dol/reading-test/*/questions.json",
       "manifest": "data/chatgpt/dol/reading-test/manifest.json"
+    },
+    {
+      "id": "test-simulator",
+      "file": "specs/12-test-simulator.md",
+      "shape": "generic-test-bank",
+      "appTab": "tests",
+      "outputGlob": "data/chatgpt/tests/**/*.json",
+      "manifest": "data/chatgpt/tests/manifest.json",
+      "skeleton": "data/templates/test-template.json"
     }
   ],
   "templates": {
     "platformJson": "data/templates/template-spec.json",
     "lessonSkeleton": "data/templates/lesson-template.json",
     "dynamicSkeleton": "data/templates/dynamic-template.json",
-    "bbcSkeleton": "data/templates/bbc-lesson-template.json"
+    "bbcSkeleton": "data/templates/bbc-lesson-template.json",
+    "testSkeleton": "data/templates/test-template.json"
   },
   "prompts": {
     "chatgptDir": "prompts/chatgpt/",
@@ -118,7 +128,8 @@
       { "id": "ielts-hourly", "taskPrompt": "prompts/chatgpt/ielts-hourly.md", "schedulerBaseline": "prompts/chatgpt/schedulers/ielts-hourly.scheduler.md" },
       { "id": "daily-news", "taskPrompt": "prompts/chatgpt/daily-news.md", "schedulerBaseline": "prompts/chatgpt/schedulers/daily-news.scheduler.md" },
       { "id": "worldcup-daily", "taskPrompt": "prompts/chatgpt/worldcup-daily.md", "schedulerBaseline": "prompts/chatgpt/schedulers/worldcup-daily.scheduler.md" },
-      { "id": "morning-brief", "taskPrompt": "prompts/chatgpt/morning-brief.md", "schedulerBaseline": "prompts/chatgpt/schedulers/morning-brief.scheduler.md" }
+      { "id": "morning-brief", "taskPrompt": "prompts/chatgpt/morning-brief.md", "schedulerBaseline": "prompts/chatgpt/schedulers/morning-brief.scheduler.md" },
+      { "id": "test-question-bank", "taskPrompt": "prompts/chatgpt/test-question-bank.md" }
     ]
   }
 }

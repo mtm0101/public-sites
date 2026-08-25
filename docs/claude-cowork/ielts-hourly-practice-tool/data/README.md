@@ -15,6 +15,7 @@ data/
 ├── ipa/               # US/UK pronunciation shards (app runtime data)
 ├── claude-cowork/     # Claude Cowork agent
 ├── chatgpt/           # ChatGPT scheduled tasks
+│   └── tests/         # Generic test manifest, taxonomy, definitions and immutable question packs
 └── codex/             # Codex / other agents (placeholder)
 ```
 
@@ -51,5 +52,6 @@ Each agent folder uses the same shape where applicable:
 - ChatGPT files must include **`-gpt-`** in the stem
 - Never put `manifest.json` here — it lives at tool root next to `index.html`
 - Files with `template` in the name are ignored by the converter
+- Test Simulator JSON is discovered through `data/chatgpt/tests/manifest.json` and intentionally excluded from the lesson manifest
 
 Spec detail: [specs/00-platform.md](../specs/00-platform.md)

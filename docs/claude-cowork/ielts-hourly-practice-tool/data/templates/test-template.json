@@ -1,0 +1,40 @@
+{
+  "schema": 1,
+  "id": "family-domain-pack-NNNN",
+  "version": 1,
+  "status": "draft",
+  "examFamily": "future-exam-family",
+  "questionType": "single-choice",
+  "questionCount": 1,
+  "immutability": "After publication, never change or reuse an ID/version.",
+  "questions": [
+    {
+      "id": "family-domain-category-NNNNN",
+      "version": 1,
+      "status": "draft",
+      "type": "single-choice",
+      "examFamily": "future-exam-family",
+      "examPart": "part-id",
+      "primaryCategoryId": "taxonomy.category-id",
+      "secondaryCategoryIds": [],
+      "categoryLabel": { "en": "Category", "vi": "Nhóm kiến thức" },
+      "cefr": "B2",
+      "difficulty": 3,
+      "targetToeicRange": { "min": 700, "max": 990 },
+      "prompt": { "en": "English question.", "vi": "Câu hỏi tiếng Việt." },
+      "options": [
+        { "id": "A", "text": { "en": "Option A", "vi": "Lựa chọn A" }, "correct": true, "explanation": { "en": "Exact reason A is correct.", "vi": "Lý do chính xác A đúng." } },
+        { "id": "B", "text": { "en": "Option B", "vi": "Lựa chọn B" }, "correct": false, "explanation": { "en": "Exact reason B is wrong.", "vi": "Lý do chính xác B sai." } },
+        { "id": "C", "text": { "en": "Option C", "vi": "Lựa chọn C" }, "correct": false, "explanation": { "en": "Exact reason C is wrong.", "vi": "Lý do chính xác C sai." } },
+        { "id": "D", "text": { "en": "Option D", "vi": "Lựa chọn D" }, "correct": false, "explanation": { "en": "Exact reason D is wrong.", "vi": "Lý do chính xác D sai." } }
+      ],
+      "correctOptionId": "A",
+      "explanation": {
+        "rule": { "en": "General rule.", "vi": "Quy tắc chung." },
+        "summary": { "en": "Why A is best here.", "vi": "Vì sao A phù hợp nhất." }
+      },
+      "fingerprint": "sha256-of-normalized-question-content",
+      "contentUpdatedAt": "YYYY-MM-DDTHH:MM:SSZ"
+    }
+  ]
+}

@@ -36,6 +36,7 @@ Machine-readable index: **[INDEX.json](./INDEX.json)**
 | [06-speaking-source.md](./06-speaking-source.md) | Speaking Q&A practice sets | 🗣 Speaking | `data/{source}/speaking/*.json` |
 | [10-listening-test.md](./10-listening-test.md) | DOL interactive Listening tests | 📝 Listening Test | `data/chatgpt/dol/listening/*/questions.json` |
 | [11-reading-test.md](./11-reading-test.md) | DOL interactive Reading tests | 🧾 Reading Test | `data/chatgpt/dol/reading-test/*/questions.json` |
+| [12-test-simulator.md](./12-test-simulator.md) | Generic fixed/generated test simulator | 🧪 Test Simulator | `data/chatgpt/tests/**/*.json` |
 
 `{source}` = `claude-cowork` | `chatgpt` | `codex` | your agent folder name.
 
@@ -49,6 +50,7 @@ Machine-readable index: **[INDEX.json](./INDEX.json)**
 | [`data/templates/lesson-template.json`](../data/templates/lesson-template.json) | Schema-1 IELTS lesson skeleton |
 | [`data/templates/dynamic-template.json`](../data/templates/dynamic-template.json) | Schema-2 generic content skeleton |
 | [`data/templates/bbc-lesson-template.json`](../data/templates/bbc-lesson-template.json) | BBC episode skeleton |
+| [`data/templates/test-template.json`](../data/templates/test-template.json) | Immutable generic test-question pack skeleton |
 
 ---
 
